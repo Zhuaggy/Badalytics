@@ -1,0 +1,73 @@
+,PLAYERS,COUNTRIES,SCORES,EVENT,match_week
+0,"['TANG Chun Man', 'TSE Ying Suet', 'Praveen JORDAN', 'Debby SUSANTO']","['[HKG] ', '[HKG] ', '[INA] ', '[INA] ']","['21-13', '14-21', '21-16']",XD - Group A ,20171213
+1,"['Marcus Fernaldi GIDEON', 'Kevin Sanjaya SUKAMULJO', 'Mads CONRAD-PETERSEN', 'Mads Pieler KOLDING']","['[INA] ', '[INA] ', '[DEN] ', '[DEN] ']","['21-6', '21-16']",MD - Group A ,20171213
+2,"['LEE Chong Wei', 'NG Ka Long Angus']","['[MAS] ', '[HKG] ']","['21-14', '21-13']",MS - Group A ,20171213
+3,"['Ratchanok INTANON', 'SUNG Ji Hyun']","['[THA] ', '[KOR] ']","['21-19', '21-16']",WS - Group B ,20171213
+4,"['Mathias BOE', 'Carsten MOGENSEN', 'Takuro HOKI', 'Yugo KOBAYASHI']","['[DEN] ', '[DEN] ', '[JPN] ', '[JPN] ']","['21-18', '21-14']",MD - Group B ,20171213
+5,"['Kamilla Rytter JUHL', 'Christinna PEDERSEN', 'JUNG Kyung Eun', 'SHIN Seung Chan']","['[DEN] ', '[DEN] ', '[KOR] ', '[KOR] ']","['21-18', '21-10']",WD - Group B ,20171213
+6,"['Tontowi AHMAD', 'Liliyana NATSIR', 'Chris ADCOCK', 'Gabrielle ADCOCK']","['[INA] ', '[INA] ', '[ENG] ', '[ENG] ']","['21-18', '18-21', '21-14']",XD - Group B ,20171213
+7,"['PUSARLA V. Sindhu', 'HE Bingjiao']","['[IND] ', '[CHN] ']","['21-11', '16-21', '21-18']",WS - Group A ,20171213
+8,"['Viktor AXELSEN', 'KIDAMBI Srikanth']","['[DEN] ', '[IND] ']","['21-13', '21-17']",MS - Group B ,20171213
+9,"['TAI Tzu Ying', 'CHEN Yufei']","['[TPE] ', '[CHN] ']","['15-21', '21-12', '21-17']",WS - Group B ,20171213
+10,"['ZHENG Siwei', 'CHEN Qingchen', 'Kenta KAZUNO', 'Ayane KURIHARA']","['[CHN] ', '[CHN] ', '[JPN] ', '[JPN] ']","['21-16', '21-12']",XD - Group A ,20171213
+11,"['LIU Cheng', 'ZHANG Nan', 'LEE Jhe-Huei', 'LEE Yang']","['[CHN] ', '[CHN] ', '[TPE] ', '[TPE] ']","['21-19', '24-26', '21-14']",MD - Group B ,20171213
+12,"['WANG Yilyu', 'HUANG Dongping', 'TAN Kian Meng', 'LAI Pei Jing']","['[CHN] ', '[CHN] ', '[MAS] ', '[MAS] ']","['21-12', '21-11']",XD - Group B ,20171213
+13,"['Yuki FUKUSHIMA', 'Sayaka HIROTA', 'HSU Ya Ching', 'WU Ti Jung']","['[JPN] ', '[JPN] ', '[TPE] ', '[TPE] ']","['21-13', '21-13']",WD - Group B ,20171213
+14,"['HUANG Yaqiong', 'YU Xiaohan', 'CHEN Qingchen', 'JIA Yifan']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['21-14', '16-21', '21-19']",WD - Group A ,20171213
+15,"['SHI Yuqi', 'CHOU Tien Chen']","['[CHN] ', '[TPE] ']","['21-19', '21-17']",MS - Group B ,20171213
+16,"['Akane YAMAGUCHI', 'Sayaka SATO']","['[JPN] ', '[JPN] ']","['21-12', '21-19']",WS - Group A ,20171213
+17,"['Takeshi KAMURA', 'Keigo SONODA', 'LI Junhui', 'LIU Yuchen']","['[JPN] ', '[JPN] ', '[CHN] ', '[CHN] ']","['21-17', '21-17']",MD - Group A ,20171213
+18,"['CHANG Ye Na', 'LEE So Hee', 'Shiho TANAKA', 'Koharu YONEMOTO']","['[KOR] ', '[KOR] ', '[JPN] ', '[JPN] ']","['21-16', '21-10']",WD - Group A ,20171213
+19,"['NG Ka Long Angus', 'SON Wan Ho']","['[HKG] ', '[KOR] ']","['21-15', '13-21', '21-16']",MS - Group A ,20171213
+20,"['LIU Cheng', 'ZHANG Nan', 'Takuro HOKI', 'Yugo KOBAYASHI']","['[CHN] ', '[CHN] ', '[JPN] ', '[JPN] ']","['21-18', '21-15']",MD - Group B ,20171213
+21,"['Mads CONRAD-PETERSEN', 'Mads Pieler KOLDING', 'LI Junhui', 'LIU Yuchen']","['[DEN] ', '[DEN] ', '[CHN] ', '[CHN] ']","['21-14', '21-13']",MD - Group A ,20171213
+22,"['Ratchanok INTANON', 'TAI Tzu Ying']","['[THA] ', '[TPE] ']","['21-18', '21-17']",WS - Group B ,20171213
+23,"['SHI Yuqi', 'Viktor AXELSEN']","['[CHN] ', '[DEN] ']","['13-21', '21-18', '21-17']",MS - Group B ,20171213
+24,"['Kamilla Rytter JUHL', 'Christinna PEDERSEN', 'HSU Ya Ching', 'WU Ti Jung']","['[DEN] ', '[DEN] ', '[TPE] ', '[TPE] ']","['20-22', '21-13', '21-17']",WD - Group B ,20171213
+25,"['CHOU Tien Chen', 'KIDAMBI Srikanth']","['[TPE] ', '[IND] ']","['21-18', '21-18']",MS - Group B ,20171213
+26,"['Tontowi AHMAD', 'Liliyana NATSIR', 'TAN Kian Meng', 'LAI Pei Jing']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['21-17', '21-19']",XD - Group B ,20171213
+27,"['Takeshi KAMURA', 'Keigo SONODA', 'Marcus Fernaldi GIDEON', 'Kevin Sanjaya SUKAMULJO']","['[JPN] ', '[JPN] ', '[INA] ', '[INA] ']","['21-17', '21-17']",MD - Group A ,20171213
+28,"['PUSARLA V. Sindhu', 'Sayaka SATO']","['[IND] ', '[JPN] ']","['21-13', '21-12']",WS - Group A ,20171213
+29,"['ZHENG Siwei', 'CHEN Qingchen', 'Praveen JORDAN', 'Debby SUSANTO']","['[CHN] ', '[CHN] ', '[INA] ', '[INA] ']","['21-12', '19-21', '21-16']",XD - Group A ,20171213
+30,"['Shiho TANAKA', 'Koharu YONEMOTO', 'HUANG Yaqiong', 'YU Xiaohan']","['[JPN] ', '[JPN] ', '[CHN] ', '[CHN] ']","['21-16', '21-16']",WD - Group A ,20171213
+31,"['Akane YAMAGUCHI', 'HE Bingjiao']","['[JPN] ', '[CHN] ']","['21-14', '13-21', '21-8']",WS - Group A ,20171213
+32,"['CHEN Yufei', 'SUNG Ji Hyun']","['[CHN] ', '[KOR] ']","['21-16', '21-13']",WS - Group B ,20171213
+33,"['Mathias BOE', 'Carsten MOGENSEN', 'LEE Jhe-Huei', 'LEE Yang']","['[DEN] ', '[DEN] ', '[TPE] ', '[TPE] ']","['21-14', '21-19']",MD - Group B ,20171213
+34,"['WANG Yilyu', 'HUANG Dongping', 'Chris ADCOCK', 'Gabrielle ADCOCK']","['[CHN] ', '[CHN] ', '[ENG] ', '[ENG] ']","['21-14', '21-17']",XD - Group B ,20171213
+35,"['Yuki FUKUSHIMA', 'Sayaka HIROTA', 'JUNG Kyung Eun', 'SHIN Seung Chan']","['[JPN] ', '[JPN] ', '[KOR] ', '[KOR] ']","['21-18', '21-13']",WD - Group B ,20171213
+36,"['TANG Chun Man', 'TSE Ying Suet', 'Kenta KAZUNO', 'Ayane KURIHARA']","['[HKG] ', '[HKG] ', '[JPN] ', '[JPN] ']","['21-16', '16-21', '21-6']",XD - Group A ,20171213
+37,"['CHEN Qingchen', 'JIA Yifan', 'CHANG Ye Na', 'LEE So Hee']","['[CHN] ', '[CHN] ', '[KOR] ', '[KOR] ']","['21-14', '21-17']",WD - Group A ,20171213
+38,"['Chris ADCOCK', 'Gabrielle ADCOCK', 'TAN Kian Meng', 'LAI Pei Jing']","['[ENG] ', '[ENG] ', '[MAS] ', '[MAS] ']","['21-13', '21-16']",XD - Group B ,20171213
+39,"['JUNG Kyung Eun', 'SHIN Seung Chan', 'HSU Ya Ching', 'WU Ti Jung']","['[KOR] ', '[KOR] ', '[TPE] ', '[TPE] ']","['21-9', '17-21', '21-11']",WD - Group B ,20171213
+40,"['Yuki FUKUSHIMA', 'Sayaka HIROTA', 'Kamilla Rytter JUHL', 'Christinna PEDERSEN']","['[JPN] ', '[JPN] ', '[DEN] ', '[DEN] ']","['21-12', '21-12']",WD - Group B ,20171213
+41,"['Takeshi KAMURA', 'Keigo SONODA', 'Mads CONRAD-PETERSEN', 'Mads Pieler KOLDING']","['[JPN] ', '[JPN] ', '[DEN] ', '[DEN] ']","['21-9', '21-19']",MD - Group A ,20171213
+42,"['TAI Tzu Ying', 'SUNG Ji Hyun']","['[TPE] ', '[KOR] ']","['21-17', '21-11']",WS - Group B ,20171213
+43,"['Marcus Fernaldi GIDEON', 'Kevin Sanjaya SUKAMULJO', 'LI Junhui', 'LIU Yuchen']","['[INA] ', '[INA] ', '[CHN] ', '[CHN] ']","['19-21', '21-16', '21-18']",MD - Group A ,20171213
+44,"['Viktor AXELSEN', 'CHOU Tien Chen']","['[DEN] ', '[TPE] ']","['21-16', '14-21', '21-15']",MS - Group B ,20171213
+45,"['PUSARLA V. Sindhu', 'Akane YAMAGUCHI']","['[IND] ', '[JPN] ']","['21-9', '21-13']",WS - Group A ,20171213
+46,"['SON Wan Ho', 'LEE Chong Wei']","['[KOR] ', '[MAS] ']","['13-21', '22-20', '21-15']",MS - Group A ,20171213
+47,"['SHI Yuqi', 'KIDAMBI Srikanth']","['[CHN] ', '[IND] ']","['21-17', '19-21', '21-14']",MS - Group B ,20171213
+48,"['ZHENG Siwei', 'CHEN Qingchen', 'TANG Chun Man', 'TSE Ying Suet']","['[CHN] ', '[CHN] ', '[HKG] ', '[HKG] ']","['21-10', '21-18']",XD - Group A ,20171213
+49,"['WANG Yilyu', 'HUANG Dongping', 'Tontowi AHMAD', 'Liliyana NATSIR']","['[CHN] ', '[CHN] ', '[INA] ', '[INA] ']","['21-9', '11-21', '21-11']",XD - Group B ,20171213
+50,"['CHEN Yufei', 'Ratchanok INTANON']","['[CHN] ', '[THA] ']","['21-18', '13-21', '21-18']",WS - Group B ,20171213
+51,"['LIU Cheng', 'ZHANG Nan', 'Mathias BOE', 'Carsten MOGENSEN']","['[CHN] ', '[CHN] ', '[DEN] ', '[DEN] ']","['21-18', '21-13']",MD - Group B ,20171213
+52,"['HUANG Yaqiong', 'YU Xiaohan', 'CHANG Ye Na', 'LEE So Hee']","['[CHN] ', '[CHN] ', '[KOR] ', '[KOR] ']","['21-12', '21-14']",WD - Group A ,20171213
+53,"['Kenta KAZUNO', 'Ayane KURIHARA', 'Praveen JORDAN', 'Debby SUSANTO']","['[JPN] ', '[JPN] ', '[INA] ', '[INA] ']","['21-13', '21-17']",XD - Group A ,20171213
+54,"['Sayaka SATO', 'HE Bingjiao']","['[JPN] ', '[CHN] ']","['21-18', '21-16']",WS - Group A ,20171213
+55,"['LEE Jhe-Huei', 'LEE Yang', 'Takuro HOKI', 'Yugo KOBAYASHI']","['[TPE] ', '[TPE] ', '[JPN] ', '[JPN] ']","['15-21', '21-15', '21-16']",MD - Group B ,20171213
+56,"['Shiho TANAKA', 'Koharu YONEMOTO', 'CHEN Qingchen', 'JIA Yifan']","['[JPN] ', '[JPN] ', '[CHN] ', '[CHN] ']","['21-15', '21-15']",WD - Group A ,20171213
+57,"['Yuki FUKUSHIMA', 'Sayaka HIROTA', 'HUANG Yaqiong', 'YU Xiaohan']","['[JPN] ', '[JPN] ', '[CHN] ', '[CHN] ']","['21-13', '21-14']",WD ,20171213
+58,"['Marcus Fernaldi GIDEON', 'Kevin Sanjaya SUKAMULJO', 'Takeshi KAMURA', 'Keigo SONODA']","['[INA] ', '[INA] ', '[JPN] ', '[JPN] ']","['21-10', '18-21', '21-16']",MD ,20171213
+59,"['Shiho TANAKA', 'Koharu YONEMOTO', 'Kamilla Rytter JUHL', 'Christinna PEDERSEN']","['[JPN] ', '[JPN] ', '[DEN] ', '[DEN] ']","['21-19', '21-19']",WD ,20171213
+60,"['LIU Cheng', 'ZHANG Nan', 'Mathias BOE', 'Carsten MOGENSEN']","['[CHN] ', '[CHN] ', '[DEN] ', '[DEN] ']","['21-17', '21-16']",MD ,20171213
+61,"['TANG Chun Man', 'TSE Ying Suet', 'WANG Yilyu', 'HUANG Dongping']","['[HKG] ', '[HKG] ', '[CHN] ', '[CHN] ']","['18-21', '21-18', '21-17']",XD ,20171213
+62,"['Akane YAMAGUCHI', 'Ratchanok INTANON']","['[JPN] ', '[THA] ']","['17-21', '21-12', '21-19']",WS ,20171213
+63,"['Viktor AXELSEN', 'SHI Yuqi']","['[DEN] ', '[CHN] ']","['21-12', '21-8']",MS ,20171213
+64,"['ZHENG Siwei', 'CHEN Qingchen', 'Tontowi AHMAD', 'Liliyana NATSIR']","['[CHN] ', '[CHN] ', '[INA] ', '[INA] ']","['21-12', '21-17']",XD ,20171213
+65,"['PUSARLA V. Sindhu', 'CHEN Yufei']","['[IND] ', '[CHN] ']","['21-15', '21-18']",WS ,20171213
+66,"['LEE Chong Wei', 'SON Wan Ho']","['[MAS] ', '[KOR] ']","['21-17', '21-11']",MS ,20171213
+67,"['ZHENG Siwei', 'CHEN Qingchen', 'TANG Chun Man', 'TSE Ying Suet']","['[CHN] ', '[CHN] ', '[HKG] ', '[HKG] ']","['21-15', '22-20']",XD ,20171213
+68,"['Akane YAMAGUCHI', 'PUSARLA V. Sindhu']","['[JPN] ', '[IND] ']","['15-21', '21-12', '21-19']",WS ,20171213
+69,"['Marcus Fernaldi GIDEON', 'Kevin Sanjaya SUKAMULJO', 'LIU Cheng', 'ZHANG Nan']","['[INA] ', '[INA] ', '[CHN] ', '[CHN] ']","['21-16', '21-15']",MD ,20171213
+70,"['Shiho TANAKA', 'Koharu YONEMOTO', 'Yuki FUKUSHIMA', 'Sayaka HIROTA']","['[JPN] ', '[JPN] ', '[JPN] ', '[JPN] ']","['21-16', '21-15']",WD ,20171213
+71,"['Viktor AXELSEN', 'LEE Chong Wei']","['[DEN] ', '[MAS] ']","['19-21', '21-19', '21-15']",MS ,20171213

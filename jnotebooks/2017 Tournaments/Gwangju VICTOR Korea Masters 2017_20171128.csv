@@ -1,0 +1,229 @@
+,PLAYERS,COUNTRIES,SCORES,EVENT,match_week
+0,"['Lee Ji Hye', 'Chung Yu Feng']","['[KOR] ', '[TPE] ']","['21-16', '21-13']",WS - Qualification,20171128
+1,"['Kim Dong Joo', 'Choi Hye In', 'Chen Xin-Yuan', 'Yu Chien Hui']","['[KOR] ', '[KOR] ', '[TPE] ', '[TPE] ']","['21-14', '21-14']",XD - Qualification,20171128
+2,"['Yang Ming-Tse [3]', 'Sung Shuo Yun', 'Choi Hyuk Gyun', 'Lee Yu Rim']","['[TPE] ', '[TPE] ', '[KOR] ', '[KOR] ']","['19-21', '21-16', '21-18']",XD - Qualification,20171128
+3,"['Chen Sihang', 'Xia Yuting', 'Park Mu Hyun', 'Yoon Min Ah']","['[CHN] ', '[CHN] ', '[KOR] ', '[KOR] ']","['21-15', '21-16']",XD - Qualification,20171128
+4,"['Kim Hwi Tae', 'Kim So Yeong', 'Lee Jhe-Huei', 'Wu Ti Jung']","['[KOR] ', '[KOR] ', '[TPE] ', '[TPE] ']","['21-11', '23-21']",XD - Qualification,20171128
+5,"['Kim Dukyoung [4]', 'Kim Hye Rin', 'Fan Qiuyue', 'Liu Xuanxuan']","['[KOR] ', '[KOR] ', '[CHN] ', '[CHN] ']","['21-16', '13-21', '21-18']",XD - Qualification,20171128
+6,"['Lee Ju Won', 'Heo In']","['[KOR] ', '[KOR] ']","['21-18', '21-18']",MS - Qualification,20171128
+7,"['Choi Hyun Beom', 'Park Hyun Sik']","['[KOR] ', '[KOR] ']","['21-19', '21-18']",MS - Qualification,20171128
+8,"['Jung Woo Jin', 'Lee Sang Hyun']","['[KOR] ', '[KOR] ']","['19-21', '21-18', '21-18']",MS - Qualification,20171128
+9,"['Lee Yoon Kyu', 'Kang Min Woo']","['[KOR] ', '[KOR] ']","['21-15', '22-20']",MS - Qualification,20171128
+10,"['Hong Su Ho', 'Kim Kyung Hoon']","['[KOR] ', '[KOR] ']","['9-21', '21-17', '21-19']",MS - Qualification,20171128
+11,"['Hong Ji Hoon', 'Kim Dong Hun']","['[KOR] ', '[KOR] ']","['21-12', '21-12']",MS - Qualification,20171128
+12,"['Jang Hyun Seok', 'Yang Jae Wook']","['[KOR] ', '[KOR] ']","['21-15', '21-12']",MS - Qualification,20171128
+13,"['Kim Yong Hyun', 'Han Sueng Hun']","['[KOR] ', '[KOR] ']","['21-8', '19-21', '21-14']",MS - Qualification,20171128
+14,"['Park Byeong Hun', 'Yoo Seok Joo', 'Kim Gyu Min', 'Lee In Kyu']","['[KOR] ', '[KOR] ', '[KOR] ', '[KOR] ']","['21-18', '18-21', '21-9']",MD - Qualification,20171128
+15,"['Kim Dong Joo', 'Yim Jong Keun', 'Jang Ho Sang', 'Ra Min Young']","['[KOR] ', '[KOR] ', '[KOR] ', '[KOR] ']","['21-17', '21-23', '21-10']",MD - Qualification,20171128
+16,"['Jung Tae In', 'Kim Young Hyuk', 'Lau Yu Leong, Alfred', 'Lau Yu Ming, Adam']","['[KOR] ', '[KOR] ', '[MAS] ', '[MAS] ']","['18-21', '21-16', '21-7']",MD - Qualification,20171128
+17,"['Ahn Jin Ha', 'Park Moon Sun', 'Liu Wei Chi', 'Lu Chia Hung']","['[KOR] ', '[KOR] ', '[TPE] ', '[TPE] ']","['15-21', '21-12', '21-10']",MD - Qualification,20171128
+18,"['Choi Ho Jin', 'Lee Soon Chul', 'Baek Dae Hyun', 'Ko Seok Gun']","['[KOR] ', '[KOR] ', '[KOR] ', '[KOR] ']","['21-19', '21-17']",MD - Qualification,20171128
+19,"['Baek Seol Am', 'Kim Yong Joon', 'Oh Jae Ho', 'Yoo Ha Neul']","['[KOR] ', '[KOR] ', '[KOR] ', '[KOR] ']","['21-14', '21-13']",MD - Qualification,20171128
+20,"['Kim Hwi Tae', 'Kim So Yeong', 'Kim Dukyoung [4]', 'Kim Hye Rin']","['[KOR] ', '[KOR] ', '[KOR] ', '[KOR] ']","['21-17', '5-21', '21-15']",XD - Qualification,20171128
+21,"['Han Yo Saeb', 'Kim Jung Ho', 'Di Zijian [4]', 'Wang Chang']","['[KOR] ', '[KOR] ', '[CHN] ', '[CHN] ']","['17-21', '22-20', '21-17']",MD - Qualification,20171128
+22,"['Chen Sihang', 'Xia Yuting', 'Yang Ming-Tse [3]', 'Sung Shuo Yun']","['[CHN] ', '[CHN] ', '[TPE] ', '[TPE] ']","['21-12', '21-19']",XD - Qualification,20171128
+23,"['Park Kyung Hoon', 'Baek Ha Na', 'Bae Kwon Young', 'Bang Ji Sun']","['[KOR] ', '[KOR] ', '[KOR] ', '[KOR] ']","['21-13', '21-15']",XD - Qualification,20171128
+24,"['Lee Ji Hye', 'Park Sang Eun']","['[KOR] ', '[KOR] ']","['21-19', '21-10']",WS - Qualification,20171128
+25,"['Choi Ye Jin', 'Lim Soo Bin']","['[KOR] ', '[KOR] ']",['21-12'],WS - Qualification,20171128
+26,"['Ki Bo Hyun', 'Manassanan Lerthattasin [3]']","['[KOR] ', '[THA] ']","['11-21', '21-19', '21-19']",WS - Qualification,20171128
+27,"['Choi Yoo Ri', 'Kim Ho Yeon']","['[KOR] ', '[KOR] ']","['21-19', '21-17']",WS - Qualification,20171128
+28,"['Kim Ye Ji', 'Lin Ying Chun [4]']","['[KOR] ', '[TPE] ']","['16-21', '21-11', '21-16']",WS - Qualification,20171128
+29,"['Bae Ji Won', 'Han So Yeon']","['[KOR] ', '[KOR] ']","['21-9', '21-11']",WS - Qualification,20171128
+30,"['Ko Joon Hyung', 'Lee Ju Won']","['[KOR] ', '[KOR] ']","['24-26', '21-14', '21-12']",MS - Qualification,20171128
+31,"['Kim Dong Wook', 'Lee Hyun Min']","['[KOR] ', '[KOR] ']","['21-10', '14-21', '21-16']",MS - Qualification,20171128
+32,"['Kim Dong Joo', 'Choi Hye In', 'Wang Chang', 'Feng Zixia']","['[KOR] ', '[KOR] ', '[CHN] ', '[CHN] ']","['21-15', '21-12']",XD - Qualification,20171128
+33,"['Choi Hyun Beom', 'Jung Woo Jin']","['[KOR] ', '[KOR] ']","['22-24', '21-15', '21-15']",MS - Qualification,20171128
+34,"['Lee Yoon Kyu', 'Hong Su Ho']","['[KOR] ', '[KOR] ']","['21-12', '21-18']",MS - Qualification,20171128
+35,"['Hong Ji Hoon', 'Kim Hyun Kyu']","['[KOR] ', '[KOR] ']","['21-12', '21-13']",MS - Qualification,20171128
+36,"['Choi Yoo Ri', 'Ki Bo Hyun']","['[KOR] ', '[KOR] ']","['21-17', '21-23', '21-9']",WS - Qualification,20171128
+37,"['Ahn Jin Ha', 'Park Moon Sun', 'Choi Seung Il', 'Kim Han Soo']","['[KOR] ', '[KOR] ', '[KOR] ', '[KOR] ']",['11-4'],MD - Qualification,20171128
+38,"['Choi Ho Jin', 'Lee Soon Chul', 'Baek Seol Am', 'Kim Yong Joon']","['[KOR] ', '[KOR] ', '[KOR] ', '[KOR] ']","['21-15', '21-9']",MD - Qualification,20171128
+39,"['Lee Byeol Lim', 'Choi Ye Jin']","['[KOR] ', '[KOR] ']","['21-18', '21-15']",WS - Qualification,20171128
+40,"['Bae Ji Won', 'Park Min Jeong']","['[KOR] ', '[KOR] ']","['21-12', '21-15']",WS - Qualification,20171128
+41,"['Kim Ye Ji', 'Lee Ji Hye']","['[KOR] ', '[KOR] ']","['21-16', '21-13']",WS - Qualification,20171128
+42,"['Kim Dong Joo', 'Yim Jong Keun', 'Park Byeong Hun', 'Yoo Seok Joo']","['[KOR] ', '[KOR] ', '[KOR] ', '[KOR] ']","['21-8', '21-16']",MD - Qualification,20171128
+43,"['Jung Tae In', 'Kim Young Hyuk', 'Han Yo Saeb', 'Kim Jung Ho']","['[KOR] ', '[KOR] ', '[KOR] ', '[KOR] ']","['21-13', '19-21', '21-19']",MD - Qualification,20171128
+44,"['Heo Kwang Hee', 'Andrew Rouse']","['[KOR] ', '[NZL] ']","['21-8', '21-17']",MS,20171128
+45,"['Son Wan Ho [1]', 'Hsueh Hsuan Yi']","['[KOR] ', '[TPE] ']","['21-19', '21-12']",MS,20171128
+46,"['Bai Yupeng', 'Suppanyu Avihingsanon [13]']","['[CHN] ', '[THA] ']","['21-9', '21-15']",MS,20171128
+47,"['Soong Joo Ven', 'Milan Ludik']","['[MAS] ', '[CZE] ']","['21-13', '21-18']",MS,20171128
+48,"['Tanongsak Saensomboonsuk [3]', 'Pavel Kotsarenko']","['[THA] ', '[RUS] ']","['21-13', '21-17']",MS,20171128
+49,"['Pannawit Thongnuam [15]', 'Kan Chao Yu']","['[THA] ', '[TPE] ']","['21-6', '21-9']",MS,20171128
+50,"['Ko Gyung Bo', 'Kim Dong Wook']","['[KOR] ', '[KOR] ']","['21-8', '21-16']",MS,20171128
+51,"['Lee Chia Hao', 'Noh Ju Hong']","['[TPE] ', '[KOR] ']","['21-13', '21-17']",MS,20171128
+52,"['Lee Yoon Kyu', 'Choi Hyun Beom']","['[KOR] ', '[KOR] ']","['19-21', '21-16', '21-15']",MS,20171128
+53,"['Lin Chia Hsuan', 'Iskandar Zulkarnain']","['[TPE] ', '[MAS] ']","['21-17', '10-21', '21-18']",MS,20171128
+54,"['Panji Ahmad Maulana', 'Jang Hyun Seok']","['[INA] ', '[KOR] ']","['21-17', '23-25', '21-18']",MS,20171128
+55,"['Liang Hua Chun', 'Pit Seng Low']","['[TPE] ', '[AUS] ']","['21-9', '21-14']",MS,20171128
+56,"['Hsu Jen Hao [6]', 'Yehezkiel Fritz Mainaky']","['[TPE] ', '[INA] ']","['21-11', '21-10']",MS,20171128
+57,"['Lee Dong Keun [11]', 'Daren Liew']","['[KOR] ', '[MAS] ']","['21-9', '21-18']",MS,20171128
+58,"['Firman Abdul Kholik', 'Lau Yu Ming, Adam']","['[INA] ', '[MAS] ']","['21-16', '21-17']",MS,20171128
+59,"['Woo Seung Hoon', 'Edwin Ekiring']","['[KOR] ', '[UGA] ']","['21-7', '21-4']",MS,20171128
+60,"['Kim Min Ki', 'Liu Wei Chi']","['[KOR] ', '[TPE] ']","['21-16', '15-21', '21-12']",MS,20171128
+61,"['Ha Young Woong', 'Kartikey Gulshan Kumar']","['[KOR] ', '[IND] ']","['21-13', '21-16']",MS,20171128
+62,"['Brice Leverdez [5]', 'Kai Ho Tang']","['[FRA] ', '[ENG] ']","['21-5', '21-7']",MS,20171128
+63,"['Yim Jong Woo', 'Um Ji Kwan']","['[KOR] ', '[KOR] ']","['21-14', '19-21', '21-5']",MS,20171128
+64,"['Zhou Zeqi', 'Sergey Sirant']","['[CHN] ', '[RUS] ']","['21-9', '21-15']",MS,20171128
+65,"['Adulrach Namkul', 'Anthony Joe']","['[THA] ', '[AUS] ']","['21-17', '21-4']",MS,20171128
+66,"['Ihsan Maulana Mustofa [16]', 'Lu Chia Hung']","['[INA] ', '[TPE] ']","['21-19', '17-21', '21-16']",MS,20171128
+67,"['Hong Ji Hoon', 'Park Sung Min']","['[KOR] ', '[KOR] ']","['21-12', '21-14']",MS,20171128
+68,"['Khosit Phetpradab [7]', 'Chen Chun-Wei']","['[THA] ', '[TPE] ']","['21-12', '22-20']",MS,20171128
+69,"['Jeon Hyeok Jin [4]', 'Chang En Chia']","['[KOR] ', '[TPE] ']","['21-9', '22-20']",MS,20171128
+70,"['Chong Wei Feng [9]', 'Kim Yong Hyun']","['[MAS] ', '[KOR] ']","['15-21', '21-14', '21-13']",MS,20171128
+71,"['Ren Pengbo', 'Lau Yu Leong, Alfred']","['[CHN] ', '[MAS] ']","['21-12', '21-14']",MS,20171128
+72,"['Kantaphon Wangcharoen', 'Wang Tzu Wei [2]']","['[THA] ', '[TPE] ']","['21-19', '10-21', '21-16']",MS,20171128
+73,"['Lu Guangzu', 'Ko Joon Hyung']","['[CHN] ', '[KOR] ']","['23-25', '21-14', '21-16']",MS,20171128
+74,"['Lee Hyun Deok', 'Rho Ye Wook']","['[KOR] ', '[KOR] ']","['16-21', '2-1']",MS,20171128
+75,"['Hwang Jong Soo', 'Tan Jia Wei']","['[KOR] ', '[MAS] ']","['21-16', '21-17']",MS,20171128
+76,"['Choi Solgyu [1]', 'Chae Yoo Jung', 'Tseng Min Hao', 'Hu Ling Fang']","['[KOR] ', '[KOR] ', '[TPE] ', '[TPE] ']","['21-18', '21-10']",XD,20171128
+77,"['Son Wan Ho [1]', 'Heo Kwang Hee']","['[KOR] ', '[KOR] ']","['21-10', '21-14']",MS,20171128
+78,"['Sung Ji Hyun [1]', 'Kim Ye Ji']","['[KOR] ', '[KOR] ']","['23-21', '21-10']",WS,20171128
+79,"['Kang Min Hyuk', 'Lee Hong Sub', 'Kim Dong Joo', 'Yim Jong Keun']","['[KOR] ', '[KOR] ', '[KOR] ', '[KOR] ']","['21-16', '24-26', '21-16']",MD,20171128
+80,"['Lyanny Alessandra Mainaky', 'Chiang Mei Hui']","['[INA] ', '[TPE] ']","['21-19', '16-21', '22-20']",WS,20171128
+81,"['Kim Min Ki', 'Bai Yupeng']","['[KOR] ', '[CHN] ']","['21-15', '18-21', '21-18']",MS,20171128
+82,"['Jung Jae Wook', 'Kim Gi Jung', 'Chang Ko-Chi', 'Lu Chia Pin']","['[KOR] ', '[KOR] ', '[TPE] ', '[TPE] ']","['21-16', '21-16']",MD,20171128
+83,"['Firman Abdul Kholik', 'Hsu Jen Hao [6]']","['[INA] ', '[TPE] ']","['21-15', '21-13']",MS,20171128
+84,"['Zhang Yiman', 'Sung Shuo Yun']","['[CHN] ', '[TPE] ']","['21-17', '21-13']",WS,20171128
+85,"['Lee Yang', 'Hsu Ya Ching', 'Tinn Isriyanet', 'Pacharapun Chochuwong']","['[TPE] ', '[TPE] ', '[THA] ', '[THA] ']","['26-24', '19-21', '21-17']",XD,20171128
+86,"['Soniia Cheah', 'Fitriani Fitriani [6]']","['[MAS] ', '[INA] ']","['21-18', '16-21', '21-16']",WS,20171128
+87,"['Soong Joo Ven', 'Ko Gyung Bo']","['[MAS] ', '[KOR] ']","['21-9', '21-13']",MS,20171128
+88,"['Robert Mateusiak', 'Olga Konon', 'Po Li-Wei', 'Chang Ching Hui']","['[POL] ', '[GER] ', '[TPE] ', '[TPE] ']","['21-19', '21-15']",XD,20171128
+89,"['Lee Chia Hsin', 'Ho Yen Mei']","['[TPE] ', '[MAS] ']","['21-18', '21-19']",WS,20171128
+90,"['Nipitphon Phuangphuapet', 'Jongkolphan Kititharakul', 'Ko Sung Hyun [8]', 'Ko Hye Ryeon']","['[THA] ', '[THA] ', '[KOR] ', '[KOR] ']","['21-12', '21-7']",XD,20171128
+91,"['Lee Chia Hao', 'Lee Yoon Kyu']","['[TPE] ', '[KOR] ']","['21-10', '21-12']",MS,20171128
+92,"['Chan Peng Soon', 'Cheah Yee See', 'Kang Ji Wook', 'Han Ga Hee']","['[MAS] ', '[MAS] ', '[KOR] ', '[KOR] ']","['21-15', '21-12']",XD,20171128
+93,"['Wang Zhiyi', 'Selvaduray Kisona']","['[CHN] ', '[MAS] ']","['21-16', '21-19']",WS,20171128
+94,"['Chow Mei Kuan', 'Lee Meng Yean', 'Cheng Chi Ya', 'Chung Yu Feng']","['[MAS] ', '[MAS] ', '[TPE] ', '[TPE] ']","['21-12', '21-14']",WD,20171128
+95,"['Panji Ahmad Maulana', 'Tanongsak Saensomboonsuk [3]']","['[INA] ', '[THA] ']","['21-14', '21-13']",MS,20171128
+96,"['Kim Jae Hwan', 'Lee So Hee', 'Bodin Isara [6]', 'Savitree Amitrapai']","['[KOR] ', '[KOR] ', '[THA] ', '[THA] ']","['17-21', '21-10', '21-10']",XD,20171128
+97,"['Michelle Li [7]', 'Kim Hyo Min']","['[CAN] ', '[KOR] ']","['21-9', '21-15']",WS,20171128
+98,"['Gao Fangjie', 'Busanan Ongbamrungphan [4]']","['[CHN] ', '[THA] ']","['11-21', '21-15', '21-17']",WS,20171128
+99,"['Seo Seung Jae [4]', 'Kim Ha Na', 'Evgenij Dremin', 'Evgenia Dimova']","['[KOR] ', '[KOR] ', '[RUS] ', '[RUS] ']","['21-15', '21-13']",XD,20171128
+100,"['Lin Chia Hsuan', 'Liang Hua Chun']","['[TPE] ', '[TPE] ']","['21-16', '21-8']",MS,20171128
+101,"['Bae Ji Won', 'Laura Sarosi']","['[KOR] ', '[HUN] ']","['21-15', '19-21', '21-15']",WS,20171128
+102,"['Alfian Eko Prasetya', 'Melati Daeva Oktavianti', 'Wu Yuan Cheng', 'Yang Ching Tun']","['[INA] ', '[INA] ', '[TPE] ', '[TPE] ']","['21-15', '21-19']",XD,20171128
+103,"['Lee Min Ji', 'Pai Yu Po']","['[KOR] ', '[TPE] ']","['21-15', '16-21', '21-6']",WS,20171128
+104,"['Pornpawee Chochuwong [8]', 'Kim Hyang Im']","['[THA] ', '[KOR] ']",['7-1'],WS,20171128
+105,"['Lu Guangzu', 'Lee Hyun Deok']","['[CHN] ', '[KOR] ']","['21-15', '21-13']",MS,20171128
+106,"['Chae Yoo Jung', 'Kim Hye Rin', 'Yulfira Barkah', 'Nitya Krishinda Maheswari']","['[KOR] ', '[KOR] ', '[INA] ', '[INA] ']","['21-9', '21-10']",WD,20171128
+107,"['Hu Ling Fang', 'Disha Gupta']","['[TPE] ', '[USA] ']","['21-12', '21-7']",WS,20171128
+108,"['Hafiz Faizal', 'Gloria Emanuelle Widjaja', 'Park Kyung Hoon', 'Baek Ha Na']","['[INA] ', '[INA] ', '[KOR] ', '[KOR] ']","['21-18', '21-18']",XD,20171128
+109,"['Choi Ho Jin', 'Go Ah Ra', 'Yehezkiel Fritz Mainaky', 'Lyanny Alessandra Mainaky']","['[KOR] ', '[KOR] ', '[INA] ', '[INA] ']","['21-13', '21-9']",XD,20171128
+110,"['Kim Won Ho [7]', 'Shin Seung Chan', 'Lu Chia Pin', 'Chang Hsin Tien']","['[KOR] ', '[KOR] ', '[TPE] ', '[TPE] ']","['21-5', '19-21', '21-15']",XD,20171128
+111,"['Lee Yong Dae', 'Yoo Yeon Seong', 'Ren Xiangyu', 'Tan Qiang']","['[KOR] ', '[KOR] ', '[CHN] ', '[CHN] ']","['21-12', '20-22', '21-18']",MD,20171128
+112,"['Liao Min Chun [5]', 'Chen Hsiao Huan', 'Chen Sihang', 'Xia Yuting']","['[TPE] ', '[TPE] ', '[CHN] ', '[CHN] ']","['21-13', '21-11']",XD,20171128
+113,"['Anggia Shitta Awanda [2]', 'Ni Ketut Mahadewi Istarani', 'Chang Ye Na', 'Jung Kyung Eun']","['[INA] ', '[INA] ', '[KOR] ', '[KOR] ']","['14-21', '21-14', '22-20']",WD,20171128
+114,"['Wang Chi-Lin [3]', 'Lee Chia Hsin', 'Su Cheng Heng', 'Hsieh Pei Shan']","['[TPE] ', '[TPE] ', '[TPE] ', '[TPE] ']","['21-12', '21-10']",XD,20171128
+115,"['Gregoria Mariska Tunjung', 'Peng Li Ting']","['[INA] ', '[TPE] ']","['21-13', '21-6']",WS,20171128
+116,"['Kim Dae Eun', 'Kim Dae Sun', 'Ahn Se Sung', 'Lim Ji Soo']","['[KOR] ', '[KOR] ', '[KOR] ', '[KOR] ']","['21-12', '19-21', '21-19']",MD,20171128
+117,"['Lee Jang Mi [5]', 'Choi Yoo Ri']","['[KOR] ', '[KOR] ']","['21-13', '21-10']",WS,20171128
+118,"['Lu Ching Yao [2]', 'Yang Po Han', 'Wahyu Nayaka Arya Pangkaryanira', 'Ade Yusuf Santoso']","['[TPE] ', '[TPE] ', '[INA] ', '[INA] ']","['21-15', '14-21', '21-13']",MD,20171128
+119,"['Nitchaon Jindapol [2]', 'Tang Wan Yi']","['[THA] ', '[TPE] ']","['21-10', '21-9']",WS,20171128
+120,"['Ihsan Maulana Mustofa [16]', 'Adulrach Namkul']","['[INA] ', '[THA] ']","['21-15', '21-15']",MS,20171128
+121,"['Feng Zixia', 'Zhang Shuxian', 'Bang Ji Sun', 'Han Ga Hee']","['[CHN] ', '[CHN] ', '[KOR] ', '[KOR] ']","['14-21', '21-19', '21-16']",WD,20171128
+122,"['Po Li-Wei', 'Yang Ming-Tse', 'Jang Seung Hoon', 'Ko Sung Hyun']","['[TPE] ', '[TPE] ', '[KOR] ', '[KOR] ']","['21-16', '21-15']",MD,20171128
+123,"['Lee Byeol Lim', 'Jeon Joo I']","['[KOR] ', '[KOR] ']","['16-21', '22-20', '22-20']",WS,20171128
+124,"['Choi Solgyu', 'Kim Jae Hwan', 'Jung Tae In', 'Kim Young Hyuk']","['[KOR] ', '[KOR] ', '[KOR] ', '[KOR] ']","['21-16', '21-12']",MD,20171128
+125,"['Jeon Hyeok Jin [4]', 'Hong Ji Hoon']","['[KOR] ', '[KOR] ']","['21-19', '24-22']",MS,20171128
+126,"['Chang Ko-Chi', 'Cheng Chi Ya', 'Kim Hwi Tae', 'Kim So Yeong']","['[TPE] ', '[TPE] ', '[KOR] ', '[KOR] ']","['21-17', '21-15']",XD,20171128
+127,"['Kang Ji Wook', 'Lee Sang Joon', 'Lee Jhe-Huei [1]', 'Lee Yang']","['[KOR] ', '[KOR] ', '[TPE] ', '[TPE] ']","['21-17', '21-17']",MD,20171128
+128,"['Chong Wei Feng [9]', 'Zhou Zeqi']","['[MAS] ', '[CHN] ']","['21-14', '21-15']",MS,20171128
+129,"['Goh V Shem', 'Teo Ee Yi', 'Lee Sheng Mu', 'Lin Chia Yu']","['[MAS] ', '[MAS] ', '[TPE] ', '[TPE] ']","['22-20', '17-21', '22-20']",MD,20171128
+130,"['Ha Young Woong', 'Pannawit Thongnuam [15]']","['[KOR] ', '[THA] ']","['21-9', '21-9']",MS,20171128
+131,"['Chen Xin-Yuan', 'Wu Yuan Cheng', 'Ahn Jin Ha', 'Park Moon Sun']","['[TPE] ', '[TPE] ', '[KOR] ', '[KOR] ']","['21-17', '23-21']",MD,20171128
+132,"['Kang Chan Hee', 'Olga Konon', 'Soong Fie Cho', 'Tee Jing Yi']","['[KOR] ', '[GER] ', '[MAS] ', '[MAS] ']","['13-21', '21-13', '21-18']",WD,20171128
+133,"['Khosit Phetpradab [7]', 'Ren Pengbo']","['[THA] ', '[CHN] ']","['10-21', '21-9', '21-13']",MS,20171128
+134,"['Lim Yin Loo [4]', 'Yap Cheng Wen', 'Chang Hsin Tien', 'Yu Chien Hui']","['[MAS] ', '[MAS] ', '[TPE] ', '[TPE] ']","['15-21', '21-13', '21-14']",WD,20171128
+135,"['Brice Leverdez [5]', 'Yim Jong Woo']","['[FRA] ', '[KOR] ']","['21-9', '21-19']",MS,20171128
+136,"['Kim Won Ho', 'Seo Seung Jae', 'Chooi Kah Ming [7]', 'Low Juan Shen']","['[KOR] ', '[KOR] ', '[MAS] ', '[MAS] ']","['18-21', '21-17', '21-16']",MD,20171128
+137,"['Chung Eui Seok [8]', 'Kim Dukyoung', 'Chen Sihang', 'Fan Qiuyue']","['[KOR] ', '[KOR] ', '[CHN] ', '[CHN] ']","['19-21', '21-12', '21-17']",MD,20171128
+138,"['Choi Hyuk Gyun', 'Park Kyung Hoon', 'Hsu Jen Hao [6]', 'Wang Chi-Lin']","['[KOR] ', '[KOR] ', '[TPE] ', '[TPE] ']","['21-17', '16-21', '21-18']",MD,20171128
+139,"['Della Destiara Haris', 'Rizki Amelia Pradipta', 'Savitree Amitrapai', 'Pacharapun Chochuwong']","['[INA] ', '[INA] ', '[THA] ', '[THA] ']","['21-18', '21-16']",WD,20171128
+140,"['Bodin Isara [5]', 'Nipitphon Phuangphuapet', 'Choi Ho Jin', 'Lee Soon Chul']","['[THA] ', '[THA] ', '[KOR] ', '[KOR] ']","['21-12', '21-15']",MD,20171128
+141,"['Chayanit Chaladchalam', 'Phataimas Muenwong', 'Peng Li Ting', 'Tang Wan Yi']","['[THA] ', '[THA] ', '[TPE] ', '[TPE] ']","['21-15', '21-10']",WD,20171128
+142,"['Liao Min Chun [3]', 'Su Cheng Heng', 'Nur Mohd Azriyn Ayub', 'Ooi Zi Heng']","['[TPE] ', '[TPE] ', '[MAS] ', '[MAS] ']","['21-19', '21-12']",MD,20171128
+143,"['Liu Xuanxuan', 'Xia Yuting', 'Lin Ying Chun', 'Pai Yu Po']","['[CHN] ', '[CHN] ', '[TPE] ', '[TPE] ']","['21-15', '16-21', '21-18']",WD,20171128
+144,"['Kantaphon Wangcharoen', 'Hwang Jong Soo']","['[THA] ', '[KOR] ']","['20-22', '21-19', '21-16']",MS,20171128
+145,"['Lee Eun Ah', 'Yoon Min Ah', 'Chiang Kai Hsin', 'Hung Shih Han']","['[KOR] ', '[KOR] ', '[TPE] ', '[TPE] ']","['21-14', '21-17']",WD,20171128
+146,"['Kim Dong Joo', 'Choi Hye In', 'Di Zijian', 'Zhang Shuxian']","['[KOR] ', '[KOR] ', '[CHN] ', '[CHN] ']","['21-6', '21-17']",XD,20171128
+147,"['Evgenij Dremin', 'Pavel Kotsarenko', 'Anthony Joe', 'Pit Seng Low']","['[RUS] ', '[RUS] ', '[AUS] ', '[AUS] ']","['21-18', '21-17']",MD,20171128
+148,"['Cheng Yu Chieh', 'Hu Ling Fang', 'Ji Jung Bin', 'Lee Dan Bi']","['[TPE] ', '[TPE] ', '[KOR] ', '[KOR] ']","['21-17', '21-19']",WD,20171128
+149,"['Baek Ha Na', 'Lee Yu Rim', 'Chen Hsiao Huan', 'Hsieh Pei Shan']","['[KOR] ', '[KOR] ', '[TPE] ', '[TPE] ']","['18-21', '21-9', '21-11']",WD,20171128
+150,"['Lee Dong Keun [11]', 'Woo Seung Hoon']","['[KOR] ', '[KOR] ']","['21-15', '21-12']",MS,20171128
+151,"['Hee Yong Kai Terry [2]', 'Tan Wei Han', 'Chang En Chia', 'Chung Yu Feng']","['[SGP] ', '[SGP] ', '[TPE] ', '[TPE] ']","['21-6', '21-15']",XD,20171128
+152,"['Kim So Yeong', 'Kong Hee Yong', 'Hsu Ya Ching [3]', 'Wu Ti Jung']","['[KOR] ', '[KOR] ', '[TPE] ', '[TPE] ']","['21-13', '21-11']",WD,20171128
+153,"['Choi Hyuk Gyun', 'Park Kyung Hoon', 'Po Li-Wei', 'Yang Ming-Tse']","['[KOR] ', '[KOR] ', '[TPE] ', '[TPE] ']","['21-9', '21-18']",MD,20171128
+154,"['Lee Chia Hsin', 'Michelle Li [7]']","['[TPE] ', '[CAN] ']","['15-21', '21-18', '21-19']",WS,20171128
+155,"['Pornpawee Chochuwong [8]', 'Lyanny Alessandra Mainaky']","['[THA] ', '[INA] ']","['16-21', '21-8', '21-9']",WS,20171128
+156,"['Choi Solgyu [1]', 'Chae Yoo Jung', 'Lee Yang', 'Hsu Ya Ching']","['[KOR] ', '[KOR] ', '[TPE] ', '[TPE] ']","['23-21', '21-14']",XD,20171128
+157,"['Sung Ji Hyun [1]', 'Zhang Yiman']","['[KOR] ', '[CHN] ']","['14-21', '21-13', '25-23']",WS,20171128
+158,"['Lee Chia Hao', 'Soong Joo Ven']","['[TPE] ', '[MAS] ']","['21-16', '21-15']",MS,20171128
+159,"['Robert Mateusiak', 'Olga Konon', 'Nipitphon Phuangphuapet', 'Jongkolphan Kititharakul']","['[POL] ', '[GER] ', '[THA] ', '[THA] ']","['17-21', '22-20', '21-14']",XD,20171128
+160,"['Hee Yong Kai Terry [2]', 'Tan Wei Han', 'Kim Dong Joo', 'Choi Hye In']","['[SGP] ', '[SGP] ', '[KOR] ', '[KOR] ']","['21-14', '21-18']",XD,20171128
+161,"['Panji Ahmad Maulana', 'Lin Chia Hsuan']","['[INA] ', '[TPE] ']","['20-22', '21-8', '21-19']",MS,20171128
+162,"['Kim Won Ho [7]', 'Shin Seung Chan', 'Chan Peng Soon', 'Cheah Yee See']","['[KOR] ', '[KOR] ', '[MAS] ', '[MAS] ']","['21-15', '21-16']",XD,20171128
+163,"['Lee Dong Keun [11]', 'Firman Abdul Kholik']","['[KOR] ', '[INA] ']","['21-17', '21-23', '21-17']",MS,20171128
+164,"['Seo Seung Jae [4]', 'Kim Ha Na', 'Chang Ko-Chi', 'Cheng Chi Ya']","['[KOR] ', '[KOR] ', '[TPE] ', '[TPE] ']","['17-21', '21-17', '21-16']",XD,20171128
+165,"['Hafiz Faizal', 'Gloria Emanuelle Widjaja', 'Liao Min Chun [5]', 'Chen Hsiao Huan']","['[INA] ', '[INA] ', '[TPE] ', '[TPE] ']","['16-21', '21-19', '21-14']",XD,20171128
+166,"['Lee Jang Mi [5]', 'Hu Ling Fang']","['[KOR] ', '[TPE] ']","['21-15', '21-10']",WS,20171128
+167,"['Nitchaon Jindapol [2]', 'Lee Min Ji']","['[THA] ', '[KOR] ']","['21-12', '21-15']",WS,20171128
+168,"['Gregoria Mariska Tunjung', 'Lee Byeol Lim']","['[INA] ', '[KOR] ']","['21-2', '11-5']",WS,20171128
+169,"['Wang Zhiyi', 'Soniia Cheah']","['[CHN] ', '[MAS] ']","['21-13', '21-12']",WS,20171128
+170,"['Chung Eui Seok [8]', 'Kim Dukyoung', 'Kim Dae Eun', 'Kim Dae Sun']","['[KOR] ', '[KOR] ', '[KOR] ', '[KOR] ']","['17-21', '21-15', '21-14']",MD,20171128
+171,"['Kim Jae Hwan', 'Lee So Hee', 'Choi Ho Jin', 'Go Ah Ra']","['[KOR] ', '[KOR] ', '[KOR] ', '[KOR] ']","['18-21', '21-12', '21-13']",XD,20171128
+172,"['Kim Min Ki', 'Son Wan Ho [1]']","['[KOR] ', '[KOR] ']","['21-12', '21-12']",MS,20171128
+173,"['Alfian Eko Prasetya', 'Melati Daeva Oktavianti', 'Wang Chi-Lin [3]', 'Lee Chia Hsin']","['[INA] ', '[INA] ', '[TPE] ', '[TPE] ']","['16-21', '21-14', '21-17']",XD,20171128
+174,"['Gao Fangjie', 'Bae Ji Won']","['[CHN] ', '[KOR] ']","['21-6', '19-21', '21-16']",WS,20171128
+175,"['Khosit Phetpradab [7]', 'Chong Wei Feng [9]']","['[THA] ', '[MAS] ']","['21-17', '21-10']",MS,20171128
+176,"['Jeon Hyeok Jin [4]', 'Ihsan Maulana Mustofa [16]']","['[KOR] ', '[INA] ']","['21-12', '21-15']",MS,20171128
+177,"['Lee Yong Dae', 'Yoo Yeon Seong', 'Kang Ji Wook', 'Lee Sang Joon']","['[KOR] ', '[KOR] ', '[KOR] ', '[KOR] ']","['21-10', '18-21', '21-14']",MD,20171128
+178,"['Kantaphon Wangcharoen', 'Lu Guangzu']","['[THA] ', '[CHN] ']","['21-17', '21-14']",MS,20171128
+179,"['Chow Mei Kuan', 'Lee Meng Yean', 'Jongkolphan Kititharakul [1]', 'Rawinda Prajongjai']","['[MAS] ', '[MAS] ', '[THA] ', '[THA] ']","['21-13', '21-12']",WD,20171128
+180,"['Chae Yoo Jung', 'Kim Hye Rin', 'Chang Ching Hui', 'Yang Ching Tun']","['[KOR] ', '[KOR] ', '[TPE] ', '[TPE] ']","['21-11', '21-6']",WD,20171128
+181,"['Lu Ching Yao [2]', 'Yang Po Han', 'Chen Xin-Yuan', 'Wu Yuan Cheng']","['[TPE] ', '[TPE] ', '[TPE] ', '[TPE] ']","['21-14', '21-14']",MD,20171128
+182,"['Jung Jae Wook', 'Kim Gi Jung', 'Kang Min Hyuk', 'Lee Hong Sub']","['[KOR] ', '[KOR] ', '[KOR] ', '[KOR] ']","['21-18', '21-16']",MD,20171128
+183,"['Kim So Yeong', 'Kong Hee Yong', 'Della Destiara Haris', 'Rizki Amelia Pradipta']","['[KOR] ', '[KOR] ', '[INA] ', '[INA] ']","['21-13', '21-11']",WD,20171128
+184,"['Liu Xuanxuan', 'Xia Yuting', 'Kang Chan Hee', 'Olga Konon']","['[CHN] ', '[CHN] ', '[KOR] ', '[GER] ']","['21-15', '22-20']",WD,20171128
+185,"['Lee Eun Ah', 'Yoon Min Ah', 'Chayanit Chaladchalam', 'Phataimas Muenwong']","['[KOR] ', '[KOR] ', '[THA] ', '[THA] ']","['21-15', '21-13']",WD,20171128
+186,"['Brice Leverdez [5]', 'Ha Young Woong']","['[FRA] ', '[KOR] ']","['16-21', '21-13', '22-20']",MS,20171128
+187,"['Anggia Shitta Awanda [2]', 'Ni Ketut Mahadewi Istarani', 'Feng Zixia', 'Zhang Shuxian']","['[INA] ', '[INA] ', '[CHN] ', '[CHN] ']","['21-14', '21-11']",WD,20171128
+188,"['Cheng Yu Chieh', 'Hu Ling Fang', 'Lim Yin Loo [4]', 'Yap Cheng Wen']","['[TPE] ', '[TPE] ', '[MAS] ', '[MAS] ']","['15-21', '21-18', '21-18']",WD,20171128
+189,"['Liao Min Chun [3]', 'Su Cheng Heng', 'Evgenij Dremin', 'Pavel Kotsarenko']","['[TPE] ', '[TPE] ', '[RUS] ', '[RUS] ']","['21-13', '21-16']",MD,20171128
+190,"['Lee So Hee', 'Shin Seung Chan', 'Baek Ha Na', 'Lee Yu Rim']","['[KOR] ', '[KOR] ', '[KOR] ', '[KOR] ']","['21-16', '21-16']",WD,20171128
+191,"['Bodin Isara [5]', 'Nipitphon Phuangphuapet', 'Goh V Shem', 'Teo Ee Yi']","['[THA] ', '[THA] ', '[MAS] ', '[MAS] ']","['15-21', '22-20', '21-19']",MD,20171128
+192,"['Kim Won Ho', 'Seo Seung Jae', 'Choi Solgyu', 'Kim Jae Hwan']","['[KOR] ', '[KOR] ', '[KOR] ', '[KOR] ']","['21-16', '21-14']",MD,20171128
+193,"['Lee So Hee', 'Shin Seung Chan', 'Anggia Shitta Awanda [2]', 'Ni Ketut Mahadewi Istarani']","['[KOR] ', '[KOR] ', '[INA] ', '[INA] ']","['21-14', '24-22']",WD ,20171128
+194,"['Lee Dong Keun [11]', 'Panji Ahmad Maulana']","['[KOR] ', '[INA] ']","['16-21', '21-19', '21-11']",MS ,20171128
+195,"['Lee Eun Ah', 'Yoon Min Ah', 'Cheng Yu Chieh', 'Hu Ling Fang']","['[KOR] ', '[KOR] ', '[TPE] ', '[TPE] ']","['21-17', '21-9']",WD ,20171128
+196,"['Wang Zhiyi', 'Sung Ji Hyun [1]']","['[CHN] ', '[KOR] ']","['27-25', '7-21', '21-12']",WS ,20171128
+197,"['Kim Min Ki', 'Lee Chia Hao']","['[KOR] ', '[TPE] ']","['21-18', '21-14']",MS ,20171128
+198,"['Lee Yong Dae', 'Yoo Yeon Seong', 'Choi Hyuk Gyun', 'Park Kyung Hoon']","['[KOR] ', '[KOR] ', '[KOR] ', '[KOR] ']","['21-9', '21-13']",MD ,20171128
+199,"['Choi Solgyu [1]', 'Chae Yoo Jung', 'Robert Mateusiak', 'Olga Konon']","['[KOR] ', '[KOR] ', '[POL] ', '[GER] ']",[],XD ,20171128
+200,"['Kim Won Ho', 'Seo Seung Jae', 'Lu Ching Yao [2]', 'Yang Po Han']","['[KOR] ', '[KOR] ', '[TPE] ', '[TPE] ']","['21-12', '21-19']",MD ,20171128
+201,"['Hafiz Faizal', 'Gloria Emanuelle Widjaja', 'Hee Yong Kai Terry [2]', 'Tan Wei Han']","['[INA] ', '[INA] ', '[SGP] ', '[SGP] ']","['21-16', '21-14']",XD ,20171128
+202,"['Lee Jang Mi [5]', 'Gregoria Mariska Tunjung']","['[KOR] ', '[INA] ']","['21-15', '18-21', '21-15']",WS ,20171128
+203,"['Liao Min Chun [3]', 'Su Cheng Heng', 'Chung Eui Seok [8]', 'Kim Dukyoung']","['[TPE] ', '[TPE] ', '[KOR] ', '[KOR] ']","['21-17', '21-19']",MD ,20171128
+204,"['Kim So Yeong', 'Kong Hee Yong', 'Liu Xuanxuan', 'Xia Yuting']","['[KOR] ', '[KOR] ', '[CHN] ', '[CHN] ']","['21-10', '21-11']",WD ,20171128
+205,"['Nitchaon Jindapol [2]', 'Lee Chia Hsin']","['[THA] ', '[TPE] ']","['21-18', '21-8']",WS ,20171128
+206,"['Kim Won Ho [7]', 'Shin Seung Chan', 'Alfian Eko Prasetya', 'Melati Daeva Oktavianti']","['[KOR] ', '[KOR] ', '[INA] ', '[INA] ']","['18-21', '21-12', '21-18']",XD ,20171128
+207,"['Chow Mei Kuan', 'Lee Meng Yean', 'Chae Yoo Jung', 'Kim Hye Rin']","['[MAS] ', '[MAS] ', '[KOR] ', '[KOR] ']","['21-17', '21-8']",WD ,20171128
+208,"['Jeon Hyeok Jin [4]', 'Brice Leverdez [5]']","['[KOR] ', '[FRA] ']","['21-9', '21-12']",MS ,20171128
+209,"['Jung Jae Wook', 'Kim Gi Jung', 'Bodin Isara [5]', 'Nipitphon Phuangphuapet']","['[KOR] ', '[KOR] ', '[THA] ', '[THA] ']","['21-16', '19-21', '24-22']",MD ,20171128
+210,"['Khosit Phetpradab [7]', 'Kantaphon Wangcharoen']","['[THA] ', '[THA] ']","['21-11', '21-7']",MS ,20171128
+211,"['Gao Fangjie', 'Pornpawee Chochuwong [8]']","['[CHN] ', '[THA] ']","['21-17', '13-21', '21-16']",WS ,20171128
+212,"['Seo Seung Jae [4]', 'Kim Ha Na', 'Kim Jae Hwan', 'Lee So Hee']","['[KOR] ', '[KOR] ', '[KOR] ', '[KOR] ']","['21-13', '21-18']",XD ,20171128
+213,"['Kim Won Ho', 'Seo Seung Jae', 'Liao Min Chun [3]', 'Su Cheng Heng']","['[KOR] ', '[KOR] ', '[TPE] ', '[TPE] ']","['23-25', '21-12', '21-15']",MD ,20171128
+214,"['Jeon Hyeok Jin [4]', 'Khosit Phetpradab [7]']","['[KOR] ', '[THA] ']","['21-16', '21-14']",MS ,20171128
+215,"['Kim So Yeong', 'Kong Hee Yong', 'Chow Mei Kuan', 'Lee Meng Yean']","['[KOR] ', '[KOR] ', '[MAS] ', '[MAS] ']","['14-21', '21-7', '21-12']",WD ,20171128
+216,"['Lee Jang Mi [5]', 'Nitchaon Jindapol [2]']","['[KOR] ', '[THA] ']","['21-19', '21-19']",WS ,20171128
+217,"['Seo Seung Jae [4]', 'Kim Ha Na', 'Hafiz Faizal', 'Gloria Emanuelle Widjaja']","['[KOR] ', '[KOR] ', '[INA] ', '[INA] ']","['21-15', '21-11']",XD ,20171128
+218,"['Lee So Hee', 'Shin Seung Chan', 'Lee Eun Ah', 'Yoon Min Ah']","['[KOR] ', '[KOR] ', '[KOR] ', '[KOR] ']","['21-5', '21-9']",WD ,20171128
+219,"['Gao Fangjie', 'Wang Zhiyi']","['[CHN] ', '[CHN] ']","['21-17', '21-8']",WS ,20171128
+220,"['Kim Min Ki', 'Lee Dong Keun [11]']","['[KOR] ', '[KOR] ']","['21-19', '21-15']",MS ,20171128
+221,"['Jung Jae Wook', 'Kim Gi Jung', 'Lee Yong Dae', 'Yoo Yeon Seong']","['[KOR] ', '[KOR] ', '[KOR] ', '[KOR] ']","['16-21', '21-11', '21-19']",MD ,20171128
+222,"['Choi Solgyu [1]', 'Chae Yoo Jung', 'Kim Won Ho [7]', 'Shin Seung Chan']","['[KOR] ', '[KOR] ', '[KOR] ', '[KOR] ']","['21-17', '21-12']",XD ,20171128
+223,"['Seo Seung Jae [4]', 'Kim Ha Na', 'Choi Solgyu [1]', 'Chae Yoo Jung']","['[KOR] ', '[KOR] ', '[KOR] ', '[KOR] ']","['17-21', '21-13', '21-18']",XD ,20171128
+224,"['Gao Fangjie', 'Lee Jang Mi [5]']","['[CHN] ', '[KOR] ']","['21-19', '21-5']",WS ,20171128
+225,"['Lee So Hee', 'Shin Seung Chan', 'Kim So Yeong', 'Kong Hee Yong']","['[KOR] ', '[KOR] ', '[KOR] ', '[KOR] ']","['21-18', '23-21']",WD ,20171128
+226,"['Jeon Hyeok Jin [4]', 'Kim Min Ki']","['[KOR] ', '[KOR] ']","['21-17', '19-21', '21-12']",MS ,20171128
+227,"['Kim Won Ho', 'Seo Seung Jae', 'Jung Jae Wook', 'Kim Gi Jung']","['[KOR] ', '[KOR] ', '[KOR] ', '[KOR] ']","['21-15', '21-16']",MD ,20171128

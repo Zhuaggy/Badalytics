@@ -1,0 +1,155 @@
+,PLAYERS,COUNTRIES,SCORES,EVENT,match_week
+0,"['Dai Wang', 'Xuezhou Lyu']","['[CHN] ', '[CHN] ']","['21-14', '18-21', '21-13']",WS - Qualification,20180410
+1,"['Misha Zilberman', 'Liu Wei Chi']","['[ISR] ', '[TPE] ']","['21-17', '21-9']",MS,20180410
+2,"['Lin Yu Hsien', 'Firman Abdul Kholik']","['[TPE] ', '[INA] ']","['21-16', '21-14']",MS,20180410
+3,"['Ren Pengbo', 'Saputra Vicky Angga']","['[CHN] ', '[INA] ']","['19-21', '21-15', '21-12']",MS,20180410
+4,"['Yufeng Cao', 'Lu Chia Hung']","['[CHN] ', '[TPE] ']","['21-18', '21-17']",MS,20180410
+5,"['Chi Yu Jen', 'Yu Jiahao']","['[TPE] ', '[CHN] ']","['21-11', '21-11']",MS,20180410
+6,"['Zhou Zeqi', 'Seong Hyun Son']","['[CHN] ', '[KOR] ']","['21-17', '21-16']",MS,20180410
+7,"['Liu Shumin', 'Qin Zheng']","['[CHN] ', '[CHI] ']","['21-12', '21-19']",MS,20180410
+8,"['Yang Chih Chieh', 'Zezhou Zhong']","['[TPE] ', '[CHN] ']","['21-12', '21-11']",MS,20180410
+9,"['Li Shifeng', 'Kartikey Gulshan Kumar']","['[CHN] ', '[IND] ']","['14-21', '21-11', '21-11']",MS,20180410
+10,"['Sun Feixiang', 'Ajay Jayaram']","['[CHN] ', '[IND] ']","['21-13', '21-11']",MS,20180410
+11,"['Liu Haichao', 'Shih Kuei Chun']","['[CHN] ', '[TPE] ']","['18-21', '21-18', '21-11']",MS,20180410
+12,"['Chen Chi Ting', 'Haokun Ye']","['[TPE] ', '[CHN] ']","['21-16', '21-13']",MS,20180410
+13,"['Lu Guangzu', 'Yun Kyu Lee']","['[CHN] ', '[KOR] ']","['21-18', '21-14']",MS,20180410
+14,"['Kwang Hee Heo', 'Li Xiang']","['[KOR] ', '[CHN] ']","['21-15', '21-13']",MS,20180410
+15,"['Dong Weijie', 'Xu Ya', 'Parinyawat Thongnuam', 'Kittipak Dubthuk']","['[CHN] ', '[CHN] ', '[THA] ', '[THA] ']","['21-19', '21-16']",XD,20180410
+16,"['Fang-Jen Lee', 'Chien Hui Yu', 'Jiang Zhenbang', 'Luo Xumin']","['[TPE] ', '[TPE] ', '[CHN] ', '[CHN] ']","['21-13', '21-18']",XD,20180410
+17,"['Natchanon Tulamok', 'Natcha Saengchote', 'Shang Yichen', 'Shunqi Zhou']","['[THA] ', '[THA] ', '[CHN] ', '[CHN] ']","['16-21', '21-10', '21-19']",XD,20180410
+18,"['Chang Ko-Chi [4]', 'Cheng Chi Ya', 'Weikeng Liang', 'Chen Yingying']","['[TPE] ', '[TPE] ', '[CHN] ', '[CHN] ']","['21-16', '24-22']",XD,20180410
+19,"['Chi Yu Jen', 'Hsieh Pei Shan', 'Ruohan Guo', 'Feng Zixia']","['[TPE] ', '[TPE] ', '[CHN] ', '[CHN] ']","['21-16', '21-13']",XD,20180410
+20,"['Ou Xuanyi', 'Chen Lu', 'Tseng Min Hao', 'Cheng Yu Chieh']","['[CHN] ', '[CHN] ', '[TPE] ', '[TPE] ']","['21-10', '21-19']",XD,20180410
+21,"['Feng Yanzhe', 'Lin Fangling', 'Lin Shang Kai', 'Hu Ling Fang']","['[CHN] ', '[CHN] ', '[TPE] ', '[TPE] ']","['24-22', '18-21', '21-17']",XD,20180410
+22,"['Yang Ming-Tse', 'Sung Shuo Yun', 'Zeng Weihan', 'Fanghui Chen']","['[TPE] ', '[TPE] ', '[CHN] ', '[CHN] ']","['24-22', '21-16']",XD,20180410
+23,"['Rinov Rivaldy', 'Pitha Haningtyas Mentari', 'Binbin Zheng', 'Chen Yingxue']","['[INA] ', '[INA] ', '[CHN] ', '[CHN] ']","['21-8', '21-13']",XD,20180410
+24,"['Guo Xinwa', 'Liu Xuanxuan', 'Lu Chia Pin', 'Chang Hsin Tien']","['[CHN] ', '[CHN] ', '[TPE] ', '[TPE] ']","['15-21', '21-12', '21-18']",XD,20180410
+25,"['Yuan Cheng Wu [3]', 'Yang Ching Tun', 'Guan Zicong', 'Li Jiajia']","['[TPE] ', '[TPE] ', '[CHN] ', '[CHN] ']","['21-16', '18-21', '21-16']",XD,20180410
+26,"['Dai Enyi', 'Zhou Xinru', 'Wang Zekang', 'Dong Wenjing']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['21-19', '10-21', '21-18']",XD,20180410
+27,"['Hwi Tae Kim', 'Hye Jeong Kim', 'Shiwen Liu', 'Zhang Shuxian']","['[KOR] ', '[KOR] ', '[CHN] ', '[CHN] ']","['22-20', '21-17']",XD,20180410
+28,"['Jui Jeon', 'Zhou Meng']","['[KOR] ', '[CHN] ']","['21-17', '23-21']",WS,20180410
+29,"['Chen Su Yu [1]', 'Zheng Shuya']","['[TPE] ', '[CHN] ']","['21-19', '21-9']",WS,20180410
+30,"['Han Yue', 'Dai Wang']","['[CHN] ', '[CHN] ']","['21-16', '21-11']",WS,20180410
+31,"['Zhiyi Wang', 'Natsumi Shimoda']","['[CHN] ', '[JPN] ']","['21-14', '21-13']",WS,20180410
+32,"['Deng Joy Xuan', 'Yang Ruiwen']","['[HKG] ', '[CHN] ']","['21-14', '21-15']",WS,20180410
+33,"['Zhang Yiman', 'Liang Ting Yu']","['[CHN] ', '[TPE] ']","['21-13', '21-15']",WS,20180410
+34,"['Li Xuerui', 'Chen Nianzu']","['[CHN] ', '[CHN] ']","['21-18', '21-16']",WS,20180410
+35,"['Yaxin Wei', 'Thamolwan Poopradubsil [8]']","['[CHN] ', '[THA] ']","['16-21', '21-13', '21-10']",WS,20180410
+36,"['Fan Mengyan', 'Cheng Chi Ya']","['[CHN] ', '[TPE] ']","['21-14', '21-23', '27-25']",WS,20180410
+37,"['Yu Jin Sim', 'Chen Hsiao Huan']","['[KOR] ', '[TPE] ']","['21-19', '21-12']",WS,20180410
+38,"['Yukino Nakai', 'Lin Ying Chun']","['[JPN] ', '[TPE] ']","['21-19', '21-19']",WS,20180410
+39,"['Sung Shuo Yun [3]', 'Han Qianxi']","['[TPE] ', '[CHN] ']","['24-22', '21-9']",WS,20180410
+40,"['Ji Shuting', 'Se Yeon Lee']","['[CHN] ', '[KOR] ']","['21-15', '21-18']",WS,20180410
+41,"['Cai Yanyan [7]', 'Chien Hui Yu']","['[CHN] ', '[TPE] ']","['21-17', '21-12']",WS,20180410
+42,"['Ga Eun Kim', 'Li Yun']","['[KOR] ', '[CHN] ']","['25-23', '21-13']",WS,20180410
+43,"['Min Hyuk Kang', 'Kim Won Ho', 'Chang Ko-Chi', 'Lu Chia Pin']","['[KOR] ', '[KOR] ', '[TPE] ', '[TPE] ']","['21-16', '21-15']",MD,20180410
+44,"['Dai Zhiyi', 'Liang Yongwang', 'Parinyawat Thongnuam', 'Natchanon Tulamok']","['[CHN] ', '[CHN] ', '[THA] ', '[THA] ']","['23-21', '17-21', '21-16']",MD,20180410
+45,"['Ou Xuanyi', 'Xiangyu Ren', 'Lin Shang Kai', 'Tseng Min Hao']","['[CHN] ', '[CHN] ', '[TPE] ', '[TPE] ']","['21-17', '21-15']",MD,20180410
+46,"['Fang-Chih Lee', 'Fang-Jen Lee', 'Feng Yanzhe', 'Shiwen Liu']","['[TPE] ', '[TPE] ', '[CHN] ', '[CHN] ']","['21-19', '21-19']",MD,20180410
+47,"['Lee Sheng Mu', 'Yang Po-Hsuan', 'Aaron Chia', 'Wooi Yik Soh']","['[TPE] ', '[TPE] ', '[MAS] ', '[MAS] ']","['21-17', '21-18']",MD,20180410
+48,"['Weikeng Liang', 'Shang Yichen', 'Chen Xin-Yuan', 'Yuan Cheng Wu']","['[CHN] ', '[CHN] ', '[TPE] ', '[TPE] ']","['16-21', '21-13', '23-21']",MD,20180410
+49,"['Dai Enyi', 'Guo Xinwa', 'Chia Hao Lee', 'Lin Yu Hsien']","['[CHN] ', '[CHN] ', '[TPE] ', '[TPE] ']","['21-17', '21-11']",MD,20180410
+50,"['Di Zijian', 'Wang Chang', 'Lee Chia-Han', 'Lin Chia Yu']","['[CHN] ', '[CHN] ', '[TPE] ', '[TPE] ']","['21-9', '16-21', '21-14']",MD,20180410
+51,"['Chen Chi Ting', 'Yang Chih Chieh', 'Guan Zicong', 'Zeng Weihan']","['[TPE] ', '[TPE] ', '[CHN] ', '[CHN] ']","['18-21', '21-14', '21-16']",MD,20180410
+52,"['Jiang Zhenbang', 'Binrong Zhang', 'Chi Yu Jen', 'Liu Wei Chi']","['[CHN] ', '[CHN] ', '[TPE] ', '[TPE] ']","['21-15', '21-16']",MD,20180410
+53,"['Jung Jaeuk', 'Jae Hwan Kim', 'Ruohan Guo', 'Binbin Zheng']","['[KOR] ', '[KOR] ', '[CHN] ', '[CHN] ']","['21-10', '21-14']",MD,20180410
+54,"['Chen Sihang', 'Dong Weijie', 'Lu Chia Hung', 'Shih Kuei Chun']","['[CHN] ', '[CHN] ', '[TPE] ', '[TPE] ']","['21-9', '21-16']",MD,20180410
+55,"['Dong Wenjing', 'Feng Xueying', 'Yulfira Barkah', 'Rosyita Eka Putri Sari']","['[CHN] ', '[CHN] ', '[INA] ', '[INA] ']","['21-16', '21-15']",WD,20180410
+56,"['Cheng Yu Chieh', 'Hsieh Pei Shan', 'Guo Lizhi', 'Zhang Shuxian']","['[TPE] ', '[TPE] ', '[CHN] ', '[CHN] ']","['19-21', '21-14', '21-10']",WD,20180410
+57,"['Kittipak Dubthuk', 'Natcha Saengchote', 'Feng Zixia', 'Li Jiajia']","['[THA] ', '[THA] ', '[CHN] ', '[CHN] ']","['21-19', '18-21', '21-16']",WD,20180410
+58,"['Huang Dongping', 'Li Wenmei', 'Chang Hsin Tien', 'Chien Hui Yu']","['[CHN] ', '[CHN] ', '[TPE] ', '[TPE] ']","['21-17', '21-12']",WD,20180410
+59,"['Ni Ketut Mahadewi Istarani', 'Nitya Krishinda Maheswari', 'Chen Yingxue', 'Yijing Li']","['[INA] ', '[INA] ', '[CHN] ', '[CHN] ']","['21-13', '21-7']",WD,20180410
+60,"['Anggia Shitta Awanda', 'Meirisa Cindy Sahputri', 'Chen Lu', 'Xu Ya']","['[INA] ', '[INA] ', '[CHN] ', '[CHN] ']","['21-12', '21-16']",WD,20180410
+61,"['Fanghui Chen', 'Shunqi Zhou', 'Lin Tsun Yu', 'Lin Ying Chun']","['[CHN] ', '[CHN] ', '[TPE] ', '[TPE] ']","['21-15', '21-19']",WD,20180410
+62,"['Tang Jinhua', 'Yu Xiaohan', 'Chen Hsiao Huan', 'Hu Ling Fang']","['[CHN] ', '[CHN] ', '[TPE] ', '[TPE] ']","['21-14', '21-14']",WD,20180410
+63,"['Liu Xuanxuan', 'Yuting Xia', 'Cheng Chi Ya', 'Sung Shuo Yun']","['[CHN] ', '[CHN] ', '[TPE] ', '[TPE] ']","['21-13', '21-16']",WD,20180410
+64,"['Hsu Jen Hao [1]', 'Chico Aura Dwi Wardoyo']","['[TPE] ', '[INA] ']","['24-22', '19-21', '21-14']",MS,20180410
+65,"['Lin Yu Hsien', 'Wang Yuehang']","['[TPE] ', '[ENG] ']","['21-13', '21-8']",MS,20180410
+66,"['Iskandar Zulkarnain [7]', 'Ren Pengbo']","['[MAS] ', '[CHN] ']","['21-17', '21-14']",MS,20180410
+67,"['Hongyang Weng', 'Yufeng Cao']","['[CHN] ', '[CHN] ']","['21-16', '21-15']",MS,20180410
+68,"['Ihsan Maulana Mustofa [3]', 'Misha Zilberman']","['[INA] ', '[ISR] ']","['21-19', '21-15']",MS,20180410
+69,"['Zhou Zeqi', 'Ha Young Woong']","['[CHN] ', '[KOR] ']","['21-16', '21-19']",MS,20180410
+70,"['Wei Feng Chong [6]', 'Liu Shumin']","['[MAS] ', '[CHN] ']","['21-8', '21-18']",MS,20180410
+71,"['Yang Chih Chieh', 'Cao Cuong Pham']","['[TPE] ', '[VIE] ']","['21-10', '22-20']",MS,20180410
+72,"['Panji Ahmad Maulana', 'Chi Yu Jen']","['[INA] ', '[TPE] ']","['17-21', '21-8', '21-15']",MS,20180410
+73,"['Pannawit Thongnuam [8]', 'Liu Haichao']","['[THA] ', '[CHN] ']","['18-21', '21-15', '21-19']",MS,20180410
+74,"['Sun Feixiang', 'Andre Marteen']","['[CHN] ', '[INA] ']","['21-16', '21-14']",MS,20180410
+75,"['Li Shifeng', 'Lee Zii Jia [4]']","['[CHN] ', '[MAS] ']","['21-18', '21-17']",MS,20180410
+76,"['Chen Chi Ting', 'Chengming Ren']","['[TPE] ', '[CHN] ']","['24-22', '21-15']",MS,20180410
+77,"['Lu Guangzu', 'Tien Minh Nguyen [5]']","['[CHN] ', '[VIE] ']","['21-18', '21-9']",MS,20180410
+78,"['Kwang Hee Heo', 'Chia Hao Lee']","['[KOR] ', '[TPE] ']","['21-16', '21-13']",MS,20180410
+79,"['Daren Liew [2]', 'Yupeng Bai']","['[MAS] ', '[CHN] ']","['21-15', '21-14']",MS,20180410
+80,"['Yu Jin Sim', 'Yaxin Wei']","['[KOR] ', '[CHN] ']","['21-18', '21-12']",WS ,20180410
+81,"['Ronald Ronald [1]', 'Annisa Saufika', 'Dong Weijie', 'Xu Ya']","['[INA] ', '[INA] ', '[CHN] ', '[CHN] ']","['21-10', '21-12']",XD ,20180410
+82,"['Han Yue', 'Chen Su Yu [1]']","['[CHN] ', '[TPE] ']","['21-11', '21-14']",WS ,20180410
+83,"['Lee Sheng Mu', 'Yang Po-Hsuan', 'Weikeng Liang', 'Shang Yichen']","['[TPE] ', '[TPE] ', '[CHN] ', '[CHN] ']","['21-19', '14-21', '21-6']",MD ,20180410
+84,"['Lu Guangzu', 'Chen Chi Ting']","['[CHN] ', '[TPE] ']","['21-7', '21-19']",MS ,20180410
+85,"['Kittipak Dubthuk', 'Natcha Saengchote', 'Chang Ching Hui [4]', 'Yang Ching Tun']","['[THA] ', '[THA] ', '[TPE] ', '[TPE] ']","['22-20', '18-21', '21-19']",WD ,20180410
+86,"['Chang Ko-Chi [4]', 'Cheng Chi Ya', 'Chi Yu Jen', 'Hsieh Pei Shan']","['[TPE] ', '[TPE] ', '[TPE] ', '[TPE] ']","['21-14', '21-8']",XD ,20180410
+87,"['Chayanit Chaladchalam [1]', 'Phataimas Muenwong', 'Dong Wenjing', 'Feng Xueying']","['[THA] ', '[THA] ', '[CHN] ', '[CHN] ']","['21-15', '21-15']",WD ,20180410
+88,"['Deng Joy Xuan', 'Zhang Yiman']","['[HKG] ', '[CHN] ']","['21-17', '17-21', '21-15']",WS ,20180410
+89,"['Rinov Rivaldy', 'Pitha Haningtyas Mentari', 'Yang Ming-Tse', 'Sung Shuo Yun']","['[INA] ', '[INA] ', '[TPE] ', '[TPE] ']","['21-15', '21-16']",XD ,20180410
+90,"['Fang-Jen Lee', 'Chien Hui Yu', 'Natchanon Tulamok', 'Natcha Saengchote']","['[TPE] ', '[TPE] ', '[THA] ', '[THA] ']","['21-12', '21-13']",XD ,20180410
+91,"['Panji Ahmad Maulana', 'Pannawit Thongnuam [8]']","['[INA] ', '[THA] ']","['19-21', '21-11', '22-20']",MS ,20180410
+92,"['Iskandar Zulkarnain [7]', 'Hongyang Weng']","['[MAS] ', '[CHN] ']","['21-19', '21-9']",MS ,20180410
+93,"['Fang-Chih Lee', 'Fang-Jen Lee', 'Dai Zhiyi', 'Liang Yongwang']","['[TPE] ', '[TPE] ', '[CHN] ', '[CHN] ']","['21-14', '21-12']",MD ,20180410
+94,"['Liu Xuanxuan', 'Yuting Xia', 'Chiang Kai Hsin [2]', 'Hung Shih Han']","['[CHN] ', '[CHN] ', '[TPE] ', '[TPE] ']","['21-17', '21-15']",WD ,20180410
+95,"['Du Yue [3]', 'Li Yinhui', 'Ni Ketut Mahadewi Istarani', 'Nitya Krishinda Maheswari']","['[CHN] ', '[CHN] ', '[INA] ', '[INA] ']","['21-19', '21-19']",WD ,20180410
+96,"['Min Hyuk Kang', 'Kim Won Ho', 'Chai Biao [4]', 'Wang Zekang']","['[KOR] ', '[KOR] ', '[CHN] ', '[CHN] ']","['21-14', '18-21', '21-12']",MD ,20180410
+97,"['Zhou Zeqi', 'Ihsan Maulana Mustofa [3]']","['[CHN] ', '[INA] ']","['21-16', '8-21', '21-18']",MS ,20180410
+98,"['Hyuk Gyun Choi [3]', 'Park Kyung Hoon', 'Chen Chi Ting', 'Yang Chih Chieh']","['[KOR] ', '[KOR] ', '[TPE] ', '[TPE] ']","['21-13', '21-12']",MD ,20180410
+99,"['Cai Yanyan [7]', 'Ji Shuting']","['[CHN] ', '[CHN] ']","['21-12', '21-10']",WS ,20180410
+100,"['Guo Xinwa', 'Liu Xuanxuan', 'Yuan Cheng Wu [3]', 'Yang Ching Tun']","['[CHN] ', '[CHN] ', '[TPE] ', '[TPE] ']","['21-13', '21-13']",XD ,20180410
+101,"['Di Zijian', 'Yijing Li', 'Dai Enyi', 'Zhou Xinru']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['21-17', '21-13']",XD ,20180410
+102,"['Sung Shuo Yun [3]', 'Yukino Nakai']","['[TPE] ', '[JPN] ']","['21-16', '21-12']",WS ,20180410
+103,"['Han Chengkai [1]', 'Zhou Haodong', 'Ou Xuanyi', 'Xiangyu Ren']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['21-14', '21-14']",MD ,20180410
+104,"['Po Li-Wei [2]', 'Yang Ming-Tse', 'Chen Sihang', 'Dong Weijie']","['[TPE] ', '[TPE] ', '[CHN] ', '[CHN] ']","['18-21', '21-19', '21-19']",MD ,20180410
+105,"['Di Zijian', 'Wang Chang', 'Dai Enyi', 'Guo Xinwa']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['19-21', '28-26', '21-15']",MD ,20180410
+106,"['Li Xuerui', 'Fan Mengyan']","['[CHN] ', '[CHN] ']","['21-16', '21-14']",WS ,20180410
+107,"['Zhiyi Wang', 'Jui Jeon']","['[CHN] ', '[KOR] ']","['21-15', '21-19']",WS ,20180410
+108,"['Jung Jaeuk', 'Jae Hwan Kim', 'Jiang Zhenbang', 'Binrong Zhang']","['[KOR] ', '[KOR] ', '[CHN] ', '[CHN] ']","['17-21', '21-13', '21-19']",MD ,20180410
+109,"['Ou Xuanyi', 'Chen Lu', 'Feng Yanzhe', 'Lin Fangling']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['21-12', '21-18']",XD ,20180410
+110,"['Hwi Tae Kim', 'Hye Jeong Kim', 'Po Li-Wei [2]', 'Chang Ching Hui']","['[KOR] ', '[KOR] ', '[TPE] ', '[TPE] ']","['12-21', '21-18', '22-20']",XD ,20180410
+111,"['Ga Eun Kim', 'Thi Trang (B) Vu [2]']","['[KOR] ', '[VIE] ']","['21-19', '21-23', '21-13']",WS ,20180410
+112,"['Wei Feng Chong [6]', 'Yang Chih Chieh']","['[MAS] ', '[TPE] ']","['21-18', '21-19']",MS ,20180410
+113,"['Tang Jinhua', 'Yu Xiaohan', 'Chen Yingying', 'Lin Fangling']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['21-14', '21-16']",WD ,20180410
+114,"['Anggia Shitta Awanda', 'Meirisa Cindy Sahputri', 'Fanghui Chen', 'Shunqi Zhou']","['[INA] ', '[INA] ', '[CHN] ', '[CHN] ']","['21-12', '21-14']",WD ,20180410
+115,"['Huang Dongping', 'Li Wenmei', 'Luo Xumin', 'Zhou Xinru']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['21-17', '21-15']",WD ,20180410
+116,"['Lin Yu Hsien', 'Hsu Jen Hao [1]']","['[TPE] ', '[TPE] ']","['22-24', '21-17', '21-4']",MS ,20180410
+117,"['Daren Liew [2]', 'Kwang Hee Heo']","['[MAS] ', '[KOR] ']","['13-21', '21-17', '21-19']",MS ,20180410
+118,"['Sun Feixiang', 'Li Shifeng']","['[CHN] ', '[CHN] ']","['21-15', '21-16']",MS ,20180410
+119,"['Yu Jin Sim', 'Sung Shuo Yun [3]']","['[KOR] ', '[TPE] ']","['21-17', '15-21', '21-19']",WS ,20180410
+120,"['Po Li-Wei [2]', 'Yang Ming-Tse', 'Jung Jaeuk', 'Jae Hwan Kim']","['[TPE] ', '[TPE] ', '[KOR] ', '[KOR] ']","['21-17', '18-21', '22-20']",MD ,20180410
+121,"['Wei Feng Chong [6]', 'Zhou Zeqi']","['[MAS] ', '[CHN] ']","['21-18', '21-11']",MS ,20180410
+122,"['Chayanit Chaladchalam [1]', 'Phataimas Muenwong', 'Cheng Yu Chieh', 'Hsieh Pei Shan']","['[THA] ', '[THA] ', '[TPE] ', '[TPE] ']","['21-14', '18-21', '21-15']",WD ,20180410
+123,"['Guo Xinwa', 'Liu Xuanxuan', 'Rinov Rivaldy', 'Pitha Haningtyas Mentari']","['[CHN] ', '[CHN] ', '[INA] ', '[INA] ']","['22-20', '21-17']",XD ,20180410
+124,"['Ronald Ronald [1]', 'Annisa Saufika', 'Fang-Jen Lee', 'Chien Hui Yu']","['[INA] ', '[INA] ', '[TPE] ', '[TPE] ']","['21-14', '21-14']",XD ,20180410
+125,"['Du Yue [3]', 'Li Yinhui', 'Anggia Shitta Awanda', 'Meirisa Cindy Sahputri']","['[CHN] ', '[CHN] ', '[INA] ', '[INA] ']","['21-16', '21-15']",WD ,20180410
+126,"['Li Xuerui', 'Deng Joy Xuan']","['[CHN] ', '[HKG] ']","['21-17', '11-21', '21-14']",WS ,20180410
+127,"['Lin Yu Hsien', 'Iskandar Zulkarnain [7]']","['[TPE] ', '[MAS] ']","['21-14', '17-21', '21-14']",MS ,20180410
+128,"['Han Chengkai [1]', 'Zhou Haodong', 'Fang-Chih Lee', 'Fang-Jen Lee']","['[CHN] ', '[CHN] ', '[TPE] ', '[TPE] ']","['21-14', '21-13']",MD ,20180410
+129,"['Di Zijian', 'Wang Chang', 'Hyuk Gyun Choi [3]', 'Park Kyung Hoon']","['[CHN] ', '[CHN] ', '[KOR] ', '[KOR] ']","['21-18', '21-14']",MD ,20180410
+130,"['Ou Xuanyi', 'Chen Lu', 'Chang Ko-Chi [4]', 'Cheng Chi Ya']","['[CHN] ', '[CHN] ', '[TPE] ', '[TPE] ']","['21-12', '17-21', '21-19']",XD ,20180410
+131,"['Ga Eun Kim', 'Cai Yanyan [7]']","['[KOR] ', '[CHN] ']","['21-19', '13-21', '21-16']",WS ,20180410
+132,"['Huang Dongping', 'Li Wenmei', 'Kittipak Dubthuk', 'Natcha Saengchote']","['[CHN] ', '[CHN] ', '[THA] ', '[THA] ']","['21-12', '21-5']",WD ,20180410
+133,"['Lu Guangzu', 'Daren Liew [2]']","['[CHN] ', '[MAS] ']","['21-18', '21-5']",MS ,20180410
+134,"['Di Zijian', 'Yijing Li', 'Hwi Tae Kim', 'Hye Jeong Kim']","['[CHN] ', '[CHN] ', '[KOR] ', '[KOR] ']","['17-21', '21-17', '21-11']",XD ,20180410
+135,"['Tang Jinhua', 'Yu Xiaohan', 'Liu Xuanxuan', 'Yuting Xia']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['21-17', '20-22', '21-17']",WD ,20180410
+136,"['Zhiyi Wang', 'Han Yue']","['[CHN] ', '[CHN] ']","['13-21', '21-13', '21-13']",WS ,20180410
+137,"['Min Hyuk Kang', 'Kim Won Ho', 'Lee Sheng Mu', 'Yang Po-Hsuan']","['[KOR] ', '[KOR] ', '[TPE] ', '[TPE] ']","['21-19', '21-18']",MD ,20180410
+138,"['Sun Feixiang', 'Panji Ahmad Maulana']","['[CHN] ', '[INA] ']","['21-15', '18-21', '21-16']",MS ,20180410
+139,"['Ronald Ronald [1]', 'Annisa Saufika', 'Ou Xuanyi', 'Chen Lu']","['[INA] ', '[INA] ', '[CHN] ', '[CHN] ']","['14-21', '21-19', '21-19']",XD ,20180410
+140,"['Du Yue [3]', 'Li Yinhui', 'Tang Jinhua', 'Yu Xiaohan']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['21-18', '21-16']",WD ,20180410
+141,"['Di Zijian', 'Wang Chang', 'Po Li-Wei [2]', 'Yang Ming-Tse']","['[CHN] ', '[CHN] ', '[TPE] ', '[TPE] ']","['21-13', '18-21', '23-21']",MD ,20180410
+142,"['Ga Eun Kim', 'Yu Jin Sim']","['[KOR] ', '[KOR] ']","['21-11', '21-11']",WS ,20180410
+143,"['Lu Guangzu', 'Sun Feixiang']","['[CHN] ', '[CHN] ']","['13-21', '21-12', '21-15']",MS ,20180410
+144,"['Huang Dongping', 'Li Wenmei', 'Chayanit Chaladchalam [1]', 'Phataimas Muenwong']","['[CHN] ', '[CHN] ', '[THA] ', '[THA] ']","['21-9', '21-12']",WD ,20180410
+145,"['Lin Yu Hsien', 'Wei Feng Chong [6]']","['[TPE] ', '[MAS] ']","['21-17', '16-21', '23-21']",MS ,20180410
+146,"['Li Xuerui', 'Zhiyi Wang']","['[CHN] ', '[CHN] ']","['21-19', '21-17']",WS ,20180410
+147,"['Guo Xinwa', 'Liu Xuanxuan', 'Di Zijian', 'Yijing Li']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['21-15', '21-16']",XD ,20180410
+148,"['Han Chengkai [1]', 'Zhou Haodong', 'Min Hyuk Kang', 'Kim Won Ho']","['[CHN] ', '[CHN] ', '[KOR] ', '[KOR] ']","['17-21', '25-23', '21-18']",MD ,20180410
+149,"['Guo Xinwa', 'Liu Xuanxuan', 'Ronald Ronald [1]', 'Annisa Saufika']","['[CHN] ', '[CHN] ', '[INA] ', '[INA] ']","['21-17', '7-21', '21-19']",XD ,20180410
+150,"['Li Xuerui', 'Ga Eun Kim']","['[CHN] ', '[KOR] ']","['16-21', '21-16', '21-18']",WS ,20180410
+151,"['Lin Yu Hsien', 'Lu Guangzu']","['[TPE] ', '[CHN] ']","['12-21', '21-12', '21-14']",MS ,20180410
+152,"['Du Yue [3]', 'Li Yinhui', 'Huang Dongping', 'Li Wenmei']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['21-16', '21-17']",WD ,20180410
+153,"['Han Chengkai [1]', 'Zhou Haodong', 'Di Zijian', 'Wang Chang']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['19-21', '21-17', '21-16']",MD ,20180410

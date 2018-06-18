@@ -1,0 +1,50 @@
+,PLAYERS,COUNTRIES,SCORES,EVENT,match_week
+0,"['Huaidong Tang', 'Joey Santino']","['[AUS] ', '[CAL] ']","['21-18', '21-13']",Mens Singles,20170213
+1,"['Dylan Soedjasa', 'Yohan De Geoffroy']","['[NZL] ', '[CAL] ']","['21-11', '21-3']",Mens Singles,20170213
+2,"['Niccolo Tagle', 'Jeremy Lemaitre']","['[NZL] ', '[CAL] ']","['21-17', '21-11']",Mens Singles,20170213
+3,"['Jacob Schueler', 'Carl Nguela']","['[AUS] ', '[CAL] ']","['21-13', '21-10']",Mens Singles,20170213
+4,"['Daxxon Vong', 'Morgan Paitio']","['[NZL] ', '[CAL] ']","['21-11', '21-8']",Mens Singles,20170213
+5,"['Daniel Fan', 'Arnaud Franzi']","['[AUS] ', '[CAL] ']","['21-15', '21-6']",Mens Singles,20170213
+6,"['Tiffany Ho', 'Cecilia Moussy']","['[AUS] ', '[CAL] ']","['21-5', '21-1']",Womens Singles,20170213
+7,"['Dhanny Oud', 'Jasmin Chung Man Ng', 'Anthony Joe [2]', 'Joy Lai']","['[NZL] ', '[NZL] ', '[AUS] ', '[AUS] ']","['21-16', '21-17']",Mixed Doubles,20170213
+8,"['Pit Seng Low [1]', 'Heimana Tavita']","['[AUS] ', '[CAL] ']","['21-9', '21-5']",Mens Singles,20170213
+9,"['Ashwant Gobinathan [3]', 'Dylan Soedjasa']","['[AUS] ', '[NZL] ']","['15-21', '21-15', '21-19']",Mens Singles,20170213
+10,"['Huaidong Tang', 'Jennifer Tam', 'Jonathan Curtin', 'Kelly Stern']","['[AUS] ', '[AUS] ', '[NZL] ', '[NZL] ']","['21-18', '21-16']",Mixed Doubles,20170213
+11,"['Mitchell Wheller', 'Hsuan-Yu Wendy Chen', 'Niccolo Tagle', 'Anona Pak']","['[AUS] ', '[AUS] ', '[NZL] ', '[NZL] ']","['21-17', '21-9']",Mixed Doubles,20170213
+12,"['Kevin Dennerly-Minturn [4]', 'Danielle Tahuri', 'Toby Wong', 'Claudia Lam']","['[NZL] ', '[NZL] ', '[AUS] ', '[AUS] ']","['21-10', '21-9']",Mixed Doubles,20170213
+13,"['Sawan Serasinghe [1]', 'Setyana Mapasa', 'Daxxon Vong', 'Erena Calder -Hawkins']","['[AUS] ', '[AUS] ', '[NZL] ', '[NZL] ']","['21-9', '21-12']",Mixed Doubles,20170213
+14,"['Joel Findlay', 'Gronya Somerville', 'Morgan Paitio', 'Johanna Kou']","['[AUS] ', '[AUS] ', '[CAL] ', '[CAL] ']","['21-14', '21-14']",Mixed Doubles,20170213
+15,"['Jacob Schueler', 'Thommy Sargito']","['[AUS] ', '[CAL] ']","['21-12', '21-8']",Mens Singles,20170213
+16,"['Matthew Chau', 'Louisa Ma', 'Joey Santino', 'Cecilia Moussy']","['[AUS] ', '[AUS] ', '[CAL] ', '[CAL] ']","['21-5', '21-12']",Mixed Doubles,20170213
+17,"['Simon Wing Hang Leung [3]', 'Tiffany Ho', 'Dylan Soedjasa', 'Susannah Leydon-Davis']","['[AUS] ', '[AUS] ', '[NZL] ', '[NZL] ']","['21-17', '21-18']",Mixed Doubles,20170213
+18,"['Daniel Fan', 'Damien Esposito']","['[AUS] ', '[CAL] ']","['21-7', '21-9']",Mens Singles,20170213
+19,"['Jennifer Tam', 'Kelly Stern']","['[AUS] ', '[NZL] ']","['21-7', '21-10']",Womens Singles,20170213
+20,"['Michael Fariman', 'Eric Vuong', 'Florian Cugola', 'Heimana Tavita']","['[AUS] ', '[AUS] ', '[CAL] ', '[CAL] ']","['21-5', '21-12']",Mens Doubles,20170213
+21,"['Anthony Joe [2]', 'Glenn Gowet']","['[AUS] ', '[CAL] ']","['21-9', '21-11']",Mens Singles,20170213
+22,"['Daxxon Vong', 'Nathan Tang [4]']","['[NZL] ', '[AUS] ']","['21-18', '21-16']",Mens Singles,20170213
+23,"['Niccolo Tagle', 'Brendan Tieu']","['[NZL] ', '[AUS] ']","['21-15', '21-12']",Mens Singles,20170213
+24,"['Huaidong Tang', 'Thomas Lahaut']","['[AUS] ', '[CAL] ']","['21-13', '21-14']",Mens Singles,20170213
+25,"['Setyana Mapasa [1]', 'Gronya Somerville', 'Erena Calder -Hawkins', 'Jasmin Chung Man Ng']","['[AUS] ', '[AUS] ', '[NZL] ', '[NZL] ']","['21-6', '21-6']",Womens Doubles,20170213
+26,"['Joel Findlay', 'Jeff Tho', 'Yohan De Geoffroy', 'Carl Nguela']","['[AUS] ', '[AUS] ', '[CAL] ', '[CAL] ']","['21-10', '21-13']",Mens Doubles,20170213
+27,"['Susannah Leydon-Davis', 'Danielle Tahuri', 'Cathy Camerota', 'Nadia Kasimun']","['[NZL] ', '[NZL] ', '[CAL] ', '[CAL] ']","['21-6', '21-7']",Womens Doubles,20170213
+28,"['Tiffany Ho', 'Joy Lai', 'Johanna Kou', 'Cecilia Moussy']","['[AUS] ', '[AUS] ', '[CAL] ', '[CAL] ']","['21-6', '21-9']",Womens Doubles,20170213
+29,"['Vicki Copeland [2]', 'Anona Pak', 'Claudia Lam', 'Ruwindi Serasinghe']","['[NZL] ', '[NZL] ', '[AUS] ', '[AUS] ']","['21-12', '21-8']",Womens Doubles,20170213
+30,"['Kevin Dennerly-Minturn', 'Niccolo Tagle', 'Daniel Fan', 'Pit Seng Low']","['[NZL] ', '[NZL] ', '[AUS] ', '[AUS] ']","['21-12', '21-13']",Mens Doubles,20170213
+31,"['Jonathan Curtin', 'Dhanny Oud', 'Glenn Gowet', 'Thommy Sargito']","['[NZL] ', '[NZL] ', '[CAL] ', '[CAL] ']","['21-13', '21-12']",Mens Doubles,20170213
+32,"['Jacob Schueler', 'Huaidong Tang', 'Clement Bertaud', 'Arnaud Franzi']","['[AUS] ', '[AUS] ', '[CAL] ', '[CAL] ']","['21-17', '21-12']",Mens Doubles,20170213
+33,"['Brendan Tieu', 'Toby Wong', 'Thomas Lahaut', 'Joey Santino']","['[AUS] ', '[AUS] ', '[CAL] ', '[CAL] ']","['21-14', '21-10']",Mens Doubles,20170213
+34,"['Joel Findlay', 'Gronya Somerville', 'Mitchell Wheller', 'Hsuan-Yu Wendy Chen']","['[AUS] ', '[AUS] ', '[AUS] ', '[AUS] ']","['21-12', '21-19']",Mixed Doubles ,20170213
+35,"['Tiffany Ho', 'Joy Lai [2]']","['[AUS] ', '[AUS] ']","['21-17', '21-14']",Womens Singles ,20170213
+36,"['Pit Seng Low [1]', 'Daniel Fan']","['[AUS] ', '[AUS] ']","['21-15', '21-12']",Mens Singles ,20170213
+37,"['Matthew Chau [1]', 'Sawan Serasinghe', 'Jonathan Curtin', 'Dhanny Oud']","['[AUS] ', '[AUS] ', '[NZL] ', '[NZL] ']","['21-10', '21-9']",Mens Doubles ,20170213
+38,"['Tiffany Ho', 'Joy Lai', 'Vicki Copeland [2]', 'Anona Pak']","['[AUS] ', '[AUS] ', '[NZL] ', '[NZL] ']","['19-21', '21-19', '21-17']",Womens Doubles ,20170213
+39,"['Sawan Serasinghe [1]', 'Setyana Mapasa', 'Kevin Dennerly-Minturn [4]', 'Danielle Tahuri']","['[AUS] ', '[AUS] ', '[NZL] ', '[NZL] ']","['21-8', '21-11']",Mixed Doubles ,20170213
+40,"['Niccolo Tagle', 'Jacob Schueler']","['[NZL] ', '[AUS] ']","['21-16', '21-15']",Mens Singles ,20170213
+41,"['Setyana Mapasa [1]', 'Gronya Somerville', 'Susannah Leydon-Davis', 'Danielle Tahuri']","['[AUS] ', '[AUS] ', '[NZL] ', '[NZL] ']","['21-15', '21-7']",Womens Doubles ,20170213
+42,"['Hsuan-Yu Wendy Chen [1]', 'Jennifer Tam']","['[AUS] ', '[AUS] ']","['21-18', '21-12']",Womens Singles ,20170213
+43,"['Kevin Dennerly-Minturn', 'Niccolo Tagle', 'Simon Wing Hang Leung [2]', 'Mitchell Wheller']","['[NZL] ', '[NZL] ', '[AUS] ', '[AUS] ']","['16-21', '21-15', '21-18']",Mens Doubles ,20170213
+44,"['Pit Seng Low [1]', 'Niccolo Tagle']","['[AUS] ', '[NZL] ']","['21-17', '13-21', '21-13']",Mens Singles ,20170213
+45,"['Sawan Serasinghe [1]', 'Setyana Mapasa', 'Joel Findlay', 'Gronya Somerville']","['[AUS] ', '[AUS] ', '[AUS] ', '[AUS] ']","['21-19', '21-9']",Mixed Doubles ,20170213
+46,"['Hsuan-Yu Wendy Chen [1]', 'Tiffany Ho']","['[AUS] ', '[AUS] ']","['21-18', '21-11']",Womens Singles ,20170213
+47,"['Matthew Chau [1]', 'Sawan Serasinghe', 'Kevin Dennerly-Minturn', 'Niccolo Tagle']","['[AUS] ', '[AUS] ', '[NZL] ', '[NZL] ']","['21-8', '21-14']",Mens Doubles ,20170213
+48,"['Setyana Mapasa [1]', 'Gronya Somerville', 'Tiffany Ho', 'Joy Lai']","['[AUS] ', '[AUS] ', '[AUS] ', '[AUS] ']","['16-21', '21-18', '21-14']",Womens Doubles ,20170213

@@ -1,0 +1,134 @@
+,PLAYERS,COUNTRIES,SCORES,EVENT,match_week
+0,"['Riga Oud', 'Haoxuan Xia']","['[NZL] ', '[NZL] ']","['21-9', '21-3']",MS - Qualification,20180201
+1,"['Jacob Morgon', 'Patrick Wang']","['[NZL] ', '[NZL] ']","['23-21', '21-12']",MS - Qualification,20180201
+2,"['Jian Wang', 'Evan Sun']","['[NZL] ', '[NZL] ']","['21-8', '21-14']",MS - Qualification,20180201
+3,"['Ben Perkinson', 'Samuel Sun']","['[NZL] ', '[NZL] ']","['21-6', '21-19']",MS - Qualification,20180201
+4,"['Tianyi Xie', 'Tze Wei Sneah']","['[NZL] ', '[NZL] ']","['21-11', '21-11']",MS - Qualification,20180201
+5,"['Jack Wang', 'Eli Nathan']","['[NZL] ', '[NZL] ']","['21-10', '21-7']",MS - Qualification,20180201
+6,"['Yifan Zhang', 'Daniel Yang']","['[NZL] ', '[NZL] ']","['21-12', '21-13']",MS - Qualification,20180201
+7,"['Anthony Joe [1]', 'Carlos Luna']","['[AUS] ', '[NZL] ']","['21-7', '21-12']",MS,20180201
+8,"['Srijan Konchada', 'Teiva Politi']","['[NZL] ', '[PYF] ']","['21-10', '21-8']",MS,20180201
+9,"['Mathias Pedersen', 'Leon Jang']","['[DEN] ', '[FIJ] ']","['21-11', '21-6']",MS,20180201
+10,"['Daxxon Vong [7]', 'Maxie Andrew Wong']","['[NZL] ', '[FIJ] ']","['21-2', '21-5']",MS,20180201
+11,"['Daniel Fan [6]', 'Aaron Chen']","['[AUS] ', '[NZL] ']","['21-6', '21-7']",MS,20180201
+12,"['Remi Rossi', 'Oscar Lin']","['[PYF] ', '[NZL] ']","['21-6', '21-10']",MS,20180201
+13,"['Lucas Mitchell', 'Ronan Ho-Yagues [15]']","['[NZL] ', '[CAL] ']","['21-19', '21-19']",MS,20180201
+14,"['Jian Wang', 'Joshua Feng']","['[NZL] ', '[NZL] ']","['17-21', '21-17', '21-14']",MS,20180201
+15,"['Jacob Schueler [4]', 'Ahmad Ali']","['[AUS] ', '[FIJ] ']","['21-7', '21-7']",MS,20180201
+16,"['Maika Phillips', 'Tianyi Xie']","['[NZL] ', '[NZL] ']","['21-15', '21-12']",MS,20180201
+17,"['Edward Lau [13]', 'Kai Chen Teoh']","['[NZL] ', '[AUS] ']","['21-17', '21-18']",MS,20180201
+18,"['Evan Lee', 'Tarepa Bourgery']","['[NZL] ', '[PYF] ']","['21-12', '21-16']",MS,20180201
+19,"['Dylan Soedjasa [5]', 'Waleson Vinicios Evangeli Santos']","['[NZL] ', '[BRA] ']","['21-10', '21-18']",MS,20180201
+20,"['Riga Oud', 'Liam Fong']","['[NZL] ', '[FIJ] ']","['21-14', '21-13']",MS,20180201
+21,"['Peter Yan [16]', 'Kai Yi Lim']","['[AUS] ', '[NZL] ']","['21-8', '21-6']",MS,20180201
+22,"['Oscar Guo [10]', 'Alfred Wong']","['[NZL] ', '[NZL] ']","['21-8', '21-13']",MS,20180201
+23,"['Matthew Graham', 'Quentin Bernaix']","['[NZL] ', '[PYF] ']","['21-13', '22-24', '21-18']",MS,20180201
+24,"['Jasmanjot Virk', 'Yifan Zhang']","['[NZL] ', '[NZL] ']","['21-16', '21-14']",MS,20180201
+25,"['Shaunna Li', 'Maggie Chan']","['[NZL] ', '[AUS] ']","['21-15', '21-15']",WS,20180201
+26,"['Cham Chen [12]', 'Edwin Lie']","['[AUS] ', '[NZL] ']","['17-21', '21-11', '21-11']",MS,20180201
+27,"['William Ponsonby', 'Steven Lesourd']","['[AUS] ', '[PYF] ']","['21-8', '21-9']",MS,20180201
+28,"['Burty James Molia', 'Jack Hu']","['[FIJ] ', '[NZL] ']","['21-12', '21-14']",MS,20180201
+29,"['Jennifer Tam [3]', 'Carline Bentley']","['[AUS] ', '[FIJ] ']","['21-2', '21-2']",WS,20180201
+30,"['Dacmen Vong [11]', 'Greig Teriitanoa']","['[NZL] ', '[PYF] ']","['21-9', '21-12']",MS,20180201
+31,"['Robert Batty', 'Jack Wang']","['[NZL] ', '[NZL] ']","['21-16', '21-12']",MS,20180201
+32,"['Ashwant Gobinathan [3]', 'Jack Jiang']","['[AUS] ', '[NZL] ']","['21-8', '21-14']",MS,20180201
+33,"['Jonathan Wong', 'Heinoa Deane']","['[AUS] ', '[PYF] ']","['21-4', '21-16']",MS,20180201
+34,"['Abhinav Manota [9]', 'Jacob Morgon']","['[NZL] ', '[NZL] ']","['21-5', '21-10']",MS,20180201
+35,"['Aidan Karati', 'Kevin Zhang']","['[COK] ', '[NZL] ']","['21-19', '21-14']",MS,20180201
+36,"['Fabricio Farias [8]', 'Ryan Tong']","['[BRA] ', '[NZL] ']","['21-13', '21-13']",MS,20180201
+37,"['Louis Beaubois', 'Ben Perkinson']","['[PYF] ', '[NZL] ']","['21-12', '21-18']",MS,20180201
+38,"['Vincent Harris [14]', 'Mitchell Wheller']","['[NZL] ', '[AUS] ']","['20-22', '21-14', '21-18']",MS,20180201
+39,"['Ricky Cheng', 'Chang Ho Kim']","['[NZL] ', '[FIJ] ']","['21-7', '21-4']",MS,20180201
+40,"['Pit Seng Low [2]', 'Adam Jeffrey']","['[AUS] ', '[NZL] ']","['21-15', '21-16']",MS,20180201
+41,"['Dhanny Oud [1]', 'Jasmin Chung Man Ng', 'Tarepa Bourgery', 'Esther Tau']","['[NZL] ', '[NZL] ', '[PYF] ', '[PYF] ']","['21-6', '21-6']",XD,20180201
+42,"['Simon Wing Hang Leung [5]', 'Louisa Ma', 'Evan Wong', 'Shaunna Li']","['[AUS] ', '[AUS] ', '[NZL] ', '[NZL] ']","['21-11', '21-17']",XD,20180201
+43,"['Kevin Dennerly-Minturn', 'Kylie Luo', 'Teiva Politi', 'Méiissa Mi You']","['[NZL] ', '[NZL] ', '[PYF] ', '[PYF] ']","['21-5', '21-4']",XD,20180201
+44,"['William Ponsonby', 'Leesa Grundy', 'Carlos Luna', 'Polly Wong']","['[AUS] ', '[AUS] ', '[NZL] ', '[NZL] ']","['21-11', '21-15']",XD,20180201
+45,"['Wayne Newman', 'Xie Yongshi', 'Steven Lesourd', 'Nina Smits']","['[NZL] ', '[NZL] ', '[PYF] ', '[PYF] ']","['21-2', '21-5']",XD,20180201
+46,"['Peter Yan', 'Maggie Chan', 'Daxxon Vong [8]', 'Rebecca Hayley Fong']","['[AUS] ', '[AUS] ', '[NZL] ', '[NZL] ']","['21-19', '21-13']",XD,20180201
+47,"['Jonathan Curtin [6]', 'Danielle Tahuri', 'Maxie Andrew Wong', 'Carline Bentley']","['[NZL] ', '[NZL] ', '[FIJ] ', '[FIJ] ']","['21-10', '21-11']",XD,20180201
+48,"['Burty James Molia', 'Karyn Gibson', 'Yifan Zhang', 'Alyssa Tagle']","['[FIJ] ', '[FIJ] ', '[NZL] ', '[NZL] ']","['21-17', '23-21']",XD,20180201
+49,"['Maika Phillips [3]', 'Anona Pak', 'Ahmad Ali', 'Andra Whiteside']","['[NZL] ', '[NZL] ', '[FIJ] ', '[FIJ] ']","['21-14', '20-22', '21-5']",XD,20180201
+50,"['Edward Lau [7]', 'Erena Calder -Hawkins', 'Liam Fong', 'Danielle Whiteside']","['[NZL] ', '[NZL] ', '[FIJ] ', '[FIJ] ']","['21-9', '21-7']",XD,20180201
+51,"['Dacmen Vong', 'Jacqueline Yu', 'Heinoa Deane', 'Karine Desfour']","['[NZL] ', '[NZL] ', '[PYF] ', '[PYF] ']","['21-4', '21-7']",XD,20180201
+52,"['Huaidong Tang [2]', 'Jennifer Tam', 'Jack Wang', 'Roanne Apalisok']","['[AUS] ', '[AUS] ', '[NZL] ', '[NZL] ']","['21-13', '21-13']",XD,20180201
+53,"['Jian Wang', 'Lucas Mitchell']","['[NZL] ', '[NZL] ']","['21-11', '21-11']",MS,20180201
+54,"['Fabricio Farias [4]', 'Jaqueline Lima', 'Tianyi Xie', 'Jenny Zhu']","['[BRA] ', '[BRA] ', '[NZL] ', '[NZL] ']","['21-18', '21-9']",XD,20180201
+55,"['Ben Perkinson', 'Ella Smith', 'Leon Jang', 'Alissa Dean']","['[NZL] ', '[NZL] ', '[FIJ] ', '[FIJ] ']","['21-18', '21-23', '21-10']",XD,20180201
+56,"['Ryan Tong', 'Janice Jiang', 'Greig Teriitanoa', 'Estelle Colombies']","['[NZL] ', '[NZL] ', '[PYF] ', '[PYF] ']","['21-14', '21-12']",XD,20180201
+57,"['Matthew Graham', 'Gaea Galvez', 'Chang Ho Kim', 'Grace Cai']","['[NZL] ', '[NZL] ', '[FIJ] ', '[GUM] ']","['21-8', '21-9']",XD,20180201
+58,"['Remi Rossi', 'Daniel Fan [6]']","['[PYF] ', '[AUS] ']","['21-14', '21-17']",MS,20180201
+59,"['Louisa Ma [4]', 'Sarah Cai']","['[AUS] ', '[GUM] ']","['21-15', '21-14']",WS,20180201
+60,"['Rachel Li', 'Méiissa Mi You']","['[NZL] ', '[PYF] ']","['21-6', '21-6']",WS,20180201
+61,"['Justine Villegas', 'Nina Smits']","['[NZL] ', '[PYF] ']","['21-6', '21-6']",WS,20180201
+62,"['Anthony Joe [1]', 'Srijan Konchada']","['[AUS] ', '[NZL] ']","['21-14', '21-11']",MS,20180201
+63,"['Catelyn Rozario', 'Leesa Grundy']","['[NZL] ', '[AUS] ']","['21-19', '21-9']",WS,20180201
+64,"['Xie Yongshi', 'Andra Whiteside']","['[NZL] ', '[FIJ] ']","['21-13', '21-11']",WS,20180201
+65,"['Zecily Fung', 'Ashley Tan']","['[AUS] ', '[NZL] ']","['21-17', '21-16']",WS,20180201
+66,"['Edward Lau [13]', 'Evan Lee']","['[NZL] ', '[NZL] ']","['21-6', '21-9']",MS,20180201
+67,"['Dylan Soedjasa [5]', 'Riga Oud']","['[NZL] ', '[NZL] ']","['21-12', '21-10']",MS,20180201
+68,"['Cham Chen [12]', 'Jasmanjot Virk']","['[AUS] ', '[NZL] ']","['21-10', '23-21']",MS,20180201
+69,"['Oscar Guo [10]', 'Mathias Pedersen']","['[NZL] ', '[DEN] ']","['21-11', '21-7']",MS,20180201
+70,"['Jacob Schueler [4]', 'Maika Phillips']","['[AUS] ', '[NZL] ']","['19-21', '21-17', '21-16']",MS,20180201
+71,"['Ella Smith', 'Alissa Dean']","['[NZL] ', '[FIJ] ']","['21-11', '21-16']",WS,20180201
+72,"['Sally Fu [5]', 'Estelle Colombies']","['[NZL] ', '[PYF] ']","['21-4', '21-6']",WS,20180201
+73,"['Peter Yan [16]', 'Matthew Graham']","['[AUS] ', '[NZL] ']","['21-16', '21-10']",MS,20180201
+74,"['Daxxon Vong [7]', 'William Ponsonby']","['[NZL] ', '[AUS] ']","['21-13', '21-18']",MS,20180201
+75,"['Danielle Whiteside', 'Esther Tau']","['[FIJ] ', '[PYF] ']","['21-12', '21-12']",WS,20180201
+76,"['Gaea Galvez [7]', 'Grace Cai']","['[NZL] ', '[GUM] ']","['21-7', '21-10']",WS,20180201
+77,"['Jenny Zhu', 'Charmaine Wu']","['[NZL] ', '[NZL] ']","['22-20', '18-21', '21-11']",WS,20180201
+78,"['Dacmen Vong [11]', 'Burty James Molia']","['[NZL] ', '[FIJ] ']","['21-17', '21-19']",MS,20180201
+79,"['Ashwant Gobinathan [3]', 'Robert Batty']","['[AUS] ', '[NZL] ']","['21-18', '21-16']",MS,20180201
+80,"['Abhinav Manota [9]', 'Jonathan Wong']","['[NZL] ', '[AUS] ']","['21-9', '21-12']",MS,20180201
+81,"['Fabricio Farias [8]', 'Aidan Karati']","['[BRA] ', '[COK] ']","['21-13', '21-13']",MS,20180201
+82,"['Vincent Harris [14]', 'Louis Beaubois']","['[NZL] ', '[PYF] ']","['14-21', '21-11', '21-12']",MS,20180201
+83,"['Pit Seng Low [2]', 'Ricky Cheng']","['[AUS] ', '[NZL] ']","['21-13', '21-19']",MS,20180201
+84,"['Jaqueline Lima [6]', 'Karine Desfour']","['[BRA] ', '[PYF] ']","['21-2', '21-3']",WS,20180201
+85,"['Roanne Apalisok', 'Rebecca Hayley Fong']","['[NZL] ', '[NZL] ']","['21-14', '21-18']",WS,20180201
+86,"['Jesica Muljati [2]', 'Karyn Gibson']","['[INA] ', '[FIJ] ']","['21-8', '21-7']",WS,20180201
+87,"['Kevin Dennerly-Minturn [3]', 'Oliver Leydon-Davis', 'Ahmad Ali', 'Liam Fong']","['[NZL] ', '[NZL] ', '[FIJ] ', '[FIJ] ']","['21-6', '21-4']",MD,20180201
+88,"['Mathias Pedersen [6]', 'Huaidong Tang', 'Joshua Feng', 'Edwin Lie']","['[DEN] ', '[AUS] ', '[NZL] ', '[NZL] ']","['21-16', '21-10']",MD,20180201
+89,"['Alissa Dean', 'Danielle Whiteside', 'Carline Bentley', 'Ella Smith']","['[FIJ] ', '[FIJ] ', '[FIJ] ', '[NZL] ']","['21-19', '21-18']",WD,20180201
+90,"['Jian Wang', 'Alfred Wong', 'Quentin Bernaix', 'Remi Rossi']","['[NZL] ', '[NZL] ', '[PYF] ', '[PYF] ']","['21-7', '21-12']",MD,20180201
+91,"['Rachel Li', 'Jenny Zhu', 'Estelle Colombies', 'Esther Tau']","['[NZL] ', '[NZL] ', '[PYF] ', '[PYF] ']","['21-9', '21-8']",WD,20180201
+92,"['Shaunna Li', 'Charmaine Wu', 'Maggie Chan', 'Zecily Fung']","['[NZL] ', '[NZL] ', '[AUS] ', '[AUS] ']","['21-14', '21-18']",WD,20180201
+93,"['Gaea Galvez', 'Justine Villegas', 'Grace Cai [3]', 'Sarah Cai']","['[NZL] ', '[NZL] ', '[GUM] ', '[GUM] ']","['21-18', '19-21', '21-14']",WD,20180201
+94,"['Tarepa Bourgery', 'Greig Teriitanoa', 'Wayne Newman', 'Tianyi Xie']","['[PYF] ', '[PYF] ', '[NZL] ', '[NZL] ']","['21-18', '12-21', '21-13']",MD,20180201
+95,"['Dacmen Vong [7]', 'Daxxon Vong', 'Kai Chen Teoh', 'Jonathan Wong']","['[NZL] ', '[NZL] ', '[AUS] ', '[AUS] ']","['21-10', '21-14']",MD,20180201
+96,"['Simon Wing Hang Leung [1]', 'Mitchell Wheller', 'Lucas Mitchell', 'Daniel Yang']","['[AUS] ', '[AUS] ', '[NZL] ', '[NZL] ']","['21-3', '21-7']",MD,20180201
+97,"['Aidan Karati', 'Jacob Morgon', 'Ben Perkinson', 'Jasmanjot Virk']","['[COK] ', '[NZL] ', '[NZL] ', '[NZL] ']","['21-17', '21-16']",MD,20180201
+98,"['Samuel Ho [5]', 'Riga Oud', 'Louis Beaubois', 'Steven Lesourd']","['[NZL] ', '[NZL] ', '[PYF] ', '[PYF] ']","['21-13', '21-11']",MD,20180201
+99,"['Fabricio Farias', 'Waleson Vinicios Evangeli Santos', 'Srijan Konchada', 'Patrick Wang']","['[BRA] ', '[BRA] ', '[NZL] ', '[NZL] ']","['21-16', '21-17']",MD,20180201
+100,"['Brent Munday', 'William Ponsonby', 'Ricky Cheng', 'Evan Wong']","['[AUS] ', '[AUS] ', '[NZL] ', '[NZL] ']","['21-15', '21-18']",MD,20180201
+101,"['Erena Calder -Hawkins [1]', 'Jasmin Chung Man Ng', 'Méiissa Mi You', 'Nina Smits']","['[NZL] ', '[NZL] ', '[PYF] ', '[PYF] ']","['21-6', '21-8']",WD,20180201
+102,"['Anona Pak [4]', 'Danielle Tahuri', 'Jesica Muljati', 'Alyssa Tagle']","['[NZL] ', '[NZL] ', '[INA] ', '[NZL] ']","['21-15', '21-15']",WD,20180201
+103,"['Karyn Gibson', 'Andra Whiteside', 'Janice Jiang', 'Jacqueline Yu']","['[FIJ] ', '[FIJ] ', '[NZL] ', '[NZL] ']","['21-14', '21-15']",WD,20180201
+104,"['Robert Batty', 'Burty James Molia', 'Eli Nathan', 'Haoxuan Xia']","['[NZL] ', '[FIJ] ', '[NZL] ', '[NZL] ']","['21-6', '21-6']",MD,20180201
+105,"['Abhinav Manota [4]', 'Dylan Soedjasa', 'Adam Jeffrey', 'Ryan Tong']","['[NZL] ', '[NZL] ', '[NZL] ', '[NZL] ']","['21-14', '21-17']",MD,20180201
+106,"['Leanne Choo [2]', 'Renuga Veeran', 'Roanne Apalisok', 'Ashley Tan']","['[AUS] ', '[AUS] ', '[NZL] ', '[NZL] ']","['21-5', '21-7']",WD,20180201
+107,"['Sally Fu', 'Susannah Leydon-Davis', 'Alissa Dean', 'Danielle Whiteside']","['[NZL] ', '[NZL] ', '[FIJ] ', '[FIJ] ']","['21-9', '21-5']",WD,20180201
+108,"['Kylie Luo', 'Xie Yongshi', 'Rachel Li', 'Jenny Zhu']","['[NZL] ', '[NZL] ', '[NZL] ', '[NZL] ']","['21-10', '21-6']",WD,20180201
+109,"['Oscar Lin', 'Evan Sun', 'Ronan Ho-Yagues', 'Kevin Zhang']","['[NZL] ', '[NZL] ', '[CAL] ', '[NZL] ']","['21-19', '16-21', '21-14']",MD,20180201
+110,"['Cham Chen [8]', 'Toby Wong', 'Tze Wei Sneah', 'Yifan Zhang']","['[AUS] ', '[AUS] ', '[NZL] ', '[NZL] ']",[],MD,20180201
+111,"['Carlos Luna', 'Jack Wang', 'Leon Jang', 'Chang Ho Kim']","['[NZL] ', '[NZL] ', '[FIJ] ', '[FIJ] ']","['21-14', '21-14']",MD,20180201
+112,"['Jonathan Curtin [2]', 'Dhanny Oud', 'Heinoa Deane', 'Teiva Politi']","['[NZL] ', '[NZL] ', '[PYF] ', '[PYF] ']","['21-5', '21-3']",MD,20180201
+113,"['Maika Phillips [3]', 'Anona Pak', 'Peter Yan', 'Maggie Chan']","['[NZL] ', '[NZL] ', '[AUS] ', '[AUS] ']","['21-7', '21-11']",XD ,20180201
+114,"['Kevin Dennerly-Minturn', 'Kylie Luo', 'Dhanny Oud [1]', 'Jasmin Chung Man Ng']","['[NZL] ', '[NZL] ', '[NZL] ', '[NZL] ']","['21-17', '21-16']",XD ,20180201
+115,"['Abhinav Manota [9]', 'Pit Seng Low [2]']","['[NZL] ', '[AUS] ']","['21-9', '21-12']",MS ,20180201
+116,"['Jennifer Tam [3]', 'Gaea Galvez [7]']","['[AUS] ', '[NZL] ']","['21-10', '21-15']",WS ,20180201
+117,"['Leanne Choo [2]', 'Renuga Veeran', 'Karyn Gibson', 'Andra Whiteside']","['[AUS] ', '[AUS] ', '[FIJ] ', '[FIJ] ']","['21-6', '21-10']",WD ,20180201
+118,"['Fabricio Farias [4]', 'Jaqueline Lima', 'Jonathan Curtin [6]', 'Danielle Tahuri']","['[BRA] ', '[BRA] ', '[NZL] ', '[NZL] ']","['21-19', '21-18']",XD ,20180201
+119,"['Oscar Guo [10]', 'Remi Rossi']","['[NZL] ', '[PYF] ']","['21-11', '21-17']",MS ,20180201
+120,"['Ashwant Gobinathan [3]', 'Daxxon Vong [7]']","['[AUS] ', '[NZL] ']","['22-20', '14-21', '21-12']",MS ,20180201
+121,"['Edward Lau [13]', 'Dylan Soedjasa [5]']","['[NZL] ', '[NZL] ']","['21-11', '21-10']",MS ,20180201
+122,"['Erena Calder -Hawkins [1]', 'Jasmin Chung Man Ng', 'Shaunna Li', 'Charmaine Wu']","['[NZL] ', '[NZL] ', '[NZL] ', '[NZL] ']","['16-21', '21-13', '21-13']",WD ,20180201
+123,"['Huaidong Tang [2]', 'Jennifer Tam', 'Edward Lau [7]', 'Erena Calder -Hawkins']","['[AUS] ', '[AUS] ', '[NZL] ', '[NZL] ']","['21-18', '20-22', '21-13']",XD ,20180201
+124,"['Shaunna Li', 'Xie Yongshi']","['[NZL] ', '[NZL] ']","['21-18', '21-17']",WS ,20180201
+125,"['Louisa Ma [4]', 'Sally Fu [5]']","['[AUS] ', '[NZL] ']","['21-16', '18-21', '21-13']",WS ,20180201
+126,"['Jesica Muljati [2]', 'Jaqueline Lima [6]']","['[INA] ', '[BRA] ']","['21-12', '21-5']",WS ,20180201
+127,"['Anona Pak [4]', 'Danielle Tahuri', 'Kylie Luo', 'Xie Yongshi']","['[NZL] ', '[NZL] ', '[NZL] ', '[NZL] ']","['21-12', '21-16']",WD ,20180201
+128,"['Maika Phillips [3]', 'Anona Pak', 'Fabricio Farias [4]', 'Jaqueline Lima']","['[NZL] ', '[NZL] ', '[BRA] ', '[BRA] ']","['21-6', '27-25']",XD ,20180201
+129,"['Jesica Muljati [2]', 'Louisa Ma [4]']","['[INA] ', '[AUS] ']","['21-11', '21-12']",WS ,20180201
+130,"['Oscar Guo [10]', 'Abhinav Manota [9]']","['[NZL] ', '[NZL] ']","['21-14', '21-10']",MS ,20180201
+131,"['Leanne Choo [2]', 'Renuga Veeran', 'Sally Fu', 'Susannah Leydon-Davis']","['[AUS] ', '[AUS] ', '[NZL] ', '[NZL] ']","['21-6', '21-12']",WD ,20180201
+132,"['Kevin Dennerly-Minturn [3]', 'Oliver Leydon-Davis', 'Jonathan Curtin [2]', 'Dhanny Oud']","['[NZL] ', '[NZL] ', '[NZL] ', '[NZL] ']","['21-13', '21-14']",MD ,20180201

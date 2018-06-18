@@ -1,0 +1,156 @@
+,PLAYERS,COUNTRIES,SCORES,EVENT,match_week
+0,"['Georges Julien Paul [1]', 'Jason Mann']","['[MRI] ', '[RSA] ']","['21-13', '21-12']",MS - Group A,20170420
+1,"['Ahmed Salah [2]', 'Fred Kirabo']","['[EGY] ', '[UGA] ']","['21-14', '21-8']",MS - Group B,20170420
+2,"['Aatish Lubah [3]', 'Majed Yacine Balahoune']","['[MRI] ', '[ALG] ']","['21-13', '21-13']",MS - Group C,20170420
+3,"['Ruan Snyman', 'Christopher Paul [4]']","['[RSA] ', '[MRI] ']","['21-15', '21-14']",MS - Group D,20170420
+4,"['Abdelrahman Abdelhakim [6]', 'Juma Muwowo']","['[EGY] ', '[ZAM] ']","['21-16', '21-8']",MS - Group E,20170420
+5,"['Ali Ahmed El Khateeb', 'Jean Bernard Bongout [7]']","['[EGY] ', '[MRI] ']","['14-21', '21-11', '21-15']",MS - Group F,20170420
+6,"['Clement Krobakpo', 'Kalombo Mulenga [5]']","['[NGR] ', '[ZAM] ']","['18-21', '21-9', '21-11']",MS - Group G,20170420
+7,"['Chongo Ezra Mulenga [8]', 'Prince Chinguwa']","['[ZAM] ', '[ZIM] ']","['21-4', '21-5']",MS - Group H,20170420
+8,"['Youcef Sabri Medel', 'Michael Jennings']","['[ALG] ', '[RSA] ']","['21-15', '21-5']",MS - Group I,20170420
+9,"['Adel Hamek', 'Melvin Appiah']","['[ALG] ', '[MRI] ']","['21-11', '21-14']",MS - Group J,20170420
+10,"['Mohamed Abderrahime Belarbi', 'Cameron Coetzer']","['[ALG] ', '[RSA] ']","['21-12', '21-11']",MS - Group K,20170420
+11,"['Hadia Hosny [2]', 'Sendila Mourat']","['[EGY] ', '[MRI] ']","['21-10', '21-8']",WS - Group B,20170420
+12,"['Ogar Siamupangila [3]', 'Botho Makubate']","['[ZAM] ', '[BOT] ']","['21-13', '21-7']",WS - Group C,20170420
+13,"['Menna Eltanany [4]', 'Demi Botha']","['[EGY] ', '[RSA] ']","['21-14', '21-16']",WS - Group D,20170420
+14,"['Linda Mazri', 'Zani Van Der Merwe']","['[ALG] ', '[RSA] ']","['21-14', '21-7']",WS - Group F,20170420
+15,"['Sandra Le Grange', 'Betty Apio']","['[RSA] ', '[UGA] ']","['21-9', '21-15']",WS - Group G,20170420
+16,"['Dorcas Ajoke Adesokan', 'Gladys Mbabazi']","['[NGR] ', '[UGA] ']","['21-10', '21-7']",WS - Group I,20170420
+17,"['Halla Bouksani', 'Zainab Momoh']","['[ALG] ', '[NGR] ']","['21-10', '21-16']",WS - Group E,20170420
+18,"['Allisen Camille', 'Elizaberth Chipeleme']","['[SEY] ', '[ZAM] ']","['21-15', '21-10']",WS - Group H,20170420
+19,"['Kate Foo Kune [1]', 'Leungo Bronia Tshweneetsile']","['[MRI] ', '[BOT] ']","['21-7', '21-5']",WS - Group A,20170420
+20,"['Aatish Lubah [1]', 'Georges Julien Paul', 'Fred Kirabo', 'Isaac Senfuka']","['[MRI] ', '[MRI] ', '[UGA] ', '[UGA] ']","['21-13', '21-10']",MD - Group A,20170420
+21,"['Abdelrahman Abdelhakim [2]', 'Ahmed Salah', 'Jean Bernard Bongout', 'Christopher Paul']","['[EGY] ', '[EGY] ', '[MRI] ', '[MRI] ']","['21-14', '19-21', '21-14']",MD - Group B,20170420
+22,"['Ruan Snyman [4]', 'Bongani Von Bodenstein', 'Melvin Appiah', 'Tejraj Pultoo']","['[RSA] ', '[RSA] ', '[MRI] ', '[MRI] ']","['21-16', '22-20']",MD - Group C,20170420
+23,"['Chongo Ezra Mulenga [3]', 'Kalombo Mulenga', 'Michael Jennings', 'Jason Mann']","['[ZAM] ', '[ZAM] ', '[RSA] ', '[RSA] ']","['21-18', '21-10']",MD - Group D,20170420
+24,"['Gideon Babalola', 'Clement Krobakpo', 'Tlhoego Chamo', 'Tefo Kabomo']","['[NGR] ', '[NGR] ', '[BOT] ', '[BOT] ']","['21-12', '21-11']",MD - Group F,20170420
+25,"['Jabulile Geninda', 'Zani Van Der Merwe', 'Betty Apio', 'Gladys Mbabazi']","['[RSA] ', '[RSA] ', '[UGA] ', '[UGA] ']","['8-21', '21-19', '21-11']",WD - Group C,20170420
+26,"['Kobita Dokhee', 'Sendila Mourat', 'Halla Bouksani', 'Linda Mazri']","['[MRI] ', '[MRI] ', '[ALG] ', '[ALG] ']","['21-8', '19-21', '21-19']",WD - Group D,20170420
+27,"['Evelyn Siamupangila [2]', 'Ogar Siamupangila', 'Doha Hany', 'Hadia Hosny']","['[ZAM] ', '[ZAM] ', '[EGY] ', '[EGY] ']","['21-18', '20-22', '22-20']",WD - Group B,20170420
+28,"['Nadine Ashraf [1]', 'Menna Eltanany', 'Nyasha Kopolo', 'Kuzivakwashe Tritania Mudzamiri']","['[EGY] ', '[EGY] ', '[ZIM] ', '[ZIM] ']","['21-3', '21-7']",WD - Group A,20170420
+29,"['Mohamed Abderrahime Belarbi', 'Adel Hamek', 'Kervin Ghislain', 'Steve Malcouzanne']","['[ALG] ', '[ALG] ', '[SEY] ', '[SEY] ']","['21-8', '21-11']",MD - Group E,20170420
+30,"['Juma Muwowo [2]', 'Ogar Siamupangila', 'Fred Kirabo', 'Betty Apio']","['[ZAM] ', '[ZAM] ', '[UGA] ', '[UGA] ']","['21-18', '9-21', '21-6']",XD - Group B,20170420
+31,"['James Hilton Mcmanus', 'Michelle Butler-Emmett', 'Tumisang Olekantse', 'Leungo Bronia Tshweneetsile']","['[RSA] ', '[RSA] ', '[BOT] ', '[BOT] ']","['21-13', '21-6']",XD - Group G,20170420
+32,"['Kalombo Mulenga', 'Elizaberth Chipeleme', 'Bongani Von Bodenstein', 'Johanita Scholtz']","['[ZAM] ', '[ZAM] ', '[RSA] ', '[RSA] ']","['21-16', '16-21', '21-15']",XD - Group F,20170420
+33,"['Georges Julien Paul', 'Kate Foo Kune', 'Isaac Senfuka', 'Gladys Mbabazi']","['[MRI] ', '[MRI] ', '[UGA] ', '[UGA] ']","['21-11', '21-12']",XD - Group E,20170420
+34,"['Tejraj Pultoo', 'Sendila Mourat', 'Ashel Dziva', 'Nyasha Kopolo']","['[MRI] ', '[MRI] ', '[ZIM] ', '[ZIM] ']","['21-9', '21-13']",XD - Group I,20170420
+35,"['Abdelrahman Abdelhakim [4]', 'Nadine Ashraf', 'Tefo Kabomo', 'Tessa Kabelo']","['[EGY] ', '[EGY] ', '[BOT] ', '[BOT] ']","['21-11', '21-17']",XD - Group C,20170420
+36,"['Chongo Ezra Mulenga [3]', 'Evelyn Siamupangila', 'Thabani Mathe', 'Kuzivakwashe Tritania Mudzamiri']","['[ZAM] ', '[ZAM] ', '[ZIM] ', '[ZIM] ']","['21-6', '21-9']",XD - Group D,20170420
+37,"['Ahmed Salah [1]', 'Menna Eltanany', 'Melvin Appiah', 'Ganesha Mungrah']","['[EGY] ', '[EGY] ', '[MRI] ', '[MRI] ']","['21-11', '21-13']",XD - Group A,20170420
+38,"['Adham Hatem Elgamal', 'Doha Hany', 'Cameron Coetzer', 'Demi Botha']","['[EGY] ', '[EGY] ', '[RSA] ', '[RSA] ']","['21-19', '21-12']",XD - Group H,20170420
+39,"['Jason Mann', 'Ashel Dziva']","['[RSA] ', '[ZIM] ']","['21-10', '21-8']",MS - Group A,20170420
+40,"['Bongani Von Bodenstein', 'Fred Kirabo']","['[RSA] ', '[UGA] ']","['21-15', '21-17']",MS - Group B,20170420
+41,"['Habeeb Temitope Bello', 'Majed Yacine Balahoune']","['[NGR] ', '[ALG] ']","['21-19', '18-21', '21-8']",MS - Group C,20170420
+42,"['Ruan Snyman', 'Gideon Babalola']","['[RSA] ', '[NGR] ']","['21-10', '7-21', '21-16']",MS - Group D,20170420
+43,"['Juma Muwowo', 'Jason Coetzer']","['[ZAM] ', '[RSA] ']","['21-16', '21-7']",MS - Group E,20170420
+44,"['Ali Ahmed El Khateeb', 'Thabani Mathe']","['[EGY] ', '[ZIM] ']","['21-12', '21-7']",MS - Group F,20170420
+45,"['Clement Krobakpo', 'Koceila Mammeri']","['[NGR] ', '[ALG] ']","['21-16', '21-17']",MS - Group G,20170420
+46,"['Tefo Kabomo', 'Prince Chinguwa']","['[BOT] ', '[ZIM] ']","['21-9', '21-1']",MS - Group H,20170420
+47,"['Youcef Sabri Medel', 'Rodrick Mulenga Mwansa']","['[ALG] ', '[ZAM] ']","['21-10', '21-11']",MS - Group I,20170420
+48,"['Adel Hamek', 'Tumisang Olekantse']","['[ALG] ', '[BOT] ']","['21-16', '21-8']",MS - Group J,20170420
+49,"['Cameron Coetzer', 'Abdulfatai Salaudeen']","['[RSA] ', '[NGR] ']","['21-14', '21-14']",MS - Group K,20170420
+50,"['Ngandwe Miyambo', 'Leungo Bronia Tshweneetsile']","['[ZAM] ', '[BOT] ']","['16-21', '21-11', '21-19']",WS - Group A,20170420
+51,"['Sendila Mourat', 'Jabulile Geninda']","['[MRI] ', '[RSA] ']","['21-15', '21-16']",WS - Group B,20170420
+52,"['Botho Makubate', 'Kuzivakwashe Tritania Mudzamiri']","['[BOT] ', '[ZIM] ']","['21-6', '21-7']",WS - Group C,20170420
+53,"['Demi Botha', 'Kobita Dokhee']","['[RSA] ', '[MRI] ']","['21-9', '21-18']",WS - Group D,20170420
+54,"['Zainab Momoh', 'Nyasha Kopolo']","['[NGR] ', '[ZIM] ']","['21-8', '21-7']",WS - Group E,20170420
+55,"['Dorcas Ajoke Adesokan', 'Ganesha Mungrah']","['[NGR] ', '[MRI] ']","['21-7', '21-7']",WS - Group I,20170420
+56,"['Tessa Kabelo', 'Elizaberth Chipeleme']","['[BOT] ', '[ZAM] ']","['21-16', '22-20']",WS - Group H,20170420
+57,"['Doha Hany', 'Linda Mazri']","['[EGY] ', '[ALG] ']","['21-10', '21-7']",WS - Group F,20170420
+58,"['Sandra Le Grange', 'Nadine Ashraf']","['[RSA] ', '[EGY] ']","['21-16', '21-11']",WS - Group G,20170420
+59,"['Fred Kirabo', 'Isaac Senfuka', 'Tumisang Olekantse', 'Orideetse Thela']","['[UGA] ', '[UGA] ', '[BOT] ', '[BOT] ']","['21-19', '9-21', '21-12']",MD - Group A,20170420
+60,"['Koceila Mammeri', 'Youcef Sabri Medel', 'Melvin Appiah', 'Tejraj Pultoo']","['[ALG] ', '[ALG] ', '[MRI] ', '[MRI] ']","['21-14', '21-10']",MD - Group C,20170420
+61,"['Michael Jennings', 'Jason Mann', 'Ashel Dziva', 'Thabani Mathe']","['[RSA] ', '[RSA] ', '[ZIM] ', '[ZIM] ']","['21-15', '21-11']",MD - Group D,20170420
+62,"['Habeeb Temitope Bello', 'Abdulfatai Salaudeen', 'Kervin Ghislain', 'Steve Malcouzanne']","['[NGR] ', '[NGR] ', '[SEY] ', '[SEY] ']","['21-16', '18-21', '26-24']",MD - Group E,20170420
+63,"['Gideon Babalola', 'Clement Krobakpo', 'Rodrick Mulenga Mwansa', 'Juma Muwowo']","['[NGR] ', '[NGR] ', '[ZAM] ', '[ZAM] ']","['21-11', '21-15']",MD - Group F,20170420
+64,"['Dorcas Ajoke Adesokan', 'Zainab Momoh', 'Betty Apio', 'Gladys Mbabazi']","['[NGR] ', '[NGR] ', '[UGA] ', '[UGA] ']","['21-12', '21-17']",WD - Group C,20170420
+65,"['Kobita Dokhee', 'Sendila Mourat', 'Elizaberth Chipeleme', 'Ngandwe Miyambo']","['[MRI] ', '[MRI] ', '[ZAM] ', '[ZAM] ']","['21-9', '21-17']",WD - Group D,20170420
+66,"['Michelle Butler-Emmett', 'Jennifer Fry', 'Nyasha Kopolo', 'Kuzivakwashe Tritania Mudzamiri']","['[RSA] ', '[RSA] ', '[ZIM] ', '[ZIM] ']","['21-2', '21-2']",WD - Group A,20170420
+67,"['Cameron Coetzer', 'Jason Coetzer', 'Jean Bernard Bongout', 'Christopher Paul']","['[RSA] ', '[RSA] ', '[MRI] ', '[MRI] ']","['9-21', '21-19', '21-19']",MD - Group B,20170420
+68,"['Doha Hany', 'Hadia Hosny', 'Demi Botha', 'Lee-Ann De Wet']","['[EGY] ', '[EGY] ', '[RSA] ', '[RSA] ']","['21-16', '21-19']",WD - Group B,20170420
+69,"['Fred Kirabo', 'Betty Apio', 'Aatish Lubah', 'Kobita Dokhee']","['[UGA] ', '[UGA] ', '[MRI] ', '[MRI] ']","['16-21', '21-16', '21-18']",XD - Group B,20170420
+70,"['Jason Mann', 'Lee-Ann De Wet', 'Tefo Kabomo', 'Tessa Kabelo']","['[RSA] ', '[RSA] ', '[BOT] ', '[BOT] ']","['21-6', '21-12']",XD - Group C,20170420
+71,"['Koceila Mammeri', 'Linda Mazri', 'Thabani Mathe', 'Kuzivakwashe Tritania Mudzamiri']","['[ALG] ', '[ALG] ', '[ZIM] ', '[ZIM] ']","['21-6', '21-6']",XD - Group D,20170420
+72,"['Gideon Babalola', 'Dorcas Ajoke Adesokan', 'Melvin Appiah', 'Ganesha Mungrah']","['[NGR] ', '[NGR] ', '[MRI] ', '[MRI] ']","['21-10', '21-8']",XD - Group A,20170420
+73,"['Ali Ahmed El Khateeb', 'Hadia Hosny', 'Isaac Senfuka', 'Gladys Mbabazi']","['[EGY] ', '[EGY] ', '[UGA] ', '[UGA] ']","['21-10', '21-17']",XD - Group E,20170420
+74,"['Majed Yacine Balahoune', 'Halla Bouksani', 'Tejraj Pultoo', 'Sendila Mourat']","['[ALG] ', '[ALG] ', '[MRI] ', '[MRI] ']","['21-11', '21-14']",XD - Group I,20170420
+75,"['Bongani Von Bodenstein', 'Johanita Scholtz', 'Habeeb Temitope Bello', 'Zainab Momoh']","['[RSA] ', '[RSA] ', '[NGR] ', '[NGR] ']","['21-11', '21-19']",XD - Group F,20170420
+76,"['James Hilton Mcmanus', 'Michelle Butler-Emmett', 'Rodrick Mulenga Mwansa', 'Ngandwe Miyambo']","['[RSA] ', '[RSA] ', '[ZAM] ', '[ZAM] ']","['21-12', '21-7']",XD - Group G,20170420
+77,"['Adham Hatem Elgamal', 'Doha Hany', 'Tlhoego Chamo', 'Botho Makubate']","['[EGY] ', '[EGY] ', '[BOT] ', '[BOT] ']","['21-11', '21-8']",XD - Group H,20170420
+78,"['Georges Julien Paul [1]', 'Ashel Dziva']","['[MRI] ', '[ZIM] ']","['21-3', '21-10']",MS - Group A,20170420
+79,"['Ahmed Salah [2]', 'Bongani Von Bodenstein']","['[EGY] ', '[RSA] ']","['21-11', '21-10']",MS - Group B,20170420
+80,"['Habeeb Temitope Bello', 'Aatish Lubah [3]']","['[NGR] ', '[MRI] ']","['11-21', '21-19', '21-10']",MS - Group C,20170420
+81,"['Christopher Paul [4]', 'Gideon Babalola']","['[MRI] ', '[NGR] ']","['21-7', '21-13']",MS - Group D,20170420
+82,"['Abdelrahman Abdelhakim [6]', 'Jason Coetzer']","['[EGY] ', '[RSA] ']","['21-12', '21-10']",MS - Group E,20170420
+83,"['Jean Bernard Bongout [7]', 'Thabani Mathe']","['[MRI] ', '[ZIM] ']","['21-11', '21-10']",MS - Group F,20170420
+84,"['Kalombo Mulenga [5]', 'Koceila Mammeri']","['[ZAM] ', '[ALG] ']","['22-20', '21-14']",MS - Group G,20170420
+85,"['Chongo Ezra Mulenga [8]', 'Tefo Kabomo']","['[ZAM] ', '[BOT] ']","['21-6', '21-7']",MS - Group H,20170420
+86,"['Michael Jennings', 'Rodrick Mulenga Mwansa']","['[RSA] ', '[ZAM] ']","['21-19', '21-19']",MS - Group I,20170420
+87,"['Melvin Appiah', 'Tumisang Olekantse']","['[MRI] ', '[BOT] ']","['21-19', '21-17']",MS - Group J,20170420
+88,"['Mohamed Abderrahime Belarbi', 'Abdulfatai Salaudeen']","['[ALG] ', '[NGR] ']","['21-13', '21-8']",MS - Group K,20170420
+89,"['Adham Hatem Elgamal', 'Isaac Senfuka']","['[EGY] ', '[UGA] ']","['21-8', '21-5']",MS - Group L,20170420
+90,"['Kervin Ghislain', 'Tlhoego Chamo']","['[SEY] ', '[BOT] ']","['21-14', '21-9']",MS - Group M,20170420
+91,"['Kate Foo Kune [1]', 'Ngandwe Miyambo']","['[MRI] ', '[ZAM] ']","['21-8', '21-2']",WS - Group A,20170420
+92,"['Hadia Hosny [2]', 'Jabulile Geninda']","['[EGY] ', '[RSA] ']","['21-14', '21-6']",WS - Group B,20170420
+93,"['Ogar Siamupangila [3]', 'Kuzivakwashe Tritania Mudzamiri']","['[ZAM] ', '[ZIM] ']","['21-10', '21-6']",WS - Group C,20170420
+94,"['Menna Eltanany [4]', 'Kobita Dokhee']","['[EGY] ', '[MRI] ']","['21-11', '21-17']",WS - Group D,20170420
+95,"['Halla Bouksani', 'Nyasha Kopolo']","['[ALG] ', '[ZIM] ']","['21-6', '21-3']",WS - Group E,20170420
+96,"['Doha Hany', 'Zani Van Der Merwe']","['[EGY] ', '[RSA] ']","['21-7', '21-8']",WS - Group F,20170420
+97,"['Nadine Ashraf', 'Betty Apio']","['[EGY] ', '[UGA] ']","['21-8', '21-8']",WS - Group G,20170420
+98,"['Allisen Camille', 'Tessa Kabelo']","['[SEY] ', '[BOT] ']","['21-12', '21-8']",WS - Group H,20170420
+99,"['Johanita Scholtz', 'Evelyn Siamupangila']","['[RSA] ', '[ZAM] ']","['21-6', '21-13']",WS - Group J,20170420
+100,"['Aatish Lubah [1]', 'Georges Julien Paul', 'Tumisang Olekantse', 'Orideetse Thela']","['[MRI] ', '[MRI] ', '[BOT] ', '[BOT] ']","['21-10', '21-13']",MD - Group A,20170420
+101,"['Abdelrahman Abdelhakim [2]', 'Ahmed Salah', 'Cameron Coetzer', 'Jason Coetzer']","['[EGY] ', '[EGY] ', '[RSA] ', '[RSA] ']","['21-16', '11-21', '21-16']",MD - Group B,20170420
+102,"['Gladys Mbabazi', 'Ganesha Mungrah']","['[UGA] ', '[MRI] ']","['21-19', '21-12']",WS - Group I,20170420
+103,"['Andries Malan', 'James Hilton Mcmanus', 'Ali Ahmed El Khateeb', 'Adham Hatem Elgamal']","['[RSA] ', '[RSA] ', '[EGY] ', '[EGY] ']","['21-18', '21-15']",MD - Group G,20170420
+104,"['Koceila Mammeri', 'Youcef Sabri Medel', 'Ruan Snyman [4]', 'Bongani Von Bodenstein']","['[ALG] ', '[ALG] ', '[RSA] ', '[RSA] ']","['21-8', '21-15']",MD - Group C,20170420
+105,"['Chongo Ezra Mulenga [3]', 'Kalombo Mulenga', 'Ashel Dziva', 'Thabani Mathe']","['[ZAM] ', '[ZAM] ', '[ZIM] ', '[ZIM] ']","['21-12', '21-13']",MD - Group D,20170420
+106,"['Tlhoego Chamo', 'Tefo Kabomo', 'Rodrick Mulenga Mwansa', 'Juma Muwowo']","['[BOT] ', '[BOT] ', '[ZAM] ', '[ZAM] ']","['21-13', '21-14']",MD - Group F,20170420
+107,"['Mohamed Abderrahime Belarbi', 'Adel Hamek', 'Habeeb Temitope Bello', 'Abdulfatai Salaudeen']","['[ALG] ', '[ALG] ', '[NGR] ', '[NGR] ']","['15-21', '21-7', '21-14']",MD - Group E,20170420
+108,"['Michelle Butler-Emmett', 'Jennifer Fry', 'Nadine Ashraf [1]', 'Menna Eltanany']","['[RSA] ', '[RSA] ', '[EGY] ', '[EGY] ']","['21-11', '21-16']",WD - Group A,20170420
+109,"['Demi Botha', 'Lee-Ann De Wet', 'Evelyn Siamupangila [2]', 'Ogar Siamupangila']","['[RSA] ', '[RSA] ', '[ZAM] ', '[ZAM] ']","['21-16', '21-13']",WD - Group B,20170420
+110,"['Halla Bouksani', 'Linda Mazri', 'Elizaberth Chipeleme', 'Ngandwe Miyambo']","['[ALG] ', '[ALG] ', '[ZAM] ', '[ZAM] ']","['21-14', '21-17']",WD - Group D,20170420
+111,"['Dorcas Ajoke Adesokan', 'Zainab Momoh', 'Jabulile Geninda', 'Zani Van Der Merwe']","['[NGR] ', '[NGR] ', '[RSA] ', '[RSA] ']","['21-14', '21-6']",WD - Group C,20170420
+112,"['Sandra Le Grange', 'Johanita Scholtz', 'Botho Makubate', 'Leungo Bronia Tshweneetsile']","['[RSA] ', '[RSA] ', '[BOT] ', '[BOT] ']","['21-8', '21-12']",WD - Group E,20170420
+113,"['Georges Julien Paul', 'Kate Foo Kune', 'Ali Ahmed El Khateeb', 'Hadia Hosny']","['[MRI] ', '[MRI] ', '[EGY] ', '[EGY] ']","['21-14', '21-14']",XD - Group E,20170420
+114,"['Abdelrahman Abdelhakim [4]', 'Nadine Ashraf', 'Jason Mann', 'Lee-Ann De Wet']","['[EGY] ', '[EGY] ', '[RSA] ', '[RSA] ']","['21-18', '21-18']",XD - Group C,20170420
+115,"['Juma Muwowo [2]', 'Ogar Siamupangila', 'Aatish Lubah', 'Kobita Dokhee']","['[ZAM] ', '[ZAM] ', '[MRI] ', '[MRI] ']","['19-21', '21-17', '21-17']",XD - Group B,20170420
+116,"['Koceila Mammeri', 'Linda Mazri', 'Chongo Ezra Mulenga [3]', 'Evelyn Siamupangila']","['[ALG] ', '[ALG] ', '[ZAM] ', '[ZAM] ']","['21-8', '21-14']",XD - Group D,20170420
+117,"['Andries Malan', 'Jennifer Fry', 'Kervin Ghislain', 'Allisen Camille']","['[RSA] ', '[RSA] ', '[SEY] ', '[SEY] ']","['21-13', '21-12']",XD - Group J,20170420
+118,"['Kalombo Mulenga', 'Elizaberth Chipeleme', 'Habeeb Temitope Bello', 'Zainab Momoh']","['[ZAM] ', '[ZAM] ', '[NGR] ', '[NGR] ']","['21-13', '21-6']",XD - Group F,20170420
+119,"['Tumisang Olekantse', 'Leungo Bronia Tshweneetsile', 'Rodrick Mulenga Mwansa', 'Ngandwe Miyambo']","['[BOT] ', '[BOT] ', '[ZAM] ', '[ZAM] ']","['21-17', '21-14']",XD - Group G,20170420
+120,"['Cameron Coetzer', 'Demi Botha', 'Tlhoego Chamo', 'Botho Makubate']","['[RSA] ', '[RSA] ', '[BOT] ', '[BOT] ']","['21-9', '21-19']",XD - Group H,20170420
+121,"['Majed Yacine Balahoune', 'Halla Bouksani', 'Ashel Dziva', 'Nyasha Kopolo']","['[ALG] ', '[ALG] ', '[ZIM] ', '[ZIM] ']","['21-8', '21-16']",XD - Group I,20170420
+122,"['Ahmed Salah [1]', 'Menna Eltanany', 'Gideon Babalola', 'Dorcas Ajoke Adesokan']","['[EGY] ', '[EGY] ', '[NGR] ', '[NGR] ']","['21-19', '12-21', '22-20']",XD - Group A,20170420
+123,"['Adham Hatem Elgamal', 'Clement Krobakpo']","['[EGY] ', '[NGR] ']","['12-21', '21-9', '23-21']",MS,20170420
+124,"['Adel Hamek', 'Abdelrahman Abdelhakim [6]']","['[ALG] ', '[EGY] ']","['21-17', '21-17']",MS,20170420
+125,"['Ali Ahmed El Khateeb', 'Youcef Sabri Medel']","['[EGY] ', '[ALG] ']","['22-20', '21-7']",MS,20170420
+126,"['Habeeb Temitope Bello', 'Kervin Ghislain']","['[NGR] ', '[SEY] ']","['21-16', '21-19']",MS,20170420
+127,"['Mohamed Abderrahime Belarbi', 'Chongo Ezra Mulenga [8]']","['[ALG] ', '[ZAM] ']","['21-17', '14-21', '21-12']",MS,20170420
+128,"['Johanita Scholtz', 'Halla Bouksani']","['[RSA] ', '[ALG] ']","['21-12', '21-17']",WS,20170420
+129,"['Dorcas Ajoke Adesokan', 'Doha Hany']","['[NGR] ', '[EGY] ']","['21-17', '21-15']",WS,20170420
+130,"['Andries Malan', 'James Hilton Mcmanus', 'Ruan Snyman [4]', 'Bongani Von Bodenstein']","['[RSA] ', '[RSA] ', '[RSA] ', '[RSA] ']","['21-8', '21-17']",MD,20170420
+131,"['Chongo Ezra Mulenga [3]', 'Kalombo Mulenga', 'Tlhoego Chamo', 'Tefo Kabomo']","['[ZAM] ', '[ZAM] ', '[BOT] ', '[BOT] ']","['21-13', '21-23', '21-15']",MD,20170420
+132,"['Mohamed Abderrahime Belarbi', 'Adel Hamek', 'Cameron Coetzer', 'Jason Coetzer']","['[ALG] ', '[ALG] ', '[RSA] ', '[RSA] ']","['21-15', '21-10']",MD,20170420
+133,"['Gideon Babalola', 'Clement Krobakpo', 'Fred Kirabo', 'Isaac Senfuka']","['[NGR] ', '[NGR] ', '[UGA] ', '[UGA] ']",[],MD,20170420
+134,"['Koceila Mammeri', 'Youcef Sabri Medel', 'Habeeb Temitope Bello', 'Abdulfatai Salaudeen']","['[ALG] ', '[ALG] ', '[NGR] ', '[NGR] ']","['21-11', '21-16']",MD,20170420
+135,"['Ali Ahmed El Khateeb', 'Adham Hatem Elgamal', 'Michael Jennings', 'Jason Mann']","['[EGY] ', '[EGY] ', '[RSA] ', '[RSA] ']","['21-18', '22-20']",MD,20170420
+136,"['Sandra Le Grange', 'Johanita Scholtz', 'Demi Botha', 'Lee-Ann De Wet']","['[RSA] ', '[RSA] ', '[RSA] ', '[RSA] ']","['21-15', '21-16']",WD,20170420
+137,"['Botho Makubate', 'Leungo Bronia Tshweneetsile', 'Nadine Ashraf [1]', 'Menna Eltanany']","['[BOT] ', '[BOT] ', '[EGY] ', '[EGY] ']","['7-21', '21-16', '21-19']",WD,20170420
+138,"['Georges Julien Paul', 'Kate Foo Kune', 'Majed Yacine Balahoune', 'Halla Bouksani']","['[MRI] ', '[MRI] ', '[ALG] ', '[ALG] ']","['21-12', '21-5']",XD,20170420
+139,"['Andries Malan', 'Jennifer Fry', 'Kalombo Mulenga', 'Elizaberth Chipeleme']","['[RSA] ', '[RSA] ', '[ZAM] ', '[ZAM] ']","['21-15', '21-5']",XD,20170420
+140,"['Hadia Hosny [2]', 'Dorcas Ajoke Adesokan']","['[EGY] ', '[NGR] ']","['13-21', '21-19', '21-13']",WS ,20170420
+141,"['Adel Hamek', 'Georges Julien Paul [1]']","['[ALG] ', '[MRI] ']","['15-21', '21-15', '22-20']",MS ,20170420
+142,"['Doha Hany', 'Hadia Hosny', 'Dorcas Ajoke Adesokan', 'Zainab Momoh']","['[EGY] ', '[EGY] ', '[NGR] ', '[NGR] ']","['21-4', '24-26', '21-18']",WD ,20170420
+143,"['Andries Malan', 'James Hilton Mcmanus', 'Mohamed Abderrahime Belarbi', 'Adel Hamek']","['[RSA] ', '[RSA] ', '[ALG] ', '[ALG] ']","['21-17', '21-15']",MD ,20170420
+144,"['Georges Julien Paul', 'Kate Foo Kune', 'Ahmed Salah [1]', 'Menna Eltanany']","['[MRI] ', '[MRI] ', '[EGY] ', '[EGY] ']","['21-19', '21-15']",XD ,20170420
+145,"['Michelle Butler-Emmett', 'Jennifer Fry', 'Sandra Le Grange', 'Johanita Scholtz']","['[RSA] ', '[RSA] ', '[RSA] ', '[RSA] ']","['21-15', '22-20']",WD ,20170420
+146,"['Ahmed Salah [2]', 'Ali Ahmed El Khateeb']","['[EGY] ', '[EGY] ']","['21-17', '21-15']",MS ,20170420
+147,"['Kate Foo Kune [1]', 'Menna Eltanany [4]']","['[MRI] ', '[EGY] ']","['21-14', '21-6']",WS ,20170420
+148,"['Koceila Mammeri', 'Youcef Sabri Medel', 'Ali Ahmed El Khateeb', 'Adham Hatem Elgamal']","['[ALG] ', '[ALG] ', '[EGY] ', '[EGY] ']","['18-21', '21-14', '21-15']",MD ,20170420
+149,"['Andries Malan', 'Jennifer Fry', 'Adham Hatem Elgamal', 'Doha Hany']","['[RSA] ', '[RSA] ', '[EGY] ', '[EGY] ']","['21-14', '21-12']",XD ,20170420
+150,"['Kate Foo Kune [1]', 'Hadia Hosny [2]']","['[MRI] ', '[EGY] ']","['16-21', '21-14', '21-8']",WS ,20170420
+151,"['Koceila Mammeri', 'Youcef Sabri Medel', 'Andries Malan', 'James Hilton Mcmanus']","['[ALG] ', '[ALG] ', '[RSA] ', '[RSA] ']","['13-21', '21-19', '21-9']",MD ,20170420
+152,"['Michelle Butler-Emmett', 'Jennifer Fry', 'Doha Hany', 'Hadia Hosny']","['[RSA] ', '[RSA] ', '[EGY] ', '[EGY] ']","['21-12', '15-21', '21-12']",WD ,20170420
+153,"['Adel Hamek', 'Ahmed Salah [2]']","['[ALG] ', '[EGY] ']","['21-19', '21-13']",MS ,20170420
+154,"['Andries Malan', 'Jennifer Fry', 'Georges Julien Paul', 'Kate Foo Kune']","['[RSA] ', '[RSA] ', '[MRI] ', '[MRI] ']","['21-19', '19-21', '21-19']",XD ,20170420

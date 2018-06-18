@@ -1,0 +1,85 @@
+,PLAYERS,COUNTRIES,SCORES,EVENT,match_week
+0,"['Lazaro Yovani Madera Padrino', 'Angel Argenis Marinez Ulloa']","['[CUB] ', '[DOM] ']","['21-18', '21-5']",MS,20170323
+1,"['Christopher Alexander Martinez Salvador', 'Arturo Hernandez']","['[GUA] ', '[MEX] ']","['21-16', '25-23']",MS,20170323
+2,"['Ernesto Reyes', 'Lukas Osele']","['[CUB] ', '[ITA] ']","['21-17', '21-17']",MS,20170323
+3,"['Giovanni Greco', 'Daimel Roll']","['[ITA] ', '[CUB] ']","['21-9', '21-5']",MS,20170323
+4,"['Mathew Fogarty', 'Rafael Colombat Vinent']","['[USA] ', '[CUB] ']","['21-12', '21-14']",MS,20170323
+5,"['Therry Aquino', 'Manuel Del Rosario Pargas']","['[DOM] ', '[CUB] ']","['21-4', '21-4']",MS,20170323
+6,"['Wandy Luis Roman Gonzalez', 'Gustavo Morales']","['[CUB] ', '[PAN] ']","['21-6', '21-8']",MS,20170323
+7,"['Angel Herrera Rodríguez', 'Reimi Starling Cabrera Rosario']","['[CUB] ', '[DOM] ']","['21-17', '14-21', '21-18']",MS,20170323
+8,"['Kevin Strobl', 'Daniel Lopes Aguilera']","['[ITA] ', '[CUB] ']","['21-8', '21-12']",MS,20170323
+9,"['Leodannis Martinez', 'Jorge Rodriguez']","['[CUB] ', '[MEX] ']",[],MS,20170323
+10,"['Wilmer Daniel Brea Nuñez', 'Jose Carlos Suarez Ataury']","['[DOM] ', '[CUB] ']","['21-19', '21-13']",MS,20170323
+11,"['Cesar Adonis Brito Gonzalez', 'Yan Tuck Chan']","['[DOM] ', '[USA] ']","['16-21', '21-11', '21-10']",MS,20170323
+12,"['Adaivis Robinson Garcia', 'Jennifer Yee']","['[CUB] ', '[USA] ']","['21-18', '11-21', '21-18']",WS,20170323
+13,"['Nairoby Abigail Jimenez', 'Camila Palacio Reyes']","['[DOM] ', '[CUB] ']","['21-13', '21-13']",WS,20170323
+14,"['Tahimara Oropeza', 'Nikte Alejandra Sotomayor']","['[CUB] ', '[GUA] ']","['20-22', '21-19', '21-7']",WS,20170323
+15,"['Silvia Garino', 'Barbara Ines La Rosa Torres']","['[ITA] ', '[CUB] ']","['21-11', '21-9']",WS,20170323
+16,"['Mariana Isabel Paiz Quan', 'Yuvisleydis Ramirez Chapman']","['[GUA] ', '[CUB] ']","['21-14', '21-9']",WS,20170323
+17,"['Alejandra Jose Paiz Quan', 'Yudima Garcia Valdez']","['[GUA] ', '[CUB] ']","['21-3', '21-11']",WS,20170323
+18,"['Rosario Maddaloni [1]', 'Lazaro Yovani Madera Padrino']","['[ITA] ', '[CUB] ']","['21-8', '21-10']",MS,20170323
+19,"['Christopher Alexander Martinez Salvador', 'Ernesto Reyes']","['[GUA] ', '[CUB] ']","['21-16', '21-15']",MS,20170323
+20,"['Giovanni Greco', 'Nicholas Bonkowsky [3]']","['[ITA] ', '[TTO] ']","['21-6', '21-7']",MS,20170323
+21,"['Therry Aquino', 'Mathew Fogarty']","['[DOM] ', '[USA] ']","['21-15', '21-9']",MS,20170323
+22,"['Angel Herrera Rodríguez', 'Wandy Luis Roman Gonzalez']","['[CUB] ', '[CUB] ']","['21-11', '21-12']",MS,20170323
+23,"['Matteo Bellucci [4]', 'Kevin Strobl']","['[ITA] ', '[ITA] ']","['21-17', '21-18']",MS,20170323
+24,"['Leodannis Martinez', 'Wilmer Daniel Brea Nuñez']","['[CUB] ', '[DOM] ']","['21-8', '21-5']",MS,20170323
+25,"['Osleni Guerrero [2]', 'Cesar Adonis Brito Gonzalez']","['[CUB] ', '[DOM] ']","['21-14', '21-9']",MS,20170323
+26,"['Laura Sarosi [1]', 'Adriana Artiz Ataury']","['[HUN] ', '[CUB] ']","['21-11', '21-13']",WS,20170323
+27,"['Marianne Gonzalez Ortiz', 'Adaivis Robinson Garcia']","['[CUB] ', '[CUB] ']","['21-14', '21-12']",WS,20170323
+28,"['Nairoby Abigail Jimenez', 'Lisa Iversen [4]']","['[DOM] ', '[ITA] ']","['21-16', '19-21', '21-14']",WS,20170323
+29,"['Tahimara Oropeza', 'Yeily Mari Ortiz Rodriguez']","['[CUB] ', '[CUB] ']","['21-7', '21-18']",WS,20170323
+30,"['Bermary Altagracia Polanco Munoz', 'Silvia Garino']","['[DOM] ', '[ITA] ']","['21-16', '21-18']",WS,20170323
+31,"['Mariana Ugalde [3]', 'Mariana Isabel Paiz Quan']","['[MEX] ', '[GUA] ']","['21-14', '21-9']",WS,20170323
+32,"['Diana Corleto Soto', 'Alejandra Jose Paiz Quan']","['[GUA] ', '[GUA] ']","['21-14', '18-21', '21-19']",WS,20170323
+33,"['Aimee Moran [2]', 'Thalia Mengana Marrero']","['[WAL] ', '[CUB] ']","['21-12', '21-11']",WS,20170323
+34,"['Arturo Hernandez', 'Laura Sarosi', 'Wandy Luis Roman Gonzalez', 'Adaivis Robinson Garcia']","['[MEX] ', '[HUN] ', '[CUB] ', '[CUB] ']","['21-8', '21-12']",XD,20170323
+35,"['Christopher Alexander Martinez Salvador', 'Diana Corleto Soto', 'Manuel Del Rosario Pargas', 'Marianne Gonzalez Ortiz']","['[GUA] ', '[GUA] ', '[CUB] ', '[CUB] ']","['21-8', '21-5']",XD,20170323
+36,"['Rosario Maddaloni [1]', 'Christopher Alexander Martinez Salvador']","['[ITA] ', '[GUA] ']","['21-13', '21-8']",MS,20170323
+37,"['Giovanni Greco', 'Therry Aquino']","['[ITA] ', '[DOM] ']","['21-14', '21-12']",MS,20170323
+38,"['Angel Herrera Rodríguez', 'Matteo Bellucci [4]']","['[CUB] ', '[ITA] ']","['14-21', '23-21', '21-17']",MS,20170323
+39,"['Osleni Guerrero [2]', 'Leodannis Martinez']","['[CUB] ', '[CUB] ']","['21-14', '21-14']",MS,20170323
+40,"['Laura Sarosi [1]', 'Marianne Gonzalez Ortiz']","['[HUN] ', '[CUB] ']","['21-14', '21-11']",WS,20170323
+41,"['Tahimara Oropeza', 'Nairoby Abigail Jimenez']","['[CUB] ', '[DOM] ']","['20-22', '21-13', '21-14']",WS,20170323
+42,"['Mariana Ugalde [3]', 'Bermary Altagracia Polanco Munoz']","['[MEX] ', '[DOM] ']","['21-16', '21-10']",WS,20170323
+43,"['Aimee Moran [2]', 'Diana Corleto Soto']","['[WAL] ', '[GUA] ']","['21-17', '21-14']",WS,20170323
+44,"['Cesar Adonis Brito Gonzalez', 'Angel Argenis Marinez Ulloa', 'Rafael Colombat Vinent', 'Manuel Del Rosario Pargas']","['[DOM] ', '[DOM] ', '[CUB] ', '[CUB] ']","['21-3', '21-6']",MD,20170323
+45,"['Giovanni Greco', 'Rosario Maddaloni', 'Angel Herrera Rodríguez', 'Ernesto Reyes']","['[ITA] ', '[ITA] ', '[CUB] ', '[CUB] ']","['21-14', '21-10']",MD,20170323
+46,"['Solis Jonathan', 'Christopher Alexander Martinez Salvador', 'Therry Aquino', 'Reimi Starling Cabrera Rosario']","['[GUA] ', '[GUA] ', '[DOM] ', '[DOM] ']","['21-15', '21-10']",MD,20170323
+47,"['Alejandra Jose Paiz Quan', 'Nikte Alejandra Sotomayor', 'Yuvisleydis Ramirez Chapman', 'Adaivis Robinson Garcia']","['[GUA] ', '[GUA] ', '[CUB] ', '[CUB] ']","['21-15', '21-14']",WD,20170323
+48,"['Laura Sarosi', 'Mariana Ugalde', 'Thalia Mengana Marrero', 'Yeily Mari Ortiz Rodriguez']","['[HUN] ', '[MEX] ', '[CUB] ', '[CUB] ']","['21-6', '21-4']",WD,20170323
+49,"['Yan Tuck Chan [1]', 'Yuko Kawasaki', 'Jose Carlos Suarez Ataury', 'Yudima Garcia Valdez']","['[USA] ', '[USA] ', '[CUB] ', '[CUB] ']","['21-12', '21-14']",XD,20170323
+50,"['Leodannis Martinez', 'Tahimara Oropeza', 'Rafael Colombat Vinent', 'Camila Palacio Reyes']","['[CUB] ', '[CUB] ', '[CUB] ', '[CUB] ']","['21-7', '21-1']",XD,20170323
+51,"['Lukas Osele', 'Lisa Iversen', 'Cesar Adonis Brito Gonzalez [3]', 'Nairoby Abigail Jimenez']","['[ITA] ', '[ITA] ', '[DOM] ', '[DOM] ']","['21-16', '19-21', '21-19']",XD,20170323
+52,"['Ernesto Reyes', 'Adriana Artiz Ataury', 'Christopher Alexander Martinez Salvador', 'Diana Corleto Soto']","['[CUB] ', '[CUB] ', '[GUA] ', '[GUA] ']","['13-21', '22-20', '21-12']",XD,20170323
+53,"['Arturo Hernandez', 'Laura Sarosi', 'Lazaro Yovani Madera Padrino', 'Thalia Mengana Marrero']","['[MEX] ', '[HUN] ', '[CUB] ', '[CUB] ']","['22-20', '21-13']",XD,20170323
+54,"['Angel Argenis Marinez Ulloa [4]', 'Bermary Altagracia Polanco Munoz', 'Daimel Roll', 'Barbara Ines La Rosa Torres']","['[DOM] ', '[DOM] ', '[CUB] ', '[CUB] ']","['21-17', '21-14']",XD,20170323
+55,"['Solis Jonathan', 'Mariana Isabel Paiz Quan', 'Daniel Lopes Aguilera', 'Yuvisleydis Ramirez Chapman']","['[GUA] ', '[GUA] ', '[CUB] ', '[CUB] ']","['21-13', '21-9']",XD,20170323
+56,"['Kevin Strobl [2]', 'Silvia Garino', 'Angel Herrera Rodríguez', 'Yeily Mari Ortiz Rodriguez']","['[ITA] ', '[ITA] ', '[CUB] ', '[CUB] ']","['21-12', '21-14']",XD,20170323
+57,"['Lukas Osele [1]', 'Kevin Strobl', 'Daimel Roll', 'Jose Carlos Suarez Ataury']","['[ITA] ', '[ITA] ', '[CUB] ', '[CUB] ']","['21-7', '21-9']",MD,20170323
+58,"['Cesar Adonis Brito Gonzalez', 'Angel Argenis Marinez Ulloa', 'Lazaro Yovani Madera Padrino', 'Wandy Luis Roman Gonzalez']","['[DOM] ', '[DOM] ', '[CUB] ', '[CUB] ']","['21-13', '21-15']",MD,20170323
+59,"['Osleni Guerrero', 'Leodannis Martinez', 'Giovanni Greco', 'Rosario Maddaloni']","['[CUB] ', '[CUB] ', '[ITA] ', '[ITA] ']","['23-21', '21-16']",MD,20170323
+60,"['Solis Jonathan', 'Christopher Alexander Martinez Salvador', 'Nicholas Bonkowsky [2]', 'Mathew Fogarty']","['[GUA] ', '[GUA] ', '[TTO] ', '[USA] ']","['21-15', '21-14']",MD,20170323
+61,"['Silvia Garino [1]', 'Lisa Iversen', 'Yudima Garcia Valdez', 'Barbara Ines La Rosa Torres']","['[ITA] ', '[ITA] ', '[CUB] ', '[CUB] ']","['21-11', '21-11']",WD,20170323
+62,"['Alejandra Jose Paiz Quan', 'Nikte Alejandra Sotomayor', 'Marianne Gonzalez Ortiz', 'Camila Palacio Reyes']","['[GUA] ', '[GUA] ', '[CUB] ', '[CUB] ']","['21-7', '21-10']",WD,20170323
+63,"['Laura Sarosi', 'Mariana Ugalde', 'Adriana Artiz Ataury', 'Tahimara Oropeza']","['[HUN] ', '[MEX] ', '[CUB] ', '[CUB] ']","['21-10', '21-16']",WD,20170323
+64,"['Diana Corleto Soto', 'Mariana Isabel Paiz Quan', 'Nairoby Abigail Jimenez [2]', 'Bermary Altagracia Polanco Munoz']","['[GUA] ', '[GUA] ', '[DOM] ', '[DOM] ']","['22-20', '21-14']",WD,20170323
+65,"['Leodannis Martinez', 'Tahimara Oropeza', 'Yan Tuck Chan [1]', 'Yuko Kawasaki']","['[CUB] ', '[CUB] ', '[USA] ', '[USA] ']","['21-8', '21-8']",XD,20170323
+66,"['Lukas Osele', 'Lisa Iversen', 'Ernesto Reyes', 'Adriana Artiz Ataury']","['[ITA] ', '[ITA] ', '[CUB] ', '[CUB] ']","['22-24', '21-16', '21-17']",XD,20170323
+67,"['Arturo Hernandez', 'Laura Sarosi', 'Angel Argenis Marinez Ulloa [4]', 'Bermary Altagracia Polanco Munoz']","['[MEX] ', '[HUN] ', '[DOM] ', '[DOM] ']","['21-17', '21-19']",XD,20170323
+68,"['Solis Jonathan', 'Mariana Isabel Paiz Quan', 'Kevin Strobl [2]', 'Silvia Garino']","['[GUA] ', '[GUA] ', '[ITA] ', '[ITA] ']","['17-21', '23-21', '21-15']",XD,20170323
+69,"['Laura Sarosi [1]', 'Tahimara Oropeza']","['[HUN] ', '[CUB] ']","['21-18', '21-5']",WS ,20170323
+70,"['Osleni Guerrero [2]', 'Angel Herrera Rodríguez']","['[CUB] ', '[CUB] ']","['21-14', '21-12']",MS ,20170323
+71,"['Silvia Garino [1]', 'Lisa Iversen', 'Alejandra Jose Paiz Quan', 'Nikte Alejandra Sotomayor']","['[ITA] ', '[ITA] ', '[GUA] ', '[GUA] ']","['21-17', '21-13']",WD ,20170323
+72,"['Osleni Guerrero', 'Leodannis Martinez', 'Solis Jonathan', 'Christopher Alexander Martinez Salvador']","['[CUB] ', '[CUB] ', '[GUA] ', '[GUA] ']","['21-16', '21-11']",MD ,20170323
+73,"['Leodannis Martinez', 'Tahimara Oropeza', 'Lukas Osele', 'Lisa Iversen']","['[CUB] ', '[CUB] ', '[ITA] ', '[ITA] ']","['21-9', '21-14']",XD ,20170323
+74,"['Mariana Ugalde [3]', 'Aimee Moran [2]']","['[MEX] ', '[WAL] ']","['21-15', '21-19']",WS ,20170323
+75,"['Rosario Maddaloni [1]', 'Giovanni Greco']","['[ITA] ', '[ITA] ']","['22-20', '21-12']",MS ,20170323
+76,"['Laura Sarosi', 'Mariana Ugalde', 'Diana Corleto Soto', 'Mariana Isabel Paiz Quan']","['[HUN] ', '[MEX] ', '[GUA] ', '[GUA] ']","['21-12', '21-12']",WD ,20170323
+77,"['Lukas Osele [1]', 'Kevin Strobl', 'Cesar Adonis Brito Gonzalez', 'Angel Argenis Marinez Ulloa']","['[ITA] ', '[ITA] ', '[DOM] ', '[DOM] ']","['21-17', '21-10']",MD ,20170323
+78,"['Solis Jonathan', 'Mariana Isabel Paiz Quan', 'Arturo Hernandez', 'Laura Sarosi']","['[GUA] ', '[GUA] ', '[MEX] ', '[HUN] ']","['8-21', '21-19', '22-20']",XD ,20170323
+79,"['Osleni Guerrero [2]', 'Rosario Maddaloni [1]']","['[CUB] ', '[ITA] ']","['21-15', '21-15']",MS ,20170323
+80,"['Laura Sarosi [1]', 'Mariana Ugalde [3]']","['[HUN] ', '[MEX] ']","['21-19', '21-15']",WS ,20170323
+81,"['Osleni Guerrero', 'Leodannis Martinez', 'Lukas Osele [1]', 'Kevin Strobl']","['[CUB] ', '[CUB] ', '[ITA] ', '[ITA] ']","['21-11', '22-24', '21-8']",MD ,20170323
+82,"['Laura Sarosi', 'Mariana Ugalde', 'Silvia Garino [1]', 'Lisa Iversen']","['[HUN] ', '[MEX] ', '[ITA] ', '[ITA] ']","['21-15', '21-17']",WD ,20170323
+83,"['Leodannis Martinez', 'Tahimara Oropeza', 'Solis Jonathan', 'Mariana Isabel Paiz Quan']","['[CUB] ', '[CUB] ', '[GUA] ', '[GUA] ']","['21-2', '21-13']",XD ,20170323

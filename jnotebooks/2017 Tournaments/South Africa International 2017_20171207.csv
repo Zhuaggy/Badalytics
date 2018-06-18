@@ -1,0 +1,69 @@
+,PLAYERS,COUNTRIES,SCORES,EVENT,match_week
+0,"['Mohd Naser Mansour Nayef', 'Chongo Ezra Mulenga']","['[JOR] ', '[ZAM] ']","['21-18', '21-12']",MS,20171207
+1,"['Christopher Paul', 'Cameron Coetzer']","['[MRI] ', '[RSA] ']","['10-21', '21-13', '21-17']",MS,20171207
+2,"['Edwin Akwanyi', 'Jarred Elliot']","['[KEN] ', '[RSA] ']","['21-23', '23-21', '22-20']",MS,20171207
+3,"['Clement Krobakpo', 'Matthew Michel']","['[NGR] ', '[RSA] ']","['21-7', '21-12']",MS,20171207
+4,"['Maxime Moreels [1]', 'Justin Bezuidenhout']","['[BEL] ', '[RSA] ']","['21-9', '21-5']",MS,20171207
+5,"['Zach Russ', 'Youcef Sabri Medel']","['[ENG] ', '[ALG] ']",[],MS,20171207
+6,"['Aatish Lubah [6]', 'Daniel Steyn']","['[MRI] ', '[RSA] ']","['21-9', '21-7']",MS,20171207
+7,"['Adam Mendrek [4]', 'Dillan Kyle Schaap']","['[CZE] ', '[RSA] ']","['21-8', '21-9']",MS,20171207
+8,"['Abdelrahman Kashkal', 'Robert Summers']","['[EGY] ', '[RSA] ']","['21-16', '21-16']",MS,20171207
+9,"['Abdelrahman Abdelhakim [5]', 'Ryan Armand Swart']","['[EGY] ', '[RSA] ']","['21-8', '21-7']",MS,20171207
+10,"['Mohd Naser Mansour Nayef', 'Bongani Von Bodenstein']","['[JOR] ', '[RSA] ']","['21-16', '21-18']",MS,20171207
+11,"['Christopher Paul', 'Paul Kopolo']","['[MRI] ', '[ZIM] ']","['21-7', '21-5']",MS,20171207
+12,"['Edwin Akwanyi', 'Morne De Beer']","['[KEN] ', '[RSA] ']","['22-20', '21-16']",MS,20171207
+13,"['Robert Mann [7]', 'Auston Govender']","['[LUX] ', '[RSA] ']","['21-5', '21-5']",MS,20171207
+14,"['Ruan Snyman', 'Jovica Rujevic']","['[RSA] ', '[SRB] ']",[],MS,20171207
+15,"['Georges Julien Paul [3]', 'Koceila Mammeri']","['[MRI] ', '[ALG] ']",[],MS,20171207
+16,"['Clement Krobakpo', 'Travis Allison']","['[NGR] ', '[RSA] ']","['21-16', '21-14']",MS,20171207
+17,"['Bahaedeen Ahmad Alshannik [8]', 'Mikaeel Mirza']","['[JOR] ', '[RSA] ']","['21-5', '21-8']",MS,20171207
+18,"['Emmanuel Yaw Donkor', 'Thabani Mathe']","['[GHA] ', '[ZIM] ']","['21-7', '21-7']",MS,20171207
+19,"['Jason Mann', 'Anatoliy Yartsev [2]']","['[RSA] ', '[RUS] ']",[],MS,20171207
+20,"['Adarsh Kumar', 'Jagadish Yadav', 'Daniel Steyn', 'Robert Summers']","['[IND] ', '[IND] ', '[RSA] ', '[RSA] ']","['21-14', '21-12']",MD,20171207
+21,"['Abdelrahman Kashkal', 'Doha Hany', 'Glen Brothers', 'Charlene Brothers']","['[EGY] ', '[EGY] ', '[RSA] ', '[RSA] ']","['21-13', '21-18']",XD,20171207
+22,"['Maxime Moreels [1]', 'Zach Russ']","['[BEL] ', '[ENG] ']","['21-10', '21-17']",MS,20171207
+23,"['Aatish Lubah [6]', 'Mohd Naser Mansour Nayef']","['[MRI] ', '[JOR] ']","['21-15', '21-16']",MS,20171207
+24,"['Adam Mendrek [4]', 'Abdelrahman Kashkal']","['[CZE] ', '[EGY] ']","['21-11', '21-9']",MS,20171207
+25,"['Abdelrahman Abdelhakim [5]', 'Christopher Paul']","['[EGY] ', '[MRI] ']","['17-21', '21-19', '24-22']",MS,20171207
+26,"['Robert Mann [7]', 'Edwin Akwanyi']","['[LUX] ', '[KEN] ']","['21-11', '21-19']",MS,20171207
+27,"['Georges Julien Paul [3]', 'Ruan Snyman']","['[MRI] ', '[RSA] ']","['21-18', '21-8']",MS,20171207
+28,"['Bahaedeen Ahmad Alshannik [8]', 'Clement Krobakpo']","['[JOR] ', '[NGR] ']","['18-21', '21-19', '21-19']",MS,20171207
+29,"['Emmanuel Yaw Donkor', 'Jason Mann']","['[GHA] ', '[RSA] ']","['21-3', '21-8']",MS,20171207
+30,"['Kate Foo Kune [1]', 'Demi Botha']","['[MRI] ', '[RSA] ']","['21-4', '21-17']",WS,20171207
+31,"['Elizaberth Chipeleme', 'Chantall Mccarty']","['[ZAM] ', '[RSA] ']","['21-2', '21-15']",WS,20171207
+32,"['Michelle Butler-Emmett', 'Kobita Dookhee']","['[RSA] ', '[MRI] ']","['21-13', '22-20']",WS,20171207
+33,"['Megan De Beer', 'Aurelie Marie Elisa Allet']","['[RSA] ', '[MRI] ']","['17-21', '21-8', '27-25']",WS,20171207
+34,"['Vaishnavi Reddy Jakka [3]', 'Sandra Le Grange']","['[IND] ', '[RSA] ']","['21-8', '21-9']",WS,20171207
+35,"['Evelyn Siamupangila', 'Soaniaina Razanamaly']","['[ZAM] ', '[MAD] ']","['21-19', '18-21', '25-23']",WS,20171207
+36,"['Dorcas Ajoke Adesokan [2]', 'Mercy Joseph']","['[NGR] ', '[KEN] ']","['21-8', '21-7']",WS,20171207
+37,"['Aatish Lubah [1]', 'Georges Julien Paul', 'Cameron Coetzer', 'Jason Coetzer']","['[MRI] ', '[MRI] ', '[RSA] ', '[RSA] ']","['21-11', '15-21', '21-11']",MD,20171207
+38,"['Jason Mann', 'Dillan Kyle Schaap', 'Travis Allison', 'Jovica Rujevic']","['[RSA] ', '[RSA] ', '[RSA] ', '[SRB] ']",[],MD,20171207
+39,"['Kapil Chaudhary', 'Brijesh Yadav', 'Ruan Snyman [4]', 'Bongani Von Bodenstein']","['[IND] ', '[IND] ', '[RSA] ', '[RSA] ']","['21-19', '21-15']",MD,20171207
+40,"['Neville Liebenberg', 'Jaques Van Dyk', 'Jarred Elliot', 'Ryan Armand Swart']","['[RSA] ', '[RSA] ', '[RSA] ', '[RSA] ']","['23-21', '17-21', '21-10']",MD,20171207
+41,"['Adarsh Kumar', 'Jagadish Yadav', 'Matthew Michel', 'Andile Zuma']","['[IND] ', '[IND] ', '[RSA] ', '[RSA] ']","['21-9', '21-17']",MD,20171207
+42,"['Glen Brothers', 'Morne De Beer', 'Koceila Mammeri [3]', 'Youcef Sabri Medel']","['[RSA] ', '[RSA] ', '[ALG] ', '[ALG] ']",[],MD,20171207
+43,"['Kona Tarun', 'Saurabh Sharma', 'Paul Kopolo', 'Thabani Mathe']","['[IND] ', '[IND] ', '[ZIM] ', '[ZIM] ']","['21-12', '21-10']",MD,20171207
+44,"['Bahaedeen Ahmad Alshannik [2]', 'Mohd Naser Mansour Nayef', 'Andries Malan', 'James Hilton Mcmanus']","['[JOR] ', '[JOR] ', '[RSA] ', '[RSA] ']","['21-15', '21-19']",MD,20171207
+45,"['Jason Mann', 'Michelle Butler-Emmett', 'Jaques Van Dyk', 'Lynn Fry']","['[RSA] ', '[RSA] ', '[RSA] ', '[RSA] ']","['21-11', '21-12']",XD,20171207
+46,"['Adam Mendrek', 'Kate Foo Kune', 'Georges Julien Paul', 'Aurelie Marie Elisa Allet']","['[CZE] ', '[MRI] ', '[MRI] ', '[MRI] ']","['15-21', '21-10', '22-20']",XD,20171207
+47,"['Aatish Lubah', 'Kobita Dookhee', 'Chongo Ezra Mulenga [3]', 'Evelyn Siamupangila']","['[MRI] ', '[MRI] ', '[ZAM] ', '[ZAM] ']","['21-14', '21-17']",XD,20171207
+48,"['Edwin Akwanyi', 'Mercy Joseph', 'Jovica Rujevic', 'Sandra Le Grange']","['[KEN] ', '[KEN] ', '[SRB] ', '[RSA] ']",[],XD,20171207
+49,"['Saurabh Sharma [1]', 'Anoushka Parikh', 'Morne De Beer', 'Megan De Beer']","['[IND] ', '[IND] ', '[RSA] ', '[RSA] ']","['21-15', '21-15']",XD,20171207
+50,"['James Hilton Mcmanus', 'Lee-Ann De Wet', 'Cameron Coetzer [4]', 'Demi Botha']","['[RSA] ', '[RSA] ', '[RSA] ', '[RSA] ']","['21-14', '21-19']",XD,20171207
+51,"['Abdelrahman Kashkal', 'Doha Hany', 'Jason Coetzer', 'Karen Coetzer']","['[EGY] ', '[EGY] ', '[RSA] ', '[RSA] ']","['21-9', '21-14']",XD,20171207
+52,"['Andries Malan [2]', 'Jennifer Fry', 'Clement Krobakpo', 'Dorcas Ajoke Adesokan']","['[RSA] ', '[RSA] ', '[NGR] ', '[NGR] ']","['27-25', '21-8']",XD,20171207
+53,"['Maxime Moreels [1]', 'Adam Mendrek [4]']","['[BEL] ', '[CZE] ']","['22-20', '21-18']",MS ,20171207
+54,"['Kate Foo Kune [1]', 'Michelle Butler-Emmett']","['[MRI] ', '[RSA] ']","['21-13', '21-13']",WS ,20171207
+55,"['Aatish Lubah [1]', 'Georges Julien Paul', 'Kapil Chaudhary', 'Brijesh Yadav']","['[MRI] ', '[MRI] ', '[IND] ', '[IND] ']","['19-21', '21-13', '21-13']",MD ,20171207
+56,"['Michelle Butler-Emmett [1]', 'Jennifer Fry', 'Sandra Le Grange', 'Lehandre Schoeman']","['[RSA] ', '[RSA] ', '[RSA] ', '[RSA] ']","['21-8', '21-11']",WD ,20171207
+57,"['Andries Malan [2]', 'Jennifer Fry', 'Abdelrahman Kashkal', 'Doha Hany']","['[RSA] ', '[RSA] ', '[EGY] ', '[EGY] ']","['21-9', '21-17']",XD ,20171207
+58,"['Georges Julien Paul [3]', 'Bahaedeen Ahmad Alshannik [8]']","['[MRI] ', '[JOR] ']","['18-21', '23-21', '25-23']",MS ,20171207
+59,"['Vaishnavi Reddy Jakka [3]', 'Dorcas Ajoke Adesokan [2]']","['[IND] ', '[NGR] ']","['24-22', '21-13']",WS ,20171207
+60,"['Kona Tarun', 'Saurabh Sharma', 'Adarsh Kumar', 'Jagadish Yadav']","['[IND] ', '[IND] ', '[IND] ', '[IND] ']","['15-21', '21-14', '21-13']",MD ,20171207
+61,"['Demi Botha [2]', 'Lee-Ann De Wet', 'Aurelie Marie Elisa Allet', 'Kobita Dookhee']","['[RSA] ', '[RSA] ', '[MRI] ', '[MRI] ']","['21-16', '21-17']",WD ,20171207
+62,"['Saurabh Sharma [1]', 'Anoushka Parikh', 'Adam Mendrek', 'Kate Foo Kune']","['[IND] ', '[IND] ', '[CZE] ', '[MRI] ']","['21-19', '21-18']",XD ,20171207
+63,"['Andries Malan [2]', 'Jennifer Fry', 'Saurabh Sharma [1]', 'Anoushka Parikh']","['[RSA] ', '[RSA] ', '[IND] ', '[IND] ']","['21-19', '21-19']",XD ,20171207
+64,"['Maxime Moreels [1]', 'Georges Julien Paul [3]']","['[BEL] ', '[MRI] ']","['19-21', '21-15', '22-20']",MS ,20171207
+65,"['Vaishnavi Reddy Jakka [3]', 'Kate Foo Kune [1]']","['[IND] ', '[MRI] ']","['21-10', '21-10']",WS ,20171207
+66,"['Kona Tarun', 'Saurabh Sharma', 'Aatish Lubah [1]', 'Georges Julien Paul']","['[IND] ', '[IND] ', '[MRI] ', '[MRI] ']","['21-9', '21-15']",MD ,20171207
+67,"['Michelle Butler-Emmett [1]', 'Jennifer Fry', 'Demi Botha [2]', 'Lee-Ann De Wet']","['[RSA] ', '[RSA] ', '[RSA] ', '[RSA] ']","['21-17', '21-19']",WD ,20171207

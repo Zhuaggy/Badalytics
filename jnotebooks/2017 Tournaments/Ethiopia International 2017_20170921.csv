@@ -1,0 +1,97 @@
+,PLAYERS,COUNTRIES,SCORES,EVENT,match_week
+0,"['Mattias Sonderskov', 'Tegazab Alem']","['[LUX] ', '[ETH] ']","['21-6', '21-7']",MS - Qualification,20170921
+1,"['Ayene Birhane', 'Fethi Mohamed Ibrahim']","['[ETH] ', '[ETH] ']","['14-21', '21-18', '21-16']",MS - Qualification,20170921
+2,"['Asrar Seid', 'Dawit Legese Yohannes']","['[ETH] ', '[ETH] ']","['21-14', '21-11']",MS - Qualification,20170921
+3,"['Omar Elsayegh', 'Dawit Geremew Asfaw']","['[EGY] ', '[ETH] ']","['21-15', '21-8']",MS - Qualification,20170921
+4,"['Mohamed Abdelaziz Ouchefoun', 'Seaidnur Annuar']","['[ALG] ', '[ETH] ']","['21-15', '21-10']",MS - Qualification,20170921
+5,"['Deta Belayneh Dereje', 'Matusala Matusala']","['[ETH] ', '[ETH] ']","['21-6', '21-12']",MS - Qualification,20170921
+6,"['Yakob Surafel', 'Ermias Desta']","['[ETH] ', '[ETH] ']","['21-13', '21-10']",MS - Qualification,20170921
+7,"['Ephem Tafesse Ejero', 'Sema Bereket']","['[ETH] ', '[ETH] ']","['21-14', '21-23', '21-12']",MS - Qualification,20170921
+8,"['Fred Kirabo', 'Biniam Dereje Legesse']","['[UGA] ', '[ETH] ']","['21-6', '21-7']",MS - Qualification,20170921
+9,"['Mattias Sonderskov', 'Markos Demis [1]']","['[LUX] ', '[ETH] ']","['21-12', '21-9']",MS - Qualification,20170921
+10,"['Kibrom Kebede', 'Ayene Birhane']","['[ETH] ', '[ETH] ']","['21-13', '22-20']",MS - Qualification,20170921
+11,"['Asrar Seid', 'Asnake Getachew Sahilu [3]']","['[ETH] ', '[ETH] ']","['21-16', '20-22', '21-14']",MS - Qualification,20170921
+12,"['Omar Elsayegh', 'Woldegebreal Mezgebe']","['[EGY] ', '[ETH] ']","['21-14', '21-19']",MS - Qualification,20170921
+13,"['Mohamed Abdelaziz Ouchefoun', 'Deta Belayneh Dereje']","['[ALG] ', '[ETH] ']","['21-11', '21-15']",MS - Qualification,20170921
+14,"['Yakob Surafel', 'Kalonde Charles [4]']","['[ETH] ', '[ZAM] ']","['21-15', '21-18']",MS - Qualification,20170921
+15,"['Koki Yamada', 'Ephem Tafesse Ejero']","['[ETH] ', '[ETH] ']","['21-15', '21-7']",MS - Qualification,20170921
+16,"['Fred Kirabo', 'Azmach Tebarek [2]']","['[UGA] ', '[ETH] ']","['21-4', '21-13']",MS - Qualification,20170921
+17,"['Misha Zilberman [1]', 'Muhammed Ali Kurt']","['[ISR] ', '[TUR] ']","['21-19', '21-15']",MS,20170921
+18,"['Fred Kirabo', 'Teklu Endale']","['[UGA] ', '[ETH] ']","['21-7', '21-12']",MS,20170921
+19,"['Adham Hatem Elgamal [5]', 'Mohd Naser Mansour Nayef']","['[EGY] ', '[JOR] ']","['21-19', '21-18']",MS,20170921
+20,"['Jacob Musisi', 'Kibrom Kebede']","['[UGA] ', '[ETH] ']","['21-6', '21-10']",MS,20170921
+21,"['Ahmed Salah [3]', 'Isaac Senfuka']","['[EGY] ', '[UGA] ']","['21-12', '21-5']",MS,20170921
+22,"['Yakob Surafel', 'Juma Muwowo']","['[ETH] ', '[ZAM] ']","['20-22', '21-18', '21-18']",MS,20170921
+23,"['Robert Mann [7]', 'Sifeddine Larbaoui']","['[LUX] ', '[ALG] ']","['21-11', '21-12']",MS,20170921
+24,"['Kervin Ghislain', 'Asrar Seid']","['[SEY] ', '[ETH] ']","['21-15', '21-13']",MS,20170921
+25,"['Brian Kasirye', 'Omar Elsayegh']","['[UGA] ', '[EGY] ']","['21-12', '21-12']",MS,20170921
+26,"['Bahaedeen Ahmad Alshannik [6]', 'Melaku Amdebirhanu']","['[JOR] ', '[ETH] ']","['21-10', '21-6']",MS,20170921
+27,"['Emre Lale', 'Mattias Sonderskov']","['[TUR] ', '[LUX] ']","['21-11', '21-10']",MS,20170921
+28,"['Koki Yamada', 'Abdelrahman Abdelhakim [4]']","['[ETH] ', '[EGY] ']","['23-21', '12-21', '21-19']",MS,20170921
+29,"['Herbert Ebayo', 'Mohamed Abdelaziz Ouchefoun']","['[UGA] ', '[ALG] ']","['23-21', '21-18']",MS,20170921
+30,"['Mohamed Mostafa Kamel [8]', 'Davies Senono']","['[EGY] ', '[UGA] ']","['23-21', '21-13']",MS,20170921
+31,"['Mahmoud Montaser Mahmoud', 'Topsy Phiri']","['[EGY] ', '[ZAM] ']","['21-19', '21-17']",MS,20170921
+32,"['Aditya Joshi [2]', 'Fanthhun Estefanos']","['[IND] ', '[ETH] ']","['21-1', '21-15']",MS,20170921
+33,"['Jana Ashraf', 'Berhanu Samrawit']","['[EGY] ', '[ETH] ']","['21-10', '21-13']",WS,20170921
+34,"['Lekha Shehani', 'Betlhem Solomon']","['[SRI] ', '[ETH] ']","['21-3', '21-4']",WS,20170921
+35,"['Ines Ziani', 'Elisabeth Seife']","['[ALG] ', '[ETH] ']","['21-6', '21-12']",WS,20170921
+36,"['Linda Mazri', 'Cheru Hibst']","['[ALG] ', '[ETH] ']","['21-3', '21-7']",WS,20170921
+37,"['Halla Bouksani', 'Kidist Hailu']","['[ALG] ', '[ETH] ']","['21-14', '21-2']",WS,20170921
+38,"['Mako Takahashi', 'Hana hesham Mohamed']","['[ETH] ', '[EGY] ']","['21-13', '21-17']",WS,20170921
+39,"['Waduthantri Kavindika Binari De Silva', 'Workinesh Tilahun']","['[SRI] ', '[ETH] ']","['21-7', '21-4']",WS,20170921
+40,"['Elizaberth Chipeleme', 'Mengistu Berhan']","['[ZAM] ', '[ETH] ']","['21-11', '21-8']",WS,20170921
+41,"['Belete Melat', 'Eyeruse Dereje']","['[ETH] ', '[ETH] ']","['21-12', '21-8']",WS,20170921
+42,"['Herbert Ebayo', 'Jacob Musisi', 'Ayene Birhane', 'Kibrom Kebede']","['[UGA] ', '[UGA] ', '[ETH] ', '[ETH] ']","['21-5', '21-6']",MD,20170921
+43,"['Brian Kasirye', 'Davies Senono', 'Matusala Matusala', 'Woldegebreal Mezgebe']","['[UGA] ', '[UGA] ', '[ETH] ', '[ETH] ']","['21-8', '21-7']",MD,20170921
+44,"['Sifeddine Larbaoui', 'Mohamed Abdelaziz Ouchefoun', 'Teklu Endale', 'Fanthhun Estefanos']","['[ALG] ', '[ALG] ', '[ETH] ', '[ETH] ']","['14-21', '21-18', '21-17']",MD,20170921
+45,"['Robert Mann', 'Mattias Sonderskov', 'Tegazab Alem', 'Ermias Desta']","['[LUX] ', '[LUX] ', '[ETH] ', '[ETH] ']","['21-3', '21-6']",MD,20170921
+46,"['Asrar Seid', 'Yakob Surafel', 'Kervin Ghislain', 'Steve Malcouzanne']","['[ETH] ', '[ETH] ', '[SEY] ', '[SEY] ']","['21-18', '21-16']",MD,20170921
+47,"['Fred Kirabo', 'Isaac Senfuka', 'Biniam Dereje Legesse', 'Dawit Legese Yohannes']","['[UGA] ', '[UGA] ', '[ETH] ', '[ETH] ']","['21-11', '21-14']",MD,20170921
+48,"['Arjun M.R. [1]', 'Ramchandran Shlok', 'Omar Elsayegh', 'Mahmoud Montaser Mahmoud']","['[IND] ', '[IND] ', '[EGY] ', '[EGY] ']","['21-8', '21-6']",MD,20170921
+49,"['Abdelrahman Abdelhakim [2]', 'Ahmed Salah', 'Sema Bereket', 'Azmach Tebarek']","['[EGY] ', '[EGY] ', '[ETH] ', '[ETH] ']","['21-6', '21-7']",MD,20170921
+50,"['Asrar Seid', 'Belete Melat', 'Kalonde Charles', 'Evelyn Siamupangila']","['[ETH] ', '[ETH] ', '[ZAM] ', '[ZAM] ']","['21-15', '21-18']",XD,20170921
+51,"['Sifeddine Larbaoui', 'Linda Mazri', 'Ephem Tafesse Ejero', 'Yirga Frehiwot']","['[ALG] ', '[ALG] ', '[ETH] ', '[ETH] ']","['21-10', '21-5']",XD,20170921
+52,"['Kervin Ghislain', 'Allisen Camille', 'Asnake Getachew Sahilu', 'Kidist Hailu']","['[SEY] ', '[SEY] ', '[ETH] ', '[ETH] ']","['21-11', '21-7']",XD,20170921
+53,"['Mohamed Mostafa Kamel', 'Hana hesham Mohamed', 'Matusala Matusala', 'Eyeruse Dereje']","['[EGY] ', '[EGY] ', '[ETH] ', '[ETH] ']","['21-4', '21-9']",XD,20170921
+54,"['Misha Zilberman [1]', 'Fred Kirabo']","['[ISR] ', '[UGA] ']","['21-7', '21-6']",MS,20170921
+55,"['Adham Hatem Elgamal [5]', 'Jacob Musisi']","['[EGY] ', '[UGA] ']","['21-18', '24-22']",MS,20170921
+56,"['Ahmed Salah [3]', 'Yakob Surafel']","['[EGY] ', '[ETH] ']","['21-19', '21-11']",MS,20170921
+57,"['Robert Mann [7]', 'Kervin Ghislain']","['[LUX] ', '[SEY] ']","['21-14', '21-15']",MS,20170921
+58,"['Bahaedeen Ahmad Alshannik [6]', 'Brian Kasirye']","['[JOR] ', '[UGA] ']","['21-15', '21-19']",MS,20170921
+59,"['Emre Lale', 'Koki Yamada']","['[TUR] ', '[ETH] ']","['21-6', '21-10']",MS,20170921
+60,"['Mohamed Mostafa Kamel [8]', 'Herbert Ebayo']","['[EGY] ', '[UGA] ']","['21-18', '16-21', '21-18']",MS,20170921
+61,"['Aditya Joshi [2]', 'Mahmoud Montaser Mahmoud']","['[IND] ', '[EGY] ']","['21-8', '21-11']",MS,20170921
+62,"['Ogar Siamupangila [1]', 'Jana Ashraf']","['[ZAM] ', '[EGY] ']","['21-17', '21-18']",WS,20170921
+63,"['Lekha Shehani', 'Daniel Mahlet']","['[SRI] ', '[ETH] ']","['21-3', '21-3']",WS,20170921
+64,"['Ngandwe Miyambo [4]', 'Ines Ziani']","['[ZAM] ', '[ALG] ']","['21-15', '21-12']",WS,20170921
+65,"['Linda Mazri', 'Yirga Frehiwot']","['[ALG] ', '[ETH] ']","['21-8', '21-14']",WS,20170921
+66,"['Halla Bouksani', 'Mako Takahashi']","['[ALG] ', '[ETH] ']","['21-17', '18-21', '21-18']",WS,20170921
+67,"['Waduthantri Kavindika Binari De Silva', 'Evelyn Siamupangila [3]']","['[SRI] ', '[ZAM] ']","['21-12', '21-9']",WS,20170921
+68,"['Elizaberth Chipeleme', 'Tigist Getachew']","['[ZAM] ', '[ETH] ']","['21-18', '21-14']",WS,20170921
+69,"['Aisha Nakiyemba [2]', 'Belete Melat']","['[UGA] ', '[ETH] ']","['21-11', '21-14']",WS,20170921
+70,"['Herbert Ebayo', 'Jacob Musisi', 'Markos Demis', 'Asnake Getachew Sahilu']","['[UGA] ', '[UGA] ', '[ETH] ', '[ETH] ']","['21-11', '21-16']",MD,20170921
+71,"['Adham Hatem Elgamal [4]', 'Mohamed Mostafa Kamel', 'Brian Kasirye', 'Davies Senono']","['[EGY] ', '[EGY] ', '[UGA] ', '[UGA] ']","['21-12', '21-11']",MD,20170921
+72,"['Sifeddine Larbaoui', 'Mohamed Abdelaziz Ouchefoun', 'Dawit Geremew Asfaw', 'Deta Belayneh Dereje']","['[ALG] ', '[ALG] ', '[ETH] ', '[ETH] ']","['21-1', '21-6']",MD,20170921
+73,"['Robert Mann', 'Mattias Sonderskov', 'Ephem Tafesse Ejero', 'Koki Yamada']","['[LUX] ', '[LUX] ', '[ETH] ', '[ETH] ']","['21-8', '21-9']",MD,20170921
+74,"['Bahaedeen Ahmad Alshannik [3]', 'Mohd Naser Mansour Nayef', 'Asrar Seid', 'Yakob Surafel']","['[JOR] ', '[JOR] ', '[ETH] ', '[ETH] ']","['21-13', '21-10']",MD,20170921
+75,"['Fred Kirabo', 'Isaac Senfuka', 'Melaku Amdebirhanu', 'Seaidnur Annuar']","['[UGA] ', '[UGA] ', '[ETH] ', '[ETH] ']","['21-14', '18-21', '21-13']",MD,20170921
+76,"['Waduthantri Kavindika Binari De Silva', 'Lekha Shehani', 'Mako Takahashi', 'Workinesh Tilahun']","['[SRI] ', '[SRI] ', '[ETH] ', '[ETH] ']","['21-5', '21-6']",WD,20170921
+77,"['Elizaberth Chipeleme', 'Ngandwe Miyambo', 'Yirga Frehiwot', 'Elisabeth Seife']","['[ZAM] ', '[ZAM] ', '[ETH] ', '[ETH] ']","['21-10', '21-11']",WD,20170921
+78,"['Koki Yamada', 'Mako Takahashi', 'Ahmed Salah [1]', 'Menna Eltanany']","['[ETH] ', '[ETH] ', '[EGY] ', '[EGY] ']","['21-19', '18-21', '22-20']",XD,20170921
+79,"['Asrar Seid', 'Belete Melat', 'Woldegebreal Mezgebe', 'Mengistu Berhan']","['[ETH] ', '[ETH] ', '[ETH] ', '[ETH] ']","['21-18', '21-12']",XD,20170921
+80,"['Topsy Phiri [4]', 'Elizaberth Chipeleme', 'Teklu Endale', 'Betlhem Solomon']","['[ZAM] ', '[ZAM] ', '[ETH] ', '[ETH] ']","['21-17', '21-5']",XD,20170921
+81,"['Sifeddine Larbaoui', 'Linda Mazri', 'Kibrom Kebede', 'Workinesh Tilahun']","['[ALG] ', '[ALG] ', '[ETH] ', '[ETH] ']","['21-7', '21-7']",XD,20170921
+82,"['Kervin Ghislain', 'Allisen Camille', 'Mahmoud Montaser Mahmoud', 'Jana Ashraf']","['[SEY] ', '[SEY] ', '[EGY] ', '[EGY] ']","['21-10', '21-11']",XD,20170921
+83,"['Juma Muwowo [3]', 'Ogar Siamupangila', 'Fanthhun Estefanos', 'Cheru Hibst']","['[ZAM] ', '[ZAM] ', '[ETH] ', '[ETH] ']","['21-9', '21-8']",XD,20170921
+84,"['Mohamed Mostafa Kamel', 'Hana hesham Mohamed', 'Yakob Surafel', 'Berhanu Samrawit']","['[EGY] ', '[EGY] ', '[ETH] ', '[ETH] ']","['21-6', '21-18']",XD,20170921
+85,"['Misha Zilberman [2]', 'Svetlana Zilberman', 'Mohamed Abdelaziz Ouchefoun', 'Halla Bouksani']","['[ISR] ', '[ISR] ', '[ALG] ', '[ALG] ']",[],XD,20170921
+86,"['Misha Zilberman [1]', 'Aditya Joshi [2]']","['[ISR] ', '[IND] ']","['21-7', '21-19']",MS ,20170921
+87,"['Lekha Shehani', 'Waduthantri Kavindika Binari De Silva']","['[SRI] ', '[SRI] ']","['21-14', '21-9']",WS ,20170921
+88,"['Arjun M.R. [1]', 'Ramchandran Shlok', 'Bahaedeen Ahmad Alshannik [3]', 'Mohd Naser Mansour Nayef']","['[IND] ', '[IND] ', '[JOR] ', '[JOR] ']","['21-7', '21-19']",MD ,20170921
+89,"['Waduthantri Kavindika Binari De Silva', 'Lekha Shehani', 'Halla Bouksani [2]', 'Linda Mazri']","['[SRI] ', '[SRI] ', '[ALG] ', '[ALG] ']","['21-12', '19-21', '21-8']",WD ,20170921
+90,"['Misha Zilberman [2]', 'Svetlana Zilberman', 'Sifeddine Larbaoui', 'Linda Mazri']","['[ISR] ', '[ISR] ', '[ALG] ', '[ALG] ']",[],XD ,20170921
+91,"['Misha Zilberman [1]', 'Aditya Joshi [2]']","['[ISR] ', '[IND] ']","['21-7', '21-19']",MS ,20170921
+92,"['Lekha Shehani', 'Waduthantri Kavindika Binari De Silva']","['[SRI] ', '[SRI] ']","['21-14', '21-9']",WS ,20170921
+93,"['Arjun M.R. [1]', 'Ramchandran Shlok', 'Bahaedeen Ahmad Alshannik [3]', 'Mohd Naser Mansour Nayef']","['[IND] ', '[IND] ', '[JOR] ', '[JOR] ']","['21-7', '21-19']",MD ,20170921
+94,"['Waduthantri Kavindika Binari De Silva', 'Lekha Shehani', 'Halla Bouksani [2]', 'Linda Mazri']","['[SRI] ', '[SRI] ', '[ALG] ', '[ALG] ']","['21-12', '19-21', '21-8']",WD ,20170921
+95,"['Misha Zilberman [2]', 'Svetlana Zilberman', 'Sifeddine Larbaoui', 'Linda Mazri']","['[ISR] ', '[ISR] ', '[ALG] ', '[ALG] ']",[],XD ,20170921

@@ -1,0 +1,128 @@
+,PLAYERS,COUNTRIES,SCORES,EVENT,match_week
+0,"['Yannick Blondin', 'Albert Menya']","['[FRA] ', '[UGA] ']","['21-7', '21-0']",MS - Qualification,20170223
+1,"['Friday Attama', 'Allan Nkire [1]']","['[UGA] ', '[UGA] ']","['21-17', '21-7']",MS - Qualification,20170223
+2,"['Israel Wanagalya', 'Raymond Kasita']","['[UGA] ', '[UGA] ']","['21-7', '21-5']",MS - Qualification,20170223
+3,"['Muzafar Lubega [6]', 'Nathan Fredrick Semaganda']","['[UGA] ', '[UGA] ']","['21-9', '21-10']",MS - Qualification,20170223
+4,"['Esther Najjuma', 'Katambua Odia']","['[UGA] ', '[COD] ']","['21-9', '21-19']",WS - Qualification,20170223
+5,"['Ronald Lule', 'Felix Ocitti']","['[UGA] ', '[UGA] ']","['21-10', '21-15']",MS - Qualification,20170223
+6,"['Irfan Ali Bhadusha Abdul Vahab [4]', 'Alan Fintan Sherry']","['[UGA] ', '[UGA] ']","['21-11', '15-21', '2-5']",MS - Qualification,20170223
+7,"['Benjamin Jjuuko', 'Chrisna Rwizihiringabo']","['[UGA] ', '[UGA] ']","['21-8', '21-10']",MS - Qualification,20170223
+8,"['Ambrose Nadiope [7]', 'Samuel Mpwanyi,']","['[UGA] ', '[UGA] ']","['21-5', '21-8']",MS - Qualification,20170223
+9,"['Aaron Opea Renge', 'Augustus Owinyi']","['[UGA] ', '[UGA] ']","['21-12', '21-10']",MS - Qualification,20170223
+10,"['Yannick Blondin', 'Paul Makande']","['[FRA] ', '[UGA] ']","['21-8', '21-7']",MS - Qualification,20170223
+11,"['Cliff Kamugisha [5]', 'Isaac Kasirye']","['[UGA] ', '[UGA] ']","['21-18', '21-12']",MS - Qualification,20170223
+12,"['Areej Shalwani', 'Troy Ayesiga']","['[UGA] ', '[UGA] ']","['21-0', '21-0']",MS - Qualification,20170223
+13,"['Edwin Njeri [3]', 'Daniel Akau']","['[KEN] ', '[UGA] ']","['21-14', '21-13']",MS - Qualification,20170223
+14,"['John Wanyoike', 'Warren Tusiime']","['[KEN] ', '[UGA] ']","['21-11', '21-7']",MS - Qualification,20170223
+15,"['Nganamau Jean Marc Matusisa', 'Derrick Odida Odoch [8]']","['[COD] ', '[UGA] ']","['21-11', '19-21', '21-18']",MS - Qualification,20170223
+16,"['Edwin Akwanyi', 'Denis Onyango']","['[KEN] ', '[UGA] ']","['21-8', '21-5']",MS - Qualification,20170223
+17,"['Ronald Kasserenge [2]', 'Kenneth Mukiibi']","['[UGA] ', '[UGA] ']","['21-6', '21-10']",MS - Qualification,20170223
+18,"['Israel Wanagalya', 'Friday Attama']","['[UGA] ', '[UGA] ']","['10-21', '21-14', '21-16']",MS - Qualification,20170223
+19,"['Muzafar Lubega [6]', 'Ronald Lule']","['[UGA] ', '[UGA] ']","['21-14', '21-19']",MS - Qualification,20170223
+20,"['Irfan Ali Bhadusha Abdul Vahab [4]', 'Benjamin Jjuuko']","['[UGA] ', '[UGA] ']","['21-12', '21-10']",MS - Qualification,20170223
+21,"['Ambrose Nadiope [7]', 'Aaron Opea Renge']","['[UGA] ', '[UGA] ']","['21-14', '19-21', '21-18']",MS - Qualification,20170223
+22,"['Edwin Njeri [3]', 'Areej Shalwani']","['[KEN] ', '[UGA] ']","['21-11', '21-14']",MS - Qualification,20170223
+23,"['John Wanyoike', 'Nganamau Jean Marc Matusisa']","['[KEN] ', '[COD] ']","['21-11', '21-16']",MS - Qualification,20170223
+24,"['Edwin Akwanyi', 'Ronald Kasserenge [2]']","['[KEN] ', '[UGA] ']","['21-16', '9-21', '21-12']",MS - Qualification,20170223
+25,"['Yannick Blondin', 'Cliff Kamugisha [5]']","['[FRA] ', '[UGA] ']","['21-6', '21-7']",MS - Qualification,20170223
+26,"['Georges Julien Paul [1]', 'Bruno Masaaba']","['[MRI] ', '[UGA] ']","['21-9', '21-8']",MS,20170223
+27,"['Brian Kasirye', 'Edwin Akwanyi']","['[UGA] ', '[KEN] ']","['21-17', '18-21', '21-14']",MS,20170223
+28,"['Davies Senono [8]', 'John Riad']","['[UGA] ', '[EGY] ']","['15-21', '21-13', '21-13']",MS,20170223
+29,"['Hadia Hosny [1]', 'Daisy Begayirirwa']","['[EGY] ', '[UGA] ']","['21-6', '21-6']",WS,20170223
+30,"['Mohd Naser Mansour Nayef', 'Jacob Musisi']","['[JOR] ', '[UGA] ']","['21-6', '21-7']",MS,20170223
+31,"['Rudolf Dellenbach [4]', 'Nicholas Kayongo']","['[ITA] ', '[UGA] ']","['21-7', '21-10']",MS,20170223
+32,"['Israel Wanagalya', 'Mohamed Mostafa Kamel']","['[UGA] ', '[EGY] ']","['22-20', '13-21', '21-15']",MS,20170223
+33,"['Bridget Ategeka', 'Brenda Mugabi']","['[UGA] ', '[UGA] ']","['21-15', '21-9']",WS,20170223
+34,"['John Wanyoike', 'Herbert Ebayo [7]']","['[KEN] ', '[UGA] ']","['21-16', '21-13']",MS,20170223
+35,"['Patrick Kinyua Mbogo', 'Ivan Mayega']","['[KEN] ', '[UGA] ']","['21-12', '21-18']",MS,20170223
+36,"['Yannick Blondin', 'Ian Senoga']","['[FRA] ', '[UGA] ']","['21-15', '23-21']",MS,20170223
+37,"['Evelyn Siamupangila [5]', 'Rehema Nakalema']","['[ZAM] ', '[UGA] ']","['21-15', '21-14']",WS,20170223
+38,"['Bahaedeen Ahmad Alshannik [6]', 'Daniel Mihigo']","['[JOR] ', '[UGA] ']","['21-13', '21-10']",MS,20170223
+39,"['Edwin Njeri', 'Moustafa Bumpenje']","['[KEN] ', '[UGA] ']","['21-11', '21-10']",MS,20170223
+40,"['Adham Hatem Elgamal', 'Aatish Lubah [3]']","['[EGY] ', '[MRI] ']","['21-17', '16-21', '21-13']",MS,20170223
+41,"['Domou Amro', 'Brenda Awor']","['[JOR] ', '[UGA] ']","['21-14', '21-17']",WS,20170223
+42,"['Muzafar Lubega', 'Adam Mubiru']","['[UGA] ', '[UGA] ']","['21-16', '15-21', '21-18']",MS,20170223
+43,"['Ahmed Salah [5]', 'Ambrose Nadiope']","['[EGY] ', '[UGA] ']","['21-10', '21-6']",MS,20170223
+44,"['Irfan Ali Bhadusha Abdul Vahab', 'Expedito Emuddu']","['[UGA] ', '[UGA] ']","['21-7', '21-8']",MS,20170223
+45,"['Doha Hany [4]', 'Tracy Naluwooza']","['[EGY] ', '[UGA] ']","['21-13', '21-11']",WS,20170223
+46,"['Edwin Ekiring [2]', 'John Muiruri Mburu']","['[UGA] ', '[KEN] ']","['21-16', '23-21']",MS,20170223
+47,"['Kivisi Andia', 'Carle Uwilingimana']","['[KEN] ', '[UGA] ']","['21-12', '21-14']",WS,20170223
+48,"['Aisha Nakiyemba [7]', 'Judith Namatovu']","['[UGA] ', '[UGA] ']","['21-10', '21-11']",WS,20170223
+49,"['Mellon Nahirya', 'Patricia Aluko']","['[UGA] ', '[UGA] ']","['21-9', '21-13']",WS,20170223
+50,"['Ruth Nakawoya', 'Ronah Bayiga']","['[UGA] ', '[UGA] ']","['21-17', '21-14']",WS,20170223
+51,"['Gladys Mbabazi [8]', 'Sharifah Nansereko']","['[UGA] ', '[UGA] ']","['21-5', '21-9']",WS,20170223
+52,"['Esther Najjuma', 'Labella Nasasira']","['[UGA] ', '[UGA] ']","['10-21', '21-15', '23-21']",WS,20170223
+53,"['Menna Eltanany [3]', 'Betty Apio']","['[EGY] ', '[UGA] ']","['21-12', '21-13']",WS,20170223
+54,"['Haneen Derar Al-Wedyan', 'Mable Namakoye']","['[JOR] ', '[UGA] ']","['21-14', '21-13']",WS,20170223
+55,"['Bridget Shamim Bangi [6]', 'Erina Nalwati']","['[UGA] ', '[UGA] ']","['21-4', '21-8']",WS,20170223
+56,"['Salma Mutesi', 'Maureen Byarugaba']","['[UGA] ', '[UGA] ']","['21-15', '21-8']",WS,20170223
+57,"['Ogar Siamupangila [2]', 'Husina Kobugabe']","['[ZAM] ', '[UGA] ']","['21-12', '21-12']",WS,20170223
+58,"['Nicholas Kayongo', 'Joshua Muguluma', 'Jose Abin', 'Alan Fintan Sherry']","['[UGA] ', '[UGA] ', '[UGA] ', '[UGA] ']",[],MD,20170223
+59,"['Irfan Ali Bhadusha Abdul Vahab', 'Areej Shalwani', 'Cliff Kamugisha', 'Felix Ocitti']","['[UGA] ', '[UGA] ', '[UGA] ', '[UGA] ']","['22-20', '21-9']",MD,20170223
+60,"['Adham Hatem Elgamal', 'Mohamed Mostafa Kamel', 'Muzafar Lubega', 'Augustus Owinyi']","['[EGY] ', '[EGY] ', '[UGA] ', '[UGA] ']","['21-2', '21-19']",MD,20170223
+61,"['Ambrose Nadiope', 'Aaron Opea Renge', 'Mutombo Tshizanga', 'Zola Wapi']","['[UGA] ', '[UGA] ', '[COD] ', '[COD] ']","['21-13', '21-12']",MD,20170223
+62,"['Edwin Ekiring', 'Daniel Mihigo', 'Edwin Njeri', 'John Wanyoike']","['[UGA] ', '[UGA] ', '[KEN] ', '[KEN] ']","['21-13', '20-22', '21-9']",MD,20170223
+63,"['Ronald Lule', 'Israel Wanagalya', 'Daniel Akau', 'Moustafa Bumpenje']","['[UGA] ', '[UGA] ', '[UGA] ', '[UGA] ']","['21-7', '21-13']",MD,20170223
+64,"['Mutombo Tshizanga', 'Katambua Odia', 'Felix Ocitti', 'Ruth Nakawoya']","['[COD] ', '[COD] ', '[UGA] ', '[UGA] ']","['21-12', '21-18']",XD,20170223
+65,"['Georges Julien Paul [1]', 'Brian Kasirye']","['[MRI] ', '[UGA] ']","['21-6', '21-19']",MS,20170223
+66,"['Mohd Naser Mansour Nayef', 'Davies Senono [8]']","['[JOR] ', '[UGA] ']","['21-13', '14-21', '21-14']",MS,20170223
+67,"['Rudolf Dellenbach [4]', 'Israel Wanagalya']","['[ITA] ', '[UGA] ']","['21-15', '21-13']",MS,20170223
+68,"['Hadia Hosny [1]', 'Bridget Ategeka']","['[EGY] ', '[UGA] ']","['21-3', '21-3']",WS,20170223
+69,"['John Wanyoike', 'Patrick Kinyua Mbogo']","['[KEN] ', '[KEN] ']","['21-7', '19-21', '21-14']",MS,20170223
+70,"['Bahaedeen Ahmad Alshannik [6]', 'Yannick Blondin']","['[JOR] ', '[FRA] ']","['21-7', '21-13']",MS,20170223
+71,"['Adham Hatem Elgamal', 'Edwin Njeri']","['[EGY] ', '[KEN] ']","['21-8', '21-19']",MS,20170223
+72,"['Domou Amro', 'Evelyn Siamupangila [5]']","['[JOR] ', '[ZAM] ']","['21-10', '21-9']",WS,20170223
+73,"['Ahmed Salah [5]', 'Muzafar Lubega']","['[EGY] ', '[UGA] ']","['21-12', '21-5']",MS,20170223
+74,"['Edwin Ekiring [2]', 'Irfan Ali Bhadusha Abdul Vahab']","['[UGA] ', '[UGA] ']","['21-12', '21-6']",MS,20170223
+75,"['Doha Hany [4]', 'Kivisi Andia']","['[EGY] ', '[KEN] ']","['21-10', '21-5']",WS,20170223
+76,"['Aisha Nakiyemba [7]', 'Mellon Nahirya']","['[UGA] ', '[UGA] ']","['21-13', '21-11']",WS,20170223
+77,"['Gladys Mbabazi [8]', 'Ruth Nakawoya']","['[UGA] ', '[UGA] ']","['21-7', '21-8']",WS,20170223
+78,"['Menna Eltanany [3]', 'Esther Najjuma']","['[EGY] ', '[UGA] ']","['21-8', '21-5']",WS,20170223
+79,"['Bridget Shamim Bangi [6]', 'Haneen Derar Al-Wedyan']","['[UGA] ', '[JOR] ']","['21-7', '21-14']",WS,20170223
+80,"['Salma Mutesi', 'Rehema Nakalema', 'Daisy Begayirirwa', 'Carle Uwilingimana']","['[UGA] ', '[UGA] ', '[UGA] ', '[UGA] ']","['21-13', '21-14']",WD,20170223
+81,"['Ogar Siamupangila [2]', 'Salma Mutesi']","['[ZAM] ', '[UGA] ']","['21-12', '21-14']",WS,20170223
+82,"['Francis Alwin [1]', 'Kona Tarun', 'Benjamin Jjuuko', 'Raymond Kasita']","['[IND] ', '[IND] ', '[UGA] ', '[UGA] ']","['21-4', '21-3']",MD,20170223
+83,"['Nicholas Kayongo', 'Joshua Muguluma', 'Albert Menya', 'Kenneth Mukiibi']","['[UGA] ', '[UGA] ', '[UGA] ', '[UGA] ']","['21-4', '21-6']",MD,20170223
+84,"['Bahaedeen Ahmad Alshannik [3]', 'Mohd Naser Mansour Nayef', 'Irfan Ali Bhadusha Abdul Vahab', 'Areej Shalwani']","['[JOR] ', '[JOR] ', '[UGA] ', '[UGA] ']","['21-3', '21-5']",MD,20170223
+85,"['Adham Hatem Elgamal', 'Mohamed Mostafa Kamel', 'Brian Kasirye', 'Davies Senono']","['[EGY] ', '[EGY] ', '[UGA] ', '[UGA] ']","['21-16', '25-23']",MD,20170223
+86,"['Ambrose Nadiope', 'Aaron Opea Renge', 'Isaac Kasirye', 'Warren Tusiime']","['[UGA] ', '[UGA] ', '[UGA] ', '[UGA] ']","['21-9', '21-7']",MD,20170223
+87,"['Edwin Ekiring', 'Daniel Mihigo', 'Herbert Ebayo [4]', 'Jacob Musisi']","['[UGA] ', '[UGA] ', '[UGA] ', '[UGA] ']","['21-14', '21-15']",MD,20170223
+88,"['Betty Apio', 'Brenda Awor', 'Erina Nalwati', 'Sharifah Nansereko']","['[UGA] ', '[UGA] ', '[UGA] ', '[UGA] ']","['21-4', '21-8']",WD,20170223
+89,"['Ronald Lule', 'Israel Wanagalya', 'Friday Attama', 'Expedito Emuddu']","['[UGA] ', '[UGA] ', '[UGA] ', '[UGA] ']","['21-9', '21-10']",MD,20170223
+90,"['Aatish Lubah [2]', 'Georges Julien Paul', 'Ronald Kasserenge', 'Ian Senoga']","['[MRI] ', '[MRI] ', '[UGA] ', '[UGA] ']","['21-7', '21-7']",MD,20170223
+91,"['Husina Kobugabe', 'Tracy Naluwooza', 'Mbuyi Bernice Bokotsha', 'Kanda Mabuta']","['[UGA] ', '[UGA] ', '[COD] ', '[COD] ']","['21-2', '21-4']",WD,20170223
+92,"['Haneen Derar Al-Wedyan', 'Domou Amro', 'Mellon Nahirya', 'Labella Nasasira']","['[JOR] ', '[JOR] ', '[UGA] ', '[UGA] ']","['21-7', '21-5']",WD,20170223
+93,"['Isaac Senfuka', 'Gladys Mbabazi', 'Isaac Kasirye', 'Judith Namatovu']","['[UGA] ', '[UGA] ', '[UGA] ', '[UGA] ']","['21-10', '21-14']",XD,20170223
+94,"['Gladys Mbabazi', 'Mable Namakoye', 'Bridget Ategeka', 'Ronah Bayiga']","['[UGA] ', '[UGA] ', '[UGA] ', '[UGA] ']","['21-11', '21-5']",WD,20170223
+95,"['Ahmed Salah [1]', 'Menna Eltanany', 'Warren Tusiime', 'Maureen Byarugaba']","['[EGY] ', '[EGY] ', '[UGA] ', '[UGA] ']","['21-6', '21-6']",XD,20170223
+96,"['Mutombo Tshizanga', 'Katambua Odia', 'Troy Ayesiga', 'Sharifah Nansereko']","['[COD] ', '[COD] ', '[UGA] ', '[UGA] ']","['21-13', '21-15']",XD,20170223
+97,"['Davies Senono', 'Bridget Shamim Bangi', 'Joshua Muguluma', 'Labella Nasasira']","['[UGA] ', '[UGA] ', '[UGA] ', '[UGA] ']","['21-11', '21-11']",XD,20170223
+98,"['Mohd Naser Mansour Nayef [3]', 'Haneen Derar Al-Wedyan', 'Muzafar Lubega', 'Olivia Nakajja']","['[JOR] ', '[JOR] ', '[UGA] ', '[UGA] ']","['21-12', '21-7']",XD,20170223
+99,"['Daniel Mihigo', 'Aisha Nakiyemba', 'Albert Menya', 'Patricia Aluko']","['[UGA] ', '[UGA] ', '[UGA] ', '[UGA] ']","['21-8', '21-11']",XD,20170223
+100,"['Israel Wanagalya', 'Betty Apio', 'Bruno Masaaba [3]', 'Brenda Awor']","['[UGA] ', '[UGA] ', '[UGA] ', '[UGA] ']","['18-21', '21-16', '21-19']",XD,20170223
+101,"['Bahaedeen Ahmad Alshannik [2]', 'Domou Amro', 'Benjamin Jjuuko', 'Erina Nalwati']","['[JOR] ', '[JOR] ', '[UGA] ', '[UGA] ']","['21-3', '21-6']",XD,20170223
+102,"['Domou Amro', 'Hadia Hosny [1]']","['[JOR] ', '[EGY] ']","['21-9', '21-14']",WS,20170223
+103,"['Aisha Nakiyemba [7]', 'Doha Hany [4]']","['[UGA] ', '[EGY] ']","['21-14', '21-15']",WS,20170223
+104,"['Menna Eltanany [3]', 'Gladys Mbabazi [8]']","['[EGY] ', '[UGA] ']","['21-13', '21-11']",WS,20170223
+105,"['Bridget Shamim Bangi [6]', 'Ogar Siamupangila [2]']","['[UGA] ', '[ZAM] ']","['21-14', '21-15']",WS,20170223
+106,"['Rudolf Dellenbach [4]', 'John Wanyoike']","['[ITA] ', '[KEN] ']","['21-9', '21-12']",MS,20170223
+107,"['Bahaedeen Ahmad Alshannik [6]', 'Adham Hatem Elgamal']","['[JOR] ', '[EGY] ']","['21-8', '21-18']",MS,20170223
+108,"['Edwin Ekiring [2]', 'Ahmed Salah [5]']","['[UGA] ', '[EGY] ']","['21-16', '24-22']",MS,20170223
+109,"['Georges Julien Paul [1]', 'Mohd Naser Mansour Nayef']","['[MRI] ', '[JOR] ']","['21-11', '21-19']",MS,20170223
+110,"['Doha Hany [1]', 'Hadia Hosny', 'Salma Mutesi', 'Rehema Nakalema']","['[EGY] ', '[EGY] ', '[UGA] ', '[UGA] ']","['21-14', '21-6']",WD,20170223
+111,"['Betty Apio', 'Brenda Awor', 'Patricia Aluko', 'Maureen Byarugaba']","['[UGA] ', '[UGA] ', '[UGA] ', '[UGA] ']","['21-10', '21-17']",WD,20170223
+112,"['Haneen Derar Al-Wedyan', 'Domou Amro', 'Husina Kobugabe', 'Tracy Naluwooza']","['[JOR] ', '[JOR] ', '[UGA] ', '[UGA] ']","['21-8', '21-4']",WD,20170223
+113,"['Evelyn Siamupangila [2]', 'Ogar Siamupangila', 'Gladys Mbabazi', 'Mable Namakoye']","['[ZAM] ', '[ZAM] ', '[UGA] ', '[UGA] ']","['21-12', '21-9']",WD,20170223
+114,"['Francis Alwin [1]', 'Kona Tarun', 'Nicholas Kayongo', 'Joshua Muguluma']","['[IND] ', '[IND] ', '[UGA] ', '[UGA] ']","['21-7', '21-8']",MD,20170223
+115,"['Bahaedeen Ahmad Alshannik [3]', 'Mohd Naser Mansour Nayef', 'Adham Hatem Elgamal', 'Mohamed Mostafa Kamel']","['[JOR] ', '[JOR] ', '[EGY] ', '[EGY] ']","['21-12', '21-8']",MD,20170223
+116,"['Edwin Ekiring', 'Daniel Mihigo', 'Ambrose Nadiope', 'Aaron Opea Renge']","['[UGA] ', '[UGA] ', '[UGA] ', '[UGA] ']","['21-9', '21-8']",MD,20170223
+117,"['Aatish Lubah [2]', 'Georges Julien Paul', 'Ronald Lule', 'Israel Wanagalya']","['[MRI] ', '[MRI] ', '[UGA] ', '[UGA] ']","['21-12', '21-8']",MD,20170223
+118,"['Ahmed Salah [1]', 'Menna Eltanany', 'Davies Senono', 'Bridget Shamim Bangi']","['[EGY] ', '[EGY] ', '[UGA] ', '[UGA] ']","['14-21', '21-14', '21-13']",XD,20170223
+119,"['Mohd Naser Mansour Nayef [3]', 'Haneen Derar Al-Wedyan', 'Daniel Mihigo', 'Aisha Nakiyemba']","['[JOR] ', '[JOR] ', '[UGA] ', '[UGA] ']","['21-14', '21-14']",XD,20170223
+120,"['Israel Wanagalya', 'Betty Apio', 'Mutombo Tshizanga', 'Katambua Odia']","['[UGA] ', '[UGA] ', '[COD] ', '[COD] ']","['21-8', '21-12']",XD,20170223
+121,"['Bahaedeen Ahmad Alshannik [2]', 'Domou Amro', 'Isaac Senfuka', 'Gladys Mbabazi']","['[JOR] ', '[JOR] ', '[UGA] ', '[UGA] ']","['21-11', '21-5']",XD,20170223
+122,"['Bahaedeen Ahmad Alshannik [2]', 'Domou Amro', 'Ahmed Salah [1]', 'Menna Eltanany']","['[JOR] ', '[JOR] ', '[EGY] ', '[EGY] ']","['16-21', '21-12', '21-19']",XD ,20170223
+123,"['Francis Alwin [1]', 'Kona Tarun', 'Aatish Lubah [2]', 'Georges Julien Paul']","['[IND] ', '[IND] ', '[MRI] ', '[MRI] ']","['21-8', '21-14']",MD ,20170223
+124,"['Doha Hany [1]', 'Hadia Hosny', 'Evelyn Siamupangila [2]', 'Ogar Siamupangila']","['[EGY] ', '[EGY] ', '[ZAM] ', '[ZAM] ']","['21-10', '21-10']",WD ,20170223
+125,"['Bridget Shamim Bangi [6]', 'Domou Amro']","['[UGA] ', '[JOR] ']","['21-9', '21-16']",WS ,20170223
+126,"['Georges Julien Paul [1]', 'Edwin Ekiring [2]']","['[MRI] ', '[UGA] ']","['21-19', '7-11']",MS ,20170223

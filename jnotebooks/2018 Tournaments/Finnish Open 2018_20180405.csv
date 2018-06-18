@@ -1,0 +1,255 @@
+,PLAYERS,COUNTRIES,SCORES,EVENT,match_week
+0,"['Andy Tsai', 'Juha Honkanen']","['[SWE] ', '[FIN] ']","['21-7', '21-11']",MS - Qualification,20180405
+1,"['Julius Von Pfaler', 'Siril Verma [5]']","['[FIN] ', '[IND] ']",[],MS - Qualification,20180405
+2,"['Sahil Sipani [6]', 'Raymond Webster']","['[IND] ', '[ENG] ']","['21-0', '21-1']",MS - Qualification,20180405
+3,"['Mihkel Laanes', 'Iiro Kokko']","['[EST] ', '[FIN] ']","['18-21', '21-11', '21-16']",MS - Qualification,20180405
+4,"['Gurusaidutt R. M. V. [9]', 'Heming Lin']","['[IND] ', '[FIN] ']","['21-10', '21-13']",MS - Qualification,20180405
+5,"['Joshua Magee [15]', 'Vladimir Nikulov']","['[IRL] ', '[RUS] ']","['21-14', '21-12']",MS - Qualification,20180405
+6,"['Adrian George', 'Mika Kongas']","['[IND] ', '[FIN] ']","['21-16', '21-12']",MS - Qualification,20180405
+7,"['Hermansah .', 'Hans-Kristjan Pilve']","['[INA] ', '[EST] ']","['21-12', '21-6']",MS - Qualification,20180405
+8,"['Dmytro Zavadsky', 'Jesper Paul']","['[UKR] ', '[FIN] ']","['21-18', '21-12']",MS - Qualification,20180405
+9,"['Cristian Savin [16]', 'Anton Monnberg']","['[MDA] ', '[FIN] ']","['21-5', '21-11']",MS - Qualification,20180405
+10,"['Justus Kilpi', 'Pauli Saarinen']","['[FIN] ', '[FIN] ']","['21-13', '21-16']",MS - Qualification,20180405
+11,"['Kento Saeki', 'Hardik Makkar']","['[JPN] ', '[IND] ']","['21-14', '21-6']",MS - Qualification,20180405
+12,"['Maxime Tétreault', 'Jack Macgregor']","['[CAN] ', '[SCO] ']","['21-13', '21-15']",MS - Qualification,20180405
+13,"['Pavel Kotsarenko', 'Matej Hlinican [13]']","['[RUS] ', '[SVK] ']","['21-17', '21-19']",MS - Qualification,20180405
+14,"['Dmitrii Klimenko', 'Sven- Matti Kamann']","['[RUS] ', '[GER] ']","['21-10', '21-14']",MS - Qualification,20180405
+15,"['Kanishq M', 'Marcus Lõo']","['[IND] ', '[EST] ']","['21-13', '21-10']",MS - Qualification,20180405
+16,"['Joonas Korhonen', 'Joakim Oldorff']","['[FIN] ', '[FIN] ']","['21-15', '21-16']",MS - Qualification,20180405
+17,"['Arto Lahtinen', 'Artem Serpionov']","['[FIN] ', '[RUS] ']","['21-9', '21-10']",MS - Qualification,20180405
+18,"['Yoshitaka Ogura', 'Phone Pyae Naing']","['[JPN] ', '[MYA] ']","['23-25', '21-17', '21-12']",MS - Qualification,20180405
+19,"['Valtteri Nieminen', 'Milan Dratva [11]']","['[FIN] ', '[SVK] ']","['21-15', '21-13']",MS - Qualification,20180405
+20,"['Hemanth M.Gowda', 'Muhammed Ali Kurt [4]']","['[IND] ', '[TUR] ']",[],MS - Qualification,20180405
+21,"['Shintaro Inokuma', 'Mads Christophersen [12]']","['[JPN] ', '[DEN] ']","['21-19', '19-21', '21-11']",MS - Qualification,20180405
+22,"['Karl Kert', 'Bodhit Joshi [8]']","['[EST] ', '[IND] ']",[],MS - Qualification,20180405
+23,"['Pang Ron Hoo', 'Cheah Yee See', 'Juha Honkanen', 'Jannica Monnberg']","['[MAS] ', '[MAS] ', '[FIN] ', '[FIN] ']","['21-9', '21-3']",XD - Qualification,20180405
+24,"['Kartik Jindal', 'Jonathan Persson [7]']","['[IND] ', '[GER] ']","['21-11', '21-14']",MS - Qualification,20180405
+25,"['Aneeth Kumar Repudi', 'Julian Edhofer']","['[IND] ', '[GER] ']","['21-19', '21-14']",MS - Qualification,20180405
+26,"['Kasper Lehikoinen', 'Aryamann Tandon']","['[FIN] ', '[IND] ']",[],MS - Qualification,20180405
+27,"['Mikkel Enghøj', 'Anant Shivam Jindal']","['[DEN] ', '[IND] ']","['24-22', '19-21', '22-20']",MS - Qualification,20180405
+28,"['Alex Vlaar [14]', 'Sai Wuu Phet @ Sai Lin Tun Aung']","['[BUL] ', '[MYA] ']","['21-9', '21-16']",MS - Qualification,20180405
+29,"['Victor Zuhr', 'Taras Bondarenko']","['[SWE] ', '[EST] ']","['21-8', '21-9']",MS - Qualification,20180405
+30,"['Mika Kongas', 'Jesper Von Hertzen', 'Hans-Kristjan Pilve', 'Alexander Raudsepp']","['[FIN] ', '[FIN] ', '[EST] ', '[EST] ']","['21-11', '21-13']",MD - Qualification,20180405
+31,"['Phillipe Charron', 'Eero Lauri']","['[CAN] ', '[FIN] ']","['21-19', '21-16']",MS - Qualification,20180405
+32,"['Joshua Magee', 'Paul Reynolds', 'Mikko Heikkinen', 'Jori Simola']","['[IRL] ', '[IRL] ', '[FIN] ', '[FIN] ']","['21-7', '21-9']",MD - Qualification,20180405
+33,"['Arun Kumar Ashok Kumar', 'Ilias Xanthou']","['[IND] ', '[GRE] ']","['11-21', '21-19', '21-17']",MS - Qualification,20180405
+34,"['Yuki Isa', 'Kento Saeki', 'Teemu Lahtinen', 'Eero Lauri']","['[JPN] ', '[JPN] ', '[FIN] ', '[FIN] ']","['21-8', '21-11']",MD - Qualification,20180405
+35,"['Alena Iakovleva', 'Heini Ihalainen']","['[RUS] ', '[FIN] ']",[],WS - Qualification,20180405
+36,"['Erika Yokoyama', 'Anna Paavola']","['[JPN] ', '[FIN] ']","['21-11', '21-6']",WS - Qualification,20180405
+37,"['Chang Ya Lan', 'Pardeshi Shreyanshi']","['[TPE] ', '[IND] ']",[],WS - Qualification,20180405
+38,"['Felix Burestedt [10]', 'Kai Ho Tang']","['[SWE] ', '[ENG] ']","['21-9', '21-6']",MS - Qualification,20180405
+39,"['Lee Zii Yii', 'Vaishnavi Kaari']","['[MAS] ', '[IND] ']","['21-9', '21-11']",WS - Qualification,20180405
+40,"['Anastasiia Semenova', 'Yelizaveta Kharchenko']","['[RUS] ', '[KAZ] ']","['21-9', '21-10']",WS - Qualification,20180405
+41,"['Johanna Luostarinen', 'Chisato Hoshi']","['[FIN] ', '[JPN] ']",[],WS - Qualification,20180405
+42,"['Tuuli Harkonen', 'Shiori Ebihara']","['[FIN] ', '[JPN] ']",[],WS - Qualification,20180405
+43,"['Tanishq Mamilla Palli', 'Toni Woods']","['[IND] ', '[SCO] ']","['21-9', '21-8']",WS - Qualification,20180405
+44,"['Tsukiko Yasaki', 'Anastasia Stogova']","['[JPN] ', '[RUS] ']","['21-10', '21-11']",WS - Qualification,20180405
+45,"['Busra Unlu', 'Nella Siilasmaa']","['[TUR] ', '[FIN] ']","['21-14', '21-8']",WS - Qualification,20180405
+46,"['Elizaveta Tarasova', 'Henna-Leena Lindberg']","['[RUS] ', '[FIN] ']","['21-8', '21-9']",WS - Qualification,20180405
+47,"['Phone Pyae Naing', 'Fee Teng Liew', 'Nur Izzuddin', 'Soong Fie Cho']","['[MYA] ', '[ENG] ', '[MAS] ', '[MAS] ']",[],XD - Qualification,20180405
+48,"['Dmitrii Klimenko [1]', 'Alena Iakovleva', 'Sze Fei Goh', 'Yea Ching Goh']","['[RUS] ', '[RUS] ', '[MAS] ', '[MAS] ']",[],XD - Qualification,20180405
+49,"['Pang Ron Hoo', 'Cheah Yee See', 'Wee Gieen Tan', 'Yap Cheng Wen']","['[MAS] ', '[MAS] ', '[MAS] ', '[MAS] ']","['21-17', '13-21', '21-18']",XD - Qualification,20180405
+50,"['Dmytro Zavadsky', 'Joshua Magee [15]']","['[UKR] ', '[IRL] ']","['18-21', '21-15', '21-13']",MS - Qualification,20180405
+51,"['Chun Kang Shia', 'Tee Jing Yi', 'Jere Övermark [2]', 'Inalotta Suutarinen']","['[MAS] ', '[MAS] ', '[FIN] ', '[FIN] ']","['21-11', '21-13']",XD - Qualification,20180405
+52,"['Adrian George', 'Sahil Sipani [6]']","['[IND] ', '[IND] ']",[],MS - Qualification,20180405
+53,"['Mikkel Enghøj', 'Alex Vlaar [14]']","['[DEN] ', '[BUL] ']","['21-13', '21-7']",MS - Qualification,20180405
+54,"['Kartik Jindal', 'Aneeth Kumar Repudi']","['[IND] ', '[IND] ']","['21-16', '21-19']",MS - Qualification,20180405
+55,"['Hemanth M.Gowda', 'Maxime Tétreault']","['[IND] ', '[CAN] ']","['21-16', '21-11']",MS - Qualification,20180405
+56,"['Hermansah .', 'Cristian Savin [16]']","['[INA] ', '[MDA] ']","['22-20', '21-18']",MS - Qualification,20180405
+57,"['Karl Kert', 'Kasper Lehikoinen']","['[EST] ', '[FIN] ']","['21-13', '9-21', '21-15']",MS - Qualification,20180405
+58,"['Kanishq M', 'Shintaro Inokuma']","['[IND] ', '[JPN] ']","['19-21', '21-18', '21-16']",MS - Qualification,20180405
+59,"['Felix Burestedt [10]', 'Arun Kumar Ashok Kumar']","['[SWE] ', '[IND] ']","['21-8', '21-11']",MS - Qualification,20180405
+60,"['Phillipe Charron', 'Victor Zuhr']","['[CAN] ', '[SWE] ']","['21-18', '8-21', '21-15']",MS - Qualification,20180405
+61,"['Joonas Korhonen', 'Arto Lahtinen']","['[FIN] ', '[FIN] ']","['21-9', '21-17']",MS - Qualification,20180405
+62,"['Kento Saeki', 'Justus Kilpi']","['[JPN] ', '[FIN] ']","['21-15', '21-11']",MS - Qualification,20180405
+63,"['Gurusaidutt R. M. V. [9]', 'Mihkel Laanes']","['[IND] ', '[EST] ']","['21-8', '21-6']",MS - Qualification,20180405
+64,"['Yoshitaka Ogura', 'Valtteri Nieminen']","['[JPN] ', '[FIN] ']","['21-19', '22-20']",MS - Qualification,20180405
+65,"['Dmitrii Klimenko', 'Pavel Kotsarenko']","['[RUS] ', '[RUS] ']","['21-8', '21-14']",MS - Qualification,20180405
+66,"['Andy Tsai', 'Julius Von Pfaler']","['[SWE] ', '[FIN] ']","['21-14', '21-18']",MS - Qualification,20180405
+67,"['Lee Zii Yii', 'Lilit Poghosyan']","['[MAS] ', '[ARM] ']","['21-14', '21-10']",WS - Qualification,20180405
+68,"['Krestina Silich', 'Getter Saar [1]']","['[BLR] ', '[EST] ']",[],WS - Qualification,20180405
+69,"['Helis Pajuste', 'Johanna Luostarinen']","['[EST] ', '[FIN] ']","['24-26', '21-17', '21-10']",WS - Qualification,20180405
+70,"['Ksenia Evgenova [3]', 'Hanna Karkaus']","['[RUS] ', '[FIN] ']","['21-12', '21-9']",WS - Qualification,20180405
+71,"['Mika Kongas', 'Jesper Von Hertzen', 'Oskari Larkimo', 'Tuomas Nuorteva']","['[FIN] ', '[FIN] ', '[FIN] ', '[FIN] ']",[],MD - Qualification,20180405
+72,"['Anastasiya Cherniavskaya [7]', 'Chang Ya Lan']","['[BLR] ', '[TPE] ']","['15-21', '21-17', '21-13']",WS - Qualification,20180405
+73,"['Joshua Magee', 'Paul Reynolds', 'Karl Kert', 'Marcus Lõo']","['[IRL] ', '[IRL] ', '[EST] ', '[EST] ']",[],MD - Qualification,20180405
+74,"['Viktoriia Vorobeva', 'Olga Arkhangelskaya [8]']","['[RUS] ', '[RUS] ']","['21-16', '21-17']",WS - Qualification,20180405
+75,"['Erika Yokoyama', 'Rebecca Kuhl']","['[JPN] ', '[SWE] ']","['21-14', '21-11']",WS - Qualification,20180405
+76,"['Anastasiia Semenova', 'Maija Krzywacki']","['[RUS] ', '[FIN] ']",[],WS - Qualification,20180405
+77,"['Mako Urushizaki', 'Alena Iakovleva']","['[JPN] ', '[RUS] ']","['21-1', '21-5']",WS - Qualification,20180405
+78,"['Ozge Bayrak [4]', 'Shruti Mundada']","['[TUR] ', '[IND] ']","['21-12', '21-8']",WS - Qualification,20180405
+79,"['Anton Kaisti', 'Jere Övermark', 'Juha Honkanen [1]', 'Miika Lahtinen']","['[FIN] ', '[FIN] ', '[FIN] ', '[FIN] ']",[],MD - Qualification,20180405
+80,"['Yuki Isa', 'Kento Saeki', 'Zechen Ma [2]', 'Julius Von Pfaler']","['[JPN] ', '[JPN] ', '[FIN] ', '[FIN] ']",[],MD - Qualification,20180405
+81,"['Tuuli Harkonen', 'Paloma Eduarda Da Silva']","['[FIN] ', '[BRA] ']","['12-21', '21-12', '2-5']",WS - Qualification,20180405
+82,"['Tanishq Mamilla Palli', 'Riya Mookerjee [5]']","['[IND] ', '[IND] ']","['19-21', '23-21', '21-14']",WS - Qualification,20180405
+83,"['Elizaveta Tarasova', 'Ronja Stern [6]']","['[RUS] ', '[SUI] ']","['21-8', '21-15']",WS - Qualification,20180405
+84,"['Porntip Buranaprasertsuk', 'Busra Unlu']","['[THA] ', '[TUR] ']","['21-6', '21-5']",WS - Qualification,20180405
+85,"['Tsukiko Yasaki', 'Kie Nakanishi']","['[JPN] ', '[JPN] ']",[],WS - Qualification,20180405
+86,"['Nazlıcan Inci', 'Anna Thea Madsen [2]']","['[TUR] ', '[DEN] ']",[],WS - Qualification,20180405
+87,"['Hermansah .', 'Hemanth M.Gowda']","['[INA] ', '[IND] ']","['22-20', '21-19']",MS - Qualification,20180405
+88,"['Kartik Jindal', 'Mikkel Enghøj']","['[IND] ', '[DEN] ']","['21-16', '21-14']",MS - Qualification,20180405
+89,"['Felix Burestedt [10]', 'Phillipe Charron']","['[SWE] ', '[CAN] ']","['21-13', '21-17']",MS - Qualification,20180405
+90,"['Adrian George', 'Dmytro Zavadsky']","['[IND] ', '[UKR] ']","['17-21', '21-14', '21-19']",MS - Qualification,20180405
+91,"['Kanishq M', 'Karl Kert']","['[IND] ', '[EST] ']","['21-16', '21-17']",MS - Qualification,20180405
+92,"['Kento Saeki', 'Dmitrii Klimenko']","['[JPN] ', '[RUS] ']","['21-7', '21-12']",MS - Qualification,20180405
+93,"['Yoshitaka Ogura', 'Joonas Korhonen']","['[JPN] ', '[FIN] ']","['21-13', '21-8']",MS - Qualification,20180405
+94,"['Gurusaidutt R. M. V. [9]', 'Andy Tsai']","['[IND] ', '[SWE] ']","['21-13', '21-14']",MS - Qualification,20180405
+95,"['Lee Zii Yii', 'Krestina Silich']","['[MAS] ', '[BLR] ']","['21-14', '21-9']",WS - Qualification,20180405
+96,"['Ksenia Evgenova [3]', 'Helis Pajuste']","['[RUS] ', '[EST] ']","['21-9', '21-16']",WS - Qualification,20180405
+97,"['Mako Urushizaki', 'Anastasiya Cherniavskaya [7]']","['[JPN] ', '[BLR] ']","['21-11', '21-9']",WS - Qualification,20180405
+98,"['Erika Yokoyama', 'Viktoriia Vorobeva']","['[JPN] ', '[RUS] ']","['21-9', '21-15']",WS - Qualification,20180405
+99,"['Ozge Bayrak [4]', 'Anastasiia Semenova']","['[TUR] ', '[RUS] ']","['21-13', '21-15']",WS - Qualification,20180405
+100,"['Porntip Buranaprasertsuk', 'Elizaveta Tarasova']","['[THA] ', '[RUS] ']","['21-15', '21-8']",WS - Qualification,20180405
+101,"['Tanishq Mamilla Palli', 'Tuuli Harkonen']","['[IND] ', '[FIN] ']","['21-13', '21-19']",WS - Qualification,20180405
+102,"['Tsukiko Yasaki', 'Nazlıcan Inci']","['[JPN] ', '[TUR] ']","['21-13', '21-6']",WS - Qualification,20180405
+103,"['Alfian Eko Prasetya [5]', 'Marsheilla Gischa Islami', 'Alex Vlaar', 'Iris Tabeling']","['[INA] ', '[INA] ', '[BUL] ', '[NED] ']","['21-8', '21-14']",XD,20180405
+104,"['Josche Zurwonne', 'Eva Janssens', 'Milan Dratva', 'Martina Repiska']","['[GER] ', '[GER] ', '[SVK] ', '[SVK] ']","['21-18', '21-10']",XD,20180405
+105,"['Julius Von Pfaler', 'Tuuli Harkonen', 'Phone Pyae Naing', 'Fee Teng Liew']","['[FIN] ', '[FIN] ', '[MYA] ', '[ENG] ']","['21-16', '21-18']",XD,20180405
+106,"['Peter Kaesbauer', 'Olga Konon', 'Rehan Naufal Kusharjanto', 'Siti Fadia Silva Ramadhanti']","['[GER] ', '[GER] ', '[INA] ', '[INA] ']","['21-13', '14-21', '26-24']",XD,20180405
+107,"['Rodion Alimov [6]', 'Alina Davletova', 'Jack Macgregor', 'Toni Woods']","['[RUS] ', '[RUS] ', '[SCO] ', '[SCO] ']","['21-9', '21-13']",XD,20180405
+108,"['Tang Jie Chen', 'Yen Wei Peck', 'Vladimir Nikulov', 'Anastasiia Semenova']","['[MAS] ', '[MAS] ', '[RUS] ', '[RUS] ']","['21-14', '21-19']",XD,20180405
+109,"['Rodion Kargaev', 'Viktoriia Vorobeva', 'Jakub Bitman [8]', 'Alzbeta Basova']","['[RUS] ', '[RUS] ', '[CZE] ', '[CZE] ']","['15-21', '21-18', '21-17']",XD,20180405
+110,"['Oliver Schaller [4]', 'Celine Burkart', 'Mika Kongas', 'Elina Niiranen']","['[SUI] ', '[SUI] ', '[FIN] ', '[FIN] ']","['21-15', '21-16']",XD,20180405
+111,"['Pang Ron Hoo', 'Cheah Yee See', 'Nikolaj Persson', 'Kilasu Ostermeyer']","['[MAS] ', '[MAS] ', '[GER] ', '[GER] ']","['21-16', '21-12']",XD,20180405
+112,"['Gregory Mairs [2]', 'Jenny Moore', 'Pramudya Kusumawardana Riyanto', 'Ribka Sugiarto']","['[ENG] ', '[ENG] ', '[INA] ', '[INA] ']","['21-15', '21-9']",XD,20180405
+113,"['Anton Kaisti [1]', 'Jenny Nystrom', 'Dmitrii Klimenko', 'Alena Iakovleva']","['[FIN] ', '[FIN] ', '[RUS] ', '[RUS] ']","['21-13', '21-6']",XD,20180405
+114,"['Akbar Bintang Cahyono', 'Winny Oktavina Kandow', 'Rohan Kapoor [7]', 'Kuhoo Garg']","['[INA] ', '[INA] ', '[IND] ', '[IND] ']","['21-16', '21-13']",XD,20180405
+115,"['Iikka Heino', 'Abhishek Yeligar']","['[FIN] ', '[IND] ']","['21-18', '19-21', '21-19']",MS,20180405
+116,"['Chun Kang Shia', 'Tee Jing Yi', 'Tuomas Nuorteva', 'Sonja Pekkola']","['[MAS] ', '[MAS] ', '[FIN] ', '[FIN] ']","['21-6', '21-16']",XD,20180405
+117,"['Denis Grachev', 'Ekaterina Bolotova', 'Oskari Larkimo', 'Linnea Vainula']","['[RUS] ', '[RUS] ', '[FIN] ', '[FIN] ']","['21-15', '21-17']",XD,20180405
+118,"['Eetu Heino', 'Kai Schaefer']","['[FIN] ', '[GER] ']","['21-18', '21-13']",MS,20180405
+119,"['Saurabh Sharma [3]', 'Anoushka Parikh', 'Michael Roe', 'Jessica Hopton']","['[IND] ', '[IND] ', '[ENG] ', '[ENG] ']","['21-13', '21-18']",XD,20180405
+120,"['Andika Ramadiansyah', 'Mychelle Crhystine Bandaso', 'Uladzimir Varantsou', 'Krestina Silich']","['[INA] ', '[INA] ', '[BLR] ', '[BLR] ']",[],XD,20180405
+121,"['Muhammed Ali Kurt', 'Rahul Yadav Chittaboina']","['[TUR] ', '[IND] ']","['21-13', '21-16']",MS,20180405
+122,"['Nhat Nguyen', 'Gergely Krausz']","['[IRL] ', '[HUN] ']","['21-14', '21-10']",MS,20180405
+123,"['Shreyansh Jaiswal', 'Yoshitaka Ogura']","['[IND] ', '[JPN] ']","['21-16', '21-18']",MS,20180405
+124,"['Siril Verma', 'Alexander Roovers']","['[IND] ', '[GER] ']","['21-19', '21-12']",MS,20180405
+125,"['Hermansah .', 'Duarte Nuno Anjo']","['[INA] ', '[POR] ']","['21-12', '21-15']",MS,20180405
+126,"['Felix Burestedt', 'Kartik Jindal']","['[SWE] ', '[IND] ']","['23-21', '21-18']",MS,20180405
+127,"['Gurusaidutt R. M. V.', 'Sergey Sirant']","['[IND] ', '[RUS] ']","['21-14', '15-21', '21-19']",MS,20180405
+128,"['Lars Schaenzler', 'Kento Saeki']","['[GER] ', '[JPN] ']","['21-16', '14-21', '23-21']",MS,20180405
+129,"['Jun Hao Leong', 'Subhankar Dey [4]']","['[MAS] ', '[IND] ']","['22-20', '21-19']",MS,20180405
+130,"['Luís Enrique Peñalver', 'Kanishq M']","['[ESP] ', '[IND] ']","['21-16', '14-21', '21-12']",MS,20180405
+131,"['June Wei Cheam', 'Henri Aarnio']","['[MAS] ', '[FIN] ']","['21-12', '21-9']",MS,20180405
+132,"['Muralitharan Thinaah', 'Alesia Zaitsava']","['[MAS] ', '[BLR] ']","['21-16', '21-15']",WS,20180405
+133,"['Ying Ying Lee [2]', 'Saili Rane']","['[MAS] ', '[IND] ']","['21-9', '24-22']",WS,20180405
+134,"['Ruselli Hartawan [8]', 'Getter Saar']","['[INA] ', '[EST] ']","['21-13', '21-12']",WS,20180405
+135,"['Emre Lale', 'Karan Rajan Rajarajan']","['[TUR] ', '[IND] ']","['21-19', '21-13']",MS,20180405
+136,"['Aliye Demirbag', 'Ayla Huser']","['[TUR] ', '[SUI] ']","['21-15', '22-20']",WS,20180405
+137,"['Neslihan Yigit [1]', 'Martina Repiska']","['[TUR] ', '[SVK] ']","['21-5', '21-17']",WS,20180405
+138,"['Tsukiko Yasaki', 'Lee Zii Yii']","['[JPN] ', '[MAS] ']","['14-21', '21-16', '21-13']",WS,20180405
+139,"['Ozge Bayrak', 'Yvonne Li']","['[TUR] ', '[GER] ']","['21-12', '19-21', '21-12']",WS,20180405
+140,"['Kalle Koljonen [5]', 'Adrian George']","['[FIN] ', '[IND] ']","['21-11', '21-11']",MS,20180405
+141,"['Vladimir Malkov [2]', 'Sahil Sipani']","['[RUS] ', '[IND] ']","['21-8', '17-21', '21-14']",MS,20180405
+142,"['Luise Heim [4]', 'Vaidehi Choudhari']","['[GER] ', '[IND] ']","['21-18', '21-19']",WS,20180405
+143,"['Gregoria Mariska Tunjung [3]', 'Tanishq Mamilla Palli']","['[INA] ', '[IND] ']","['21-7', '21-16']",WS,20180405
+144,"['Fabienne Deprez', 'Erika Yokoyama']","['[GER] ', '[JPN] ']","['21-16', '21-14']",WS,20180405
+145,"['Selvaduray Kisona [7]', 'Irina Amalie Andersen']","['[MAS] ', '[DEN] ']","['15-21', '21-6', '21-12']",WS,20180405
+146,"['Porntip Buranaprasertsuk', 'Sri Krishna Priya Kudaravalli [6]']","['[THA] ', '[IND] ']","['21-17', '21-9']",WS,20180405
+147,"['Mako Urushizaki', 'Anna Thea Madsen']","['[JPN] ', '[DEN] ']","['21-15', '15-21', '21-8']",WS,20180405
+148,"['Julie Dawall Jakobsen [5]', 'Airi Mikkela']","['[DEN] ', '[FIN] ']","['21-11', '21-8']",WS,20180405
+149,"['Yin Fun Lim', 'Anura Prabhudesai']","['[MAS] ', '[IND] ']","['21-17', '21-12']",WS,20180405
+150,"['Ksenia Evgenova', 'Mugdha Agrey']","['[RUS] ', '[IND] ']","['11-21', '21-19', '21-14']",WS,20180405
+151,"['Rehan Naufal Kusharjanto', 'Pramudya Kusumawardana Riyanto', 'Kona Tarun [4]', 'Saurabh Sharma']","['[INA] ', '[INA] ', '[IND] ', '[IND] ']","['21-18', '17-21', '21-10']",MD,20180405
+152,"['Joel Eipe [8]', 'Philip Seerup', 'Rodion Alimov', 'Pavel Kotsarenko']","['[DEN] ', '[DEN] ', '[RUS] ', '[RUS] ']","['21-18', '21-17']",MD,20180405
+153,"['Yuki Isa', 'Kento Saeki', 'Nicklas Mathiasen', 'Mikkel Stoffersen']","['[JPN] ', '[JPN] ', '[DEN] ', '[DEN] ']","['23-21', '13-21', '21-15']",MD,20180405
+154,"['Matthew Clare', 'Michael Roe', 'Henri Aarnio', 'Iikka Heino']","['[ENG] ', '[ENG] ', '[FIN] ', '[FIN] ']","['21-13', '21-14']",MD,20180405
+155,"['Mika Kongas', 'Jesper Von Hertzen', 'Zechen Ma', 'Julius Von Pfaler']","['[FIN] ', '[FIN] ', '[FIN] ', '[FIN] ']","['21-17', '21-19']",MD,20180405
+156,"['Sabar Karyaman Gutama [3]', 'Frengky Wijaya Putra', 'Milan Dratva', 'Matej Hlinican']","['[INA] ', '[INA] ', '[SVK] ', '[SVK] ']","['21-12', '21-12']",MD,20180405
+157,"['Phillipe Charron', 'Maxime Tétreault', 'Juha Honkanen', 'Miika Lahtinen']","['[CAN] ', '[CAN] ', '[FIN] ', '[FIN] ']","['21-12', '21-16']",MD,20180405
+158,"['Tang Jie Chen', 'Pang Ron Hoo', 'Evgenij Dremin [6]', 'Denis Grachev']","['[MAS] ', '[MAS] ', '[RUS] ', '[RUS] ']","['21-18', '21-19']",MD,20180405
+159,"['Chun Kang Shia [7]', 'Wee Gieen Tan', 'Oskari Larkimo', 'Tuomas Nuorteva']","['[MAS] ', '[MAS] ', '[FIN] ', '[FIN] ']","['21-14', '21-15']",MD,20180405
+160,"['Arun George', 'Sanyam Shukla', 'Hermansah .', 'Gustav Stromvall']","['[IND] ', '[IND] ', '[INA] ', '[SWE] ']","['17-21', '21-16', '21-18']",MD,20180405
+161,"['Yea Ching Goh', 'Yap Cheng Wen', 'Anna Paavola', 'Linnea Vainula']","['[MAS] ', '[MAS] ', '[FIN] ', '[FIN] ']","['21-8', '21-4']",WD,20180405
+162,"['Anastasiia Boiarun', 'Alena Iakovleva', 'Tuuli Harkonen', 'Elina Niiranen']","['[RUS] ', '[RUS] ', '[FIN] ', '[FIN] ']","['9-21', '21-10', '23-21']",WD,20180405
+163,"['Cheah Yee See', 'Yen Wei Peck', 'Johanna Goliszewski', 'Eva Janssens']","['[MAS] ', '[MAS] ', '[GER] ', '[GER] ']","['21-16', '21-12']",WD,20180405
+164,"['Akbar Bintang Cahyono', 'Moh Reza Pahlevi Isfahani', 'Kristjan Kaljurand', 'Raul Käsner']","['[INA] ', '[INA] ', '[EST] ', '[EST] ']","['21-13', '21-13']",MD,20180405
+165,"['Joshua Magee', 'Paul Reynolds', 'Vladimir Nikulov', 'Artem Serpionov']","['[IRL] ', '[IRL] ', '[RUS] ', '[RUS] ']","['21-15', '16-21', '21-17']",MD,20180405
+166,"['Kilasu Ostermeyer', 'Iris Tabeling', 'Julie Dawall Jakobsen', 'Ditte Søby']","['[GER] ', '[NED] ', '[DEN] ', '[DEN] ']","['16-21', '24-22', '21-14']",WD,20180405
+167,"['Ksenia Evgenova', 'Viktoriia Vorobeva', 'Busra Unlu', 'Ebru Yazgan']","['[RUS] ', '[RUS] ', '[TUR] ', '[TUR] ']","['21-10', '21-18']",WD,20180405
+168,"['Alzbeta Basova', 'Michaela Fuchsova', 'Kuhoo Garg', 'Ningshi Block Hazarika']","['[CZE] ', '[CZE] ', '[IND] ', '[IND] ']","['21-14', '21-19']",WD,20180405
+169,"['Tsukiko Yasaki', 'Erika Yokoyama', 'Jessica Hopton', 'Jenny Moore']","['[JPN] ', '[JPN] ', '[ENG] ', '[ENG] ']","['21-17', '21-16']",WD,20180405
+170,"['Asumi Kugo', 'Megumi Yokoyama', 'Febriana Dwipuji Kusuma', 'Ribka Sugiarto']","['[JPN] ', '[JPN] ', '[INA] ', '[INA] ']","['21-12', '21-14']",WD,20180405
+171,"['Anton Kaisti', 'Jere Övermark', 'Anton Monnberg', 'Jesper Paul']","['[FIN] ', '[FIN] ', '[FIN] ', '[FIN] ']","['21-18', '21-16']",MD,20180405
+172,"['Jenny Nystrom', 'Sonja Pekkola', 'Moa Sjoo', 'Tilda Sjoo']","['[FIN] ', '[FIN] ', '[SWE] ', '[SWE] ']","['21-12', '21-11']",WD,20180405
+173,"['Chang Ya Lan', 'Cheng Wen Hsing', 'Maija Krzywacki', 'Inalotta Suutarinen']","['[TPE] ', '[TPE] ', '[FIN] ', '[FIN] ']",[],WD,20180405
+174,"['Mathias Bay-Smidt [2]', 'Frederik Søgaard', 'Dmitry Dubovenko', 'Andrei Klimenkov']","['[DEN] ', '[DEN] ', '[RUS] ', '[RUS] ']","['21-9', '21-13']",MD,20180405
+175,"['Denis Grachev', 'Ekaterina Bolotova', 'Oliver Schaller [4]', 'Celine Burkart']","['[RUS] ', '[RUS] ', '[SUI] ', '[SUI] ']","['22-20', '11-21', '21-8']",XD,20180405
+176,"['Francis Alwin [5]', 'K. Nandagopal', 'Karl Kert', 'Marcus Lõo']","['[IND] ', '[IND] ', '[EST] ', '[EST] ']","['21-9', '21-12']",MD,20180405
+177,"['Vitalij Durkin', 'Nikolai Ukk', 'Peyo Boichinov', 'Ivan Panev']","['[RUS] ', '[RUS] ', '[BUL] ', '[BUL] ']","['26-24', '21-17']",MD,20180405
+178,"['Rodion Alimov [6]', 'Alina Davletova', 'Josche Zurwonne', 'Eva Janssens']","['[RUS] ', '[RUS] ', '[GER] ', '[GER] ']","['21-14', '21-17']",XD,20180405
+179,"['Anastasiya Cherniavskaya', 'Alesia Zaitsava', 'Chisato Hoshi', 'Kie Nakanishi']","['[BLR] ', '[BLR] ', '[JPN] ', '[JPN] ']",[],WD,20180405
+180,"['Olga Arkhangelskaya', 'Elizaveta Tarasova', 'Hanna Karkaus', 'Johanna Luostarinen']","['[RUS] ', '[RUS] ', '[FIN] ', '[FIN] ']","['21-12', '21-18']",WD,20180405
+181,"['Alfian Eko Prasetya [5]', 'Marsheilla Gischa Islami', 'Peter Kaesbauer', 'Olga Konon']","['[INA] ', '[INA] ', '[GER] ', '[GER] ']","['21-17', '18-21', '21-15']",XD,20180405
+182,"['Julius Von Pfaler', 'Tuuli Harkonen', 'Rodion Kargaev', 'Viktoriia Vorobeva']","['[FIN] ', '[FIN] ', '[RUS] ', '[RUS] ']","['23-21', '19-21', '21-13']",XD,20180405
+183,"['Akbar Bintang Cahyono', 'Winny Oktavina Kandow', 'Tang Jie Chen', 'Yen Wei Peck']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['21-18', '21-18']",XD,20180405
+184,"['Gregory Mairs [2]', 'Jenny Moore', 'Pang Ron Hoo', 'Cheah Yee See']","['[ENG] ', '[ENG] ', '[MAS] ', '[MAS] ']","['21-19', '9-21', '23-21']",XD,20180405
+185,"['Andika Ramadiansyah', 'Mychelle Crhystine Bandaso', 'Saurabh Sharma [3]', 'Anoushka Parikh']","['[INA] ', '[INA] ', '[IND] ', '[IND] ']","['21-17', '21-19']",XD,20180405
+186,"['Chun Kang Shia', 'Tee Jing Yi', 'Anton Kaisti [1]', 'Jenny Nystrom']","['[MAS] ', '[MAS] ', '[FIN] ', '[FIN] ']","['21-19', '23-21']",XD,20180405
+187,"['Hermansah .', 'Siril Verma']","['[INA] ', '[IND] ']","['21-14', '15-21', '21-13']",MS,20180405
+188,"['June Wei Cheam', 'Vladimir Malkov [2]']","['[MAS] ', '[RUS] ']","['21-18', '21-19']",MS,20180405
+189,"['Emre Lale', 'Muhammed Ali Kurt']","['[TUR] ', '[TUR] ']","['21-13', '21-9']",MS,20180405
+190,"['Luís Enrique Peñalver', 'Kalle Koljonen [5]']","['[ESP] ', '[FIN] ']","['21-19', '21-13']",MS,20180405
+191,"['Iikka Heino', 'Shreyansh Jaiswal']","['[FIN] ', '[IND] ']","['21-18', '21-17']",MS,20180405
+192,"['Eetu Heino', 'Lars Schaenzler']","['[FIN] ', '[GER] ']","['21-4', '21-15']",MS,20180405
+193,"['Nhat Nguyen', 'Felix Burestedt']","['[IRL] ', '[SWE] ']","['23-21', '21-13']",MS,20180405
+194,"['Jun Hao Leong', 'Gurusaidutt R. M. V.']","['[MAS] ', '[IND] ']",['11-6'],MS,20180405
+195,"['Ruselli Hartawan [8]', 'Aliye Demirbag']","['[INA] ', '[TUR] ']","['16-21', '21-12', '21-15']",WS,20180405
+196,"['Julie Dawall Jakobsen [5]', 'Ksenia Evgenova']","['[DEN] ', '[RUS] ']","['21-9', '21-9']",WS,20180405
+197,"['Ying Ying Lee [2]', 'Muralitharan Thinaah']","['[MAS] ', '[MAS] ']","['21-11', '18-21', '21-13']",WS,20180405
+198,"['Ozge Bayrak', 'Luise Heim [4]']","['[TUR] ', '[GER] ']","['21-18', '21-16']",WS,20180405
+199,"['Gregoria Mariska Tunjung [3]', 'Fabienne Deprez']","['[INA] ', '[GER] ']","['14-21', '21-10', '21-14']",WS,20180405
+200,"['Selvaduray Kisona [7]', 'Mako Urushizaki']","['[MAS] ', '[JPN] ']","['26-24', '21-17']",WS,20180405
+201,"['Tsukiko Yasaki', 'Neslihan Yigit [1]']","['[JPN] ', '[TUR] ']","['21-17', '22-20']",WS,20180405
+202,"['Porntip Buranaprasertsuk', 'Yin Fun Lim']","['[THA] ', '[MAS] ']","['21-18', '21-15']",WS,20180405
+203,"['Vitalij Durkin', 'Nikolai Ukk', 'Tang Jie Chen', 'Pang Ron Hoo']","['[RUS] ', '[RUS] ', '[MAS] ', '[MAS] ']","['21-17', '21-15']",MD,20180405
+204,"['Akbar Bintang Cahyono', 'Moh Reza Pahlevi Isfahani', 'Francis Alwin [5]', 'K. Nandagopal']","['[INA] ', '[INA] ', '[IND] ', '[IND] ']","['21-18', '21-16']",MD,20180405
+205,"['Mathias Bay-Smidt [2]', 'Frederik Søgaard', 'Arun George', 'Sanyam Shukla']","['[DEN] ', '[DEN] ', '[IND] ', '[IND] ']","['21-16', '16-21', '21-17']",MD,20180405
+206,"['Chun Kang Shia [7]', 'Wee Gieen Tan', 'Anton Kaisti', 'Jere Övermark']","['[MAS] ', '[MAS] ', '[FIN] ', '[FIN] ']","['21-18', '21-10']",MD,20180405
+207,"['Mika Kongas', 'Jesper Von Hertzen', 'Phillipe Charron', 'Maxime Tétreault']","['[FIN] ', '[FIN] ', '[CAN] ', '[CAN] ']","['21-14', '13-21', '21-16']",MD,20180405
+208,"['Rehan Naufal Kusharjanto', 'Pramudya Kusumawardana Riyanto', 'Yuki Isa', 'Kento Saeki']","['[INA] ', '[INA] ', '[JPN] ', '[JPN] ']","['21-12', '21-13']",MD,20180405
+209,"['Sabar Karyaman Gutama [3]', 'Frengky Wijaya Putra', 'Joshua Magee', 'Paul Reynolds']","['[INA] ', '[INA] ', '[IRL] ', '[IRL] ']","['21-17', '21-19']",MD,20180405
+210,"['Joel Eipe [8]', 'Philip Seerup', 'Matthew Clare', 'Michael Roe']","['[DEN] ', '[DEN] ', '[ENG] ', '[ENG] ']","['21-19', '22-20']",MD,20180405
+211,"['Agatha Imanuela [3]', 'Siti Fadia Silva Ramadhanti', 'Alzbeta Basova', 'Michaela Fuchsova']","['[INA] ', '[INA] ', '[CZE] ', '[CZE] ']","['21-11', '21-11']",WD,20180405
+212,"['Ekaterina Bolotova [1]', 'Alina Davletova', 'Jenny Nystrom', 'Sonja Pekkola']","['[RUS] ', '[RUS] ', '[FIN] ', '[FIN] ']","['21-12', '21-11']",WD,20180405
+213,"['Asumi Kugo', 'Megumi Yokoyama', 'Kilasu Ostermeyer', 'Iris Tabeling']","['[JPN] ', '[JPN] ', '[GER] ', '[NED] ']","['21-18', '21-11']",WD,20180405
+214,"['Soong Fie Cho [2]', 'Tee Jing Yi', 'Anastasiia Boiarun', 'Alena Iakovleva']","['[MAS] ', '[MAS] ', '[RUS] ', '[RUS] ']","['21-15', '21-12']",WD,20180405
+215,"['Yea Ching Goh', 'Yap Cheng Wen', 'Ksenia Evgenova', 'Viktoriia Vorobeva']","['[MAS] ', '[MAS] ', '[RUS] ', '[RUS] ']","['21-13', '21-7']",WD,20180405
+216,"['Chang Ya Lan', 'Cheng Wen Hsing', 'Bengisu Ercetin [4]', 'Nazlıcan Inci']","['[TPE] ', '[TPE] ', '[TUR] ', '[TUR] ']","['17-21', '21-11', '21-5']",WD,20180405
+217,"['Cheah Yee See', 'Yen Wei Peck', 'Anastasiya Cherniavskaya', 'Alesia Zaitsava']","['[MAS] ', '[MAS] ', '[BLR] ', '[BLR] ']","['21-11', '21-18']",WD,20180405
+218,"['Tsukiko Yasaki', 'Erika Yokoyama', 'Olga Arkhangelskaya', 'Elizaveta Tarasova']","['[JPN] ', '[JPN] ', '[RUS] ', '[RUS] ']","['21-19', '21-5']",WD,20180405
+219,"['Porntip Buranaprasertsuk', 'Tsukiko Yasaki']","['[THA] ', '[JPN] ']","['21-10', '21-8']",WS ,20180405
+220,"['Denis Grachev', 'Ekaterina Bolotova', 'Julius Von Pfaler', 'Tuuli Harkonen']","['[RUS] ', '[RUS] ', '[FIN] ', '[FIN] ']","['17-21', '21-9', '21-14']",XD ,20180405
+221,"['Gregoria Mariska Tunjung [3]', 'Selvaduray Kisona [7]']","['[INA] ', '[MAS] ']","['21-12', '12-21', '21-19']",WS ,20180405
+222,"['Rehan Naufal Kusharjanto', 'Pramudya Kusumawardana Riyanto', 'Vitalij Durkin', 'Nikolai Ukk']","['[INA] ', '[INA] ', '[RUS] ', '[RUS] ']","['21-16', '22-20']",MD ,20180405
+223,"['Soong Fie Cho [2]', 'Tee Jing Yi', 'Tsukiko Yasaki', 'Erika Yokoyama']","['[MAS] ', '[MAS] ', '[JPN] ', '[JPN] ']","['21-8', '21-15']",WD ,20180405
+224,"['Rodion Alimov [6]', 'Alina Davletova', 'Chun Kang Shia', 'Tee Jing Yi']","['[RUS] ', '[RUS] ', '[MAS] ', '[MAS] ']","['12-21', '21-15', '21-16']",XD ,20180405
+225,"['Jun Hao Leong', 'Luís Enrique Peñalver']","['[MAS] ', '[ESP] ']","['21-19', '14-21', '21-7']",MS ,20180405
+226,"['Asumi Kugo', 'Megumi Yokoyama', 'Chang Ya Lan', 'Cheng Wen Hsing']","['[JPN] ', '[JPN] ', '[TPE] ', '[TPE] ']","['21-18', '21-17']",WD ,20180405
+227,"['Eetu Heino', 'Emre Lale']","['[FIN] ', '[TUR] ']","['21-7', '21-12']",MS ,20180405
+228,"['Sabar Karyaman Gutama [3]', 'Frengky Wijaya Putra', 'Chun Kang Shia [7]', 'Wee Gieen Tan']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['21-19', '21-19']",MD ,20180405
+229,"['Ruselli Hartawan [8]', 'Ozge Bayrak']","['[INA] ', '[TUR] ']","['18-21', '21-17', '21-19']",WS ,20180405
+230,"['Akbar Bintang Cahyono', 'Winny Oktavina Kandow', 'Denis Grachev', 'Ekaterina Bolotova']","['[INA] ', '[INA] ', '[RUS] ', '[RUS] ']","['21-14', '21-10']",XD ,20180405
+231,"['June Wei Cheam', 'Eetu Heino']","['[MAS] ', '[FIN] ']","['21-9', '21-15']",MS ,20180405
+232,"['Asumi Kugo', 'Megumi Yokoyama', 'Soong Fie Cho [2]', 'Tee Jing Yi']","['[JPN] ', '[JPN] ', '[MAS] ', '[MAS] ']","['21-16', '18-21', '21-6']",WD ,20180405
+233,"['Akbar Bintang Cahyono', 'Moh Reza Pahlevi Isfahani', 'Sabar Karyaman Gutama [3]', 'Frengky Wijaya Putra']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-19', '21-17']",MD ,20180405
+234,"['Ozge Bayrak', 'Julie Dawall Jakobsen [5]']","['[TUR] ', '[DEN] ']","['21-16', '19-21', '21-10']",WS ,20180405
+235,"['Alfian Eko Prasetya [5]', 'Marsheilla Gischa Islami', 'Andika Ramadiansyah', 'Mychelle Crhystine Bandaso']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-17', '21-19']",XD ,20180405
+236,"['Hermansah .', 'Nhat Nguyen']","['[INA] ', '[IRL] ']","['21-14', '21-9']",MS ,20180405
+237,"['Akbar Bintang Cahyono', 'Moh Reza Pahlevi Isfahani', 'Mathias Bay-Smidt [2]', 'Frederik Søgaard']","['[INA] ', '[INA] ', '[DEN] ', '[DEN] ']","['21-16', '21-12']",MD ,20180405
+238,"['Yea Ching Goh', 'Yap Cheng Wen', 'Ekaterina Bolotova [1]', 'Alina Davletova']","['[MAS] ', '[MAS] ', '[RUS] ', '[RUS] ']","['21-19', '21-17']",WD ,20180405
+239,"['Jun Hao Leong', 'Hermansah .']","['[MAS] ', '[INA] ']","['21-13', '21-19']",MS ,20180405
+240,"['Alfian Eko Prasetya [5]', 'Marsheilla Gischa Islami', 'Rodion Alimov [6]', 'Alina Davletova']","['[INA] ', '[INA] ', '[RUS] ', '[RUS] ']","['21-19', '24-26', '23-21']",XD ,20180405
+241,"['Gregoria Mariska Tunjung [3]', 'Porntip Buranaprasertsuk']","['[INA] ', '[THA] ']","['21-16', '10-21', '21-15']",WS ,20180405
+242,"['Rehan Naufal Kusharjanto', 'Pramudya Kusumawardana Riyanto', 'Joel Eipe [8]', 'Philip Seerup']","['[INA] ', '[INA] ', '[DEN] ', '[DEN] ']","['21-18', '18-21', '21-13']",MD ,20180405
+243,"['Yea Ching Goh', 'Yap Cheng Wen', 'Agatha Imanuela [3]', 'Siti Fadia Silva Ramadhanti']","['[MAS] ', '[MAS] ', '[INA] ', '[INA] ']","['21-14', '21-23', '21-12']",WD ,20180405
+244,"['Akbar Bintang Cahyono', 'Winny Oktavina Kandow', 'Gregory Mairs [2]', 'Jenny Moore']","['[INA] ', '[INA] ', '[ENG] ', '[ENG] ']","['21-14', '21-18']",XD ,20180405
+245,"['Ruselli Hartawan [8]', 'Ying Ying Lee [2]']","['[INA] ', '[MAS] ']","['21-19', '16-21', '21-16']",WS ,20180405
+246,"['June Wei Cheam', 'Iikka Heino']","['[MAS] ', '[FIN] ']","['21-13', '21-16']",MS ,20180405
+247,"['Agatha Imanuela [3]', 'Siti Fadia Silva Ramadhanti', 'Cheah Yee See', 'Yen Wei Peck']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['16-21', '21-18', '21-13']",WD ,20180405
+248,"['Joel Eipe [8]', 'Philip Seerup', 'Mika Kongas', 'Jesper Von Hertzen']","['[DEN] ', '[DEN] ', '[FIN] ', '[FIN] ']","['21-15', '21-14']",MD ,20180405
+249,"['Alfian Eko Prasetya [5]', 'Marsheilla Gischa Islami', 'Akbar Bintang Cahyono', 'Winny Oktavina Kandow']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-18', '21-16']",XD ,20180405
+250,"['Gregoria Mariska Tunjung [3]', 'Ruselli Hartawan [8]']","['[INA] ', '[INA] ']","['21-7', '21-13']",WS ,20180405
+251,"['Jun Hao Leong', 'June Wei Cheam']","['[MAS] ', '[MAS] ']","['12-21', '21-17', '22-20']",MS ,20180405
+252,"['Asumi Kugo', 'Megumi Yokoyama', 'Yea Ching Goh', 'Yap Cheng Wen']","['[JPN] ', '[JPN] ', '[MAS] ', '[MAS] ']","['22-24', '21-15', '21-13']",WD ,20180405
+253,"['Akbar Bintang Cahyono', 'Moh Reza Pahlevi Isfahani', 'Rehan Naufal Kusharjanto', 'Pramudya Kusumawardana Riyanto']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-14', '21-17']",MD ,20180405

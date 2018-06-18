@@ -1,0 +1,183 @@
+,PLAYERS,COUNTRIES,SCORES,EVENT,match_week
+0,"['Martin Campbell', 'Julie Macpherson', 'Uladzimir Varantsou', 'Krestina Silich']","['[SCO] ', '[SCO] ', '[BLR] ', '[BLR] ']",[],XD,20170425
+1,"['Milan Ludik', 'Gergely Krausz']","['[CZE] ', '[HUN] ']","['21-9', '21-14']",MS,20170425
+2,"['Kalle Koljonen', 'Nick Fransman']","['[FIN] ', '[NED] ']","['11-21', '22-20', '21-15']",MS,20170425
+3,"['Chloe Birch', 'Ioanna Karapetridou']","['[ENG] ', '[GRE] ']","['21-3', '21-9']",WS,20170425
+4,"['Anton Kaisti', 'Jenny Nystrom', 'Gregory Mairs', 'Jenny Moore']","['[FIN] ', '[FIN] ', '[ENG] ', '[ENG] ']","['21-19', '21-12']",XD,20170425
+5,"['Ronan Labar', 'Audrey Fontaine', 'Lilian Mihaylov', 'Petya Nedelcheva']","['[FRA] ', '[FRA] ', '[BUL] ', '[BUL] ']","['21-12', '21-14']",XD,20170425
+6,"['Sergey Sirant', 'Emre Lale']","['[RUS] ', '[TUR] ']","['21-9', '21-14']",MS,20170425
+7,"['Getter Saar', 'Katarina Galenic']","['[EST] ', '[CRO] ']","['21-13', '19-21', '24-22']",WS,20170425
+8,"['Mark Lamsfuss', 'Isabel Herttrich', 'Fredrik Kristensen', 'Solvar Flaten Jorgensen']","['[GER] ', '[GER] ', '[NOR] ', '[NOR] ']","['21-7', '21-16']",XD,20170425
+9,"['Ruben Jille', 'Iris Tabeling', 'Raul Käsner', 'Helina Rüütel']","['[NED] ', '[NED] ', '[EST] ', '[EST] ']","['21-13', '21-19']",XD,20170425
+10,"['Mark Caljouw', 'Kieran Merrilees']","['[NED] ', '[SCO] ']","['16-21', '21-11', '21-13']",MS,20170425
+11,"['Fabienne Deprez', 'Elisabeth Baldauf']","['[GER] ', '[AUT] ']","['24-22', '21-11']",WS,20170425
+12,"['Pawel Pietryja', 'Aneta Wojtkowska', 'Gennadiy Natarov', 'Natalya Voytsekh']","['[POL] ', '[POL] ', '[UKR] ', '[UKR] ']","['21-15', '21-13']",XD,20170425
+13,"['Toby Penty', 'Kai Schaefer']","['[ENG] ', '[GER] ']","['26-24', '21-14']",MS,20170425
+14,"['Maxime Moreels', 'Robert Mann']","['[BEL] ', '[LUX] ']","['21-9', '21-7']",MS,20170425
+15,"['Ozge Bayrak', 'Lisa Iversen']","['[TUR] ', '[ITA] ']","['21-11', '21-6']",WS,20170425
+16,"['Sam Magee', 'Chloe Magee', 'Jacco Arends [5]', 'Selena Piek']","['[IRL] ', '[IRL] ', '[NED] ', '[NED] ']","['21-17', '23-21']",XD,20170425
+17,"['Lucas Corvee', 'Bernardo Atilano']","['[FRA] ', '[POR] ']","['21-6', '21-11']",MS,20170425
+18,"['Marius Myhre', 'Michal Rogalski']","['[NOR] ', '[POL] ']",['1-2'],MS,20170425
+19,"['Agnes Korosi', 'Akvile Stapusaityte']","['[HUN] ', '[LTU] ']","['21-19', '21-13']",WS,20170425
+20,"['Evgenij Dremin [6]', 'Evgenia Dimova', 'Elias Bracke', 'Lise Jaques']","['[RUS] ', '[RUS] ', '[BEL] ', '[BEL] ']","['21-14', '21-14']",XD,20170425
+21,"['Henri Hurskainen', 'Orkhan Galandarov']","['[SWE] ', '[AZE] ']","['21-5', '21-9']",MS,20170425
+22,"['Lucas Claerbout', 'Matthew Carder']","['[FRA] ', '[SCO] ']","['21-8', '21-16']",MS,20170425
+23,"['Yvonne Li', 'Airi Mikkela']","['[GER] ', '[FIN] ']","['25-23', '21-12']",WS,20170425
+24,"['Bastian Kersaudy', 'Lea Palermo', 'Povilas Bartusis', 'Vytaute Fomkinaite']","['[FRA] ', '[FRA] ', '[LTU] ', '[LTU] ']","['21-11', '21-14']",XD,20170425
+25,"['Nico Ruponen [8]', 'Amanda Hogstrom', 'Jordan Corvee', 'Anne Tran']","['[SWE] ', '[SWE] ', '[FRA] ', '[FRA] ']","['21-19', '12-21', '21-12']",XD,20170425
+26,"['Alesia Zaitsava', 'Martina Repiska']","['[BLR] ', '[SVK] ']","['21-9', '21-18']",WS,20170425
+27,"['Nanna Vainio', 'Lilit Poghosyan']","['[FIN] ', '[ARM] ']","['21-11', '21-11']",WS,20170425
+28,"['Mathias Christiansen [3]', 'Sara Thygesen', 'Marvin Emil Seidel', 'Linda Efler']","['[DEN] ', '[DEN] ', '[GER] ', '[GER] ']","['21-6', '21-17']",XD,20170425
+29,"['Toma Junior Popov', 'Artem Pochtarov']","['[FRA] ', '[UKR] ']","['21-15', '18-21', '21-15']",MS,20170425
+30,"['Chris Adcock [2]', 'Gabrielle Adcock', 'Oliver Schaller', 'Celine Burkart']","['[ENG] ', '[ENG] ', '[SUI] ', '[SUI] ']","['21-10', '21-5']",XD,20170425
+31,"['Rachael Darragh', 'Flore Vandenhoucke']","['[IRL] ', '[BEL] ']","['23-21', '22-20']",WS,20170425
+32,"['Soren Gravholt', 'Maiken Fruergaard', 'Jakub Bitman', 'Alzbeta Basova']","['[DEN] ', '[DEN] ', '[CZE] ', '[CZE] ']","['21-13', '21-17']",XD,20170425
+33,"['Scott Evans', 'Zvonimir Durkinjak']","['[IRL] ', '[CRO] ']","['13-21', '21-17', '21-17']",MS,20170425
+34,"['Luka Wraber', 'Ilias Xanthou']","['[AUT] ', '[GRE] ']","['21-14', '21-16']",MS,20170425
+35,"['Sonia Goncalves', 'Vilde Espeseth']","['[POR] ', '[NOR] ']","['21-8', '21-14']",WS,20170425
+36,"['Joachim Fischer Nielsen [1]', 'Christinna Pedersen', 'Ben Lane', 'Jessica Pugh']","['[DEN] ', '[DEN] ', '[ENG] ', '[ENG] ']","['21-14', '21-17']",XD,20170425
+37,"['Vitalij Durkin [7]', 'Nina Vislova', 'Kyriacos Pissis', 'Ioanna Karapetridou']","['[RUS] ', '[RUS] ', '[CYP] ', '[GRE] ']","['21-5', '21-6']",XD,20170425
+38,"['Misha Zilberman', 'Alen Roj']","['[ISR] ', '[SLO] ']","['21-9', '21-8']",MS,20170425
+39,"['Delphine Lansac', 'Laura Sarosi']","['[FRA] ', '[HUN] ']","['22-20', '21-14']",WS,20170425
+40,"['Robert Mateusiak [4]', 'Nadiezda Zieba', 'Alberto Zapico', 'Lorena Usle']","['[POL] ', '[POL] ', '[ESP] ', '[ESP] ']","['21-10', '21-13']",XD,20170425
+41,"['Eetu Heino', 'Collins Valentine Filimon']","['[FIN] ', '[ROU] ']","['21-14', '21-9']",MS,20170425
+42,"['Emil Holst', 'Felix Burestedt']","['[DEN] ', '[SWE] ']","['21-10', '21-15']",MS,20170425
+43,"['Kirsty Gilmour [7]', 'Alesia Zaitsava']","['[SCO] ', '[BLR] ']","['21-15', '21-14']",WS,20170425
+44,"['Beatriz Corrales [2]', 'Mariya Mitsova']","['[ESP] ', '[BUL] ']","['21-13', '14-21', '21-19']",WS,20170425
+45,"['Ozge Bayrak', 'Neslihan Yigit', 'Solvar Flaten Jorgensen', 'Natalie Syvertsen']","['[TUR] ', '[TUR] ', '[NOR] ', '[NOR] ']","['21-7', '21-8']",WD,20170425
+46,"['Linda Zetchiri [3]', 'Katerina Tomalova']","['[BUL] ', '[CZE] ']","['21-12', '21-15']",WS,20170425
+47,"['Zvonimir Durkinjak', 'Zvonimir Hoelbling', 'Joshua Magee', 'Sam Magee']","['[CRO] ', '[CRO] ', '[IRL] ', '[IRL] ']","['21-14', '21-19']",MD,20170425
+48,"['Cheryl Seinen', 'Iris Tabeling', 'Clara Nistad', 'Emma Wengberg']","['[NED] ', '[NED] ', '[SWE] ', '[SWE] ']","['17-21', '21-14', '23-21']",WD,20170425
+49,"['Luise Heim', 'Rachael Darragh']","['[GER] ', '[IRL] ']","['21-12', '21-11']",WS,20170425
+50,"['Marcus Ellis [5]', 'Chris Langridge', 'Daniel Nikolov', 'Ivan Rusev']","['[ENG] ', '[ENG] ', '[BUL] ', '[BUL] ']","['21-16', '21-15']",MD,20170425
+51,"['Fabian Roth [8]', 'Toma Junior Popov']","['[GER] ', '[FRA] ']","['21-12', '21-17']",MS,20170425
+52,"['Jones Ralfy Jansen [7]', 'Josche Zurwonne', 'Konstantin Abramov', 'Alexandr Zinchenko']","['[GER] ', '[GER] ', '[RUS] ', '[RUS] ']","['15-21', '21-15', '21-19']",MD,20170425
+53,"['Silvia Garino', 'Lisa Iversen', 'Agnes Korosi', 'Orsolya Varga']","['[ITA] ', '[ITA] ', '[HUN] ', '[HUN] ']","['21-16', '12-21', '22-20']",WD,20170425
+54,"['Fontaine Mica Chapman', 'Sonia Goncalves']","['[ENG] ', '[POR] ']","['21-13', '21-11']",WS,20170425
+55,"['Sabrina Jaquet [6]', 'Nanna Vainio']","['[SUI] ', '[FIN] ']","['21-15', '21-11']",WS,20170425
+56,"['Vladimir Malkov', 'Milan Ludik']","['[RUS] ', '[CZE] ']","['21-19', '21-10']",MS,20170425
+57,"['Milosz Bochat', 'Adam Cwalina', 'Pierrick Deschenaux', 'Oliver Schaller']","['[POL] ', '[POL] ', '[SUI] ', '[SUI] ']","['21-9', '21-11']",MD,20170425
+58,"['Mark Caljouw', 'Elias Nicolaou']","['[NED] ', '[CYP] ']","['21-5', '21-10']",MS,20170425
+59,"['Fabienne Deprez', 'Natalia Perminova']","['[GER] ', '[RUS] ']","['21-13', '21-14']",WS,20170425
+60,"['Lauren Smith [7]', 'Sarah Walker', 'Emilie Lefel', 'Anne Tran']","['[ENG] ', '[ENG] ', '[FRA] ', '[FRA] ']","['22-24', '21-19', '21-18']",WD,20170425
+61,"['Kestutis Navickas', 'Maxime Moreels']","['[LTU] ', '[BEL] ']","['14-21', '21-17', '21-10']",MS,20170425
+62,"['Bastian Kersaudy', 'Julien Maio', 'Henri Aarnio', 'Iikka Heino']","['[FRA] ', '[FRA] ', '[FIN] ', '[FIN] ']","['22-20', '21-16']",MD,20170425
+63,"['Pablo Abian [6]', 'Henri Hurskainen']","['[ESP] ', '[SWE] ']","['21-12', '18-21', '17-12']",MS,20170425
+64,"['Delphine Lansac', 'Lianne Tan']","['[FRA] ', '[BEL] ']","['21-12', '13-21', '21-13']",WS,20170425
+65,"['Jelle Maas', 'Robin Tabeling', 'Ben Lane', 'Sean Vendy']","['[NED] ', '[NED] ', '[ENG] ', '[ENG] ']","['21-13', '21-14']",MD,20170425
+66,"['Isabel Herttrich', 'Carla Nelte', 'Vytaute Fomkinaite', 'Gerda Voitechovskaja']","['[GER] ', '[GER] ', '[LTU] ', '[LTU] ']","['21-14', '21-10']",WD,20170425
+67,"['Marc Zwiebler [3]', 'Toby Penty']","['[GER] ', '[ENG] ']","['21-10', '21-15']",MS,20170425
+68,"['Mark Lamsfuss', 'Marvin Emil Seidel', 'Vanmael Heriau', 'Florent Riancho']","['[GER] ', '[GER] ', '[FRA] ', '[FRA] ']","['21-14', '21-19']",MD,20170425
+69,"['Jenny Moore', 'Victoria Williams', 'Laia Oset', 'Lorena Usle']","['[ENG] ', '[ENG] ', '[ESP] ', '[ESP] ']","['21-11', '21-18']",WD,20170425
+70,"['Natalia Koch Rohde [8]', 'Ieva Pope']","['[DEN] ', '[LAT] ']","['21-11', '21-11']",WS,20170425
+71,"['Rajiv Ouseph [2]', 'Lucas Claerbout']","['[ENG] ', '[FRA] ']","['21-12', '21-9']",MS,20170425
+72,"['Vladimir Ivanov [4]', 'Ivan Sozonov', 'Lukas Osele', 'Kevin Strobl']","['[RUS] ', '[RUS] ', '[ITA] ', '[ITA] ']","['21-8', '21-6']",MD,20170425
+73,"['Gabriela Stoeva [2]', 'Stefani Stoeva', 'Kristin Kuuba', 'Helina Rüütel']","['[BUL] ', '[BUL] ', '[EST] ', '[EST] ']","['21-16', '21-19']",WD,20170425
+74,"['Raphael Beck', 'Peter Kaesbauer', 'Matteo Bellucci', 'Fabio Caponio']","['[GER] ', '[GER] ', '[ITA] ', '[ITA] ']","['21-6', '21-9']",MD,20170425
+75,"['Matijs Dierickx [8]', 'Freek Golinski', 'Fredrik Kristensen', 'Jesper Kristensen']","['[BEL] ', '[BEL] ', '[NOR] ', '[NOR] ']","['21-19', '21-8']",MD,20170425
+76,"['Eefje Muskens [5]', 'Selena Piek', 'Delphine Delrue', 'Lea Palermo']","['[NED] ', '[NED] ', '[FRA] ', '[FRA] ']","['19-21', '21-13', '21-16']",WD,20170425
+77,"['Anastasia Chervyakova [4]', 'Olga Morozova', 'Johanna Goliszewski', 'Lara Kaepplein']","['[RUS] ', '[RUS] ', '[GER] ', '[GER] ']","['21-16', '21-19']",WD,20170425
+78,"['Eetu Heino', 'Mathias Bonny']","['[FIN] ', '[SUI] ']","['21-14', '21-14']",MS,20170425
+79,"['Raul Must', 'Luka Wraber']","['[EST] ', '[AUT] ']","['21-16', '21-18']",MS,20170425
+80,"['Chloe Birch', 'Mia Blichfeldt']","['[ENG] ', '[DEN] ']","['12-21', '8-3']",WS,20170425
+81,"['Mette Poulsen [5]', 'Yvonne Li']","['[DEN] ', '[GER] ']","['21-12', '15-21', '25-23']",WS,20170425
+82,"['Marius Myhre', 'Rosario Maddaloni']","['[NOR] ', '[ITA] ']","['23-21', '25-23']",MS,20170425
+83,"['Anders Antonsen [5]', 'Scott Evans']","['[DEN] ', '[IRL] ']","['21-11', '21-13']",MS,20170425
+84,"['Gayle Mahulette', 'Getter Saar']","['[NED] ', '[EST] ']","['22-20', '21-17']",WS,20170425
+85,"['Jenny Nystrom', 'Sonja Pekkola', 'Sara Boyle', 'Rachael Darragh']","['[FIN] ', '[FIN] ', '[IRL] ', '[IRL] ']","['21-15', '21-13']",WD,20170425
+86,"['Tereza Švábíková', 'Katerina Tomalova', 'Liana Lencevica', 'Jekaterina Romanova']","['[CZE] ', '[CZE] ', '[LAT] ', '[LAT] ']","['19-21', '21-11', '21-9']",WD,20170425
+87,"['Misha Zilberman', 'Matej Hlinican']","['[ISR] ', '[SVK] ']","['21-11', '21-11']",MS,20170425
+88,"['Ozge Bayrak', 'Maria Ulitina']","['[TUR] ', '[UKR] ']","['21-15', '21-11']",WS,20170425
+89,"['Kim Astrup [3]', 'Anders Skaarup Rasmussen', 'Richard Eidestedt', 'Nico Ruponen']","['[DEN] ', '[DEN] ', '[SWE] ', '[SWE] ']","['21-7', '21-18']",MD,20170425
+90,"['Maiken Fruergaard [3]', 'Sara Thygesen', 'Sonia Goncalves', 'Helena Pestana']","['[DEN] ', '[DEN] ', '[POR] ', '[POR] ']","['21-13', '21-8']",WD,20170425
+91,"['Line Kjaersfeldt [4]', 'Neslihan Yigit']","['[DEN] ', '[TUR] ']","['21-10', '13-21', '22-20']",WS,20170425
+92,"['Carolina Marin [1]', 'Jordan Hart']","['[ESP] ', '[WAL] ']","['21-9', '21-10']",WS,20170425
+93,"['Evgenij Dremin', 'Denis Grachev', 'Gennadiy Natarov', 'Artem Pochtarov']","['[RUS] ', '[RUS] ', '[UKR] ', '[UKR] ']","['21-12', '21-14']",MD,20170425
+94,"['Lorraine Baumann', 'Audrey Fontaine', 'Anastasiya Cherniavskaya', 'Alesia Zaitsava']","['[FRA] ', '[FRA] ', '[BLR] ', '[BLR] ']","['21-17', '21-18']",WD,20170425
+95,"['Viktor Axelsen [1]', 'Lucas Corvee']","['[DEN] ', '[FRA] ']","['22-20', '21-10']",MS,20170425
+96,"['Emil Holst', 'Ivan Rusev']","['[DEN] ', '[BUL] ']","['21-14', '21-15']",MS,20170425
+97,"['Jacco Arends', 'Ruben Jille', 'Dominik Stipsits', 'Roman Zirnwald']","['[NED] ', '[NED] ', '[AUT] ', '[AUT] ']","['21-17', '21-8']",MD,20170425
+98,"['Mariya Mitsova [8]', 'Petya Nedelcheva', 'Natalya Voytsekh', 'Yelyzaveta Zharka']","['[BUL] ', '[BUL] ', '[UKR] ', '[UKR] ']","['19-21', '21-7', '21-10']",WD,20170425
+99,"['Hans-Kristian Solberg Vittinghus [4]', 'Kalle Koljonen']","['[DEN] ', '[FIN] ']","['21-15', '21-12']",MS,20170425
+100,"['Evgeniya Kosetskaya', 'Agnes Korosi']","['[RUS] ', '[HUN] ']","['21-10', '21-7']",WS,20170425
+101,"['Mathias Boe [1]', 'Carsten Mogensen', 'Peter Briggs', 'Tom Wolfenden']","['[DEN] ', '[DEN] ', '[ENG] ', '[ENG] ']","['21-14', '21-7']",MD,20170425
+102,"['Kamilla Rytter Juhl [1]', 'Christinna Pedersen', 'Julie Macpherson', ""Eleanor O'Donnell""]","['[DEN] ', '[DEN] ', '[SCO] ', '[SCO] ']","['21-13', '21-8']",WD,20170425
+103,"['Brice Leverdez [7]', 'Sergey Sirant']","['[FRA] ', '[RUS] ']","['21-18', '16-21', '21-18']",MS,20170425
+104,"['Mathias Christiansen [6]', 'David Daugaard', 'Kristjan Kaljurand', 'Raul Käsner']","['[DEN] ', '[DEN] ', '[EST] ', '[EST] ']","['21-13', '21-7']",MD,20170425
+105,"['Mads Conrad-Petersen [2]', 'Mads Pieler Kolding', 'Martin Campbell', 'Patrick Machugh']","['[DEN] ', '[DEN] ', '[SCO] ', '[SCO] ']","['21-12', '21-14']",MD,20170425
+106,"['Julie Finne-Ipsen [6]', 'Rikke Søby', 'Ekaterina Bolotova', 'Alina Davletova']","['[DEN] ', '[DEN] ', '[RUS] ', '[RUS] ']","['25-23', '21-19']",WD,20170425
+107,"['Maiken Fruergaard [3]', 'Sara Thygesen', 'Cheryl Seinen', 'Iris Tabeling']","['[DEN] ', '[DEN] ', '[NED] ', '[NED] ']","['21-11', '18-21', '21-8']",WD,20170425
+108,"['Ronan Labar', 'Audrey Fontaine', 'Vitalij Durkin [7]', 'Nina Vislova']","['[FRA] ', '[FRA] ', '[RUS] ', '[RUS] ']","['21-13', '21-13']",XD,20170425
+109,"['Mette Poulsen [5]', 'Luise Heim']","['[DEN] ', '[GER] ']","['21-15', '15-21', '21-15']",WS,20170425
+110,"['Rajiv Ouseph [2]', 'Misha Zilberman']","['[ENG] ', '[ISR] ']","['21-14', '21-13']",MS,20170425
+111,"['Jones Ralfy Jansen [7]', 'Josche Zurwonne', 'Bastian Kersaudy', 'Julien Maio']","['[GER] ', '[GER] ', '[FRA] ', '[FRA] ']","['10-21', '21-15', '21-15']",MD,20170425
+112,"['Mathias Christiansen [6]', 'David Daugaard', 'Jacco Arends', 'Ruben Jille']","['[DEN] ', '[DEN] ', '[NED] ', '[NED] ']","['21-17', '21-15']",MD,20170425
+113,"['Kamilla Rytter Juhl [1]', 'Christinna Pedersen', 'Ozge Bayrak', 'Neslihan Yigit']","['[DEN] ', '[DEN] ', '[TUR] ', '[TUR] ']","['21-14', '21-17']",WD,20170425
+114,"['Sabrina Jaquet [6]', 'Gayle Mahulette']","['[SUI] ', '[NED] ']","['21-9', '21-13']",WS,20170425
+115,"['Gabriela Stoeva [2]', 'Stefani Stoeva', 'Isabel Herttrich', 'Carla Nelte']","['[BUL] ', '[BUL] ', '[GER] ', '[GER] ']","['23-21', '20-22', '21-15']",WD,20170425
+116,"['Mariya Mitsova [8]', 'Petya Nedelcheva', 'Jenny Moore', 'Victoria Williams']","['[BUL] ', '[BUL] ', '[ENG] ', '[ENG] ']","['21-16', '21-16']",WD,20170425
+117,"['Lauren Smith [7]', 'Sarah Walker', 'Jenny Nystrom', 'Sonja Pekkola']","['[ENG] ', '[ENG] ', '[FIN] ', '[FIN] ']","['21-19', '21-18']",WD,20170425
+118,"['Mads Conrad-Petersen [2]', 'Mads Pieler Kolding', 'Mark Lamsfuss', 'Marvin Emil Seidel']","['[DEN] ', '[DEN] ', '[GER] ', '[GER] ']","['21-14', '21-15']",MD,20170425
+119,"['Kim Astrup [3]', 'Anders Skaarup Rasmussen', 'Evgenij Dremin', 'Denis Grachev']","['[DEN] ', '[DEN] ', '[RUS] ', '[RUS] ']","['16-21', '21-12', '21-12']",MD,20170425
+120,"['Marcus Ellis [5]', 'Chris Langridge', 'Jelle Maas', 'Robin Tabeling']","['[ENG] ', '[ENG] ', '[NED] ', '[NED] ']","['21-10', '20-22', '21-17']",MD,20170425
+121,"['Anastasia Chervyakova [4]', 'Olga Morozova', 'Tereza Švábíková', 'Katerina Tomalova']","['[RUS] ', '[RUS] ', '[CZE] ', '[CZE] ']","['21-9', '21-9']",WD,20170425
+122,"['Matijs Dierickx [8]', 'Freek Golinski', 'Raphael Beck', 'Peter Kaesbauer']","['[BEL] ', '[BEL] ', '[GER] ', '[GER] ']","['22-20', '21-17']",MD,20170425
+123,"['Evgeniya Kosetskaya', 'Linda Zetchiri [3]']","['[RUS] ', '[BUL] ']","['21-15', '15-21', '21-18']",WS,20170425
+124,"['Fabian Roth [8]', 'Marius Myhre']","['[GER] ', '[NOR] ']","['21-16', '21-11']",MS,20170425
+125,"['Marc Zwiebler [3]', 'Kestutis Navickas']","['[GER] ', '[LTU] ']","['21-16', '21-14']",MS,20170425
+126,"['Kirsty Gilmour [7]', 'Fabienne Deprez']","['[SCO] ', '[GER] ']","['21-11', '19-21', '21-18']",WS,20170425
+127,"['Nico Ruponen [8]', 'Amanda Hogstrom', 'Soren Gravholt', 'Maiken Fruergaard']","['[SWE] ', '[SWE] ', '[DEN] ', '[DEN] ']","['21-17', '21-15']",XD,20170425
+128,"['Fontaine Mica Chapman', 'Beatriz Corrales [2]']","['[ENG] ', '[ESP] ']","['21-13', '21-19']",WS,20170425
+129,"['Vladimir Ivanov [4]', 'Ivan Sozonov', 'Zvonimir Durkinjak', 'Zvonimir Hoelbling']","['[RUS] ', '[RUS] ', '[CRO] ', '[CRO] ']","['15-21', '21-14', '21-18']",MD,20170425
+130,"['Julie Finne-Ipsen [6]', 'Rikke Søby', 'Silvia Garino', 'Lisa Iversen']","['[DEN] ', '[DEN] ', '[ITA] ', '[ITA] ']","['21-4', '21-7']",WD,20170425
+131,"['Brice Leverdez [7]', 'Raul Must']","['[FRA] ', '[EST] ']","['18-21', '21-16', '21-8']",MS,20170425
+132,"['Eefje Muskens [5]', 'Selena Piek', 'Lorraine Baumann', 'Audrey Fontaine']","['[NED] ', '[NED] ', '[FRA] ', '[FRA] ']","['21-10', '21-11']",WD,20170425
+133,"['Mathias Boe [1]', 'Carsten Mogensen', 'Milosz Bochat', 'Adam Cwalina']","['[DEN] ', '[DEN] ', '[POL] ', '[POL] ']","['22-20', '21-16']",MD,20170425
+134,"['Carolina Marin [1]', 'Ozge Bayrak']","['[ESP] ', '[TUR] ']","['21-9', '24-22']",WS,20170425
+135,"['Robert Mateusiak [4]', 'Nadiezda Zieba', 'Anton Kaisti', 'Jenny Nystrom']","['[POL] ', '[POL] ', '[FIN] ', '[FIN] ']","['21-19', '16-21', '21-13']",XD,20170425
+136,"['Mark Caljouw', 'Pablo Abian [6]']","['[NED] ', '[ESP] ']","['21-19', '19-21', '21-18']",MS,20170425
+137,"['Sam Magee', 'Chloe Magee', 'Bastian Kersaudy', 'Lea Palermo']","['[IRL] ', '[IRL] ', '[FRA] ', '[FRA] ']","['19-21', '21-16', '21-15']",XD,20170425
+138,"['Mathias Christiansen [3]', 'Sara Thygesen', 'Pawel Pietryja', 'Aneta Wojtkowska']","['[DEN] ', '[DEN] ', '[POL] ', '[POL] ']","['21-6', '21-11']",XD,20170425
+139,"['Natalia Koch Rohde [8]', 'Chloe Birch']","['[DEN] ', '[ENG] ']","['21-12', '21-11']",WS,20170425
+140,"['Evgenij Dremin [6]', 'Evgenia Dimova', 'Mark Lamsfuss', 'Isabel Herttrich']","['[RUS] ', '[RUS] ', '[GER] ', '[GER] ']","['19-21', '21-12', '21-17']",XD,20170425
+141,"['Chris Adcock [2]', 'Gabrielle Adcock', 'Ruben Jille', 'Iris Tabeling']","['[ENG] ', '[ENG] ', '[NED] ', '[NED] ']","['21-9', '21-13']",XD,20170425
+142,"['Joachim Fischer Nielsen [1]', 'Christinna Pedersen', 'Martin Campbell', 'Julie Macpherson']","['[DEN] ', '[DEN] ', '[SCO] ', '[SCO] ']","['21-15', '21-13']",XD,20170425
+143,"['Hans-Kristian Solberg Vittinghus [4]', 'Emil Holst']","['[DEN] ', '[DEN] ']","['20-22', '21-13', '21-17']",MS,20170425
+144,"['Line Kjaersfeldt [4]', 'Delphine Lansac']","['[DEN] ', '[FRA] ']","['18-21', '21-18', '21-19']",WS,20170425
+145,"['Viktor Axelsen [1]', 'Vladimir Malkov']","['[DEN] ', '[RUS] ']","['21-9', '21-9']",MS,20170425
+146,"['Anders Antonsen [5]', 'Eetu Heino']","['[DEN] ', '[FIN] ']","['19-21', '21-14', '21-17']",MS,20170425
+147,"['Joachim Fischer Nielsen [1]', 'Christinna Pedersen', 'Evgenij Dremin [6]', 'Evgenia Dimova']","['[DEN] ', '[DEN] ', '[RUS] ', '[RUS] ']","['21-12', '21-12']",XD ,20170425
+148,"['Carolina Marin [1]', 'Natalia Koch Rohde [8]']","['[ESP] ', '[DEN] ']","['21-11', '21-14']",WS ,20170425
+149,"['Viktor Axelsen [1]', 'Mark Caljouw']","['[DEN] ', '[NED] ']","['21-17', '21-14']",MS ,20170425
+150,"['Anders Antonsen [5]', 'Marc Zwiebler [3]']","['[DEN] ', '[GER] ']","['21-19', '21-18']",MS ,20170425
+151,"['Mads Conrad-Petersen [2]', 'Mads Pieler Kolding', 'Marcus Ellis [5]', 'Chris Langridge']","['[DEN] ', '[DEN] ', '[ENG] ', '[ENG] ']","['19-21', '21-15', '23-21']",MD ,20170425
+152,"['Ronan Labar', 'Audrey Fontaine', 'Mathias Christiansen [3]', 'Sara Thygesen']","['[FRA] ', '[FRA] ', '[DEN] ', '[DEN] ']","['21-19', '8-21', '22-20']",XD ,20170425
+153,"['Rajiv Ouseph [2]', 'Fabian Roth [8]']","['[ENG] ', '[GER] ']","['21-15', '21-13']",MS ,20170425
+154,"['Kirsty Gilmour [7]', 'Line Kjaersfeldt [4]']","['[SCO] ', '[DEN] ']","['21-9', '21-17']",WS ,20170425
+155,"['Anastasia Chervyakova [4]', 'Olga Morozova', 'Eefje Muskens [5]', 'Selena Piek']","['[RUS] ', '[RUS] ', '[NED] ', '[NED] ']","['19-21', '21-16', '21-14']",WD ,20170425
+156,"['Mathias Christiansen [6]', 'David Daugaard', 'Vladimir Ivanov [4]', 'Ivan Sozonov']","['[DEN] ', '[DEN] ', '[RUS] ', '[RUS] ']","['21-15', '19-21', '21-15']",MD ,20170425
+157,"['Hans-Kristian Solberg Vittinghus [4]', 'Brice Leverdez [7]']","['[DEN] ', '[FRA] ']","['21-10', '21-19']",MS ,20170425
+158,"['Sam Magee', 'Chloe Magee', 'Robert Mateusiak [4]', 'Nadiezda Zieba']","['[IRL] ', '[IRL] ', '[POL] ', '[POL] ']","['22-20', '17-21', '21-12']",XD ,20170425
+159,"['Sabrina Jaquet [6]', 'Fontaine Mica Chapman']","['[SUI] ', '[ENG] ']","['21-13', '20-22', '21-17']",WS ,20170425
+160,"['Mathias Boe [1]', 'Carsten Mogensen', 'Jones Ralfy Jansen [7]', 'Josche Zurwonne']","['[DEN] ', '[DEN] ', '[GER] ', '[GER] ']","['21-9', '21-15']",MD ,20170425
+161,"['Kamilla Rytter Juhl [1]', 'Christinna Pedersen', 'Mariya Mitsova [8]', 'Petya Nedelcheva']","['[DEN] ', '[DEN] ', '[BUL] ', '[BUL] ']","['21-17', '21-9']",WD ,20170425
+162,"['Mette Poulsen [5]', 'Evgeniya Kosetskaya']","['[DEN] ', '[RUS] ']","['21-13', '21-18']",WS ,20170425
+163,"['Chris Adcock [2]', 'Gabrielle Adcock', 'Nico Ruponen [8]', 'Amanda Hogstrom']","['[ENG] ', '[ENG] ', '[SWE] ', '[SWE] ']","['21-17', '21-12']",XD ,20170425
+164,"['Gabriela Stoeva [2]', 'Stefani Stoeva', 'Julie Finne-Ipsen [6]', 'Rikke Søby']","['[BUL] ', '[BUL] ', '[DEN] ', '[DEN] ']","['19-21', '21-10', '21-14']",WD ,20170425
+165,"['Kim Astrup [3]', 'Anders Skaarup Rasmussen', 'Matijs Dierickx [8]', 'Freek Golinski']","['[DEN] ', '[DEN] ', '[BEL] ', '[BEL] ']","['21-16', '21-17']",MD ,20170425
+166,"['Lauren Smith [7]', 'Sarah Walker', 'Maiken Fruergaard [3]', 'Sara Thygesen']","['[ENG] ', '[ENG] ', '[DEN] ', '[DEN] ']","['22-20', '24-22']",WD ,20170425
+167,"['Kamilla Rytter Juhl [1]', 'Christinna Pedersen', 'Anastasia Chervyakova [4]', 'Olga Morozova']","['[DEN] ', '[DEN] ', '[RUS] ', '[RUS] ']","['21-10', '21-13']",WD ,20170425
+168,"['Carolina Marin [1]', 'Mette Poulsen [5]']","['[ESP] ', '[DEN] ']","['21-17', '21-12']",WS ,20170425
+169,"['Mathias Boe [1]', 'Carsten Mogensen', 'Mathias Christiansen [6]', 'David Daugaard']","['[DEN] ', '[DEN] ', '[DEN] ', '[DEN] ']","['21-10', '21-15']",MD ,20170425
+170,"['Rajiv Ouseph [2]', 'Hans-Kristian Solberg Vittinghus [4]']","['[ENG] ', '[DEN] ']","['18-21', '23-21', '21-16']",MS ,20170425
+171,"['Anders Antonsen [5]', 'Viktor Axelsen [1]']","['[DEN] ', '[DEN] ']","['21-17', '21-16']",MS ,20170425
+172,"['Gabriela Stoeva [2]', 'Stefani Stoeva', 'Lauren Smith [7]', 'Sarah Walker']","['[BUL] ', '[BUL] ', '[ENG] ', '[ENG] ']","['21-15', '21-15']",WD ,20170425
+173,"['Kirsty Gilmour [7]', 'Sabrina Jaquet [6]']","['[SCO] ', '[SUI] ']","['22-20', '21-10']",WS ,20170425
+174,"['Mads Conrad-Petersen [2]', 'Mads Pieler Kolding', 'Kim Astrup [3]', 'Anders Skaarup Rasmussen']","['[DEN] ', '[DEN] ', '[DEN] ', '[DEN] ']","['21-17', '24-22']",MD ,20170425
+175,"['Chris Adcock [2]', 'Gabrielle Adcock', 'Ronan Labar', 'Audrey Fontaine']","['[ENG] ', '[ENG] ', '[FRA] ', '[FRA] ']","['21-14', '21-13']",XD ,20170425
+176,"['Joachim Fischer Nielsen [1]', 'Christinna Pedersen', 'Sam Magee', 'Chloe Magee']","['[DEN] ', '[DEN] ', '[IRL] ', '[IRL] ']","['21-14', '21-10']",XD ,20170425
+177,"['Kamilla Rytter Juhl [1]', 'Christinna Pedersen', 'Gabriela Stoeva [2]', 'Stefani Stoeva']","['[DEN] ', '[DEN] ', '[BUL] ', '[BUL] ']","['21-11', '15-21', '21-11']",WD ,20170425
+178,"['Mathias Boe [1]', 'Carsten Mogensen', 'Mads Conrad-Petersen [2]', 'Mads Pieler Kolding']","['[DEN] ', '[DEN] ', '[DEN] ', '[DEN] ']","['21-16', '22-20']",MD ,20170425
+179,"['Carolina Marin [1]', 'Kirsty Gilmour [7]']","['[ESP] ', '[SCO] ']","['21-14', '21-12']",WS ,20170425
+180,"['Rajiv Ouseph [2]', 'Anders Antonsen [5]']","['[ENG] ', '[DEN] ']","['21-19', '21-19']",MS ,20170425
+181,"['Chris Adcock [2]', 'Gabrielle Adcock', 'Joachim Fischer Nielsen [1]', 'Christinna Pedersen']","['[ENG] ', '[ENG] ', '[DEN] ', '[DEN] ']","['21-17', '18-21', '21-19']",XD ,20170425

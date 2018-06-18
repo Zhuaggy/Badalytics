@@ -1,0 +1,126 @@
+,PLAYERS,COUNTRIES,SCORES,EVENT,match_week
+0,"['Elahe Sepidan', 'Sayeh Khalil Rahman']","['[IRI] ', '[IRI] ']","['10-12', '11-3', '9-11', '11-8', '11-8']",WS - Qualification,20180205
+1,"['Lee Zii Yii', 'Atena Hamidifar']","['[MAS] ', '[IRI] ']","['11-7', '11-6', '11-5']",WS - Qualification,20180205
+2,"['Setayesh Abdolkarimi', 'Hajar Kabiri']","['[IRI] ', '[IRI] ']","['9-11', '11-6', '11-3', '9-11', '11-8']",WS - Qualification,20180205
+3,"['Hamedanchi Azad Hale', 'Hadis Ahmadi']","['[IRI] ', '[IRI] ']","['11-4', '11-7', '11-4']",WS - Qualification,20180205
+4,"['Nastaran Karami', 'Saghar Rafei']","['[IRI] ', '[IRI] ']","['11-6', '11-4', '14-15', '12-10']",WS - Qualification,20180205
+5,"['Hananeh Yaghobzadeh', 'Parnia Nabavi']","['[IRI] ', '[IRI] ']","['11-8', '11-9', '11-5']",WS - Qualification,20180205
+6,"['Paria Eskandari', 'Romina Tajik', 'Hajar Kabiri', 'Elahe Sepidan']","['[IRI] ', '[IRI] ', '[IRI] ', '[IRI] ']","['9-11', '11-8', '11-4', '11-9']",WD,20180205
+7,"['Samin Abedkhojasteh', 'Hediyeh Shams', 'Yosra Beigi', 'Yeganeh Kermani']","['[IRI] ', '[IRI] ', '[IRI] ', '[IRI] ']","['11-8', '4-11', '11-6', '11-7']",WD,20180205
+8,"['Setayesh Abdolkarimi', 'Hamedanchi Azad Hale', 'Taravat Alinezhad', 'Parnia Nabavi']","['[IRI] ', '[IRI] ', '[IRI] ', '[IRI] ']","['11-9', '11-8', '11-2']",WD,20180205
+9,"['Elnaz Feizmanesh', 'Pegah Kamrani', 'Sayeh Khalil Rahman', 'Saghar Rafei']","['[IRI] ', '[IRI] ', '[IRI] ', '[IRI] ']","['11-4', '11-2', '11-4']",WD,20180205
+10,"['Nasim Safai', 'Hananeh Yaghobzadeh', 'Yeganeh Tafreshi', 'Nazanin Zamani']","['[IRI] ', '[IRI] ', '[IRI] ', '[IRI] ']","['11-8', '6-11', '9-11', '11-6', '11-6']",WD,20180205
+11,"['Mohammadamin Aliakbarian', 'Mohamad Chaharmali', 'Alireza Kazemi', 'Erfan Taran']","['[IRI] ', '[IRI] ', '[IRI] ', '[IRI] ']","['11-4', '11-6', '11-5']",MD,20180205
+12,"['Alireza Faghfouri', 'Nader Minaei', 'Mohammed Almashaekhi', 'Mohammed Hasan']","['[IRI] ', '[IRI] ', '[IRQ] ', '[IRQ] ']","['11-4', '11-3', '11-7']",MD,20180205
+13,"['Soroush Eskandari Vatannejad', 'Farzin Khanjani', 'Amir Jabbari', 'Masoud Piroozi']","['[IRI] ', '[IRI] ', '[IRI] ', '[IRI] ']","['6-11', '12-10', '5-11', '11-6', '11-9']",MD,20180205
+14,"['Hasan Motaghi', 'Mehran Shahbazi', 'Teymur Abbasov', 'Jahid Alhasanov']","['[IRI] ', '[IRI] ', '[AZE] ', '[AZE] ']","['11-2', '11-5', '11-7']",MD,20180205
+15,"['Francis Alwin', 'K. Nandagopal', 'Zana Ghaderi', 'Parsa Shahbazi']","['[IND] ', '[IND] ', '[IRI] ', '[IRI] ']","['11-7', '11-2', '11-3']",MD,20180205
+16,"['Mehdi Ansari', 'Ali Hosseinkhani', 'Duarte Nuno Anjo', 'Bernardo Atilano']","['[IRI] ', '[IRI] ', '[POR] ', '[POR] ']",[],MD,20180205
+17,"['Mohammad Reza Bagheri', 'Farbod Yasami', 'Arad Bahri', 'Mohsen Masoumitabarzanjani']","['[IRI] ', '[IRI] ', '[IRI] ', '[IRI] ']","['11-4', '11-9', '11-6']",MD,20180205
+18,"['Mohamad Pairavand', 'Seyed Armin Zaki Zadeh', 'Orkhan Galandarov', 'Kanan Rzayev']","['[IRI] ', '[IRI] ', '[AZE] ', '[AZE] ']","['11-5', '8-11', '12-10', '11-8']",MD,20180205
+19,"['Muhammad Amar Mohd Sani', 'Muhammad Amir Mohd Sani', 'Alireza Karami', 'Nima Rostampourlagaldani']","['[MAS] ', '[MAS] ', '[IRI] ', '[IRI] ']","['11-9', '11-8', '11-8']",MD,20180205
+20,"['Alireza Kazemi', 'Joshua Jian Min Khong']","['[IRI] ', '[AUS] ']","['11-8', '2-11', '11-2', '12-10']",MS,20180205
+21,"['Farzin Khanjani', 'Mohammad Reza Bagheri']","['[IRI] ', '[IRI] ']","['11-9', '11-9', '11-8']",MS,20180205
+22,"['Anant Shivam Jindal', 'Mohamad Chaharmali']","['[IND] ', '[IRI] ']","['11-7', '11-8', '11-5']",MS,20180205
+23,"['Mohammadamin Aliakbarian', 'Orkhan Galandarov']","['[IRI] ', '[AZE] ']","['11-7', '11-4', '9-11', '11-4']",MS,20180205
+24,"['Mohd Naser Mansour Nayef', 'Zana Ghaderi']","['[JOR] ', '[IRI] ']","['9-11', '11-7', '11-6', '11-5']",MS,20180205
+25,"['Muhammed Ali Kurt', 'Mehdi Ansari']","['[TUR] ', '[IRI] ']","['11-3', '11-4', '11-6']",MS,20180205
+26,"['Aryamann Tandon', 'Alireza Faghfouri']","['[IND] ', '[IRI] ']","['11-5', '11-5', '11-5']",MS,20180205
+27,"['Nader Minaei', 'Amir Ghasemi']","['[IRI] ', '[IRI] ']","['9-11', '6-11', '15-13', '11-4', '11-9']",MS,20180205
+28,"['Parsa Shahbazi', 'Teymur Abbasov']","['[IRI] ', '[AZE] ']","['11-5', '13-11', '11-3']",MS,20180205
+29,"['Nguyen Hai Dang', 'Matin Moghimi']","['[VIE] ', '[IRI] ']","['11-2', '11-6', '11-9']",MS,20180205
+30,"['Erfan Taran', 'Mohammed Hasan']","['[IRI] ', '[IRQ] ']","['11-2', '11-2', '11-2']",MS,20180205
+31,"['Mehran Shahbazi', 'Aljallad Ahmad']","['[IRI] ', '[SYR] ']","['8-11', '11-1', '12-10', '11-9']",MS,20180205
+32,"['Chin Yong Chian', 'Nima Rostampourlagaldani']","['[MAS] ', '[IRI] ']","['11-8', '11-5', '11-2']",MS,20180205
+33,"['Kartik Jindal', 'Ali Hosseinkhani']","['[IND] ', '[IRI] ']","['11-6', '11-4', '11-8']",MS,20180205
+34,"['Lino Munoz', 'Masoud Piroozi']","['[MEX] ', '[IRI] ']","['11-6', '11-4', '11-6']",MS,20180205
+35,"['Le Duc Phat [7]', 'Hasan Motaghi']","['[VIE] ', '[IRI] ']","['11-6', '11-7', '11-8']",MS,20180205
+36,"['Farbod Yasami', 'Jahid Alhasanov']","['[IRI] ', '[AZE] ']","['9-11', '12-10', '8-11', '13-11', '11-9']",MS,20180205
+37,"['Shreyansh Jaiswal', 'Mohamad Pairavand']","['[IND] ', '[IRI] ']","['11-9', '13-11', '12-10']",MS,20180205
+38,"['Bernardo Atilano', 'Amir Jabbari']","['[POR] ', '[IRI] ']","['11-13', '11-8', '11-8', '2-11', '11-6']",MS,20180205
+39,"['Mohsen Masoumitabarzanjani', 'Kanan Rzayev']","['[IRI] ', '[AZE] ']","['12-10', '12-14', '11-7', '5-11', '11-9']",MS,20180205
+40,"['Soroush Eskandari Vatannejad', 'Seyed Armin Zaki Zadeh']","['[IRI] ', '[IRI] ']","['11-6', '11-7', '11-4']",MS,20180205
+41,"['Hardik Makkar', 'Ali Bastani']","['[IND] ', '[IRI] ']",[],MS,20180205
+42,"['Kartikey Gulshan Kumar', 'Alireza Qasemi']","['[IND] ', '[IRI] ']","['11-9', '11-5', '11-6']",MS,20180205
+43,"['Arad Bahri', 'Mohammed Almashaekhi']","['[IRI] ', '[IRQ] ']","['11-6', '11-5', '11-5']",MS,20180205
+44,"['Alireza Karami', 'Sabuhi Huseynov']","['[IRI] ', '[AZE] ']","['11-7', '11-8', '11-4']",MS,20180205
+45,"['Ying Ying Lee [1]', 'Sara Delavari Kashani']","['[MAS] ', '[IRI] ']","['11-7', '11-5', '11-8']",WS,20180205
+46,"['Pegah Kamrani', 'Hananeh Yaghobzadeh']","['[IRI] ', '[IRI] ']","['11-8', '9-11', '11-2', '14-12']",WS,20180205
+47,"['Vrushali Gummadi [6]', 'Hamedanchi Azad Hale']","['[IND] ', '[IRI] ']","['11-5', '11-1', '11-6']",WS,20180205
+48,"['Thi Phuong Thuy Tran', 'Yosra Beigi']","['[VIE] ', '[IRI] ']","['11-8', '11-7', '11-4']",WS,20180205
+49,"['Rasika Raje [4]', 'Yeganeh Kermani']","['[IND] ', '[IRI] ']","['11-9', '11-4', '11-5']",WS,20180205
+50,"['Lee Zii Yii', 'Samin Abedkhojasteh']","['[MAS] ', '[IRI] ']","['11-7', '11-9', '11-2']",WS,20180205
+51,"['Sonia Goncalves [7]', 'Nastaran Karami']","['[POR] ', '[IRI] ']","['11-8', '8-11', '11-7', '11-8']",WS,20180205
+52,"['Thet Htar Thuzar', 'Hediyeh Shams']","['[MYA] ', '[IRI] ']","['11-9', '11-5', '11-2']",WS,20180205
+53,"['Nasim Safai', 'Elahe Sepidan']","['[IRI] ', '[IRI] ']","['11-8', '11-7', '11-6']",WS,20180205
+54,"['Mariana Ugalde [8]', 'Elnaz Feizmanesh']","['[MEX] ', '[IRI] ']","['8-11', '11-4', '14-12', '10-12', '11-9']",WS,20180205
+55,"['Setayesh Abdolkarimi', 'Vlada Gynga']","['[IRI] ', '[MDA] ']","['5-11', '11-3', '11-3', '11-7']",WS,20180205
+56,"['Vaishnavi Reddy Jakka [3]', 'Soraya Aghaeihajiagha']","['[IND] ', '[IRI] ']","['11-9', '10-12', '11-3', '11-7']",WS,20180205
+57,"['Yeganeh Tafreshi', 'Nazanin Zamani']","['[IRI] ', '[IRI] ']","['9-11', '11-7', '11-9', '11-8']",WS,20180205
+58,"['Muralitharan Thinaah [5]', 'Thi Anh Thu Vu']","['[MAS] ', '[VIE] ']","['10-12', '11-6', '11-7', '11-4']",WS,20180205
+59,"['Romina Tajik', 'Taravat Alinezhad']","['[IRI] ', '[IRI] ']","['11-8', '11-6', '13-11']",WS,20180205
+60,"['Yvonne Li [2]', 'Paria Eskandari']","['[GER] ', '[IRI] ']","['11-4', '11-8', '11-2']",WS,20180205
+61,"['Paria Eskandari', 'Romina Tajik', 'Hadis Ahmadi', 'Nastaran Karami']","['[IRI] ', '[IRI] ', '[IRI] ', '[IRI] ']","['11-6', '11-7', '11-4']",WD,20180205
+62,"['Elnaz Feizmanesh', 'Pegah Kamrani', 'Nasim Safai', 'Hananeh Yaghobzadeh']","['[IRI] ', '[IRI] ', '[IRI] ', '[IRI] ']","['11-5', '13-11', '11-6']",WD,20180205
+63,"['Samin Abedkhojasteh', 'Hediyeh Shams', 'Soraya Aghaeihajiagha [2]', 'Sara Delavari Kashani']","['[IRI] ', '[IRI] ', '[IRI] ', '[IRI] ']",['1-0'],WD,20180205
+64,"['Ying Ying Lee [1]', 'Pegah Kamrani']","['[MAS] ', '[IRI] ']","['11-5', '11-7', '11-4']",WS,20180205
+65,"['Thi Phuong Thuy Tran', 'Vrushali Gummadi [6]']","['[VIE] ', '[IND] ']","['11-6', '14-15', '12-10', '8-11', '11-8']",WS,20180205
+66,"['Rasika Raje [4]', 'Lee Zii Yii']","['[IND] ', '[MAS] ']","['5-11', '11-8', '11-8', '11-8']",WS,20180205
+67,"['Thet Htar Thuzar', 'Sonia Goncalves [7]']","['[MYA] ', '[POR] ']","['11-5', '11-7', '11-3']",WS,20180205
+68,"['Mariana Ugalde [8]', 'Nasim Safai']","['[MEX] ', '[IRI] ']","['6-11', '11-8', '11-7', '11-3']",WS,20180205
+69,"['Vaishnavi Reddy Jakka [3]', 'Setayesh Abdolkarimi']","['[IND] ', '[IRI] ']","['11-8', '11-8', '11-5']",WS,20180205
+70,"['Muralitharan Thinaah [5]', 'Yeganeh Tafreshi']","['[MAS] ', '[IRI] ']","['11-1', '11-3', '11-1']",WS,20180205
+71,"['Yvonne Li [2]', 'Romina Tajik']","['[GER] ', '[IRI] ']","['11-9', '11-3', '11-2']",WS,20180205
+72,"['Tien Minh Nguyen [1]', 'Alireza Kazemi']","['[VIE] ', '[IRI] ']","['11-2', '11-7', '11-0']",MS,20180205
+73,"['Farzin Khanjani', 'Anant Shivam Jindal']","['[IRI] ', '[IND] ']","['8-11', '11-7', '14-12', '11-8']",MS,20180205
+74,"['Muhammed Ali Kurt', 'Mohd Naser Mansour Nayef']","['[TUR] ', '[JOR] ']","['9-11', '11-8', '11-2', '11-6']",MS,20180205
+75,"['Nader Minaei', 'Parsa Shahbazi']","['[IRI] ', '[IRI] ']","['11-8', '7-11', '11-7', '11-7']",MS,20180205
+76,"['Nguyen Hai Dang', 'Job Castillo [5]']","['[VIE] ', '[MEX] ']","['11-6', '8-11', '11-9', '11-13', '11-2']",MS,20180205
+77,"['Mehran Shahbazi', 'Erfan Taran']","['[IRI] ', '[IRI] ']","['11-5', '11-6', '11-7']",MS,20180205
+78,"['Kartik Jindal', 'Chin Yong Chian']","['[IND] ', '[MAS] ']","['11-9', '11-1', '9-11', '13-11']",MS,20180205
+79,"['Le Duc Phat [7]', 'Lino Munoz']","['[VIE] ', '[MEX] ']","['9-11', '9-11', '11-9', '12-10', '11-8']",MS,20180205
+80,"['Shreyansh Jaiswal', 'Farbod Yasami']","['[IND] ', '[IRI] ']","['11-5', '11-2', '11-8']",MS,20180205
+81,"['Bernardo Atilano', 'Bahaedeen Ahmad Alshannik [4]']","['[POR] ', '[JOR] ']","['11-9', '11-9', '14-12']",MS,20180205
+82,"['Soroush Eskandari Vatannejad', 'Mohsen Masoumitabarzanjani']","['[IRI] ', '[IRI] ']","['10-12', '11-3', '11-8', '11-3']",MS,20180205
+83,"['Emre Lale [6]', 'Hardik Makkar']","['[TUR] ', '[IND] ']","['14-15', '11-2', '11-9', '11-8']",MS,20180205
+84,"['Kartikey Gulshan Kumar', 'Arad Bahri']","['[IND] ', '[IRI] ']","['11-0', '11-3', '11-5']",MS,20180205
+85,"['Cao Cuong Pham [2]', 'Alireza Karami']","['[VIE] ', '[IRI] ']","['11-4', '11-9', '11-6']",MS,20180205
+86,"['Bahaedeen Ahmad Alshannik [1]', 'Mohd Naser Mansour Nayef', 'Mohammadamin Aliakbarian', 'Mohamad Chaharmali']","['[JOR] ', '[JOR] ', '[IRI] ', '[IRI] ']","['11-6', '11-4', '11-9']",MD,20180205
+87,"['Amir Ghasemi', 'Alireza Qasemi', 'Alireza Faghfouri', 'Nader Minaei']","['[IRI] ', '[IRI] ', '[IRI] ', '[IRI] ']","['8-11', '11-8', '11-9', '11-3']",MD,20180205
+88,"['Kona Tarun [4]', 'Saurabh Sharma', 'Soroush Eskandari Vatannejad', 'Farzin Khanjani']","['[IND] ', '[IND] ', '[IRI] ', '[IRI] ']","['11-8', '12-10', '11-2']",MD,20180205
+89,"['Hasan Motaghi', 'Mehran Shahbazi', 'Mohammad Mehdi Mirshekari', 'Saleh Sangtarash']","['[IRI] ', '[IRI] ', '[IRI] ', '[IRI] ']","['11-7', '12-10', '8-11', '11-6']",MD,20180205
+90,"['Mehdi Ansari', 'Ali Hosseinkhani', 'Mohammad Reza Bagheri', 'Farbod Yasami']","['[IRI] ', '[IRI] ', '[IRI] ', '[IRI] ']","['14-12', '11-3', '12-10']",MD,20180205
+91,"['Francis Alwin', 'K. Nandagopal', 'Job Castillo [3]', 'Lino Munoz']","['[IND] ', '[IND] ', '[MEX] ', '[MEX] ']","['11-5', '9-11', '11-7', '12-10']",MD,20180205
+92,"['Mohamad Pairavand', 'Seyed Armin Zaki Zadeh', 'Kapil Chaudhary [2]', 'Brijesh Yadav']","['[IRI] ', '[IRI] ', '[IND] ', '[IND] ']","['8-11', '11-9', '11-9', '1-11', '12-10']",MD,20180205
+93,"['Tien Minh Nguyen [1]', 'Farzin Khanjani']","['[VIE] ', '[IRI] ']","['9-11', '11-2', '11-8', '11-5']",MS,20180205
+94,"['Muhammed Ali Kurt', 'Mohammadamin Aliakbarian']","['[TUR] ', '[IRI] ']","['11-8', '11-8', '11-5']",MS,20180205
+95,"['Aryamann Tandon', 'Nader Minaei']","['[IND] ', '[IRI] ']","['11-5', '11-3', '11-7']",MS,20180205
+96,"['Mehran Shahbazi', 'Nguyen Hai Dang']","['[IRI] ', '[VIE] ']","['12-14', '12-10', '7-11', '12-10', '11-9']",MS,20180205
+97,"['Kartik Jindal', 'Le Duc Phat [7]']","['[IND] ', '[VIE] ']","['11-8', '5-11', '11-8', '7-11', '11-8']",MS,20180205
+98,"['Shreyansh Jaiswal', 'Bernardo Atilano']","['[IND] ', '[POR] ']","['11-7', '11-9', '11-4']",MS,20180205
+99,"['Emre Lale [6]', 'Soroush Eskandari Vatannejad']","['[TUR] ', '[IRI] ']","['11-8', '11-6', '7-11', '11-6']",MS,20180205
+100,"['Cao Cuong Pham [2]', 'Kartikey Gulshan Kumar']","['[VIE] ', '[IND] ']","['11-9', '11-7', '11-6']",MS,20180205
+101,"['Amir Ghasemi', 'Alireza Qasemi', 'Bahaedeen Ahmad Alshannik [1]', 'Mohd Naser Mansour Nayef']","['[IRI] ', '[IRI] ', '[JOR] ', '[JOR] ']","['11-2', '8-11', '11-8', '11-5']",MD,20180205
+102,"['Kona Tarun [4]', 'Saurabh Sharma', 'Hasan Motaghi', 'Mehran Shahbazi']","['[IND] ', '[IND] ', '[IRI] ', '[IRI] ']","['7-11', '11-7', '15-14', '11-9']",MD,20180205
+103,"['Francis Alwin', 'K. Nandagopal', 'Mehdi Ansari', 'Ali Hosseinkhani']","['[IND] ', '[IND] ', '[IRI] ', '[IRI] ']","['11-8', '11-8', '11-5']",MD,20180205
+104,"['Muhammad Amar Mohd Sani', 'Muhammad Amir Mohd Sani', 'Mohamad Pairavand', 'Seyed Armin Zaki Zadeh']","['[MAS] ', '[MAS] ', '[IRI] ', '[IRI] ']","['11-7', '11-8', '11-6']",MD,20180205
+105,"['Ying Ying Lee [1]', 'Thi Phuong Thuy Tran']","['[MAS] ', '[VIE] ']","['11-8', '10-12', '15-13', '11-6']",WS,20180205
+106,"['Thet Htar Thuzar', 'Rasika Raje [4]']","['[MYA] ', '[IND] ']","['11-6', '4-11', '11-8', '3-11', '11-3']",WS,20180205
+107,"['Vaishnavi Reddy Jakka [3]', 'Mariana Ugalde [8]']","['[IND] ', '[MEX] ']","['11-3', '11-9', '10-12', '11-2']",WS,20180205
+108,"['Muralitharan Thinaah [5]', 'Yvonne Li [2]']","['[MAS] ', '[GER] ']","['11-6', '11-6', '7-11', '12-10']",WS,20180205
+109,"['Tien Minh Nguyen [1]', 'Muhammed Ali Kurt']","['[VIE] ', '[TUR] ']","['11-7', '9-11', '9-11', '11-8', '12-10']",MS,20180205
+110,"['Aryamann Tandon', 'Mehran Shahbazi']","['[IND] ', '[IRI] ']","['11-9', '11-6', '9-11', '11-6']",MS,20180205
+111,"['Shreyansh Jaiswal', 'Kartik Jindal']","['[IND] ', '[IND] ']","['11-9', '11-8', '13-11']",MS,20180205
+112,"['Cao Cuong Pham [2]', 'Emre Lale [6]']","['[VIE] ', '[TUR] ']","['11-4', '11-5', '11-7']",MS,20180205
+113,"['Ying Ying Lee [1]', 'Thet Htar Thuzar']","['[MAS] ', '[MYA] ']","['4-11', '11-8', '11-7', '14-12']",WS,20180205
+114,"['Muralitharan Thinaah [5]', 'Vaishnavi Reddy Jakka [3]']","['[MAS] ', '[IND] ']","['11-3', '7-11', '11-5', '11-9']",WS,20180205
+115,"['Tien Minh Nguyen [1]', 'Aryamann Tandon']","['[VIE] ', '[IND] ']","['7-11', '13-11', '11-8', '12-14', '11-6']",MS,20180205
+116,"['Cao Cuong Pham [2]', 'Shreyansh Jaiswal']","['[VIE] ', '[IND] ']","['11-9', '6-11', '11-9', '11-8']",MS,20180205
+117,"['Kona Tarun [4]', 'Saurabh Sharma', 'Amir Ghasemi', 'Alireza Qasemi']","['[IND] ', '[IND] ', '[IRI] ', '[IRI] ']","['8-11', '11-4', '11-5', '11-13', '11-7']",MD,20180205
+118,"['Francis Alwin', 'K. Nandagopal', 'Muhammad Amar Mohd Sani', 'Muhammad Amir Mohd Sani']","['[IND] ', '[IND] ', '[MAS] ', '[MAS] ']","['11-7', '11-8', '11-6']",MD,20180205
+119,"['Setayesh Abdolkarimi', 'Hamedanchi Azad Hale', 'Paria Eskandari', 'Romina Tajik']","['[IRI] ', '[IRI] ', '[IRI] ', '[IRI] ']","['11-7', '11-4', '11-7']",WD,20180205
+120,"['Samin Abedkhojasteh', 'Hediyeh Shams', 'Elnaz Feizmanesh', 'Pegah Kamrani']","['[IRI] ', '[IRI] ', '[IRI] ', '[IRI] ']","['11-3', '9-11', '15-13', '11-8']",WD,20180205
+121,"['Muralitharan Thinaah [5]', 'Ying Ying Lee [1]']","['[MAS] ', '[MAS] ']","['11-8', '11-6', '9-11', '11-9']",WS,20180205
+122,"['Setayesh Abdolkarimi', 'Hamedanchi Azad Hale', 'Samin Abedkhojasteh', 'Hediyeh Shams']","['[IRI] ', '[IRI] ', '[IRI] ', '[IRI] ']","['11-3', '11-9', '11-5']",WD,20180205
+123,"['Cao Cuong Pham [2]', 'Tien Minh Nguyen [1]']","['[VIE] ', '[VIE] ']","['15-14', '13-11', '11-13', '11-7']",MS,20180205
+124,"['Francis Alwin', 'K. Nandagopal', 'Kona Tarun [4]', 'Saurabh Sharma']","['[IND] ', '[IND] ', '[IND] ', '[IND] ']","['9-11', '11-6', '7-11', '11-8', '11-9']",MD,20180205

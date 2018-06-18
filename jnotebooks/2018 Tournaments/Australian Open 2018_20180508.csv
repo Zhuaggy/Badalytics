@@ -1,0 +1,170 @@
+,PLAYERS,COUNTRIES,SCORES,EVENT,match_week
+0,"['Yehezkiel Fritz Mainaky', 'Cham Chen']","['[INA] ', '[AUS] ']","['21-14', '21-14']",MS - Qualification,20180508
+1,"['Peter Yan', 'K. Ajay Kumar']","['[AUS] ', '[IND] ']",[],MS - Qualification,20180508
+2,"['Pit Seng Low', 'De Jun Jackie Tan']","['[AUS] ', '[SGP] ']","['21-10', '21-3']",MS - Qualification,20180508
+3,"['Robert Mann', 'Dylan Soedjasa']","['[LUX] ', '[NZL] ']","['21-12', '21-17']",MS - Qualification,20180508
+4,"['Yang Shen', 'Dimitri Han']","['[AUS] ', '[AUS] ']","['16-21', '21-18', '21-14']",MS - Qualification,20180508
+5,"['Sun Feixiang', 'Kan Chao Yu']","['[CHN] ', '[TPE] ']","['21-17', '21-19']",MS - Qualification,20180508
+6,"['Riichi Takeshita', 'Kunlavut Vitidsarn']","['[JPN] ', '[THA] ']","['16-21', '21-17', '21-14']",MS - Qualification,20180508
+7,"['Lu Guangzu', 'Henrikho Kho Wibowo']","['[CHN] ', '[INA] ']","['21-17', '21-12']",MS - Qualification,20180508
+8,"['Ga Eun Kim', 'Zecily Fung']","['[KOR] ', '[AUS] ']","['21-12', '21-6']",WS - Qualification,20180508
+9,"['Ayumi Mine', 'Deng Joy Xuan']","['[JPN] ', '[HKG] ']","['22-20', '21-19']",WS - Qualification,20180508
+10,"['Yukino Nakai', 'Kelly Xu']","['[JPN] ', '[AUS] ']","['21-6', '21-9']",WS - Qualification,20180508
+11,"['Yingzi Jiang', 'Sally Fu']","['[AUS] ', '[NZL] ']","['21-17', '21-13']",WS - Qualification,20180508
+12,"['Yehezkiel Fritz Mainaky', 'Robert Mann']","['[INA] ', '[LUX] ']","['21-15', '21-17']",MS - Qualification,20180508
+13,"['Min Hyuk Kang', 'Ha Na Baek', 'Eric Vuong', 'Lee Yen Khoo']","['[KOR] ', '[KOR] ', '[AUS] ', '[AUS] ']","['21-8', '21-18']",XD - Qualification,20180508
+14,"['Sun Feixiang', 'Peter Yan']","['[CHN] ', '[AUS] ']","['21-14', '22-20']",MS - Qualification,20180508
+15,"['Lu Guangzu', 'Pit Seng Low']","['[CHN] ', '[AUS] ']","['21-3', '21-6']",MS - Qualification,20180508
+16,"['Riichi Takeshita', 'Yang Shen']","['[JPN] ', '[AUS] ']","['21-2', '21-11']",MS - Qualification,20180508
+17,"['Lukas Defolky', 'Sylvina Kurniawan', 'Eddie Hung', 'Kelly Xu']","['[AUS] ', '[AUS] ', '[AUS] ', '[AUS] ']","['21-14', '21-15']",XD - Qualification,20180508
+18,"['Park Kyung Hoon [2]', 'Hee Yong Kong', 'Cham Chen', 'Jodee Vega']","['[KOR] ', '[KOR] ', '[AUS] ', '[AUS] ']","['21-11', '21-6']",XD - Qualification,20180508
+19,"['Choi Solgyu', 'Seung Jae Seo', 'Maika Phillips', 'Dylan Soedjasa']","['[KOR] ', '[KOR] ', '[NZL] ', '[NZL] ']","['21-11', '21-7']",MD - Qualification,20180508
+20,"['Subhash Aroliveettil', 'Phuc Nguyen (Lucas) Tran', 'Hari Kiran Chereddi', 'K. Ajay Kumar']","['[AUS] ', '[AUS] ', '[IND] ', '[IND] ']",[],MD - Qualification,20180508
+21,"['Kan Chao Yu', 'Chi-Hung Liao', 'Bosco Lap-Chi Kwok', 'Kok Leong (Jayden) Woon']","['[TPE] ', '[TPE] ', '[AUS] ', '[AUS] ']","['21-15', '21-17']",MD - Qualification,20180508
+22,"['Anthony Joe', 'Pit Seng Low', 'Tai-Liang Ko', 'Mercedes Tin']","['[AUS] ', '[AUS] ', '[AUS] ', '[AUS] ']","['21-11', '21-11']",MD - Qualification,20180508
+23,"['De Jun Jackie Tan', 'Yuran Zhang', 'Tai-Liang Ko', 'Siew Wee ( Michelle) Teoh']","['[SGP] ', '[AUS] ', '[AUS] ', '[AUS] ']","['22-20', '21-17']",XD - Qualification,20180508
+24,"['Hwi Tae Kim', 'Hye Jeong Kim', 'Subhash Aroliveettil', 'Maggie Chan']","['[KOR] ', '[KOR] ', '[AUS] ', '[AUS] ']","['21-9', '21-10']",XD,20180508
+25,"['Kim Won Ho', 'Yu Rim Lee', 'Rohan Kapoor', 'Kuhoo Garg']","['[KOR] ', '[KOR] ', '[IND] ', '[IND] ']","['21-10', '21-11']",XD,20180508
+26,"['Simon Wing Hang Leung', 'Louisa Ma', 'Mathew Fogarty', 'Isabel Zhong']","['[AUS] ', '[AUS] ', '[USA] ', '[USA] ']","['21-12', '21-10']",XD,20180508
+27,"['Shivam Sharma', 'Poorvisha S Ram', 'Yehezkiel Fritz Mainaky', 'Lyanny Alessandra Mainaky']","['[IND] ', '[IND] ', '[INA] ', '[INA] ']","['21-13', '21-10']",XD,20180508
+28,"['Chan Peng Soon [7]', 'Liu Ying Goh', 'Maika Phillips', 'Anona Pak']","['[MAS] ', '[MAS] ', '[NZL] ', '[NZL] ']","['21-18', '21-12']",XD,20180508
+29,"['Wang Zekang [8]', 'Li Yinhui', 'Pakin Kuna-Anuvit', 'Supissara Paewsampran']","['[CHN] ', '[CHN] ', '[THA] ', '[THA] ']","['21-18', '21-14']",XD,20180508
+30,"['He Jiting [2]', 'Du Yue', 'Tuan Duc Do', 'Nhu Thao Pham']","['[CHN] ', '[CHN] ', '[VIE] ', '[VIE] ']","['21-6', '21-15']",XD,20180508
+31,"['Yantoni Edy Saputra', 'Marsheilla Gischa Islami', 'Jonathan Sun', 'Jennifer Tam']","['[INA] ', '[INA] ', '[AUS] ', '[AUS] ']","['21-11', '21-12']",XD,20180508
+32,"['Hafiz Faizal [4]', 'Gloria Emanuelle Widjaja', 'Abhinav Manota', 'Justine Villegas']","['[INA] ', '[INA] ', '[NZL] ', '[NZL] ']","['21-5', '21-15']",XD,20180508
+33,"['Ricky Karandasuwardi', 'Debby Susanto', 'Ou Xuanyi', 'Cao Tong Wei']","['[INA] ', '[INA] ', '[CHN] ', '[CHN] ']","['13-21', '21-14', '21-11']",XD,20180508
+34,"['Goh Soon Huat [1]', 'Shevon Jemie Lai', 'Niccolo Tagle', 'Brittney Tam']","['[MAS] ', '[MAS] ', '[NZL] ', '[CAN] ']","['21-13', '21-10']",XD,20180508
+35,"['Choi Solgyu [5]', 'Kim Ha Na', 'Ronald Ronald', 'Annisa Saufika']","['[KOR] ', '[KOR] ', '[INA] ', '[INA] ']","['16-21', '21-17', '21-18']",XD,20180508
+36,"['Tang Jie Chen', 'Yen Wei Peck', 'Min Hyuk Kang', 'Ha Na Baek']","['[MAS] ', '[MAS] ', '[KOR] ', '[KOR] ']","['23-21', '21-23', '21-15']",XD,20180508
+37,"['Park Kyung Hoon', 'Hee Yong Kong', 'Supak Jomkoh', 'Puttita Supajirakul']","['[KOR] ', '[KOR] ', '[THA] ', '[THA] ']","['16-21', '21-14', '21-12']",XD,20180508
+38,"['Minatsu Mitani [4]', 'Ksenia Polikarpova']","['[JPN] ', '[ISR] ']","['21-10', '21-13']",WS,20180508
+39,"['Seung Jae Seo [5]', 'Chae Yujung', 'Lukas Defolky', 'Sylvina Kurniawan']","['[KOR] ', '[KOR] ', '[AUS] ', '[AUS] ']","['21-6', '21-13']",XD,20180508
+40,"['Sabrina Jaquet', 'Ga Eun Kim']","['[SUI] ', '[KOR] ']","['21-16', '13-21', '21-14']",WS,20180508
+41,"['Sai Praneeth B. [2]', 'Misha Zilberman']","['[IND] ', '[ISR] ']","['21-17', '21-14']",MS,20180508
+42,"['Ayumi Mine', 'Sai Uttejitha Rao Chukka']","['[JPN] ', '[IND] ']","['21-8', '21-19']",WS,20180508
+43,"['Jesica Muljati', 'Isabel Zhong']","['[INA] ', '[USA] ']","['21-17', '21-14']",WS,20180508
+44,"['Zhou Zeqi', 'Niluka Karunaratne']","['[CHN] ', '[SRI] ']","['21-17', '22-20']",MS,20180508
+45,"['Cai Yanyan', 'Crystal Pan']","['[CHN] ', '[USA] ']","['21-14', '21-12']",WS,20180508
+46,"['Louisa Ma', 'Mattana Hemrachatanun']","['[AUS] ', '[THA] ']","['21-18', '21-11']",WS,20180508
+47,"['Yee Han Chong', 'Anthony Joe']","['[MAS] ', '[AUS] ']","['21-18', '21-15']",MS,20180508
+48,"['Masato Takano', 'Yoshiki Tsukamoto', 'Kan Chao Yu', 'Chi-Hung Liao']","['[JPN] ', '[JPN] ', '[TPE] ', '[TPE] ']","['21-17', '21-19']",MD,20180508
+49,"['Arjun M.R. [7]', 'Ramchandran Shlok', 'Raymond Tam', 'Eric Vuong']","['[IND] ', '[IND] ', '[AUS] ', '[AUS] ']","['21-7', '21-15']",MD,20180508
+50,"['Jakkampudi Meghana', 'Poorvisha S Ram', 'Maggie Chan', 'Jodee Vega']","['[IND] ', '[IND] ', '[AUS] ', '[AUS] ']","['21-10', '21-16']",WD,20180508
+51,"['Yukino Nakai', 'Brittney Tam [7]']","['[JPN] ', '[CAN] ']","['22-24', '21-11', '21-12']",WS,20180508
+52,"['Jonathan Sun', 'Yu Zhang', 'Subhash Aroliveettil', 'Phuc Nguyen (Lucas) Tran']","['[AUS] ', '[AUS] ', '[AUS] ', '[AUS] ']","['25-23', '21-12']",MD,20180508
+53,"['Pakin Kuna-Anuvit', 'Natthapat Trinkajee', 'Cham Chen', 'Toby Wong']","['[THA] ', '[THA] ', '[AUS] ', '[AUS] ']","['21-7', '21-15']",MD,20180508
+54,"['Ji Shuting', 'Yingzi Jiang']","['[CHN] ', '[AUS] ']","['21-13', '21-17']",WS,20180508
+55,"['Lyanny Alessandra Mainaky', 'Disha Gupta']","['[INA] ', '[USA] ']","['21-11', '21-14']",WS,20180508
+56,"['Lu Guangzu', 'Kwang Hee Heo']","['[CHN] ', '[KOR] ']","['21-9', '16-21', '21-18']",MS,20180508
+57,"['Sony Dwi Kuncoro', 'Karan Rajan Rajarajan']","['[INA] ', '[IND] ']","['21-15', '21-8']",MS,20180508
+58,"['Yulfira Barkah', 'Rosyita Eka Putri Sari', 'Ruethaichanok Laisuan', 'Supamart Mingchua']","['[INA] ', '[INA] ', '[THA] ', '[THA] ']","['21-16', '21-17']",WD,20180508
+59,"['Miki Kashihara', 'Miyuki Kato', 'Supissara Paewsampran', 'Puttita Supajirakul']","['[JPN] ', '[JPN] ', '[THA] ', '[THA] ']","['21-14', '21-9']",WD,20180508
+60,"['Hsuan-Yu Wendy Chen', 'Shiori Saito [8]']","['[AUS] ', '[JPN] ']","['8-21', '21-15', '22-20']",WS,20180508
+61,"['Misha Zilberman', 'Ksenia Polikarpova', 'De Jun Jackie Tan', 'Yuran Zhang']","['[ISR] ', '[ISR] ', '[SGP] ', '[AUS] ']","['21-19', '21-14']",XD,20180508
+62,"['Zhao Junpeng', 'Adam Mendrek']","['[CHN] ', '[CZE] ']","['21-14', '21-14']",MS,20180508
+63,"['Sameer Verma [4]', 'Abhinav Manota']","['[IND] ', '[NZL] ']","['13-21', '21-9', '21-7']",MS,20180508
+64,"['Cheung Ngan Yi [3]', 'Jennifer Tam']","['[HKG] ', '[AUS] ']","['21-5', '21-12']",WS,20180508
+65,"['Yulia Yosephin Susanto', 'Sri Krishna Priya Kudaravalli']","['[INA] ', '[IND] ']","['21-18', '22-20']",WS,20180508
+66,"['Manu Attri [3]', 'Reddy B. Sumeeth', 'Lukas Defolky', 'Michael Fariman']","['[IND] ', '[IND] ', '[AUS] ', '[AUS] ']","['21-11', '21-10']",MD,20180508
+67,"['Choi Solgyu', 'Seung Jae Seo', 'Tuan Duc Do', 'Hong Nam Pham']","['[KOR] ', '[KOR] ', '[VIE] ', '[VIE] ']","['21-14', '21-11']",MD,20180508
+68,"['Panji Ahmad Maulana', 'Rahul Yadav Chittaboina']","['[INA] ', '[IND] ']","['21-11', '21-17']",MS,20180508
+69,"['Takuma Ueda', 'Sourabh Verma']","['[JPN] ', '[IND] ']","['19-21', '21-17', '21-12']",MS,20180508
+70,"['Jui Jeon', 'Chananchida Jucharoen']","['[KOR] ', '[THA] ']","['21-9', '21-15']",WS,20180508
+71,"['Vaishnavi Reddy Jakka', 'Georgina Bland']","['[IND] ', '[ENG] ']","['19-21', '21-15', '21-15']",WS,20180508
+72,"['Wei Feng Chong', 'Koki Watanabe']","['[MAS] ', '[JPN] ']","['21-10', '19-21', '21-11']",MS,20180508
+73,"['Zhang Yiman', 'Pattarasuda Chaiwan']","['[CHN] ', '[THA] ']","['22-20', '17-21', '21-16']",WS,20180508
+74,"['Hye Rin Kim', 'Hee Yong Kong', 'Yingzi Jiang', 'Louisa Ma']","['[KOR] ', '[KOR] ', '[AUS] ', '[AUS] ']","['21-10', '21-18']",WD,20180508
+75,"['Hyuk Gyun Choi', 'Park Kyung Hoon', 'Simon Wing Hang Leung', 'Mitchell Wheller']","['[KOR] ', '[KOR] ', '[AUS] ', '[AUS] ']","['21-13', '21-13']",MD,20180508
+76,"['Tang Jie Chen', 'Goh Soon Huat', 'Rohan Kapoor', 'Shivam Sharma']","['[MAS] ', '[MAS] ', '[IND] ', '[IND] ']","['21-15', '15-21', '21-7']",MD,20180508
+77,"['Ou Xuanyi', 'Xiangyu Ren', 'He Jiting [4]', 'Tan Qiang']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['21-16', '21-18']",MD,20180508
+78,"['Riichi Takeshita', 'Ajay Jayaram']","['[JPN] ', '[IND] ']","['20-22', '22-20', '21-17']",MS,20180508
+79,"['Min Hyuk Kang', 'Kim Won Ho', 'Anthony Joe', 'Pit Seng Low']","['[KOR] ', '[KOR] ', '[AUS] ', '[AUS] ']","['21-8', '21-5']",MD,20180508
+80,"['Keiichiro Matsui', 'Yoshinori Takeuchi', 'Akbar Bintang Cahyono', 'Moh Reza Pahlevi Isfahani']","['[JPN] ', '[JPN] ', '[INA] ', '[INA] ']","['21-18', '21-13']",MD,20180508
+81,"['Tae In Jung', 'Hwi Tae Kim', 'Francis Alwin [8]', 'K. Nandagopal']","['[KOR] ', '[KOR] ', '[IND] ', '[IND] ']","['28-30', '8-7']",MD,20180508
+82,"['Chae Yujung', 'Hye Jeong Kim', 'Hsuan-Yu Wendy Chen', 'Sylvina Kurniawan']","['[KOR] ', '[KOR] ', '[AUS] ', '[AUS] ']","['21-11', '21-9']",WD,20180508
+83,"['Yu Igarashi', 'Ren Pengbo']","['[JPN] ', '[CHN] ']","['19-21', '21-18', '21-11']",MS,20180508
+84,"['Anggia Shitta Awanda', 'Meirisa Cindy Sahputri', 'Yukino Nakai', 'Nao Ono']","['[INA] ', '[INA] ', '[JPN] ', '[JPN] ']","['21-19', '21-14']",WD,20180508
+85,"['June Wei Cheam', 'Yehezkiel Fritz Mainaky']","['[MAS] ', '[INA] ']","['21-13', '21-5']",MS,20180508
+86,"['Sun Feixiang', 'Daren Liew [8]']","['[CHN] ', '[MAS] ']","['21-15', '21-18']",MS,20180508
+87,"['Hiroki Okamura', 'Masayuki Onodera', 'Chai Biao', 'Wang Zekang']","['[JPN] ', '[JPN] ', '[CHN] ', '[CHN] ']","['21-19', '12-21', '21-17']",MD,20180508
+88,"['Tommy Sugiarto [5]', 'Milan Ludik']","['[INA] ', '[CZE] ']","['21-10', '21-11']",MS,20180508
+89,"['Han Yue', 'Michelle Li [2]']","['[CHN] ', '[CAN] ']","['21-11', '21-11']",WS,20180508
+90,"['Sabar Karyaman Gutama', 'Frengky Wijaya Putra', 'Boon Heong Tan [6]', 'Yoo Yeon Seong']","['[INA] ', '[INA] ', '[MAS] ', '[KOR] ']","['21-19', '20-22', '21-18']",MD,20180508
+91,"['Wahyu Nayaka Arya Pangkaryanira [2]', 'Ade Yusuf Santoso', 'Inkarat Apisuk', 'Tanupat Viriyangkura']","['[INA] ', '[INA] ', '[THA] ', '[THA] ']","['23-25', '21-16', '21-13']",MD,20180508
+92,"['Lee Cheuk Yiu [7]', 'Lakshya Sen']","['[HKG] ', '[IND] ']","['22-20', '13-21', '21-19']",MS,20180508
+93,"['Berry Angriawan [1]', 'Hardianto Hardianto', 'Phillip Chew', 'Ryan Chew']","['[INA] ', '[INA] ', '[USA] ', '[USA] ']","['21-9', '21-15']",MD,20180508
+94,"['Emily Kan', 'Isabel Zhong', 'Michelle Tam', 'Yuran Zhang']","['[USA] ', '[USA] ', '[AUS] ', '[AUS] ']","['21-9', '21-19']",WD,20180508
+95,"['Ji Shuting', 'Louisa Ma']","['[CHN] ', '[AUS] ']","['21-9', '21-15']",WS,20180508
+96,"['Choi Solgyu', 'Seung Jae Seo', 'Sabar Karyaman Gutama', 'Frengky Wijaya Putra']","['[KOR] ', '[KOR] ', '[INA] ', '[INA] ']","['23-21', '21-19']",MD,20180508
+97,"['Goh Soon Huat [1]', 'Shevon Jemie Lai', 'Tang Jie Chen', 'Yen Wei Peck']","['[MAS] ', '[MAS] ', '[MAS] ', '[MAS] ']","['21-10', '21-18']",XD,20180508
+98,"['Miki Kashihara', 'Miyuki Kato', 'Jakkampudi Meghana', 'Poorvisha S Ram']","['[JPN] ', '[JPN] ', '[IND] ', '[IND] ']","['21-11', '21-13']",WD,20180508
+99,"['Kim Won Ho', 'Yu Rim Lee', 'Hafiz Faizal [4]', 'Gloria Emanuelle Widjaja']","['[KOR] ', '[KOR] ', '[INA] ', '[INA] ']","['21-18', '21-17']",XD,20180508
+100,"['Chae Yujung', 'Hye Jeong Kim', 'Du Yue [3]', 'Li Yinhui']","['[KOR] ', '[KOR] ', '[CHN] ', '[CHN] ']","['22-20', '21-16']",WD,20180508
+101,"['Ayumi Mine', 'Hsuan-Yu Wendy Chen']","['[JPN] ', '[AUS] ']","['21-6', '21-9']",WS,20180508
+102,"['Hye Rin Kim', 'Hee Yong Kong', 'Jennifer Tam', 'Kelly Xu']","['[KOR] ', '[KOR] ', '[AUS] ', '[AUS] ']","['21-3', '21-6']",WD,20180508
+103,"['Yukino Nakai', 'Lyanny Alessandra Mainaky']","['[JPN] ', '[INA] ']","['19-21', '21-8', '21-6']",WS,20180508
+104,"['Manu Attri [3]', 'Reddy B. Sumeeth', 'Hyuk Gyun Choi', 'Park Kyung Hoon']","['[IND] ', '[IND] ', '[KOR] ', '[KOR] ']","['21-17', '21-17']",MD,20180508
+105,"['Masato Takano', 'Yoshiki Tsukamoto', 'Tae In Jung', 'Hwi Tae Kim']","['[JPN] ', '[JPN] ', '[KOR] ', '[KOR] ']","['18-21', '21-19', '25-23']",MD,20180508
+106,"['Arjun M.R. [7]', 'Ramchandran Shlok', 'Hiroki Okamura', 'Masayuki Onodera']","['[IND] ', '[IND] ', '[JPN] ', '[JPN] ']","['21-15', '25-23']",MD,20180508
+107,"['Cheung Ngan Yi [3]', 'Sabrina Jaquet']","['[HKG] ', '[SUI] ']","['21-9', '21-5']",WS,20180508
+108,"['Lu Guangzu', 'Wei Feng Chong']","['[CHN] ', '[MAS] ']","['21-15', '21-11']",MS,20180508
+109,"['Yantoni Edy Saputra', 'Marsheilla Gischa Islami', 'Misha Zilberman', 'Ksenia Polikarpova']","['[INA] ', '[INA] ', '[ISR] ', '[ISR] ']","['21-15', '21-12']",XD,20180508
+110,"['Yulfira Barkah', 'Rosyita Eka Putri Sari', 'Lee Yen Khoo', 'Ann-Louise Slee']","['[INA] ', '[INA] ', '[AUS] ', '[AUS] ']","['21-9', '21-16']",WD,20180508
+111,"['Wahyu Nayaka Arya Pangkaryanira [2]', 'Ade Yusuf Santoso', 'Jonathan Sun', 'Yu Zhang']","['[INA] ', '[INA] ', '[AUS] ', '[AUS] ']","['21-14', '21-5']",MD,20180508
+112,"['Sameer Verma [4]', 'Takuma Ueda']","['[IND] ', '[JPN] ']","['21-16', '21-12']",MS,20180508
+113,"['Cai Yanyan', 'Zhang Yiman']","['[CHN] ', '[CHN] ']","['21-10', '21-12']",WS,20180508
+114,"['Ayako Sakuramoto [2]', 'Yukiko Takahata', 'Sally Fu', 'Alyssa Tagle']","['[JPN] ', '[JPN] ', '[NZL] ', '[NZL] ']","['21-2', '21-6']",WD,20180508
+115,"['Minatsu Mitani [4]', 'Jui Jeon']","['[JPN] ', '[KOR] ']","['21-12', '21-12']",WS,20180508
+116,"['Seung Jae Seo [5]', 'Chae Yujung', 'Shivam Sharma', 'Poorvisha S Ram']","['[KOR] ', '[KOR] ', '[IND] ', '[IND] ']","['21-6', '21-13']",XD,20180508
+117,"['Chan Peng Soon [7]', 'Liu Ying Goh', 'Ricky Karandasuwardi', 'Debby Susanto']","['[MAS] ', '[MAS] ', '[INA] ', '[INA] ']","['21-17', '21-17']",XD,20180508
+118,"['Choi Solgyu [5]', 'Kim Ha Na', 'Simon Wing Hang Leung', 'Louisa Ma']","['[KOR] ', '[KOR] ', '[AUS] ', '[AUS] ']","['21-11', '21-11']",XD,20180508
+119,"['Zhao Junpeng', 'Sun Feixiang']","['[CHN] ', '[CHN] ']","['16-21', '21-10', '21-11']",MS,20180508
+120,"['Han Yue', 'Vaishnavi Reddy Jakka']","['[CHN] ', '[IND] ']","['21-5', '21-5']",WS,20180508
+121,"['Sai Praneeth B. [2]', 'Panji Ahmad Maulana']","['[IND] ', '[INA] ']","['21-12', '21-14']",MS,20180508
+122,"['Misato Aratama [1]', 'Akane Watanabe', 'Anggia Shitta Awanda', 'Meirisa Cindy Sahputri']","['[JPN] ', '[JPN] ', '[INA] ', '[INA] ']","['21-13', '21-16']",WD,20180508
+123,"['Ha Na Baek [4]', 'Yu Rim Lee', 'Emily Kan', 'Isabel Zhong']","['[KOR] ', '[KOR] ', '[USA] ', '[USA] ']","['21-10', '21-5']",WD,20180508
+124,"['He Jiting [2]', 'Du Yue', 'Hwi Tae Kim', 'Hye Jeong Kim']","['[CHN] ', '[CHN] ', '[KOR] ', '[KOR] ']","['21-7', '21-15']",XD,20180508
+125,"['Tommy Sugiarto [5]', 'Yu Igarashi']","['[INA] ', '[JPN] ']","['21-12', '21-9']",MS,20180508
+126,"['Berry Angriawan [1]', 'Hardianto Hardianto', 'Pakin Kuna-Anuvit', 'Natthapat Trinkajee']","['[INA] ', '[INA] ', '[THA] ', '[THA] ']","['21-17', '21-17']",MD,20180508
+127,"['Min Hyuk Kang', 'Kim Won Ho', 'Ou Xuanyi', 'Xiangyu Ren']","['[KOR] ', '[KOR] ', '[CHN] ', '[CHN] ']","['17-21', '21-18', '26-24']",MD,20180508
+128,"['Yulia Yosephin Susanto', 'Jesica Muljati']","['[INA] ', '[INA] ']","['21-13', '21-14']",WS,20180508
+129,"['Lee Cheuk Yiu [7]', 'June Wei Cheam']","['[HKG] ', '[MAS] ']","['21-17', '12-21', '22-20']",MS,20180508
+130,"['Sony Dwi Kuncoro', 'Yee Han Chong']","['[INA] ', '[MAS] ']","['8-21', '21-17', '21-18']",MS,20180508
+131,"['Keiichiro Matsui', 'Yoshinori Takeuchi', 'Tang Jie Chen', 'Goh Soon Huat']","['[JPN] ', '[JPN] ', '[MAS] ', '[MAS] ']","['21-16', '22-24', '21-15']",MD,20180508
+132,"['Zhou Zeqi', 'Riichi Takeshita']","['[CHN] ', '[JPN] ']","['21-8', '21-14']",MS,20180508
+133,"['Wang Zekang [8]', 'Li Yinhui', 'Park Kyung Hoon', 'Hee Yong Kong']","['[CHN] ', '[CHN] ', '[KOR] ', '[KOR] ']","['13-21', '21-17', '22-20']",XD,20180508
+134,"['Wang Zekang [8]', 'Li Yinhui', 'Goh Soon Huat [1]', 'Shevon Jemie Lai']","['[CHN] ', '[CHN] ', '[MAS] ', '[MAS] ']","['21-17', '21-13']",XD ,20180508
+135,"['Lu Guangzu', 'Sameer Verma [4]']","['[CHN] ', '[IND] ']","['21-14', '21-6']",MS ,20180508
+136,"['Cheung Ngan Yi [3]', 'Yukino Nakai']","['[HKG] ', '[JPN] ']","['11-21', '21-14', '21-15']",WS ,20180508
+137,"['Zhou Zeqi', 'Tommy Sugiarto [5]']","['[CHN] ', '[INA] ']","['21-12', '21-15']",MS ,20180508
+138,"['Lee Cheuk Yiu [7]', 'Sai Praneeth B. [2]']","['[HKG] ', '[IND] ']","['23-21', '21-13']",MS ,20180508
+139,"['Wahyu Nayaka Arya Pangkaryanira [2]', 'Ade Yusuf Santoso', 'Choi Solgyu', 'Seung Jae Seo']","['[INA] ', '[INA] ', '[KOR] ', '[KOR] ']","['21-19', '14-21', '23-21']",MD ,20180508
+140,"['Ha Na Baek [4]', 'Yu Rim Lee', 'Hye Rin Kim', 'Hee Yong Kong']","['[KOR] ', '[KOR] ', '[KOR] ', '[KOR] ']","['21-14', '14-21', '21-11']",WD ,20180508
+141,"['Choi Solgyu [5]', 'Kim Ha Na', 'He Jiting [2]', 'Du Yue']","['[KOR] ', '[KOR] ', '[CHN] ', '[CHN] ']","['16-21', '24-22', '21-13']",XD ,20180508
+142,"['Ayako Sakuramoto [2]', 'Yukiko Takahata', 'Anona Pak', 'Fransisca Angelica Rahardja']","['[JPN] ', '[JPN] ', '[NZL] ', '[NZL] ']","['21-13', '21-13']",WD ,20180508
+143,"['Zhao Junpeng', 'Sony Dwi Kuncoro']","['[CHN] ', '[INA] ']","['21-8', '16-21', '21-17']",MS ,20180508
+144,"['Misato Aratama [1]', 'Akane Watanabe', 'Yulfira Barkah', 'Rosyita Eka Putri Sari']","['[JPN] ', '[JPN] ', '[INA] ', '[INA] ']","['21-15', '21-13']",WD ,20180508
+145,"['Berry Angriawan [1]', 'Hardianto Hardianto', 'Masato Takano', 'Yoshiki Tsukamoto']","['[INA] ', '[INA] ', '[JPN] ', '[JPN] ']","['21-10', '21-18']",MD ,20180508
+146,"['Chae Yujung', 'Hye Jeong Kim', 'Miki Kashihara', 'Miyuki Kato']","['[KOR] ', '[KOR] ', '[JPN] ', '[JPN] ']","['21-17', '21-12']",WD ,20180508
+147,"['Keiichiro Matsui', 'Yoshinori Takeuchi', 'Min Hyuk Kang', 'Kim Won Ho']","['[JPN] ', '[JPN] ', '[KOR] ', '[KOR] ']","['19-21', '21-14', '22-20']",MD ,20180508
+148,"['Seung Jae Seo [5]', 'Chae Yujung', 'Kim Won Ho', 'Yu Rim Lee']","['[KOR] ', '[KOR] ', '[KOR] ', '[KOR] ']","['21-11', '21-16']",XD ,20180508
+149,"['Cai Yanyan', 'Ji Shuting']","['[CHN] ', '[CHN] ']","['21-15', '21-13']",WS ,20180508
+150,"['Manu Attri [3]', 'Reddy B. Sumeeth', 'Arjun M.R. [7]', 'Ramchandran Shlok']","['[IND] ', '[IND] ', '[IND] ', '[IND] ']","['17-21', '21-19', '21-18']",MD ,20180508
+151,"['Ayumi Mine', 'Han Yue']","['[JPN] ', '[CHN] ']","['21-15', '21-13']",WS ,20180508
+152,"['Minatsu Mitani [4]', 'Yulia Yosephin Susanto']","['[JPN] ', '[INA] ']","['21-14', '21-13']",WS ,20180508
+153,"['Chan Peng Soon [7]', 'Liu Ying Goh', 'Yantoni Edy Saputra', 'Marsheilla Gischa Islami']","['[MAS] ', '[MAS] ', '[INA] ', '[INA] ']","['21-3', '21-10']",XD ,20180508
+154,"['Chan Peng Soon [7]', 'Liu Ying Goh', 'Wang Zekang [8]', 'Li Yinhui']","['[MAS] ', '[MAS] ', '[CHN] ', '[CHN] ']","['21-16', '25-23']",XD ,20180508
+155,"['Cai Yanyan', 'Cheung Ngan Yi [3]']","['[CHN] ', '[HKG] ']","['21-19', '21-11']",WS ,20180508
+156,"['Zhou Zeqi', 'Lee Cheuk Yiu [7]']","['[CHN] ', '[HKG] ']","['21-14', '21-15']",MS ,20180508
+157,"['Berry Angriawan [1]', 'Hardianto Hardianto', 'Manu Attri [3]', 'Reddy B. Sumeeth']","['[INA] ', '[INA] ', '[IND] ', '[IND] ']","['21-17', '21-15']",MD ,20180508
+158,"['Ayako Sakuramoto [2]', 'Yukiko Takahata', 'Chae Yujung', 'Hye Jeong Kim']","['[JPN] ', '[JPN] ', '[KOR] ', '[KOR] ']","['21-18', '21-16']",WD ,20180508
+159,"['Wahyu Nayaka Arya Pangkaryanira [2]', 'Ade Yusuf Santoso', 'Keiichiro Matsui', 'Yoshinori Takeuchi']","['[INA] ', '[INA] ', '[JPN] ', '[JPN] ']","['21-17', '21-11']",MD ,20180508
+160,"['Seung Jae Seo [5]', 'Chae Yujung', 'Choi Solgyu [5]', 'Kim Ha Na']","['[KOR] ', '[KOR] ', '[KOR] ', '[KOR] ']","['21-16', '21-12']",XD ,20180508
+161,"['Lu Guangzu', 'Zhao Junpeng']","['[CHN] ', '[CHN] ']","['12-21', '21-19', '21-15']",MS ,20180508
+162,"['Ayumi Mine', 'Minatsu Mitani [4]']","['[JPN] ', '[JPN] ']","['21-17', '21-17']",WS ,20180508
+163,"['Ha Na Baek [4]', 'Yu Rim Lee', 'Misato Aratama [1]', 'Akane Watanabe']","['[KOR] ', '[KOR] ', '[JPN] ', '[JPN] ']","['21-16', '21-17']",WD ,20180508
+164,"['Cai Yanyan', 'Ayumi Mine']","['[CHN] ', '[JPN] ']","['21-14', '21-13']",WS ,20180508
+165,"['Lu Guangzu', 'Zhou Zeqi']","['[CHN] ', '[CHN] ']","['21-8', '23-21']",MS ,20180508
+166,"['Ayako Sakuramoto [2]', 'Yukiko Takahata', 'Ha Na Baek [4]', 'Yu Rim Lee']","['[JPN] ', '[JPN] ', '[KOR] ', '[KOR] ']","['23-21', '21-18']",WD ,20180508
+167,"['Berry Angriawan [1]', 'Hardianto Hardianto', 'Wahyu Nayaka Arya Pangkaryanira [2]', 'Ade Yusuf Santoso']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-9', '9-21', '21-15']",MD ,20180508
+168,"['Seung Jae Seo [5]', 'Chae Yujung', 'Chan Peng Soon [7]', 'Liu Ying Goh']","['[KOR] ', '[KOR] ', '[MAS] ', '[MAS] ']","['21-12', '23-21']",XD ,20180508

@@ -1,0 +1,124 @@
+,PLAYERS,COUNTRIES,SCORES,EVENT,match_week
+0,"['Xiao Xiang', 'Yu Xueying', 'Mei Lehan', 'Guo Xuyi']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['7-11', '11-9', '6-11', '11-5', '11-4']",XD ,20170110
+1,"['Li Yisheng', 'Shen Lingjie', 'Chen Boyang', 'Liu Yating']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['13-12', '8-11', '11-6', '11-3']",XD ,20170110
+2,"['Han Chengkai', 'Du Yue', 'Liu Shiwen', 'Xiaobei Hua']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['11-3', '11-6', '11-6']",XD ,20170110
+3,"['Ou Xuanyi', 'Liu Lin', 'Ye Yuanpeng', 'Yuting Xia']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['11-4', '11-7', '11-3']",XD ,20170110
+4,"['Guangzu Lu', 'Ye Binghong']","['[CHN] ', '[CHN] ']","['11-3', '13-12', '5-11', '11-6']",MS ,20170110
+5,"['Sun Feixiang', 'Ren Pengbo']","['[CHN] ', '[CHN] ']","['11-9', '11-9', '11-9']",MS ,20170110
+6,"['Wangcharoen Kantaphon', 'Yupeng Bai']","['[THA] ', '[CHN] ']","['11-13', '13-11', '11-6', '11-5']",MS ,20170110
+7,"['Haichao Liu', 'Qin Zheng']","['[CHN] ', '[CHI] ']","['13-10', '13-11', '11-9']",MS ,20170110
+8,"['Shijun Qiao', 'Zhang Shuxian']","['[CHN] ', '[CHN] ']","['8-11', '11-9', '11-9', '13-11']",WS ,20170110
+9,"['Wu Xin', 'Xin Anqi', 'Qu Junbo', 'Li Yisheng']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['11-3', '8-11', '8-11', '13-11', '13-11']",MD ,20170110
+10,"['Liu Shiwen', 'Shang Yichen', 'Haichao Liu', 'Hongyang Weng']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['11-6', '11-9', '11-9']",MD ,20170110
+11,"['Gao Zhengze', 'Gu Junfeng', 'Chen Boyang', 'Ruohan Guo']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['11-4', '11-6', '11-6']",MD ,20170110
+12,"['Xuanxuan Liu', 'Yuting Xia', 'Qian Gouhong', 'Xu Xiaoya']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['11-3', '11-3', '11-5']",WD ,20170110
+13,"['Zhou Zhe', 'Chen Lu', 'Hu Chaowei', 'Ye Sixu']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['11-5', '11-8', '11-6']",XD ,20170110
+14,"['Wu Yifei', 'Rouhao Lv', 'Wang Haoyin', 'Qian Gouhong']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['11-5', '13-11', '11-5']",XD ,20170110
+15,"['Zijian Di', 'Liu Huijie', 'Zhu Junhao', 'Wang Zhiyi']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['11-9', '13-11', '8-11', '13-11']",XD ,20170110
+16,"['Yu Xiaoyu', 'Zhou Chaomin', 'Zhu Haiyuan', 'Xuanxuan Liu']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['11-5', '7-11', '11-8', '11-5']",XD ,20170110
+17,"['Wu Xin', 'Kantawat Leelavechabutr']","['[CHN] ', '[THA] ']","['5-11', '11-9', '11-6', '11-4']",MS ,20170110
+18,"['Hongyang Weng', 'Kee Liang Lau']","['[CHN] ', '[MAS] ']","['11-5', '11-3', '11-4']",MS ,20170110
+19,"['Hashiru Shimono [4]', 'Guo Xinwa']","['[JPN] ', '[CHN] ']","['11-5', '11-5', '9-11', '11-8']",MS ,20170110
+20,"['Zhao Junpeng [2]', 'Junchen An']","['[CHN] ', '[CHN] ']","['11-7', '11-8', '13-12']",MS ,20170110
+21,"['Cai Yanyan', 'Shen Yaying']","['[CHN] ', '[CHN] ']","['11-5', '13-11', '11-6']",WS ,20170110
+22,"['Yu Xiaoyu', 'Zhou Zhe', 'Wannawat Ampunsuwan', 'Inkarat Apisuk']","['[CHN] ', '[CHN] ', '[THA] ', '[THA] ']","['7-11', '13-11', '11-7', '13-12']",MD ,20170110
+23,"['Junchen An', 'Xin Tang', 'Wang Haoyin', 'Yu Dengxiang']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['7-11', '13-11', '11-7', '13-10']",MD ,20170110
+24,"['Mei Lehan', 'Ye Yuanpeng', 'Li Mingyang', 'Luo Wangshan']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['11-4', '9-11', '13-11', '7-11', '13-11']",MD ,20170110
+25,"['Shijun Qiao', 'Wei Yaxin', 'Rouhao Lv', 'Zhan Danni']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['11-8', '11-5', '9-11', '11-7']",WD ,20170110
+26,"['Su Xin', 'Chen Yingying', 'Ruohan Guo', 'Zhan Danni']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['11-6', '11-9', '11-8']",XD ,20170110
+27,"['Chen Sihang', 'Wei Yaxin', 'Binrong Zhang', 'Lan Feifei']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['13-10', '8-11', '11-4', '11-7']",XD ,20170110
+28,"['Isriyanet Tinn [3]', 'Chochuwong Pacharapun', 'Xie Haonan', 'Shijun Qiao']","['[THA] ', '[THA] ', '[CHN] ', '[CHN] ']","['11-6', '11-8', '11-7']",XD ,20170110
+29,"['Takashina Tomoya [2]', 'Etoh Rie', 'Luo Wangshan', 'Tan Yue']","['[JPN] ', '[JPN] ', '[CHN] ', '[CHN] ']","['13-11', '11-5', '11-6']",XD ,20170110
+30,"['Gu Junfeng', 'Jacob Maliekal [3]']","['[CHN] ', '[RSA] ']",['6-3'],MS ,20170110
+31,"['Zhu Siyuan', 'Nicholas Bonkowsky']","['[CHN] ', '[TTO] ']","['11-4', '11-2', '11-5']",MS ,20170110
+32,"['Xin Tang', 'Eddrall Atek']","['[CHN] ', '[MAS] ']","['6-11', '11-4', '11-6', '11-3']",MS ,20170110
+33,"['Onodera Yusuke', 'Xin Anqi']","['[JPN] ', '[CHN] ']","['11-4', '11-9', '7-11', '11-8']",MS ,20170110
+34,"['Ji Shuting', 'Thu Huyen Le']","['[CHN] ', '[VIE] ']","['11-5', '11-7', '11-6']",WS ,20170110
+35,"['Zhou Meng', 'Sayaka Takahashi']","['[CHN] ', '[JPN] ']","['11-7', '6-11', '8-11', '13-11', '13-12']",WS ,20170110
+36,"['Hu Chaowei', 'Wu Yifei', 'Keng Chen', 'Xiao Xiang']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['7-11', '11-9', '13-10', '10-13', '11-8']",MD ,20170110
+37,"['Chen Sihang', 'Yinzhi Tang', 'Yupeng Bai', 'Guo Xinwa']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['13-11', '11-4', '7-11', '11-7']",MD ,20170110
+38,"['Mohd Razif Abdul Latif', 'Muhammad Hafiz Hashim', 'Wan Zihao', 'Zhu Junhao']","['[MAS] ', '[MAS] ', '[CHN] ', '[CHN] ']","['11-5', '11-3', '11-5']",MD ,20170110
+39,"['Lan Feifei', 'Tan Yue', 'Chen Yingying', 'Xiaobei Hua']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['13-10', '13-10', '11-6']",WD ,20170110
+40,"['Tan Qiang [4]', 'Xu Ya', 'Yinzhi Tang', 'Yan Chenxue']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['12-13', '13-10', '11-5', '11-2']",XD ,20170110
+41,"['Xin Anqi', 'Ji Shuting', 'Shang Yichen', 'Shunqi Zhou']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['13-12', '11-9', '9-11', '13-12']",XD ,20170110
+42,"['Binbin Zheng', 'Zhang Shuxian', 'Keng Chen', 'Yang Xiaoyu']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['11-6', '11-9', '6-11', '9-11', '13-11']",XD ,20170110
+43,"['Guo Kai', 'Gao Zhengze']","['[CHN] ', '[CHN] ']","['11-13', '11-1', '11-7', '5-11', '13-10']",MS ,20170110
+44,"['Chen Haoyang', 'Korakrit Laotrakul']","['[CHN] ', '[THA] ']","['11-4', '11-9', '11-9']",MS ,20170110
+45,"['Wang Zhiyi', 'Chen Chen']","['[CHN] ', '[CHN] ']","['11-8', '11-4', '11-6']",WS ,20170110
+46,"['Zijian Di', 'Binbin Zheng', 'Di Huang', 'Liang Yongwang']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['13-12', '11-7', '11-8']",MD ,20170110
+47,"['Su Xin', 'Binrong Zhang', 'Xie Haonan', 'Zhu Haiyuan']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['11-9', '11-8', '7-11', '4-11', '11-8']",MD ,20170110
+48,"['Guo Xuyi', 'Liu Huijie', 'Chen Xiaoxin', 'Shen Yaying']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['8-11', '11-7', '11-9', '13-11']",WD ,20170110
+49,"['Yu Xueying', 'Zhang Shuxian', 'Han Yue', 'Zhang Yiman']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['11-7', '11-9', '11-5']",WD ,20170110
+50,"['Cai Yanyan', 'Gao Fangjie', 'Lv Yanfei', 'Zhou Meng']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['11-7', '11-6', '11-5']",WD ,20170110
+51,"['Do Tuan Duc [1]', 'Pham Nhu Thao', 'Xiao Xiang', 'Yu Xueying']","['[VIE] ', '[VIE] ', '[CHN] ', '[CHN] ']","['11-7', '9-11', '11-7', '11-9']",XD ,20170110
+52,"['Isriyanet Tinn [3]', 'Chochuwong Pacharapun', 'Zijian Di', 'Liu Huijie']","['[THA] ', '[THA] ', '[CHN] ', '[CHN] ']","['11-8', '8-11', '9-11', '11-6', '13-11']",XD ,20170110
+53,"['Guo Kai', 'Kanta Tsuneyama [1]']","['[CHN] ', '[JPN] ']","['13-12', '13-12', '11-4']",MS ,20170110
+54,"['Mine Ayumi [1]', 'Lv Yanfei']","['[JPN] ', '[CHN] ']","['7-11', '11-8', '13-10', '11-5']",WS ,20170110
+55,"['Onodera Yusuke', 'Chen Haoyang']","['[JPN] ', '[CHN] ']","['11-5', '13-11', '11-6']",MS ,20170110
+56,"['Peng Qin', 'Shijun Qiao']","['[CHN] ', '[CHN] ']","['11-8', '8-11', '4-11', '11-8', '11-6']",WS ,20170110
+57,"['Han Chengkai', 'Tan Qiang', 'Wu Xin', 'Xin Anqi']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['11-7', '11-3', '11-7']",MD ,20170110
+58,"['Yu Xueying', 'Zhang Shuxian', 'Yani Liu', 'Yang Xiaoyu']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['11-2', '11-13', '11-8', '8-11', '11-9']",WD ,20170110
+59,"['Han Chengkai', 'Du Yue', 'Xin Anqi', 'Ji Shuting']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['11-3', '11-3', '11-9']",XD ,20170110
+60,"['Wu Xin', 'Guangzu Lu']","['[CHN] ', '[CHN] ']","['11-9', '12-13', '11-8', '11-9']",MS ,20170110
+61,"['Wangcharoen Kantaphon', 'Hashiru Shimono [4]']","['[THA] ', '[JPN] ']","['11-8', '11-7', '7-11', '11-6']",MS ,20170110
+62,"['Zhang Yiman', 'Ji Shuting']","['[CHN] ', '[CHN] ']","['5-11', '13-10', '11-8', '11-13', '11-7']",WS ,20170110
+63,"['Cai Yanyan', 'Yukino Nakai [4]']","['[CHN] ', '[JPN] ']","['11-6', '8-11', '11-3', '4-11', '11-5']",WS ,20170110
+64,"['Isriyanet Tinn [4]', 'Namdash Kittisak', 'Hu Chaowei', 'Wu Yifei']","['[THA] ', '[THA] ', '[CHN] ', '[CHN] ']","['11-3', '11-9', '11-4']",MD ,20170110
+65,"['Gao Zhengze', 'Gu Junfeng', 'Mei Lehan', 'Ye Yuanpeng']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['3-11', '7-11', '11-9', '11-9', '11-9']",MD ,20170110
+66,"['Maeda Miyuki [4]', 'Ono Nao', 'Xuanxuan Liu', 'Yuting Xia']","['[JPN] ', '[JPN] ', '[CHN] ', '[CHN] ']","['11-6', '11-8', '11-8']",WD ,20170110
+67,"['Li Wenmei', 'Peng Qin', 'Cai Yanyan', 'Gao Fangjie']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['5-11', '6-11', '13-11', '11-5', '13-10']",WD ,20170110
+68,"['Tan Qiang [4]', 'Xu Ya', 'Li Yisheng', 'Shen Lingjie']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['11-5', '11-5', '11-3']",XD ,20170110
+69,"['Ou Xuanyi', 'Liu Lin', 'Binbin Zheng', 'Zhang Shuxian']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['11-4', '11-5', '11-8']",XD ,20170110
+70,"['Gu Junfeng', 'Xin Tang']","['[CHN] ', '[CHN] ']","['11-6', '11-7', '9-11', '11-9']",MS ,20170110
+71,"['Zhu Siyuan', 'Hongyang Weng']","['[CHN] ', '[CHN] ']","['11-4', '8-11', '13-11', '11-2']",MS ,20170110
+72,"['Han Yue', 'Gao Fangjie [3]']","['[CHN] ', '[CHN] ']","['11-8', '11-6', '11-9']",WS ,20170110
+73,"['Zhou Meng', 'Wei Yaxin']","['[CHN] ', '[CHN] ']","['13-10', '13-12', '11-9']",WS ,20170110
+74,"['Liu Shiwen', 'Shang Yichen', 'Junchen An', 'Xin Tang']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['7-11', '11-9', '11-8', '11-6']",MD ,20170110
+75,"['Potieng Trawut [2]', 'Yordphaisong Nanthakarn', 'Mohd Razif Abdul Latif', 'Muhammad Hafiz Hashim']","['[THA] ', '[THA] ', '[MAS] ', '[MAS] ']","['11-8', '11-7', '11-7']",MD ,20170110
+76,"['Du Yue [2]', 'Xu Ya', 'Liu Yating', 'Ye Sixu']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['11-1', '11-4', '11-4']",WD ,20170110
+77,"['Chen Lu', 'Zhou Chaomin', 'Shijun Qiao', 'Wei Yaxin']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['13-11', '11-6', '11-8']",WD ,20170110
+78,"['Matsuyama Nami [3]', 'Shida Chiharu', 'Guo Xuyi', 'Liu Huijie']","['[JPN] ', '[JPN] ', '[CHN] ', '[CHN] ']","['11-0', '11-5', '11-4']",WD ,20170110
+79,"['Chen Sihang', 'Wei Yaxin', 'Wu Yifei', 'Rouhao Lv']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['11-7', '11-4', '11-7']",XD ,20170110
+80,"['Takashina Tomoya [2]', 'Etoh Rie', 'Yu Xiaoyu', 'Zhou Chaomin']","['[JPN] ', '[JPN] ', '[CHN] ', '[CHN] ']","['11-8', '11-13', '11-9', '11-6']",XD ,20170110
+81,"['Sun Feixiang', 'Andre Marteen']","['[CHN] ', '[INA] ']","['11-6', '12-13', '11-4', '11-6']",MS ,20170110
+82,"['Zhao Junpeng [2]', 'Haichao Liu']","['[CHN] ', '[CHN] ']","['11-4', '11-8', '11-8']",MS ,20170110
+83,"['Wang Zhiyi', 'Li Wenmei']","['[CHN] ', '[CHN] ']","['11-4', '11-13', '11-9', '11-9']",WS ,20170110
+84,"['Ahsan Mohammad [1]', 'Saputro Rian Agung', 'Zijian Di', 'Binbin Zheng']","['[INA] ', '[INA] ', '[CHN] ', '[CHN] ']","['12-13', '11-4', '11-6', '11-8']",MD ,20170110
+85,"['Yu Xiaoyu', 'Zhou Zhe', 'Chen Sihang', 'Yinzhi Tang']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['11-8', '5-11', '11-7', '13-12']",MD ,20170110
+86,"['Chen Chen', 'Wang Zhiyi', 'Thu Huyen Le [1]', 'Pham Nhu Thao']","['[CHN] ', '[CHN] ', '[VIE] ', '[VIE] ']","['11-7', '8-11', '11-8', '11-7']",WD ,20170110
+87,"['Lan Feifei', 'Tan Yue', 'Yan Chenxue', 'Shunqi Zhou']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['5-11', '11-7', '11-9', '11-8']",WD ,20170110
+88,"['Zhou Zhe', 'Chen Lu', 'Do Tuan Duc [1]', 'Pham Nhu Thao']","['[CHN] ', '[CHN] ', '[VIE] ', '[VIE] ']","['11-5', '11-7', '11-4']",XD ,20170110
+89,"['Wang Zhiyi', 'Han Yue']","['[CHN] ', '[CHN] ']","['11-5', '7-11', '13-10', '11-5']",WS ,20170110
+90,"['Mine Ayumi [1]', 'Zhang Yiman']","['[JPN] ', '[CHN] ']","['11-9', '11-8', '11-6']",WS ,20170110
+91,"['Yu Xiaoyu', 'Zhou Zhe', 'Li Jinqiu [3]', 'Liu Zerun']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['12-13', '11-9', '11-9', '9-11', '11-6']",MD ,20170110
+92,"['Chen Chen', 'Wang Zhiyi', 'Yu Xueying', 'Zhang Shuxian']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['9-11', '11-9', '11-7', '11-8']",WD ,20170110
+93,"['Tan Qiang [4]', 'Xu Ya', 'Chen Sihang', 'Wei Yaxin']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['11-9', '11-9', '11-9']",XD ,20170110
+94,"['Ahsan Mohammad [1]', 'Saputro Rian Agung', 'Liu Shiwen', 'Shang Yichen']","['[INA] ', '[INA] ', '[CHN] ', '[CHN] ']","['9-11', '11-5', '11-6', '11-4']",MD ,20170110
+95,"['Zhu Siyuan', 'Wangcharoen Kantaphon']","['[CHN] ', '[THA] ']","['11-8', '11-8', '3-11', '13-10']",MS ,20170110
+96,"['Chen Lu', 'Zhou Chaomin', 'Maeda Miyuki [4]', 'Ono Nao']","['[CHN] ', '[CHN] ', '[JPN] ', '[JPN] ']","['11-7', '11-9', '5-11', '13-11']",WD ,20170110
+97,"['Han Chengkai', 'Tan Qiang', 'Isriyanet Tinn [4]', 'Namdash Kittisak']","['[CHN] ', '[CHN] ', '[THA] ', '[THA] ']","['11-8', '9-11', '3-11', '11-7', '11-6']",MD ,20170110
+98,"['Han Chengkai', 'Du Yue', 'Isriyanet Tinn [3]', 'Chochuwong Pacharapun']","['[CHN] ', '[CHN] ', '[THA] ', '[THA] ']","['11-7', '11-1', '13-10']",XD ,20170110
+99,"['Sun Feixiang', 'Gu Junfeng']","['[CHN] ', '[CHN] ']","['5-11', '11-6', '11-3', '11-7']",MS ,20170110
+100,"['Takashina Tomoya [2]', 'Etoh Rie', 'Ou Xuanyi', 'Liu Lin']","['[JPN] ', '[JPN] ', '[CHN] ', '[CHN] ']","['11-5', '11-8', '11-7']",XD ,20170110
+101,"['Wu Xin', 'Guo Kai']","['[CHN] ', '[CHN] ']","['11-1', '11-3', '13-11']",MS ,20170110
+102,"['Potieng Trawut [2]', 'Yordphaisong Nanthakarn', 'Gao Zhengze', 'Gu Junfeng']","['[THA] ', '[THA] ', '[CHN] ', '[CHN] ']","['11-6', '11-8', '11-2']",MD ,20170110
+103,"['Cai Yanyan', 'Peng Qin']","['[CHN] ', '[CHN] ']","['3-11', '11-3', '11-6', '11-5']",WS ,20170110
+104,"['Chen Xiaoxin [2]', 'Zhou Meng']","['[CHN] ', '[CHN] ']","['13-10', '13-12', '11-9']",WS ,20170110
+105,"['Zhao Junpeng [2]', 'Onodera Yusuke']","['[CHN] ', '[JPN] ']","['11-5', '13-12', '11-3']",MS ,20170110
+106,"['Matsuyama Nami [3]', 'Shida Chiharu', 'Lan Feifei', 'Tan Yue']","['[JPN] ', '[JPN] ', '[CHN] ', '[CHN] ']","['11-9', '11-6', '11-5']",WD ,20170110
+107,"['Du Yue [2]', 'Xu Ya', 'Li Wenmei', 'Peng Qin']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['9-11', '11-3', '11-7', '11-7']",WD ,20170110
+108,"['Du Yue [2]', 'Xu Ya', 'Matsuyama Nami [3]', 'Shida Chiharu']","['[CHN] ', '[CHN] ', '[JPN] ', '[JPN] ']","['11-8', '11-7', '11-5']",WD ,20170110
+109,"['Ahsan Mohammad [1]', 'Saputro Rian Agung', 'Han Chengkai', 'Tan Qiang']","['[INA] ', '[INA] ', '[CHN] ', '[CHN] ']","['11-9', '11-9', '11-13', '11-13', '11-3']",MD ,20170110
+110,"['Sun Feixiang', 'Wu Xin']","['[CHN] ', '[CHN] ']","['11-7', '11-6', '11-7']",MS ,20170110
+111,"['Cai Yanyan', 'Chen Xiaoxin [2]']","['[CHN] ', '[CHN] ']","['11-6', '9-11', '3-11', '11-4', '11-6']",WS ,20170110
+112,"['Tan Qiang [4]', 'Xu Ya', 'Zhou Zhe', 'Chen Lu']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['11-13', '11-7', '11-7', '11-4']",XD ,20170110
+113,"['Wang Zhiyi', 'Mine Ayumi [1]']","['[CHN] ', '[JPN] ']","['13-12', '11-5', '11-4']",WS ,20170110
+114,"['Zhao Junpeng [2]', 'Zhu Siyuan']","['[CHN] ', '[CHN] ']","['11-7', '6-11', '11-7', '6-11', '11-5']",MS ,20170110
+115,"['Takashina Tomoya [2]', 'Etoh Rie', 'Han Chengkai', 'Du Yue']","['[JPN] ', '[JPN] ', '[CHN] ', '[CHN] ']","['11-8', '13-10', '5-11', '9-11', '11-1']",XD ,20170110
+116,"['Potieng Trawut [2]', 'Yordphaisong Nanthakarn', 'Yu Xiaoyu', 'Zhou Zhe']","['[THA] ', '[THA] ', '[CHN] ', '[CHN] ']","['8-11', '13-11', '11-9', '12-13', '11-7']",MD ,20170110
+117,"['Chen Lu', 'Zhou Chaomin', 'Chen Chen', 'Wang Zhiyi']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['11-9', '11-2', '11-9']",WD ,20170110
+118,"['Takashina Tomoya [2]', 'Etoh Rie', 'Tan Qiang [4]', 'Xu Ya']","['[JPN] ', '[JPN] ', '[CHN] ', '[CHN] ']","['11-7', '11-5', '13-11']",XD ,20170110
+119,"['Sun Feixiang', 'Zhao Junpeng [2]']","['[CHN] ', '[CHN] ']","['11-9', '11-7', '13-11']",MS ,20170110
+120,"['Cai Yanyan', 'Wang Zhiyi']","['[CHN] ', '[CHN] ']","['11-9', '10-13', '11-9', '11-7']",WS ,20170110
+121,"['Ahsan Mohammad [1]', 'Saputro Rian Agung', 'Potieng Trawut [2]', 'Yordphaisong Nanthakarn']","['[INA] ', '[INA] ', '[THA] ', '[THA] ']","['8-11', '11-7', '11-4', '11-7']",MD ,20170110
+122,"['Du Yue [2]', 'Xu Ya', 'Chen Lu', 'Zhou Chaomin']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['9-11', '11-8', '9-11', '11-8', '11-5']",WD ,20170110

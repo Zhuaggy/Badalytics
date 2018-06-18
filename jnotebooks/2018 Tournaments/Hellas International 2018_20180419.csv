@@ -1,0 +1,137 @@
+,PLAYERS,COUNTRIES,SCORES,EVENT,match_week
+0,"['Alexander Cook', 'Mikk Järveoja']","['[ENG] ', '[EST] ']","['21-13', '16-21', '21-18']",MS - Qualification ,20180419
+1,"['Adam Lam', 'Ivan Panev [16]']","['[ENG] ', '[BUL] ']","['21-13', '21-13']",MS - Qualification ,20180419
+2,"['Juno Thomas [14]', 'Mihail Rami Panagiotou']","['[LUX] ', '[GRE] ']","['21-14', '21-18']",MS - Qualification ,20180419
+3,"['Kaj Sjang Lü', 'Henry Prothero']","['[DEN] ', '[ENG] ']","['21-9', '21-13']",MS - Qualification ,20180419
+4,"['Julien Carraggi', 'Christakis Temereas']","['[BEL] ', '[CYP] ']","['21-18', '21-10']",MS - Qualification ,20180419
+5,"['Rowan Scheurkogel [2]', 'Saruul Shafiq']","['[BEL] ', '[GER] ']","['21-15', '21-15']",MS - Qualification ,20180419
+6,"['Johnnie Torjussen [5]', 'Jonathan Dolan']","['[ENG] ', '[IRL] ']","['13-21', '21-17', '21-16']",MS - Qualification ,20180419
+7,"['Mark Sames', 'Adrian Theodoros Demetriades']","['[LTU] ', '[SWE] ']","['21-15', '21-14']",MS - Qualification ,20180419
+8,"['Ivan Rusev [1]', 'Blagovest Kisyov']","['[BUL] ', '[BUL] ']","['21-9', '17-21', '21-14']",MS,20180419
+9,"['Alex Lane', 'Vegard Rikheim']","['[ENG] ', '[NOR] ']","['21-17', '21-17']",MS,20180419
+10,"['Luke Pearce', 'Jaromir Janacek [6]']","['[ENG] ', '[CZE] ']","['17-21', '21-19', '21-19']",MS,20180419
+11,"['Peyo Boichinov', 'Mateusz Danielak']","['[BUL] ', '[POL] ']","['19-21', '21-17', '21-17']",MS,20180419
+12,"['Toma Junior Popov [4]', 'Dimitar Yanakiev']","['[FRA] ', '[BUL] ']","['21-13', '19-21', '21-4']",MS,20180419
+13,"['Joel Douse', 'Elias Nicolaou']","['[ENG] ', '[CYP] ']","['21-18', '21-13']",MS,20180419
+14,"['Elias Bracke', 'Harshit Aggarwal [5]']","['[BEL] ', '[IND] ']",[],MS,20180419
+15,"['Enis Sesalan', 'Mihkel Laanes']","['[TUR] ', '[EST] ']","['21-14', '21-16']",MS,20180419
+16,"['Leon Seiwald', 'Adam Lam']","['[AUT] ', '[ENG] ']","['21-9', '24-22']",MS,20180419
+17,"['Filip Spoljarec', 'Giovanni Greco [8]']","['[CRO] ', '[ITA] ']","['23-21', '18-21', '21-11']",MS,20180419
+18,"['David Jones', 'Luka Milic']","['[ENG] ', '[SRB] ']","['21-13', '22-20']",MS,20180419
+19,"['Ondřej Král', 'Robert Mann [3]']","['[CZE] ', '[LUX] ']","['21-15', '21-12']",MS,20180419
+20,"['Filip Budzel', 'Johnnie Torjussen']","['[CZE] ', '[ENG] ']","['20-22', '21-13', '21-15']",MS,20180419
+21,"['Daniel Nikolov [7]', 'Ilias Xanthou']","['[BUL] ', '[GRE] ']","['21-12', '21-13']",MS,20180419
+22,"['Mads Thøgersen', 'Collins Valentine Filimon']","['[DEN] ', '[ROU] ']","['21-16', '22-20']",MS,20180419
+23,"['Iikka Heino [2]', 'Lukas Zevl']","['[FIN] ', '[CZE] ']","['21-12', '18-21', '21-18']",MS,20180419
+24,"['Mariya Mitsova [1]', 'Theodora Lambrianidou']","['[BUL] ', '[GRE] ']","['21-2', '21-6']",WS,20180419
+25,"['Chloe Mayer', 'Lilit Poghosyan']","['[NED] ', '[ARM] ']","['21-13', '21-18']",WS,20180419
+26,"['Sonia Ratiu', 'Halla Bouksani [6]']","['[ROU] ', '[ALG] ']","['21-9', '21-13']",WS,20180419
+27,"['Cemre Fere', 'Vlada Gynga']","['[TUR] ', '[MDA] ']","['21-16', '21-14']",WS,20180419
+28,"['Ksenia Evgenova [4]', 'Eleni Moutevelidou']","['[RUS] ', '[GRE] ']","['21-14', '21-14']",WS,20180419
+29,"['Abigail Holden', 'Amy Tan']","['[ENG] ', '[NED] ']","['21-11', '21-12']",WS,20180419
+30,"['Anastasiia Semenova [8]', 'Ruhi Raju']","['[RUS] ', '[USA] ']","['21-14', '21-18']",WS,20180419
+31,"['Gerda Voitechovskaja', 'Maria Alexandra Dutu']","['[LTU] ', '[ROU] ']","['21-17', '21-15']",WS,20180419
+32,"['Joke De Langhe', 'Krestina Silich']","['[BEL] ', '[BLR] ']","['21-14', '17-21', '24-22']",WS,20180419
+33,"['Porntip Buranaprasertsuk', 'Elizaveta Pyatina [7]']","['[THA] ', '[RUS] ']","['21-15', '21-10']",WS,20180419
+34,"['Vytaute Fomkinaite', 'Eleni Christodoulou']","['[LTU] ', '[CYP] ']","['21-13', '22-24', '21-15']",WS,20180419
+35,"['Ronja Stern [3]', 'Andra Olariu']","['[SUI] ', '[ROU] ']","['21-18', '21-13']",WS,20180419
+36,"['Hristomira Popovska', 'Ines Ziani']","['[BUL] ', '[ALG] ']","['21-3', '21-8']",WS,20180419
+37,"['Ioana Grecea', 'Anastasia Zintsidou']","['[ROU] ', '[CYP] ']","['20-22', '26-24', '21-13']",WS,20180419
+38,"['Ekaterina Kut', 'Hanna Karkaus']","['[RUS] ', '[FIN] ']","['20-22', '21-11', '21-18']",WS,20180419
+39,"['Katarina Galenic', 'Grammatoula Sotiriou']","['[CRO] ', '[GRE] ']","['21-16', '19-21', '21-13']",WS,20180419
+40,"['Alex Lane', 'Ivan Rusev [1]']","['[ENG] ', '[BUL] ']","['16-21', '21-18', '21-19']",MS,20180419
+41,"['Luke Pearce', 'Peyo Boichinov']","['[ENG] ', '[BUL] ']","['21-18', '16-21', '21-18']",MS,20180419
+42,"['Toma Junior Popov [4]', 'Joel Douse']","['[FRA] ', '[ENG] ']","['21-14', '21-8']",MS,20180419
+43,"['Elias Bracke', 'Enis Sesalan']","['[BEL] ', '[TUR] ']","['21-18', '21-11']",MS,20180419
+44,"['Leon Seiwald', 'Filip Spoljarec']","['[AUT] ', '[CRO] ']","['21-19', '21-10']",MS,20180419
+45,"['Ondřej Král', 'David Jones']","['[CZE] ', '[ENG] ']","['6-21', '21-10', '21-7']",MS,20180419
+46,"['Daniel Nikolov [7]', 'Filip Budzel']","['[BUL] ', '[CZE] ']","['21-16', '21-14']",MS,20180419
+47,"['Iikka Heino [2]', 'Mads Thøgersen']","['[FIN] ', '[DEN] ']","['21-18', '21-9']",MS,20180419
+48,"['Mariya Mitsova [1]', 'Chloe Mayer']","['[BUL] ', '[NED] ']","['22-24', '21-12', '21-15']",WS,20180419
+49,"['Cemre Fere', 'Sonia Ratiu']","['[TUR] ', '[ROU] ']","['21-12', '22-20']",WS,20180419
+50,"['Ksenia Evgenova [4]', 'Abigail Holden']","['[RUS] ', '[ENG] ']","['17-21', '21-17', '21-15']",WS,20180419
+51,"['Anastasiia Semenova [8]', 'Gerda Voitechovskaja']","['[RUS] ', '[LTU] ']","['21-14', '21-12']",WS,20180419
+52,"['Porntip Buranaprasertsuk', 'Joke De Langhe']","['[THA] ', '[BEL] ']","['21-9', '21-9']",WS,20180419
+53,"['Ronja Stern [3]', 'Vytaute Fomkinaite']","['[SUI] ', '[LTU] ']","['21-12', '21-12']",WS,20180419
+54,"['Hristomira Popovska', 'Ioana Grecea']","['[BUL] ', '[ROU] ']","['14-21', '21-18', '21-8']",WS,20180419
+55,"['Katarina Galenic', 'Ekaterina Kut']","['[CRO] ', '[RUS] ']","['21-16', '21-17']",WS,20180419
+56,"['Alexander Cook', 'Adam Lam', 'Jonas Petkus', 'Mark Sames']","['[ENG] ', '[ENG] ', '[LTU] ', '[LTU] ']","['19-21', '21-18', '21-14']",MD,20180419
+57,"['Konstantinos Mavrakis', 'Georgios Xenidis', 'Christoffer Elbrønd', 'Kaj Sjang Lü']","['[GRE] ', '[GRE] ', '[DEN] ', '[DEN] ']",[],MD,20180419
+58,"['Jonas Eilskov Jessen', 'Frederik Sangtong', 'Daniel Gholiof', 'Filip Pol']","['[DEN] ', '[DEN] ', '[SWE] ', '[SWE] ']","['19-21', '21-15', '21-12']",MD,20180419
+59,"['George Galvas', 'Panagiotis Skarlatos', 'George Nicolaou', 'Henry Prothero']","['[GRE] ', '[GRE] ', '[CYP] ', '[ENG] ']","['21-12', '21-10']",MD,20180419
+60,"['Joel Douse', 'Michael Roe', 'Rowan Scheurkogel', 'Jona Van Nieuwkerke']","['[ENG] ', '[ENG] ', '[BEL] ', '[BEL] ']","['15-21', '21-14', '21-18']",MD,20180419
+61,"['David Jones', 'Johnnie Torjussen', 'Panagiotis Botelis', 'Athanasios Geranis']","['[ENG] ', '[ENG] ', '[GRE] ', '[GRE] ']","['21-13', '21-10']",MD,20180419
+62,"['Oliver Gram', 'Mads Thøgersen', 'Vassilios Kiomourtzidis', 'Paschalis Melikidis']","['[DEN] ', '[DEN] ', '[GRE] ', '[GRE] ']","['21-18', '21-14']",MD,20180419
+63,"['Alexander Æbeløe Christensen', 'Frederik Æbleøe Christesen', 'Semih Baha Basakin', 'Mert Tunco']","['[DEN] ', '[DEN] ', '[TUR] ', '[TUR] ']","['23-21', '21-13']",MD,20180419
+64,"['Lydia Demetriades', 'Behnaz Pirzamanbein', 'Andra Olariu', 'Sonia Ratiu']","['[SWE] ', '[SWE] ', '[ROU] ', '[ROU] ']","['21-18', '18-21', '21-18']",WD,20180419
+65,"['Abigail Holden', 'Fee Teng Liew', 'Loredana Lungu', 'Luiza Milu']","['[ENG] ', '[ENG] ', '[ROU] ', '[ROU] ']","['21-10', '21-5']",WD,20180419
+66,"['Evie Burbidge', 'Jessica Hopton', 'Kirstin Boonen', 'Joke De Langhe']","['[ENG] ', '[ENG] ', '[BEL] ', '[BEL] ']","['21-16', '24-22']",WD,20180419
+67,"['Eleni Moutevelidou', 'Irini Tenta', 'Maria Despoina Makou', 'Gergana Pavlova']","['[GRE] ', '[GRE] ', '[GRE] ', '[BUL] ']","['21-19', '23-21']",WD,20180419
+68,"['Eleni Christodoulou', 'Anastasia Zintsidou', 'Charissa Kuiper', 'Amy Tan']","['[CYP] ', '[CYP] ', '[NED] ', '[NED] ']","['21-14', '23-25', '21-13']",WD,20180419
+69,"['Daniel Nikolov [1]', 'Ivan Rusev', 'Alexander Cook', 'Adam Lam']","['[BUL] ', '[BUL] ', '[ENG] ', '[ENG] ']","['21-14', '21-11']",MD,20180419
+70,"['Dennis Koppen', 'Wessel Van Der Aar', 'Konstantinos Mavrakis', 'Georgios Xenidis']","['[NED] ', '[NED] ', '[GRE] ', '[GRE] ']","['21-6', '21-3']",MD,20180419
+71,"['Jonas Eilskov Jessen', 'Frederik Sangtong', 'Andrija Doder [4]', 'Luka Milic']","['[DEN] ', '[DEN] ', '[SRB] ', '[SRB] ']","['21-16', '14-21', '21-14']",MD,20180419
+72,"['George Galvas', 'Panagiotis Skarlatos', 'Mattias Sonderskov', 'Juno Thomas']","['[GRE] ', '[GRE] ', '[LUX] ', '[LUX] ']","['21-14', '21-13']",MD,20180419
+73,"['Joel Douse', 'Michael Roe', 'Gijs Duijs', 'Brian Wassink']","['[ENG] ', '[ENG] ', '[NED] ', '[NED] ']","['21-12', '21-13']",MD,20180419
+74,"['David Jones', 'Johnnie Torjussen', 'Mikk Järveoja [3]', 'Mihkel Laanes']","['[ENG] ', '[ENG] ', '[EST] ', '[EST] ']","['21-15', '21-14']",MD,20180419
+75,"['Oliver Gram', 'Mads Thøgersen', 'Mark Brady', 'Sam Mckay']","['[DEN] ', '[DEN] ', '[IRL] ', '[IRL] ']","['21-14', '21-15']",MD,20180419
+76,"['Peyo Boichinov [2]', 'Ivan Panev', 'Alexander Æbeløe Christensen', 'Frederik Æbleøe Christesen']","['[BUL] ', '[BUL] ', '[DEN] ', '[DEN] ']","['21-16', '21-8']",MD,20180419
+77,"['Collins Valentine Filimon', 'Maria Alexandra Dutu', 'Brian Wassink', 'Charissa Kuiper']","['[ROU] ', '[ROU] ', '[NED] ', '[NED] ']","['21-15', '21-19']",XD,20180419
+78,"['Callum Hemming', 'Fee Teng Liew', 'Finn Achthoven', 'Milou Lugters']","['[ENG] ', '[ENG] ', '[NED] ', '[NED] ']","['21-15', '21-4']",XD,20180419
+79,"['Elias Nicolaou', 'Toni Woods', 'Christakis Temereas', 'Maria Avraamidou']","['[CYP] ', '[SCO] ', '[CYP] ', '[CYP] ']","['21-14', '21-17']",XD,20180419
+80,"['Oliver Gram', 'Amalie A. Frihagen', 'Mark Sames', 'Vytaute Fomkinaite']","['[DEN] ', '[DEN] ', '[LTU] ', '[LTU] ']","['21-15', '14-21', '21-13']",XD,20180419
+81,"['Adrian Theodoros Demetriades', 'Lydia Demetriades', 'Stamatis Tsigirdakis', 'Eleni Moutevelidou']","['[SWE] ', '[SWE] ', '[GRE] ', '[GRE] ']","['15-21', '21-13', '21-14']",XD,20180419
+82,"['Gijs Duijs', 'Madouc Linders', 'Nils Ihse', 'Behnaz Pirzamanbein']","['[NED] ', '[NED] ', '[SWE] ', '[SWE] ']","['21-19', '18-21', '21-18']",XD,20180419
+83,"['Daniel Popescu', 'Loredana Lungu', 'Folke Bosund', 'Ida Roberts']","['[ROU] ', '[ROU] ', '[SWE] ', '[SWE] ']","['21-6', '21-15']",XD,20180419
+84,"['George Galvas', 'Polyvia Tzika', 'Filip Pol', 'Althea Ljungqvist']","['[GRE] ', '[GRE] ', '[SWE] ', '[SWE] ']","['22-20', '20-22', '21-12']",XD,20180419
+85,"['Vytaute Fomkinaite [1]', 'Gerda Voitechovskaja', 'Theodora Lambrianidou', 'Grammatoula Sotiriou']","['[LTU] ', '[LTU] ', '[GRE] ', '[GRE] ']","['16-21', '21-16', '21-16']",WD,20180419
+86,"['Lydia Demetriades', 'Behnaz Pirzamanbein', 'Aristea Apostolidou', 'Ioanna Karapetridou']","['[SWE] ', '[SWE] ', '[GRE] ', '[GRE] ']","['21-6', '21-10']",WD,20180419
+87,"['Milou Lugters', 'Alyssa Tirtosentono', 'Ksenia Evgenova [2]', 'Anastasiia Semenova']","['[NED] ', '[NED] ', '[RUS] ', '[RUS] ']","['22-20', '22-20']",WD,20180419
+88,"['Abigail Holden', 'Fee Teng Liew', 'Ioanna Karetsa', 'Ismini Papathanasiou']","['[ENG] ', '[ENG] ', '[GRE] ', '[GRE] ']","['21-5', '21-10']",WD,20180419
+89,"['Porntip Buranaprasertsuk', 'Krestina Silich', 'Evie Burbidge', 'Jessica Hopton']","['[THA] ', '[BLR] ', '[ENG] ', '[ENG] ']","['21-19', '21-14']",WD,20180419
+90,"['Maria Alexandra Dutu [4]', 'Ioana Grecea', 'Eleni Moutevelidou', 'Irini Tenta']","['[ROU] ', '[ROU] ', '[GRE] ', '[GRE] ']","['21-15', '23-21']",WD,20180419
+91,"['Eleni Christodoulou', 'Anastasia Zintsidou', 'Althea Ljungqvist', 'Ida Roberts']","['[CYP] ', '[CYP] ', '[SWE] ', '[SWE] ']","['21-13', '21-12']",WD,20180419
+92,"['Ekaterina Kut [2]', 'Daria Serebriakova', 'Halla Bouksani', 'Ines Ziani']","['[RUS] ', '[RUS] ', '[ALG] ', '[ALG] ']","['21-15', '21-8']",WD,20180419
+93,"['Michael Roe [1]', 'Jessica Hopton', 'George Galvas', 'Polyvia Tzika']","['[ENG] ', '[ENG] ', '[GRE] ', '[GRE] ']","['22-20', '21-4']",XD,20180419
+94,"['Collins Valentine Filimon', 'Maria Alexandra Dutu', 'Alexander Cook', 'Abigail Holden']","['[ROU] ', '[ROU] ', '[ENG] ', '[ENG] ']","['21-16', '21-11']",XD,20180419
+95,"['Callum Hemming', 'Fee Teng Liew', 'Alexander Morari [4]', 'Vlada Gynga']","['[ENG] ', '[ENG] ', '[MDA] ', '[MDA] ']","['21-5', '21-11']",XD,20180419
+96,"['Dennis Koppen', 'Chloe Mayer', 'Elias Nicolaou', 'Toni Woods']","['[NED] ', '[NED] ', '[CYP] ', '[SCO] ']","['21-17', '21-19']",XD,20180419
+97,"['Oliver Gram', 'Amalie A. Frihagen', 'Paschalis Melikidis', 'Madalina Ilie']","['[DEN] ', '[DEN] ', '[GRE] ', '[ROU] ']","['21-10', '21-14']",XD,20180419
+98,"['Adrian Theodoros Demetriades', 'Lydia Demetriades', 'Petros Tentas [3]', 'Eirini Goygleri']","['[SWE] ', '[SWE] ', '[GRE] ', '[GRE] ']","['21-16', '21-18']",XD,20180419
+99,"['Panagiotis Skarlatos', 'Krestina Silich', 'Gijs Duijs', 'Madouc Linders']","['[GRE] ', '[BLR] ', '[NED] ', '[NED] ']","['21-12', '21-8']",XD,20180419
+100,"['Dimitar Yanakiev [2]', 'Mariya Mitsova', 'Daniel Popescu', 'Loredana Lungu']","['[BUL] ', '[BUL] ', '[ROU] ', '[ROU] ']","['21-9', '21-11']",XD,20180419
+101,"['Michael Roe [1]', 'Jessica Hopton', 'Collins Valentine Filimon', 'Maria Alexandra Dutu']","['[ENG] ', '[ENG] ', '[ROU] ', '[ROU] ']","['21-13', '21-14']",XD,20180419
+102,"['Callum Hemming', 'Fee Teng Liew', 'Dennis Koppen', 'Chloe Mayer']","['[ENG] ', '[ENG] ', '[NED] ', '[NED] ']","['21-16', '21-10']",XD,20180419
+103,"['Oliver Gram', 'Amalie A. Frihagen', 'Adrian Theodoros Demetriades', 'Lydia Demetriades']","['[DEN] ', '[DEN] ', '[SWE] ', '[SWE] ']","['16-21', '21-19', '21-16']",XD,20180419
+104,"['Dimitar Yanakiev [2]', 'Mariya Mitsova', 'Panagiotis Skarlatos', 'Krestina Silich']","['[BUL] ', '[BUL] ', '[GRE] ', '[BLR] ']","['21-15', '21-19']",XD,20180419
+105,"['Iikka Heino [2]', 'Daniel Nikolov [7]']","['[FIN] ', '[BUL] ']","['21-18', '16-21', '21-17']",MS,20180419
+106,"['Toma Junior Popov [4]', 'Elias Bracke']","['[FRA] ', '[BEL] ']","['21-8', '21-12']",MS,20180419
+107,"['Ondřej Král', 'Leon Seiwald']","['[CZE] ', '[AUT] ']","['21-11', '15-21', '23-21']",MS,20180419
+108,"['Luke Pearce', 'Alex Lane']","['[ENG] ', '[ENG] ']",['3-1'],MS,20180419
+109,"['Anastasiia Semenova [8]', 'Ksenia Evgenova [4]']","['[RUS] ', '[RUS] ']","['18-21', '21-13', '21-18']",WS,20180419
+110,"['Porntip Buranaprasertsuk', 'Ronja Stern [3]']","['[THA] ', '[SUI] ']","['21-6', '21-4']",WS,20180419
+111,"['Hristomira Popovska', 'Katarina Galenic']","['[BUL] ', '[CRO] ']","['21-10', '21-14']",WS,20180419
+112,"['Cemre Fere', 'Mariya Mitsova [1]']","['[TUR] ', '[BUL] ']","['23-21', '21-17']",WS,20180419
+113,"['George Galvas', 'Panagiotis Skarlatos', 'Jonas Eilskov Jessen', 'Frederik Sangtong']","['[GRE] ', '[GRE] ', '[DEN] ', '[DEN] ']","['13-21', '21-15', '22-20']",MD,20180419
+114,"['Daniel Nikolov [1]', 'Ivan Rusev', 'Dennis Koppen', 'Wessel Van Der Aar']","['[BUL] ', '[BUL] ', '[NED] ', '[NED] ']","['21-9', '21-14']",MD,20180419
+115,"['David Jones', 'Johnnie Torjussen', 'Joel Douse', 'Michael Roe']","['[ENG] ', '[ENG] ', '[ENG] ', '[ENG] ']","['21-19', '21-19']",MD,20180419
+116,"['Oliver Gram', 'Mads Thøgersen', 'Peyo Boichinov [2]', 'Ivan Panev']","['[DEN] ', '[DEN] ', '[BUL] ', '[BUL] ']","['19-21', '25-23', '21-16']",MD,20180419
+117,"['Vytaute Fomkinaite [1]', 'Gerda Voitechovskaja', 'Lydia Demetriades', 'Behnaz Pirzamanbein']","['[LTU] ', '[LTU] ', '[SWE] ', '[SWE] ']","['21-15', '7-21', '21-13']",WD,20180419
+118,"['Abigail Holden', 'Fee Teng Liew', 'Milou Lugters', 'Alyssa Tirtosentono']","['[ENG] ', '[ENG] ', '[NED] ', '[NED] ']","['21-16', '21-17']",WD,20180419
+119,"['Ekaterina Kut [2]', 'Daria Serebriakova', 'Eleni Christodoulou', 'Anastasia Zintsidou']","['[RUS] ', '[RUS] ', '[CYP] ', '[CYP] ']","['22-20', '21-17']",WD,20180419
+120,"['Porntip Buranaprasertsuk', 'Krestina Silich', 'Maria Alexandra Dutu [4]', 'Ioana Grecea']","['[THA] ', '[BLR] ', '[ROU] ', '[ROU] ']","['21-14', '21-13']",WD,20180419
+121,"['Dimitar Yanakiev [2]', 'Mariya Mitsova', 'Oliver Gram', 'Amalie A. Frihagen']","['[BUL] ', '[BUL] ', '[DEN] ', '[DEN] ']","['21-19', '21-9']",XD,20180419
+122,"['Michael Roe [1]', 'Jessica Hopton', 'Callum Hemming', 'Fee Teng Liew']","['[ENG] ', '[ENG] ', '[ENG] ', '[ENG] ']","['21-12', '21-8']",XD,20180419
+123,"['Toma Junior Popov [4]', 'Luke Pearce']","['[FRA] ', '[ENG] ']","['21-10', '21-16']",MS,20180419
+124,"['Ondřej Král', 'Iikka Heino [2]']","['[CZE] ', '[FIN] ']","['21-18', '15-21', '21-17']",MS,20180419
+125,"['Porntip Buranaprasertsuk', 'Hristomira Popovska']","['[THA] ', '[BUL] ']","['21-4', '21-7']",WS,20180419
+126,"['Cemre Fere', 'Anastasiia Semenova [8]']","['[TUR] ', '[RUS] ']","['21-16', '21-15']",WS,20180419
+127,"['Daniel Nikolov [1]', 'Ivan Rusev', 'George Galvas', 'Panagiotis Skarlatos']","['[BUL] ', '[BUL] ', '[GRE] ', '[GRE] ']","['21-4', '21-19']",MD,20180419
+128,"['David Jones', 'Johnnie Torjussen', 'Oliver Gram', 'Mads Thøgersen']","['[ENG] ', '[ENG] ', '[DEN] ', '[DEN] ']","['21-17', '21-17']",MD,20180419
+129,"['Abigail Holden', 'Fee Teng Liew', 'Vytaute Fomkinaite [1]', 'Gerda Voitechovskaja']","['[ENG] ', '[ENG] ', '[LTU] ', '[LTU] ']","['21-17', '21-13']",WD,20180419
+130,"['Porntip Buranaprasertsuk', 'Krestina Silich', 'Ekaterina Kut [2]', 'Daria Serebriakova']","['[THA] ', '[BLR] ', '[RUS] ', '[RUS] ']","['21-18', '21-18']",WD,20180419
+131,"['Toma Junior Popov [4]', 'Ondřej Král']","['[FRA] ', '[CZE] ']","['21-7', '21-13']",MS ,20180419
+132,"['Porntip Buranaprasertsuk', 'Cemre Fere']","['[THA] ', '[TUR] ']","['21-13', '21-9']",WS ,20180419
+133,"['Dimitar Yanakiev [2]', 'Mariya Mitsova', 'Michael Roe [1]', 'Jessica Hopton']","['[BUL] ', '[BUL] ', '[ENG] ', '[ENG] ']","['24-22', '21-14']",XD ,20180419
+134,"['Porntip Buranaprasertsuk', 'Krestina Silich', 'Abigail Holden', 'Fee Teng Liew']","['[THA] ', '[BLR] ', '[ENG] ', '[ENG] ']","['21-9', '21-19']",WD ,20180419
+135,"['Daniel Nikolov [1]', 'Ivan Rusev', 'David Jones', 'Johnnie Torjussen']","['[BUL] ', '[BUL] ', '[ENG] ', '[ENG] ']","['21-16', '21-19']",MD ,20180419

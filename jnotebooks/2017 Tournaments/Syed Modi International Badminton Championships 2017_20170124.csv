@@ -1,0 +1,240 @@
+,PLAYERS,COUNTRIES,SCORES,EVENT,match_week
+0,"['Tushar Sharma [3]', 'Tapaswini Samantaray', 'S. Sanjeeth', 'Saumya Singh']","['[IND] ', '[IND] ', '[IND] ', '[IND] ']","['21-17', '23-21']",XD - Qualification,20170124
+1,"['Purshottam Awate', 'Nimmi Patel', 'Mohit Tiwari', 'Saruni Sharma']","['[IND] ', '[IND] ', '[IND] ', '[IND] ']","['25-23', '21-15']",XD - Qualification,20170124
+2,"['Rushikesh Mali', 'Rajesh Krishnan Navaneethakrishnan', 'Lekhraj Biloniya', 'Rajesh Verma']","['[IND] ', '[IND] ', '[IND] ', '[IND] ']","['21-12', '21-6']",MD - Qualification,20170124
+3,"['Jaimeem Dethariya', 'Rini Tandel', 'Tapas Shukla', 'Pragya Rai']","['[IND] ', '[IND] ', '[IND] ', '[IND] ']",[],XD - Qualification,20170124
+4,"['Vikrant Chawat', 'Prem Singh Chouhan', 'D. Guru Prasad [3]', 'Vineeth Manuel']","['[IND] ', '[IND] ', '[IND] ', '[IND] ']","['22-20', '21-19']",MD - Qualification,20170124
+5,"['Prince Chaturvedi', 'Deepak Khatri', 'Manish Gupta', 'Pavan Malik']","['[IND] ', '[IND] ', '[IND] ', '[IND] ']","['21-19', '16-21', '21-15']",MD - Qualification,20170124
+6,"['Vishnura Rajendran', 'Farha Mather', 'Nishant Dua', 'Anamika Kashyap']","['[IND] ', '[IND] ', '[IND] ', '[IND] ']","['24-22', '21-19']",XD - Qualification,20170124
+7,"['Siddharth Jakhar', 'Dimpal Hazarika', 'Balasubramannian Narendran Geetha', 'Haritha Manazhiyil Harinarayanan']","['[IND] ', '[IND] ', '[IND] ', '[IND] ']",[],XD - Qualification,20170124
+8,"['Alap Mishra', 'Prabhat Sirsat', 'Kandarp Chaubey', 'Nikhil Jangid']","['[IND] ', '[IND] ', '[IND] ', '[IND] ']","['21-18', '21-17']",MD - Qualification,20170124
+9,"['Utkarsh Arora', 'Karishma Wadkar', 'Ankur Dhiman', 'Rupal Anand']","['[IND] ', '[IND] ', '[IND] ', '[IND] ']","['21-10', '21-16']",XD - Qualification,20170124
+10,"['Ketan Chahal [4]', 'Mohita Sahdev', 'Utkarsh Choudhary', 'Anusha Goel']","['[IND] ', '[IND] ', '[IND] ', '[IND] ']","['21-13', '21-13']",XD - Qualification,20170124
+11,"['Sanjay Jayaraj V [1]', 'Aditya Nair', 'Hari Kiran Chereddi', 'K. Ajay Kumar']","['[IND] ', '[IND] ', '[IND] ', '[IND] ']","['16-21', '21-16', '21-19']",MD - Qualification,20170124
+12,"['Dhruv Kapila [2]', 'Jakkampudi Meghana', 'Anubhav Saxena', 'Shraddha Srivastava']","['[IND] ', '[IND] ', '[IND] ', '[IND] ']","['21-11', '21-6']",XD - Qualification,20170124
+13,"['Shubham Prajapati', 'Deepak Khatri']","['[IND] ', '[IND] ']","['21-13', '21-10']",MS - Qualification,20170124
+14,"['Vaidehi Choudhari', 'Deeksha Choudhary']","['[IND] ', '[IND] ']","['21-8', '21-9']",WS - Qualification,20170124
+15,"['Gopal Krishna Reddy Dundi', 'Ankur Sangpang Rai']","['[IND] ', '[IND] ']","['23-21', '21-10']",MS - Qualification,20170124
+16,"['Bhaskar Chakraborty', 'Ameya Oak [7]']","['[IND] ', '[IND] ']","['14-21', '21-16', '22-20']",MS - Qualification,20170124
+17,"['Ashish Sharma', 'Kabir Kanzarkar']","['[IND] ', '[IND] ']","['21-16', '21-19']",MS - Qualification,20170124
+18,"['Vipul Saini', 'Saurav Kapoor']","['[IND] ', '[IND] ']","['22-20', '24-22']",MS - Qualification,20170124
+19,"['Dhruv Kumar', 'Sai Charan Koya']","['[IND] ', '[IND] ']","['15-21', '21-11', '22-20']",MS - Qualification,20170124
+20,"['Rohit Raturi [2]', 'Mohit Tiwari', 'Kaustubh Rawat', 'Vishal Thakran']","['[IND] ', '[IND] ', '[IND] ', '[IND] ']","['28-26', '21-16']",MD - Qualification,20170124
+21,"['Veda Vyas Sai Anumula', 'Rajesh Verma']","['[IND] ', '[IND] ']","['21-16', '21-18']",MS - Qualification,20170124
+22,"['Saumya Singh', 'Seema Panchal']","['[IND] ', '[IND] ']",[],WS - Qualification,20170124
+23,"['Anurag Thakkar', 'Nitin Gupta']","['[IND] ', '[IND] ']","['21-10', '21-8']",MS - Qualification,20170124
+24,"['Prem Singh Chouhan', 'Vikrant Chawat']","['[IND] ', '[IND] ']","['21-17', '11-21', '21-14']",MS - Qualification,20170124
+25,"['Amit Sharma', 'Nikhil Jangid']","['[IND] ', '[IND] ']","['21-12', '21-15']",MS - Qualification,20170124
+26,"['Kapil Chaudhary [4]', 'Chandrabhusan Tripathi', 'Jayank Ahuja', 'Nishant Dua']","['[IND] ', '[IND] ', '[IND] ', '[IND] ']","['21-15', '21-14']",MD - Qualification,20170124
+27,"['Deepali Gupta', 'Dimpal Hazarika']","['[IND] ', '[IND] ']","['21-10', '21-9']",WS - Qualification,20170124
+28,"['Siddhant Salar', 'Lekhraj Biloniya']","['[IND] ', '[IND] ']","['21-14', '21-11']",MS - Qualification,20170124
+29,"['Mallik Jalal', 'Raju Mohamed Rehan', 'Hendra Tandjaya', 'Androw Yunanto']","['[IND] ', '[IND] ', '[INA] ', '[INA] ']","['21-18', '18-21', '21-14']",MD - Qualification,20170124
+30,"['Kandarp Chaubey', 'Anant Shivam Jindal']","['[IND] ', '[IND] ']","['21-15', '21-16']",MS - Qualification,20170124
+31,"['Amolika Singh Sisodiya', 'Rini Tandel']","['[IND] ', '[IND] ']","['21-14', '21-11']",WS - Qualification,20170124
+32,"['Aneeth Kumar Repudi', 'Ribya Jokom']","['[IND] ', '[IND] ']","['17-21', '21-17', '21-7']",MS - Qualification,20170124
+33,"['Alap Mishra', 'Divum Gupta']","['[IND] ', '[IND] ']","['21-12', '21-12']",MS - Qualification,20170124
+34,"['Rajat Rathore', 'Bodhit Joshi [5]']","['[IND] ', '[IND] ']",[],MS - Qualification,20170124
+35,"['Gurpartap Singh Dhaliwal [8]', 'Rahul Kumar Shah']","['[IND] ', '[IND] ']","['21-12', '21-16']",MS - Qualification,20170124
+36,"['Vanshika Kapila', 'Sanghamitra Saikia']","['[IND] ', '[IND] ']","['21-10', '21-10']",WS - Qualification,20170124
+37,"['Gauri Asaji', 'Mayuri Yadav']","['[IND] ', '[IND] ']","['19-21', '21-18', '21-11']",WS - Qualification,20170124
+38,"['Ashish Sharma', 'Prem Singh Chouhan']","['[IND] ', '[IND] ']","['24-22', '21-16']",MS - Qualification,20170124
+39,"['Tushar Sharma [3]', 'Tapaswini Samantaray', 'Vishnura Rajendran', 'Farha Mather']","['[IND] ', '[IND] ', '[IND] ', '[IND] ']","['21-13', '18-21', '21-17']",XD - Qualification,20170124
+40,"['Deepali Gupta', 'Priya Konjengbam']","['[IND] ', '[IND] ']","['21-13', '21-23', '21-14']",WS - Qualification,20170124
+41,"['Kandarp Chaubey', 'Siddhant Salar']","['[IND] ', '[IND] ']","['21-12', '21-16']",MS - Qualification,20170124
+42,"['Purshottam Awate', 'Nimmi Patel', 'Jaimeem Dethariya', 'Rini Tandel']","['[IND] ', '[IND] ', '[IND] ', '[IND] ']","['21-13', '21-11']",XD - Qualification,20170124
+43,"['Dhruv Kapila [2]', 'Jakkampudi Meghana', 'Utkarsh Arora', 'Karishma Wadkar']","['[IND] ', '[IND] ', '[IND] ', '[IND] ']","['21-17', '18-21', '23-21']",XD - Qualification,20170124
+44,"['Alap Mishra', 'Rajat Rathore']","['[IND] ', '[IND] ']","['21-14', '17-21', '21-19']",MS - Qualification,20170124
+45,"['Dhruv Kumar', 'Veda Vyas Sai Anumula']","['[IND] ', '[IND] ']","['21-19', '23-21']",MS - Qualification,20170124
+46,"['Amit Sharma', 'Anurag Thakkar']","['[IND] ', '[IND] ']","['21-18', '21-19']",MS - Qualification,20170124
+47,"['Gauri Asaji', 'Vanshika Kapila']","['[IND] ', '[IND] ']","['21-17', '21-18']",WS - Qualification,20170124
+48,"['Aneeth Kumar Repudi', 'Gurpartap Singh Dhaliwal [8]']","['[IND] ', '[IND] ']","['21-17', '21-15']",MS - Qualification,20170124
+49,"['Bhaskar Chakraborty', 'Vipul Saini']","['[IND] ', '[IND] ']","['21-15', '21-12']",MS - Qualification,20170124
+50,"['Vikrant Chawat', 'Prem Singh Chouhan', 'Prince Chaturvedi', 'Deepak Khatri']","['[IND] ', '[IND] ', '[IND] ', '[IND] ']","['14-21', '24-22', '21-16']",MD - Qualification,20170124
+51,"['Shubham Prajapati', 'Gopal Krishna Reddy Dundi']","['[IND] ', '[IND] ']","['21-14', '21-17']",MS - Qualification,20170124
+52,"['Ketan Chahal [4]', 'Mohita Sahdev', 'Siddharth Jakhar', 'Dimpal Hazarika']","['[IND] ', '[IND] ', '[IND] ', '[IND] ']","['21-10', '21-10']",XD - Qualification,20170124
+53,"['Amolika Singh Sisodiya', 'B Venkata Ramya Tulasi Bailupudi']","['[IND] ', '[IND] ']","['21-6', '21-9']",WS - Qualification,20170124
+54,"['Kapil Chaudhary [4]', 'Chandrabhusan Tripathi', 'Mallik Jalal', 'Raju Mohamed Rehan']","['[IND] ', '[IND] ', '[IND] ', '[IND] ']","['21-16', '21-12']",MD - Qualification,20170124
+55,"['Vaidehi Choudhari', 'Saumya Singh']","['[IND] ', '[IND] ']","['21-8', '21-5']",WS - Qualification,20170124
+56,"['Rushikesh Mali', 'Rajesh Krishnan Navaneethakrishnan', 'Sanjay Jayaraj V [1]', 'Aditya Nair']","['[IND] ', '[IND] ', '[IND] ', '[IND] ']","['17-21', '21-16', '21-13']",MD - Qualification,20170124
+57,"['Rohit Raturi [2]', 'Mohit Tiwari', 'Alap Mishra', 'Prabhat Sirsat']","['[IND] ', '[IND] ', '[IND] ', '[IND] ']","['22-20', '18-21', '21-11']",MD - Qualification,20170124
+58,"['Shubham Prajapati', 'Satinder Malik']","['[IND] ', '[IND] ']","['21-13', '21-16']",MS,20170124
+59,"['Aman Kumar', 'Vishal Thakran']","['[IND] ', '[IND] ']","['21-10', '21-13']",MS,20170124
+60,"['Ratnajit Tamang', 'Manish Gupta']","['[NEP] ', '[IND] ']","['21-11', '20-22', '21-5']",MS,20170124
+61,"['Kartikey Gulshan Kumar', 'Androw Yunanto']","['[IND] ', '[INA] ']","['21-10', '10-21', '21-17']",MS,20170124
+62,"['Ashish Sharma', 'Abdul Bari Ansari']","['[IND] ', '[IND] ']","['21-18', '21-19']",MS,20170124
+63,"['Chirag Sen', 'Denis Grachev']","['[IND] ', '[RUS] ']","['21-15', '21-19']",MS,20170124
+64,"['Siddharth Jakhar', 'Bhaskar Chakraborty']","['[IND] ', '[IND] ']","['22-20', '14-21', '21-18']",MS,20170124
+65,"['Abhishek Yelegar', 'Alap Mishra']","['[IND] ', '[IND] ']","['21-13', '19-21', '21-17']",MS,20170124
+66,"['Utkarsh Arora', 'Sai Naga Koteswararao Adapa']","['[IND] ', '[IND] ']","['21-16', '21-16']",MS,20170124
+67,"['Neeraj Vashist', 'Mayank Ahuja']","['[IND] ', '[IND] ']","['22-20', '20-22', '21-7']",MS,20170124
+68,"['Hans-Kristian Vittinghus [2]', 'Munawar Mohammed']","['[DEN] ', '[IND] ']","['21-11', '21-12']",MS,20170124
+69,"['Kidambi Srikanth [3]', 'Lakhanee Sarang']","['[IND] ', '[IND] ']","['15-21', '21-7', '21-14']",MS,20170124
+70,"['Lakshya Sen', 'Aditya Bapineedu Goparaju']","['[IND] ', '[IND] ']","['21-10', '21-4']",MS,20170124
+71,"['Wei Feng Chong [10]', 'Harshit Aggarwal']","['[MAS] ', '[IND] ']","['21-11', '21-12']",MS,20170124
+72,"['Ansal Yadav', 'Aneeth Kumar Repudi']","['[IND] ', '[IND] ']","['21-16', '21-17']",MS,20170124
+73,"['Zulhelmi Zulkiffli', 'Arintap Das Gupta']","['[MAS] ', '[IND] ']","['21-18', '14-21', '21-15']",MS,20170124
+74,"['Anders Antonsen [5]', 'Kiran George']","['[DEN] ', '[IND] ']","['21-9', '21-18']",MS,20170124
+75,"['Misha Zilberman [13]', 'Shreyansh Jaiswal']","['[ISR] ', '[IND] ']","['21-15', '21-16']",MS,20170124
+76,"['Sai Praneeth B. [9]', 'Aditya Joshi']","['[IND] ', '[IND] ']","['21-14', '21-9']",MS,20170124
+77,"['Pratul Joshi [16]', 'C. Rohit Yadav']","['[IND] ', '[IND] ']","['21-16', '21-13']",MS,20170124
+78,"['Harsheel Dani [15]', 'Kiran Kumar Mekala']","['[IND] ', '[IND] ']","['21-12', '21-18']",MS,20170124
+79,"['Zulfadli Zulkiffli [7]', 'Sachin Rawat']","['[MAS] ', '[IND] ']","['21-15', '21-10']",MS,20170124
+80,"['Emil Holst [12]', 'Hemanth M.Gowda']","['[DEN] ', '[IND] ']","['19-21', '21-11', '21-10']",MS,20170124
+81,"['Sourabh Varma [11]', 'Rahul Yadav Chittaboina']","['[IND] ', '[IND] ']","['21-11', '21-17']",MS,20170124
+82,"['Bodhit Joshi', 'Abhyansh Singh']","['[IND] ', '[IND] ']","['21-16', '21-19']",MS,20170124
+83,"['Aryamann Tandon', 'Amit Sharma']","['[IND] ', '[IND] ']","['21-7', '21-9']",MS,20170124
+84,"['Oscar Bansal', 'Abhishek Kulkarni']","['[IND] ', '[IND] ']","['12-21', '21-10', '22-20']",MS,20170124
+85,"['Sarath Dunna', 'Kandarp Chaubey']","['[IND] ', '[IND] ']","['21-12', '21-17']",MS,20170124
+86,"['K. Ajay Kumar', 'Dhruv Kumar']","['[IND] ', '[IND] ']","['21-15', '18-21', '21-12']",MS,20170124
+87,"['Sameer Verma [8]', 'Kartik Jindal']","['[IND] ', '[IND] ']",['5-1'],MS,20170124
+88,"['Prannoy H. S. [6]', 'N. V. S. Vijetha']","['[IND] ', '[IND] ']","['21-11', '21-9']",MS,20170124
+89,"['Siddharth Pratap Singh', 'Mithun Manjunath']","['[IND] ', '[IND] ']","['21-19', '21-17']",MS,20170124
+90,"['Lalita Dahiya', 'Hadia Hosny']","['[IND] ', '[EGY] ']","['21-6', '20-22', '21-13']",WS,20170124
+91,"['Mathias Boe [1]', 'Carsten Mogensen', 'Satwiksairaj Rankireddy', 'Chirag Shetty']","['[DEN] ', '[DEN] ', '[IND] ', '[IND] ']","['22-24', '21-14', '21-14']",MD,20170124
+92,"['Tushar Sharma', 'Tapaswini Samantaray', 'Gaurav Deswal', 'Gauri Asaji']","['[IND] ', '[IND] ', '[IND] ', '[IND] ']","['23-21', '21-12']",XD,20170124
+93,"['Smit Toshniwal', 'Seema Panchal']","['[IND] ', '[IND] ']","['21-8', '21-9']",WS,20170124
+94,"['Harinder Malik', 'Satinder Malik', 'Dipesh Dhami', 'Ratnajit Tamang']","['[IND] ', '[IND] ', '[NEP] ', '[NEP] ']",[],MD,20170124
+95,"['Anoushka Parikh', 'Harika Veludurthi', 'Nimmi Patel', 'Saruni Sharma']","['[IND] ', '[IND] ', '[IND] ', '[IND] ']","['21-18', '21-17']",WD,20170124
+96,"['Mathias Christiansen [2]', 'David Daugaard', 'Krishna Prasad Garaga', 'Dhruv Kapila']","['[DEN] ', '[DEN] ', '[IND] ', '[IND] ']","['21-18', '21-14']",MD,20170124
+97,"['Bhaskar Chakraborty', 'Tanveer Gill', 'Rohit Raturi', 'Mohit Tiwari']","['[IND] ', '[IND] ', '[IND] ', '[IND] ']","['21-11', '21-18']",MD,20170124
+98,"['Juhi Dewangan', 'Aakarshi Kashyap', 'B Venkata Ramya Tulasi Bailupudi', 'Ch. Poornima']","['[IND] ', '[IND] ', '[IND] ', '[IND] ']",[],WD,20170124
+99,"['Rituparna Das', 'Nangsal Tamang']","['[IND] ', '[NEP] ']","['21-5', '21-6']",WS,20170124
+100,"['Kuhoo Garg', 'Ningshi Block Hazarika', 'Cynthia Shara Ayunidha', 'Debora Rumete Vehrenica']","['[IND] ', '[IND] ', '[INA] ', '[INA] ']","['21-13', '21-14']",WD,20170124
+101,"['Dimpal Hazarika', 'Sanghamitra Saikia', 'Shehjar Chowdhary', 'Anusha Goel']","['[IND] ', '[IND] ', '[IND] ', '[IND] ']","['21-17', '21-14']",WD,20170124
+102,"['Sruthi K.P', 'Haritha Manazhiyil Harinarayanan', 'Riya Pillai', 'Mohita Sahdev']","['[IND] ', '[IND] ', '[IND] ', '[IND] ']","['21-13', '21-17']",WD,20170124
+103,"['Danny Bawa Chrisnanta [6]', 'Hendra Wijaya', 'M. Anilkumar Raju', 'Venkat Gaurav Prasad']","['[SGP] ', '[SGP] ', '[IND] ', '[IND] ']","['21-4', '21-9']",MD,20170124
+104,"['Yogendran Khrishnan [8]', 'Prajakta Sawant', 'Kashish Sharma', 'Jagriti Nashier']","['[MAS] ', '[IND] ', '[IND] ', '[IND] ']","['21-13', '17-21', '21-11']",XD,20170124
+105,"['Francis Alwin', 'Kona Tarun', 'Rushikesh Mali', 'Rajesh Krishnan Navaneethakrishnan']","['[IND] ', '[IND] ', '[IND] ', '[IND] ']","['21-10', '21-16']",MD,20170124
+106,"['K. Nandagopal', 'Sanyam Shukla', 'Vikrant Chawat', 'Prem Singh Chouhan']","['[IND] ', '[IND] ', '[IND] ', '[IND] ']","['21-14', '21-12']",MD,20170124
+107,"['Deeksha Choudhary', 'Deepali Gupta', 'Rupal Anand', 'Rudrani Jaiswal']","['[IND] ', '[IND] ', '[IND] ', '[IND] ']","['21-4', '21-8']",WD,20170124
+108,"['Ashwini Ponnappa', 'Reddy N. Sikki', 'J. Anees Kowsar', 'Vaddepally Pramada']","['[IND] ', '[IND] ', '[IND] ', '[IND] ']","['21-8', '21-3']",WD,20170124
+109,"['Vighnesh Devlekar', 'Saurabh Sharma', 'Kapil Chaudhary', 'Chandrabhusan Tripathi']","['[IND] ', '[IND] ', '[IND] ', '[IND] ']","['21-15', '21-5']",MD,20170124
+110,"['Evgenij Dremin', 'Denis Grachev', 'Jishnu Sanyal', 'Shivam Sharma']","['[RUS] ', '[RUS] ', '[IND] ', '[IND] ']","['21-19', '21-19']",MD,20170124
+111,"['Mugdha Agrey', 'Amita Giri']","['[IND] ', '[NEP] ']","['21-2', '21-6']",WS,20170124
+112,"['Sanjana Santosh', 'Arathi Sara Sunil', 'Mukherjee Riya', 'Karishma Wadkar']","['[IND] ', '[IND] ', '[IND] ', '[IND] ']","['21-14', '21-15']",WD,20170124
+113,"['Mahima Aggarwal', 'Maneesha K', 'Farha Mather', 'Ashna Roy']","['[IND] ', '[IND] ', '[IND] ', '[IND] ']","['21-12', '21-15']",WD,20170124
+114,"['Ira Sharma', 'Amolika Singh Sisodiya']","['[IND] ', '[IND] ']","['21-18', '16-21', '21-19']",WS,20170124
+115,"['Goh Soon Huat [6]', 'Shevon Jemie Lai', 'Dinesh Chaudhry', 'Lalita Dahiya']","['[MAS] ', '[MAS] ', '[IND] ', '[IND] ']","['21-6', '21-8']",XD,20170124
+116,"['Matijs Dierickx', 'Freek Golinski', 'Balasubramannian Narendran Geetha', 'S. Sunjith (Jr)']","['[BEL] ', '[BEL] ', '[IND] ', '[IND] ']",[],MD,20170124
+117,"['Debora Rumete Vehrenica', 'Sai Uttejitha Rao Chukka']","['[INA] ', '[IND] ']","['8-21', '21-15', '21-12']",WS,20170124
+118,"['Mohamad Arif Abdul Latif', 'Khim Wah Lim', 'Utkarsh Arora', 'Gaurav Deswal']","['[MAS] ', '[MAS] ', '[IND] ', '[IND] ']","['21-16', '21-13']",MD,20170124
+119,"['Manu Attri [3]', 'Reddy B. Sumeeth', 'Yong Kai Terry Hee', 'Kean Hean Loh']","['[IND] ', '[IND] ', '[SGP] ', '[SGP] ']","['15-21', '25-23', '21-14']",MD,20170124
+120,"['Hendra Setiawan [5]', 'Boon Heong Tan', 'Munawar Mohammed', 'Vishnura Rajendran']","['[INA] ', '[MAS] ', '[IND] ', '[IND] ']","['21-11', '21-9']",MD,20170124
+121,"['Berry Angriawan [7]', 'Hardianto Hardianto', 'Arun George', 'Rohan Kapoor']","['[INA] ', '[INA] ', '[IND] ', '[IND] ']","['21-15', '21-17']",MD,20170124
+122,"['Aakarshi Kashyap', 'Deepali Gupta']","['[IND] ', '[IND] ']","['21-17', '21-16']",WS,20170124
+123,"['Sri Krishna Priya Kudaravalli', 'Gauri Asaji']","['[IND] ', '[IND] ']","['21-12', '21-5']",WS,20170124
+124,"['Aparna Balan', 'Prajakta Sawant', 'Pinky Karki', 'Yania Taring']","['[IND] ', '[IND] ', '[IND] ', '[IND] ']","['21-10', '21-15']",WD,20170124
+125,"['Ksenia Polikarpova [8]', 'Riya Pillai']","['[RUS] ', '[IND] ']","['21-12', '21-11']",WS,20170124
+126,"['Beatriz Corrales [3]', 'Reshma Karthik']","['[ESP] ', '[IND] ']","['21-17', '21-13']",WS,20170124
+127,"['Fajar Alfian [4]', 'Muhammad Rian Ardianto', 'Arjun M.R.', 'Ramchandran Shlok']","['[INA] ', '[INA] ', '[IND] ', '[IND] ']","['21-19', '21-18']",MD,20170124
+128,"['Gregoria Mariska', 'Pardeshi Shreyanshi']","['[INA] ', '[IND] ']","['21-7', '21-14']",WS,20170124
+129,"['Hanna Ramadini [6]', 'Preethi Konadam']","['[INA] ', '[IND] ']","['21-9', '21-6']",WS,20170124
+130,"['Venkat Gaurav Prasad', 'Juhi Dewangan', 'Aman Singh Bishen', 'Parssa Naqvi']","['[IND] ', '[IND] ', '[IND] ', '[IND] ']","['21-5', '21-15']",XD,20170124
+131,"['Vaidehi Choudhari', 'Mudaliar Pooja']","['[IND] ', '[IND] ']","['21-14', '21-10']",WS,20170124
+132,"['Fitriani Fitriani [4]', 'Rasika Raje']","['[INA] ', '[IND] ']","['14-21', '21-12', '21-7']",WS,20170124
+133,"['Lu Ching Yao [8]', 'Yang Po Han', 'Venkatesh Prasad', 'Jagadish Yadav']","['[TPE] ', '[TPE] ', '[IND] ', '[IND] ']","['21-9', '21-14']",MD,20170124
+134,"['Pranaav Jerry Chopra [2]', 'Reddy N. Sikki', 'Androw Yunanto', 'Debora Rumete Vehrenica']","['[IND] ', '[IND] ', '[INA] ', '[INA] ']","['21-7', '21-18']",XD,20170124
+135,"['Evgenij Dremin [4]', 'Evgenia Dimova', 'Satwiksairaj Rankireddy', 'Maneesha K']","['[RUS] ', '[RUS] ', '[IND] ', '[IND] ']","['23-21', '21-16']",XD,20170124
+136,"['Pragya Rai', 'Amolika Singh Sisodiya', 'Komal Antil', 'Lalita Dahiya']","['[IND] ', '[IND] ', '[IND] ', '[IND] ']","['21-13', '21-13']",WD,20170124
+137,"['Mathias Christiansen [5]', 'Sara Thygesen', 'S. Sunjith (Jr)', 'Sruthi K.P']","['[DEN] ', '[DEN] ', '[IND] ', '[IND] ']","['21-8', '21-14']",XD,20170124
+138,"['Reddy B. Sumeeth [7]', 'Ashwini Ponnappa', 'Vishal Thakran', 'Rachita Sahdev']","['[IND] ', '[IND] ', '[IND] ', '[IND] ']","['21-6', '21-8']",XD,20170124
+139,"['Purshottam Awate', 'Nimmi Patel', 'Rushikesh Mali', 'Seema Panchal']","['[IND] ', '[IND] ', '[IND] ', '[IND] ']","['21-16', '26-24']",XD,20170124
+140,"['Dinar Dyah Ayustine [5]', 'Mukherjee Riya']","['[INA] ', '[IND] ']","['21-18', '21-14']",WS,20170124
+141,"['Rohan Kapoor', 'Sanjana Santosh', 'Dhruv Kapila', 'Jakkampudi Meghana']","['[IND] ', '[IND] ', '[IND] ', '[IND] ']","['21-18', '21-15']",XD,20170124
+142,"['Ketan Chahal', 'Mohita Sahdev', 'Rajesh Krishnan Navaneethakrishnan', 'B Venkata Ramya Tulasi Bailupudi']","['[IND] ', '[IND] ', '[IND] ', '[IND] ']","['21-19', '21-12']",XD,20170124
+143,"['Vighnesh Devlekar', 'Kuhoo Garg', 'Dipesh Dhami', 'Amita Giri']","['[IND] ', '[IND] ', '[NEP] ', '[NEP] ']",[],XD,20170124
+144,"['K. Nandagopal', 'Mahima Aggarwal', 'Ratnajit Tamang', 'Nangsal Tamang']","['[IND] ', '[IND] ', '[NEP] ', '[NEP] ']","['21-13', '21-13']",XD,20170124
+145,"['Joachim Fischer Nielsen [1]', 'Christinna Pedersen', 'Raju Mohamed Rehan', 'J. Anees Kowsar']","['[DEN] ', '[DEN] ', '[IND] ', '[IND] ']","['21-5', '21-8']",XD,20170124
+146,"['Pusarla V. Sindhu [1]', 'Anura Prabhudesai']","['[IND] ', '[IND] ']","['21-9', '21-11']",WS,20170124
+147,"['Yong Kai Terry Hee [3]', 'Wei Han Tan', 'Aditya Nair', 'Deeksha Choudhary']","['[SGP] ', '[SGP] ', '[IND] ', '[IND] ']",['2-0'],XD,20170124
+148,"['Saurabh Sharma', 'Anoushka Parikh', 'Hendra Tandjaya', 'Cynthia Shara Ayunidha']","['[IND] ', '[IND] ', '[INA] ', '[INA] ']","['21-13', '21-15']",XD,20170124
+149,"['Sourabh Varma [11]', 'Shubham Prajapati']","['[IND] ', '[IND] ']","['21-6', '21-10']",MS,20170124
+150,"['Sai Praneeth B. [9]', 'Ashish Sharma']","['[IND] ', '[IND] ']","['21-15', '21-10']",MS,20170124
+151,"['Kidambi Srikanth [3]', 'Zulhelmi Zulkiffli']","['[IND] ', '[MAS] ']","['21-5', '21-12']",MS,20170124
+152,"['Ansal Yadav', 'Pratul Joshi [16]']","['[IND] ', '[IND] ']","['18-21', '21-16', '21-16']",MS,20170124
+153,"['Zulfadli Zulkiffli [7]', 'Sarath Dunna']","['[MAS] ', '[IND] ']","['21-8', '21-11']",MS,20170124
+154,"['Harsheel Dani [15]', 'Aryamann Tandon']","['[IND] ', '[IND] ']","['21-12', '21-17']",MS,20170124
+155,"['Prannoy H. S. [6]', 'Bodhit Joshi']","['[IND] ', '[IND] ']","['21-16', '21-8']",MS,20170124
+156,"['Emil Holst [12]', 'Chirag Sen']","['[DEN] ', '[IND] ']","['21-13', '21-19']",MS,20170124
+157,"['Siddharth Pratap Singh', 'Oscar Bansal']","['[IND] ', '[IND] ']","['27-25', '21-11']",MS,20170124
+158,"['Sameer Verma [8]', 'K. Ajay Kumar']","['[IND] ', '[IND] ']","['21-13', '21-14']",MS,20170124
+159,"['Lakshya Sen', 'Aman Kumar']","['[IND] ', '[IND] ']","['21-19', '21-10']",MS,20170124
+160,"['Misha Zilberman [13]', 'Kartikey Gulshan Kumar']","['[ISR] ', '[IND] ']","['17-21', '21-16', '22-20']",MS,20170124
+161,"['Wei Feng Chong [10]', 'Siddharth Jakhar']","['[MAS] ', '[IND] ']","['21-15', '21-10']",MS,20170124
+162,"['Anders Antonsen [5]', 'Ratnajit Tamang']","['[DEN] ', '[NEP] ']","['21-17', '21-12']",MS,20170124
+163,"['Abhishek Yelegar', 'Utkarsh Arora']","['[IND] ', '[IND] ']","['21-17', '21-15']",MS,20170124
+164,"['Hans-Kristian Vittinghus [2]', 'Neeraj Vashist']","['[DEN] ', '[IND] ']","['21-14', '20-22', '21-7']",MS,20170124
+165,"['Danny Bawa Chrisnanta [6]', 'Hendra Wijaya', 'K. Nandagopal', 'Sanyam Shukla']","['[SGP] ', '[SGP] ', '[IND] ', '[IND] ']","['21-10', '18-21', '21-18']",MD,20170124
+166,"['Lu Ching Yao [8]', 'Yang Po Han', 'Evgenij Dremin', 'Denis Grachev']","['[TPE] ', '[TPE] ', '[RUS] ', '[RUS] ']","['21-16', '21-7']",MD,20170124
+167,"['Hanna Ramadini [6]', 'Aakarshi Kashyap']","['[INA] ', '[IND] ']","['21-16', '21-12']",WS,20170124
+168,"['Jakkampudi Meghana [4]', 'Poorvisha S Ram', 'Deeksha Choudhary', 'Deepali Gupta']","['[IND] ', '[IND] ', '[IND] ', '[IND] ']","['21-16', '21-10']",WD,20170124
+169,"['Mei Kuan Chow [2]', 'Lee Meng Yean', 'Mahima Aggarwal', 'Maneesha K']","['[MAS] ', '[MAS] ', '[IND] ', '[IND] ']","['21-19', '21-15']",WD,20170124
+170,"['Yong Kai Terry Hee [3]', 'Wei Han Tan', 'Purshottam Awate', 'Nimmi Patel']","['[SGP] ', '[SGP] ', '[IND] ', '[IND] ']","['21-15', '21-14']",XD,20170124
+171,"['Yin Loo Lim [3]', 'Yap Cheng Wen', 'Pragya Rai', 'Amolika Singh Sisodiya']","['[MAS] ', '[MAS] ', '[IND] ', '[IND] ']","['21-7', '21-7']",WD,20170124
+172,"['Sai Praneeth B. [9]', 'Anders Antonsen [5]']","['[IND] ', '[DEN] ']","['21-17', '21-19']",MS,20170124
+173,"['Sanjana Santosh', 'Arathi Sara Sunil', 'Kuhoo Garg', 'Ningshi Block Hazarika']","['[IND] ', '[IND] ', '[IND] ', '[IND] ']","['19-21', '21-14', '21-14']",WD,20170124
+174,"['Berry Angriawan [7]', 'Hardianto Hardianto', 'Vighnesh Devlekar', 'Saurabh Sharma']","['[INA] ', '[INA] ', '[IND] ', '[IND] ']","['21-15', '21-8']",MD,20170124
+175,"['Beatriz Corrales [3]', 'Debora Rumete Vehrenica']","['[ESP] ', '[INA] ']","['21-13', '21-13']",WS,20170124
+176,"['Mathias Christiansen [2]', 'David Daugaard', 'Bhaskar Chakraborty', 'Tanveer Gill']","['[DEN] ', '[DEN] ', '[IND] ', '[IND] ']","['21-7', '21-8']",MD,20170124
+177,"['Joachim Fischer Nielsen [1]', 'Christinna Pedersen', 'Venkat Gaurav Prasad', 'Juhi Dewangan']","['[DEN] ', '[DEN] ', '[IND] ', '[IND] ']","['21-8', '21-13']",XD,20170124
+178,"['Sruthi K.P', 'Haritha Manazhiyil Harinarayanan', 'Anoushka Parikh', 'Harika Veludurthi']","['[IND] ', '[IND] ', '[IND] ', '[IND] ']","['22-20', '14-21', '21-12']",WD,20170124
+179,"['Yogendran Khrishnan [8]', 'Prajakta Sawant', 'Tushar Sharma', 'Tapaswini Samantaray']","['[MAS] ', '[IND] ', '[IND] ', '[IND] ']","['21-15', '20-22', '21-16']",XD,20170124
+180,"['Sourabh Varma [11]', 'Lakshya Sen']","['[IND] ', '[IND] ']","['21-14', '21-16']",MS,20170124
+181,"['Fajar Alfian [4]', 'Muhammad Rian Ardianto', 'Matijs Dierickx', 'Freek Golinski']","['[INA] ', '[INA] ', '[BEL] ', '[BEL] ']",['14-6'],MD,20170124
+182,"['Gregoria Mariska', 'Dinar Dyah Ayustine [5]']","['[INA] ', '[INA] ']","['12-21', '21-13', '21-17']",WS,20170124
+183,"['Ashwini Ponnappa', 'Reddy N. Sikki', 'Dimpal Hazarika', 'Sanghamitra Saikia']","['[IND] ', '[IND] ', '[IND] ', '[IND] ']","['21-7', '21-10']",WD,20170124
+184,"['Emil Holst [12]', 'Siddharth Pratap Singh']","['[DEN] ', '[IND] ']","['21-8', '21-11']",MS,20170124
+185,"['Mohamad Arif Abdul Latif', 'Khim Wah Lim', 'Manu Attri [3]', 'Reddy B. Sumeeth']","['[MAS] ', '[MAS] ', '[IND] ', '[IND] ']","['21-15', '17-21', '21-17']",MD,20170124
+186,"['Hans-Kristian Vittinghus [2]', 'Abhishek Yelegar']","['[DEN] ', '[IND] ']","['21-18', '21-5']",MS,20170124
+187,"['Goh Soon Huat [6]', 'Shevon Jemie Lai', 'K. Nandagopal', 'Mahima Aggarwal']","['[MAS] ', '[MAS] ', '[IND] ', '[IND] ']","['16-21', '22-20', '21-16']",XD,20170124
+188,"['Fitriani Fitriani [4]', 'Ira Sharma']","['[INA] ', '[IND] ']","['21-11', '21-7']",WS,20170124
+189,"['Evgenij Dremin [4]', 'Evgenia Dimova', 'Vighnesh Devlekar', 'Kuhoo Garg']","['[RUS] ', '[RUS] ', '[IND] ', '[IND] ']","['21-7', '21-16']",XD,20170124
+190,"['Rituparna Das', 'Ksenia Polikarpova [8]']","['[IND] ', '[RUS] ']","['21-12', '21-19']",WS,20170124
+191,"['Vaidehi Choudhari', 'Smit Toshniwal']","['[IND] ', '[IND] ']","['21-13', '21-12']",WS,20170124
+192,"['Sameer Verma [8]', 'Wei Feng Chong [10]']","['[IND] ', '[MAS] ']","['21-15', '21-16']",MS,20170124
+193,"['Hendra Setiawan [5]', 'Boon Heong Tan', 'Francis Alwin', 'Kona Tarun']","['[INA] ', '[MAS] ', '[IND] ', '[IND] ']","['21-11', '21-15']",MD,20170124
+194,"['Harsheel Dani [15]', 'Prannoy H. S. [6]']","['[IND] ', '[IND] ']","['21-18', '21-18']",MS,20170124
+195,"['Sri Krishna Priya Kudaravalli', 'Mugdha Agrey']","['[IND] ', '[IND] ']","['23-21', '21-19']",WS,20170124
+196,"['Zulfadli Zulkiffli [7]', 'Misha Zilberman [13]']","['[MAS] ', '[ISR] ']","['21-15', '21-15']",MS,20170124
+197,"['Mathias Christiansen [5]', 'Sara Thygesen', 'Saurabh Sharma', 'Anoushka Parikh']","['[DEN] ', '[DEN] ', '[IND] ', '[IND] ']","['21-8', '21-17']",XD,20170124
+198,"['Aparna Balan', 'Prajakta Sawant', 'Juhi Dewangan', 'Aakarshi Kashyap']","['[IND] ', '[IND] ', '[IND] ', '[IND] ']","['21-13', '17-21', '21-11']",WD,20170124
+199,"['Mathias Boe [1]', 'Carsten Mogensen', 'Harinder Malik', 'Satinder Malik']","['[DEN] ', '[DEN] ', '[IND] ', '[IND] ']","['21-9', '21-8']",MD,20170124
+200,"['Kidambi Srikanth [3]', 'Ansal Yadav']","['[IND] ', '[IND] ']","['21-15', '21-16']",MS,20170124
+201,"['Pranaav Jerry Chopra [2]', 'Reddy N. Sikki', 'Ketan Chahal', 'Mohita Sahdev']","['[IND] ', '[IND] ', '[IND] ', '[IND] ']","['21-16', '21-15']",XD,20170124
+202,"['Reddy B. Sumeeth [7]', 'Ashwini Ponnappa', 'Rohan Kapoor', 'Sanjana Santosh']","['[IND] ', '[IND] ', '[IND] ', '[IND] ']","['21-15', '21-18']",XD,20170124
+203,"['Pusarla V. Sindhu [1]', 'Lalita Dahiya']","['[IND] ', '[IND] ']","['21-7', '21-12']",WS,20170124
+204,"['Joachim Fischer Nielsen [1]', 'Christinna Pedersen', 'Goh Soon Huat [6]', 'Shevon Jemie Lai']","['[DEN] ', '[DEN] ', '[MAS] ', '[MAS] ']","['21-15', '21-11']",XD ,20170124
+205,"['Harsheel Dani [15]', 'Emil Holst [12]']","['[IND] ', '[DEN] ']","['21-16', '17-21', '21-11']",MS ,20170124
+206,"['Gregoria Mariska', 'Beatriz Corrales [3]']","['[INA] ', '[ESP] ']","['21-9', '21-11']",WS ,20170124
+207,"['Sameer Verma [8]', 'Hans-Kristian Vittinghus [2]']","['[IND] ', '[DEN] ']","['21-15', '21-13']",MS ,20170124
+208,"['Lu Ching Yao [8]', 'Yang Po Han', 'Mohamad Arif Abdul Latif', 'Khim Wah Lim']","['[TPE] ', '[TPE] ', '[MAS] ', '[MAS] ']","['15-21', '21-14', '21-11']",MD ,20170124
+209,"['Kidambi Srikanth [3]', 'Zulfadli Zulkiffli [7]']","['[IND] ', '[MAS] ']","['21-12', '21-17']",MS ,20170124
+210,"['Mathias Boe [1]', 'Carsten Mogensen', 'Hendra Setiawan [5]', 'Boon Heong Tan']","['[DEN] ', '[DEN] ', '[INA] ', '[MAS] ']","['25-27', '21-10', '21-11']",MD ,20170124
+211,"['Reddy B. Sumeeth [7]', 'Ashwini Ponnappa', 'Yong Kai Terry Hee [3]', 'Wei Han Tan']","['[IND] ', '[IND] ', '[SGP] ', '[SGP] ']","['21-18', '23-21']",XD ,20170124
+212,"['Hanna Ramadini [6]', 'Sri Krishna Priya Kudaravalli']","['[INA] ', '[IND] ']","['21-17', '21-15']",WS ,20170124
+213,"['Fajar Alfian [4]', 'Muhammad Rian Ardianto', 'Danny Bawa Chrisnanta [6]', 'Hendra Wijaya']","['[INA] ', '[INA] ', '[SGP] ', '[SGP] ']","['21-15', '21-19']",MD ,20170124
+214,"['Fitriani Fitriani [4]', 'Rituparna Das']","['[INA] ', '[IND] ']","['21-17', '13-21', '23-21']",WS ,20170124
+215,"['Kamilla Rytter Juhl [1]', 'Christinna Pedersen', 'Aparna Balan', 'Prajakta Sawant']","['[DEN] ', '[DEN] ', '[IND] ', '[IND] ']",[],WD ,20170124
+216,"['Berry Angriawan [7]', 'Hardianto Hardianto', 'Mathias Christiansen [2]', 'David Daugaard']","['[INA] ', '[INA] ', '[DEN] ', '[DEN] ']","['21-16', '21-14']",MD ,20170124
+217,"['Pusarla V. Sindhu [1]', 'Vaidehi Choudhari']","['[IND] ', '[IND] ']","['21-15', '21-11']",WS ,20170124
+218,"['Pranaav Jerry Chopra [2]', 'Reddy N. Sikki', 'Yogendran Khrishnan [8]', 'Prajakta Sawant']","['[IND] ', '[IND] ', '[MAS] ', '[IND] ']","['21-16', '21-19']",XD ,20170124
+219,"['Mathias Christiansen [5]', 'Sara Thygesen', 'Evgenij Dremin [4]', 'Evgenia Dimova']","['[DEN] ', '[DEN] ', '[RUS] ', '[RUS] ']","['15-21', '21-10', '21-15']",XD ,20170124
+220,"['Yin Loo Lim [3]', 'Yap Cheng Wen', 'Sruthi K.P', 'Haritha Manazhiyil Harinarayanan']","['[MAS] ', '[MAS] ', '[IND] ', '[IND] ']","['21-17', '21-9']",WD ,20170124
+221,"['Sai Praneeth B. [9]', 'Sourabh Varma [11]']","['[IND] ', '[IND] ']","['21-19', '12-21', '21-10']",MS ,20170124
+222,"['Sanjana Santosh', 'Arathi Sara Sunil', 'Jakkampudi Meghana [4]', 'Poorvisha S Ram']","['[IND] ', '[IND] ', '[IND] ', '[IND] ']","['12-21', '21-12', '21-9']",WD ,20170124
+223,"['Ashwini Ponnappa', 'Reddy N. Sikki', 'Mei Kuan Chow [2]', 'Lee Meng Yean']","['[IND] ', '[IND] ', '[MAS] ', '[MAS] ']","['21-14', '21-18']",WD ,20170124
+224,"['Kamilla Rytter Juhl [1]', 'Christinna Pedersen', 'Yin Loo Lim [3]', 'Yap Cheng Wen']","['[DEN] ', '[DEN] ', '[MAS] ', '[MAS] ']","['23-21', '21-14']",WD ,20170124
+225,"['Lu Ching Yao [8]', 'Yang Po Han', 'Berry Angriawan [7]', 'Hardianto Hardianto']","['[TPE] ', '[TPE] ', '[INA] ', '[INA] ']","['21-16', '21-17']",MD ,20170124
+226,"['Mathias Boe [1]', 'Carsten Mogensen', 'Fajar Alfian [4]', 'Muhammad Rian Ardianto']","['[DEN] ', '[DEN] ', '[INA] ', '[INA] ']","['11-21', '21-17', '21-19']",MD ,20170124
+227,"['Reddy B. Sumeeth [7]', 'Ashwini Ponnappa', 'Joachim Fischer Nielsen [1]', 'Christinna Pedersen']","['[IND] ', '[IND] ', '[DEN] ', '[DEN] ']","['19-21', '21-18', '21-18']",XD ,20170124
+228,"['Pusarla V. Sindhu [1]', 'Fitriani Fitriani [4]']","['[IND] ', '[INA] ']","['21-11', '21-19']",WS ,20170124
+229,"['Sai Praneeth B. [9]', 'Kidambi Srikanth [3]']","['[IND] ', '[IND] ']","['15-21', '21-10', '21-17']",MS ,20170124
+230,"['Ashwini Ponnappa', 'Reddy N. Sikki', 'Sanjana Santosh', 'Arathi Sara Sunil']","['[IND] ', '[IND] ', '[IND] ', '[IND] ']","['18-21', '21-12', '21-13']",WD ,20170124
+231,"['Gregoria Mariska', 'Hanna Ramadini [6]']","['[INA] ', '[INA] ']","['21-19', '21-14']",WS ,20170124
+232,"['Sameer Verma [8]', 'Harsheel Dani [15]']","['[IND] ', '[IND] ']","['21-15', '21-11']",MS ,20170124
+233,"['Pranaav Jerry Chopra [2]', 'Reddy N. Sikki', 'Mathias Christiansen [5]', 'Sara Thygesen']","['[IND] ', '[IND] ', '[DEN] ', '[DEN] ']","['21-18', '21-13']",XD ,20170124
+234,"['Kamilla Rytter Juhl [1]', 'Christinna Pedersen', 'Ashwini Ponnappa', 'Reddy N. Sikki']","['[DEN] ', '[DEN] ', '[IND] ', '[IND] ']","['21-16', '21-18']",WD ,20170124
+235,"['Mathias Boe [1]', 'Carsten Mogensen', 'Lu Ching Yao [8]', 'Yang Po Han']","['[DEN] ', '[DEN] ', '[TPE] ', '[TPE] ']","['21-14', '21-15']",MD ,20170124
+236,"['Sameer Verma [8]', 'Sai Praneeth B. [9]']","['[IND] ', '[IND] ']","['21-19', '21-16']",MS ,20170124
+237,"['Pranaav Jerry Chopra [2]', 'Reddy N. Sikki', 'Reddy B. Sumeeth [7]', 'Ashwini Ponnappa']","['[IND] ', '[IND] ', '[IND] ', '[IND] ']","['22-20', '21-10']",XD ,20170124
+238,"['Pusarla V. Sindhu [1]', 'Gregoria Mariska']","['[IND] ', '[INA] ']","['21-13', '21-14']",WS ,20170124

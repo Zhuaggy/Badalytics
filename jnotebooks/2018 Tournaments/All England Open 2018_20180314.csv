@@ -1,0 +1,61 @@
+,PLAYERS,COUNTRIES,SCORES,EVENT,match_week
+0,"['Michelle Li', 'Ratchanok Intanon [3]']","['[CAN] ', '[THA] ']","['21-15', '14-21', '21-19']",WS ,20180314
+1,"['Gabriela Stoeva', 'Stefani Stoeva', 'Greysia Polii [6]', 'Apriyani Rahayu']","['[BUL] ', '[BUL] ', '[INA] ', '[INA] ']","['21-11', '21-19']",WD ,20180314
+2,"['Tai Tzu Ying [1]', 'Saina Nehwal']","['[TPE] ', '[IND] ']","['21-14', '21-18']",WS ,20180314
+3,"['Misaki Matsutomo [2]', 'Ayaka Takahashi', 'Ashwini Ponnappa', 'Reddy N. Sikki']","['[JPN] ', '[JPN] ', '[IND] ', '[IND] ']","['21-14', '21-13']",WD ,20180314
+4,"['Kidambi Srikanth [3]', 'Brice Leverdez']","['[IND] ', '[FRA] ']","['7-21', '21-14', '22-20']",MS ,20180314
+5,"['Lin Dan [6]', 'Hans-Kristian Solberg Vittinghus']","['[CHN] ', '[DEN] ']","['21-19', '21-16']",MS ,20180314
+6,"['Mathias Boe [2]', 'Carsten Mogensen', 'Chung Eui Seok', 'Kim Dukyoung']","['[DEN] ', '[DEN] ', '[KOR] ', '[KOR] ']","['21-17', '21-9']",MD ,20180314
+7,"['Marcus Ellis', 'Chris Langridge', 'Manu Attri', 'Reddy B. Sumeeth']","['[ENG] ', '[ENG] ', '[IND] ', '[IND] ']","['22-20', '21-12']",MD ,20180314
+8,"['Mathias Christiansen [6]', 'Christinna Pedersen', 'Mark Lamsfuss', 'Isabel Herttrich']","['[DEN] ', '[DEN] ', '[GER] ', '[GER] ']","['17-21', '21-17', '21-12']",XD ,20180314
+9,"['Chris Adcock [7]', 'Gabrielle Adcock', 'Goh Soon Huat', 'Shevon Jemie Lai']","['[ENG] ', '[ENG] ', '[MAS] ', '[MAS] ']","['21-14', '21-15']",XD ,20180314
+10,"['Chen Long [4]', 'Qiao Bin']","['[CHN] ', '[CHN] ']","['21-13', '21-11']",MS ,20180314
+11,"['Lee Hyun Il', 'Anders Antonsen']","['[KOR] ', '[DEN] ']","['21-11', '21-14']",MS ,20180314
+12,"['Fitriani Fitriani', 'Soniia Cheah']","['[INA] ', '[MAS] ']","['16-21', '21-18', '21-9']",WS ,20180314
+13,"['Seung Jae Seo', 'Kim Ha Na', 'Wang Chi-Lin', 'Lee Chia Hsin']","['[KOR] ', '[KOR] ', '[TPE] ', '[TPE] ']","['24-22', '16-21', '21-12']",XD ,20180314
+14,"['Hiroyuki Endo', 'Yuta Watanabe', 'Kittinupong Kedren', 'Dechapol Puavaranukroh']","['[JPN] ', '[JPN] ', '[THA] ', '[THA] ']","['21-8', '24-22']",MD ,20180314
+15,"['Misaki Matsutomo [2]', 'Ayaka Takahashi', 'Della Destiara Haris', 'Rizki Amelia Pradipta']","['[JPN] ', '[JPN] ', '[INA] ', '[INA] ']","['21-12', '21-14']",WD ,20180314
+16,"['Praveen Jordan [4]', 'Debby Susanto', 'Marcus Ellis', 'Lauren Smith']","['[INA] ', '[INA] ', '[ENG] ', '[ENG] ']","['21-12', '21-17']",XD ,20180314
+17,"['Pusarla V. Sindhu [4]', 'Nitchaon Jindapol']","['[IND] ', '[THA] ']","['21-13', '13-21', '21-18']",WS ,20180314
+18,"['Li Junhui [3]', 'Liu Yuchen', 'Kim Astrup', 'Anders Skaarup Rasmussen']","['[CHN] ', '[CHN] ', '[DEN] ', '[DEN] ']","['21-17', '21-17']",MD ,20180314
+19,"['Lee Chong Wei [2]', 'Lee Dong Keun']","['[MAS] ', '[KOR] ']","['21-6', '13-21', '21-18']",MS ,20180314
+20,"['Chris Adcock [7]', 'Gabrielle Adcock', 'Seung Jae Seo', 'Kim Ha Na']","['[ENG] ', '[ENG] ', '[KOR] ', '[KOR] ']","['23-21', '23-21']",XD ,20180314
+21,"['Tai Tzu Ying [1]', 'Busanan Ongbamrungphan']","['[TPE] ', '[THA] ']","['21-15', '21-11']",WS ,20180314
+22,"['Kenta Nishimoto', 'Ng Ka Long Angus']","['[JPN] ', '[HKG] ']","['21-12', '21-15']",MS ,20180314
+23,"['Kamilla Rytter Juhl [3]', 'Christinna Pedersen', 'Du Yue', 'Li Yinhui']","['[DEN] ', '[DEN] ', '[CHN] ', '[CHN] ']","['24-22', '22-24', '21-16']",WD ,20180314
+24,"['Goh V Shem', 'Tan Wee Kiong', 'Marcus Ellis', 'Chris Langridge']","['[MAS] ', '[MAS] ', '[ENG] ', '[ENG] ']","['16-21', '23-21', '21-12']",MD ,20180314
+25,"['Shiho Tanaka [5]', 'Koharu Yonemoto', 'Chen Qingchen [1]', 'Jia Yifan']","['[JPN] ', '[JPN] ', '[CHN] ', '[CHN] ']","['14-21', '21-17', '21-15']",WD ,20180314
+26,"['Tai Tzu Ying [1]', 'Aya Ohori']","['[TPE] ', '[JPN] ']","['21-12', '21-13']",WS ,20180314
+27,"['Marcus Fernaldi Gideon [1]', 'Kevin Sanjaya Sukamuljo', 'Chen Hung Ling [7]', 'Wang Chi-Lin']","['[INA] ', '[INA] ', '[TPE] ', '[TPE] ']","['21-15', '21-13']",MD ,20180314
+28,"['Mathias Christiansen [6]', 'Christinna Pedersen', 'Praveen Jordan [4]', 'Debby Susanto']","['[DEN] ', '[DEN] ', '[INA] ', '[INA] ']","['21-16', '21-15']",XD ,20180314
+29,"['Pusarla V. Sindhu [4]', 'Nozomi Okuhara [7]']","['[IND] ', '[JPN] ']","['20-22', '21-18', '21-18']",WS ,20180314
+30,"['Akane Yamaguchi [2]', 'Carolina Marin [5]']","['[JPN] ', '[ESP] ']","['21-15', '21-18']",WS ,20180314
+31,"['Yuta Watanabe', 'Arisa Higashino', 'Chris Adcock [7]', 'Gabrielle Adcock']","['[JPN] ', '[JPN] ', '[ENG] ', '[ENG] ']","['18-21', '21-15', '21-15']",XD ,20180314
+32,"['Lin Dan [6]', 'Lee Chong Wei [2]']","['[CHN] ', '[MAS] ']","['21-16', '21-17']",MS ,20180314
+33,"['Mathias Boe [2]', 'Carsten Mogensen', 'Goh V Shem', 'Tan Wee Kiong']","['[DEN] ', '[DEN] ', '[MAS] ', '[MAS] ']","['22-20', '21-11']",MD ,20180314
+34,"['Kamilla Rytter Juhl [3]', 'Christinna Pedersen', 'Lee So Hee [7]', 'Shin Seung Chan']","['[DEN] ', '[DEN] ', '[KOR] ', '[KOR] ']","['21-15', '21-14']",WD ,20180314
+35,"['Chen Yufei [8]', 'Mia Blichfeldt']","['[CHN] ', '[DEN] ']","['21-17', '21-12']",WS ,20180314
+36,"['Hiroyuki Endo', 'Yuta Watanabe', 'Liao Min Chun', 'Su Ching Heng']","['[JPN] ', '[JPN] ', '[TPE] ', '[TPE] ']","['21-14', '21-19']",MD ,20180314
+37,"['Zhang Nan [8]', 'Li Yinhui', 'Hafiz Faizal', 'Gloria Emanuelle Widjaja']","['[CHN] ', '[CHN] ', '[INA] ', '[INA] ']","['21-14', '18-21', '21-18']",XD ,20180314
+38,"['Shi Yuqi [7]', 'Chen Long [4]']","['[CHN] ', '[CHN] ']","['21-10', '21-17']",MS ,20180314
+39,"['Mads Conrad-Petersen [6]', 'Mads Pieler Kolding', 'Li Junhui [3]', 'Liu Yuchen']","['[DEN] ', '[DEN] ', '[CHN] ', '[CHN] ']","['23-21', '21-15']",MD ,20180314
+40,"['Yuki Fukushima [4]', 'Sayaka Hirota', 'Jongkolphan Kititharakul [8]', 'Rawinda Prajongjai']","['[JPN] ', '[JPN] ', '[THA] ', '[THA] ']","['21-16', '21-18']",WD ,20180314
+41,"['Son Wan Ho [5]', 'Kenta Nishimoto']","['[KOR] ', '[JPN] ']","['21-18', '9-21', '21-14']",MS ,20180314
+42,"['Mayu Matsumoto', 'Wakana Nagahara', 'Misaki Matsutomo [2]', 'Ayaka Takahashi']","['[JPN] ', '[JPN] ', '[JPN] ', '[JPN] ']","['21-17', '25-23']",WD ,20180314
+43,"['Zheng Siwei [5]', 'Huang Yaqiong', 'Wang Yilyu [2]', 'Huang Dongping']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['21-16', '16-21', '21-11']",XD ,20180314
+44,"['Huang Yuxiang', 'Prannoy H. S.']","['[CHN] ', '[IND] ']","['20-22', '21-16', '23-21']",MS ,20180314
+45,"['Yuta Watanabe', 'Arisa Higashino', 'Zhang Nan [8]', 'Li Yinhui']","['[JPN] ', '[JPN] ', '[CHN] ', '[CHN] ']","['21-14', '21-18']",XD ,20180314
+46,"['Marcus Fernaldi Gideon [1]', 'Kevin Sanjaya Sukamuljo', 'Mads Conrad-Petersen [6]', 'Mads Pieler Kolding']","['[INA] ', '[INA] ', '[DEN] ', '[DEN] ']","['21-11', '21-19']",MD ,20180314
+47,"['Kamilla Rytter Juhl [3]', 'Christinna Pedersen', 'Mayu Matsumoto', 'Wakana Nagahara']","['[DEN] ', '[DEN] ', '[JPN] ', '[JPN] ']","['21-15', '22-20']",WD ,20180314
+48,"['Shi Yuqi [7]', 'Son Wan Ho [5]']","['[CHN] ', '[KOR] ']","['21-17', '21-14']",MS ,20180314
+49,"['Tai Tzu Ying [1]', 'Chen Yufei [8]']","['[TPE] ', '[CHN] ']","['21-15', '20-22', '21-13']",WS ,20180314
+50,"['Akane Yamaguchi [2]', 'Pusarla V. Sindhu [4]']","['[JPN] ', '[IND] ']","['19-21', '21-19', '21-18']",WS ,20180314
+51,"['Lin Dan [6]', 'Huang Yuxiang']","['[CHN] ', '[CHN] ']","['21-14', '13-21', '21-11']",MS ,20180314
+52,"['Yuki Fukushima [4]', 'Sayaka Hirota', 'Shiho Tanaka [5]', 'Koharu Yonemoto']","['[JPN] ', '[JPN] ', '[JPN] ', '[JPN] ']","['16-21', '21-10', '21-12']",WD ,20180314
+53,"['Zheng Siwei [5]', 'Huang Yaqiong', 'Mathias Christiansen [6]', 'Christinna Pedersen']","['[CHN] ', '[CHN] ', '[DEN] ', '[DEN] ']","['18-21', '21-14', '21-19']",XD ,20180314
+54,"['Mathias Boe [2]', 'Carsten Mogensen', 'Hiroyuki Endo', 'Yuta Watanabe']","['[DEN] ', '[DEN] ', '[JPN] ', '[JPN] ']","['21-17', '21-17']",MD ,20180314
+55,"['Yuta Watanabe', 'Arisa Higashino', 'Zheng Siwei [5]', 'Huang Yaqiong']","['[JPN] ', '[JPN] ', '[CHN] ', '[CHN] ']","['15-21', '22-20', '21-16']",XD ,20180314
+56,"['Tai Tzu Ying [1]', 'Akane Yamaguchi [2]']","['[TPE] ', '[JPN] ']","['22-20', '21-13']",WS ,20180314
+57,"['Shi Yuqi [7]', 'Lin Dan [6]']","['[CHN] ', '[CHN] ']","['21-19', '16-21', '21-9']",MS ,20180314
+58,"['Kamilla Rytter Juhl [3]', 'Christinna Pedersen', 'Yuki Fukushima [4]', 'Sayaka Hirota']","['[DEN] ', '[DEN] ', '[JPN] ', '[JPN] ']","['21-19', '21-18']",WD ,20180314
+59,"['Marcus Fernaldi Gideon [1]', 'Kevin Sanjaya Sukamuljo', 'Mathias Boe [2]', 'Carsten Mogensen']","['[INA] ', '[INA] ', '[DEN] ', '[DEN] ']","['21-18', '21-17']",MD ,20180314

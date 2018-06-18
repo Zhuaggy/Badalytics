@@ -1,0 +1,124 @@
+,PLAYERS,COUNTRIES,SCORES,EVENT,match_week
+0,"['Joel Angus', 'Brandon Graham']","['[JAM] ', '[TTO] ']","['21-5', '21-9']",MS - Qualification,20170821
+1,"['Joshua Smith', 'Narayan Ramdhani']","['[TTO] ', '[GUY] ']","['21-19', '11-1']",MS - Qualification,20170821
+2,"['Bradley Pilgrim', 'Jeremy Lewis']","['[BAR] ', '[TTO] ']","['21-16', '21-16']",MS - Qualification,20170821
+3,"['Roger Moore', 'Delsang Lue Taim']","['[TTO] ', '[JAM] ']",[],MS - Qualification,20170821
+4,"['Sabeel Foster', 'Mackenzie Legen']","['[BAR] ', '[TTO] ']","['21-6', '21-15']",MS - Qualification,20170821
+5,"['Shane Wilson', 'Renaldo Sinanan [1]']","['[JAM] ', '[TTO] ']","['21-16', '21-10']",MS - Qualification,20170821
+6,"['Jason Ramjass', 'Matthew Yee-Grant [2]']","['[TTO] ', '[JAM] ']","['19-21', '21-13', '21-8']",MS - Qualification,20170821
+7,"['Joel Angus', 'Vikash Marajh']","['[JAM] ', '[TTO] ']","['21-9', '21-7']",MS - Qualification,20170821
+8,"['Mitch, Aubrey Nai Chung Tong', 'Yonatan Linarez [4]']","['[SUR] ', '[DOM] ']",[],MS - Qualification,20170821
+9,"['Shae Michael Martin', 'Joshua Smith']","['[BAR] ', '[TTO] ']","['12-21', '21-13', '21-14']",MS - Qualification,20170821
+10,"['Bradley Pilgrim', 'Alviero Alvada']","['[BAR] ', '[TTO] ']","['21-19', '21-10']",MS - Qualification,20170821
+11,"['Damien Howell [3]', 'Roger Moore']","['[BAR] ', '[TTO] ']","['21-15', '22-20']",MS - Qualification,20170821
+12,"['Naim Mohammed', 'Sabeel Foster']","['[TTO] ', '[BAR] ']","['21-16', '21-12']",MS - Qualification,20170821
+13,"['Karan Rajan Rajarajan [1]', 'Jason Ramjass']","['[IND] ', '[TTO] ']","['21-6', '21-9']",MS,20170821
+14,"['Shane Wilson', 'Matthew Lee']","['[JAM] ', '[JAM] ']","['21-11', '21-16']",MS,20170821
+15,"['Anthony Mcnee', 'Cory Fanus [7]']","['[JAM] ', '[BAR] ']","['21-16', '21-16']",MS,20170821
+16,"['William Cabrera', 'Bradley Pilgrim']","['[DOM] ', '[BAR] ']","['21-9', '21-11']",MS,20170821
+17,"['Giovanni Toti', 'Nicolas Macias']","['[ITA] ', '[PER] ']","['24-22', '21-15']",MS,20170821
+18,"['Reimi Starling Cabrera Rosario', 'Naim Mohammed']","['[DOM] ', '[TTO] ']","['20-22', '21-13', '21-17']",MS,20170821
+19,"['Daniel La Torre Regal [5]', 'Joel Angus']","['[PER] ', '[JAM] ']","['21-16', '21-7']",MS,20170821
+20,"['Jose Guevara', 'Damien Howell']","['[PER] ', '[BAR] ']","['21-9', '21-11']",MS,20170821
+21,"['Kenneth Anglin', 'Diego Mini [6]']","['[JAM] ', '[PER] ']","['21-18', '21-14']",MS,20170821
+22,"['Soren Opti [3]', 'Diego Subauste Tokumura']","['[SUR] ', '[PER] ']","['21-10', '21-15']",MS,20170821
+23,"['Samuel O’Brien Ricketts', 'Dakeil Jonathan Thorpe']","['[JAM] ', '[BAR] ']","['21-12', '21-8']",MS,20170821
+24,"['Nelson Javier [4]', 'Shae Michael Martin']","['[DOM] ', '[BAR] ']","['21-8', '21-16']",MS,20170821
+25,"['Bruno Barrueto Deza', 'Wilmer Daniel Brea Nuñez']","['[PER] ', '[DOM] ']","['21-18', '21-23', '21-9']",MS,20170821
+26,"['Dennis Coke [8]', 'Mitch, Aubrey Nai Chung Tong']","['[JAM] ', '[SUR] ']","['21-18', '21-12']",MS,20170821
+27,"['Monyata Riviera', 'Arielle Gomez']","['[BAR] ', '[TTO] ']","['21-14', '21-8']",WS,20170821
+28,"['Kevin Cordon [2]', 'Cesar Adonis Brito Gonzalez']","['[GUA] ', '[DOM] ']","['21-23', '21-9', '21-2']",MS,20170821
+29,"['Sabrina Scott', 'Mary - Ann Zhong']","['[BAR] ', '[SUR] ']","['21-16', '21-16']",WS,20170821
+30,"['Ines Castillo', 'Leanna Castanada']","['[PER] ', '[TTO] ']","['21-5', '21-7']",WS,20170821
+31,"['Licelott Sanchez', 'Katherine Wynter']","['[DOM] ', '[JAM] ']","['21-13', '21-15']",WS,20170821
+32,"['Tamisha Williams', 'Avril Plaza Marcelle']","['[BAR] ', '[TTO] ']","['21-8', '21-12']",WS,20170821
+33,"['Santusha Ramzan', 'Nekeisha Blake']","['[SUR] ', '[TTO] ']","['21-15', '21-16']",WS,20170821
+34,"['Paula La Torre Regal', 'Alana Bailey']","['[PER] ', '[JAM] ']","['21-11', '21-7']",WS,20170821
+35,"['Giovanni Toti', 'Kenneth Anglin']","['[ITA] ', '[JAM] ']","['21-15', '21-5']",MS,20170821
+36,"['Brandon Graham', 'Cindy Ramroop', 'Narayan Ramdhani', 'Priyanna Ramdhani']","['[TTO] ', '[TTO] ', '[GUY] ', '[GUY] ']",[],XD,20170821
+37,"['Sattawat Pongnairat', 'Gareth Henry']","['[USA] ', '[JAM] ']","['21-17', '14-21', '21-17']",MS,20170821
+38,"['Ryan Chew', 'Sydney Lee', 'Naim Mohammed', 'Avril Plaza Marcelle']","['[USA] ', '[USA] ', '[TTO] ', '[TTO] ']",[],XD,20170821
+39,"['Samuel O’Brien Ricketts', 'Katherine Wynter', 'Vikash Marajh', 'Naveeta Marajh']","['[JAM] ', '[JAM] ', '[TTO] ', '[TTO] ']","['21-5', '21-4']",XD,20170821
+40,"['Diego Subauste Tokumura', 'Fernanda Saponara Rivva', 'Cory Fanus', 'Monyata Riviera']","['[PER] ', '[PER] ', '[BAR] ', '[BAR] ']","['13-21', '22-20', '21-16']",XD,20170821
+41,"['Reimi Starling Cabrera Rosario', 'Bermary Altagracia Polanco Munoz', 'Sabeel Foster', 'Sabrina Scott']","['[DOM] ', '[DOM] ', '[BAR] ', '[BAR] ']","['21-14', '21-8']",XD,20170821
+42,"['Phillip Chew', 'Ariel Lee', 'Mitch, Aubrey Nai Chung Tong', 'Santusha Ramzan']","['[USA] ', '[USA] ', '[SUR] ', '[SUR] ']","['21-11', '21-15']",XD,20170821
+43,"['Wilmer Daniel Brea Nuñez', 'Noemi Almonte', 'Soren Opti', 'Mary - Ann Zhong']","['[DOM] ', '[DOM] ', '[SUR] ', '[SUR] ']","['21-19', '23-21']",XD,20170821
+44,"['Cesar Adonis Brito Gonzalez', 'Nairoby Abigail Jimenez', 'Jeremy Lewis', 'Latoya Walrond']","['[DOM] ', '[DOM] ', '[TTO] ', '[TTO] ']","['21-7', '21-11']",XD,20170821
+45,"['Anthony Mcnee', 'Shari Hope', 'Renaldo Sinanan', 'Leanna Castanada']","['[JAM] ', '[BAR] ', '[TTO] ', '[TTO] ']","['21-16', '21-7']",XD,20170821
+46,"['Shane Wilson', 'Alana Bailey', 'Shae Michael Martin', 'Amanda Haywood']","['[JAM] ', '[JAM] ', '[BAR] ', '[BAR] ']","['16-21', '21-13', '21-13']",XD,20170821
+47,"['Sattawat Pongnairat', 'Kuei-Ya Chen', 'Dakeil Jonathan Thorpe', 'Tamisha Williams']","['[USA] ', '[USA] ', '[BAR] ', '[BAR] ']","['21-8', '21-12']",XD,20170821
+48,"['Karan Rajan Rajarajan [1]', 'Shane Wilson']","['[IND] ', '[JAM] ']","['21-12', '21-10']",MS,20170821
+49,"['William Cabrera', 'Anthony Mcnee']","['[DOM] ', '[JAM] ']","['21-14', '21-8']",MS,20170821
+50,"['Soren Opti [3]', 'Reimi Starling Cabrera Rosario']","['[SUR] ', '[DOM] ']","['14-21', '21-15', '21-17']",MS,20170821
+51,"['Jose Guevara', 'Daniel La Torre Regal [5]']","['[PER] ', '[PER] ']","['22-24', '21-19', '21-19']",MS,20170821
+52,"['Samuel O’Brien Ricketts', 'Nelson Javier [4]']","['[JAM] ', '[DOM] ']","['21-18', '21-16']",MS,20170821
+53,"['Dennis Coke [8]', 'Bruno Barrueto Deza']","['[JAM] ', '[PER] ']","['21-15', '18-21', '21-12']",MS,20170821
+54,"['Kevin Cordon [2]', 'Sattawat Pongnairat']","['[GUA] ', '[USA] ']","['21-11', '21-15']",MS,20170821
+55,"['Jamie Subandhi [1]', 'Ariel Lee']","['[USA] ', '[USA] ']","['21-5', '21-4']",WS,20170821
+56,"['Sabrina Scott', 'Latoya Walrond']","['[BAR] ', '[TTO] ']","['21-8', '21-8']",WS,20170821
+57,"['Ines Castillo', 'Bermary Altagracia Polanco Munoz [3]']","['[PER] ', '[DOM] ']","['21-8', '21-11']",WS,20170821
+58,"['Fernanda Saponara Rivva', 'Licelott Sanchez']","['[PER] ', '[DOM] ']","['21-12', '21-17']",WS,20170821
+59,"['Noemi Almonte', 'Tamisha Williams']","['[DOM] ', '[BAR] ']","['14-21', '21-11', '23-21']",WS,20170821
+60,"['Daniela Macias [4]', 'Monyata Riviera']","['[PER] ', '[BAR] ']","['21-9', '21-13']",WS,20170821
+61,"['Kuei-Ya Chen', 'Santusha Ramzan']","['[USA] ', '[SUR] ']","['21-9', '21-7']",WS,20170821
+62,"['Paula La Torre Regal', 'Nairoby Abigail Jimenez [2]']","['[PER] ', '[DOM] ']","['21-14', '21-8']",WS,20170821
+63,"['Mitch, Aubrey Nai Chung Tong', 'Soren Opti', 'Shae Michael Martin', 'Narayan Ramdhani']","['[SUR] ', '[SUR] ', '[BAR] ', '[GUY] ']",[],MD,20170821
+64,"['Joel Angus', 'Shane Wilson', 'Jeremy Lewis', 'Renaldo Sinanan']","['[JAM] ', '[JAM] ', '[TTO] ', '[TTO] ']","['21-10', '21-13']",MD,20170821
+65,"['Bruno Barrueto Deza', 'Diego Mini', 'Kenneth Anglin', 'Matthew Lee']","['[PER] ', '[PER] ', '[JAM] ', '[JAM] ']","['21-17', '21-9']",MD,20170821
+66,"['Nicolas Macias', 'Diego Subauste Tokumura', 'Naim Mohammed', 'Jason Ramjass']","['[PER] ', '[PER] ', '[TTO] ', '[TTO] ']",[],MD,20170821
+67,"['Noemi Almonte', 'Bermary Altagracia Polanco Munoz', 'Shari Hope', 'Avril Plaza Marcelle']","['[DOM] ', '[DOM] ', '[BAR] ', '[TTO] ']","['21-12', '21-19']",WD,20170821
+68,"['Ariel Lee', 'Sydney Lee', 'Amanda Haywood', 'Sabrina Scott']","['[USA] ', '[USA] ', '[BAR] ', '[BAR] ']","['21-7', '21-11']",WD,20170821
+69,"['Jose Guevara [1]', 'Daniel La Torre Regal', 'Alviero Alvada', 'Shiva Persad']","['[PER] ', '[PER] ', '[TTO] ', '[TTO] ']","['21-8', '21-17']",MD,20170821
+70,"['Dennis Coke [4]', 'Anthony Mcnee', 'Wilmer Daniel Brea Nuñez', 'Reimi Starling Cabrera Rosario']","['[JAM] ', '[JAM] ', '[DOM] ', '[DOM] ']","['21-14', '21-11']",MD,20170821
+71,"['Phillip Chew [3]', 'Ryan Chew', 'Brandon Graham', 'Mackenzie Legen']","['[USA] ', '[USA] ', '[TTO] ', '[TTO] ']","['21-2', '21-4']",MD,20170821
+72,"['Monyata Riviera', 'Tamisha Williams', 'Meera Mahabir', 'Cindy Ramroop']","['[BAR] ', '[BAR] ', '[TTO] ', '[TTO] ']","['21-8', '21-7']",WD,20170821
+73,"['Kuei-Ya Chen', 'Jamie Subandhi', 'Nekeisha Blake', 'Arielle Gomez']","['[USA] ', '[USA] ', '[TTO] ', '[TTO] ']","['21-7', '21-4']",WD,20170821
+74,"['Nairoby Abigail Jimenez', 'Licelott Sanchez', 'Santusha Ramzan', 'Mary - Ann Zhong']","['[DOM] ', '[DOM] ', '[SUR] ', '[SUR] ']","['21-18', '21-13']",WD,20170821
+75,"['William Cabrera [2]', 'Nelson Javier', 'Delsang Lue Taim', 'Matthew Yee-Grant']","['[DOM] ', '[DOM] ', '[JAM] ', '[JAM] ']",[],MD,20170821
+76,"['Gareth Henry', 'Samuel O’Brien Ricketts', 'Mitch, Aubrey Nai Chung Tong', 'Soren Opti']","['[JAM] ', '[JAM] ', '[SUR] ', '[SUR] ']","['21-11', '21-14']",MD,20170821
+77,"['Joel Angus', 'Shane Wilson', 'Sabeel Foster', 'Bradley Pilgrim']","['[JAM] ', '[JAM] ', '[BAR] ', '[BAR] ']","['21-14', '21-15']",MD,20170821
+78,"['Cory Fanus', 'Dakeil Jonathan Thorpe', 'Nicolas Macias', 'Diego Subauste Tokumura']","['[BAR] ', '[BAR] ', '[PER] ', '[PER] ']","['21-18', '21-18']",MD,20170821
+79,"['Bruno Barrueto Deza', 'Diego Mini', 'Cesar Adonis Brito Gonzalez', 'Yonatan Linarez']","['[PER] ', '[PER] ', '[DOM] ', '[DOM] ']",[],MD,20170821
+80,"['Daniel La Torre Regal [1]', 'Danica Nishimura', 'Phillip Chew', 'Ariel Lee']","['[PER] ', '[PER] ', '[USA] ', '[USA] ']","['21-10', '21-6']",XD,20170821
+81,"['Shane Wilson', 'Alana Bailey', 'Mackenzie Legen', 'Meera Mahabir']","['[JAM] ', '[JAM] ', '[TTO] ', '[TTO] ']","['21-6', '21-1']",XD,20170821
+82,"['William Cabrera [3]', 'Licelott Sanchez', 'Ryan Chew', 'Sydney Lee']","['[DOM] ', '[DOM] ', '[USA] ', '[USA] ']","['21-11', '21-13']",XD,20170821
+83,"['Diego Subauste Tokumura', 'Fernanda Saponara Rivva', 'Reimi Starling Cabrera Rosario', 'Bermary Altagracia Polanco Munoz']","['[PER] ', '[PER] ', '[DOM] ', '[DOM] ']","['21-19', '21-17']",XD,20170821
+84,"['Sattawat Pongnairat', 'Kuei-Ya Chen', 'Anthony Mcnee', 'Shari Hope']","['[USA] ', '[USA] ', '[JAM] ', '[BAR] ']","['21-10', '21-18']",XD,20170821
+85,"['Bruno Barrueto Deza [4]', 'Ines Castillo', 'Brandon Graham', 'Cindy Ramroop']","['[PER] ', '[PER] ', '[TTO] ', '[TTO] ']","['21-10', '21-9']",XD,20170821
+86,"['Samuel O’Brien Ricketts', 'Katherine Wynter', 'Wilmer Daniel Brea Nuñez', 'Noemi Almonte']","['[JAM] ', '[JAM] ', '[DOM] ', '[DOM] ']","['17-21', '21-10', '21-10']",XD,20170821
+87,"['Cesar Adonis Brito Gonzalez', 'Nairoby Abigail Jimenez', 'Diego Mini [2]', 'Paula La Torre Regal']","['[DOM] ', '[DOM] ', '[PER] ', '[PER] ']","['16-21', '21-17', '21-17']",XD,20170821
+88,"['Karan Rajan Rajarajan [1]', 'William Cabrera']","['[IND] ', '[DOM] ']","['21-12', '21-12']",MS,20170821
+89,"['Jose Guevara', 'Soren Opti [3]']","['[PER] ', '[SUR] ']","['21-8', '10-21', '21-19']",MS,20170821
+90,"['Samuel O’Brien Ricketts', 'Giovanni Toti']","['[JAM] ', '[ITA] ']","['21-9', '21-10']",MS,20170821
+91,"['Kevin Cordon [2]', 'Dennis Coke [8]']","['[GUA] ', '[JAM] ']","['21-6', '21-18']",MS,20170821
+92,"['Jamie Subandhi [1]', 'Sabrina Scott']","['[USA] ', '[BAR] ']","['21-4', '21-6']",WS,20170821
+93,"['Fernanda Saponara Rivva', 'Ines Castillo']","['[PER] ', '[PER] ']","['21-18', '21-16']",WS,20170821
+94,"['Daniela Macias [4]', 'Noemi Almonte']","['[PER] ', '[DOM] ']","['21-2', '21-8']",WS,20170821
+95,"['Paula La Torre Regal', 'Kuei-Ya Chen']","['[PER] ', '[USA] ']",['6-7'],WS,20170821
+96,"['Gareth Henry', 'Samuel O’Brien Ricketts', 'Jose Guevara [1]', 'Daniel La Torre Regal']","['[JAM] ', '[JAM] ', '[PER] ', '[PER] ']","['21-15', '21-17']",MD,20170821
+97,"['Dennis Coke [4]', 'Anthony Mcnee', 'Joel Angus', 'Shane Wilson']","['[JAM] ', '[JAM] ', '[JAM] ', '[JAM] ']","['21-11', '21-18']",MD,20170821
+98,"['Phillip Chew [3]', 'Ryan Chew', 'Bruno Barrueto Deza', 'Diego Mini']","['[USA] ', '[USA] ', '[PER] ', '[PER] ']","['21-7', '21-11']",MD,20170821
+99,"['Cory Fanus', 'Dakeil Jonathan Thorpe', 'William Cabrera [2]', 'Nelson Javier']","['[BAR] ', '[BAR] ', '[DOM] ', '[DOM] ']","['21-16', '14-21', '21-18']",MD,20170821
+100,"['Daniela Macias [1]', 'Danica Nishimura', 'Noemi Almonte', 'Bermary Altagracia Polanco Munoz']","['[PER] ', '[PER] ', '[DOM] ', '[DOM] ']","['20-22', '21-11', '21-11']",WD,20170821
+101,"['Ariel Lee', 'Sydney Lee', 'Leanna Castanada', 'Latoya Walrond']","['[USA] ', '[USA] ', '[TTO] ', '[TTO] ']","['21-11', '21-5']",WD,20170821
+102,"['Monyata Riviera', 'Tamisha Williams', 'Kuei-Ya Chen', 'Jamie Subandhi']","['[BAR] ', '[BAR] ', '[USA] ', '[USA] ']",[],WD,20170821
+103,"['Nairoby Abigail Jimenez', 'Licelott Sanchez', 'Ines Castillo [2]', 'Paula La Torre Regal']","['[DOM] ', '[DOM] ', '[PER] ', '[PER] ']","['17-21', '21-17', '21-17']",WD,20170821
+104,"['Bruno Barrueto Deza [4]', 'Ines Castillo', 'Sattawat Pongnairat', 'Kuei-Ya Chen']","['[PER] ', '[PER] ', '[USA] ', '[USA] ']",[],XD,20170821
+105,"['Samuel O’Brien Ricketts', 'Katherine Wynter', 'Cesar Adonis Brito Gonzalez', 'Nairoby Abigail Jimenez']","['[JAM] ', '[JAM] ', '[DOM] ', '[DOM] ']","['22-20', '11-21', '21-19']",XD,20170821
+106,"['Daniel La Torre Regal [1]', 'Danica Nishimura', 'Shane Wilson', 'Alana Bailey']","['[PER] ', '[PER] ', '[JAM] ', '[JAM] ']","['21-14', '21-13']",XD,20170821
+107,"['William Cabrera [3]', 'Licelott Sanchez', 'Diego Subauste Tokumura', 'Fernanda Saponara Rivva']","['[DOM] ', '[DOM] ', '[PER] ', '[PER] ']","['16-21', '21-11', '22-20']",XD,20170821
+108,"['Karan Rajan Rajarajan [1]', 'Jose Guevara']","['[IND] ', '[PER] ']","['21-11', '21-10']",MS,20170821
+109,"['Kevin Cordon [2]', 'Samuel O’Brien Ricketts']","['[GUA] ', '[JAM] ']","['21-12', '21-19']",MS,20170821
+110,"['Jamie Subandhi [1]', 'Fernanda Saponara Rivva']","['[USA] ', '[PER] ']","['21-11', '23-21']",WS,20170821
+111,"['Daniela Macias [4]', 'Paula La Torre Regal']","['[PER] ', '[PER] ']","['22-24', '21-19', '21-11']",WS,20170821
+112,"['Gareth Henry', 'Samuel O’Brien Ricketts', 'Dennis Coke [4]', 'Anthony Mcnee']","['[JAM] ', '[JAM] ', '[JAM] ', '[JAM] ']","['13-21', '21-19', '21-8']",MD,20170821
+113,"['Phillip Chew [3]', 'Ryan Chew', 'Cory Fanus', 'Dakeil Jonathan Thorpe']","['[USA] ', '[USA] ', '[BAR] ', '[BAR] ']","['21-9', '21-8']",MD,20170821
+114,"['Daniela Macias [1]', 'Danica Nishimura', 'Ariel Lee', 'Sydney Lee']","['[PER] ', '[PER] ', '[USA] ', '[USA] ']","['21-11', '21-16']",WD,20170821
+115,"['Nairoby Abigail Jimenez', 'Licelott Sanchez', 'Monyata Riviera', 'Tamisha Williams']","['[DOM] ', '[DOM] ', '[BAR] ', '[BAR] ']","['22-20', '21-14']",WD,20170821
+116,"['Daniel La Torre Regal [1]', 'Danica Nishimura', 'William Cabrera [3]', 'Licelott Sanchez']","['[PER] ', '[PER] ', '[DOM] ', '[DOM] ']","['21-13', '21-14']",XD,20170821
+117,"['Bruno Barrueto Deza [4]', 'Ines Castillo', 'Samuel O’Brien Ricketts', 'Katherine Wynter']","['[PER] ', '[PER] ', '[JAM] ', '[JAM] ']","['18-21', '21-15', '21-18']",XD,20170821
+118,"['Jamie Subandhi [1]', 'Daniela Macias [4]']","['[USA] ', '[PER] ']","['20-22', '25-23', '21-9']",WS ,20170821
+119,"['Kevin Cordon [2]', 'Karan Rajan Rajarajan [1]']","['[GUA] ', '[IND] ']","['21-19', '21-18']",MS ,20170821
+120,"['Daniela Macias [1]', 'Danica Nishimura', 'Nairoby Abigail Jimenez', 'Licelott Sanchez']","['[PER] ', '[PER] ', '[DOM] ', '[DOM] ']","['21-19', '21-12']",WD ,20170821
+121,"['Gareth Henry', 'Samuel O’Brien Ricketts', 'Phillip Chew [3]', 'Ryan Chew']","['[JAM] ', '[JAM] ', '[USA] ', '[USA] ']","['12-21', '21-14', '21-12']",MD ,20170821
+122,"['Daniel La Torre Regal [1]', 'Danica Nishimura', 'Bruno Barrueto Deza [4]', 'Ines Castillo']","['[PER] ', '[PER] ', '[PER] ', '[PER] ']","['21-16', '21-9']",XD ,20170821

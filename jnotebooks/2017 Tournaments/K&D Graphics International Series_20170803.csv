@@ -1,0 +1,88 @@
+,PLAYERS,COUNTRIES,SCORES,EVENT,match_week
+0,"['Bao Duc Duong', 'Bhrugesh Piyush Desai']","['[VIE] ', '[USA] ']","['21-11', '21-13']",MS - Qualification,20170803
+1,"['Adelina Quiñones', 'Maya Chew']","['[MEX] ', '[USA] ']","['21-4', '21-12']",WS,20170803
+2,"['Graceline Gunawan', 'Yesenia Duarte']","['[USA] ', '[MEX] ']","['12-21', '21-19', '21-13']",WS,20170803
+3,"['Annika Horbach', 'Jacqueline Wendy Myers']","['[GER] ', '[USA] ']","['21-9', '21-9']",WS,20170803
+4,"['Jennie Gai', 'Ines Castillo']","['[USA] ', '[PER] ']","['21-7', '21-11']",WS,20170803
+5,"['Abhishek Yelegar [1]', 'Bruno Barrueto Deza']","['[IND] ', '[PER] ']","['21-15', '21-16']",MS,20170803
+6,"['Grimaldy Navirio Gunawan', 'Kyle Golding']","['[USA] ', '[CAN] ']",[],MS,20170803
+7,"['Kevin Cordon', 'Humberto Aguirre Fajardo']","['[GUA] ', '[MEX] ']","['21-7', '21-9']",MS,20170803
+8,"['Howard Shu [3]', 'Dewantoro Pandu']","['[USA] ', '[INA] ']","['21-18', '22-20']",MS,20170803
+9,"['Mark Shelley Alcala', 'Sattawat Pongnairat']","['[USA] ', '[USA] ']","['21-14', '21-12']",MS,20170803
+10,"['Hock Lai Lee [8]', 'Timothy Chiu']","['[USA] ', '[CAN] ']","['21-19', '21-6']",MS,20170803
+11,"['Vinson Chiu', 'Meng-Yung Ong']","['[USA] ', '[USA] ']","['21-14', '21-15']",MS,20170803
+12,"['Jose Guevara', 'Yan Tuck Chan [7]']","['[PER] ', '[USA] ']","['21-10', '21-12']",MS,20170803
+13,"['Yipeng Yang', 'Pedro Arturo Garcia-Flores']","['[USA] ', '[USA] ']","['21-5', '21-6']",MS,20170803
+14,"['Lakhanee Sarang [4]', 'Minh Bao']","['[IND] ', '[VIE] ']","['21-8', '21-10']",MS,20170803
+15,"['Kento Momota', 'Phillips Jap']","['[JPN] ', '[USA] ']","['21-11', '21-8']",MS,20170803
+16,"['Diego Mini [6]', 'Calvin Lin']","['[PER] ', '[USA] ']","['20-22', '21-14', '21-13']",MS,20170803
+17,"['Hoang Nam Nguyen', 'Luis Armando Montoya Navarro']","['[VIE] ', '[MEX] ']","['21-17', '21-17']",MS,20170803
+18,"['Jason Anthony Ho-Shue [2]', 'Misbun Ramdan Mohmed Misbun']","['[CAN] ', '[MAS] ']","['21-14', '21-5']",MS,20170803
+19,['Timothy Lam'],['[USA] '],[],MS,20170803
+20,"['Bao Duc Duong', 'Daniel La Torre Regal [5]']","['[VIE] ', '[PER] ']","['21-18', '21-16']",MS,20170803
+21,"['Toby Ng', 'Josephine Wu', 'Pedro Arturo Garcia-Flores', 'Jacqueline Wendy Myers']","['[CAN] ', '[CAN] ', '[USA] ', '[USA] ']","['21-6', '21-2']",XD,20170803
+22,"['Ryan Chew', 'Sydney Lee', 'Luis Armando Montoya Navarro', 'Yaqueline Duarte']","['[USA] ', '[USA] ', '[MEX] ', '[MEX] ']","['21-16', '21-14']",XD,20170803
+23,"['Tony Gunawan', 'Jamie Hsu', 'Bruno Barrueto Deza', 'Ines Castillo']","['[USA] ', '[USA] ', '[PER] ', '[PER] ']","['21-13', '22-20']",XD,20170803
+24,"['Humberto Aguirre Fajardo', 'Yesenia Duarte', 'Grimaldy Navirio Gunawan', 'Carissa Chung']","['[MEX] ', '[MEX] ', '[USA] ', '[USA] ']","['21-6', '21-14']",XD,20170803
+25,"['Mario Cuba', 'Daniela Macias', 'Clay Tobaw Gilmour', 'Graceline Gunawan']","['[PER] ', '[PER] ', '[USA] ', '[USA] ']","['21-12', '21-16']",XD,20170803
+26,"['Sattawat Pongnairat', 'Kuei-Ya Chen', 'Diego Mini', 'Paula La Torre Regal']","['[USA] ', '[USA] ', '[PER] ', '[PER] ']","['21-11', '21-18']",XD,20170803
+27,"['Andreas Heinz [2]', 'Annika Horbach', 'Phillip Chew', 'Ariel Lee']","['[GER] ', '[GER] ', '[USA] ', '[USA] ']","['21-19', '21-16']",XD,20170803
+28,"['Hock Lai Lee [8]', 'Vinson Chiu']","['[USA] ', '[USA] ']","['21-15', '21-11']",MS,20170803
+29,"['Abhishek Yelegar [1]', 'Grimaldy Navirio Gunawan']","['[IND] ', '[USA] ']","['21-14', '21-10']",MS,20170803
+30,"['Kevin Cordon', 'Bao Duc Duong']","['[GUA] ', '[VIE] ']","['21-7', '21-10']",MS,20170803
+31,"['Timothy Lam', 'Jose Guevara']","['[USA] ', '[PER] ']","['21-19', '21-12']",MS,20170803
+32,"['Maya Chen [3]', 'Natalie Jackie Leung']","['[USA] ', '[USA] ']","['21-3', '21-8']",WS,20170803
+33,"['Kento Momota', 'Diego Mini [6]']","['[JPN] ', '[PER] ']","['21-13', '21-5']",MS,20170803
+34,"['Jason Anthony Ho-Shue [2]', 'Hoang Nam Nguyen']","['[CAN] ', '[VIE] ']","['21-7', '21-13']",MS,20170803
+35,"['Paula La Torre Regal [4]', 'Carissa Chung']","['[PER] ', '[USA] ']","['21-6', '21-6']",WS,20170803
+36,"['Jamie Hsu', 'Disha Gupta [1]']","['[USA] ', '[USA] ']","['21-6', '21-8']",WS,20170803
+37,"['Isabelle Rusli', 'Adelina Quiñones']","['[USA] ', '[MEX] ']","['21-10', '21-18']",WS,20170803
+38,"['Daniela Macias [2]', 'Yaqueline Duarte']","['[PER] ', '[MEX] ']","['21-8', '21-14']",WS,20170803
+39,"['Howard Shu [3]', 'Mark Shelley Alcala']","['[USA] ', '[USA] ']","['14-21', '21-17', '21-18']",MS,20170803
+40,"['Ariel Lee', 'Graceline Gunawan']","['[USA] ', '[USA] ']","['18-21', '21-13', '21-17']",WS,20170803
+41,"['Humberto Aguirre Fajardo', 'Luis Armando Montoya Navarro', 'Musashi Cohn', 'Dean Schoppe']","['[MEX] ', '[MEX] ', '[USA] ', '[USA] ']","['21-14', '21-10']",MD,20170803
+42,"['Kerry Xu', 'Annika Horbach']","['[USA] ', '[GER] ']","['21-7', '21-6']",WS,20170803
+43,"['Lakhanee Sarang [4]', 'Yipeng Yang']","['[IND] ', '[USA] ']","['21-10', '21-5']",MS,20170803
+44,"['Ines Castillo', 'Paula La Torre Regal', 'Maya Chen', 'Disha Gupta']","['[PER] ', '[PER] ', '[USA] ', '[USA] ']","['21-11', '22-20']",WD,20170803
+45,"['Calvin Lin', 'Sattawat Pongnairat', 'Jose Guevara', 'Daniel La Torre Regal']","['[USA] ', '[USA] ', '[PER] ', '[PER] ']","['20-22', '21-17', '21-13']",MD,20170803
+46,"['Phillip Chew', 'Ryan Chew', 'Clay Tobaw Gilmour', 'Grimaldy Navirio Gunawan']","['[USA] ', '[USA] ', '[USA] ', '[USA] ']","['21-2', '21-13']",MD,20170803
+47,"['Yaqueline Duarte', 'Adelina Quiñones', 'Carissa Chung', 'Natalie Jackie Leung']","['[MEX] ', '[MEX] ', '[USA] ', '[USA] ']","['21-8', '21-17']",WD,20170803
+48,"['Vinson Chiu', 'Tony Gunawan', 'Mario Cuba', 'Diego Mini']","['[USA] ', '[USA] ', '[PER] ', '[PER] ']","['15-21', '21-10', '21-9']",MD,20170803
+49,"['Jason Anthony Ho-Shue', 'Nyl Yakura', 'Phillips Jap', 'Hock Lai Lee']","['[CAN] ', '[CAN] ', '[USA] ', '[USA] ']","['21-11', '16-21', '29-27']",MD,20170803
+50,"['Yan Tuck Chan', 'Meng-Yung Ong', 'Vishal Chauhan', 'Gaurav Malhan']","['[USA] ', '[USA] ', '[IND] ', '[IND] ']",[],MD,20170803
+51,"['Annie Xu', 'Jennie Gai']","['[USA] ', '[USA] ']","['22-20', '16-21', '21-19']",WS,20170803
+52,"['Toby Ng', 'Josephine Wu', 'Daniel La Torre Regal [1]', 'Danica Nishimura']","['[CAN] ', '[CAN] ', '[PER] ', '[PER] ']","['21-13', '21-13']",XD,20170803
+53,"['Mario Cuba', 'Daniela Macias', 'Humberto Aguirre Fajardo', 'Yesenia Duarte']","['[PER] ', '[PER] ', '[MEX] ', '[MEX] ']","['21-15', '21-18']",XD,20170803
+54,"['Sattawat Pongnairat', 'Kuei-Ya Chen', 'Andreas Heinz [2]', 'Annika Horbach']","['[USA] ', '[USA] ', '[GER] ', '[GER] ']","['21-7', '22-20']",XD,20170803
+55,"['Tony Gunawan', 'Jamie Hsu', 'Ryan Chew', 'Sydney Lee']","['[USA] ', '[USA] ', '[USA] ', '[USA] ']","['21-13', '21-14']",XD,20170803
+56,"['Jamie Hsu', 'Isabelle Rusli']","['[USA] ', '[USA] ']","['21-9', '21-13']",WS,20170803
+57,"['Paula La Torre Regal [4]', 'Ariel Lee']","['[PER] ', '[USA] ']","['24-22', '19-21', '21-14']",WS,20170803
+58,"['Kerry Xu', 'Maya Chen [3]']","['[USA] ', '[USA] ']","['16-21', '21-13', '21-8']",WS,20170803
+59,"['Daniela Macias [2]', 'Annie Xu']","['[PER] ', '[USA] ']","['16-21', '21-18', '21-9']",WS,20170803
+60,"['Kevin Cordon', 'Abhishek Yelegar [1]']","['[GUA] ', '[IND] ']","['12-21', '21-16', '21-10']",MS,20170803
+61,"['Howard Shu [3]', 'Hock Lai Lee [8]']","['[USA] ', '[USA] ']","['11-21', '21-16', '21-17']",MS,20170803
+62,"['Lakhanee Sarang [4]', 'Timothy Lam']","['[IND] ', '[USA] ']","['21-9', '21-18']",MS,20170803
+63,"['Kento Momota', 'Jason Anthony Ho-Shue [2]']","['[JPN] ', '[CAN] ']","['21-16', '21-13']",MS,20170803
+64,"['Daniela Macias [1]', 'Danica Nishimura', 'Ariel Lee', 'Sydney Lee']","['[PER] ', '[PER] ', '[USA] ', '[USA] ']","['21-15', '21-10']",WD,20170803
+65,"['Yaqueline Duarte', 'Adelina Quiñones', 'Maya Chew', 'Graceline Gunawan']","['[MEX] ', '[MEX] ', '[USA] ', '[USA] ']","['21-10', '21-8']",WD,20170803
+66,"['Annie Xu', 'Kerry Xu', 'Ines Castillo', 'Paula La Torre Regal']","['[USA] ', '[USA] ', '[PER] ', '[PER] ']","['21-10', '21-7']",WD,20170803
+67,"['Kuei-Ya Chen', 'Jamie Hsu', 'Michelle Tong [2]', 'Josephine Wu']","['[USA] ', '[USA] ', '[CAN] ', '[CAN] ']","['21-16', '22-20']",WD,20170803
+68,"['Daniel Benz [1]', 'Andreas Heinz', 'Humberto Aguirre Fajardo', 'Luis Armando Montoya Navarro']","['[GER] ', '[GER] ', '[MEX] ', '[MEX] ']","['21-11', '21-11']",MD,20170803
+69,"['Calvin Lin', 'Sattawat Pongnairat', 'Yan Tuck Chan', 'Meng-Yung Ong']","['[USA] ', '[USA] ', '[USA] ', '[USA] ']","['21-15', '21-15']",MD,20170803
+70,"['Jason Anthony Ho-Shue', 'Nyl Yakura', 'Phillip Chew', 'Ryan Chew']","['[CAN] ', '[CAN] ', '[USA] ', '[USA] ']","['23-25', '21-12', '21-14']",MD,20170803
+71,"['Vinson Chiu', 'Tony Gunawan', 'Minh Bao [2]', 'Bao Duc Duong']","['[USA] ', '[USA] ', '[VIE] ', '[VIE] ']","['24-22', '21-18']",MD,20170803
+72,"['Jamie Hsu', 'Paula La Torre Regal [4]']","['[USA] ', '[PER] ']","['21-10', '21-10']",WS ,20170803
+73,"['Vinson Chiu', 'Tony Gunawan', 'Jason Anthony Ho-Shue', 'Nyl Yakura']","['[USA] ', '[USA] ', '[CAN] ', '[CAN] ']","['21-13', '21-13']",MD ,20170803
+74,"['Annie Xu', 'Kerry Xu', 'Kuei-Ya Chen', 'Jamie Hsu']","['[USA] ', '[USA] ', '[USA] ', '[USA] ']","['21-12', '19-21', '21-12']",WD ,20170803
+75,"['Kento Momota', 'Lakhanee Sarang [4]']","['[JPN] ', '[IND] ']","['21-12', '21-11']",MS ,20170803
+76,"['Toby Ng', 'Josephine Wu', 'Tony Gunawan', 'Jamie Hsu']","['[CAN] ', '[CAN] ', '[USA] ', '[USA] ']","['18-21', '21-13', '21-15']",XD ,20170803
+77,"['Daniela Macias [2]', 'Kerry Xu']","['[PER] ', '[USA] ']","['8-21', '21-19', '21-12']",WS ,20170803
+78,"['Daniel Benz [1]', 'Andreas Heinz', 'Calvin Lin', 'Sattawat Pongnairat']","['[GER] ', '[GER] ', '[USA] ', '[USA] ']","['21-16', '21-14']",MD ,20170803
+79,"['Daniela Macias [1]', 'Danica Nishimura', 'Yaqueline Duarte', 'Adelina Quiñones']","['[PER] ', '[PER] ', '[MEX] ', '[MEX] ']","['21-18', '21-5']",WD ,20170803
+80,"['Kevin Cordon', 'Howard Shu [3]']","['[GUA] ', '[USA] ']","['21-12', '21-13']",MS ,20170803
+81,"['Sattawat Pongnairat', 'Kuei-Ya Chen', 'Mario Cuba', 'Daniela Macias']","['[USA] ', '[USA] ', '[PER] ', '[PER] ']","['21-16', '21-10']",XD ,20170803
+82,"['Jamie Hsu', 'Daniela Macias [2]']","['[USA] ', '[PER] ']","['21-14', '21-12']",WS ,20170803
+83,"['Toby Ng', 'Josephine Wu', 'Sattawat Pongnairat', 'Kuei-Ya Chen']","['[CAN] ', '[CAN] ', '[USA] ', '[USA] ']","['21-19', '21-15']",XD ,20170803
+84,"['Vinson Chiu', 'Tony Gunawan', 'Daniel Benz [1]', 'Andreas Heinz']","['[USA] ', '[USA] ', '[GER] ', '[GER] ']","['16-21', '21-14', '21-14']",MD ,20170803
+85,"['Annie Xu', 'Kerry Xu', 'Daniela Macias [1]', 'Danica Nishimura']","['[USA] ', '[USA] ', '[PER] ', '[PER] ']","['21-11', '21-12']",WD ,20170803
+86,"['Kento Momota', 'Kevin Cordon']","['[JPN] ', '[GUA] ']","['21-7', '21-15']",MS ,20170803

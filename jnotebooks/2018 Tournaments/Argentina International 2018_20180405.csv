@@ -1,0 +1,75 @@
+,PLAYERS,COUNTRIES,SCORES,EVENT,match_week
+0,"['Ignacio Maceiras', 'Javier De Paepe']","['[ARG] ', '[ARG] ']",[],MS - Qualification,20180405
+1,"['Mateo Maira', 'Franco Motto']","['[ARG] ', '[ARG] ']","['21-14', '21-11']",MS - Qualification,20180405
+2,"['Facundo Ayala', 'Andres Vazquez']","['[ARG] ', '[ARG] ']","['21-6', '21-7']",MS - Qualification,20180405
+3,"['Juan Ignacio Segui', 'Angel Bertolez']","['[ARG] ', '[ARG] ']","['16-21', '21-19', '24-22']",MS - Qualification,20180405
+4,"['Enrico Baroni', 'Daniel La Torre Regal [1]']","['[ITA] ', '[PER] ']","['11-21', '21-14', '21-19']",MS,20180405
+5,"['Fabricio Farias [5]', 'Sebastian Contró']","['[BRA] ', '[ARG] ']","['21-12', '21-9']",MS,20180405
+6,"['Federico Diaz', 'Danilo Peralez']","['[ARG] ', '[ARG] ']","['21-8', '21-9']",MS,20180405
+7,"['Alonso Medel [3]', 'Nicolas Oliva']","['[CHI] ', '[ARG] ']","['21-18', '21-16']",MS,20180405
+8,"['Ricky Liuzhou', 'Estanislao Joaquin Othar']","['[USA] ', '[ARG] ']","['21-15', '21-14']",MS,20180405
+9,"['Uriel Francisco Canjura Artiga [6]', 'Lautaro Vosylius']","['[ESA] ', '[ARG] ']","['21-3', '21-7']",MS,20180405
+10,"['Jorge Rodriguez', 'Dino Delmastro']","['[MEX] ', '[ARG] ']","['21-17', '21-16']",MS,20180405
+11,"['Jonathan Matias [8]', 'Braian Romero']","['[BRA] ', '[ARG] ']","['21-5', '21-11']",MS,20180405
+12,"['Giovanni Toti [4]', 'Pablo Sanchez']","['[ITA] ', '[ARG] ']","['21-9', '21-6']",MS,20180405
+13,"['Serafin Zayas', 'Nazareno Ayala']","['[ARG] ', '[ARG] ']","['21-6', '21-12']",MS,20180405
+14,"['Luis Armando Montoya Navarro [7]', 'Mateo Pinto']","['[MEX] ', '[ARG] ']","['21-7', '21-4']",MS,20180405
+15,"['Christopher Alexander Martinez Salvador [2]', 'Leandro Kesler Lusa']","['[GUA] ', '[ARG] ']","['21-11', '21-14']",MS,20180405
+16,"['Angela Zhang', 'Yovella Petrucci']","['[USA] ', '[ARG] ']","['21-15', '21-6']",WS,20180405
+17,"['Ailen Oliva', 'Lara Gallardo']","['[ARG] ', '[ARG] ']","['21-3', '21-7']",WS,20180405
+18,"['Ruhi Raju', 'Florencia Bernatene']","['[USA] ', '[ARG] ']","['21-8', '21-4']",WS,20180405
+19,"['Iona Gualdi', 'Marilyn Romero']","['[ARG] ', '[ARG] ']","['21-5', '21-10']",WS,20180405
+20,"['Micaela Suarez', 'Natalia Montiel']","['[ARG] ', '[ARG] ']","['21-19', '21-13']",WS,20180405
+21,"['Nicolas Oliva', 'Santiago Otero', 'Mateo Maira', 'Franco Motto']","['[ARG] ', '[ARG] ', '[ARG] ', '[ARG] ']","['21-8', '21-7']",MD,20180405
+22,"['Javier Macagno', 'Estanislao Joaquin Othar', 'Facundo Ayala', 'Juan Ignacio Segui']","['[ARG] ', '[ARG] ', '[ARG] ', '[ARG] ']","['15-21', '21-14', '21-16']",MD,20180405
+23,"['Jon Cigorraga', 'Matias Teitelbaum', 'Nazareno Ayala', 'Javier De Paepe']","['[ARG] ', '[ARG] ', '[ARG] ', '[ARG] ']",[],MD,20180405
+24,"['Mateo Delmastro', 'Federico Diaz', 'Angel Bertolez', 'Lautaro Vosylius']","['[ARG] ', '[ARG] ', '[ARG] ', '[ARG] ']","['21-11', '21-7']",MD,20180405
+25,"['Sebastian Contró', 'Pablo Sanchez', 'Leandro Kesler Lusa', 'Mateo Pinto']","['[ARG] ', '[ARG] ', '[ARG] ', '[ARG] ']","['21-10', '19-21', '21-13']",MD,20180405
+26,"['Facundo Maceiras', 'Ignacio Maceiras', 'Danilo Peralez', 'Braian Romero']","['[ARG] ', '[ARG] ', '[ARG] ', '[ARG] ']","['21-11', '21-16']",MD,20180405
+27,"['Federico Diaz', 'Florencia Bernatene', 'Santiago Otero', 'Iona Gualdi']","['[ARG] ', '[ARG] ', '[ARG] ', '[ARG] ']","['21-15', '17-21', '21-19']",XD,20180405
+28,"['Javier Macagno', 'Barbara Maria Berruezo', 'Serafin Zayas', 'Micaela Suarez']","['[ARG] ', '[ARG] ', '[ARG] ', '[ARG] ']","['21-18', '27-25']",XD,20180405
+29,"['Braian Romero', 'Marilyn Romero', 'Estanislao Joaquin Othar', 'Natalia Montiel']","['[ARG] ', '[ARG] ', '[ARG] ', '[ARG] ']","['21-11', '16-21', '23-21']",XD,20180405
+30,"['Alonso Medel', 'Camila Macaya', 'Danilo Peralez', 'Lara Gallardo']","['[CHI] ', '[CHI] ', '[ARG] ', '[ARG] ']","['21-9', '21-4']",XD,20180405
+31,"['Santiago Otero', 'Ignacio Maceiras']","['[ARG] ', '[ARG] ']","['21-7', '21-4']",MS,20180405
+32,"['Javier Macagno', 'Juan Ignacio Segui']","['[ARG] ', '[ARG] ']","['16-21', '21-19', '21-19']",MS,20180405
+33,"['Jaqueline Lima [1]', 'Angela Zhang']","['[BRA] ', '[USA] ']","['21-18', '22-20']",WS,20180405
+34,"['Mateo Delmastro', 'Mateo Maira']","['[ARG] ', '[ARG] ']","['21-9', '21-17']",MS,20180405
+35,"['Facundo Ayala', 'Facundo Maceiras']","['[ARG] ', '[ARG] ']","['21-17', '21-16']",MS,20180405
+36,"['Barbara Maria Berruezo', 'Ailen Oliva']","['[ARG] ', '[ARG] ']","['21-13', '21-17']",WS,20180405
+37,"['Fabricio Farias [5]', 'Federico Diaz']","['[BRA] ', '[ARG] ']","['21-14', '21-19']",MS,20180405
+38,"['Ricky Liuzhou', 'Alonso Medel [3]']","['[USA] ', '[CHI] ']","['21-14', '21-14']",MS,20180405
+39,"['Ruhi Raju', 'Iona Gualdi']","['[USA] ', '[ARG] ']","['21-10', '21-4']",WS,20180405
+40,"['Luis Armando Montoya Navarro [7]', 'Serafin Zayas']","['[MEX] ', '[ARG] ']","['21-18', '21-14']",MS,20180405
+41,"['Camila Macaya [2]', 'Micaela Suarez']","['[CHI] ', '[ARG] ']","['21-11', '21-13']",WS,20180405
+42,"['Enrico Baroni [1]', 'Giovanni Toti', 'Nicolas Oliva', 'Santiago Otero']","['[ITA] ', '[ITA] ', '[ARG] ', '[ARG] ']","['21-17', '23-21']",MD,20180405
+43,"['Uriel Francisco Canjura Artiga [6]', 'Jorge Rodriguez']","['[ESA] ', '[MEX] ']","['21-16', '21-19']",MS,20180405
+44,"['Christopher Alexander Martinez Salvador [2]', 'Javier Macagno']","['[GUA] ', '[ARG] ']","['21-17', '21-14']",MS,20180405
+45,"['Giovanni Toti [4]', 'Santiago Otero']","['[ITA] ', '[ARG] ']","['21-11', '21-11']",MS,20180405
+46,"['Fabricio Farias [1]', 'Jaqueline Lima', 'Braian Romero', 'Marilyn Romero']","['[BRA] ', '[BRA] ', '[ARG] ', '[ARG] ']","['21-7', '21-3']",XD,20180405
+47,"['Jonathan Matias [8]', 'Facundo Ayala']","['[BRA] ', '[ARG] ']","['21-8', '21-11']",MS,20180405
+48,"['Alonso Medel', 'Camila Macaya', 'Mateo Delmastro', 'Yovella Petrucci']","['[CHI] ', '[CHI] ', '[ARG] ', '[ARG] ']","['21-10', '21-13']",XD,20180405
+49,"['Nicolas Oliva', 'Ailen Oliva', 'Federico Diaz', 'Florencia Bernatene']","['[ARG] ', '[ARG] ', '[ARG] ', '[ARG] ']","['21-15', '14-21', '21-14']",XD,20180405
+50,"['Dino Delmastro [2]', 'Serafin Zayas', 'Facundo Maceiras', 'Ignacio Maceiras']","['[ARG] ', '[ARG] ', '[ARG] ', '[ARG] ']","['21-3', '21-4']",MD,20180405
+51,"['Ricky Liuzhou [2]', 'Angela Zhang', 'Javier Macagno', 'Barbara Maria Berruezo']","['[USA] ', '[USA] ', '[ARG] ', '[ARG] ']","['21-11', '21-9']",XD,20180405
+52,"['Mateo Delmastro', 'Federico Diaz', 'Sebastian Contró', 'Pablo Sanchez']","['[ARG] ', '[ARG] ', '[ARG] ', '[ARG] ']","['21-19', '21-11']",MD,20180405
+53,"['Jon Cigorraga', 'Matias Teitelbaum', 'Javier Macagno', 'Estanislao Joaquin Othar']","['[ARG] ', '[ARG] ', '[ARG] ', '[ARG] ']","['21-16', '21-19']",MD,20180405
+54,"['Enrico Baroni', 'Mateo Delmastro']","['[ITA] ', '[ARG] ']","['21-7', '21-15']",MS,20180405
+55,"['Fabricio Farias [5]', 'Enrico Baroni']","['[BRA] ', '[ITA] ']","['21-15', '21-15']",MS,20180405
+56,"['Ricky Liuzhou', 'Uriel Francisco Canjura Artiga [6]']","['[USA] ', '[ESA] ']","['18-21', '21-14', '21-18']",MS,20180405
+57,"['Giovanni Toti [4]', 'Jonathan Matias [8]']","['[ITA] ', '[BRA] ']","['22-24', '21-19', '21-13']",MS,20180405
+58,"['Christopher Alexander Martinez Salvador [2]', 'Luis Armando Montoya Navarro [7]']","['[GUA] ', '[MEX] ']","['21-16', '17-21', '21-12']",MS,20180405
+59,"['Jaqueline Lima [1]', 'Barbara Maria Berruezo']","['[BRA] ', '[ARG] ']","['21-6', '21-12']",WS,20180405
+60,"['Ruhi Raju', 'Camila Macaya [2]']","['[USA] ', '[CHI] ']","['21-11', '21-11']",WS,20180405
+61,"['Mateo Delmastro', 'Federico Diaz', 'Dino Delmastro [2]', 'Serafin Zayas']","['[ARG] ', '[ARG] ', '[ARG] ', '[ARG] ']","['21-19', '21-15']",MD,20180405
+62,"['Iona Gualdi', 'Ailen Oliva', 'Lara Gallardo', 'Marilyn Romero']","['[ARG] ', '[ARG] ', '[ARG] ', '[ARG] ']","['21-10', '21-7']",WD,20180405
+63,"['Enrico Baroni [1]', 'Giovanni Toti', 'Jon Cigorraga', 'Matias Teitelbaum']","['[ITA] ', '[ITA] ', '[ARG] ', '[ARG] ']","['21-9', '21-16']",MD,20180405
+64,"['Florencia Bernatene', 'Barbara Maria Berruezo', 'Yovella Petrucci', 'Micaela Suarez']","['[ARG] ', '[ARG] ', '[ARG] ', '[ARG] ']","['21-7', '22-20']",WD,20180405
+65,"['Fabricio Farias [1]', 'Jaqueline Lima', 'Nicolas Oliva', 'Ailen Oliva']","['[BRA] ', '[BRA] ', '[ARG] ', '[ARG] ']","['21-11', '21-10']",XD,20180405
+66,"['Ricky Liuzhou [2]', 'Angela Zhang', 'Alonso Medel', 'Camila Macaya']","['[USA] ', '[USA] ', '[CHI] ', '[CHI] ']","['21-9', '21-11']",XD,20180405
+67,"['Fabricio Farias [5]', 'Ricky Liuzhou']","['[BRA] ', '[USA] ']","['21-19', '21-16']",MS,20180405
+68,"['Giovanni Toti [4]', 'Christopher Alexander Martinez Salvador [2]']","['[ITA] ', '[GUA] ']","['21-18', '21-8']",MS,20180405
+69,"['Fabricio Farias [5]', 'Giovanni Toti [4]']","['[BRA] ', '[ITA] ']","['21-19', '21-18']",MS,20180405
+70,"['Jaqueline Lima [1]', 'Ruhi Raju']","['[BRA] ', '[USA] ']","['21-15', '21-18']",WS,20180405
+71,"['Florencia Bernatene', 'Barbara Maria Berruezo', 'Iona Gualdi', 'Ailen Oliva']","['[ARG] ', '[ARG] ', '[ARG] ', '[ARG] ']","['21-13', '21-11']",WD,20180405
+72,"['Enrico Baroni [1]', 'Giovanni Toti', 'Mateo Delmastro', 'Federico Diaz']","['[ITA] ', '[ITA] ', '[ARG] ', '[ARG] ']","['22-20', '21-15']",MD,20180405
+73,"['Fabricio Farias [1]', 'Jaqueline Lima', 'Ricky Liuzhou [2]', 'Angela Zhang']","['[BRA] ', '[BRA] ', '[USA] ', '[USA] ']","['21-19', '21-15']",XD,20180405

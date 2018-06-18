@@ -1,0 +1,141 @@
+,PLAYERS,COUNTRIES,SCORES,EVENT,match_week
+0,"['Marina Dremina', 'Inga Budarina']","['[RUS] ', '[RUS] ']","['12-10', '11-7', '11-5']",WS - Qualification,20170718
+1,"['Vitaliya Chigintseva', 'Ekaterina Khmelj']","['[RUS] ', '[RUS] ']","['11-8', '11-7', '3-11', '11-9']",WS - Qualification,20170718
+2,"['Minami Kawashima', 'Alisa Korzhinskaia']","['[JPN] ', '[RUS] ']","['11-1', '11-1', '11-1']",WS - Qualification,20170718
+3,"['Viktoriia Vorobeva', 'Alina Romanko [1]']","['[RUS] ', '[RUS] ']",[],WS - Qualification,20170718
+4,"['Ekaterina Nesterenko', 'Marina Dremina']","['[RUS] ', '[RUS] ']","['11-8', '11-9', '11-13', '11-6']",WS - Qualification,20170718
+5,"['Polina Makkoveeva', 'Vitaliya Chigintseva']","['[RUS] ', '[RUS] ']","['13-11', '11-6', '11-13', '11-4']",WS - Qualification,20170718
+6,"['Minami Kawashima', 'Anastasiia Onasenko']","['[JPN] ', '[RUS] ']","['11-4', '11-0', '11-2']",WS - Qualification,20170718
+7,"['Hin Shun Wong', 'Kirill Timofeev']","['[ENG] ', '[RUS] ']","['11-5', '11-2', '11-2']",MS,20170718
+8,"['Orkhan Galandarov', 'Anton Derbenev']","['[AZE] ', '[RUS] ']","['11-6', '11-2', '11-6']",MS,20170718
+9,"['Siddharath Thakur', 'Anton Kokarev']","['[IND] ', '[RUS] ']","['11-1', '11-7', '11-8']",MS,20170718
+10,"['Siril Verma', 'Andrey Parakhodin']","['[IND] ', '[RUS] ']","['14-12', '11-4', '11-3']",MS,20170718
+11,"['Aditya Joshi', 'Alexey Panov']","['[IND] ', '[RUS] ']","['11-0', '11-0', '11-5']",MS,20170718
+12,"['Haruki Fukuda', 'Alexander Butovetstkiy']","['[JPN] ', '[RUS] ']","['11-7', '11-6', '11-4']",MS,20170718
+13,"['Kentaro Hoshino', 'Vladimir Shipilenko']","['[JPN] ', '[RUS] ']","['11-4', '11-5', '11-6']",MS,20170718
+14,"['Wang Yuehang', 'Harshit Aggarwal']","['[ENG] ', '[IND] ']","['11-9', '8-11', '7-11', '11-7', '11-2']",MS,20170718
+15,"['Rahul Yadav Chittaboina', 'Koji Naito']","['[IND] ', '[JPN] ']","['11-5', '11-8', '11-5']",MS,20170718
+16,"['Lim Chi Wing', 'Pavel Kotsarenko']","['[MAS] ', '[RUS] ']","['11-4', '11-4', '11-4']",MS,20170718
+17,"['Heng Lin Ngan', 'Amir Khamidulin']","['[ENG] ', '[RUS] ']","['6-11', '10-12', '11-7', '11-8', '11-6']",MS,20170718
+18,"['Alexandr Kozyrev', 'Kanan Rzayev']","['[RUS] ', '[AZE] ']","['11-7', '7-11', '11-8', '11-8']",MS,20170718
+19,"['Artem Pochtarov', 'Olga Arkhangelskaya', 'Anton Derbenev', 'Vitaliya Chigintseva']","['[UKR] ', '[RUS] ', '[RUS] ', '[RUS] ']","['11-3', '11-1', '11-2']",XD,20170718
+20,"['Vladimir Malkov', 'Julia Zapolskaya', 'Yuriy Ismogilov', 'Sofia Tsirulnikova']","['[RUS] ', '[RUS] ', '[RUS] ', '[RUS] ']","['8-11', '11-7', '11-4', '11-2']",XD,20170718
+21,"['Andrey Parakhodin', 'Natalia Rogova', 'Artyom Savatyugin', 'Olga Ivashchenko']","['[RUS] ', '[RUS] ', '[UZB] ', '[RUS] ']","['11-7', '11-6', '11-6']",XD,20170718
+22,"['Rodion Kargaev', 'Kristina Vyrvich', 'Orkhan Galandarov', 'Zulfiyya Huseynova']","['[RUS] ', '[RUS] ', '[AZE] ', '[AZE] ']","['11-4', '11-5', '11-6']",XD,20170718
+23,"['Keiichiro Matsui', 'Akane Araki', 'Alexey Panov', 'Polina Makkoveeva']","['[JPN] ', '[JPN] ', '[RUS] ', '[RUS] ']","['11-3', '11-4', '11-5']",XD,20170718
+24,"['Vitalij Durkin', 'Nina Vislova', 'Vladimir Nikulov', 'Ekaterina Kut']","['[RUS] ', '[RUS] ', '[RUS] ', '[RUS] ']","['11-2', '11-8', '11-7']",XD,20170718
+25,"['Vladimir Ivanov', 'Ekaterina Bolotova', 'Masato Takano', 'Aoi Matsuda']","['[RUS] ', '[RUS] ', '[JPN] ', '[JPN] ']","['11-9', '11-9', '11-6']",XD,20170718
+26,"['Saurabh Sharma', 'Anoushka Parikh', 'Alexander Butovetstkiy', 'Anastasia Nazarchuk']","['[IND] ', '[IND] ', '[RUS] ', '[RUS] ']","['11-8', '11-6', '11-7']",XD,20170718
+27,"['Artem Serpionov', 'Viktoriia Vorobeva', 'Kanan Rzayev', 'Adila Mehdiyeva']","['[RUS] ', '[RUS] ', '[AZE] ', '[AZE] ']","['11-2', '11-2', '7-11', '11-7']",XD,20170718
+28,"['Chan Peng Soon', 'Cheah Yee See', 'Pavel Kotsarenko', 'Tatjana Bibik']","['[MAS] ', '[MAS] ', '[RUS] ', '[RUS] ']","['11-7', '11-7', '11-9']",XD,20170718
+29,"['Soniia Cheah [1]', 'Alina Romanko']","['[MAS] ', '[RUS] ']","['11-3', '11-2', '11-2']",WS,20170718
+30,"['Anura Prabhudesai', 'Anastasiia Semenova']","['[IND] ', '[RUS] ']","['11-8', '11-5', '11-6']",WS,20170718
+31,"['Shiori Saito [5]', 'Mariya Malygina']","['[JPN] ', '[RUS] ']","['11-6', '11-2', '11-4']",WS,20170718
+32,"['Natalia Perminova [3]', 'Yaelle Hoyaux']","['[RUS] ', '[FRA] ']","['11-8', '11-7', '11-8']",WS,20170718
+33,"['Shikha Gautam', 'Ekaterina Kut']","['[IND] ', '[RUS] ']","['11-6', '11-5', '9-11', '11-5']",WS,20170718
+34,"['Minami Kawashima', 'Julia Zapolskaya']","['[JPN] ', '[RUS] ']","['11-2', '11-1', '11-2']",WS,20170718
+35,"['Vrushali Gummadi', 'Ksenia Evgenova [8]']","['[IND] ', '[RUS] ']","['11-7', '11-2', '11-5']",WS,20170718
+36,"['Elizaveta Pyatina', 'Ekaterina Nesterenko']","['[RUS] ', '[RUS] ']","['11-8', '11-1', '11-6']",WS,20170718
+37,"['Rasika Raje [6]', 'Sofiia Doroshenko']","['[IND] ', '[RUS] ']","['11-7', '11-5', '11-3']",WS,20170718
+38,"['Natsuki Nidaira [4]', 'Olesia Kister']","['[JPN] ', '[RUS] ']","['11-4', '11-5', '11-6']",WS,20170718
+39,"['Viktoriia Vorobeva', 'Daria Dzhedzhla']","['[RUS] ', '[RUS] ']","['11-1', '15-14', '11-6']",WS,20170718
+40,"['Daria Radchenko', 'Polina Makkoveeva']","['[RUS] ', '[RUS] ']","['8-11', '10-12', '11-8', '11-7', '11-7']",WS,20170718
+41,"['Olga Arkhangelskaya', 'Marie Batomene']","['[RUS] ', '[FRA] ']","['8-11', '11-6', '7-11', '11-3', '11-9']",WS,20170718
+42,"['Victoria Slobodyanyuk [7]', 'Zulfiyya Huseynova']","['[RUS] ', '[AZE] ']","['11-1', '11-4', '11-1']",WS,20170718
+43,"['Evgeniya Kosetskaya [2]', 'Anastasia Redkina']","['[RUS] ', '[RUS] ']","['11-4', '11-7', '11-7']",WS,20170718
+44,"['Anastasiia Sharapova', 'Adila Mehdiyeva']","['[RUS] ', '[AZE] ']","['11-4', '11-4', '11-4']",WS,20170718
+45,"['Hin Shun Wong', 'Semen Iakovlev']","['[ENG] ', '[RUS] ']","['12-10', '11-8', '11-3']",MS,20170718
+46,"['Sergey Sirant [5]', 'Orkhan Galandarov']","['[RUS] ', '[AZE] ']","['11-2', '11-2', '11-2']",MS,20170718
+47,"['Denis Grachev', 'Siddharath Thakur']","['[RUS] ', '[IND] ']","['11-9', '6-11', '11-3', '11-3']",MS,20170718
+48,"['Ryotaro Maruo', 'Siril Verma']","['[JPN] ', '[IND] ']","['11-7', '5-11', '11-5', '11-7']",MS,20170718
+49,"['Artem Pochtarov [6]', 'Aditya Joshi']","['[UKR] ', '[IND] ']","['7-11', '11-7', '11-4', '5-11', '11-4']",MS,20170718
+50,"['Haruki Fukuda', 'Shreyansh Jaiswal']","['[JPN] ', '[IND] ']","['11-9', '4-11', '11-9', '12-10']",MS,20170718
+51,"['Kentaro Hoshino', 'Anton Ivanov']","['[JPN] ', '[RUS] ']","['11-9', '11-9', '11-4']",MS,20170718
+52,"['Wang Yuehang', 'Milan Ludik [7]']","['[ENG] ', '[CZE] ']","['11-6', '11-6', '11-8']",MS,20170718
+53,"['Rahul Yadav Chittaboina', 'Artem Serpionov']","['[IND] ', '[RUS] ']","['11-2', '11-1', '11-4']",MS,20170718
+54,"['Subhankar Dey [4]', 'Thomas Rouxel']","['[IND] ', '[FRA] ']","['6-11', '13-11', '11-6', '11-4']",MS,20170718
+55,"['Lim Chi Wing', 'Vladimir Nikulov']","['[MAS] ', '[RUS] ']","['11-5', '11-3', '11-3']",MS,20170718
+56,"['Anand Pawar [8]', 'Heng Lin Ngan']","['[IND] ', '[ENG] ']","['11-4', '11-6', '11-7']",MS,20170718
+57,"['Alexandr Kozyrev', 'Artyom Savatyugin']","['[RUS] ', '[UZB] ']","['9-11', '11-7', '11-5', '11-8']",MS,20170718
+58,"['Vladimir Malkov [2]', 'Maxime Moreels']","['[RUS] ', '[BEL] ']","['11-5', '11-7', '11-6']",MS,20170718
+59,"['Anastasiia Sharapova', 'Yulia Vasilyeva', 'Elizaveta Pyatina', 'Julia Zapolskaya']","['[RUS] ', '[RUS] ', '[RUS] ', '[RUS] ']","['11-7', '11-9', '11-7']",WD,20170718
+60,"['Yuho Imai', 'Minami Kawashima', 'Mariya Malygina', 'Alina Romanko']","['[JPN] ', '[JPN] ', '[RUS] ', '[RUS] ']","['11-5', '11-3', '11-5']",WD,20170718
+61,"['Akane Araki', 'Aoi Matsuda', 'Ekaterina Kadochnikova', 'Anastasia Redkina']","['[JPN] ', '[JPN] ', '[RUS] ', '[RUS] ']","['11-3', '11-5', '11-5']",WD,20170718
+62,"['Miku Shigeta', 'Haruka Yonemoto', 'Olga Ivashchenko', 'Anastasia Nazarchuk']","['[JPN] ', '[JPN] ', '[RUS] ', '[RUS] ']","['11-2', '11-5', '11-5']",WD,20170718
+63,"['Anastasiia Semenova', 'Kristina Vyrvich', 'Zulfiyya Huseynova', 'Adila Mehdiyeva']","['[RUS] ', '[RUS] ', '[AZE] ', '[AZE] ']","['11-4', '11-6', '11-5']",WD,20170718
+64,"['Masato Takano', 'Yoshiki Tsukamoto', 'Bastian Kersaudy', 'Julien Maio']","['[JPN] ', '[JPN] ', '[FRA] ', '[FRA] ']","['11-8', '11-9', '14-15', '13-15', '11-6']",MD,20170718
+65,"['Kazuaki Oshima', 'Yuta Yamasaki', 'Semen Iakovlev', 'Kirill Timofeev']","['[JPN] ', '[JPN] ', '[RUS] ', '[RUS] ']","['11-2', '11-6', '11-3']",MD,20170718
+66,"['Evgenij Dremin [1]', 'Evgenia Dimova', 'Artem Pochtarov', 'Olga Arkhangelskaya']","['[RUS] ', '[RUS] ', '[UKR] ', '[RUS] ']","['8-11', '13-11', '11-2', '11-7']",XD,20170718
+67,"['Keiichiro Matsui', 'Akane Araki', 'Amir Khamidulin', 'Mariya Malygina']","['[JPN] ', '[JPN] ', '[RUS] ', '[RUS] ']","['11-4', '11-2', '11-3']",XD,20170718
+68,"['Thom Gicquel [4]', 'Delphine Delrue', 'Artem Serpionov', 'Viktoriia Vorobeva']","['[FRA] ', '[FRA] ', '[RUS] ', '[RUS] ']","['11-2', '7-11', '11-2', '13-11']",XD,20170718
+69,"['Andrey Parakhodin', 'Natalia Rogova', 'Vladimir Malkov', 'Julia Zapolskaya']","['[RUS] ', '[RUS] ', '[RUS] ', '[RUS] ']","['11-8', '11-9', '11-7']",XD,20170718
+70,"['Vitalij Durkin', 'Nina Vislova', 'Rodion Kargaev', 'Kristina Vyrvich']","['[RUS] ', '[RUS] ', '[RUS] ', '[RUS] ']","['11-5', '11-7', '8-11', '11-7']",XD,20170718
+71,"['Vladimir Ivanov', 'Ekaterina Bolotova', 'Rodion Alimov [3]', 'Alina Davletova']","['[RUS] ', '[RUS] ', '[RUS] ', '[RUS] ']","['11-2', '11-8', '11-6']",XD,20170718
+72,"['Saurabh Sharma', 'Anoushka Parikh', 'Aleksandr Vasilkin', 'Anastasia Redkina']","['[IND] ', '[IND] ', '[RUS] ', '[RUS] ']","['11-9', '11-5', '11-7']",XD,20170718
+73,"['Chan Peng Soon', 'Cheah Yee See', 'Bastian Kersaudy [2]', 'Lea Palermo']","['[MAS] ', '[MAS] ', '[FRA] ', '[FRA] ']","['10-12', '14-12', '11-6', '13-11']",XD,20170718
+74,"['Soniia Cheah [1]', 'Anura Prabhudesai']","['[MAS] ', '[IND] ']","['11-5', '11-8', '11-7']",WS,20170718
+75,"['Natalia Perminova [3]', 'Daria Radchenko']","['[RUS] ', '[RUS] ']","['11-2', '11-7', '11-5']",WS,20170718
+76,"['Vrushali Gummadi', 'Anastasiia Sharapova']","['[IND] ', '[RUS] ']","['11-8', '15-14', '11-6']",WS,20170718
+77,"['Natsuki Nidaira [4]', 'Shikha Gautam']","['[JPN] ', '[IND] ']","['11-3', '13-11', '11-6']",WS,20170718
+78,"['Victoria Slobodyanyuk [7]', 'Olga Arkhangelskaya']","['[RUS] ', '[RUS] ']","['8-11', '15-14', '11-8', '11-9']",WS,20170718
+79,"['Anatoliy Yartsev', 'Hin Shun Wong']","['[RUS] ', '[ENG] ']","['11-8', '11-6', '11-5']",MS,20170718
+80,"['Rasika Raje [6]', 'Minami Kawashima']","['[IND] ', '[JPN] ']","['13-11', '11-7', '15-14']",WS,20170718
+81,"['Shiori Saito [5]', 'Viktoriia Vorobeva']","['[JPN] ', '[RUS] ']","['11-3', '6-11', '11-7', '9-11', '11-7']",WS,20170718
+82,"['Sergey Sirant [5]', 'Denis Grachev']","['[RUS] ', '[RUS] ']","['5-11', '11-3', '11-8', '14-12']",MS,20170718
+83,"['Ryotaro Maruo', 'Joo Ven Soong [3]']","['[JPN] ', '[MAS] ']","['11-13', '11-5', '8-11', '11-5', '12-10']",MS,20170718
+84,"['Haruki Fukuda', 'Artem Pochtarov [6]']","['[JPN] ', '[UKR] ']","['6-11', '11-4', '11-8', '12-10']",MS,20170718
+85,"['Evgeniya Kosetskaya [2]', 'Elizaveta Pyatina']","['[RUS] ', '[RUS] ']","['11-3', '11-3', '11-7']",WS,20170718
+86,"['Wang Yuehang', 'Kentaro Hoshino']","['[ENG] ', '[JPN] ']","['9-11', '11-9', '11-9', '4-11', '11-9']",MS,20170718
+87,"['Rahul Yadav Chittaboina', 'Subhankar Dey [4]']","['[IND] ', '[IND] ']","['11-13', '11-4', '11-6', '11-7']",MS,20170718
+88,"['Anand Pawar [8]', 'Lim Chi Wing']","['[IND] ', '[MAS] ']","['10-12', '11-6', '11-7', '12-10']",MS,20170718
+89,"['Vladimir Malkov [2]', 'Alexandr Kozyrev']","['[RUS] ', '[RUS] ']","['11-4', '6-11', '11-5', '11-4']",MS,20170718
+90,"['Olga Arkhangelskaya [4]', 'Natalia Rogova', 'Tatjana Bibik', 'Natalia Perminova']","['[RUS] ', '[RUS] ', '[RUS] ', '[RUS] ']","['11-6', '11-5', '8-11', '11-8']",WD,20170718
+91,"['Yuho Imai', 'Minami Kawashima', 'Evgenia Dimova', 'Nina Vislova']","['[JPN] ', '[JPN] ', '[RUS] ', '[RUS] ']","['11-6', '5-11', '15-14', '11-7']",WD,20170718
+92,"['Miku Shigeta', 'Haruka Yonemoto', 'Ksenia Evgenova', 'Ekaterina Kut']","['[JPN] ', '[JPN] ', '[RUS] ', '[RUS] ']","['11-4', '11-6', '6-11', '11-5']",WD,20170718
+93,"['Ekaterina Bolotova [2]', 'Alina Davletova', 'Daria Dzhedzhla', 'Viktoriia Vorobeva']","['[RUS] ', '[RUS] ', '[RUS] ', '[RUS] ']","['11-4', '11-6', '11-4']",WD,20170718
+94,"['Keiichiro Matsui', 'Yoshinori Takeuchi', 'Orkhan Galandarov', 'Kanan Rzayev']","['[JPN] ', '[JPN] ', '[AZE] ', '[AZE] ']","['11-4', '11-4', '11-7']",MD,20170718
+95,"['Arjun M.R. [4]', 'Ramchandran Shlok', 'Rodion Alimov', 'Pavel Kotsarenko']","['[IND] ', '[IND] ', '[RUS] ', '[RUS] ']","['11-9', '11-3', '11-8']",MD,20170718
+96,"['Anastasiia Sharapova', 'Yulia Vasilyeva', 'Ekaterina Khmelj', 'Polina Makkoveeva']","['[RUS] ', '[RUS] ', '[RUS] ', '[RUS] ']","['11-8', '11-9', '9-11', '11-8']",WD,20170718
+97,"['Akane Araki', 'Aoi Matsuda', 'Delphine Delrue [3]', 'Lea Palermo']","['[JPN] ', '[JPN] ', '[FRA] ', '[FRA] ']","['11-5', '11-5', '11-9']",WD,20170718
+98,"['Anastasiia Semenova', 'Kristina Vyrvich', 'Alisa Korzhinskaia', 'Ekaterina Nesterenko']","['[RUS] ', '[RUS] ', '[RUS] ', '[RUS] ']","['11-6', '11-2', '11-3']",WD,20170718
+99,"['Vladimir Ivanov [1]', 'Ivan Sozonov', 'Yuriy Ismogilov', 'Artem Pochtarov']","['[RUS] ', '[RUS] ', '[RUS] ', '[UKR] ']","['11-2', '11-3', '11-7']",MD,20170718
+100,"['Masato Takano', 'Yoshiki Tsukamoto', 'Rodion Kargaev', 'Andrey Parakhodin']","['[JPN] ', '[JPN] ', '[RUS] ', '[RUS] ']","['11-5', '11-2', '11-4']",MD,20170718
+101,"['Konstantin Abramov', 'Alexandr Zinchenko', 'Kazuaki Oshima', 'Yuta Yamasaki']","['[RUS] ', '[RUS] ', '[JPN] ', '[JPN] ']","['12-10', '11-6', '13-11']",MD,20170718
+102,"['Evgenij Dremin [3]', 'Denis Grachev', 'Vladimir Nikulov', 'Artem Serpionov']","['[RUS] ', '[RUS] ', '[RUS] ', '[RUS] ']","['11-7', '11-4', '9-11', '11-8']",MD,20170718
+103,"['Vitalij Durkin', 'Vladimir Malkov', 'Anton Kokarev', 'Alexey Panov']","['[RUS] ', '[RUS] ', '[RUS] ', '[RUS] ']","['11-2', '11-2', '11-0']",MD,20170718
+104,"['Kah Ming Chooi [2]', 'Low Juan Shen', 'Alexandr Kozyrev', 'Aleksandr Vasilkin']","['[MAS] ', '[MAS] ', '[RUS] ', '[RUS] ']","['11-3', '11-5', '11-6']",MD,20170718
+105,"['Andrey Parakhodin', 'Natalia Rogova', 'Thom Gicquel [4]', 'Delphine Delrue']","['[RUS] ', '[RUS] ', '[FRA] ', '[FRA] ']","['9-11', '5-11', '11-7', '11-7', '11-7']",XD ,20170718
+106,"['Natsuki Nidaira [4]', 'Rasika Raje [6]']","['[JPN] ', '[IND] ']","['11-2', '11-4', '11-7']",WS ,20170718
+107,"['Rahul Yadav Chittaboina', 'Wang Yuehang']","['[IND] ', '[ENG] ']","['13-11', '11-5', '11-6']",MS ,20170718
+108,"['Arjun M.R. [4]', 'Ramchandran Shlok', 'Masato Takano', 'Yoshiki Tsukamoto']","['[IND] ', '[IND] ', '[JPN] ', '[JPN] ']","['7-11', '11-9', '11-8', '11-9']",MD ,20170718
+109,"['Akane Araki', 'Aoi Matsuda', 'Miku Shigeta', 'Haruka Yonemoto']","['[JPN] ', '[JPN] ', '[JPN] ', '[JPN] ']","['11-6', '11-4', '11-7']",WD ,20170718
+110,"['Vladimir Malkov [2]', 'Anand Pawar [8]']","['[RUS] ', '[IND] ']","['11-4', '7-11', '11-8', '11-3']",MS ,20170718
+111,"['Ryotaro Maruo', 'Haruki Fukuda']","['[JPN] ', '[JPN] ']","['8-11', '11-9', '11-7', '6-11', '11-7']",MS ,20170718
+112,"['Natalia Perminova [3]', 'Vrushali Gummadi']","['[RUS] ', '[IND] ']","['8-11', '11-8', '10-12', '11-9', '11-9']",WS ,20170718
+113,"['Anastasiia Sharapova', 'Yulia Vasilyeva', 'Vitaliya Chigintseva', 'Marina Dremina']","['[RUS] ', '[RUS] ', '[RUS] ', '[RUS] ']","['11-2', '11-6', '11-0']",WD ,20170718
+114,"['Konstantin Abramov', 'Alexandr Zinchenko', 'Evgenij Dremin [3]', 'Denis Grachev']","['[RUS] ', '[RUS] ', '[RUS] ', '[RUS] ']","['6-11', '11-9', '13-11', '8-11', '11-8']",MD ,20170718
+115,"['Keiichiro Matsui', 'Akane Araki', 'Evgenij Dremin [1]', 'Evgenia Dimova']","['[JPN] ', '[JPN] ', '[RUS] ', '[RUS] ']","['11-6', '6-11', '11-4', '11-7']",XD ,20170718
+116,"['Chan Peng Soon', 'Cheah Yee See', 'Saurabh Sharma', 'Anoushka Parikh']","['[MAS] ', '[MAS] ', '[IND] ', '[IND] ']","['10-12', '11-8', '11-7', '11-8']",XD ,20170718
+117,"['Sergey Sirant [5]', 'Anatoliy Yartsev']","['[RUS] ', '[RUS] ']","['11-7', '9-11', '11-7', '11-5']",MS ,20170718
+118,"['Ekaterina Bolotova [2]', 'Alina Davletova', 'Anastasiia Semenova', 'Kristina Vyrvich']","['[RUS] ', '[RUS] ', '[RUS] ', '[RUS] ']","['11-4', '11-6', '11-7']",WD ,20170718
+119,"['Vladimir Ivanov [1]', 'Ivan Sozonov', 'Keiichiro Matsui', 'Yoshinori Takeuchi']","['[RUS] ', '[RUS] ', '[JPN] ', '[JPN] ']","['10-12', '11-8', '11-6', '15-14']",MD ,20170718
+120,"['Vladimir Ivanov', 'Ekaterina Bolotova', 'Vitalij Durkin', 'Nina Vislova']","['[RUS] ', '[RUS] ', '[RUS] ', '[RUS] ']","['11-8', '11-5', '11-7']",XD ,20170718
+121,"['Soniia Cheah [1]', 'Shiori Saito [5]']","['[MAS] ', '[JPN] ']","['11-8', '11-4', '11-4']",WS ,20170718
+122,"['Evgeniya Kosetskaya [2]', 'Victoria Slobodyanyuk [7]']","['[RUS] ', '[RUS] ']","['11-9', '11-7', '11-4']",WS ,20170718
+123,"['Kah Ming Chooi [2]', 'Low Juan Shen', 'Vitalij Durkin', 'Vladimir Malkov']","['[MAS] ', '[MAS] ', '[RUS] ', '[RUS] ']","['11-6', '6-11', '11-8', '11-6']",MD ,20170718
+124,"['Yuho Imai', 'Minami Kawashima', 'Olga Arkhangelskaya [4]', 'Natalia Rogova']","['[JPN] ', '[JPN] ', '[RUS] ', '[RUS] ']","['11-3', '11-4', '11-2']",WD ,20170718
+125,"['Keiichiro Matsui', 'Akane Araki', 'Andrey Parakhodin', 'Natalia Rogova']","['[JPN] ', '[JPN] ', '[RUS] ', '[RUS] ']","['9-11', '11-3', '11-9', '11-5']",XD ,20170718
+126,"['Evgeniya Kosetskaya [2]', 'Natsuki Nidaira [4]']","['[RUS] ', '[JPN] ']","['5-11', '11-8', '12-10', '11-6']",WS ,20170718
+127,"['Kah Ming Chooi [2]', 'Low Juan Shen', 'Konstantin Abramov', 'Alexandr Zinchenko']","['[MAS] ', '[MAS] ', '[RUS] ', '[RUS] ']","['11-6', '11-9', '9-11', '11-6']",MD ,20170718
+128,"['Sergey Sirant [5]', 'Ryotaro Maruo']","['[RUS] ', '[JPN] ']","['11-7', '11-9', '12-10']",MS ,20170718
+129,"['Akane Araki', 'Aoi Matsuda', 'Ekaterina Bolotova [2]', 'Alina Davletova']","['[JPN] ', '[JPN] ', '[RUS] ', '[RUS] ']","['12-10', '11-7', '11-3']",WD ,20170718
+130,"['Chan Peng Soon', 'Cheah Yee See', 'Vladimir Ivanov', 'Ekaterina Bolotova']","['[MAS] ', '[MAS] ', '[RUS] ', '[RUS] ']","['14-15', '11-9', '11-9', '11-9']",XD ,20170718
+131,"['Vladimir Malkov [2]', 'Rahul Yadav Chittaboina']","['[RUS] ', '[IND] ']","['5-11', '12-10', '7-11', '11-6', '11-8']",MS ,20170718
+132,"['Yuho Imai', 'Minami Kawashima', 'Anastasiia Sharapova', 'Yulia Vasilyeva']","['[JPN] ', '[JPN] ', '[RUS] ', '[RUS] ']","['11-5', '11-9', '11-9']",WD ,20170718
+133,"['Soniia Cheah [1]', 'Natalia Perminova [3]']","['[MAS] ', '[RUS] ']","['12-10', '12-14', '11-2', '11-3']",WS ,20170718
+134,"['Vladimir Ivanov [1]', 'Ivan Sozonov', 'Arjun M.R. [4]', 'Ramchandran Shlok']","['[RUS] ', '[RUS] ', '[IND] ', '[IND] ']","['11-3', '11-2', '11-4']",MD ,20170718
+135,"['Akane Araki', 'Aoi Matsuda', 'Yuho Imai', 'Minami Kawashima']","['[JPN] ', '[JPN] ', '[JPN] ', '[JPN] ']","['11-6', '6-11', '11-7', '7-11', '11-5']",WD ,20170718
+136,"['Sergey Sirant [5]', 'Vladimir Malkov [2]']","['[RUS] ', '[RUS] ']","['13-11', '11-5', '6-11', '7-11', '11-4']",MS ,20170718
+137,"['Evgeniya Kosetskaya [2]', 'Soniia Cheah [1]']","['[RUS] ', '[MAS] ']","['11-9', '5-11', '11-5', '5-11', '11-4']",WS After prize ceremonyWD and MS,20170718
+138,"['Chan Peng Soon', 'Cheah Yee See', 'Keiichiro Matsui', 'Akane Araki']","['[MAS] ', '[MAS] ', '[JPN] ', '[JPN] ']","['11-8', '13-11', '11-3']",XD ,20170718
+139,"['Vladimir Ivanov [1]', 'Ivan Sozonov', 'Kah Ming Chooi [2]', 'Low Juan Shen']","['[RUS] ', '[RUS] ', '[MAS] ', '[MAS] ']","['11-6', '11-9', '11-5']",MD ,20170718

@@ -1,0 +1,87 @@
+,PLAYERS,COUNTRIES,SCORES,EVENT,match_week
+0,"['Juno Thomas', 'Ahmed Amine Ksikes']","['[LUX] ', '[MAR] ']","['21-2', '21-1']",MS - Qualification,20171109
+1,"['Corentin Falh', 'Samir Smael Azizi']","['[FRA] ', '[MAR] ']","['21-2', '21-1']",MS - Qualification,20171109
+2,"['Peder Søvndal', 'Omar Abdel Wahid']","['[DEN] ', '[MAR] ']","['21-3', '21-3']",MS - Qualification,20171109
+3,"['Samson Gradt-Urban', 'Mehdi Erraihani']","['[FRA] ', '[MAR] ']","['21-11', '21-9']",MS - Qualification,20171109
+4,"['Phillipe Charron', 'Roman Razaki']","['[CAN] ', '[BEN] ']","['21-12', '21-14']",MS - Qualification,20171109
+5,"['Vincent Espen', 'Mohamed Ksikes']","['[FRA] ', '[MAR] ']","['21-3', '21-3']",MS - Qualification,20171109
+6,"['Ernesto Velazquez', 'Maxime Tétreault']","['[ESP] ', '[CAN] ']","['21-17', '21-16']",MS - Qualification,20171109
+7,"['Ayham Abd Eleddin', 'Imrane Bellamou']","['[JOR] ', '[MAR] ']","['21-6', '21-8']",MS - Qualification,20171109
+8,"['Romain Frank', 'Adam El Mernissi']","['[FRA] ', '[MAR] ']","['21-11', '21-11']",MS - Qualification,20171109
+9,"['Kari Gunnarsson [4]', 'Souhaib El *Anani']","['[ISL] ', '[MAR] ']","['21-4', '21-3']",MS - Qualification,20171109
+10,"['Bilal Elharab', 'Alex Patrick Zolobe']","['[MAR] ', '[CIV] ']","['21-13', '21-12']",MS - Qualification,20171109
+11,"['Miguel Rocha', 'Hugo Claerbout']","['[POR] ', '[FRA] ']","['21-5', '21-12']",MS - Qualification,20171109
+12,"['Eric Jr Timmerman', 'Ahmad Bachir El Merghadi']","['[BEL] ', '[MAR] ']","['21-12', '21-8']",MS - Qualification,20171109
+13,"['Rowan Scheurkogel [1]', 'Juno Thomas']","['[BEL] ', '[LUX] ']","['21-9', '11-3']",MS - Qualification,20171109
+14,"['Peder Søvndal', 'Corentin Falh']","['[DEN] ', '[FRA] ']","['21-18', '21-15']",MS - Qualification,20171109
+15,"['Koceila Mammeri [3]', 'Samson Gradt-Urban']","['[ALG] ', '[FRA] ']","['21-16', '20-22', '21-16']",MS - Qualification,20171109
+16,"['Phillipe Charron', 'Vincent Espen']","['[CAN] ', '[FRA] ']","['14-21', '22-20', '21-19']",MS - Qualification,20171109
+17,"['Ernesto Velazquez', 'Ayham Abd Eleddin']","['[ESP] ', '[JOR] ']","['21-15', '21-9']",MS - Qualification,20171109
+18,"['Kari Gunnarsson [4]', 'Romain Frank']","['[ISL] ', '[FRA] ']","['21-13', '19-21', '21-13']",MS - Qualification,20171109
+19,"['Miguel Rocha', 'Bilal Elharab']","['[POR] ', '[MAR] ']","['21-18', '18-21', '21-18']",MS - Qualification,20171109
+20,"['Eric Jr Timmerman', 'Mattias Sonderskov [2]']","['[BEL] ', '[LUX] ']",[],MS - Qualification,20171109
+21,"['Lucas Claerbout [1]', 'Jan Louda']","['[FRA] ', '[CZE] ']","['21-11', '21-8']",MS,20171109
+22,"['Mohamed Abderrahime Belarbi', 'Koceila Mammeri']","['[ALG] ', '[ALG] ']","['21-10', '21-8']",MS,20171109
+23,"['Adham Hatem Elgamal [7]', 'Phillipe Charron']","['[EGY] ', '[CAN] ']","['21-14', '21-23', '24-22']",MS,20171109
+24,"['Mohd Naser Mansour Nayef', 'Elias Bracke']","['[JOR] ', '[BEL] ']",['14-5'],MS,20171109
+25,"['Milan Ludik [3]', 'Aatish Lubah']","['[CZE] ', '[MRI] ']","['21-10', '21-14']",MS,20171109
+26,"['Rowan Scheurkogel', 'Mohammad Bani Hani']","['[BEL] ', '[JOR] ']","['21-11', '21-14']",MS,20171109
+27,"['Ernesto Velazquez', 'Bjorn Seguin [6]']","['[ESP] ', '[USA] ']","['21-18', '21-15']",MS,20171109
+28,"['Birger Abts', 'Matej Hlinican']","['[BEL] ', '[SVK] ']","['21-18', '21-15']",MS,20171109
+29,"['Robert Mann', 'Eric Jr Timmerman']","['[LUX] ', '[BEL] ']","['21-19', '21-19']",MS,20171109
+30,"['Soren Toft Hansen', 'Bahaedeen Ahmad Alshannik [8]']","['[DEN] ', '[JOR] ']","['21-15', '21-11']",MS,20171109
+31,"['Peder Søvndal', 'Milan Dratva']","['[DEN] ', '[SVK] ']","['21-19', '21-19']",MS,20171109
+32,"['Adam Mendrek [4]', 'Youcef Sabri Medel']","['[CZE] ', '[ALG] ']","['21-10', '21-18']",MS,20171109
+33,"['Kari Gunnarsson', 'Adel Hamek']","['[ISL] ', '[ALG] ']","['21-15', '11-21', '21-18']",MS,20171109
+34,"['Georges Julien Paul [5]', 'Abdelrahman Abdelhakim']","['[MRI] ', '[EGY] ']","['21-12', '21-23', '21-12']",MS,20171109
+35,"['Christian Kirchmayr', 'Lukas Zevl']","['[SUI] ', '[CZE] ']","['21-11', '21-12']",MS,20171109
+36,"['Maxime Moreels [2]', 'Miguel Rocha']","['[BEL] ', '[POR] ']","['21-15', '21-10']",MS,20171109
+37,"['Domou Amro', 'Lianne Tan']","['[JOR] ', '[BEL] ']",[],WS,20171109
+38,"['Rajae Rochdy', 'Baya Nesrine']","['[MAR] ', '[ALG] ']","['21-11', '21-9']",WS,20171109
+39,"['Kristin Kuuba', 'Jinane Bitarie']","['[EST] ', '[MAR] ']","['21-9', '21-5']",WS,20171109
+40,"['Zuzana Pavelkova', 'Halla Bouksani']","['[CZE] ', '[ALG] ']","['21-16', '21-9']",WS,20171109
+41,"['Maja Pavlinic', 'Chang Ya Lan']","['[CRO] ', '[TPE] ']",[],WS,20171109
+42,"['Haneen Derar Al-Wedyan', 'Oumaima Elherz']","['[JOR] ', '[MAR] ']","['21-3', '21-8']",WS,20171109
+43,"['Bridget Shamim Bangi', 'Linda Mazri']","['[UGA] ', '[ALG] ']","['21-9', '21-9']",WS,20171109
+44,"['Grace Gabriel', 'Helina Rüütel']","['[NGR] ', '[EST] ']","['15-21', '21-18', '25-23']",WS,20171109
+45,"['Lucas Claerbout [1]', 'Mohamed Abderrahime Belarbi']","['[FRA] ', '[ALG] ']","['21-5', '21-8']",MS,20171109
+46,"['Mohd Naser Mansour Nayef', 'Adham Hatem Elgamal [7]']","['[JOR] ', '[EGY] ']","['24-22', '22-24', '21-19']",MS,20171109
+47,"['Milan Ludik [3]', 'Rowan Scheurkogel']","['[CZE] ', '[BEL] ']","['23-21', '21-17']",MS,20171109
+48,"['Ernesto Velazquez', 'Birger Abts']","['[ESP] ', '[BEL] ']","['21-9', '21-8']",MS,20171109
+49,"['Soren Toft Hansen', 'Robert Mann']","['[DEN] ', '[LUX] ']","['21-13', '22-20']",MS,20171109
+50,"['Adam Mendrek [4]', 'Peder Søvndal']","['[CZE] ', '[DEN] ']","['21-8', '21-19']",MS,20171109
+51,"['Georges Julien Paul [5]', 'Kari Gunnarsson']","['[MRI] ', '[ISL] ']","['21-18', '21-18']",MS,20171109
+52,"['Maxime Moreels [2]', 'Christian Kirchmayr']","['[BEL] ', '[SUI] ']","['21-17', '21-13']",MS,20171109
+53,"['Domou Amro', 'Hadia Hosny [1]']","['[JOR] ', '[EGY] ']","['16-21', '21-13', '21-18']",WS,20171109
+54,"['Sonia Goncalves', 'Rajae Rochdy']","['[POR] ', '[MAR] ']","['21-13', '21-6']",WS,20171109
+55,"['Ayla Huser [4]', 'Kristin Kuuba']","['[SUI] ', '[EST] ']","['21-14', '23-25', '21-14']",WS,20171109
+56,"['Manon Krieger', 'Zuzana Pavelkova']","['[FRA] ', '[CZE] ']","['21-17', '12-21', '21-17']",WS,20171109
+57,"['Maja Pavlinic', 'Ines Ziani']","['[CRO] ', '[ALG] ']","['21-3', '21-5']",WS,20171109
+58,"['Katerina Tomalova [3]', 'Haneen Derar Al-Wedyan']","['[CZE] ', '[JOR] ']","['21-6', '21-7']",WS,20171109
+59,"['Bridget Shamim Bangi', 'Ghita Charouite']","['[UGA] ', '[MAR] ']","['21-4', '21-14']",WS,20171109
+60,"['Martina Repiska [2]', 'Grace Gabriel']","['[SVK] ', '[NGR] ']","['21-19', '18-21', '21-15']",WS,20171109
+61,"['Vincent Espen', 'Samson Gradt-Urban', 'Mehdi Erraihani', 'Mohamed Ksikes']","['[FRA] ', '[FRA] ', '[MAR] ', '[MAR] ']","['21-1', '21-8']",MD,20171109
+62,"['Kari Gunnarsson', 'Ernesto Velazquez', 'Koceila Mammeri [4]', 'Youcef Sabri Medel']","['[ISL] ', '[ESP] ', '[ALG] ', '[ALG] ']","['21-16', '16-21', '21-15']",MD,20171109
+63,"['Florent Riancho', 'Bjorn Seguin', 'Ayham Abd Eleddin', 'Mohammad Bani Hani']","['[FRA] ', '[USA] ', '[JOR] ', '[JOR] ']","['21-7', '21-12']",MD,20171109
+64,"['Abdelrahman Abdelhakim', 'Adham Hatem Elgamal', 'Adam El Mernissi', 'Ahmed Amine Ksikes']","['[EGY] ', '[EGY] ', '[MAR] ', '[MAR] ']","['21-18', '21-15']",MD,20171109
+65,"['Milan Dratva [3]', 'Matej Hlinican', 'Hugo Claerbout', 'Corentin Falh']","['[SVK] ', '[SVK] ', '[FRA] ', '[FRA] ']","['21-12', '21-12']",MD,20171109
+66,"['Mohamed Abderrahime Belarbi', 'Adel Hamek', 'Mattias Sonderskov', 'Juno Thomas']","['[ALG] ', '[ALG] ', '[LUX] ', '[LUX] ']",[],MD,20171109
+67,"['Phillipe Charron', 'Maxime Tétreault', 'Bahaedeen Ahmad Alshannik [2]', 'Mohd Naser Mansour Nayef']","['[CAN] ', '[CAN] ', '[JOR] ', '[JOR] ']","['19-21', '21-17', '21-16']",MD,20171109
+68,"['Vincent Espen', 'Manon Krieger', 'Mohamed Ksikes', 'Oumaima Elherz']","['[FRA] ', '[FRA] ', '[MAR] ', '[MAR] ']","['21-3', '21-1']",XD,20171109
+69,"['Koceila Mammeri', 'Linda Mazri', 'Adam El Mernissi', 'Ghita Charouite']","['[ALG] ', '[ALG] ', '[MAR] ', '[MAR] ']","['21-14', '21-14']",XD,20171109
+70,"['Mohd Naser Mansour Nayef', 'Haneen Derar Al-Wedyan', 'Bilal Elharab', 'Rajae Rochdy']","['[JOR] ', '[JOR] ', '[MAR] ', '[MAR] ']","['21-14', '21-10']",XD,20171109
+71,"['Haneen Derar Al-Wedyan', 'Domou Amro', 'Halla Bouksani [2]', 'Linda Mazri']","['[JOR] ', '[JOR] ', '[ALG] ', '[ALG] ']","['22-20', '21-13']",WD ,20171109
+72,"['Manon Krieger', 'Sonia Goncalves']","['[FRA] ', '[POR] ']","['21-18', '23-21']",WS ,20171109
+73,"['Florent Riancho', 'Bjorn Seguin', 'Vincent Espen', 'Samson Gradt-Urban']","['[FRA] ', '[USA] ', '[FRA] ', '[FRA] ']","['21-19', '22-20']",MD ,20171109
+74,"['Kristin Kuuba [1]', 'Helina Rüütel', 'Jinane Bitarie', 'Ghita Charouite']","['[EST] ', '[EST] ', '[MAR] ', '[MAR] ']","['21-4', '21-10']",WD ,20171109
+75,"['Bahaedeen Ahmad Alshannik [1]', 'Domou Amro', 'Vincent Espen', 'Manon Krieger']","['[JOR] ', '[JOR] ', '[FRA] ', '[FRA] ']","['18-21', '21-18', '21-14']",XD ,20171109
+76,"['Soren Toft Hansen', 'Maxime Moreels [2]']","['[DEN] ', '[BEL] ']","['12-21', '21-15', '21-18']",MS ,20171109
+77,"['Martina Repiska [2]', 'Katerina Tomalova [3]']","['[SVK] ', '[CZE] ']","['21-16', '23-21']",WS ,20171109
+78,"['Milan Dratva [3]', 'Matej Hlinican', 'Mohamed Abderrahime Belarbi', 'Adel Hamek']","['[SVK] ', '[SVK] ', '[ALG] ', '[ALG] ']","['21-16', '21-11']",MD ,20171109
+79,"['Lucas Claerbout [1]', 'Milan Ludik [3]']","['[FRA] ', '[CZE] ']","['18-21', '24-22', '21-18']",MS ,20171109
+80,"['Milan Dratva [2]', 'Martina Repiska', 'Abdelrahman Abdelhakim', 'Hadia Hosny']","['[SVK] ', '[SVK] ', '[EGY] ', '[EGY] ']","['21-7', '21-13']",XD ,20171109
+81,"['Milan Dratva [2]', 'Martina Repiska', 'Bahaedeen Ahmad Alshannik [1]', 'Domou Amro']","['[SVK] ', '[SVK] ', '[JOR] ', '[JOR] ']","['23-21', '21-5']",XD ,20171109
+82,"['Lucas Claerbout [1]', 'Soren Toft Hansen']","['[FRA] ', '[DEN] ']","['21-14', '21-13']",MS ,20171109
+83,"['Martina Repiska [2]', 'Manon Krieger']","['[SVK] ', '[FRA] ']","['21-19', '21-18']",WS ,20171109
+84,"['Florent Riancho', 'Bjorn Seguin', 'Milan Dratva [3]', 'Matej Hlinican']","['[FRA] ', '[USA] ', '[SVK] ', '[SVK] ']","['21-15', '21-17']",MD ,20171109
+85,"['Kristin Kuuba [1]', 'Helina Rüütel', 'Haneen Derar Al-Wedyan', 'Domou Amro']","['[EST] ', '[EST] ', '[JOR] ', '[JOR] ']","['21-8', '21-9']",WD ,20171109

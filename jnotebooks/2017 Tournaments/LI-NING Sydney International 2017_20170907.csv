@@ -1,0 +1,106 @@
+,PLAYERS,COUNTRIES,SCORES,EVENT,match_week
+0,"['Muhammad Izzuddin Shamsul Muzli', 'Johnny Pit Kng Low']","['[MAS] ', '[AUS] ']","['21-6', '21-3']",MS,20170907
+1,"['Lin Chun-Yi', 'Rio Agustino']","['[TPE] ', '[AUS] ']","['21-6', '21-6']",MS,20170907
+2,"['Kai Ho Tang', 'Pascal Souksavat']","['[ENG] ', '[AUS] ']","['21-12', '21-15']",MS,20170907
+3,"['Sachin Dias', 'William Ponsonby']","['[SRI] ', '[AUS] ']","['21-8', '21-4']",MS,20170907
+4,"['Nathan Tang', 'Hussein Zayan Shaheed']","['[AUS] ', '[MDV] ']","['21-9', '21-16']",MS,20170907
+5,"['Trung Hieu', 'Ethan Chen']","['[AUS] ', '[AUS] ']","['21-13', '23-21']",MS,20170907
+6,"['Yang Shen', 'Lin Bing-Wei']","['[AUS] ', '[TPE] ']","['22-20', '21-16']",MS,20170907
+7,"['Buwaneka Goonethilleka', 'Edward Liu']","['[SRI] ', '[AUS] ']","['21-5', '21-4']",MS,20170907
+8,"['Chet Vin Wong', 'Stephen Kim']","['[MAS] ', '[AUS] ']","['21-11', '21-13']",MS,20170907
+9,"['Shiau Cheng Chen', 'Tristan Michael Edison']","['[TPE] ', '[AUS] ']","['21-6', '21-13']",MS,20170907
+10,"['Joel Findlay', 'Yuki Liu']","['[AUS] ', '[AUS] ']","['21-13', '14-21', '21-10']",MS,20170907
+11,"['Hin Shun Wong', 'Zhao Jie Stanley Chiong']","['[ENG] ', '[AUS] ']","['21-14', '21-19']",MS,20170907
+12,"['Chin Yong Chian', 'Peter Yan']","['[MAS] ', '[AUS] ']","['21-12', '21-18']",MS,20170907
+13,"['Chia Hao Lee', 'Michael Fariman']","['[TPE] ', '[AUS] ']","['21-9', '21-16']",MS,20170907
+14,"['Raymond Sing', 'Sarim Mohamed']","['[AUS] ', '[MDV] ']","['21-12', '22-20']",MS,20170907
+15,"['Ranthushka Sasindu', 'Jacob Schueler']","['[SRI] ', '[AUS] ']","['21-16', '18-21', '21-13']",MS,20170907
+16,"['Su Li Yang', 'Francis Joey Wong']","['[TPE] ', '[AUS] ']","['21-1', '21-7']",MS,20170907
+17,"['Wu Cheng-En', 'Kai Chen Teoh']","['[TPE] ', '[AUS] ']","['21-11', '21-7']",MS,20170907
+18,"['Pin Chun Chao', 'Patrick Hii']","['[TPE] ', '[AUS] ']","['21-12', '21-19']",MS,20170907
+19,"['Lin Sih Yun', 'Michelle Tam']","['[TPE] ', '[AUS] ']","['21-9', '21-3']",WS,20170907
+20,"['Amelia Lowe', 'Sara Mohmand']","['[AUS] ', '[PAK] ']","['14-21', '21-12', '21-15']",WS,20170907
+21,"['Hsieh Yu Ying', 'Claudia Lam']","['[TPE] ', '[AUS] ']","['21-10', '21-10']",WS,20170907
+22,"['Sin Er Ng', 'Majan Almazan']","['[MAS] ', '[AUS] ']","['21-13', '21-7']",WS,20170907
+23,"['Lin Jhih Yun', 'Zecily Fung']","['[TPE] ', '[AUS] ']","['21-14', '21-11']",WS,20170907
+24,"['Stephanie Fan', 'Kelly Stern']","['[AUS] ', '[NZL] ']","['21-6', '21-8']",WS,20170907
+25,"['Huang Yin Hsuan', 'Kelly Xu']","['[TPE] ', '[AUS] ']","['21-12', '21-11']",WS,20170907
+26,"['Lekha Shehani', 'Isabelle Tian Yi Zhang']","['[SRI] ', '[AUS] ']","['21-5', '21-1']",WS,20170907
+27,"['Lin Hsiang Ti', 'Yingzi Jiang']","['[TPE] ', '[AUS] ']","['21-7', '21-5']",WS,20170907
+28,"['Muhammad Izzuddin Shamsul Muzli', 'Daniel Fan']","['[MAS] ', '[AUS] ']","['21-15', '21-12']",MS,20170907
+29,"['Sachin Dias', 'Pit Seng Low [5]']","['[SRI] ', '[AUS] ']","['21-6', '21-10']",MS,20170907
+30,"['Lin Chun-Yi', 'Nathan Tang']","['[TPE] ', '[AUS] ']","['21-5', '21-12']",MS,20170907
+31,"['Cham Chen', 'Kai Ho Tang']","['[AUS] ', '[ENG] ']","['18-21', '21-14', '21-17']",MS,20170907
+32,"['Wang Yuehang [4]', 'Trung Hieu']","['[ENG] ', '[AUS] ']","['21-13', '21-13']",MS,20170907
+33,"['Yang Shen', 'Janson Trinh']","['[AUS] ', '[AUS] ']","['21-13', '21-13']",MS,20170907
+34,"['Buwaneka Goonethilleka', 'Chen Chi Ting [8]']","['[SRI] ', '[TPE] ']","['21-18', '24-22']",MS,20170907
+35,"['Keith Mark Edison', 'Chet Vin Wong']","['[AUS] ', '[MAS] ']","['21-17', '17-21', '23-21']",MS,20170907
+36,"['Shiau Cheng Chen', 'Joel Findlay']","['[TPE] ', '[AUS] ']","['21-8', '21-10']",MS,20170907
+37,"['Dinuka Karunaratna [6]', 'Hin Shun Wong']","['[SRI] ', '[ENG] ']","['21-14', '21-8']",MS,20170907
+38,"['Chia Hao Lee', 'Chin Yong Chian']","['[TPE] ', '[MAS] ']","['21-14', '21-14']",MS,20170907
+39,"['Anthony Joe [3]', 'Raymond Sing']","['[AUS] ', '[AUS] ']","['21-15', '21-8']",MS,20170907
+40,"['Ranthushka Sasindu', 'Dimitri Han']","['[SRI] ', '[AUS] ']","['21-13', '21-14']",MS,20170907
+41,"['Su Li Yang', 'Ashwant Gobinathan [7]']","['[TPE] ', '[AUS] ']","['21-5', '21-15']",MS,20170907
+42,"['Lin Hsiang Ti', 'Jennifer Tam [3]']","['[TPE] ', '[AUS] ']","['21-8', '21-14']",WS,20170907
+43,"['Lin Sih Yun', 'Hsuan-Yu Wendy Chen [1]']","['[TPE] ', '[AUS] ']","['11-21', '21-10', '21-15']",WS,20170907
+44,"['Lin Chun-Yi', 'Sachin Dias']","['[TPE] ', '[SRI] ']","['21-13', '23-21']",MS,20170907
+45,"['Shiau Cheng Chen', 'Dinuka Karunaratna [6]']","['[TPE] ', '[SRI] ']","['21-15', '21-15']",MS,20170907
+46,"['Muhammad Izzuddin Shamsul Muzli', 'Pin Chun Chao']","['[MAS] ', '[TPE] ']","['21-17', '21-18']",MS,20170907
+47,"['Chia Hao Lee', 'Anthony Joe [3]']","['[TPE] ', '[AUS] ']","['21-10', '21-14']",MS,20170907
+48,"['Su Li Yang', 'Ranthushka Sasindu']","['[TPE] ', '[SRI] ']","['21-15', '20-22', '21-8']",MS,20170907
+49,"['Wu Cheng-En', 'Cham Chen']","['[TPE] ', '[AUS] ']","['21-6', '21-10']",MS,20170907
+50,"['Wang Yuehang [4]', 'Yang Shen']","['[ENG] ', '[AUS] ']","['21-13', '21-10']",MS,20170907
+51,"['Waduthantri Kavindika Binari De Silva', 'Amelia Lowe']","['[SRI] ', '[AUS] ']","['21-6', '21-8']",WS,20170907
+52,"['Buwaneka Goonethilleka', 'Keith Mark Edison']","['[SRI] ', '[AUS] ']","['11-21', '21-13', '21-15']",MS,20170907
+53,"['Sylvina Kurniawan', 'Lin Jhih Yun']","['[AUS] ', '[TPE] ']","['21-15', '15-21', '23-21']",WS,20170907
+54,"['Huang Yin Hsuan', 'Lekha Shehani']","['[TPE] ', '[SRI] ']","['21-14', '21-15']",WS,20170907
+55,"['Sin Er Ng', 'Stephanie Fan']","['[MAS] ', '[AUS] ']","['21-12', '21-11']",WS,20170907
+56,"['Hsieh Yu Ying', 'Lauren Lim [4]']","['[TPE] ', '[AUS] ']","['21-8', '21-8']",WS,20170907
+57,"['Lu Chen', 'Su Po-Wei', 'Matthew Chau', 'Raymond Tam']","['[TPE] ', '[TPE] ', '[AUS] ', '[AUS] ']","['18-21', '21-18', '21-18']",MD,20170907
+58,"['Chuang Pu Sheng', 'Lin Yu Chieh', 'Lukas Defolky', 'Ryosuke Ito']","['[TPE] ', '[TPE] ', '[AUS] ', '[AUS] ']","['21-18', '16-21', '21-18']",MD,20170907
+59,"['Rizwan Azam', 'Kenneth Zhe Hooi Choo', 'Subhash Aroliveettil', 'Phuc Nguyen (Lucas) Tran']","['[PAK] ', '[AUS] ', '[AUS] ', '[AUS] ']","['21-13', '21-13']",MD,20170907
+60,"['Chen Chi Ting', 'Shiau Cheng Chen', 'Kai Chen Teoh', 'Janson Trinh']","['[TPE] ', '[TPE] ', '[AUS] ', '[AUS] ']","['21-17', '21-10']",MD,20170907
+61,"['Yohan Hadikusumo Wiratama', 'Njoto Albertus Susanto', 'Lin Chun-Yi', 'Su Li Yang']","['[AUS] ', '[AUS] ', '[TPE] ', '[TPE] ']","['21-8', '21-9']",MD,20170907
+62,"['Michael Fariman', 'Joel Findlay', 'Sarim Mohamed', 'Hussein Zayan Shaheed']","['[AUS] ', '[AUS] ', '[MDV] ', '[MDV] ']","['21-14', '21-15']",MD,20170907
+63,"['Pin Chun Chao', 'Lin Bing-Wei', 'Lachlan Macdonald-Meyer', 'William Ponsonby']","['[TPE] ', '[TPE] ', '[AUS] ', '[AUS] ']","['21-11', '21-10']",MD,20170907
+64,"['Cham Chen', 'Toby Wong', 'Wang Yuehang', 'Hin Shun Wong']","['[AUS] ', '[AUS] ', '[ENG] ', '[ENG] ']","['21-15', '21-13']",MD,20170907
+65,"['Ye Hong Wei', 'Teng Chun Hsun', 'Eric Vuong', 'Lee Yen Khoo']","['[TPE] ', '[TPE] ', '[AUS] ', '[AUS] ']","['20-22', '21-12', '21-11']",XD,20170907
+66,"['Mohmed Misbun Misbun Shawal', 'Muhammad Izzuddin Shamsul Muzli', 'Keith Mark Edison', 'Tristan Michael Edison']","['[MAS] ', '[MAS] ', '[AUS] ', '[AUS] ']","['17-21', '21-11', '21-16']",MD,20170907
+67,"['Chia Hao Lee', 'Lin Hsiang Ti', 'Lukas Defolky', 'Sylvina Kurniawan']","['[TPE] ', '[TPE] ', '[AUS] ', '[AUS] ']","['21-17', '13-21', '21-18']",XD,20170907
+68,"['Su Li Wei', 'Li Zi Qing', 'Matthew Chau', 'Janet Son']","['[TPE] ', '[TPE] ', '[AUS] ', '[AUS] ']","['21-18', '21-5']",XD,20170907
+69,"['Chen Chi Ting', 'Lin Jhih Yun', 'Ashwant Gobinathan', 'Lauren Lim']","['[TPE] ', '[TPE] ', '[AUS] ', '[AUS] ']","['21-13', '21-10']",XD,20170907
+70,"['Shiau Cheng Chen', 'Hung En-Tzu', 'Subhash Aroliveettil', 'Michelle Tam']","['[TPE] ', '[TPE] ', '[AUS] ', '[AUS] ']","['21-12', '21-12']",XD,20170907
+71,"['Lu Chen', 'Chang Yen-Ting', 'Dimitri Han', 'Stephanie Fan']","['[TPE] ', '[TPE] ', '[AUS] ', '[AUS] ']","['21-4', '21-11']",XD,20170907
+72,"['Lin Yu Chieh', 'Chia-Wei Liang', 'Chet Vin Wong', 'Sin Er Ng']","['[TPE] ', '[TPE] ', '[MAS] ', '[MAS] ']","['21-9', '17-21', '21-10']",XD,20170907
+73,"['Sachin Dias [2]', 'Buwaneka Goonethilleka', 'Cham Chen', 'Toby Wong']","['[SRI] ', '[SRI] ', '[AUS] ', '[AUS] ']","['21-19', '21-17']",MD,20170907
+74,"['Pin Chun Chao', 'Lin Bing-Wei', 'Sawan Serasinghe', 'Eric Vuong']","['[TPE] ', '[TPE] ', '[AUS] ', '[AUS] ']","['21-17', '21-11']",MD,20170907
+75,"['Mohmed Misbun Misbun Shawal', 'Muhammad Izzuddin Shamsul Muzli', 'Simon Wing Hang Leung [1]', 'Mitchell Wheller']","['[MAS] ', '[MAS] ', '[AUS] ', '[AUS] ']","['21-16', '21-18']",MD,20170907
+76,"['Chen Chi Ting', 'Shiau Cheng Chen', 'Jacob Schueler', 'Raymond Sing']","['[TPE] ', '[TPE] ', '[AUS] ', '[AUS] ']","['21-18', '21-18']",MD,20170907
+77,"['Wu Cheng-En', 'Lin Sih Yun', 'Rizwan Azam [4]', 'Sara Mohmand']","['[TPE] ', '[TPE] ', '[PAK] ', '[PAK] ']","['18-21', '21-15', '21-16']",XD,20170907
+78,"['Waduthantri Kavindika Binari De Silva', 'Lekha Shehani', 'Stephanie Fan', 'Isabelle Tian Yi Zhang']","['[SRI] ', '[SRI] ', '[AUS] ', '[AUS] ']","['21-7', '21-9']",WD,20170907
+79,"['Chang Yen-Ting', 'Tseng Yu-Chi', 'Claudia Lam', 'Michelle Tam']","['[TPE] ', '[TPE] ', '[AUS] ', '[AUS] ']","['21-4', '21-9']",WD,20170907
+80,"['Chuang Pu Sheng', 'Lin Yu Chieh', 'Robin Middleton', 'Ross Smith']","['[TPE] ', '[TPE] ', '[AUS] ', '[AUS] ']","['21-19', '14-21', '21-12']",MD,20170907
+81,"['Hsieh Yu Ying', 'Huang Yin Hsuan', 'Lauren Lim', 'Kelly Xu']","['[TPE] ', '[TPE] ', '[AUS] ', '[AUS] ']","['21-9', '21-12']",WD,20170907
+82,"['Yohan Hadikusumo Wiratama', 'Njoto Albertus Susanto', 'Rizwan Azam', 'Kenneth Zhe Hooi Choo']","['[AUS] ', '[AUS] ', '[PAK] ', '[AUS] ']","['21-17', '21-10']",MD,20170907
+83,"['Hsuan-Yu Wendy Chen', 'Sylvina Kurniawan', 'Li Zi Qing', 'Teng Chun Hsun']","['[AUS] ', '[AUS] ', '[TPE] ', '[TPE] ']","['21-16', '21-18']",WD,20170907
+84,"['Hung En-Tzu', 'Lin Jhih Yun', 'Lee Yen Khoo', 'Janet Son']","['[TPE] ', '[TPE] ', '[AUS] ', '[AUS] ']","['21-11', '21-15']",WD,20170907
+85,"['Su Li Wei [4]', 'Ye Hong Wei', 'Michael Fariman', 'Joel Findlay']","['[TPE] ', '[TPE] ', '[AUS] ', '[AUS] ']","['21-16', '21-16']",MD,20170907
+86,"['Lu Chen', 'Chang Yen-Ting', 'Kai Chen Teoh', 'Kelly Xu']","['[TPE] ', '[TPE] ', '[AUS] ', '[AUS] ']","['21-13', '21-8']",XD,20170907
+87,"['Sawan Serasinghe [1]', 'Setyana Mapasa', 'Lin Yu Chieh', 'Chia-Wei Liang']","['[AUS] ', '[AUS] ', '[TPE] ', '[TPE] ']","['21-8', '21-16']",XD,20170907
+88,"['Chuang Pu Sheng', 'Cheng Yu-Pei', 'Shiau Cheng Chen', 'Hung En-Tzu']","['[TPE] ', '[TPE] ', '[TPE] ', '[TPE] ']","['21-17', '23-21']",XD,20170907
+89,"['Ye Hong Wei', 'Teng Chun Hsun', 'Su Po-Wei', 'Tseng Yu-Chi']","['[TPE] ', '[TPE] ', '[TPE] ', '[TPE] ']","['21-17', '18-21', '21-18']",XD,20170907
+90,"['Lin Chun-Yi', 'Buwaneka Goonethilleka']","['[TPE] ', '[SRI] ']","['21-17', '21-18']",MS ,20170907
+91,"['Hsuan-Yu Wendy Chen', 'Sylvina Kurniawan', 'Chang Yen-Ting', 'Tseng Yu-Chi']","['[AUS] ', '[AUS] ', '[TPE] ', '[TPE] ']","['21-14', '21-17']",WD ,20170907
+92,"['Hsieh Yu Ying', 'Lin Sih Yun']","['[TPE] ', '[TPE] ']","['21-23', '21-9', '21-10']",WS ,20170907
+93,"['Ye Hong Wei', 'Teng Chun Hsun', 'Chia Hao Lee', 'Lin Hsiang Ti']","['[TPE] ', '[TPE] ', '[TPE] ', '[TPE] ']","['21-18', '21-10']",XD ,20170907
+94,"['Yohan Hadikusumo Wiratama', 'Njoto Albertus Susanto', 'Sachin Dias [2]', 'Buwaneka Goonethilleka']","['[AUS] ', '[AUS] ', '[SRI] ', '[SRI] ']","['14-21', '21-18', '21-14']",MD ,20170907
+95,"['Hung En-Tzu', 'Huang Yin Hsuan']","['[TPE] ', '[TPE] ']","['24-22', '15-21', '21-14']",WS ,20170907
+96,"['Chuang Pu Sheng', 'Lin Yu Chieh', 'Mohmed Misbun Misbun Shawal', 'Muhammad Izzuddin Shamsul Muzli']","['[TPE] ', '[TPE] ', '[MAS] ', '[MAS] ']","['21-14', '21-17']",MD ,20170907
+97,"['Shiau Cheng Chen', 'Su Li Yang']","['[TPE] ', '[TPE] ']","['15-21', '21-13', '21-18']",MS ,20170907
+98,"['Hung En-Tzu', 'Lin Jhih Yun', 'Cheng Yu-Pei [1]', 'Chia-Wei Liang']","['[TPE] ', '[TPE] ', '[TPE] ', '[TPE] ']","['25-23', '21-12']",WD ,20170907
+99,"['Sawan Serasinghe [1]', 'Setyana Mapasa', 'Su Li Wei', 'Li Zi Qing']","['[AUS] ', '[AUS] ', '[TPE] ', '[TPE] ']","['21-11', '21-17']",XD ,20170907
+100,"['Hung En-Tzu', 'Lin Jhih Yun', 'Hsuan-Yu Wendy Chen', 'Sylvina Kurniawan']","['[TPE] ', '[TPE] ', '[AUS] ', '[AUS] ']","['21-19', '21-19']",WD ,20170907
+101,"['Lin Chun-Yi', 'Shiau Cheng Chen']","['[TPE] ', '[TPE] ']","['21-18', '21-17']",MS ,20170907
+102,"['Ye Hong Wei', 'Teng Chun Hsun', 'Sawan Serasinghe [1]', 'Setyana Mapasa']","['[TPE] ', '[TPE] ', '[AUS] ', '[AUS] ']",[],XD ,20170907
+103,"['Hung En-Tzu', 'Hsieh Yu Ying']","['[TPE] ', '[TPE] ']","['17-21', '21-18', '22-20']",WS ,20170907
+104,"['Yohan Hadikusumo Wiratama', 'Njoto Albertus Susanto', 'Chuang Pu Sheng', 'Lin Yu Chieh']","['[AUS] ', '[AUS] ', '[TPE] ', '[TPE] ']","['21-14', '21-6']",MD ,20170907

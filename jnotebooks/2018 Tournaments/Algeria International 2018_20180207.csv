@@ -1,0 +1,43 @@
+,PLAYERS,COUNTRIES,SCORES,EVENT,match_week
+0,"['Mohamed Mahmoud Djitli', 'Bahaeddine Louani']","['[ALG] ', '[ALG] ']","['21-7', '21-8']",MS,20180207
+1,"['Mohamed Abdelaziz Ouchefoun', 'Walid Belaidene']","['[ALG] ', '[ALG] ']","['21-13', '21-11']",MS,20180207
+2,"['Majed Yacine Balahoune', 'Ahmed Amine Ksikes']","['[ALG] ', '[MAR] ']","['21-13', '21-13']",MS,20180207
+3,"['Akpa Jerome Ibrahim Agnimel', 'Yacine Allou']","['[CIV] ', '[ALG] ']","['14-21', '21-18', '21-14']",MS,20180207
+4,"['Yassine El Mernissi', 'Riad Halimi']","['[MAR] ', '[ALG] ']","['21-6', '21-9']",MS,20180207
+5,"['Samy Khaldi', 'Mohamed Amine Guelmaoui']","['[ALG] ', '[ALG] ']","['18-21', '21-14', '21-18']",MS,20180207
+6,"['Matthew Abela', 'Raouf Lamrani']","['[MLT] ', '[ALG] ']","['21-8', '21-9']",MS,20180207
+7,"['Alex Patrick Zolobe', 'Massinissa Temine']","['[CIV] ', '[ALG] ']","['21-19', '23-21', '21-19']",MS,20180207
+8,"['Jana Ashraf', 'Yasmina Chibah']","['[EGY] ', '[ALG] ']","['21-14', '21-16']",WS,20180207
+9,"['Ines Ziani', 'Kenza Ghassil']","['[ALG] ', '[ALG] ']","['22-20', '21-6']",WS,20180207
+10,"['Amrouni Kahina', 'Ferd Houda']","['[ALG] ', '[ALG] ']","['19-21', '21-19', '21-7']",WS,20180207
+11,"['Malak Ouchefoun', 'Abed Arina']","['[ALG] ', '[ALG] ']","['21-4', '21-3']",WS,20180207
+12,"['Linda Mazri [2]', 'Imane Chekkal']","['[ALG] ', '[ALG] ']","['21-6', '21-8']",WS,20180207
+13,"['Mohamed Mostafa Kamel [1]', 'Mohamed Mahmoud Djitli']","['[EGY] ', '[ALG] ']","['21-14', '21-14']",MS,20180207
+14,"['Mohamed Abdelaziz Ouchefoun', 'Bouksani Abderrahim']","['[ALG] ', '[ALG] ']","['21-16', '21-19']",MS,20180207
+15,"['Samy Khaldi', 'Yassine El Mernissi']","['[ALG] ', '[MAR] ']","['21-14', '21-23', '21-17']",MS,20180207
+16,"['Mestapaha Kessari', 'Akpa Jerome Ibrahim Agnimel']","['[ALG] ', '[CIV] ']","['21-8', '21-10']",MS,20180207
+17,"['Matthew Abela', 'Franck Ahi [3]']","['[MLT] ', '[CIV] ']","['21-9', '21-7']",MS,20180207
+18,"['Alex Patrick Zolobe', 'Abdelhalim Atout']","['[CIV] ', '[ALG] ']","['21-8', '17-21', '21-14']",MS,20180207
+19,"['Jana Ashraf', 'Leticia Kara']","['[EGY] ', '[ALG] ']","['21-19', '21-8']",WS,20180207
+20,"['Bouksani Abderrahim', 'Ines Ziani', 'Mohamed Abdelaziz Ouchefoun', 'Dounia Naama']","['[ALG] ', '[ALG] ', '[ALG] ', '[ALG] ']","['21-18', '15-21', '22-20']",XD,20180207
+21,"['Majed Yacine Balahoune', 'Ousmane Ouedraogo [4]']","['[ALG] ', '[CIV] ']","['21-3', '21-6']",MS,20180207
+22,"['Mohamed Amine Guelmaoui', 'Malak Ouchefoun', 'Mestapaha Kessari', 'Ferd Houda']","['[ALG] ', '[ALG] ', '[ALG] ', '[ALG] ']","['21-15', '21-15']",XD,20180207
+23,"['Mohamed Mostafa Kamel', 'Jana Ashraf', 'Riad Halimi', 'Yasmina Chibah']","['[EGY] ', '[EGY] ', '[ALG] ', '[ALG] ']","['21-10', '21-16']",XD,20180207
+24,"['Sifeddine Larbaoui', 'Halla Bouksani', 'Bahaeddine Louani', 'Kenza Ghassil']","['[ALG] ', '[ALG] ', '[ALG] ', '[ALG] ']","['21-7', '21-12']",XD,20180207
+25,"['Franck Ahi', 'Alex Patrick Zolobe', 'Riad Halimi', 'Bahaeddine Louani']","['[CIV] ', '[CIV] ', '[ALG] ', '[ALG] ']","['21-18', '21-18']",MD,20180207
+26,"['Sifeddine Larbaoui', 'Mohamed Abdelaziz Ouchefoun', 'Akpa Jerome Ibrahim Agnimel', 'Ousmane Ouedraogo']","['[ALG] ', '[ALG] ', '[CIV] ', '[CIV] ']","['21-10', '21-19']",MD,20180207
+27,"['Linda Mazri [2]', 'Malak Ouchefoun']","['[ALG] ', '[ALG] ']","['17-21', '22-20', '21-17']",WS ,20180207
+28,"['Bilal Elharab', 'Matthew Abela']","['[MAR] ', '[MLT] ']","['21-16', '21-16']",MS ,20180207
+29,"['Halla Bouksani [2]', 'Linda Mazri', 'Abed Arina', 'Bounaas Melissa']","['[ALG] ', '[ALG] ', '[ALG] ', '[ALG] ']","['21-11', '21-5']",WD ,20180207
+30,"['Majed Yacine Balahoune', 'Mohamed Amine Guelmaoui', 'Sifeddine Larbaoui', 'Mohamed Abdelaziz Ouchefoun']","['[ALG] ', '[ALG] ', '[ALG] ', '[ALG] ']","['21-17', '21-13']",MD ,20180207
+31,"['Mohamed Amine Guelmaoui', 'Malak Ouchefoun', 'Sifeddine Larbaoui', 'Halla Bouksani']","['[ALG] ', '[ALG] ', '[ALG] ', '[ALG] ']","['22-20', '16-21', '21-10']",XD ,20180207
+32,"['Halla Bouksani [3]', 'Dounia Naama']","['[ALG] ', '[ALG] ']","['21-7', '21-1']",WS ,20180207
+33,"['Mohamed Mostafa Kamel [1]', 'Majed Yacine Balahoune']","['[EGY] ', '[ALG] ']","['13-21', '21-18', '21-19']",MS ,20180207
+34,"['Doha Hany [1]', 'Hadia Hosny', 'Amrouni Kahina', 'Dounia Naama']","['[EGY] ', '[EGY] ', '[ALG] ', '[ALG] ']","['21-10', '21-7']",WD ,20180207
+35,"['Mohamed Abderrahime Belarbi [1]', 'Adel Hamek', 'Yacine Allou', 'Walid Belaidene']","['[ALG] ', '[ALG] ', '[ALG] ', '[ALG] ']","['21-8', '21-13']",MD ,20180207
+36,"['Mohamed Mostafa Kamel', 'Jana Ashraf', 'Majed Yacine Balahoune', 'Imane Chekkal']","['[EGY] ', '[EGY] ', '[ALG] ', '[ALG] ']","['16-21', '21-18', '22-20']",XD ,20180207
+37,"['Bilal Elharab', 'Mohamed Mostafa Kamel [1]']","['[MAR] ', '[EGY] ']","['21-13', '21-9']",MS ,20180207
+38,"['Halla Bouksani [3]', 'Linda Mazri [2]']","['[ALG] ', '[ALG] ']","['21-9', '21-12']",WS ,20180207
+39,"['Mohamed Abderrahime Belarbi [1]', 'Adel Hamek', 'Majed Yacine Balahoune', 'Mohamed Amine Guelmaoui']","['[ALG] ', '[ALG] ', '[ALG] ', '[ALG] ']","['21-18', '21-13']",MD ,20180207
+40,"['Doha Hany [1]', 'Hadia Hosny', 'Halla Bouksani [2]', 'Linda Mazri']","['[EGY] ', '[EGY] ', '[ALG] ', '[ALG] ']","['21-19', '21-11']",WD ,20180207
+41,"['Mohamed Amine Guelmaoui', 'Malak Ouchefoun', 'Mohamed Mostafa Kamel', 'Jana Ashraf']","['[ALG] ', '[ALG] ', '[EGY] ', '[EGY] ']","['21-16', '21-7']",XD ,20180207

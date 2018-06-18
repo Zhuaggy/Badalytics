@@ -1,0 +1,67 @@
+,PLAYERS,COUNTRIES,SCORES,EVENT,match_week
+0,"['Dennis Coke', 'Christopher Beecher']","['[JAM] ', '[JAM] ']","['21-11', '21-8']",MS,20170302
+1,"['Craig Allison', 'Kirk Francis']","['[JAM] ', '[JAM] ']","['21-13', '21-16']",MS,20170302
+2,"['Luke Couture', 'Garron Palmer']","['[CAN] ', '[JAM] ']","['21-8', '21-16']",MS,20170302
+3,"['Kemar Valentine', 'Jemarey Gordon']","['[JAM] ', '[JAM] ']",[],MS,20170302
+4,"['Matthew Lee', 'Anthony Murillo']","['[JAM] ', '[PAN] ']","['21-10', '21-7']",MS,20170302
+5,"['Bradley Graham', 'Adier Aldeano']","['[JAM] ', '[PAN] ']","['21-6', '21-8']",MS,20170302
+6,"['Anthony Mcnee', 'Kyle Alexander Munoz Seixas']","['[JAM] ', '[PAN] ']","['21-11', '21-12']",MS,20170302
+7,"['Kenneth Anglin', 'Dwayne Watson']","['[JAM] ', '[JAM] ']","['21-14', '21-18']",MS,20170302
+8,"['Shaquille Palmer', 'Che Alexander Beckford']","['[JAM] ', '[JAM] ']","['22-20', '21-15']",MS,20170302
+9,"['Milan Dratva', 'Matthew Yee-Grant']","['[SVK] ', '[JAM] ']","['21-13', '21-19']",MS,20170302
+10,"['Gareth Henry', 'Albert Myles']","['[JAM] ', '[JAM] ']","['21-11', '21-11']",MS,20170302
+11,"['Nicardo Reid', 'Cory Fanus']","['[JAM] ', '[BAR] ']","['17-21', '21-17', '21-19']",MS,20170302
+12,"['Katherine Wynter', 'Alana Bailey']","['[JAM] ', '[JAM] ']","['21-12', '21-8']",WS,20170302
+13,"['Taina Dailey', 'Stefani Brown']","['[JAM] ', '[JAM] ']","['21-11', '21-10']",WS,20170302
+14,"['Mikaylia Haldane', 'Esther Christina Reynolds']","['[JAM] ', '[JAM] ']","['14-21', '21-15', '21-15']",WS,20170302
+15,"['Leanne Choo', 'Tahlia Richardson']","['[AUS] ', '[JAM] ']","['21-7', '21-9']",WS,20170302
+16,"['Adam Mendrek [1]', 'Dennis Coke']","['[CZE] ', '[JAM] ']","['21-8', '21-13']",MS,20170302
+17,"['Luke Couture', 'Craig Allison']","['[CAN] ', '[JAM] ']","['21-18', '21-13']",MS,20170302
+18,"['Matej Hlinican [3]', 'Kemar Valentine']","['[SVK] ', '[JAM] ']","['21-17', '21-16']",MS,20170302
+19,"['Matthew Lee', 'Bradley Graham']","['[JAM] ', '[JAM] ']","['21-15', '15-21', '21-14']",MS,20170302
+20,"['Anthony Mcnee', 'Kenneth Anglin']","['[JAM] ', '[JAM] ']","['27-25', '13-21', '21-11']",MS,20170302
+21,"['Gareth Henry', 'Milan Dratva']","['[JAM] ', '[SVK] ']","['21-12', '21-17']",MS,20170302
+22,"['Jan Frohlich [2]', 'Nicardo Reid']","['[CZE] ', '[JAM] ']","['21-12', '21-9']",MS,20170302
+23,"['Søren Toft [4]', 'Shaquille Palmer']","['[DEN] ', '[JAM] ']","['21-7', '21-7']",MS,20170302
+24,"['Craig Allison', 'Alana Bailey', 'Kenneth Anglin', 'Esther Christina Reynolds']","['[JAM] ', '[JAM] ', '[JAM] ', '[JAM] ']","['21-16', '21-18']",XD,20170302
+25,"['Gareth Henry', 'Geordine Henry', 'Milan Dratva', 'Martina Repiska']","['[JAM] ', '[JAM] ', '[SVK] ', '[SVK] ']","['19-21', '21-14', '25-23']",XD,20170302
+26,"['Demarley Edwards', 'Kemar Valentine', 'Christopher Beecher', 'Anthony Murillo']","['[JAM] ', '[JAM] ', '[JAM] ', '[PAN] ']","['21-10', '21-6']",MD,20170302
+27,"['Bradley Graham', 'Albert Myles', 'Demar Deer', 'Kirk Francis']","['[JAM] ', '[JAM] ', '[JAM] ', '[JAM] ']","['21-10', '21-18']",MD,20170302
+28,"['Dennis Coke', 'Anthony Mcnee', 'Che Alexander Beckford', 'Shaquille Palmer']","['[JAM] ', '[JAM] ', '[JAM] ', '[JAM] ']","['21-11', '21-16']",MD,20170302
+29,"['Kenneth Anglin', 'Matthew Lee', 'Jon Michael Linton', 'Kraig Simpson']","['[JAM] ', '[JAM] ', '[JAM] ', '[JAM] ']","['21-15', '27-25']",MD,20170302
+30,"['Gareth Henry', 'Garron Palmer', 'Nicardo Reid', 'Matthew Yee-Grant']","['[JAM] ', '[JAM] ', '[JAM] ', '[JAM] ']","['21-16', '21-18']",MD,20170302
+31,"['Craig Allison', 'Dwayne Watson', 'Adier Aldeano', 'Kyle Alexander Munoz Seixas']","['[JAM] ', '[JAM] ', '[PAN] ', '[PAN] ']","['21-9', '21-10']",MD,20170302
+32,"['Toby Ng [1]', 'Rachel Honderich', 'Garron Palmer', 'Christine Leyow']","['[CAN] ', '[CAN] ', '[JAM] ', '[JAM] ']","['21-9', '21-11']",XD,20170302
+33,"['Gareth Henry', 'Geordine Henry', 'Anthony Mcnee', 'Mikaylia Haldane']","['[JAM] ', '[JAM] ', '[JAM] ', '[JAM] ']","['21-16', '21-14']",XD,20170302
+34,"['Craig Allison', 'Alana Bailey', 'Che Alexander Beckford', 'Tahlia Richardson']","['[JAM] ', '[JAM] ', '[JAM] ', '[JAM] ']","['21-10', '21-16']",XD,20170302
+35,"['Dennis Coke [2]', 'Katherine Wynter', 'Kemar Valentine', 'Taina Dailey']","['[JAM] ', '[JAM] ', '[JAM] ', '[JAM] ']","['21-13', '21-13']",XD,20170302
+36,"['Alana Bailey', 'Geordine Henry', 'Christine Leyow', 'Esther Christina Reynolds']","['[JAM] ', '[JAM] ', '[JAM] ', '[JAM] ']","['21-12', '21-17']",WD,20170302
+37,"['Taina Dailey', 'Shezelle Terisa Mctyson', 'Shawnett Davis', 'Christina Petri']","['[JAM] ', '[JAM] ', '[JAM] ', '[JAM] ']","['21-15', '21-10']",WD,20170302
+38,"['Mikaylia Haldane [2]', 'Katherine Wynter', 'Stefani Brown', 'Tahlia Richardson']","['[JAM] ', '[JAM] ', '[JAM] ', '[JAM] ']","['21-8', '21-10']",WD,20170302
+39,"['Milan Dratva [1]', 'Matej Hlinican', 'Kenneth Anglin', 'Matthew Lee']","['[SVK] ', '[SVK] ', '[JAM] ', '[JAM] ']","['21-19', '21-14']",MD,20170302
+40,"['Gareth Henry', 'Garron Palmer', 'Craig Allison', 'Dwayne Watson']","['[JAM] ', '[JAM] ', '[JAM] ', '[JAM] ']","['16-21', '21-13', '21-17']",MD,20170302
+41,"['Bradley Graham', 'Albert Myles', 'Demarley Edwards', 'Kemar Valentine']","['[JAM] ', '[JAM] ', '[JAM] ', '[JAM] ']","['20-22', '21-10', '21-11']",MD,20170302
+42,"['Venkatesh Prasad [2]', 'Jagadish Yadav', 'Dennis Coke', 'Anthony Mcnee']","['[IND] ', '[IND] ', '[JAM] ', '[JAM] ']","['21-13', '21-16']",MD,20170302
+43,"['Rachel Honderich [1]', 'Katherine Wynter']","['[CAN] ', '[JAM] ']","['21-3', '21-8']",WS,20170302
+44,"['Taina Dailey', 'Geordine Henry']","['[JAM] ', '[JAM] ']","['23-21', '21-19']",WS,20170302
+45,"['Shezelle Terisa Mctyson', 'Mikaylia Haldane']","['[JAM] ', '[JAM] ']","['19-21', '21-13', '21-16']",WS,20170302
+46,"['Martina Repiska [2]', 'Leanne Choo']","['[SVK] ', '[AUS] ']","['21-11', '21-15']",WS,20170302
+47,"['Adam Mendrek [1]', 'Luke Couture']","['[CZE] ', '[CAN] ']","['21-8', '21-11']",MS,20170302
+48,"['Matej Hlinican [3]', 'Matthew Lee']","['[SVK] ', '[JAM] ']","['21-14', '21-13']",MS,20170302
+49,"['Søren Toft [4]', 'Anthony Mcnee']","['[DEN] ', '[JAM] ']","['21-9', '21-12']",MS,20170302
+50,"['Jan Frohlich [2]', 'Gareth Henry']","['[CZE] ', '[JAM] ']","['21-10', '21-11']",MS,20170302
+51,"['Leanne Choo [1]', 'Rachel Honderich', 'Alana Bailey', 'Geordine Henry']","['[AUS] ', '[CAN] ', '[JAM] ', '[JAM] ']","['21-5', '21-6']",WD ,20170302
+52,"['Milan Dratva [1]', 'Matej Hlinican', 'Gareth Henry', 'Garron Palmer']","['[SVK] ', '[SVK] ', '[JAM] ', '[JAM] ']","['21-19', '16-21', '28-26']",MD ,20170302
+53,"['Martina Repiska [2]', 'Shezelle Terisa Mctyson']","['[SVK] ', '[JAM] ']","['21-8', '21-6']",WS ,20170302
+54,"['Søren Toft [4]', 'Jan Frohlich [2]']","['[DEN] ', '[CZE] ']","['23-21', '21-10']",MS ,20170302
+55,"['Toby Ng [1]', 'Rachel Honderich', 'Gareth Henry', 'Geordine Henry']","['[CAN] ', '[CAN] ', '[JAM] ', '[JAM] ']","['21-12', '21-16']",XD ,20170302
+56,"['Mikaylia Haldane [2]', 'Katherine Wynter', 'Taina Dailey', 'Shezelle Terisa Mctyson']","['[JAM] ', '[JAM] ', '[JAM] ', '[JAM] ']","['21-11', '21-8']",WD ,20170302
+57,"['Venkatesh Prasad [2]', 'Jagadish Yadav', 'Bradley Graham', 'Albert Myles']","['[IND] ', '[IND] ', '[JAM] ', '[JAM] ']","['21-12', '21-17']",MD ,20170302
+58,"['Rachel Honderich [1]', 'Taina Dailey']","['[CAN] ', '[JAM] ']","['21-2', '21-3']",WS ,20170302
+59,"['Adam Mendrek [1]', 'Matej Hlinican [3]']","['[CZE] ', '[SVK] ']","['21-9', '21-18']",MS ,20170302
+60,"['Dennis Coke [2]', 'Katherine Wynter', 'Craig Allison', 'Alana Bailey']","['[JAM] ', '[JAM] ', '[JAM] ', '[JAM] ']","['21-16', '26-24']",XD ,20170302
+61,"['Leanne Choo [1]', 'Rachel Honderich', 'Mikaylia Haldane [2]', 'Katherine Wynter']","['[AUS] ', '[CAN] ', '[JAM] ', '[JAM] ']","['21-2', '21-8']",WD ,20170302
+62,"['Søren Toft [4]', 'Adam Mendrek [1]']","['[DEN] ', '[CZE] ']","['21-14', '14-21', '22-20']",MS ,20170302
+63,"['Rachel Honderich [1]', 'Martina Repiska [2]']","['[CAN] ', '[SVK] ']","['15-21', '21-19', '21-15']",WS ,20170302
+64,"['Venkatesh Prasad [2]', 'Jagadish Yadav', 'Milan Dratva [1]', 'Matej Hlinican']","['[IND] ', '[IND] ', '[SVK] ', '[SVK] ']","['21-14', '21-11']",MD ,20170302
+65,"['Toby Ng [1]', 'Rachel Honderich', 'Dennis Coke [2]', 'Katherine Wynter']","['[CAN] ', '[CAN] ', '[JAM] ', '[JAM] ']","['21-9', '21-8']",XD ,20170302

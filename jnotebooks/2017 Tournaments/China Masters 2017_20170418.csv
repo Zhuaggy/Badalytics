@@ -1,0 +1,70 @@
+,PLAYERS,COUNTRIES,SCORES,EVENT,match_week
+0,"['Wang Peng', 'Lyu Chenni', 'Fang-Jen Lee', 'Chung Yu Feng']","['[CHN] ', '[CHN] ', '[TPE] ', '[TPE] ']","['21-14', '21-8']",XD - Qualification,20170418
+1,"['Shi Longfei', 'Tang Pingyang', 'Lu Chia Pin', 'Yang Ching Tun']","['[CHN] ', '[CHN] ', '[TPE] ', '[TPE] ']","['21-16', '21-9']",XD - Qualification,20170418
+2,"['Li Ting Peng', 'Sekartaji Putri']","['[TPE] ', '[INA] ']","['21-15', '21-11']",WS - Qualification,20170418
+3,"['Lyu Yanfei', 'I-Ting Lai [2]']","['[CHN] ', '[TPE] ']","['21-12', '18-21', '21-14']",WS - Qualification,20170418
+4,"['Wei Yaxin', 'Chung Yu Feng']","['[CHN] ', '[TPE] ']","['21-9', '21-8']",WS - Qualification,20170418
+5,"['Qin Zheng', 'Jimmy, Yu Lun Tay']","['[CHI] ', '[MAS] ']","['21-15', '21-12']",MS,20170418
+6,"['Zhou Zeqi', 'Muhammad Bayu Pangisthu']","['[CHN] ', '[INA] ']","['21-17', '11-21', '21-19']",MS,20170418
+7,"['Joo Ven Soong', 'Kodai Naraoka']","['[MAS] ', '[JPN] ']","['22-20', '21-11']",MS,20170418
+8,"['Gu Junfeng', 'Wang Yuehang']","['[CHN] ', '[ENG] ']","['21-11', '21-15']",MS,20170418
+9,"['Suppanyu Avihingsanon', 'Bai Yupeng']","['[THA] ', '[CHN] ']","['21-11', '18-21', '21-11']",MS,20170418
+10,"['Yu Igarashi', 'Liu Haichao']","['[JPN] ', '[CHN] ']","['21-12', '18-21', '21-16']",MS,20170418
+11,"['Chen Chi Ting', 'Andre Marteen']","['[TPE] ', '[INA] ']","['21-19', '21-15']",MS,20170418
+12,"['Ye Binghong', 'Yan Tuck Chan']","['[CHN] ', '[USA] ']","['21-9', '21-13']",MS,20170418
+13,"['Kantaphon Wangcharoen', 'Timothy Chiu']","['[THA] ', '[CAN] ']","['21-13', '21-12']",MS,20170418
+14,"['Yan Runze', 'Jacob Maliekal']","['[CHN] ', '[RSA] ']","['21-18', '21-15']",MS,20170418
+15,"['Harsheel Dani', 'Chun-Wei Chen']","['[IND] ', '[TPE] ']","['21-17', '21-18']",MS,20170418
+16,"['Sun Feixiang', 'Panji Ahmad Maulana']","['[CHN] ', '[INA] ']","['21-15', '21-16']",MS,20170418
+17,"['Firman Abdul Kholik', 'Ren Pengbo']","['[INA] ', '[CHN] ']","['13-21', '21-13', '21-18']",MS,20170418
+18,"['Hashiru Shimono', 'Weng Hongyang']","['[JPN] ', '[CHN] ']","['21-19', '9-21', '21-15']",MS,20170418
+19,"['Lin Chia Hsuan', 'Krishna Adi Nugraha']","['[TPE] ', '[INA] ']","['21-18', '23-21']",MS,20170418
+20,"['Yusuke Onodera', 'Lim Chi Wing']","['[JPN] ', '[MAS] ']","['21-17', '19-21', '21-15']",MS,20170418
+21,"['Zhu Siyuan', 'Kai Ho Tang']","['[CHN] ', '[ENG] ']","['21-9', '21-8']",MS,20170418
+22,"['Lu Guangzu', 'Adulrach Namkul']","['[CHN] ', '[THA] ']","['21-10', '21-15']",MS,20170418
+23,"['Shen Lingjie', 'Zhou Chaomin', 'Ching Hui Chang', 'Yang Ching Tun']","['[CHN] ', '[CHN] ', '[TPE] ', '[TPE] ']","['21-15', '16-21', '21-15']",WD ,20170418
+24,"['Lin Dan [1]', 'Qin Zheng']","['[CHN] ', '[CHI] ']","['21-15', '21-11']",MS ,20170418
+25,"['Ye Binghong', 'Kantaphon Wangcharoen']","['[CHN] ', '[THA] ']","['23-21', '21-12']",MS ,20170418
+26,"['Huang Yuxiang [4]', 'Hashiru Shimono']","['[CHN] ', '[JPN] ']","['21-16', '21-19']",MS ,20170418
+27,"['Qiao Bin [3]', 'En Chia Chang']","['[CHN] ', '[TPE] ']","['21-11', '21-16']",MS ,20170418
+28,"['Zhang Nan [1]', 'Li Yinhui', 'Yantoni Edy Saputra', 'Marsheilla Gischa Islami']","['[CHN] ', '[CHN] ', '[INA] ', '[INA] ']","['21-16', '21-16']",XD ,20170418
+29,"['Sun Feixiang', 'Harsheel Dani']","['[CHN] ', '[IND] ']","['21-17', '21-18']",MS ,20170418
+30,"['Yu Chieh Cheng', 'Ling Fang Hu', 'Shen Lingjie', 'Zhou Chaomin']","['[TPE] ', '[TPE] ', '[CHN] ', '[CHN] ']","['21-19', '21-18']",WD ,20170418
+31,"['Aya Ohori [2]', 'Ji Shuting']","['[JPN] ', '[CHN] ']","['21-16', '21-15']",WS ,20170418
+32,"['Liu Cheng [4]', 'Zhang Nan', 'Fang-Chih Lee', 'Fang-Jen Lee']","['[CHN] ', '[CHN] ', '[TPE] ', '[TPE] ']","['21-15', '21-15']",MD ,20170418
+33,"['He Jiting', 'Tan Qiang', 'Lu Ching Yao [3]', 'Yang Po Han']","['[CHN] ', '[CHN] ', '[TPE] ', '[TPE] ']","['23-21', '19-21', '21-12']",MD ,20170418
+34,"['Hendra Setiawan', 'Boon Heong Tan', 'Liu Cheng [4]', 'Zhang Nan']","['[INA] ', '[MAS] ', '[CHN] ', '[CHN] ']","['19-21', '21-16', '21-14']",MD ,20170418
+35,"['Lin Dan [1]', 'Hsu Jen Hao [5]']","['[CHN] ', '[TPE] ']","['21-14', '21-17']",MS ,20170418
+36,"['Huang Yuxiang [4]', 'Sun Feixiang']","['[CHN] ', '[CHN] ']","['21-11', '21-18']",MS ,20170418
+37,"['Aya Ohori [2]', 'Zhang Yiman']","['[JPN] ', '[CHN] ']","['21-15', '22-20']",WS ,20170418
+38,"['Zhang Nan [1]', 'Li Yinhui', 'Chi-Lin Wang', 'Chia Hsin Lee']","['[CHN] ', '[CHN] ', '[TPE] ', '[TPE] ']","['21-16', '21-18']",XD ,20170418
+39,"['Huang Dongping [1]', 'Li Yinhui', 'Liu Xuanxuan', 'Xia Yuting']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['21-17', '21-18']",WD ,20170418
+40,"['Huang Yaqiong [4]', 'Tang Jinhua', 'Yu Chieh Cheng', 'Ling Fang Hu']","['[CHN] ', '[CHN] ', '[TPE] ', '[TPE] ']","['21-10', '21-16']",WD ,20170418
+41,"['Qiao Bin [3]', 'Kanta Tsuneyama [6]']","['[CHN] ', '[JPN] ']","['21-16', '22-20']",MS ,20170418
+42,"['Gao Fangjie [8]', 'Han Yue']","['[CHN] ', '[CHN] ']","['21-13', '21-11']",WS ,20170418
+43,"['Wang Yilyu [5]', 'Huang Dongping', 'Tseng Min Hao', 'Ling Fang Hu']","['[CHN] ', '[CHN] ', '[TPE] ', '[TPE] ']","['21-12', '21-15']",XD Court TBA,20170418
+44,"['Takuto Inoue [5]', 'Yuki Kaneko', 'He Jiting', 'Tan Qiang']","['[JPN] ', '[JPN] ', '[CHN] ', '[CHN] ']","['21-15', '21-17']",MD Court TBA,20170418
+45,"['Liao Min Chun [4]', 'Chen Hsiao Huan', 'Tan Qiang [8]', 'Zhou Chaomin']","['[TPE] ', '[TPE] ', '[CHN] ', '[CHN] ']","['16-21', '22-20', '21-16']",XD ,20170418
+46,"['Berry Angriawan [6]', 'Hardianto Hardianto', 'Huang Kaixiang [2]', 'Wang Yilyu']","['[INA] ', '[INA] ', '[CHN] ', '[CHN] ']","['21-17', '14-21', '23-21']",MD ,20170418
+47,"['Du Yue', 'Xu Ya', 'Tiara Rosalia Nuraidah [2]', 'Rizki Amelia Pradipta']","['[CHN] ', '[CHN] ', '[INA] ', '[INA] ']","['14-21', '21-9', '21-12']",WD ,20170418
+48,"['Saena Kawakami [5]', 'Chen Yufei [1]']","['[JPN] ', '[CHN] ']","['19-21', '22-20', '21-18']",WS ,20170418
+49,"['Hafiz Faizal [2]', 'Shela Devi Aulia', 'Han Chengkai [7]', 'Chen Lu']","['[INA] ', '[INA] ', '[CHN] ', '[CHN] ']","['21-17', '21-10']",XD ,20170418
+50,"['Chen Hung Ling [1]', 'Chi-Lin Wang', 'Kah Ming Chooi [7]', 'Low Juan Shen']","['[TPE] ', '[TPE] ', '[MAS] ', '[MAS] ']","['21-19', '21-17']",MD ,20170418
+51,"['Cai Yanyan', 'Li Wenmei']","['[CHN] ', '[CHN] ']","['21-17', '16-21', '27-25']",WS ,20170418
+52,"['Tian Houwei [2]', 'Hsueh Hsuan Yi']","['[CHN] ', '[TPE] ']","['21-10', '21-11']",MS ,20170418
+53,"['Bao Yixin', 'Yu Xiaohan', 'Qiao Shijun', 'Wei Yaxin']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['21-14', '21-18']",WD Court TBA,20170418
+54,"['Wang Yilyu [5]', 'Huang Dongping', 'Hafiz Faizal [2]', 'Shela Devi Aulia']","['[CHN] ', '[CHN] ', '[INA] ', '[INA] ']","['21-16', '21-8']",XD ,20170418
+55,"['Liao Min Chun [4]', 'Chen Hsiao Huan', 'Zhang Nan [1]', 'Li Yinhui']","['[TPE] ', '[TPE] ', '[CHN] ', '[CHN] ']","['21-18', '23-21']",XD ,20170418
+56,"['Qiao Bin [3]', 'Lin Dan [1]']","['[CHN] ', '[CHN] ']","['21-16', '15-21', '21-14']",MS ,20170418
+57,"['Aya Ohori [2]', 'Gao Fangjie [8]']","['[JPN] ', '[CHN] ']","['21-17', '21-13']",WS ,20170418
+58,"['Chen Hung Ling [1]', 'Chi-Lin Wang', 'Hendra Setiawan', 'Boon Heong Tan']","['[TPE] ', '[TPE] ', '[INA] ', '[MAS] ']","['21-14', '13-21', '21-18']",MD ,20170418
+59,"['Huang Yaqiong [4]', 'Tang Jinhua', 'Du Yue', 'Xu Ya']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['17-21', '21-14', '21-17']",WD ,20170418
+60,"['Tian Houwei [2]', 'Huang Yuxiang [4]']","['[CHN] ', '[CHN] ']","['21-18', '17-21', '21-6']",MS ,20170418
+61,"['Saena Kawakami [5]', 'Cai Yanyan']","['[JPN] ', '[CHN] ']","['18-21', '21-11', '21-8']",WS ,20170418
+62,"['Takuto Inoue [5]', 'Yuki Kaneko', 'Berry Angriawan [6]', 'Hardianto Hardianto']","['[JPN] ', '[JPN] ', '[INA] ', '[INA] ']","['21-9', '21-13']",MD ,20170418
+63,"['Bao Yixin', 'Yu Xiaohan', 'Huang Dongping [1]', 'Li Yinhui']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['21-16', '21-18']",WD ,20170418
+64,"['Aya Ohori [2]', 'Saena Kawakami [5]']","['[JPN] ', '[JPN] ']","['21-9', '9-21', '21-18']",WS ,20170418
+65,"['Bao Yixin', 'Yu Xiaohan', 'Huang Yaqiong [4]', 'Tang Jinhua']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['8-21', '21-14', '21-17']",WD ,20170418
+66,"['Chen Hung Ling [1]', 'Chi-Lin Wang', 'Takuto Inoue [5]', 'Yuki Kaneko']","['[TPE] ', '[TPE] ', '[JPN] ', '[JPN] ']","['21-14', '21-6']",MD ,20170418
+67,"['Wang Yilyu [5]', 'Huang Dongping', 'Liao Min Chun [4]', 'Chen Hsiao Huan']","['[CHN] ', '[CHN] ', '[TPE] ', '[TPE] ']","['21-14', '21-10']",XD ,20170418
+68,"['Tian Houwei [2]', 'Qiao Bin [3]']","['[CHN] ', '[CHN] ']","['21-15', '15-21', '21-16']",MS ,20170418

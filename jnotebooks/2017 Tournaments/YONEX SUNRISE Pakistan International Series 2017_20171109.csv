@@ -1,0 +1,78 @@
+,PLAYERS,COUNTRIES,SCORES,EVENT,match_week
+0,"['Le Thanh Lam', 'Ahsan Asif']","['[VIE] ', '[PAK] ']","['21-12', '21-15']",MS - Qualification,20171109
+1,"['Quang Dinh Tran', 'Emran Rahim']","['[VIE] ', '[AFG] ']","['21-14', '21-9']",MS - Qualification,20171109
+2,"['Chanmara Tep', 'Qamar Ahsan']","['[CAM] ', '[PAK] ']","['21-19', '14-21', '23-21']",MS - Qualification,20171109
+3,"['Abdur Rehman [1]', 'Elyas Gharman']","['[PAK] ', '[AFG] ']",[],MS - Qualification,20171109
+4,"['Raja Muhammad Hasnain', 'Sayed Imran Meri [3]']","['[PAK] ', '[AFG] ']","['21-12', '21-11']",MS - Qualification,20171109
+5,"['Rizwan Muhammad', 'Shah Hussain Mosazai']","['[PAK] ', '[AFG] ']",[],MS - Qualification,20171109
+6,"['Shoaib Riaz', 'Ahmad Nadim Mustafazada']","['[PAK] ', '[AFG] ']",[],MS - Qualification,20171109
+7,"['Hashir Bashir [2]', 'Sayed Masoud Sayedy']","['[PAK] ', '[AFG] ']","['21-12', '21-15']",MS - Qualification,20171109
+8,"['Le Thanh Lam', 'Hasibullha Nazari']","['[VIE] ', '[AFG] ']",[],MS - Qualification,20171109
+9,"['Quang Dinh Tran', 'Fazal Rehman']","['[VIE] ', '[PAK] ']","['21-16', '19-21', '21-18']",MS - Qualification,20171109
+10,"['Chanmara Tep', 'Said Shahabudin Aini [4]']","['[CAM] ', '[AFG] ']","['21-8', '21-5']",MS - Qualification,20171109
+11,"['Anjum Bashir', 'Ahmed Nibal']","['[PAK] ', '[MDV] ']","['21-6', '21-13']",MS,20171109
+12,"['Aljallad Ahmad [4]', 'Jamil Soban']","['[SYR] ', '[PAK] ']","['21-12', '25-23']",MS,20171109
+13,"['Duc Phat Le [1]', 'Hashir Bashir']","['[VIE] ', '[PAK] ']","['21-14', '21-8']",MS,20171109
+14,"['Khizra Rasheed', 'Zainab Yari']","['[PAK] ', '[AFG] ']",[],WS,20171109
+15,"['Amir Saeed', 'Chanmara Tep']","['[PAK] ', '[CAM] ']","['23-21', '21-14']",MS,20171109
+16,"['Murad Ali', 'Quang Dinh Tran']","['[PAK] ', '[VIE] ']","['21-9', '21-12']",MS,20171109
+17,"['Awais Zahid', 'Enis Sesalan']","['[PAK] ', '[TUR] ']","['15-21', '21-15', '21-18']",MS,20171109
+18,"['Yusuf Ramazan Bay', 'Abdur Rehman']","['[TUR] ', '[PAK] ']","['21-19', '21-13']",MS,20171109
+19,"['Shoaib Riaz', 'Enamullah Faqiri']","['[PAK] ', '[AFG] ']","['21-10', '21-16']",MS,20171109
+20,"['Azeem Sarwar', 'Hussein Zayan Shaheed [8]']","['[PAK] ', '[MDV] ']","['21-9', '21-11']",MS,20171109
+21,"['Muhammad Muqeet Tahir', 'Rizwan Muhammad']","['[PAK] ', '[PAK] ']","['21-9', '21-16']",MS,20171109
+22,"['Le Thanh Lam', 'Zohaib Khan Khalil']","['[VIE] ', '[PAK] ']","['21-17', '21-18']",MS,20171109
+23,"['Duc Phat Le [1]', 'Anjum Bashir']","['[VIE] ', '[PAK] ']","['21-13', '21-15']",MS,20171109
+24,"['Aljallad Ahmad [4]', 'Murad Ali']","['[SYR] ', '[PAK] ']","['21-18', '21-12']",MS,20171109
+25,"['Rizwan Azam [6]', 'Shoaib Riaz']","['[PAK] ', '[PAK] ']","['21-15', '21-13']",MS,20171109
+26,"['Azeem Sarwar', 'Muhammad Muqeet Tahir']","['[PAK] ', '[PAK] ']","['21-18', '21-15']",MS,20171109
+27,"['Le Thanh Lam', 'Quang Dinh Tran', 'Raja Muhammad Hasnain', 'Amir Saeed']","['[VIE] ', '[VIE] ', '[PAK] ', '[PAK] ']","['21-16', '21-15']",MD,20171109
+28,"['Muhammed Ali Kurt [5]', 'Dipesh Dhami']","['[TUR] ', '[NEP] ']","['21-7', '21-12']",MS,20171109
+29,"['Bishnu Katwal', 'Sajan Krishna Tamrakar', 'Shah Hussain Mosazai', 'Hasibullha Nazari']","['[NEP] ', '[NEP] ', '[AFG] ', '[AFG] ']",[],MD,20171109
+30,"['Murad Ali', 'Hashir Bashir', 'Elyas Gharman', 'Ahmad Nadim Mustafazada']","['[PAK] ', '[PAK] ', '[AFG] ', '[AFG] ']",[],MD,20171109
+31,"['Ahsan Asif', 'Waqas Zahid', 'Jien Sern Ian Wong', 'Agripinna Prima Rahmanto Putra']","['[PAK] ', '[PAK] ', '[MAS] ', '[INA] ']",[],MD,20171109
+32,"['Abdur Rehman', 'Jamil Soban', 'Enamullah Faqiri', 'Emran Rahim']","['[PAK] ', '[PAK] ', '[AFG] ', '[AFG] ']","['21-15', '21-12']",MD,20171109
+33,"['Shoaib Riaz', 'Muhammad Muqeet Tahir', 'Sayed Imran Meri', 'Sayed Masoud Sayedy']","['[PAK] ', '[PAK] ', '[AFG] ', '[AFG] ']","['21-10', '21-12']",MD,20171109
+34,"['Muhammad Irfan Saeed Bhatti [7]', 'Bishnu Katwal']","['[PAK] ', '[NEP] ']","['21-7', '21-10']",MS,20171109
+35,"['Hasini Nusaka Ambalangodage', 'Sunayana Mukhiya']","['[SRI] ', '[NEP] ']","['21-2', '21-13']",WS,20171109
+36,"['Dipesh Dhami', 'Shova Gauchan', 'Shahmeer Iftikhar', 'Javeria Tahir']","['[NEP] ', '[NEP] ', '[PAK] ', '[PAK] ']","['18-21', '21-13', '21-18']",XD,20171109
+37,"['Ratnajit Tamang [3]', 'Raja Muhammad Hasnain']","['[NEP] ', '[PAK] ']","['21-16', '21-16']",MS,20171109
+38,"['Muhammed Ali Kurt [5]', 'Amir Saeed']","['[TUR] ', '[PAK] ']","['21-18', '21-12']",MS,20171109
+39,"['Muhammad Irfan Saeed Bhatti [7]', 'Yusuf Ramazan Bay']","['[PAK] ', '[TUR] ']","['21-19', '22-20']",MS,20171109
+40,"['Emre Lale [2]', 'Sajan Krishna Tamrakar']","['[TUR] ', '[NEP] ']","['21-7', '21-11']",MS,20171109
+41,"['Ratnajit Tamang [3]', 'Awais Zahid']","['[NEP] ', '[PAK] ']","['21-16', '21-15']",MS,20171109
+42,"['Zubaira Butt', 'Shova Gauchan']","['[PAK] ', '[NEP] ']","['15-21', '21-15', '21-15']",WS,20171109
+43,"['Emre Lale [2]', 'Le Thanh Lam']","['[TUR] ', '[VIE] ']","['21-6', '21-9']",MS,20171109
+44,"['Rizwan Azam [6]', 'Ratnajit Tamang [3]']","['[PAK] ', '[NEP] ']","['10-21', '21-17', '21-16']",MS ,20171109
+45,"['Mahoor Shahzad', 'Bushra Qayyum']","['[PAK] ', '[PAK] ']","['21-9', '21-16']",WS ,20171109
+46,"['Hasini Nusaka Ambalangodage', 'Palwasha Bashir [4]']","['[SRI] ', '[PAK] ']","['21-17', '19-21', '21-12']",WS ,20171109
+47,"['Rizwan Azam [1]', 'Sulehri Kashif Ali', 'Shoaib Riaz', 'Muhammad Muqeet Tahir']","['[PAK] ', '[PAK] ', '[PAK] ', '[PAK] ']","['21-11', '21-15']",MD ,20171109
+48,"['Waqas Ahmed', 'Saima Waqas', 'Ahmed Nibal [2]', 'Maisa Fathuhulla Ismail']","['[PAK] ', '[PAK] ', '[MDV] ', '[MDV] ']","['21-10', '21-13']",XD ,20171109
+49,"['Bishnu Katwal', 'Sunayana Mukhiya', 'Muhammad Atique', 'Ghazala Saddique']","['[NEP] ', '[NEP] ', '[PAK] ', '[PAK] ']","['15-21', '23-21', '21-19']",XD ,20171109
+50,"['Palwasha Bashir [2]', 'Khizra Rasheed', 'Mehmona Ameer', 'Bushra Qayyum']","['[PAK] ', '[PAK] ', '[PAK] ', '[PAK] ']","['21-13', '21-7']",WD ,20171109
+51,"['Emre Lale [2]', 'Azeem Sarwar']","['[TUR] ', '[PAK] ']","['21-12', '21-16']",MS ,20171109
+52,"['Muhammad Irfan Saeed Bhatti [7]', 'Aljallad Ahmad [4]']","['[PAK] ', '[SYR] ']","['21-15', '21-13']",MS ,20171109
+53,"['Muhammad Atique [4]', 'Awais Zahid', 'Anjum Bashir', 'Shahmeer Iftikhar']","['[PAK] ', '[PAK] ', '[PAK] ', '[PAK] ']","['21-15', '21-11']",MD ,20171109
+54,"['Thi Phuong Thuy Tran [2]', 'Khizra Rasheed']","['[VIE] ', '[PAK] ']","['21-11', '21-9']",WS ,20171109
+55,"['Ratnajit Tamang [1]', 'Nangsal Tamang', 'Waqas Zahid', 'Zubaira Butt']","['[NEP] ', '[NEP] ', '[PAK] ', '[PAK] ']","['21-13', '21-5']",XD ,20171109
+56,"['Duc Phat Le [1]', 'Muhammed Ali Kurt [5]']","['[VIE] ', '[TUR] ']","['21-11', '21-16']",MS ,20171109
+57,"['Sehra Akram', 'Ghazala Saddique']","['[PAK] ', '[PAK] ']","['23-21', '21-10']",WS ,20171109
+58,"['Le Thanh Lam', 'Quang Dinh Tran', 'Rizwan Muhammad', 'Fazal Rehman']","['[VIE] ', '[VIE] ', '[PAK] ', '[PAK] ']","['21-17', '21-15']",MD ,20171109
+59,"['Sara Mohmand', 'Saba Rasheed', 'Sunayana Mukhiya', 'Nangsal Tamang']","['[PAK] ', '[PAK] ', '[NEP] ', '[NEP] ']","['25-23', '10-21', '21-14']",WD ,20171109
+60,"['Dipesh Dhami', 'Shova Gauchan', 'Aoun Abbas', 'Mehmona Ameer']","['[NEP] ', '[NEP] ', '[PAK] ', '[PAK] ']","['21-11', '21-15']",XD ,20171109
+61,"['Muhammad Irfan Saeed Bhatti [3]', 'Azeem Sarwar', 'Murad Ali', 'Hashir Bashir']","['[PAK] ', '[PAK] ', '[PAK] ', '[PAK] ']","['21-16', '16-21', '21-14']",MD ,20171109
+62,"['Emre Lale [2]', 'Rizwan Azam [6]']","['[TUR] ', '[PAK] ']","['21-16', '21-7']",MS ,20171109
+63,"['Hasini Nusaka Ambalangodage', 'Sehra Akram']","['[SRI] ', '[PAK] ']","['21-16', '21-4']",WS ,20171109
+64,"['Ratnajit Tamang [1]', 'Nangsal Tamang', 'Bishnu Katwal', 'Sunayana Mukhiya']","['[NEP] ', '[NEP] ', '[NEP] ', '[NEP] ']","['21-17', '21-7']",XD ,20171109
+65,"['Rizwan Azam [1]', 'Sulehri Kashif Ali', 'Muhammad Atique [4]', 'Awais Zahid']","['[PAK] ', '[PAK] ', '[PAK] ', '[PAK] ']","['21-19', '21-17']",MD ,20171109
+66,"['Sehra Akram [1]', 'Huma Javeed', 'Sara Mohmand', 'Saba Rasheed']","['[PAK] ', '[PAK] ', '[PAK] ', '[PAK] ']","['21-17', '21-15']",WD ,20171109
+67,"['Duc Phat Le [1]', 'Muhammad Irfan Saeed Bhatti [7]']","['[VIE] ', '[PAK] ']","['17-21', '21-12', '21-12']",MS ,20171109
+68,"['Mahoor Shahzad', 'Thi Phuong Thuy Tran [2]']","['[PAK] ', '[VIE] ']","['23-21', '23-21']",WS ,20171109
+69,"['Dipesh Dhami', 'Shova Gauchan', 'Waqas Ahmed', 'Saima Waqas']","['[NEP] ', '[NEP] ', '[PAK] ', '[PAK] ']","['21-17', '23-21']",XD ,20171109
+70,"['Muhammad Irfan Saeed Bhatti [3]', 'Azeem Sarwar', 'Le Thanh Lam', 'Quang Dinh Tran']","['[PAK] ', '[PAK] ', '[VIE] ', '[VIE] ']","['21-15', '21-13']",MD ,20171109
+71,"['Palwasha Bashir [2]', 'Khizra Rasheed', 'Mahoor Shahzad', 'Saima Waqas']","['[PAK] ', '[PAK] ', '[PAK] ', '[PAK] ']","['21-15', '21-19']",WD ,20171109
+72,"['Dipesh Dhami', 'Shova Gauchan', 'Ratnajit Tamang [1]', 'Nangsal Tamang']","['[NEP] ', '[NEP] ', '[NEP] ', '[NEP] ']","['21-14', '21-13']",XD ,20171109
+73,"['Duc Phat Le [1]', 'Emre Lale [2]']","['[VIE] ', '[TUR] ']","['15-21', '21-11', '21-11']",MS ,20171109
+74,"['Rizwan Azam [1]', 'Sulehri Kashif Ali', 'Muhammad Irfan Saeed Bhatti [3]', 'Azeem Sarwar']","['[PAK] ', '[PAK] ', '[PAK] ', '[PAK] ']","['21-18', '21-18']",MD ,20171109
+75,"['Mahoor Shahzad', 'Hasini Nusaka Ambalangodage']","['[PAK] ', '[SRI] ']","['21-15', '21-19']",WS ,20171109
+76,"['Palwasha Bashir [2]', 'Khizra Rasheed', 'Sehra Akram [1]', 'Huma Javeed']","['[PAK] ', '[PAK] ', '[PAK] ', '[PAK] ']","['21-12', '21-11']",WD ,20171109

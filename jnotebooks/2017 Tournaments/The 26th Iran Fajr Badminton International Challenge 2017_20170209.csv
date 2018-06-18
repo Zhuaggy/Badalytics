@@ -1,0 +1,161 @@
+,PLAYERS,COUNTRIES,SCORES,EVENT,match_week
+0,"['Hajar Shahsavari Najafabadi', 'Safoora Zamanloo']","['[IRI] ', '[IRI] ']","['11-8', '11-2', '10-12', '11-6']",WS - Qualification,20170209
+1,"['Nazanin Zamani', 'Hadis Ahmadi']","['[IRI] ', '[IRI] ']","['11-5', '11-8', '11-4']",WS - Qualification,20170209
+2,"['Elnaz Feizmanesh', 'Elahe Sepidan']","['[IRI] ', '[IRI] ']","['11-5', '11-3', '11-6']",WS - Qualification,20170209
+3,"['Fatemeh Sarvghadi', 'Maryam Mojtabavi']","['[IRI] ', '[IRI] ']","['11-7', '11-6', '11-6']",WS - Qualification,20170209
+4,"['Hadis Ahmadi', 'Fatemeh Mouneskhah', 'Shabana Afshar', 'Zainab Yari']","['[IRI] ', '[IRI] ', '[AFG] ', '[AFG] ']","['11-4', '11-6', '11-7']",WD,20170209
+5,"['Ksenia Polikarpova [1]', 'Zainab Yari']","['[RUS] ', '[AFG] ']","['11-1', '11-5', '11-3']",WS,20170209
+6,"['Anne Hald [8]', 'Yosra Beigi']","['[DEN] ', '[IRI] ']","['11-6', '7-11', '9-11', '11-6', '11-8']",WS,20170209
+7,"['Ren-Ne Ong', 'Jia Ying Crystal Wong', 'Elnaz Feizmanesh', 'Fatemeh Sarvghadi']","['[SGP] ', '[SGP] ', '[IRI] ', '[IRI] ']","['11-9', '8-11', '11-5', '9-11', '11-8']",WD,20170209
+8,"['Fatemeh Sarvghadi', 'Aida Fazeli']","['[IRI] ', '[IRI] ']","['14-12', '6-11', '11-5', '11-9']",WS,20170209
+9,"['Hanan Kabiri', 'Basma Chasib']","['[IRI] ', '[IRQ] ']",[],WS,20170209
+10,"['Hedie Shams', 'Lilit Poghosyan']","['[IRI] ', '[ARM] ']","['6-11', '8-11', '11-8', '11-4', '11-7']",WS,20170209
+11,"['Pegah Kamrani', 'Romina Tajik']","['[IRI] ', '[IRI] ']","['11-5', '11-8', '8-11', '11-8']",WS,20170209
+12,"['Sara Delavari Kashani', 'Lisa Iversen [6]']","['[IRI] ', '[ITA] ']","['11-3', '14-12', '7-11', '11-9']",WS,20170209
+13,"['Nazanin Zamani', 'Fatemeh Mouneskhah']","['[IRI] ', '[IRI] ']","['11-3', '11-8', '11-4']",WS,20170209
+14,"['Elnaz Feizmanesh', 'Paria Eskandari']","['[IRI] ', '[IRI] ']","['11-5', '15-14', '11-5']",WS,20170209
+15,"['Nasim Safai', 'Samin Abedkhojasteh']","['[IRI] ', '[IRI] ']","['11-7', '8-11', '12-10', '9-11', '11-10']",WS,20170209
+16,"['Hajar Shahsavari Najafabadi', 'Yeganeh Tafreshi']","['[IRI] ', '[IRI] ']","['10-12', '11-7', '11-13', '11-9', '11-9']",WS,20170209
+17,"['Grace Gabriel [4]', 'Sanaa Mahmoud']","['[NGR] ', '[SYR] ']","['9-11', '12-10', '11-7', '11-5']",WS,20170209
+18,"['Taravat Alinezhad', 'Haneen Alhareb']","['[IRI] ', '[IRQ] ']",[],WS,20170209
+19,"['Soraya Aghaeihajiagha [7]', 'Silvia Garino']","['[IRI] ', '[ITA] ']","['11-2', '10-12', '11-4', '11-4']",WS,20170209
+20,"['Yeganeh Kermani', 'Shabana Afshar']","['[IRI] ', '[AFG] ']","['11-1', '11-1', '11-2']",WS,20170209
+21,"['Hui Zhen Grace Chua [2]', 'Sahar Ahmadabadi']","['[SGP] ', '[IRI] ']","['11-3', '11-5', '11-2']",WS,20170209
+22,"['Amir Qasemi', 'Ahmed Ashour Abbas Al-Omairi']","['[IRI] ', '[IRQ] ']","['11-4', '11-9', '11-6']",MS - Qualification,20170209
+23,"['Amirhossein Noralyani', 'Mustafa A-Zubaidi']","['[IRI] ', '[IRQ] ']",[],MS - Qualification,20170209
+24,"['Parham Khanzadeh', 'Mohhamed Khaleel']","['[IRI] ', '[IRQ] ']","['11-1', '11-4', '11-2']",MS - Qualification,20170209
+25,"['Mohamad Pairavand', 'Mohammed Hussein']","['[IRI] ', '[IRQ] ']","['11-3', '11-3', '11-5']",MS - Qualification,20170209
+26,"['Mohamad Charmali', 'Emran Rahim']","['[IRI] ', '[AFG] ']","['11-5', '11-6', '11-4']",MS - Qualification,20170209
+27,"['Nima Rostampourlagaldani', 'Mohammed Almashaekhi']","['[IRI] ', '[IRQ] ']","['11-0', '11-3', '11-2']",MS - Qualification,20170209
+28,"['Mohammadamin Aliakbarian', 'Omar Kareem']","['[IRI] ', '[IRQ] ']","['11-1', '11-2', '11-3']",MS - Qualification,20170209
+29,"['Shabahang Asgari', 'Alaa Al-Masooi']","['[IRI] ', '[IRQ] ']",[],MS - Qualification,20170209
+30,"['Amirabbas Mirbagheri', 'Mohammed Al-Windawi']","['[IRI] ', '[IRQ] ']","['11-4', '11-3', '11-1']",MS - Qualification,20170209
+31,"['Alireza Karami', 'Mohammed Hasan']","['[IRI] ', '[IRQ] ']","['11-2', '11-3', '11-1']",MS - Qualification,20170209
+32,"['Ali Bastani', 'Qusay Bani Wais']","['[IRI] ', '[IRQ] ']",[],MS - Qualification,20170209
+33,"['Haidar M. Besha', 'Said Mohammad Kabir Mirzad']","['[IRQ] ', '[AFG] ']",[],MS - Qualification,20170209
+34,"['Amirhossein Noralyani', 'Amir Qasemi', 'Salman Abdullah', 'Mohammed Hasan']","['[IRI] ', '[IRI] ', '[IRQ] ', '[IRQ] ']","['11-1', '11-4', '11-1']",MD - Qualification,20170209
+35,"['Shabahang Asgari', 'Erfan Sharghipour', 'Mohammed Al-Windawi', 'Qusay Bani Wais']","['[IRI] ', '[IRI] ', '[IRQ] ', '[IRQ] ']",[],MD - Qualification,20170209
+36,"['Niluka Karunaratne [1]', 'Kanan Rzayev']","['[SRI] ', '[AZE] ']","['11-5', '11-2', '11-8']",MS,20170209
+37,"['Chet Vin Wong', 'Amirabbas Mirbagheri']","['[MAS] ', '[IRI] ']","['7-11', '11-5', '11-7', '11-3']",MS,20170209
+38,"['Zin Rei Ryan Ng [14]', 'Hasan Motaghi']","['[SGP] ', '[IRI] ']","['10-12', '11-6', '11-6', '13-11']",MS,20170209
+39,"['Mohamad Charmali', 'Mohamad Alsawas']","['[IRI] ', '[SYR] ']","['11-8', '11-9', '8-11', '11-8']",MS,20170209
+40,"['Vega Vio Nirwanda [6]', 'Nima Rostampourlagaldani']","['[INA] ', '[IRI] ']","['11-5', '11-5', '11-8']",MS,20170209
+41,"['Mehran Shahbazi', 'Karim Musayev']","['[IRI] ', '[AZE] ']","['11-4', '11-8', '11-5']",MS,20170209
+42,"['Fabio Caponio [15]', 'Sayed Imran Meri']","['[ITA] ', '[AFG] ']","['11-4', '11-2', '11-7']",MS,20170209
+43,"['Haidar M. Besha', 'Mohammed Othman Saad']","['[IRQ] ', '[IRQ] ']","['11-7', '11-4', '15-14']",MS,20170209
+44,"['Rosario Maddaloni [4]', 'Mohammed Al-Ibadi']","['[ITA] ', '[IRQ] ']","['11-0', '11-3', '11-1']",MS,20170209
+45,"['Sabuhi Huseynov', 'Salman Abdullah']","['[AZE] ', '[IRQ] ']","['11-5', '11-5', '11-6']",MS,20170209
+46,"['Siddharath Thakur [10]', 'Ali Bastani']","['[IND] ', '[IRI] ']","['11-2', '11-6', '11-2']",MS,20170209
+47,"['Dionysius Hayom Rumbaka', 'Amir Jabbari']","['[INA] ', '[IRI] ']","['11-7', '11-5', '11-8']",MS,20170209
+48,"['Krishna Adi Nugraha [5]', 'Seyid Mirjafarov']","['[INA] ', '[AZE] ']","['11-2', '11-2', '11-0']",MS,20170209
+49,"['Enamullah Faqiri', 'Erfan Sharghipour']","['[AFG] ', '[IRI] ']","['13-11', '11-9', '8-11', '11-6']",MS,20170209
+50,"['Kevin Strobl', 'Said Mohammad Kabir Mirzad']","['[ITA] ', '[AFG] ']","['11-3', '11-6', '11-2']",MS,20170209
+51,"['Farzin Khanjani', 'Amir Qasemi']","['[IRI] ', '[IRI] ']","['11-7', '11-6', '11-7']",MS,20170209
+52,"['Masoud Piroozi', 'Ali Hosseinkhani']","['[IRI] ', '[IRI] ']","['8-11', '11-7', '11-4', '11-7']",MS,20170209
+53,"['Rudolf Dellenbach [9]', 'Said Shahabudin Aini']","['[ITA] ', '[AFG] ']","['11-3', '11-3', '11-3']",MS,20170209
+54,"['Aljallad Ahmad', 'Murad Bayramov']","['[SYR] ', '[AZE] ']","['11-5', '11-3', '11-5']",MS,20170209
+55,"['Enzi Shafira [7]', 'Mohammadamin Aliakbarian']","['[INA] ', '[IRI] ']","['11-7', '11-4', '11-3']",MS,20170209
+56,"['Soroush Eskandari Vatannejad', 'Alireza Karami']","['[IRI] ', '[IRI] ']","['11-8', '11-9', '11-5']",MS,20170209
+57,"['Chico Aura Dwi Wardoyo [16]', 'Orkhan Galandarov']","['[INA] ', '[AZE] ']","['11-1', '11-4', '11-3']",MS,20170209
+58,"['Amirhossein Noralyani', 'Abbas Alpofead']","['[IRI] ', '[IRQ] ']","['11-4', '11-5', '11-4']",MS,20170209
+59,"['Dinuka Karunaratna [3]', 'Lukas Osele']","['[SRI] ', '[ITA] ']","['11-4', '13-11', '11-6']",MS,20170209
+60,"['Alberto Alvin Yulianto', 'Parham Khanzadeh']","['[INA] ', '[IRI] ']","['11-7', '11-4', '11-3']",MS,20170209
+61,"['Bernardo Atilano [11]', 'Jahid Alhasanov']","['[POR] ', '[AZE] ']","['11-2', '11-5', '11-2']",MS,20170209
+62,"['Mohamad Pairavand', 'Alireza Qasemi']","['[IRI] ', '[IRI] ']","['11-4', '10-12', '11-6', '11-9']",MS,20170209
+63,"['Mateusz Dubowski [8]', 'Giovanni Greco']","['[POL] ', '[ITA] ']","['11-6', '11-6', '12-10']",MS,20170209
+64,"['Shi Xuan Dominic Soh', 'Shabahang Asgari']","['[SGP] ', '[IRI] ']","['11-8', '11-4', '11-2']",MS,20170209
+65,"['Matteo Bellucci [12]', 'Mohammed Salim']","['[ITA] ', '[IRQ] ']","['11-1', '11-2', '11-2']",MS,20170209
+66,"['Armin Zakizadeh', 'Ansari Mehdi']","['[IRI] ', '[IRI] ']","['7-11', '9-11', '11-2', '11-8', '11-6']",MS,20170209
+67,"['Panji Ahmad Maulana [2]', 'Teymur Abbasov']","['[INA] ', '[AZE] ']","['11-3', '11-1', '11-3']",MS,20170209
+68,"['Ksenia Polikarpova [1]', 'Fatemeh Sarvghadi']","['[RUS] ', '[IRI] ']","['11-7', '11-9', '11-4']",WS,20170209
+69,"['Anne Hald [8]', 'Hanan Kabiri']","['[DEN] ', '[IRI] ']","['11-8', '11-7', '11-8']",WS,20170209
+70,"['Hedie Shams', 'Pegah Kamrani']","['[IRI] ', '[IRI] ']","['11-8', '11-4', '12-14', '12-10']",WS,20170209
+71,"['Sara Delavari Kashani', 'Nazanin Zamani']","['[IRI] ', '[IRI] ']","['11-3', '11-3', '14-12']",WS,20170209
+72,"['Elnaz Feizmanesh', 'Nasim Safai']","['[IRI] ', '[IRI] ']","['11-3', '11-9', '12-10']",WS,20170209
+73,"['Grace Gabriel [4]', 'Hajar Shahsavari Najafabadi']","['[NGR] ', '[IRI] ']","['11-9', '11-2', '11-9']",WS,20170209
+74,"['Soraya Aghaeihajiagha [7]', 'Taravat Alinezhad']","['[IRI] ', '[IRI] ']","['11-8', '11-5', '11-4']",WS,20170209
+75,"['Hui Zhen Grace Chua [2]', 'Yeganeh Kermani']","['[SGP] ', '[IRI] ']","['11-4', '11-6', '11-4']",WS,20170209
+76,"['Sanjana Santosh [1]', 'Arathi Sara Sunil', 'Sahar Ahmadabadi', 'Elahe Sepidan']","['[IND] ', '[IND] ', '[IRI] ', '[IRI] ']","['11-5', '11-2', '11-6']",WD,20170209
+77,"['Ren-Ne Ong', 'Jia Ying Crystal Wong', 'Maryam Mojtabavi', 'Hajar Shahsavari Najafabadi']","['[SGP] ', '[SGP] ', '[IRI] ', '[IRI] ']","['11-4', '11-4', '11-4']",WD,20170209
+78,"['Yosra Beigi', 'Hanan Kabiri', 'Paria Eskandari', 'Romina Tajik']","['[IRI] ', '[IRI] ', '[IRI] ', '[IRI] ']","['11-5', '11-5', '11-9']",WD,20170209
+79,"['Putri Sari Dewi Citra [2]', 'Yujia Jin', 'Hedie Shams', 'Nazanin Zamani']","['[SGP] ', '[SGP] ', '[IRI] ', '[IRI] ']","['11-6', '11-5', '11-8']",WD,20170209
+80,"['Samin Abedkhojasteh', 'Yeganeh Kermani', 'Taravat Alinezhad', 'Nasim Safai']","['[IRI] ', '[IRI] ', '[IRI] ', '[IRI] ']","['15-14', '11-9', '14-12']",WD,20170209
+81,"['Soraya Aghaeihajiagha [4]', 'Sara Delavari Kashani', 'Haneen Alhareb', 'Basma Chasib']","['[IRI] ', '[IRI] ', '[IRQ] ', '[IRQ] ']",[],WD,20170209
+82,"['Pegah Kamrani', 'Safoora Zamanloo', 'Hadis Ahmadi', 'Fatemeh Mouneskhah']","['[IRI] ', '[IRI] ', '[IRI] ', '[IRI] ']","['11-4', '11-6', '11-4']",WD,20170209
+83,"['Silvia Garino [3]', 'Lisa Iversen', 'Aida Fazeli', 'Yeganeh Tafreshi']","['[ITA] ', '[ITA] ', '[IRI] ', '[IRI] ']","['12-10', '11-6', '10-12', '11-8']",WD,20170209
+84,"['Niluka Karunaratne [1]', 'Chet Vin Wong']","['[SRI] ', '[MAS] ']","['11-6', '11-9', '11-7']",MS,20170209
+85,"['Zin Rei Ryan Ng [14]', 'Mohamad Charmali']","['[SGP] ', '[IRI] ']","['11-5', '11-2']",MS,20170209
+86,"['Vega Vio Nirwanda [6]', 'Mehran Shahbazi']","['[INA] ', '[IRI] ']","['11-4', '11-9', '11-1']",MS,20170209
+87,"['Fabio Caponio [15]', 'Haidar M. Besha']","['[ITA] ', '[IRQ] ']","['11-7', '11-5', '11-5']",MS,20170209
+88,"['Rosario Maddaloni [4]', 'Sabuhi Huseynov']","['[ITA] ', '[AZE] ']","['11-3', '11-4', '11-1']",MS,20170209
+89,"['Dionysius Hayom Rumbaka', 'Siddharath Thakur [10]']","['[INA] ', '[IND] ']","['10-12', '11-8', '11-6', '12-10']",MS,20170209
+90,"['Krishna Adi Nugraha [5]', 'Enamullah Faqiri']","['[INA] ', '[AFG] ']","['11-3', '11-6', '11-3']",MS,20170209
+91,"['Rudolf Dellenbach [9]', 'Masoud Piroozi']","['[ITA] ', '[IRI] ']","['9-11', '11-9', '11-2', '11-9']",MS,20170209
+92,"['Shi Xuan Dominic Soh', 'Matteo Bellucci [12]']","['[SGP] ', '[ITA] ']","['11-7', '11-7', '12-10']",MS,20170209
+93,"['Enzi Shafira [7]', 'Aljallad Ahmad']","['[INA] ', '[SYR] ']","['11-6', '11-8', '11-8']",MS,20170209
+94,"['Dinuka Karunaratna [3]', 'Amirhossein Noralyani']","['[SRI] ', '[IRI] ']","['11-8', '11-6', '11-8']",MS,20170209
+95,"['Hasan Motaghi', 'Mehran Shahbazi', 'Enamullah Faqiri', 'Emran Rahim']","['[IRI] ', '[IRI] ', '[AFG] ', '[AFG] ']","['11-9', '11-6', '11-4']",MD,20170209
+96,"['Bernardo Atilano [11]', 'Alberto Alvin Yulianto']","['[POR] ', '[INA] ']","['11-8', '12-10', '6-11', '8-11', '13-11']",MS,20170209
+97,"['Mateusz Dubowski [8]', 'Mohamad Pairavand']","['[POL] ', '[IRI] ']","['11-6', '11-7', '10-12', '11-6']",MS,20170209
+98,"['Panji Ahmad Maulana [2]', 'Armin Zakizadeh']","['[INA] ', '[IRI] ']","['11-5', '11-5', '12-10']",MS,20170209
+99,"['Farzin Khanjani', 'Kevin Strobl']","['[IRI] ', '[ITA] ']","['11-4', '11-8', '11-2']",MS,20170209
+100,"['Francis Alwin [1]', 'Kona Tarun', 'Mohamad Charmali', 'Parham Khanzadeh']","['[IND] ', '[IND] ', '[IRI] ', '[IRI] ']","['11-2', '11-8', '11-7']",MD,20170209
+101,"['Chico Aura Dwi Wardoyo [16]', 'Soroush Eskandari Vatannejad']","['[INA] ', '[IRI] ']","['11-7', '9-11', '11-5', '11-9']",MS,20170209
+102,"['Matteo Bellucci [8]', 'Fabio Caponio', 'Mustafa A-Zubaidi', 'Alaa Al-Masooi']","['[ITA] ', '[ITA] ', '[IRQ] ', '[IRQ] ']",[],MD,20170209
+103,"['Amirhossein Noralyani', 'Amir Qasemi', 'Aljallad Ahmad', 'Mohamad Alsawas']","['[IRI] ', '[IRI] ', '[SYR] ', '[SYR] ']","['11-8', '11-6', '8-11', '11-5']",MD,20170209
+104,"['Vanmael Heriau [3]', 'Florent Riancho', 'Omar Kareem', 'Mohhamed Khaleel']","['[FRA] ', '[FRA] ', '[IRQ] ', '[IRQ] ']","['11-1', '11-2', '11-2']",MD,20170209
+105,"['Giovanni Greco', 'Rosario Maddaloni', 'Neamah Muataz Wasfi', 'Mohammed Othman Saad']","['[ITA] ', '[ITA] ', '[IRQ] ', '[IRQ] ']","['11-2', '11-6', '11-2']",MD,20170209
+106,"['Kenas Adi Haryanto [5]', 'Muhammad Reza Pahlevi Isfahani', 'Orkhan Galandarov', 'Kanan Rzayev']","['[INA] ', '[INA] ', '[AZE] ', '[AZE] ']","['11-8', '11-5', '11-7']",MD,20170209
+107,"['Masoud Piroozi', 'Alireza Qasemi', 'Mohammed Almashaekhi', 'Mohammed Hussein']","['[IRI] ', '[IRI] ', '[IRQ] ', '[IRQ] ']","['11-1', '11-2', '11-5']",MD,20170209
+108,"['Mohamad Pairavand', 'Armin Zakizadeh', 'Shabahang Asgari', 'Erfan Sharghipour']","['[IRI] ', '[IRI] ', '[IRI] ', '[IRI] ']","['11-8', '11-9', '11-8']",MD,20170209
+109,"['Arun George [7]', 'Rohan Kapoor', 'Abbas Alpofead', 'Mohammed Salim']","['[IND] ', '[IND] ', '[IRQ] ', '[IRQ] ']","['11-6', '11-3', '11-4']",MD,20170209
+110,"['Alireza Karami', 'Nima Rostampourlagaldani', 'Sayed Imran Meri', 'Said Mohammad Kabir Mirzad']","['[IRI] ', '[IRI] ', '[AFG] ', '[AFG] ']","['11-8', '11-2', '11-3']",MD,20170209
+111,"['Sabar Karyaman Gutama [4]', 'Franky Wijaya', 'Sabuhi Huseynov', 'Seyid Mirjafarov']","['[INA] ', '[INA] ', '[AZE] ', '[AZE] ']","['11-2', '11-1', '11-6']",MD,20170209
+112,"['Ali Bastani', 'Amirabbas Mirbagheri', 'Qasim Mohammed Maaroof Al-Mandalawi', 'Haidar M. Besha']","['[IRI] ', '[IRI] ', '[IRQ] ', '[IRQ] ']","['11-6', '11-8', '11-6']",MD,20170209
+113,"['Soroush Eskandari Vatannejad', 'Farzin Khanjani', 'Lukas Osele [6]', 'Kevin Strobl']","['[IRI] ', '[IRI] ', '[ITA] ', '[ITA] ']","['11-7', '11-6', '13-11']",MD,20170209
+114,"['Mohammadamin Aliakbarian', 'Amir Jabbari', 'Teymur Abbasov', 'Jahid Alhasanov']","['[IRI] ', '[IRI] ', '[AZE] ', '[AZE] ']","['11-5', '10-12', '11-6', '9-11', '11-3']",MD,20170209
+115,"['Arjun M.R. [2]', 'Ramchandran Shlok', 'Ansari Mehdi', 'Ali Hosseinkhani']","['[IND] ', '[IND] ', '[IRI] ', '[IRI] ']","['11-2', '11-4', '11-5']",MD,20170209
+116,"['Zin Rei Ryan Ng [14]', 'Niluka Karunaratne [1]']","['[SGP] ', '[SRI] ']","['9-11', '6-11', '14-12', '11-8', '11-8']",MS,20170209
+117,"['Vega Vio Nirwanda [6]', 'Fabio Caponio [15]']","['[INA] ', '[ITA] ']","['11-5', '11-8', '11-3']",MS,20170209
+118,"['Arun George [7]', 'Rohan Kapoor', 'Mohamad Pairavand', 'Armin Zakizadeh']","['[IND] ', '[IND] ', '[IRI] ', '[IRI] ']","['11-0', '11-6', '11-6']",MD,20170209
+119,"['Rosario Maddaloni [4]', 'Dionysius Hayom Rumbaka']","['[ITA] ', '[INA] ']","['11-8', '7-11', '12-10', '11-9']",MS,20170209
+120,"['Krishna Adi Nugraha [5]', 'Farzin Khanjani']","['[INA] ', '[IRI] ']","['13-11', '12-10', '11-7']",MS,20170209
+121,"['Enzi Shafira [7]', 'Rudolf Dellenbach [9]']","['[INA] ', '[ITA] ']","['11-9', '11-6', '11-6']",MS,20170209
+122,"['Chico Aura Dwi Wardoyo [16]', 'Dinuka Karunaratna [3]']","['[INA] ', '[SRI] ']","['11-6', '9-11', '11-8', '9-11', '12-10']",MS,20170209
+123,"['Mateusz Dubowski [8]', 'Bernardo Atilano [11]']","['[POL] ', '[POR] ']","['11-5', '14-12', '6-11', '11-6']",MS,20170209
+124,"['Panji Ahmad Maulana [2]', 'Shi Xuan Dominic Soh']","['[INA] ', '[SGP] ']","['11-6', '11-7', '11-4']",MS,20170209
+125,"['Francis Alwin [1]', 'Kona Tarun', 'Hasan Motaghi', 'Mehran Shahbazi']","['[IND] ', '[IND] ', '[IRI] ', '[IRI] ']","['6-11', '11-9', '11-8', '11-7']",MD,20170209
+126,"['Sabar Karyaman Gutama [4]', 'Franky Wijaya', 'Alireza Karami', 'Nima Rostampourlagaldani']","['[INA] ', '[INA] ', '[IRI] ', '[IRI] ']","['11-7', '11-4', '11-6']",MD,20170209
+127,"['Amirhossein Noralyani', 'Amir Qasemi', 'Matteo Bellucci [8]', 'Fabio Caponio']","['[IRI] ', '[IRI] ', '[ITA] ', '[ITA] ']","['11-5', '7-11', '11-8', '11-8']",MD,20170209
+128,"['Vanmael Heriau [3]', 'Florent Riancho', 'Giovanni Greco', 'Rosario Maddaloni']","['[FRA] ', '[FRA] ', '[ITA] ', '[ITA] ']","['11-7', '8-11', '11-7', '13-11']",MD,20170209
+129,"['Kenas Adi Haryanto [5]', 'Muhammad Reza Pahlevi Isfahani', 'Masoud Piroozi', 'Alireza Qasemi']","['[INA] ', '[INA] ', '[IRI] ', '[IRI] ']","['5-11', '11-6', '11-4', '11-5']",MD,20170209
+130,"['Soroush Eskandari Vatannejad', 'Farzin Khanjani', 'Ali Bastani', 'Amirabbas Mirbagheri']","['[IRI] ', '[IRI] ', '[IRI] ', '[IRI] ']","['11-4', '11-8', '11-9']",MD,20170209
+131,"['Arjun M.R. [2]', 'Ramchandran Shlok', 'Mohammadamin Aliakbarian', 'Amir Jabbari']","['[IND] ', '[IND] ', '[IRI] ', '[IRI] ']","['11-4', '11-8', '11-5']",MD,20170209
+132,"['Ksenia Polikarpova [1]', 'Anne Hald [8]']","['[RUS] ', '[DEN] ']","['11-2', '11-2', '11-3']",WS,20170209
+133,"['Sara Delavari Kashani', 'Hedie Shams']","['[IRI] ', '[IRI] ']","['11-3', '11-4', '11-2']",WS,20170209
+134,"['Grace Gabriel [4]', 'Elnaz Feizmanesh']","['[NGR] ', '[IRI] ']","['9-11', '11-4', '6-11', '11-8', '11-8']",WS,20170209
+135,"['Hui Zhen Grace Chua [2]', 'Soraya Aghaeihajiagha [7]']","['[SGP] ', '[IRI] ']","['11-9', '11-13', '11-8', '9-11', '14-12']",WS,20170209
+136,"['Sanjana Santosh [1]', 'Arathi Sara Sunil', 'Samin Abedkhojasteh', 'Yeganeh Kermani']","['[IND] ', '[IND] ', '[IRI] ', '[IRI] ']","['11-5', '11-7', '11-6']",WD,20170209
+137,"['Ren-Ne Ong', 'Jia Ying Crystal Wong', 'Soraya Aghaeihajiagha [4]', 'Sara Delavari Kashani']","['[SGP] ', '[SGP] ', '[IRI] ', '[IRI] ']","['11-9', '11-4', '11-7']",WD,20170209
+138,"['Pegah Kamrani', 'Safoora Zamanloo', 'Silvia Garino [3]', 'Lisa Iversen']","['[IRI] ', '[IRI] ', '[ITA] ', '[ITA] ']","['11-3', '10-12', '11-5', '11-8']",WD,20170209
+139,"['Putri Sari Dewi Citra [2]', 'Yujia Jin', 'Yosra Beigi', 'Hanan Kabiri']","['[SGP] ', '[SGP] ', '[IRI] ', '[IRI] ']","['11-7', '11-6', '13-11']",WD,20170209
+140,"['Ksenia Polikarpova [1]', 'Sara Delavari Kashani']","['[RUS] ', '[IRI] ']","['11-9', '11-6', '11-4']",WS,20170209
+141,"['Hui Zhen Grace Chua [2]', 'Grace Gabriel [4]']","['[SGP] ', '[NGR] ']","['11-3', '11-6', '12-10']",WS,20170209
+142,"['Ren-Ne Ong', 'Jia Ying Crystal Wong', 'Sanjana Santosh [1]', 'Arathi Sara Sunil']","['[SGP] ', '[SGP] ', '[IND] ', '[IND] ']","['12-14', '11-7', '11-7', '11-6']",WD,20170209
+143,"['Putri Sari Dewi Citra [2]', 'Yujia Jin', 'Pegah Kamrani', 'Safoora Zamanloo']","['[SGP] ', '[SGP] ', '[IRI] ', '[IRI] ']","['11-8', '11-8', '11-8']",WD,20170209
+144,"['Vega Vio Nirwanda [6]', 'Zin Rei Ryan Ng [14]']","['[INA] ', '[SGP] ']","['10-12', '11-6', '11-13', '11-9', '11-6']",MS,20170209
+145,"['Krishna Adi Nugraha [5]', 'Rosario Maddaloni [4]']","['[INA] ', '[ITA] ']","['11-2', '11-6', '11-7']",MS,20170209
+146,"['Chico Aura Dwi Wardoyo [16]', 'Enzi Shafira [7]']","['[INA] ', '[INA] ']","['9-11', '11-8', '11-13', '11-9', '11-8']",MS,20170209
+147,"['Panji Ahmad Maulana [2]', 'Mateusz Dubowski [8]']","['[INA] ', '[POL] ']","['11-9', '11-9', '11-9']",MS,20170209
+148,"['Francis Alwin [1]', 'Kona Tarun', 'Amirhossein Noralyani', 'Amir Qasemi']","['[IND] ', '[IND] ', '[IRI] ', '[IRI] ']","['11-7', '11-8', '11-4']",MD,20170209
+149,"['Kenas Adi Haryanto [5]', 'Muhammad Reza Pahlevi Isfahani', 'Vanmael Heriau [3]', 'Florent Riancho']","['[INA] ', '[INA] ', '[FRA] ', '[FRA] ']","['11-6', '11-5', '10-12', '11-6']",MD,20170209
+150,"['Sabar Karyaman Gutama [4]', 'Franky Wijaya', 'Arun George [7]', 'Rohan Kapoor']","['[INA] ', '[INA] ', '[IND] ', '[IND] ']","['11-6', '11-8', '11-6']",MD,20170209
+151,"['Arjun M.R. [2]', 'Ramchandran Shlok', 'Soroush Eskandari Vatannejad', 'Farzin Khanjani']","['[IND] ', '[IND] ', '[IRI] ', '[IRI] ']","['11-7', '11-8', '12-10']",MD,20170209
+152,"['Vega Vio Nirwanda [6]', 'Krishna Adi Nugraha [5]']","['[INA] ', '[INA] ']","['11-4', '11-8', '8-11', '11-2']",MS,20170209
+153,"['Panji Ahmad Maulana [2]', 'Chico Aura Dwi Wardoyo [16]']","['[INA] ', '[INA] ']","['11-8', '11-9', '11-6']",MS,20170209
+154,"['Kenas Adi Haryanto [5]', 'Muhammad Reza Pahlevi Isfahani', 'Francis Alwin [1]', 'Kona Tarun']","['[INA] ', '[INA] ', '[IND] ', '[IND] ']","['11-1', '11-5', '11-7']",MD,20170209
+155,"['Arjun M.R. [2]', 'Ramchandran Shlok', 'Sabar Karyaman Gutama [4]', 'Franky Wijaya']","['[IND] ', '[IND] ', '[INA] ', '[INA] ']","['11-9', '6-11', '11-8', '7-11', '11-8']",MD,20170209
+156,"['Ksenia Polikarpova [1]', 'Hui Zhen Grace Chua [2]']","['[RUS] ', '[SGP] ']","['9-11', '11-4', '11-5', '11-3']",WS,20170209
+157,"['Ren-Ne Ong', 'Jia Ying Crystal Wong', 'Putri Sari Dewi Citra [2]', 'Yujia Jin']","['[SGP] ', '[SGP] ', '[SGP] ', '[SGP] ']","['11-8', '11-13', '7-11', '11-8', '11-5']",WD,20170209
+158,"['Panji Ahmad Maulana [2]', 'Vega Vio Nirwanda [6]']","['[INA] ', '[INA] ']","['11-4', '6-11', '11-6', '11-8']",MS,20170209
+159,"['Arjun M.R. [2]', 'Ramchandran Shlok', 'Kenas Adi Haryanto [5]', 'Muhammad Reza Pahlevi Isfahani']","['[IND] ', '[IND] ', '[INA] ', '[INA] ']","['11-8', '11-8', '11-9']",MD,20170209

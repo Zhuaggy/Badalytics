@@ -1,0 +1,222 @@
+,PLAYERS,COUNTRIES,SCORES,EVENT,match_week
+0,"['Georgii Karpov', 'Ferhat Tiftikci']","['[RUS] ', '[TUR] ']","['21-2', '21-11']",MS - Qualification,20171218
+1,"['Dmitriy Panarin', 'Okan Gultekin']","['[KAZ] ', '[TUR] ']","['21-18', '21-10']",MS - Qualification,20171218
+2,"['Le Thanh Lam [10]', 'Andrei Don']","['[VIE] ', '[UKR] ']","['21-12', '21-13']",MS - Qualification,20171218
+3,"['Murathan Eken', 'Jeppe Schack']","['[TUR] ', '[DEN] ']","['21-16', '22-20']",MS - Qualification,20171218
+4,"['Omer Faruk Bektas', 'Gokhan Zembilci']","['[TUR] ', '[TUR] ']","['21-16', '21-12']",MS - Qualification,20171218
+5,"['Yazgan Calisir', 'Shokhzod Gulomzoda']","['[TUR] ', '[RUS] ']","['21-13', '21-7']",MS - Qualification,20171218
+6,"['Ramazan Tekdemİr', 'Mattias Sonderskov [9]']","['[TUR] ', '[LUX] ']","['21-11', '22-20']",MS - Qualification,20171218
+7,"['Alexander Æbeløe Christensen', 'Murat Saka']","['[DEN] ', '[TUR] ']","['21-17', '21-5']",MS - Qualification,20171218
+8,"['Serhat Salim', 'Sinan Er']","['[TUR] ', '[TUR] ']","['21-14', '21-6']",MS - Qualification,20171218
+9,"['Ibrahim Eksi', 'Glib Beketov']","['[TUR] ', '[UKR] ']","['21-17', '21-16']",MS - Qualification,20171218
+10,"['Kari Gunnarsson [12]', 'Axilleas Tsartsidis']","['[ISL] ', '[GRE] ']","['21-7', '21-12']",MS - Qualification,20171218
+11,"['Bugrahan Perk', 'Romain Frank']","['[TUR] ', '[FRA] ']","['21-17', '21-19']",MS - Qualification,20171218
+12,"['Sergey Don [5]', 'Celil Furkan Barug']","['[UKR] ', '[TUR] ']","['21-9', '21-8']",MS - Qualification,20171218
+13,"['Abdurasul Khadjaev', 'Mesut Sezer']","['[UZB] ', '[TUR] ']","['21-16', '21-13']",MS - Qualification,20171218
+14,"['Søren Hald [16]', 'Alexander Kim']","['[DEN] ', '[UZB] ']","['21-14', '21-9']",MS - Qualification,20171218
+15,"['Mads Thøgersen', 'Sander Merits']","['[DEN] ', '[EST] ']","['21-10', '21-6']",MS - Qualification,20171218
+16,"['Tayfun Tasdemir', 'Sherzod Zokhidov']","['[TUR] ', '[UZB] ']","['21-9', '21-9']",MS - Qualification,20171218
+17,"['Stanislav Pukhov [11]', 'Serkan Ugurlu']","['[RUS] ', '[TUR] ']","['21-7', '21-11']",MS - Qualification,20171218
+18,"['Kubilay Sadi', 'Juno Thomas']","['[TUR] ', '[LUX] ']","['21-13', '21-16']",MS - Qualification,20171218
+19,"['Dimitar Yanakiev [7]', 'Ali Bugra Akdogan']","['[BUL] ', '[TUR] ']","['21-18', '21-8']",MS - Qualification,20171218
+20,"['Ivan Panev', 'Frederik Sangtong']","['[BUL] ', '[DEN] ']","['21-16', '21-19']",MS - Qualification,20171218
+21,"['Selcuk Tan', 'Vladyslav Volnyanskiy [14]']","['[TUR] ', '[UKR] ']","['21-14', '14-21', '21-19']",MS - Qualification,20171218
+22,"['Efremov Mikhail', 'Brandon Zhi Hao Yap']","['[RUS] ', '[ENG] ']","['21-14', '15-21', '21-17']",MS - Qualification,20171218
+23,"['Haktan Doğan [4]', 'Corentin Falh']","['[TUR] ', '[FRA] ']","['21-10', '21-14']",MS - Qualification,20171218
+24,"['Ivan Medynskiy', 'Yann Zaccaria']","['[UKR] ', '[LUX] ']","['19-21', '21-11', '21-17']",MS - Qualification,20171218
+25,"['Kazim Mert Toprak', 'Kanan Rzayev [13]']","['[TUR] ', '[AZE] ']","['21-16', '21-10']",MS - Qualification,20171218
+26,"['Danylo Bosniuk', 'Furkan Zenbilci']","['[UKR] ', '[TUR] ']","['21-8', '21-2']",MS - Qualification,20171218
+27,"['Yusuf Ramazan Bay [8]', 'Philip Illum Klindt']","['[TUR] ', '[DEN] ']","['21-13', '14-21', '21-9']",MS - Qualification,20171218
+28,"['Frederik Æbleøe Christesen', 'Yusuf Yaşar']","['[DEN] ', '[TUR] ']","['21-11', '21-14']",MS - Qualification,20171218
+29,"['Petros Tentas [15]', 'Erenturk Özder']","['[GRE] ', '[TUR] ']","['12-21', '22-20', '21-19']",MS - Qualification,20171218
+30,"['Mert Tunco', 'Manuel Manca']","['[TUR] ', '[SUI] ']","['15-21', '21-19', '21-14']",MS - Qualification,20171218
+31,"['Daniel Popescu', 'Cengizhan Bayrak']","['[ROU] ', '[TUR] ']","['21-9', '21-14']",MS - Qualification,20171218
+32,"['Nazlıcan Inci', 'Bahar Yavru']","['[TUR] ', '[TUR] ']","['21-19', '21-17']",WS - Qualification,20171218
+33,"['Filiz Halburcu', 'Jennifer Kobelt']","['[TUR] ', '[SUI] ']","['21-16', '14-21', '21-9']",WS - Qualification,20171218
+34,"['Busra Unlu [5]', 'Sofie Zacho']","['[TUR] ', '[DEN] ']","['21-18', '21-9']",WS - Qualification,20171218
+35,"['Milu Luiza', 'Arzu Delibalta']","['[ROU] ', '[TUR] ']","['21-17', '21-15']",WS - Qualification,20171218
+36,"['Anastasiia Pustinskaia [4]', 'Aysin Yesil']","['[RUS] ', '[TUR] ']","['21-15', '21-8']",WS - Qualification,20171218
+37,"['Naime Yilmaz', 'Loredana Lungu']","['[TUR] ', '[ROU] ']","['21-4', '21-18']",WS - Qualification,20171218
+38,"['Yeganeh Kermani [8]', 'Buse Ceylan']","['[IRI] ', '[TUR] ']","['21-11', '21-12']",WS - Qualification,20171218
+39,"['Sevval Buse Alsoy', 'Maryana Viarbitskaya']","['[TUR] ', '[BLR] ']","['21-16', '21-18']",WS - Qualification,20171218
+40,"['Samin Abedkhojasteh', 'Maria Alexandra Dutu']","['[IRI] ', '[ROU] ']","['19-21', '21-13', '21-8']",WS - Qualification,20171218
+41,"['Basak Kilic [7]', 'Ioana Grecea']","['[TUR] ', '[ROU] ']","['21-17', '21-19']",WS - Qualification,20171218
+42,"['Edanur Koybasi', 'Yulia Vasilyeva']","['[TUR] ', '[RUS] ']","['15-21', '21-12', '21-10']",WS - Qualification,20171218
+43,"['Ece Sare Basakin', 'Selen Guney']","['[TUR] ', '[TUR] ']","['21-12', '21-18']",WS - Qualification,20171218
+44,"['Yuliia Miroshnychenko', 'Esra Dikmentepe']","['[UKR] ', '[TUR] ']","['21-17', '21-6']",WS - Qualification,20171218
+45,"['Mariya Rud [6]', 'Zeynep Özgen']","['[UKR] ', '[TUR] ']","['21-17', '21-12']",WS - Qualification,20171218
+46,"['Dorotea Sutara', 'Aleyna Arslan']","['[CRO] ', '[TUR] ']","['21-18', '21-15']",WS - Qualification,20171218
+47,"['Betul Soner', 'Amalie Vestmar']","['[TUR] ', '[DEN] ']","['21-11', '22-20']",WS - Qualification,20171218
+48,"['Georgii Karpov', 'Dmitriy Panarin']","['[RUS] ', '[KAZ] ']","['21-10', '21-16']",MS - Qualification,20171218
+49,"['Le Thanh Lam [10]', 'Murathan Eken']","['[VIE] ', '[TUR] ']","['21-13', '17-21', '21-12']",MS - Qualification,20171218
+50,"['Yazgan Calisir', 'Omer Faruk Bektas']","['[TUR] ', '[TUR] ']","['21-11', '21-9']",MS - Qualification,20171218
+51,"['Alexander Æbeløe Christensen', 'Ramazan Tekdemİr']","['[DEN] ', '[TUR] ']","['21-17', '21-17']",MS - Qualification,20171218
+52,"['Serhat Salim', 'Ibrahim Eksi']","['[TUR] ', '[TUR] ']","['21-13', '16-21', '21-9']",MS - Qualification,20171218
+53,"['Kari Gunnarsson [12]', 'Bugrahan Perk']","['[ISL] ', '[TUR] ']","['21-18', '21-16']",MS - Qualification,20171218
+54,"['Sergey Don [5]', 'Abdurasul Khadjaev']","['[UKR] ', '[UZB] ']","['24-22', '20-22', '21-14']",MS - Qualification,20171218
+55,"['Mads Thøgersen', 'Søren Hald [16]']","['[DEN] ', '[DEN] ']","['21-18', '21-19']",MS - Qualification,20171218
+56,"['Stanislav Pukhov [11]', 'Tayfun Tasdemir']","['[RUS] ', '[TUR] ']","['21-14', '21-11']",MS - Qualification,20171218
+57,"['Dimitar Yanakiev [7]', 'Kubilay Sadi']","['[BUL] ', '[TUR] ']","['21-14', '21-15']",MS - Qualification,20171218
+58,"['Ivan Panev', 'Selcuk Tan']","['[BUL] ', '[TUR] ']","['21-18', '21-14']",MS - Qualification,20171218
+59,"['Haktan Doğan [4]', 'Efremov Mikhail']","['[TUR] ', '[RUS] ']","['21-12', '11-21', '21-8']",MS - Qualification,20171218
+60,"['Ivan Medynskiy', 'Kazim Mert Toprak']","['[UKR] ', '[TUR] ']","['21-11', '22-24', '21-19']",MS - Qualification,20171218
+61,"['Yusuf Ramazan Bay [8]', 'Danylo Bosniuk']","['[TUR] ', '[UKR] ']","['21-15', '12-21', '21-18']",MS - Qualification,20171218
+62,"['Frederik Æbleøe Christesen', 'Petros Tentas [15]']","['[DEN] ', '[GRE] ']","['21-16', '21-19']",MS - Qualification,20171218
+63,"['Mert Tunco', 'Daniel Popescu']","['[TUR] ', '[ROU] ']","['22-20', '21-14']",MS - Qualification,20171218
+64,"['Nazlıcan Inci', 'Filiz Halburcu']","['[TUR] ', '[TUR] ']","['21-9', '21-11']",WS - Qualification,20171218
+65,"['Busra Unlu [5]', 'Milu Luiza']","['[TUR] ', '[ROU] ']","['21-15', '21-10']",WS - Qualification,20171218
+66,"['Anastasiia Pustinskaia [4]', 'Naime Yilmaz']","['[RUS] ', '[TUR] ']","['21-12', '21-11']",WS - Qualification,20171218
+67,"['Yeganeh Kermani [8]', 'Sevval Buse Alsoy']","['[IRI] ', '[TUR] ']","['20-22', '21-14', '21-11']",WS - Qualification,20171218
+68,"['Basak Kilic [7]', 'Samin Abedkhojasteh']","['[TUR] ', '[IRI] ']","['21-9', '22-24', '21-19']",WS - Qualification,20171218
+69,"['Edanur Koybasi', 'Ece Sare Basakin']","['[TUR] ', '[TUR] ']","['21-13', '21-19']",WS - Qualification,20171218
+70,"['Mariya Rud [6]', 'Yuliia Miroshnychenko']","['[UKR] ', '[UKR] ']","['21-10', '21-19']",WS - Qualification,20171218
+71,"['Betul Soner', 'Dorotea Sutara']","['[TUR] ', '[CRO] ']","['21-7', '21-13']",WS - Qualification,20171218
+72,"['Georgii Karpov', 'Le Thanh Lam [10]']","['[RUS] ', '[VIE] ']","['21-6', '21-13']",MS - Qualification,20171218
+73,"['Yazgan Calisir', 'Alexander Æbeløe Christensen']","['[TUR] ', '[DEN] ']","['21-16', '14-21', '21-18']",MS - Qualification,20171218
+74,"['Kari Gunnarsson [12]', 'Serhat Salim']","['[ISL] ', '[TUR] ']","['11-21', '21-11', '21-8']",MS - Qualification,20171218
+75,"['Mads Thøgersen', 'Sergey Don [5]']","['[DEN] ', '[UKR] ']","['21-12', '18-21', '21-16']",MS - Qualification,20171218
+76,"['Stanislav Pukhov [11]', 'Dimitar Yanakiev [7]']","['[RUS] ', '[BUL] ']","['21-17', '21-15']",MS - Qualification,20171218
+77,"['Haktan Doğan [4]', 'Ivan Panev']","['[TUR] ', '[BUL] ']","['21-9', '21-11']",MS - Qualification,20171218
+78,"['Yusuf Ramazan Bay [8]', 'Ivan Medynskiy']","['[TUR] ', '[UKR] ']","['21-16', '21-11']",MS - Qualification,20171218
+79,"['Frederik Æbleøe Christesen', 'Mert Tunco']","['[DEN] ', '[TUR] ']","['21-8', '21-9']",MS - Qualification,20171218
+80,"['Semih Baha Basakin', 'Serkan Ugurlu', 'Mattias Sonderskov [1]', 'Juno Thomas']","['[TUR] ', '[TUR] ', '[LUX] ', '[LUX] ']","['21-12', '21-15']",MD - Qualification,20171218
+81,"['Mehmet Capar', 'Emre Sonmez', 'Batuhan Uğurlu', 'Gokhan Zembilci']","['[TUR] ', '[TUR] ', '[TUR] ', '[TUR] ']","['21-17', '21-8']",MD - Qualification,20171218
+82,"['Collins Valentine Filimon [3]', 'Daniel Popescu', 'Tolga Ozsoy', 'Yusuf Yaşar']","['[ROU] ', '[ROU] ', '[TUR] ', '[TUR] ']","['21-12', '21-15']",MD - Qualification,20171218
+83,"['Brandon Zhi Hao Yap', 'Yee Guan Yap', 'Metin Pehlivan', 'Kazim Mert Toprak']","['[ENG] ', '[ENG] ', '[TUR] ', '[TUR] ']","['21-11', '21-7']",MD - Qualification,20171218
+84,"['Jonas Eilskov Jessen', 'Frederik Sangtong', 'Omer Faruk Bektas', 'Selcuk Tan']","['[DEN] ', '[DEN] ', '[TUR] ', '[TUR] ']","['21-16', '21-15']",MD - Qualification,20171218
+85,"['Murathan Eken [4]', 'Mert Tunco', 'Ibrahim Eksi', 'Bugrahan Perk']","['[TUR] ', '[TUR] ', '[TUR] ', '[TUR] ']",['14-8'],MD - Qualification,20171218
+86,"['Yazgan Calisir', 'Bahadir Kaan Kola', 'Glib Beketov', 'Ivan Medynskiy']","['[TUR] ', '[TUR] ', '[UKR] ', '[UKR] ']","['21-12', '21-13']",MD - Qualification,20171218
+87,"['Serdar Koca [2]', 'Serhat Salim', 'Kubilay Sadi', 'Murat Saka']","['[TUR] ', '[TUR] ', '[TUR] ', '[TUR] ']","['21-10', '16-21', '21-12']",MD - Qualification,20171218
+88,"['Lisa Kramer [1]', 'Amalie Vestmar', 'Senem Guleroglu', 'Tuba Gunes']","['[DEN] ', '[DEN] ', '[TUR] ', '[TUR] ']","['21-7', '21-6']",WD - Qualification,20171218
+89,"['Zeynep Özgen', 'Aysegul Yemişen', 'Busra Çeribaş', 'Aysun Taniş']","['[TUR] ', '[TUR] ', '[TUR] ', '[TUR] ']","['21-11', '21-11']",WD - Qualification,20171218
+90,"['Betul Soner', 'Naime Yilmaz', 'Canan Çetin', 'Azime Serttaş']","['[TUR] ', '[TUR] ', '[TUR] ', '[TUR] ']","['21-9', '21-13']",WD - Qualification,20171218
+91,"['Yasemen Bektaş', 'Cansu Erçetin', 'Milu Luiza [2]', 'Loredana Lungu']","['[TUR] ', '[TUR] ', '[ROU] ', '[ROU] ']","['21-13', '16-21', '21-18']",WD - Qualification,20171218
+92,"['Mehmet Capar', 'Emre Sonmez', 'Semih Baha Basakin', 'Serkan Ugurlu']","['[TUR] ', '[TUR] ', '[TUR] ', '[TUR] ']","['21-17', '21-13']",MD - Qualification,20171218
+93,"['Collins Valentine Filimon [3]', 'Daniel Popescu', 'Brandon Zhi Hao Yap', 'Yee Guan Yap']","['[ROU] ', '[ROU] ', '[ENG] ', '[ENG] ']","['21-19', '8-21', '21-16']",MD - Qualification,20171218
+94,"['Murathan Eken [4]', 'Mert Tunco', 'Jonas Eilskov Jessen', 'Frederik Sangtong']","['[TUR] ', '[TUR] ', '[DEN] ', '[DEN] ']","['21-13', '21-13']",MD - Qualification,20171218
+95,"['Serdar Koca [2]', 'Serhat Salim', 'Yazgan Calisir', 'Bahadir Kaan Kola']","['[TUR] ', '[TUR] ', '[TUR] ', '[TUR] ']","['19-21', '21-13', '25-23']",MD - Qualification,20171218
+96,"['Lisa Kramer [1]', 'Amalie Vestmar', 'Zeynep Özgen', 'Aysegul Yemişen']","['[DEN] ', '[DEN] ', '[TUR] ', '[TUR] ']","['15-21', '21-12', '21-12']",WD - Qualification,20171218
+97,"['Yasemen Bektaş', 'Cansu Erçetin', 'Betul Soner', 'Naime Yilmaz']","['[TUR] ', '[TUR] ', '[TUR] ', '[TUR] ']","['21-16', '14-21', '21-12']",WD - Qualification,20171218
+98,"['Ozcan Muzaffer', 'Gulsah Küçüksari', 'Anil Tutal', 'Seyma Özkan']","['[TUR] ', '[TUR] ', '[TUR] ', '[TUR] ']","['24-26', '21-9', '21-17']",XD - Qualification,20171218
+99,"['Mehmet Akarsu', 'Betul Baskan', 'Hilmican Şimşek', 'Ceren Ozdemir']","['[TUR] ', '[TUR] ', '[TUR] ', '[TUR] ']","['21-15', '21-17']",XD - Qualification,20171218
+100,"['Mesut Sezer', 'Edanur Koybasi', 'Samet Koyun', 'Canan Çetin']","['[TUR] ', '[TUR] ', '[TUR] ', '[TUR] ']","['21-13', '21-13']",XD - Qualification,20171218
+101,"['Abdulsamet Özdemir', 'Yasemen Bektaş', 'Nurullah Saraç', 'Merve Demir']","['[TUR] ', '[TUR] ', '[TUR] ', '[TUR] ']","['21-19', '21-18']",XD - Qualification,20171218
+102,"['Semih Baha Basakin', 'Ece Sare Basakin', 'Mads Hoelgaard Christensen [4]', 'Lisa Kramer']","['[TUR] ', '[TUR] ', '[DEN] ', '[DEN] ']","['13-21', '21-16', '21-18']",XD - Qualification,20171218
+103,"['Axilleas Tsartsidis [3]', 'Ioanna Karetsa', 'Yavuz Zurnaci', 'Elvan Kapansahin']","['[GRE] ', '[GRE] ', '[TUR] ', '[TUR] ']","['21-18', '21-19']",XD - Qualification,20171218
+104,"['Emre Sonmez', 'Ilayda Nur Ozelgul', 'Sinan Er', 'Dilek Ozkan']","['[TUR] ', '[TUR] ', '[TUR] ', '[TUR] ']","['21-7', '21-5']",XD - Qualification,20171218
+105,"['Collins Valentine Filimon [2]', 'Maria Alexandra Dutu', 'Cengizhan Bayrak', 'Tuba Gunes']","['[ROU] ', '[ROU] ', '[TUR] ', '[TUR] ']","['21-11', '21-11']",XD - Qualification,20171218
+106,"['Mesut Sezer', 'Edanur Koybasi', 'Abdulsamet Özdemir', 'Yasemen Bektaş']","['[TUR] ', '[TUR] ', '[TUR] ', '[TUR] ']","['21-17', '21-18']",XD - Qualification,20171218
+107,"['Semih Baha Basakin', 'Ece Sare Basakin', 'Ozcan Muzaffer', 'Gulsah Küçüksari']","['[TUR] ', '[TUR] ', '[TUR] ', '[TUR] ']","['21-5', '21-7']",XD - Qualification,20171218
+108,"['Mehmet Akarsu', 'Betul Baskan', 'Axilleas Tsartsidis [3]', 'Ioanna Karetsa']","['[TUR] ', '[TUR] ', '[GRE] ', '[GRE] ']","['21-16', '21-16']",XD - Qualification,20171218
+109,"['Emre Sonmez', 'Ilayda Nur Ozelgul', 'Collins Valentine Filimon [2]', 'Maria Alexandra Dutu']","['[TUR] ', '[TUR] ', '[ROU] ', '[ROU] ']","['21-9', '21-11']",XD - Qualification,20171218
+110,"['Artem Pochtarov [1]', 'Orkhan Galandarov']","['[UKR] ', '[AZE] ']","['21-6', '21-7']",MS,20171218
+111,"['Enis Sesalan', 'Haktan Doğan']","['[TUR] ', '[TUR] ']","['21-17', '21-12']",MS,20171218
+112,"['Stanislav Pukhov', 'Bjorn Seguin [5]']","['[RUS] ', '[USA] ']","['11-21', '21-14', '21-18']",MS,20171218
+113,"['Kartikey Gulshan Kumar', 'Artyom Savatyugin']","['[IND] ', '[UZB] ']","['21-5', '21-17']",MS,20171218
+114,"['Muhammed Ali Kurt', 'Luís Enrique Peñalver [4]']","['[TUR] ', '[ESP] ']","['21-16', '21-13']",MS,20171218
+115,"['Mads Thøgersen', 'Yusuf Ramazan Bay']","['[DEN] ', '[TUR] ']","['21-16', '21-11']",MS,20171218
+116,"['Ivan Rusev [6]', 'Yazgan Calisir']","['[BUL] ', '[TUR] ']","['21-16', '21-9']",MS,20171218
+117,"['Kari Gunnarsson', 'Ahmetcan Oruc']","['[ISL] ', '[TUR] ']","['21-19', '21-23', '22-20']",MS,20171218
+118,"['Frederik Æbleøe Christesen', 'Ilias Xanthou']","['[DEN] ', '[GRE] ']","['21-17', '12-21', '21-12']",MS,20171218
+119,"['Emre Lale [7]', 'Collins Valentine Filimon']","['[TUR] ', '[ROU] ']","['15-21', '21-12', '21-7']",MS,20171218
+120,"['Peyo Boichinov', 'Pawel Pradzinski']","['[BUL] ', '[POL] ']","['21-12', '21-11']",MS,20171218
+121,"['Valeriy Atrashchenkov', 'Amrullo Bakhshullaev']","['[UKR] ', '[UZB] ']","['13-21', '21-17', '21-14']",MS,20171218
+122,"['Kyrylo Leonov', 'Robert Mann']","['[UKR] ', '[LUX] ']","['21-13', '21-15']",MS,20171218
+123,"['Cristian Savin', 'Soren Toft Hansen [8]']","['[MDA] ', '[DEN] ']","['21-11', '21-19']",MS,20171218
+124,"['Murat Sen', 'Georgii Karpov']","['[TUR] ', '[RUS] ']","['24-22', '21-14']",MS,20171218
+125,"['Lucas Claerbout [2]', 'Filip Budzel']","['[FRA] ', '[CZE] ']","['21-10', '21-10']",MS,20171218
+126,"['Neslihan Yigit [1]', 'Katsiaryna Zablotskaya']","['[TUR] ', '[BLR] ']","['21-5', '21-10']",WS,20171218
+127,"['Cemre Fere', 'Yeganeh Kermani']","['[TUR] ', '[IRI] ']","['21-17', '21-6']",WS,20171218
+128,"['Anastasia Ronzhina', 'Maryna Ilyinskaya [7]']","['[RUS] ', '[UKR] ']","['21-12', '21-16']",WS,20171218
+129,"['Ksenia Evgenova', 'Basak Kilic']","['[RUS] ', '[TUR] ']","['21-17', '24-22']",WS,20171218
+130,"['Mariya Mitsova [3]', 'Betul Soner']","['[BUL] ', '[TUR] ']","['21-9', '21-11']",WS,20171218
+131,"['Busra Yalçinkaya', 'Julia Bitsoukova']","['[TUR] ', '[BLR] ']","['21-15', '21-11']",WS,20171218
+132,"['Alesia Zaitsava [5]', 'Viktoriia Vorobeva']","['[BLR] ', '[RUS] ']","['16-21', '21-8', '21-12']",WS,20171218
+133,"['Sara Penalver Pereira', 'Busra Unlu']","['[ESP] ', '[TUR] ']","['21-17', '21-19']",WS,20171218
+134,"['Nazlıcan Inci', 'Victoria Slobodyanyuk']","['[TUR] ', '[RUS] ']","['21-16', '21-18']",WS,20171218
+135,"['Aliye Demirbag [6]', 'Anna Mikhalkova']","['[TUR] ', '[UKR] ']","['21-13', '21-15']",WS,20171218
+136,"['Anastasiia Semenova', 'Sara Delavari Kashani']","['[RUS] ', '[IRI] ']","['21-11', '21-14']",WS,20171218
+137,"['Ozge Bayrak', 'Natalya Voytsekh [4]']","['[TUR] ', '[UKR] ']","['21-6', '16-21', '21-18']",WS,20171218
+138,"['Kati-Kreet Marran', 'Anastasiya Cherniavskaya']","['[EST] ', '[BLR] ']","['21-17', '21-19']",WS,20171218
+139,"['Vaishnavi Reddy Jakka [8]', 'Mariya Rud']","['[IND] ', '[UKR] ']","['21-10', '21-6']",WS,20171218
+140,"['Anastasiia Pustinskaia', 'Edanur Koybasi']","['[RUS] ', '[TUR] ']","['21-7', '21-16']",WS,20171218
+141,"['Anastasiya Prozorova', 'Valeriya Rudakova']","['[UKR] ', '[UKR] ']","['21-13', '21-18']",WS,20171218
+142,"['Artem Pochtarov [1]', 'Enis Sesalan']","['[UKR] ', '[TUR] ']","['21-18', '21-12']",MS,20171218
+143,"['Stanislav Pukhov', 'Kartikey Gulshan Kumar']","['[RUS] ', '[IND] ']","['21-16', '21-13']",MS,20171218
+144,"['Muhammed Ali Kurt', 'Mads Thøgersen']","['[TUR] ', '[DEN] ']","['24-26', '21-10', '21-13']",MS,20171218
+145,"['Ivan Rusev [6]', 'Kari Gunnarsson']","['[BUL] ', '[ISL] ']","['18-21', '21-15', '21-14']",MS,20171218
+146,"['Emre Lale [7]', 'Frederik Æbleøe Christesen']","['[TUR] ', '[DEN] ']","['23-21', '18-21', '21-16']",MS,20171218
+147,"['Valeriy Atrashchenkov', 'Peyo Boichinov']","['[UKR] ', '[BUL] ']","['21-13', '21-15']",MS,20171218
+148,"['Kyrylo Leonov', 'Cristian Savin']","['[UKR] ', '[MDA] ']","['19-21', '21-13', '24-22']",MS,20171218
+149,"['Lucas Claerbout [2]', 'Murat Sen']","['[FRA] ', '[TUR] ']","['21-19', '21-16']",MS,20171218
+150,"['Neslihan Yigit [1]', 'Cemre Fere']","['[TUR] ', '[TUR] ']","['22-20', '21-7']",WS,20171218
+151,"['Ksenia Evgenova', 'Anastasia Ronzhina']","['[RUS] ', '[RUS] ']","['19-21', '21-10', '21-14']",WS,20171218
+152,"['Mariya Mitsova [3]', 'Busra Yalçinkaya']","['[BUL] ', '[TUR] ']","['21-16', '21-11']",WS,20171218
+153,"['Alesia Zaitsava [5]', 'Sara Penalver Pereira']","['[BLR] ', '[ESP] ']","['11-21', '21-17', '21-12']",WS,20171218
+154,"['Aliye Demirbag [6]', 'Nazlıcan Inci']","['[TUR] ', '[TUR] ']","['21-10', '21-11']",WS,20171218
+155,"['Ozge Bayrak', 'Anastasiia Semenova']","['[TUR] ', '[RUS] ']","['21-16', '21-7']",WS,20171218
+156,"['Vaishnavi Reddy Jakka [8]', 'Kati-Kreet Marran']","['[IND] ', '[EST] ']","['21-5', '21-14']",WS,20171218
+157,"['Anastasiia Pustinskaia', 'Anastasiya Prozorova']","['[RUS] ', '[UKR] ']","['21-11', '21-5']",WS,20171218
+158,"['Murathan Eken', 'Mert Tunco', 'Umit Basaran', 'Ramazan Tekdemİr']","['[TUR] ', '[TUR] ', '[TUR] ', '[TUR] ']","['18-21', '21-15', '21-12']",MD,20171218
+159,"['Collins Valentine Filimon', 'Daniel Popescu', 'Abdurasul Khadjaev', 'Alexander Kim']","['[ROU] ', '[ROU] ', '[UZB] ', '[UZB] ']","['21-17', '12-21', '21-17']",MD,20171218
+160,"['Artem Pochtarov', 'Vladyslav Volnyanskiy', 'Corentin Falh', 'Romain Frank']","['[UKR] ', '[UKR] ', '[FRA] ', '[FRA] ']","['18-21', '21-15', '21-18']",MD,20171218
+161,"['Peter Kaesbauer', 'Johannes Pistorius', 'Serdar Koca', 'Serhat Salim']","['[GER] ', '[GER] ', '[TUR] ', '[TUR] ']","['24-22', '21-12']",MD,20171218
+162,"['Kapil Chaudhary', 'Brijesh Yadav', 'Berkay Cicen', 'Tayfun Tasdemir']","['[IND] ', '[IND] ', '[TUR] ', '[TUR] ']","['21-17', '21-13']",MD,20171218
+163,"['Okan Gultekin', 'Murat Sen', 'Amrullo Bakhshullaev', 'Artyom Savatyugin']","['[TUR] ', '[TUR] ', '[UZB] ', '[UZB] ']","['13-21', '21-10', '26-24']",MD,20171218
+164,"['Mikkel Stoffersen', 'Mathias Thyrri', 'Sergey Ivlev', 'Stanislav Pukhov']","['[DEN] ', '[DEN] ', '[RUS] ', '[RUS] ']","['19-21', '21-18', '21-13']",MD,20171218
+165,"['Mehmet Capar', 'Emre Sonmez', 'Alexander Æbeløe Christensen', 'Frederik Æbleøe Christesen']","['[TUR] ', '[TUR] ', '[DEN] ', '[DEN] ']","['21-19', '15-21', '21-16']",MD,20171218
+166,"['Busra Yalçinkaya', 'Fatma Nur Yavuz', 'Emilie Aalestrup', 'Susan Ekelund']","['[TUR] ', '[TUR] ', '[DEN] ', '[DEN] ']","['21-16', '18-21', '21-10']",WD,20171218
+167,"['Zehra Erdem', 'Ilayda Nur Ozelgul', 'Lisa Kramer', 'Amalie Vestmar']","['[TUR] ', '[TUR] ', '[DEN] ', '[DEN] ']","['21-17', '21-19']",WD,20171218
+168,"['Busra Unlu', 'Ebru Yazgan', 'Samin Abedkhojasteh', 'Yeganeh Kermani']","['[TUR] ', '[TUR] ', '[IRI] ', '[IRI] ']","['21-18', '21-13']",WD,20171218
+169,"['Maria Alexandra Dutu', 'Ioana Grecea', 'Merve Demir', 'Basak Kilic']","['[ROU] ', '[ROU] ', '[TUR] ', '[TUR] ']","['21-18', '15-21', '21-18']",WD,20171218
+170,"['Ksenia Evgenova', 'Anastasiia Semenova', 'Buse Ceylan', 'Aysin Yesil']","['[RUS] ', '[RUS] ', '[TUR] ', '[TUR] ']","['21-14', '21-15']",WD,20171218
+171,"['Pernille Bundgaard', 'Sofie Zacho', 'Büşra Benk', 'Merve Coban']","['[DEN] ', '[DEN] ', '[TUR] ', '[TUR] ']","['21-11', '21-17']",WD,20171218
+172,"['Anastasiya Prozorova', 'Valeriya Rudakova', 'Sevval Buse Alsoy', 'Arzu Delibalta']","['[UKR] ', '[UKR] ', '[TUR] ', '[TUR] ']","['21-16', '21-17']",WD,20171218
+173,"['Mariya Rud', 'Natalya Voytsekh', 'Yulia Vasilyeva', 'Katsiaryna Zablotskaya']","['[UKR] ', '[UKR] ', '[RUS] ', '[BLR] ']","['21-14', '21-9']",WD,20171218
+174,"['Alexander Dunn [1]', 'Adam Hall', 'Murathan Eken', 'Mert Tunco']","['[SCO] ', '[SCO] ', '[TUR] ', '[TUR] ']","['21-13', '21-15']",MD,20171218
+175,"['Haktan Doğan', 'Osman Uyhan', 'Collins Valentine Filimon', 'Daniel Popescu']","['[TUR] ', '[TUR] ', '[ROU] ', '[ROU] ']","['21-10', '21-15']",MD,20171218
+176,"['Artem Pochtarov', 'Vladyslav Volnyanskiy', 'Orkhan Galandarov [4]', 'Kanan Rzayev']","['[UKR] ', '[UKR] ', '[AZE] ', '[AZE] ']","['21-10', '21-10']",MD,20171218
+177,"['Peter Kaesbauer', 'Johannes Pistorius', 'Paw Eriksen', 'Mads Thøgersen']","['[GER] ', '[GER] ', '[DEN] ', '[DEN] ']","['21-13', '21-19']",MD,20171218
+178,"['Kapil Chaudhary', 'Brijesh Yadav', 'Philip Illum Klindt', 'Jeppe Schack']","['[IND] ', '[IND] ', '[DEN] ', '[DEN] ']","['21-19', '16-21', '21-15']",MD,20171218
+179,"['Peyo Boichinov [3]', 'Ivan Panev', 'Okan Gultekin', 'Murat Sen']","['[BUL] ', '[BUL] ', '[TUR] ', '[TUR] ']","['19-21', '21-15', '21-14']",MD,20171218
+180,"['Mikkel Stoffersen', 'Mathias Thyrri', 'Florent Riancho', 'Bjorn Seguin']","['[DEN] ', '[DEN] ', '[FRA] ', '[USA] ']","['21-19', '21-11']",MD,20171218
+181,"['Pawel Pradzinski [2]', 'Jan Rudzinski', 'Mehmet Capar', 'Emre Sonmez']","['[POL] ', '[POL] ', '[TUR] ', '[TUR] ']","['24-22', '21-18']",MD,20171218
+182,"['Busra Yalçinkaya', 'Fatma Nur Yavuz', 'Julie Macpherson [1]', ""Eleanor O'Donnell""]","['[TUR] ', '[TUR] ', '[SCO] ', '[SCO] ']","['21-23', '21-15', '21-16']",WD,20171218
+183,"['Zehra Erdem', 'Ilayda Nur Ozelgul', 'Julia Bitsoukova', 'Maryana Viarbitskaya']","['[TUR] ', '[TUR] ', '[BLR] ', '[BLR] ']","['21-10', '21-5']",WD,20171218
+184,"['Maryna Ilyinskaya [4]', 'Yelyzaveta Zharka', 'Maria Alexandra Dutu', 'Ioana Grecea']","['[UKR] ', '[UKR] ', '[ROU] ', '[ROU] ']","['21-12', '21-11']",WD,20171218
+185,"['Busra Unlu', 'Ebru Yazgan', 'Aleyna Arslan', 'Emine Demirtas']","['[TUR] ', '[TUR] ', '[TUR] ', '[TUR] ']","['21-8', '21-15']",WD,20171218
+186,"['Ksenia Evgenova', 'Anastasiia Semenova', 'Yuliya Kazarinova', 'Elena Prus']","['[RUS] ', '[RUS] ', '[UKR] ', '[UKR] ']","['21-15', '21-18']",WD,20171218
+187,"['Pernille Bundgaard', 'Sofie Zacho', 'Anastasiya Cherniavskaya [3]', 'Alesia Zaitsava']","['[DEN] ', '[DEN] ', '[BLR] ', '[BLR] ']","['21-14', '21-15']",WD,20171218
+188,"['Anastasiya Prozorova', 'Valeriya Rudakova', 'Yasemen Bektaş', 'Cansu Erçetin']","['[UKR] ', '[UKR] ', '[TUR] ', '[TUR] ']","['21-15', '21-16']",WD,20171218
+189,"['Bengisu Ercetin [2]', 'Nazlıcan Inci', 'Mariya Rud', 'Natalya Voytsekh']","['[TUR] ', '[TUR] ', '[UKR] ', '[UKR] ']","['21-15', '22-20']",WD,20171218
+190,"['Dimitar Yanakiev', 'Mariya Mitsova', 'Muhammed Enes Hallaç', 'Filiz Halburcu']","['[BUL] ', '[BUL] ', '[TUR] ', '[TUR] ']","['21-13', '21-11']",XD,20171218
+191,"['Mesut Sezer', 'Edanur Koybasi', 'Mehmet Akarsu', 'Betul Baskan']","['[TUR] ', '[TUR] ', '[TUR] ', '[TUR] ']","['21-17', '21-12']",XD,20171218
+192,"['Sergey Don', 'Anna Mikhalkova', 'Petros Tentas', 'Eirini Goygleri']","['[UKR] ', '[UKR] ', '[GRE] ', '[GRE] ']","['21-18', '21-11']",XD,20171218
+193,"['Soren Toft Hansen', 'Pernille Bundgaard', 'Amrullo Bakhshullaev', 'Yulia Vasilyeva']","['[DEN] ', '[DEN] ', '[UZB] ', '[RUS] ']","['21-12', '16-21', '21-16']",XD,20171218
+194,"['Rodion Kargaev', 'Viktoriia Vorobeva', 'Bahadir Kaan Kola', 'Fatma Nur Yavuz']","['[RUS] ', '[RUS] ', '[TUR] ', '[TUR] ']","['21-12', '18-21', '21-14']",XD,20171218
+195,"['Danylo Bosniuk', 'Yuliya Kazarinova', 'Ahmet Takmak', 'Busra Çeribaş']","['[UKR] ', '[UKR] ', '[TUR] ', '[TUR] ']","['21-8', '21-10']",XD,20171218
+196,"['Valeriy Atrashchenkov', 'Yelyzaveta Zharka', 'Artyom Savatyugin', 'Katsiaryna Zablotskaya']","['[UKR] ', '[UKR] ', '[UZB] ', '[BLR] ']","['21-19', '21-11']",XD,20171218
+197,"['Emre Sonmez', 'Ilayda Nur Ozelgul', 'Sander Merits', 'Kati-Kreet Marran']","['[TUR] ', '[TUR] ', '[EST] ', '[EST] ']","['21-12', '21-10']",XD,20171218
+198,"['Tuan Duc Do [1]', 'Nhu Thao Pham', 'Dimitar Yanakiev', 'Mariya Mitsova']","['[VIE] ', '[VIE] ', '[BUL] ', '[BUL] ']","['21-14', '16-21', '21-11']",XD,20171218
+199,"['Peter Kaesbauer', 'Olga Konon', 'Mesut Sezer', 'Edanur Koybasi']","['[GER] ', '[GER] ', '[TUR] ', '[TUR] ']","['21-3', '21-14']",XD,20171218
+200,"['Mathias Thyrri [3]', 'Emilie Aalestrup', 'Sergey Don', 'Anna Mikhalkova']","['[DEN] ', '[DEN] ', '[UKR] ', '[UKR] ']","['21-12', '21-12']",XD,20171218
+201,"['Dmitriy Panarin', 'Anastasiia Pustinskaia', 'Soren Toft Hansen', 'Pernille Bundgaard']","['[KAZ] ', '[RUS] ', '[DEN] ', '[DEN] ']","['21-14', '19-21', '21-10']",XD,20171218
+202,"['Rodion Kargaev', 'Viktoriia Vorobeva', 'Manuel Manca', 'Jennifer Kobelt']","['[RUS] ', '[RUS] ', '[SUI] ', '[SUI] ']","['19-21', '21-11', '21-16']",XD,20171218
+203,"['Alexander Dunn [4]', ""Eleanor O'Donnell"", 'Danylo Bosniuk', 'Yuliya Kazarinova']","['[SCO] ', '[SCO] ', '[UKR] ', '[UKR] ']","['21-18', '21-18']",XD,20171218
+204,"['Valeriy Atrashchenkov', 'Yelyzaveta Zharka', 'Semih Baha Basakin', 'Ece Sare Basakin']","['[UKR] ', '[UKR] ', '[TUR] ', '[TUR] ']","['21-15', '21-11']",XD,20171218
+205,"['Mikkel Stoffersen [2]', 'Susan Ekelund', 'Emre Sonmez', 'Ilayda Nur Ozelgul']","['[DEN] ', '[DEN] ', '[TUR] ', '[TUR] ']","['18-21', '23-21', '21-9']",XD,20171218
+206,"['Peter Kaesbauer', 'Olga Konon', 'Dmitriy Panarin', 'Anastasiia Pustinskaia']","['[GER] ', '[GER] ', '[KAZ] ', '[RUS] ']","['21-16', '21-16']",XD ,20171218
+207,"['Muhammed Ali Kurt', 'Stanislav Pukhov']","['[TUR] ', '[RUS] ']","['21-18', '21-13']",MS ,20171218
+208,"['Neslihan Yigit [1]', 'Mariya Mitsova [3]']","['[TUR] ', '[BUL] ']","['21-11', '21-14']",WS ,20171218
+209,"['Bengisu Ercetin [2]', 'Nazlıcan Inci', 'Ksenia Evgenova', 'Anastasiia Semenova']","['[TUR] ', '[TUR] ', '[RUS] ', '[RUS] ']","['21-14', '21-14']",WD ,20171218
+210,"['Alexander Dunn [1]', 'Adam Hall', 'Peter Kaesbauer', 'Johannes Pistorius']","['[SCO] ', '[SCO] ', '[GER] ', '[GER] ']","['21-11', '21-19']",MD ,20171218
+211,"['Valeriy Atrashchenkov', 'Yelyzaveta Zharka', 'Rodion Kargaev', 'Viktoriia Vorobeva']","['[UKR] ', '[UKR] ', '[RUS] ', '[RUS] ']","['21-17', '16-21', '24-22']",XD ,20171218
+212,"['Ozge Bayrak', 'Vaishnavi Reddy Jakka [8]']","['[TUR] ', '[IND] ']","['21-6', '21-17']",WS ,20171218
+213,"['Mikkel Stoffersen', 'Mathias Thyrri', 'Peyo Boichinov [3]', 'Ivan Panev']","['[DEN] ', '[DEN] ', '[BUL] ', '[BUL] ']","['21-19', '21-16']",MD ,20171218
+214,"['Maryna Ilyinskaya [4]', 'Yelyzaveta Zharka', 'Busra Yalçinkaya', 'Fatma Nur Yavuz']","['[UKR] ', '[UKR] ', '[TUR] ', '[TUR] ']","['24-22', '21-17']",WD ,20171218
+215,"['Lucas Claerbout [2]', 'Valeriy Atrashchenkov']","['[FRA] ', '[UKR] ']","['21-13', '21-7']",MS ,20171218
+216,"['Peter Kaesbauer', 'Olga Konon', 'Valeriy Atrashchenkov', 'Yelyzaveta Zharka']","['[GER] ', '[GER] ', '[UKR] ', '[UKR] ']","['21-18', '22-20']",XD ,20171218
+217,"['Ozge Bayrak', 'Neslihan Yigit [1]']","['[TUR] ', '[TUR] ']","['21-17', '21-17']",WS ,20171218
+218,"['Lucas Claerbout [2]', 'Muhammed Ali Kurt']","['[FRA] ', '[TUR] ']","['21-16', '21-10']",MS ,20171218
+219,"['Bengisu Ercetin [2]', 'Nazlıcan Inci', 'Maryna Ilyinskaya [4]', 'Yelyzaveta Zharka']","['[TUR] ', '[TUR] ', '[UKR] ', '[UKR] ']","['21-13', '21-18']",WD ,20171218
+220,"['Alexander Dunn [1]', 'Adam Hall', 'Mikkel Stoffersen', 'Mathias Thyrri']","['[SCO] ', '[SCO] ', '[DEN] ', '[DEN] ']","['21-14', '21-9']",MD ,20171218

@@ -1,0 +1,120 @@
+,PLAYERS,COUNTRIES,SCORES,EVENT,match_week
+0,"['Bertrand MARIMOUTOU', 'Kaviraj SOOKURAM']","['[REU] ', '[MRI] ']","['21-18', '21-17']",MS - Qualification,20180607
+1,"['Ved CALLYCHURN', 'Anish TAUCKOORY']","['[MRI] ', '[MRI] ']","['21-7', '21-16']",MS - Qualification,20180607
+2,"['Abhay Chandra RUSSOM', 'Raul TEELUCK']","['[MRI] ', '[MRI] ']","['21-19', '21-16']",MS - Qualification,20180607
+3,"['Thoif Ahmed MOHAMED', 'Sadashayanand DUMREE']","['[MDV] ', '[MRI] ']","['21-14', '21-12']",MS - Qualification,20180607
+4,"['Kaustubh RAWAT', 'Vincent KOO']","['[IND] ', '[MRI] ']","['21-2', '21-15']",MS - Qualification,20180607
+5,"['Jibran AUBEELUCK', 'Mutombo TSHIZANGA']","['[MRI] ', '[COD] ']",[],MS - Qualification,20180607
+6,"['Kai Wun TEE', 'Vimal CHOOLUN']","['[MAS] ', '[MRI] ']","['21-7', '21-8']",MS - Qualification,20180607
+7,"['Yi Xin CHEW', 'Bhavish DUTTOO']","['[MAS] ', '[MRI] ']","['21-2', '21-3']",MS - Qualification,20180607
+8,"['Kesaven VEERAPEN', 'Abdul Zaheer BEEBEEJAUN [7]']","['[MRI] ', '[MRI] ']","['21-13', '21-17']",MS - Qualification,20180607
+9,"['Janess RUJKOOMAR', 'Abdul Zeeshan BEEBEEJAUN [4]']","['[MRI] ', '[MRI] ']","['21-7', '21-8']",MS - Qualification,20180607
+10,"['Giresh Kumar RAMPERSAND [6]', 'M SUBDURALLY']","['[MRI] ', '[MRI] ']","['21-13', '21-10']",MS - Qualification,20180607
+11,"['Khemtish NUNDAH', 'Faadil SAYED [5]']","['[MRI] ', '[MRI] ']","['22-20', '17-21', '21-15']",MS - Qualification,20180607
+12,"['Wee Peng SIM [3]', 'Gary-Clark LIM HING TENG']","['[MAS] ', '[MRI] ']","['21-10', '21-6']",MS - Qualification,20180607
+13,"['Girish Roy HEERAMUN', 'Ravin ANTHI-IYA [8]']","['[MRI] ', '[MRI] ']","['21-12', '21-16']",MS - Qualification,20180607
+14,"['Tamesh DOOKHEE [2]', 'Yajnesh Anand CHANGEA']","['[MRI] ', '[MRI] ']","['21-8', '21-18']",MS - Qualification,20180607
+15,"['Nevin LUFOR [1]', 'Dharish GYANDIN']","['[MRI] ', '[MRI] ']","['21-10', '21-11']",MS - Qualification,20180607
+16,"['Sandesh GONDARY', 'Bertrand MARIMOUTOU']","['[MRI] ', '[REU] ']","['9-21', '21-18', '21-14']",MS - Qualification,20180607
+17,"['Jason FRANCOIS', 'Ved CALLYCHURN']","['[MRI] ', '[MRI] ']","['21-7', '20-22', '21-16']",MS - Qualification,20180607
+18,"['Darel SOPHIE', 'Abhay Chandra RUSSOM']","['[MRI] ', '[MRI] ']","['20-22', '21-18', '21-16']",MS - Qualification,20180607
+19,"['Thoif Ahmed MOHAMED', 'Jamsheed BROCHIER']","['[MDV] ', '[MRI] ']","['21-9', '18-21', '21-9']",MS - Qualification,20180607
+20,"['Kaustubh RAWAT', 'Ashneel DABEE']","['[IND] ', '[MRI] ']","['21-2', '21-5']",MS - Qualification,20180607
+21,"['Reetesh Chandrakanth DOOLEEA', 'Jibran AUBEELUCK']","['[MRI] ', '[MRI] ']","['21-8', '21-6']",MS - Qualification,20180607
+22,"['Kai Wun TEE', 'Jean-Luc JAFARALLY']","['[MAS] ', '[MRI] ']","['21-10', '21-11']",MS - Qualification,20180607
+23,"['Yi Xin CHEW', 'Harshil GOBIN']","['[MAS] ', '[MRI] ']","['21-6', '21-6']",MS - Qualification,20180607
+24,"['Georges Julien PAUL [1]', 'Mohamed Ajfan RASHEED']","['[MRI] ', '[MDV] ']","['21-17', '21-18']",MS,20180607
+25,"['Collins Valentine FILIMON [5]', 'Tejraj PULTOO']","['[ROU] ', '[MRI] ']","['21-11', '21-11']",MS,20180607
+26,"['AUNG MYO Htoo', 'Mevan DEWOO']","['[MYA] ', '[MRI] ']","['21-9', '21-13']",MS,20180607
+27,"['Ahmed NIBAL', 'Soobhan AJMEER']","['[MDV] ', '[MRI] ']","['21-10', '21-13']",MS,20180607
+28,"['SAI WUU PHET @ Sai Lin Tun Aung', 'Thierry BELLEPEAU']","['[MYA] ', '[MRI] ']","['21-12', '21-10']",MS,20180607
+29,"['Niels VEENSTRA', 'Melvin APPIAH [8]']","['[NED] ', '[MRI] ']","['22-20', '21-18']",MS,20180607
+30,"['Khabir TEELUCK', 'Sarim MOHAMED']","['[MRI] ', '[MDV] ']","['21-11', '21-15']",MS,20180607
+31,"['Mathias PEDERSEN', 'Bahaedeen Ahmad ALSHANNIK [3]']","['[DEN] ', '[JOR] ']",[],MS,20180607
+32,"['Sandesh GONDARY', 'Nevin LUFOR [1]']","['[MRI] ', '[MRI] ']","['21-15', '21-17']",MS - Qualification,20180607
+33,"['Jason FRANCOIS', 'Kesaven VEERAPEN']","['[MRI] ', '[MRI] ']","['24-22', '21-9']",MS - Qualification,20180607
+34,"['Darel SOPHIE', 'Janess RUJKOOMAR']","['[MRI] ', '[MRI] ']","['21-15', '15-21', '21-14']",MS - Qualification,20180607
+35,"['Thoif Ahmed MOHAMED', 'Giresh Kumar RAMPERSAND [6]']","['[MDV] ', '[MRI] ']","['22-20', '11-21', '21-13']",MS - Qualification,20180607
+36,"['Kaustubh RAWAT', 'Khemtish NUNDAH']","['[IND] ', '[MRI] ']","['21-13', '21-7']",MS - Qualification,20180607
+37,"['Wee Peng SIM [3]', 'Reetesh Chandrakanth DOOLEEA']","['[MAS] ', '[MRI] ']","['21-13', '21-14']",MS - Qualification,20180607
+38,"['Kai Wun TEE', 'Girish Roy HEERAMUN']","['[MAS] ', '[MRI] ']","['21-8', '21-13']",MS - Qualification,20180607
+39,"['Yi Xin CHEW', 'Tamesh DOOKHEE [2]']","['[MAS] ', '[MRI] ']","['21-9', '21-8']",MS - Qualification,20180607
+40,"['Jhotiswaran KARUPATHEVAN', 'Mathias PEDERSEN', 'Soobhan AJMEER', 'M SUBDURALLY']","['[MAS] ', '[DEN] ', '[MRI] ', '[MRI] ']","['21-11', '21-8']",MD,20180607
+41,"['Yong Chai NG', 'Kai Wun TEE', 'Ashneel DABEE', 'Dharish GYANDIN']","['[MAS] ', '[MAS] ', '[MRI] ', '[MRI] ']","['21-5', '21-10']",MD,20180607
+42,"['Thoif Ahmed MOHAMED', 'Mohamed Ajfan RASHEED', 'Yudish Yogeshwar HEERAMUN', 'Gary-Clark LIM HING TENG']","['[MDV] ', '[MDV] ', '[MRI] ', '[MRI] ']","['21-17', '21-9']",MD,20180607
+43,"['Jibran AUBEELUCK', 'Ved CALLYCHURN', 'Dimand Ja OKITO', 'Mutombo TSHIZANGA']","['[MRI] ', '[MRI] ', '[COD] ', '[COD] ']",[],MD,20180607
+44,"['Swarnaraj BORA', 'Kaustubh RAWAT', 'Jason FRANCOIS', 'Khemtish NUNDAH']","['[IND] ', '[IND] ', '[MRI] ', '[MRI] ']","['21-11', '21-5']",MD,20180607
+45,"['Sahir Abdool EDOO', 'Saheer RAMRAKHA', 'Reetesh Chandrakanth DOOLEEA', 'Kaviraj SOOKURAM']","['[MRI] ', '[MRI] ', '[MRI] ', '[MRI] ']","['21-14', '25-23']",MD,20180607
+46,"['Mevan DEWOO', 'Darel SOPHIE', 'Harshil GOBIN', 'Sandesh GONDARY']","['[MRI] ', '[MRI] ', '[MRI] ', '[MRI] ']","['21-15', '21-12']",MD,20180607
+47,"['Sarim MOHAMED', 'Ahmed NIBAL', 'Ravin ANTHI-IYA', 'Faadil SAYED']","['[MDV] ', '[MDV] ', '[MRI] ', '[MRI] ']","['21-11', '21-16']",MD,20180607
+48,"['Tamesh DOOKHEE', 'Giresh Kumar RAMPERSAND', 'Jamsheed BROCHIER', 'Sadashayanand DUMREE']","['[MRI] ', '[MRI] ', '[MRI] ', '[MRI] ']","['21-12', '12-21', '23-21']",MD,20180607
+49,"['Darel SOPHIE', 'Huzair Asraaf Ali BHUTTOO']","['[MRI] ', '[MRI] ']","['21-16', '21-18']",MS,20180607
+50,"['Jason FRANCOIS', 'Soogun Z']","['[MRI] ', '[MRI] ']","['21-19', '12-21', '21-8']",MS,20180607
+51,"['Wee Peng SIM', 'Christopher PAUL [6]']","['[MAS] ', '[MRI] ']","['21-16', '21-9']",MS,20180607
+52,"['Jhotiswaran KARUPATHEVAN', 'Thoif Ahmed MOHAMED']","['[MAS] ', '[MDV] ']","['21-6', '21-14']",MS,20180607
+53,"['Kai Wun TEE', 'Swarnaraj BORA [7]']","['[MAS] ', '[IND] ']","['15-21', '24-22', '21-15']",MS,20180607
+54,"['Sandesh GONDARY', 'Aatish LUBAH [4]']","['[MRI] ', '[MRI] ']",[],MS,20180607
+55,"['Yi Xin CHEW', 'Jean Bernard BONGOUT']","['[MAS] ', '[MRI] ']","['21-17', '21-16']",MS,20180607
+56,"['Giap Chin GOH [2]', 'Kaustubh RAWAT']","['[MAS] ', '[IND] ']","['21-9', '21-12']",MS,20180607
+57,"['Ritika THAKER', 'Sendila MOURAT']","['[IND] ', '[MRI] ']","['21-9', '21-5']",WS,20180607
+58,"['Moosa Aminath SHAHURUNAZ', 'Poshita LUCHOOMUN']","['[MDV] ', '[MRI] ']","['21-4', '21-5']",WS,20180607
+59,"['Letshanaa A. KARUPATHEVAN', 'Dorothy ROUSSEAU']","['[MAS] ', '[MRI] ']","['21-5', '21-3']",WS,20180607
+60,"['Georges Julien PAUL [1]', 'Darel SOPHIE']","['[MRI] ', '[MRI] ']","['21-11', '21-10']",MS,20180607
+61,"['Collins Valentine FILIMON [5]', 'Jason FRANCOIS']","['[ROU] ', '[MRI] ']","['21-5', '21-3']",MS,20180607
+62,"['AUNG MYO Htoo', 'Mathias PEDERSEN']","['[MYA] ', '[DEN] ']","['21-14', '21-11']",MS,20180607
+63,"['Jhotiswaran KARUPATHEVAN', 'Wee Peng SIM']","['[MAS] ', '[MAS] ']","['21-16', '21-17']",MS,20180607
+64,"['Kai Wun TEE', 'Ahmed NIBAL']","['[MAS] ', '[MDV] ']","['21-10', '21-9']",MS,20180607
+65,"['SAI WUU PHET @ Sai Lin Tun Aung', 'Sandesh GONDARY']","['[MYA] ', '[MRI] ']","['21-2', '21-11']",MS,20180607
+66,"['Yi Xin CHEW', 'Niels VEENSTRA']","['[MAS] ', '[NED] ']","['21-11', '21-13']",MS,20180607
+67,"['Giap Chin GOH [2]', 'Khabir TEELUCK']","['[MAS] ', '[MRI] ']","['21-1', '21-4']",MS,20180607
+68,"['Katerina TOMALOVA [1]', 'Jemimah LEUG FOR SANG']","['[CZE] ', '[MRI] ']","['21-4', '21-2']",WS,20180607
+69,"['Ritika THAKER', 'Vilina APPIAH']","['[IND] ', '[MRI] ']","['21-7', '21-11']",WS,20180607
+70,"['Aurelie Marie Elisa ALLET [3]', 'Katambua ODIA']","['[MRI] ', '[COD] ']",[],WS,20180607
+71,"['Moosa Aminath SHAHURUNAZ', 'Jeisha CHINIAH']","['[MDV] ', '[MRI] ']","['21-10', '21-5']",WS,20180607
+72,"['Letshanaa A. KARUPATHEVAN', 'Mandira LUBAH']","['[MAS] ', '[MRI] ']","['21-3', '21-6']",WS,20180607
+73,"['Ganesha MUNGRAH', 'Fathimath Nabaaha ABDUL RAZZAQ [4]']","['[MRI] ', '[MDV] ']","['22-20', '17-21', '21-19']",WS,20180607
+74,"['Simran SINGHI', 'Aminath Nabeeha ABDUL RAZZAQ']","['[IND] ', '[MDV] ']","['21-10', '21-10']",WS,20180607
+75,"['THET HTAR Thuzar [2]', 'Kritisha MUNGRAH']","['[MYA] ', '[MRI] ']","['21-2', '21-4']",WS,20180607
+76,"['Jhotiswaran KARUPATHEVAN', 'Mathias PEDERSEN', 'Melvin APPIAH [1]', 'Tejraj PULTOO']","['[MAS] ', '[DEN] ', '[MRI] ', '[MRI] ']","['21-16', '17-21', '21-18']",MD,20180607
+77,"['Yong Chai NG', 'Kai Wun TEE', 'Thierry BELLEPEAU', 'Vimal CHOOLUN']","['[MAS] ', '[MAS] ', '[MRI] ', '[MRI] ']","['21-13', '21-12']",MD,20180607
+78,"['Thoif Ahmed MOHAMED', 'Mohamed Ajfan RASHEED', 'Nevin LUFOR [3]', 'Kesaven VEERAPEN']","['[MDV] ', '[MDV] ', '[MRI] ', '[MRI] ']","['21-12', '21-8']",MD,20180607
+79,"['Jibran AUBEELUCK', 'Ved CALLYCHURN', 'Aatish LUBAH', 'Christopher PAUL']","['[MRI] ', '[MRI] ', '[MRI] ', '[MRI] ']",[],MD,20180607
+80,"['Swarnaraj BORA', 'Kaustubh RAWAT', 'Sahir Abdool EDOO', 'Saheer RAMRAKHA']","['[IND] ', '[IND] ', '[MRI] ', '[MRI] ']","['21-16', '21-15']",MD,20180607
+81,"['Jean Bernard BONGOUT [3]', 'Khabir TEELUCK', 'Mevan DEWOO', 'Darel SOPHIE']","['[MRI] ', '[MRI] ', '[MRI] ', '[MRI] ']","['21-14', '18-21', '21-11']",MD,20180607
+82,"['Sarim MOHAMED', 'Ahmed NIBAL', 'Huzair Asraaf Ali BHUTTOO', 'Soogun Z']","['[MDV] ', '[MDV] ', '[MRI] ', '[MRI] ']","['21-17', '21-12']",MD,20180607
+83,"['Daniel GRASSMUCK [2]', 'Roman ZIRNWALD', 'Tamesh DOOKHEE', 'Giresh Kumar RAMPERSAND']","['[AUT] ', '[AUT] ', '[MRI] ', '[MRI] ']","['21-17', '21-8']",MD,20180607
+84,"['Abhay Chandra RUSSOM', 'Sendila MOURAT', 'Mutombo TSHIZANGA', 'Mbuyi Bernice BOKOTSHA']","['[MRI] ', '[MRI] ', '[COD] ', '[COD] ']",[],XD,20180607
+85,"['Thoif Ahmed MOHAMED', 'Aminath Nabeeha ABDUL RAZZAQ', 'Sandesh GONDARY', 'Mandira LUBAH']","['[MDV] ', '[MDV] ', '[MRI] ', '[MRI] ']","['21-13', '21-10']",XD,20180607
+86,"['Khabir TEELUCK', 'Ganesha MUNGRAH', 'Ravin ANTHI-IYA', 'Dorothy ROUSSEAU']","['[MRI] ', '[MRI] ', '[MRI] ', '[MRI] ']","['21-9', '21-14']",XD,20180607
+87,"['Sarim MOHAMED', 'Moosa Aminath SHAHURUNAZ', 'Melvin APPIAH', 'Vilina APPIAH']","['[MDV] ', '[MDV] ', '[MRI] ', '[MRI] ']","['27-25', '21-17']",XD,20180607
+88,"['Letshanaa A. KARUPATHEVAN', 'Ganesha MUNGRAH']","['[MAS] ', '[MRI] ']","['21-9', '21-5']",WS ,20180607
+89,"['AUNG MYO Htoo', 'Jhotiswaran KARUPATHEVAN']","['[MYA] ', '[MAS] ']","['22-20', '21-11']",MS ,20180607
+90,"['Khabir TEELUCK', 'Ganesha MUNGRAH', 'Ashneel DABEE', 'Cindy SOOBRAMANIEN']","['[MRI] ', '[MRI] ', '[MRI] ', '[MRI] ']","['21-10', '21-10']",XD ,20180607
+91,"['Thoif Ahmed MOHAMED', 'Mohamed Ajfan RASHEED', 'Jibran AUBEELUCK', 'Ved CALLYCHURN']","['[MDV] ', '[MDV] ', '[MRI] ', '[MRI] ']","['21-11', '21-9']",MD ,20180607
+92,"['Aurelie Marie Elisa ALLET [3]', 'Moosa Aminath SHAHURUNAZ']","['[MRI] ', '[MDV] ']","['21-12', '21-13']",WS ,20180607
+93,"['THET HTAR Thuzar [2]', 'Simran SINGHI']","['[MYA] ', '[IND] ']","['14-21', '21-11', '21-15']",WS ,20180607
+94,"['Sarim MOHAMED', 'Moosa Aminath SHAHURUNAZ', 'Jean Bernard BONGOUT [2]', 'Jemimah LEUG FOR SANG']","['[MDV] ', '[MDV] ', '[MRI] ', '[MRI] ']","['21-17', '23-21']",XD ,20180607
+95,"['Georges Julien PAUL [1]', 'Aurelie Marie Elisa ALLET', 'Abhay Chandra RUSSOM', 'Sendila MOURAT']","['[MRI] ', '[MRI] ', '[MRI] ', '[MRI] ']","['21-8', '21-14']",XD ,20180607
+96,"['Swarnaraj BORA', 'Kaustubh RAWAT', 'Jean Bernard BONGOUT [3]', 'Khabir TEELUCK']","['[IND] ', '[IND] ', '[MRI] ', '[MRI] ']","['21-14', '21-7']",MD ,20180607
+97,"['Giap Chin GOH [2]', 'Kai Wun TEE']","['[MAS] ', '[MAS] ']","['21-18', '21-11']",MS ,20180607
+98,"['Katerina TOMALOVA [1]', 'Aurelie Marie Elisa ALLET [3]']","['[CZE] ', '[MRI] ']","['21-8', '21-7']",WS ,20180607
+99,"['Yong Chai NG', 'Kai Wun TEE', 'Thoif Ahmed MOHAMED', 'Mohamed Ajfan RASHEED']","['[MAS] ', '[MAS] ', '[MDV] ', '[MDV] ']","['21-11', '21-16']",MD ,20180607
+100,"['Aminath Nabeeha ABDUL RAZZAQ [1]', 'Fathimath Nabaaha ABDUL RAZZAQ', 'Jemimah LEUG FOR SANG', 'Ganesha MUNGRAH']","['[MDV] ', '[MDV] ', '[MRI] ', '[MRI] ']","['21-18', '14-21', '21-8']",WD ,20180607
+101,"['Sarim MOHAMED', 'Moosa Aminath SHAHURUNAZ', 'Khabir TEELUCK', 'Ganesha MUNGRAH']","['[MDV] ', '[MDV] ', '[MRI] ', '[MRI] ']","['21-14', '21-16']",XD ,20180607
+102,"['Georges Julien PAUL [1]', 'Collins Valentine FILIMON [5]']","['[MRI] ', '[ROU] ']","['21-13', '21-12']",MS ,20180607
+103,"['Thoif Ahmed MOHAMED', 'Aminath Nabeeha ABDUL RAZZAQ', 'Tejraj PULTOO', 'Kritisha MUNGRAH']","['[MDV] ', '[MDV] ', '[MRI] ', '[MRI] ']","['15-21', '21-18', '21-15']",XD ,20180607
+104,"['Katerina TOMALOVA [1]', 'Ritika THAKER']","['[CZE] ', '[IND] ']","['15-21', '21-18', '21-16']",WS ,20180607
+105,"['Yong Chai NG', 'Kai Wun TEE', 'Jhotiswaran KARUPATHEVAN', 'Mathias PEDERSEN']","['[MAS] ', '[MAS] ', '[MAS] ', '[DEN] ']","['21-15', '21-13']",MD ,20180607
+106,"['Daniel GRASSMUCK [2]', 'Roman ZIRNWALD', 'Sarim MOHAMED', 'Ahmed NIBAL']","['[AUT] ', '[AUT] ', '[MDV] ', '[MDV] ']","['21-8', '21-11']",MD ,20180607
+107,"['AUNG MYO Htoo', 'Georges Julien PAUL [1]']","['[MYA] ', '[MRI] ']","['21-16', '18-21', '21-15']",MS ,20180607
+108,"['Letshanaa A. KARUPATHEVAN', 'THET HTAR Thuzar [2]']","['[MAS] ', '[MYA] ']","['21-13', '21-23', '21-12']",WS ,20180607
+109,"['Daniel GRASSMUCK [2]', 'Roman ZIRNWALD', 'Swarnaraj BORA', 'Kaustubh RAWAT']","['[AUT] ', '[AUT] ', '[IND] ', '[IND] ']","['14-21', '21-16', '21-14']",MD ,20180607
+110,"['Simran SINGHI [2]', 'Ritika THAKER', 'Vilina APPIAH', 'Mandira LUBAH']","['[IND] ', '[IND] ', '[MRI] ', '[MRI] ']","['21-11', '21-4']",WD ,20180607
+111,"['Georges Julien PAUL [1]', 'Aurelie Marie Elisa ALLET', 'Thoif Ahmed MOHAMED', 'Aminath Nabeeha ABDUL RAZZAQ']","['[MRI] ', '[MRI] ', '[MDV] ', '[MDV] ']","['21-14', '21-18']",XD ,20180607
+112,"['Kai Wun TEE', 'SAI WUU PHET @ Sai Lin Tun Aung']","['[MAS] ', '[MYA] ']","['21-13', '21-15']",MS ,20180607
+113,"['Giap Chin GOH [2]', 'Yi Xin CHEW']","['[MAS] ', '[MAS] ']","['21-14', '21-13']",MS ,20180607
+114,"['Simran SINGHI [2]', 'Ritika THAKER', 'Aminath Nabeeha ABDUL RAZZAQ [1]', 'Fathimath Nabaaha ABDUL RAZZAQ']","['[IND] ', '[IND] ', '[MDV] ', '[MDV] ']","['21-17', '21-12']",WD ,20180607
+115,"['Giap Chin GOH [2]', 'AUNG MYO Htoo']","['[MAS] ', '[MYA] ']","['21-15', '21-12']",MS ,20180607
+116,"['Letshanaa A. KARUPATHEVAN', 'Katerina TOMALOVA [1]']","['[MAS] ', '[CZE] ']","['21-15', '21-10']",WS ,20180607
+117,"['Daniel GRASSMUCK [2]', 'Roman ZIRNWALD', 'Yong Chai NG', 'Kai Wun TEE']","['[AUT] ', '[AUT] ', '[MAS] ', '[MAS] ']","['21-16', '12-21', '21-14']",MD ,20180607
+118,"['Georges Julien PAUL [1]', 'Aurelie Marie Elisa ALLET', 'Sarim MOHAMED', 'Moosa Aminath SHAHURUNAZ']","['[MRI] ', '[MRI] ', '[MDV] ', '[MDV] ']","['21-14', '21-6']",XD ,20180607

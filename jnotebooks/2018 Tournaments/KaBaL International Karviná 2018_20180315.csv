@@ -1,0 +1,183 @@
+,PLAYERS,COUNTRIES,SCORES,EVENT,match_week
+0,"['Jaromir Janacek', 'Tomáš Švejda', 'Michal Kazmierczak', 'Marcin Wnuk']","['[CZE] ', '[CZE] ', '[POL] ', '[POL] ']","['21-8', '21-13']",MD - Qualification ,20180315
+1,"['Michal Hubáček', 'Valentýna Sonnková', 'Jan Colin Völker', 'Judith Petrikowski']","['[CZE] ', '[CZE] ', '[GER] ', '[GER] ']",[],XD - Qualification ,20180315
+2,"['Dominik Zietek', 'Wiktoria Adamek', 'Matthew Abela', 'Jana Panochova']","['[POL] ', '[POL] ', '[MLT] ', '[CZE] ']","['21-12', '21-14']",XD - Qualification ,20180315
+3,"[""Aman Farogh Sanjay '"", 'Mateusz Danielak']","['[IND] ', '[POL] ']","['13-21', '21-9', '21-12']",MS - Qualification ,20180315
+4,"['Matthew Abela', 'Jiří Bureš']","['[MLT] ', '[CZE] ']","['21-17', '11-21', '21-12']",MS - Qualification ,20180315
+5,"['Amalie Vestmar', 'Szubert Karolina']","['[DEN] ', '[POL] ']","['21-9', '21-15']",WS - Qualification ,20180315
+6,"['Mathilde Møller', 'Veronika Kubečková']","['[DEN] ', '[CZE] ']",['16-15'],WS - Qualification ,20180315
+7,"['Patrick Abildgaard', 'Jan Viktora']","['[DEN] ', '[CZE] ']","['21-15', '21-13']",MS - Qualification ,20180315
+8,"['Marcin Nowak', 'Matej Polacek']","['[POL] ', '[SVK] ']","['21-16', '21-16']",MS - Qualification ,20180315
+9,"['Murad Bayramov', 'Michael Spencer-Smith [1]']","['[AZE] ', '[ENG] ']",[],MS - Qualification ,20180315
+10,"['Przemyslaw Szydlowski [1]', 'Szubert Karolina', 'Michal Hubáček', 'Valentýna Sonnková']","['[POL] ', '[POL] ', '[CZE] ', '[CZE] ']","['25-23', '21-11']",XD - Qualification ,20180315
+11,"['Emil Hybel [2]', 'Line Fleischer', 'Dominik Zietek', 'Wiktoria Adamek']","['[DEN] ', '[DEN] ', '[POL] ', '[POL] ']","['21-11', '21-19']",XD - Qualification ,20180315
+12,"['Juno Thomas', 'Petr Tomala']","['[LUX] ', '[CZE] ']","['21-17', '21-16']",MS - Qualification ,20180315
+13,"['Jiří Bureš', 'Ondřej Helar', 'Daniel Grassmuck [1]', 'Roman Zirnwald']","['[CZE] ', '[CZE] ', '[AUT] ', '[AUT] ']",[],MD - Qualification ,20180315
+14,"['Miha Ivancic', 'Collins Valentine Filimon [3]']","['[SLO] ', '[ROU] ']",[],MS - Qualification ,20180315
+15,"['Daniel Nikolov', 'Jan Benbenek']","['[BUL] ', '[CZE] ']","['21-13', '21-14']",MS - Qualification ,20180315
+16,"['Patrick Abildgaard', 'Adam Sowa']","['[DEN] ', '[POL] ']","['21-13', '21-10']",MS - Qualification ,20180315
+17,"['Marcin Nowak', 'Ondřej Helar']","['[POL] ', '[CZE] ']","['24-22', '21-10']",MS - Qualification ,20180315
+18,"['Sofie Zacho [1]', 'Karolina Wladzinska']","['[DEN] ', '[POL] ']",[],WS - Qualification ,20180315
+19,"['Yuri Nakamura', 'Amalie Vestmar']","['[JPN] ', '[DEN] ']","['21-4', '21-11']",WS - Qualification ,20180315
+20,"['Mathilde Møller', 'Iza Salehar [2]']","['[DEN] ', '[SLO] ']",[],WS - Qualification ,20180315
+21,"['Luka Milic', 'Ilias Xanthou [2]']","['[SRB] ', '[GRE] ']",[],MS - Qualification ,20180315
+22,"['Ade Resky Dwicahyo', 'Juno Thomas']","['[AZE] ', '[LUX] ']","['21-13', '21-8']",MS - Qualification ,20180315
+23,"['Mathias Thyrri', 'Elisa Melgaard', 'Vít Kulíšek', 'Michaela Fuchsova']","['[DEN] ', '[DEN] ', '[CZE] ', '[CZE] ']","['21-10', '21-14']",XD - Qualification ,20180315
+24,"['Dmytro Zavadsky [7]', ""Aman Farogh Sanjay '""]","['[UKR] ', '[IND] ']","['21-17', '26-24']",MS - Qualification ,20180315
+25,"['Konrad Ploch', 'Dominik Zietek', 'Vít Kulíšek', 'Vojtech Selong']","['[POL] ', '[POL] ', '[CZE] ', '[CZE] ']","['21-17', '17-21', '21-17']",MD - Qualification ,20180315
+26,"['Oleksandar Shmundyak', 'Robert Cybulski']","['[UKR] ', '[POL] ']","['21-17', '21-14']",MS - Qualification ,20180315
+27,"['Peder Søvndal', 'Arturo Hernandez [4]']","['[DEN] ', '[MEX] ']","['13-21', '21-12', '21-18']",MS - Qualification ,20180315
+28,"['Filip Budzel', 'Gasper Krivec']","['[CZE] ', '[SLO] ']","['21-18', '21-12']",MS - Qualification ,20180315
+29,"['Mathilde Haapanen', 'Magdalena Lajdova']","['[DEN] ', '[CZE] ']","['21-17', '15-21', '22-20']",WS - Qualification ,20180315
+30,"['Muhammad Lukman Hakim Mohd Ibrahim', 'Filip Budzel']","['[MAS] ', '[CZE] ']","['21-17', '21-16']",MS - Qualification ,20180315
+31,"['Vojtech Selong', 'Denisa Šikalová', 'Ciar Pringle', 'Ciara Torrance']","['[CZE] ', '[CZE] ', '[SCO] ', '[SCO] ']","['21-17', '21-14']",XD - Qualification ,20180315
+32,"['Adrian George [5]', 'Matthew Abela']","['[IND] ', '[MLT] ']","['21-12', '21-16']",MS - Qualification ,20180315
+33,"['Mathilde Haapanen', 'Carina Meinke']","['[DEN] ', '[AUT] ']","['21-13', '21-10']",WS - Qualification ,20180315
+34,"['Oleksandar Shmundyak', 'Azmy Qowimuramadhoni']","['[UKR] ', '[AZE] ']","['21-12', '21-16']",MS - Qualification ,20180315
+35,"['Muhammad Lukman Hakim Mohd Ibrahim', 'Krzysztof Jakowczuk [6]']","['[MAS] ', '[POL] ']","['22-20', '21-15']",MS - Qualification ,20180315
+36,"['Patrick Abildgaard', 'Miha Ivancic']","['[DEN] ', '[SLO] ']","['21-16', '21-17']",MS - Qualification ,20180315
+37,"['Ade Resky Dwicahyo', 'Murad Bayramov']","['[AZE] ', '[AZE] ']","['21-6', '21-9']",MS - Qualification ,20180315
+38,"['Mathias Thyrri', 'Elisa Melgaard', 'Peder Søvndal', 'Veronika Kubečková']","['[DEN] ', '[DEN] ', '[DEN] ', '[CZE] ']","['21-12', '21-11']",XD - Qualification ,20180315
+39,"['Luke Pearce', 'Marton Szerecz']","['[ENG] ', '[HUN] ']","['21-18', '11-21', '21-18']",MS - Qualification ,20180315
+40,"['Vojtech Selong', 'Denisa Šikalová', 'Patrick Abildgaard', 'Mathilde Haapanen']","['[CZE] ', '[CZE] ', '[DEN] ', '[DEN] ']","['21-17', '21-12']",XD - Qualification ,20180315
+41,"['Azmy Qowimuramadhoni', 'Michael Giesinger [8]']","['[AZE] ', '[AUT] ']","['21-17', '21-16']",MS - Qualification ,20180315
+42,"['Oleksandar Shmundyak', 'Bedrich Valenta']","['[UKR] ', '[CZE] ']","['18-21', '21-19', '21-18']",MS - Qualification ,20180315
+43,"['Dmytro Zavadsky [7]', 'Joel Douse']","['[UKR] ', '[ENG] ']","['21-10', '22-20']",MS - Qualification ,20180315
+44,"['Luke Pearce', 'Michal Kazmierczak']","['[ENG] ', '[POL] ']","['21-10', '21-19']",MS - Qualification ,20180315
+45,"['Daniel Nikolov', 'Vegard Rikheim']","['[BUL] ', '[NOR] ']","['12-21', '21-18', '21-12']",MS - Qualification ,20180315
+46,"[""Aman Farogh Sanjay '"", 'Tomáš Švejda']","['[IND] ', '[CZE] ']","['21-13', '21-16']",MS - Qualification ,20180315
+47,"['Daniel Nikolov', 'Peder Søvndal']","['[BUL] ', '[DEN] ']","['21-11', '21-10']",MS - Qualification ,20180315
+48,"['Adrian George [5]', 'Luke Pearce']","['[IND] ', '[ENG] ']","['21-17', '21-19']",MS - Qualification ,20180315
+49,"['Luka Milic', 'Marcin Nowak']","['[SRB] ', '[POL] ']","['21-7', '22-20']",MS - Qualification ,20180315
+50,"['Ade Resky Dwicahyo', 'Azmy Qowimuramadhoni', 'Miha Ivancic [2]', 'Gasper Krivec']","['[AZE] ', '[AZE] ', '[SLO] ', '[SLO] ']","['21-15', '21-19']",MD - Qualification ,20180315
+51,"['Krzysztof Jakowczuk [6]', 'Alan Ostrowski']","['[POL] ', '[POL] ']","['21-10', '21-8']",MS - Qualification ,20180315
+52,"['Jaromir Janacek', 'Sabina Milova', 'Przemyslaw Szydlowski', 'Szubert Karolina']","['[CZE] ', '[CZE] ', '[POL] ', '[POL] ']","['23-21', '21-11']",XD ,20180315
+53,"['Filip Budzel', 'Tereza Švábíková', 'Konrad Ploch', 'Aleksandra Goszczynska']","['[CZE] ', '[CZE] ', '[POL] ', '[POL] ']","['14-21', '21-16', '21-15']",XD ,20180315
+54,"['Daniel Nikolov', 'Ivan Rusev']","['[BUL] ', '[BUL] ']","['21-10', '21-17']",MS ,20180315
+55,"['Mathias Thyrri', 'Elisa Melgaard', 'Pawel Pietryja [3]', 'Aneta Wojtkowska']","['[DEN] ', '[DEN] ', '[POL] ', '[POL] ']","['21-9', '21-11']",XD ,20180315
+56,"['Filip Budzel', 'Tereza Švábíková', 'Mikkel Stoffersen [2]', 'Susan Ekelund']","['[CZE] ', '[CZE] ', '[DEN] ', '[DEN] ']","['16-21', '21-18', '23-21']",XD ,20180315
+57,"['Ade Resky Dwicahyo', 'Karan Rajan Rajarajan [5]']","['[AZE] ', '[IND] ']","['21-11', '21-19']",MS ,20180315
+58,"['Victor Svendsen [3]', 'Jaromir Janacek']","['[DEN] ', '[CZE] ']","['21-15', '21-13']",MS ,20180315
+59,"['Irina Amalie Andersen [3]', 'Oliwia Socha']","['[DEN] ', '[POL] ']","['21-9', '21-14']",WS ,20180315
+60,"['Agnes Korosi [4]', 'Vytaute Fomkinaite']","['[HUN] ', '[LTU] ']","['22-20', '21-15']",WS ,20180315
+61,"['Patrick Abildgaard', 'Luka Milic']","['[DEN] ', '[SRB] ']","['21-15', '21-13']",MS ,20180315
+62,"['Iza Salehar', 'Veronika Dobiášová']","['[SLO] ', '[CZE] ']","['21-17', '21-16']",WS ,20180315
+63,"['Ade Resky Dwicahyo', 'Patrick Abildgaard']","['[AZE] ', '[DEN] ']","['21-19', '21-13']",MS ,20180315
+64,"['Ayla Huser [5]', 'Daniella Gonda']","['[SUI] ', '[HUN] ']","['21-10', '21-18']",WS ,20180315
+65,"['Wiktoria Adamek', 'Izabela Pajek', 'Emilie Aalestrup', 'Mathilde Haapanen']","['[POL] ', '[POL] ', '[DEN] ', '[DEN] ']","['13-21', '21-19', '21-13']",WD ,20180315
+66,"['Veronika Dobiášová', 'Martina Krocová', 'Oliwia Socha', 'Karolina Wladzinska']","['[CZE] ', '[CZE] ', '[POL] ', '[POL] ']",[],WD ,20180315
+67,"['Elisa Melgaard', 'Sofie Nielsen', 'Antonia Meinke', 'Carina Meinke']","['[DEN] ', '[DEN] ', '[AUT] ', '[AUT] ']","['21-7', '21-12']",WD ,20180315
+68,"['Kati-Kreet Marran', 'Katerina Tomalova [7]']","['[EST] ', '[CZE] ']","['12-21', '21-19', '21-17']",WS ,20180315
+69,"['Vasily Kuznetsov', 'Pawel Pradzinski', 'Magnus Christensen [3]', 'Fredrik Kristensen']","['[RUS] ', '[POL] ', '[NOR] ', '[NOR] ']","['11-21', '21-13', '24-22']",MD ,20180315
+70,"['Susan Ekelund', 'Line Fleischer', 'Magdalena Swierczynska', 'Szubert Karolina']","['[DEN] ', '[DEN] ', '[POL] ', '[POL] ']","['21-13', '21-18']",WD ,20180315
+71,"['Vojtech Selong', 'Denisa Šikalová', 'Magnus Christensen', 'Natalie Syvertsen']","['[CZE] ', '[CZE] ', '[NOR] ', '[NOR] ']","['21-13', '21-18']",XD ,20180315
+72,"['Patrick Scheiel', 'Franziska Volkmann', 'Bedrich Valenta', 'Martina Krocová']","['[GER] ', '[GER] ', '[CZE] ', '[CZE] ']","['21-15', '21-10']",XD ,20180315
+73,"['Kai Schaefer [6]', 'Michael Spencer-Smith']","['[GER] ', '[ENG] ']","['21-7', '21-4']",MS ,20180315
+74,"['Jakub Bitman [1]', 'Alzbeta Basova', 'Vojtech Selong', 'Denisa Šikalová']","['[CZE] ', '[CZE] ', '[CZE] ', '[CZE] ']","['15-21', '21-15', '21-10']",XD ,20180315
+75,"['Pawel Smilowski', 'Magdalena Swierczynska', 'Fredrik Kristensen [4]', 'Solvår Flåten Jørgensen']","['[POL] ', '[POL] ', '[NOR] ', '[NOR] ']","['21-18', '22-20']",XD ,20180315
+76,"['Kate Foo Kune [1]', 'Sofie Zacho']","['[MRI] ', '[DEN] ']","['21-17', '21-17']",WS ,20180315
+77,"['Getter Saar [8]', 'Sabina Milova']","['[EST] ', '[CZE] ']","['16-21', '21-17', '21-14']",WS ,20180315
+78,"['Tereza Švábíková', 'Mathilde Haapanen']","['[CZE] ', '[DEN] ']","['21-14', '21-10']",WS ,20180315
+79,"['Yuri Nakamura', 'Zuzana Pavelkova']","['[JPN] ', '[CZE] ']","['21-6', '21-9']",WS ,20180315
+80,"['Daniella Gonda', 'Michaela Zelinkova']","['[HUN] ', '[CZE] ']","['21-19', '21-14']",WS ,20180315
+81,"['Mathilde Møller', 'Anna Mikhalkova']","['[DEN] ', '[UKR] ']","['18-21', '21-11', '21-16']",WS ,20180315
+82,"['Yuri Nakamura', 'Irina Amalie Andersen [3]']","['[JPN] ', '[DEN] ']","['21-16', '20-22', '22-20']",WS ,20180315
+83,"['Nicklas Mathiasen', 'Mikkel Stoffersen', 'Robert Cybulski', 'Adam Szolc']","['[DEN] ', '[DEN] ', '[POL] ', '[POL] ']","['21-16', '21-14']",MD ,20180315
+84,"['Filip Budzel', 'Peder Søvndal', 'Jiří Bureš', 'Ondřej Helar']","['[CZE] ', '[DEN] ', '[CZE] ', '[CZE] ']","['21-17', '21-18']",MD ,20180315
+85,"['Alzbeta Basova [1]', 'Michaela Fuchsova', 'Eva Janssens', 'Judith Petrikowski']","['[CZE] ', '[CZE] ', '[GER] ', '[GER] ']",[],WD ,20180315
+86,"['Pernille Bundgaard', 'Sofie Zacho', 'Nikoletta Bukoviczki', 'Daniella Gonda']","['[DEN] ', '[DEN] ', '[HUN] ', '[HUN] ']","['21-17', '18-21', '21-13']",WD ,20180315
+87,"['Bjarne Geiss', 'Jan Colin Völker', 'Daniel Grassmuck', 'Roman Zirnwald']","['[GER] ', '[GER] ', '[AUT] ', '[AUT] ']","['21-12', '21-14']",MD ,20180315
+88,"['Wiktoria Dabczynska', 'Aleksandra Goszczynska', 'Hana Milisova', 'Sabina Milova']","['[POL] ', '[POL] ', '[CZE] ', '[CZE] ']","['21-13', '22-20']",WD ,20180315
+89,"['Elisa Melgaard', 'Sofie Nielsen', 'Iza Salehar [3]', 'Lia Salehar']","['[DEN] ', '[DEN] ', '[SLO] ', '[SLO] ']","['21-14', '21-19']",WD ,20180315
+90,"['Peter Kaesbauer', 'Johannes Pistorius', 'Ciar Pringle', 'Michael Roe']","['[GER] ', '[GER] ', '[SCO] ', '[ENG] ']","['21-16', '21-19']",MD ,20180315
+91,"['Bjarne Geiss', 'Eva Janssens', 'Nicklas Mathiasen', 'Emilie Aalestrup']","['[GER] ', '[GER] ', '[DEN] ', '[DEN] ']","['21-10', '21-14']",XD ,20180315
+92,"['Pawel Smilowski', 'Magdalena Swierczynska', 'Michael Roe', 'Jessica Hopton']","['[POL] ', '[POL] ', '[ENG] ', '[ENG] ']","['21-15', '21-15']",XD ,20180315
+93,"['Jan Louda', 'Gergely Krausz [4]']","['[CZE] ', '[HUN] ']","['12-21', '21-15', '21-17']",MS ,20180315
+94,"['Peter Kaesbauer', 'Olga Konon', 'Bjarne Geiss', 'Eva Janssens']","['[GER] ', '[GER] ', '[GER] ', '[GER] ']","['21-13', '21-17']",XD ,20180315
+95,"['Jonathan Persson', 'Muhammad Lukman Hakim Mohd Ibrahim']","['[GER] ', '[MAS] ']","['22-20', '21-17']",MS ,20180315
+96,"['Milan Ludik [8]', 'Christian Kirchmayr']","['[CZE] ', '[SUI] ']","['21-9', '21-14']",MS ,20180315
+97,"['Ayla Huser [5]', 'Lia Salehar']","['[SUI] ', '[SLO] ']","['21-18', '21-17']",WS ,20180315
+98,"['Ronja Stern', 'Wiktoria Dabczynska']","['[SUI] ', '[POL] ']","['19-21', '21-15', '21-13']",WS ,20180315
+99,"['Subhankar Dey [1]', 'Michal Rogalski']","['[IND] ', '[POL] ']","['21-16', '21-19']",MS ,20180315
+100,"['Jan Louda', 'Miha Ivanic']","['[CZE] ', '[SLO] ']","['21-18', '21-17']",MS ,20180315
+101,"['Kate Foo Kune [1]', 'Tereza Švábíková']","['[MRI] ', '[CZE] ']","['21-19', '21-15']",WS ,20180315
+102,"['Bjarne Geiss', 'Jan Colin Völker', 'Pakin Kuna-Anuvit', 'Natthapat Trinkajee']","['[GER] ', '[GER] ', '[THA] ', '[THA] ']","['21-15', '21-19']",MD ,20180315
+103,"['Amalie Hertz', 'Airi Mikkela [6]']","['[DEN] ', '[FIN] ']","['21-14', '21-12']",WS ,20180315
+104,"['Emil Hybel', 'Mathias Thyrri', 'Alan Ostrowski', 'Pawel Pietryja']","['[DEN] ', '[DEN] ', '[POL] ', '[POL] ']","['21-11', '21-9']",MD ,20180315
+105,"['Wiktoria Dabczynska', 'Aleksandra Goszczynska', 'Magdalena Lajdova', 'Denisa Šikalová']","['[POL] ', '[POL] ', '[CZE] ', '[CZE] ']","['21-13', '21-15']",WD ,20180315
+106,"['Mathilde Møller', 'Iza Salehar']","['[DEN] ', '[SLO] ']","['23-21', '21-19']",WS ,20180315
+107,"['Nicklas Mathiasen', 'Mikkel Stoffersen', 'Patrick Scheiel', 'Julian Voigt']","['[DEN] ', '[DEN] ', '[GER] ', '[GER] ']","['21-18', '21-17']",MD ,20180315
+108,"['Daniel Nikolov [2]', 'Ivan Rusev', 'Filip Budzel', 'Peder Søvndal']","['[BUL] ', '[BUL] ', '[CZE] ', '[DEN] ']","['21-16', '21-15']",MD ,20180315
+109,"['Supissara Paewsampran', 'Puttita Supajirakul', 'Veronika Dobiášová', 'Martina Krocová']","['[THA] ', '[THA] ', '[CZE] ', '[CZE] ']","['21-8', '21-5']",WD ,20180315
+110,"['Pakin Kuna-Anuvit', 'Supissara Paewsampran', 'Robert Cybulski', 'Wiktoria Dabczynska']","['[THA] ', '[THA] ', '[POL] ', '[POL] ']","['21-18', '21-16']",XD ,20180315
+111,"['Michal Rogalski', 'Adrian George']","['[POL] ', '[IND] ']","['21-23', '21-19', '26-24']",MS ,20180315
+112,"['Adam Mendrek [7]', 'Matej Hlinican']","['[CZE] ', '[SVK] ']","['21-14', '21-10']",MS ,20180315
+113,"['Dominik Stipsits', 'Antonia Meinke', 'Jaromir Janacek', 'Sabina Milova']","['[AUT] ', '[AUT] ', '[CZE] ', '[CZE] ']","['21-15', '21-15']",XD ,20180315
+114,"['Matěj Hubáček', 'Berta Ausbergerova', 'Patrick Scheiel', 'Franziska Volkmann']","['[CZE] ', '[CZE] ', '[GER] ', '[GER] ']","['21-14', '22-20']",XD ,20180315
+115,"['Collins Valentine Filimon', 'Wolfgang Gnedt']","['[ROU] ', '[AUT] ']","['21-13', '21-9']",MS ,20180315
+116,"['Kati-Kreet Marran', 'Paloma Eduarda Da Silva']","['[EST] ', '[BRA] ']","['21-11', '21-11']",WS ,20180315
+117,"['Katerina Tomalova [7]', 'Ira Sharma']","['[CZE] ', '[IND] ']","['21-13', '21-13']",WS ,20180315
+118,"['Daniel Nikolov', 'Adam Mendrek [7]']","['[BUL] ', '[CZE] ']","['21-10', '21-15']",MS ,20180315
+119,"['Milan Ludik [8]', 'Adrian Dziolko']","['[CZE] ', '[POL] ']","['17-21', '24-22', '21-14']",MS ,20180315
+120,"['Getter Saar [8]', 'Smit Toshniwal']","['[EST] ', '[IND] ']","['22-20', '16-21', '21-17']",WS ,20180315
+121,"['Ronja Stern', 'Agnes Korosi [4]']","['[SUI] ', '[HUN] ']","['21-19', '20-22', '24-22']",WS ,20180315
+122,"['Matěj Hubáček', 'Michal Hubáček', 'Miroslav Haring', 'Juraj Vachalek']","['[CZE] ', '[CZE] ', '[SVK] ', '[SVK] ']","['21-12', '24-22']",MD ,20180315
+123,"['Jessica Hopton', 'Ciara Torrance', 'Kornelia Marczak', 'Aneta Wojtkowska']","['[ENG] ', '[SCO] ', '[POL] ', '[POL] ']","['21-19', '21-16']",WD ,20180315
+124,"['Philip Birker', 'Dominik Stipsits', 'Konrad Ploch', 'Dominik Zietek']","['[AUT] ', '[AUT] ', '[POL] ', '[POL] ']","['21-16', '21-17']",MD ,20180315
+125,"['Pawel Smilowski', 'Przemyslaw Szydlowski', 'Matěj Hubáček', 'Michal Hubáček']","['[POL] ', '[POL] ', '[CZE] ', '[CZE] ']","['21-12', '21-10']",MD ,20180315
+126,"['Vytaute Fomkinaite [4]', 'Gerda Voitechovskaja', 'Wiktoria Adamek', 'Izabela Pajek']","['[LTU] ', '[LTU] ', '[POL] ', '[POL] ']","['21-14', '21-11']",WD ,20180315
+127,"['Jessica Hopton', 'Ciara Torrance', 'Berta Ausbergerova', 'Michaela Zelinkova']","['[ENG] ', '[SCO] ', '[CZE] ', '[CZE] ']","['18-21', '21-12', '21-17']",WD ,20180315
+128,"['Pernille Bundgaard', 'Sofie Zacho', 'Solvår Flåten Jørgensen [2]', 'Natalie Syvertsen']","['[DEN] ', '[DEN] ', '[NOR] ', '[NOR] ']","['21-17', '21-19']",WD ,20180315
+129,"['Mathias Thyrri', 'Elisa Melgaard', 'Adam Szolc', 'Izabela Pajek']","['[DEN] ', '[DEN] ', '[POL] ', '[POL] ']","['21-14', '21-14']",XD ,20180315
+130,"['Subhankar Dey [1]', 'Robert Mann']","['[IND] ', '[LUX] ']","['21-14', '21-17']",MS ,20180315
+131,"['Miha Ivanic', 'Sahil Sipani']","['[SLO] ', '[IND] ']","['21-14', '21-16']",MS ,20180315
+132,"['Pakin Kuna-Anuvit', 'Supissara Paewsampran', 'Emil Hybel', 'Line Fleischer']","['[THA] ', '[THA] ', '[DEN] ', '[DEN] ']","['16-21', '21-16', '21-19']",XD ,20180315
+133,"['Dmytro Zavadsky', 'Oleksandar Shmundyak']","['[UKR] ', '[UKR] ']","['21-9', '21-18']",MS ,20180315
+134,"['Adrian Dziolko', 'Cristian Savin']","['[POL] ', '[MDA] ']","['21-17', '12-21', '21-15']",MS ,20180315
+135,"['Simon Wang', 'Ilias Xanthou']","['[GER] ', '[GRE] ']","['21-17', '21-16']",MS ,20180315
+136,"['Smit Toshniwal', 'Gerda Voitechovskaja']","['[IND] ', '[LTU] ']","['21-14', '21-13']",WS ,20180315
+137,"['Airi Mikkela [6]', 'Elizaveta Pyatina']","['[FIN] ', '[RUS] ']","['21-10', '12-21', '21-11']",WS ,20180315
+138,"['Amalie Hertz', 'Katsiaryna Zablotskaya']","['[DEN] ', '[BLR] ']","['21-14', '21-7']",WS ,20180315
+139,"['Dmytro Zavadsky', 'Kai Schaefer [6]']","['[UKR] ', '[GER] ']","['21-16', '16-21', '21-16']",MS ,20180315
+140,"['Victor Svendsen [3]', 'Jonathan Persson']","['[DEN] ', '[GER] ']","['21-12', '21-12']",MS ,20180315
+141,"['Simon Wang', 'Collins Valentine Filimon']","['[GER] ', '[ROU] ']","['21-14', '21-14']",MS ,20180315
+142,"['Magdalena Swierczynska', 'Szubert Karolina', 'Lisa Kramer', 'Amalie Vestmar']","['[POL] ', '[POL] ', '[DEN] ', '[DEN] ']","['20-22', '24-22', '22-20']",WD ,20180315
+143,"['Vasily Kuznetsov', 'Pawel Pradzinski', 'Ade Resky Dwicahyo', 'Azmy Qowimuramadhoni']","['[RUS] ', '[POL] ', '[AZE] ', '[AZE] ']","['21-11', '21-12']",MD ,20180315
+144,"['Peter Kaesbauer', 'Johannes Pistorius', 'Jaromir Janacek', 'Tomáš Švejda']","['[GER] ', '[GER] ', '[CZE] ', '[CZE] ']","['21-15', '21-19']",MD ,20180315
+145,"['Emil Hybel', 'Mathias Thyrri', 'Lukasz Moren [4]', 'Wojciech Szkudlarczyk']","['[DEN] ', '[DEN] ', '[POL] ', '[POL] ']","['21-15', '18-21', '21-15']",MD ,20180315
+146,"['Philip Birker', 'Dominik Stipsits', 'Andrija Doder', 'Luka Milic']","['[AUT] ', '[AUT] ', '[SRB] ', '[SRB] ']","['14-21', '21-12', '21-13']",MD ,20180315
+147,"['Susan Ekelund', 'Line Fleischer', 'Alzbeta Basova [1]', 'Michaela Fuchsova']","['[DEN] ', '[DEN] ', '[CZE] ', '[CZE] ']","['21-12', '21-14']",WD ,20180315
+148,"['Subhankar Dey [1]', 'Daniel Nikolov']","['[IND] ', '[BUL] ']","['21-13', '22-20']",MS ,20180315
+149,"['Yuri Nakamura', 'Ayla Huser [5]']","['[JPN] ', '[SUI] ']","['21-16', '21-10']",WS ,20180315
+150,"['Wiktoria Dabczynska', 'Aleksandra Goszczynska', 'Vytaute Fomkinaite [4]', 'Gerda Voitechovskaja']","['[POL] ', '[POL] ', '[LTU] ', '[LTU] ']","['21-15', '21-14']",WD ,20180315
+151,"['Supissara Paewsampran', 'Puttita Supajirakul', 'Pernille Bundgaard', 'Sofie Zacho']","['[THA] ', '[THA] ', '[DEN] ', '[DEN] ']","['21-13', '21-12']",WD ,20180315
+152,"['Bjarne Geiss', 'Jan Colin Völker', 'Philip Birker', 'Dominik Stipsits']","['[GER] ', '[GER] ', '[AUT] ', '[AUT] ']","['21-10', '21-15']",MD ,20180315
+153,"['Mathilde Møller', 'Kati-Kreet Marran']","['[DEN] ', '[EST] ']","['18-21', '21-15', '21-17']",WS ,20180315
+154,"['Filip Budzel', 'Tereza Švábíková', 'Matěj Hubáček', 'Berta Ausbergerova']","['[CZE] ', '[CZE] ', '[CZE] ', '[CZE] ']","['21-18', '12-21', '21-17']",XD ,20180315
+155,"['Elisa Melgaard', 'Sofie Nielsen', 'Jessica Hopton', 'Ciara Torrance']","['[DEN] ', '[DEN] ', '[ENG] ', '[SCO] ']","['21-13', '21-15']",WD ,20180315
+156,"['Emil Hybel', 'Mathias Thyrri', 'Pawel Smilowski', 'Przemyslaw Szydlowski']","['[DEN] ', '[DEN] ', '[POL] ', '[POL] ']","['21-9', '21-19']",MD ,20180315
+157,"['Peter Kaesbauer', 'Olga Konon', 'Mathias Thyrri', 'Elisa Melgaard']","['[GER] ', '[GER] ', '[DEN] ', '[DEN] ']","['21-12', '21-18']",XD ,20180315
+158,"['Dmytro Zavadsky', 'Jan Louda']","['[UKR] ', '[CZE] ']","['21-9', '21-14']",MS ,20180315
+159,"['Milan Ludik [8]', 'Simon Wang']","['[CZE] ', '[GER] ']","['21-12', '21-16']",MS ,20180315
+160,"['Vasily Kuznetsov', 'Pawel Pradzinski', 'Nicklas Mathiasen', 'Mikkel Stoffersen']","['[RUS] ', '[POL] ', '[DEN] ', '[DEN] ']","['17-21', '22-20', '21-18']",MD ,20180315
+161,"['Kate Foo Kune [1]', 'Getter Saar [8]']","['[MRI] ', '[EST] ']","['24-22', '21-12']",WS ,20180315
+162,"['Peter Kaesbauer', 'Johannes Pistorius', 'Emil Hybel', 'Mathias Thyrri']","['[GER] ', '[GER] ', '[DEN] ', '[DEN] ']","['22-20', '22-20']",MD ,20180315
+163,"['Yuri Nakamura', 'Kate Foo Kune [1]']","['[JPN] ', '[MRI] ']","['21-16', '21-14']",WS ,20180315
+164,"['Victor Svendsen [3]', 'Milan Ludik [8]']","['[DEN] ', '[CZE] ']","['21-13', '30-29']",MS ,20180315
+165,"['Subhankar Dey [1]', 'Dmytro Zavadsky']","['[IND] ', '[UKR] ']","['21-12', '16-21', '21-17']",MS ,20180315
+166,"['Peter Kaesbauer', 'Olga Konon', 'Jakub Bitman [1]', 'Alzbeta Basova']","['[GER] ', '[GER] ', '[CZE] ', '[CZE] ']","['21-13', '21-15']",XD ,20180315
+167,"['Amalie Hertz', 'Ronja Stern']","['[DEN] ', '[SUI] ']","['21-14', '21-11']",WS ,20180315
+168,"['Pawel Smilowski', 'Magdalena Swierczynska', 'Pakin Kuna-Anuvit', 'Supissara Paewsampran']","['[POL] ', '[POL] ', '[THA] ', '[THA] ']","['21-13', '21-23', '21-18']",XD ,20180315
+169,"['Victor Svendsen [3]', 'Ade Resky Dwicahyo']","['[DEN] ', '[AZE] ']","['19-21', '23-21', '21-15']",MS ,20180315
+170,"['Jakub Bitman [1]', 'Alzbeta Basova', 'Dominik Stipsits', 'Antonia Meinke']","['[CZE] ', '[CZE] ', '[AUT] ', '[AUT] ']","['19-21', '21-15', '21-11']",XD ,20180315
+171,"['Peter Kaesbauer', 'Johannes Pistorius', 'Daniel Nikolov [2]', 'Ivan Rusev']","['[GER] ', '[GER] ', '[BUL] ', '[BUL] ']","['21-16', '21-13']",MD ,20180315
+172,"['Supissara Paewsampran', 'Puttita Supajirakul', 'Wiktoria Dabczynska', 'Aleksandra Goszczynska']","['[THA] ', '[THA] ', '[POL] ', '[POL] ']","['21-7', '21-6']",WD ,20180315
+173,"['Bjarne Geiss', 'Jan Colin Völker', 'Vasily Kuznetsov', 'Pawel Pradzinski']","['[GER] ', '[GER] ', '[RUS] ', '[POL] ']","['21-19', '21-17']",MD ,20180315
+174,"['Elisa Melgaard', 'Sofie Nielsen', 'Susan Ekelund', 'Line Fleischer']","['[DEN] ', '[DEN] ', '[DEN] ', '[DEN] ']","['21-16', '15-21', '21-19']",WD ,20180315
+175,"['Amalie Hertz', 'Mathilde Møller']","['[DEN] ', '[DEN] ']",['19-9'],WS ,20180315
+176,"['Pawel Smilowski', 'Magdalena Swierczynska', 'Filip Budzel', 'Tereza Švábíková']","['[POL] ', '[POL] ', '[CZE] ', '[CZE] ']","['21-14', '21-15']",XD ,20180315
+177,"['Peter Kaesbauer', 'Olga Konon', 'Pawel Smilowski', 'Magdalena Swierczynska']","['[GER] ', '[GER] ', '[POL] ', '[POL] ']","['21-10', '21-11']",XD Prize giving ceremony after end of each match,20180315
+178,"['Supissara Paewsampran', 'Puttita Supajirakul', 'Elisa Melgaard', 'Sofie Nielsen']","['[THA] ', '[THA] ', '[DEN] ', '[DEN] ']","['21-14', '21-11']",WD ,20180315
+179,"['Yuri Nakamura', 'Amalie Hertz']","['[JPN] ', '[DEN] ']","['21-8', '21-9']",WS ,20180315
+180,"['Bjarne Geiss', 'Jan Colin Völker', 'Peter Kaesbauer', 'Johannes Pistorius']","['[GER] ', '[GER] ', '[GER] ', '[GER] ']","['21-13', '21-14']",MD ,20180315
+181,"['Victor Svendsen [3]', 'Subhankar Dey [1]']","['[DEN] ', '[IND] ']","['21-19', '21-19']",MS ,20180315

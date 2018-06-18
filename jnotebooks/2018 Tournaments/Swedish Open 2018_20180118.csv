@@ -1,0 +1,111 @@
+,PLAYERS,COUNTRIES,SCORES,EVENT,match_week
+0,"['Martin Forssberg', 'Madeleine Persson', 'Milan Dratva [4]', 'Iza Salehar']","['[SWE] ', '[SWE] ', '[SVK] ', '[SLO] ']","['21-17', '21-14']",XD - Qualification ,20180118
+1,"['Emil Lauritzen [2]', 'Elisa Melgaard', 'Filip Svensson', 'Berfin Aslan']","['[DEN] ', '[DEN] ', '[SWE] ', '[SWE] ']","['20-22', '21-15', '21-12']",XD - Qualification ,20180118
+2,"['Leo Rossi [4]', 'Mattias Wigardt']","['[FRA] ', '[SWE] ']","['16-21', '21-17', '21-11']",MS - Qualification ,20180118
+3,"['Douglas Lidman [13]', 'Peder Søvndal']","['[SWE] ', '[DEN] ']","['21-15', '21-16']",MS - Qualification ,20180118
+4,"['Jack Macgregor', 'Toni Woods', 'Martin Forssberg', 'Madeleine Persson']","['[SCO] ', '[SCO] ', '[SWE] ', '[SWE] ']","['15-21', '21-14', '21-15']",XD - Qualification ,20180118
+5,"['Joonas Korhonen [16]', 'Richard Kuhl']","['[FIN] ', '[SWE] ']","['21-11', '21-14']",MS - Qualification ,20180118
+6,"['Kaj Sjang Lü', 'Jonas Jæger']","['[DEN] ', '[DEN] ']","['10-21', '21-19', '21-13']",MS - Qualification ,20180118
+7,"['Patrick Bjerregaard [12]', 'Shaun Ekengren']","['[DEN] ', '[SWE] ']","['21-16', '21-16']",MS - Qualification ,20180118
+8,"['Elin Svensson [8]', 'Mathilde Haapanen']","['[SWE] ', '[DEN] ']","['19-21', '21-11', '21-7']",WS - Qualification ,20180118
+9,"['Mickey Lykkegren', 'Andy Tsai [11]']","['[DEN] ', '[SWE] ']","['26-28', '21-19', '21-17']",MS - Qualification ,20180118
+10,"['Sofie Zacho', 'Frida Lindstrom [4]']","['[DEN] ', '[SWE] ']","['21-13', '21-12']",WS - Qualification ,20180118
+11,"['Mattias Borg', 'Magnus Sahlberg', 'Anton Monnberg', 'Jesper Paul']","['[SWE] ', '[SWE] ', '[FIN] ', '[FIN] ']","['21-17', '21-17']",MD - Qualification ,20180118
+12,"['Peter Correl', 'Malte Thyregod', 'Jakob Burestedt', 'Nils Ihse']","['[DEN] ', '[DEN] ', '[SWE] ', '[SWE] ']","['21-11', '21-15']",MD - Qualification ,20180118
+13,"['Joshua Eipe', 'David Jones [15]']","['[DEN] ', '[ENG] ']","['23-21', '21-12']",MS - Qualification ,20180118
+14,"['Jeppe Bruun', 'Leo Rossi [4]']","['[DEN] ', '[FRA] ']","['25-23', '14-21', '21-12']",MS - Qualification ,20180118
+15,"['Oskar Svensson', 'Martin Bundgaard']","['[SWE] ', '[DEN] ']","['16-21', '21-16', '22-20']",MS - Qualification ,20180118
+16,"['Joshua Eipe', 'Jeppe Bruun']","['[DEN] ', '[DEN] ']","['22-20', '21-18']",MS - Qualification ,20180118
+17,"['David Kim [8]', 'Mickey Lykkegren']","['[DEN] ', '[DEN] ']","['21-15', '22-20']",MS - Qualification ,20180118
+18,"['Jeppe Bruun', 'Tobias Holst', 'Emil Lauritzen [4]', 'Mads Muurholm']","['[DEN] ', '[DEN] ', '[DEN] ', '[DEN] ']","['21-17', '11-21', '21-14']",MD - Qualification ,20180118
+19,"['Tim Foo [3]', 'Moa Sjoo', 'Emil Hybel', 'Lia Salehar']","['[SWE] ', '[SWE] ', '[DEN] ', '[SLO] ']","['15-21', '21-19', '21-12']",XD - Qualification ,20180118
+20,"['Mathias Moldt Baskjaer', 'Anne Katrine Hansen', 'Oskar Westerlund', 'Emelie Borgstedt']","['[DEN] ', '[DEN] ', '[SWE] ', '[SWE] ']","['21-6', '21-15']",XD - Qualification ,20180118
+21,"['Jesper Paul', 'Andreas Fleischer']","['[FIN] ', '[DEN] ']","['13-21', '21-14', '21-19']",MS - Qualification ,20180118
+22,"['Martin Bundgaard', 'Ciar Pringle']","['[DEN] ', '[SCO] ']","['21-18', '21-16']",MS - Qualification ,20180118
+23,"['Soren Toft Hansen', 'Line Fleischer', 'Tim Foo [3]', 'Moa Sjoo']","['[DEN] ', '[DEN] ', '[SWE] ', '[SWE] ']","['22-20', '18-21', '21-16']",XD - Qualification ,20180118
+24,"['Alvaro Vazquez', 'Emil Johansson']","['[ESP] ', '[SWE] ']","['21-10', '21-7']",MS - Qualification ,20180118
+25,"['Oskar Svensson', 'Filip Budzel [14]']","['[SWE] ', '[CZE] ']",['9-3'],MS - Qualification ,20180118
+26,"['Jeppe Bruun', 'Tobias Mund']","['[DEN] ', '[GER] ']","['21-17', '21-17']",MS - Qualification ,20180118
+27,"['Sarah Frederikke Vishart', 'Julie Ferrier [3]']","['[DEN] ', '[FRA] ']","['17-21', '22-20', '21-17']",WS - Qualification ,20180118
+28,"['Paige Butler', 'Isabelle Grafsund']","['[ENG] ', '[SWE] ']","['21-12', '21-14']",WS - Qualification ,20180118
+29,"['Michelle Skødstrup', 'Iza Salehar [7]']","['[DEN] ', '[SLO] ']","['21-5', '21-5']",WS - Qualification ,20180118
+30,"['Emma Thorne', 'Matilde Nordal']","['[SWE] ', '[DEN] ']","['21-16', '21-9']",WS - Qualification ,20180118
+31,"['Jeppe Bruun', 'Tobias Holst', 'Oskar Svensson', 'Melker Z-Bexell']","['[DEN] ', '[DEN] ', '[SWE] ', '[SWE] ']","['21-16', '21-14']",MD - Qualification ,20180118
+32,"['Lilit Poghosyan [5]', 'Nathalie Wang']","['[ARM] ', '[SWE] ']","['21-10', '20-22', '22-20']",WS - Qualification ,20180118
+33,"['Jesper Toft', 'Kaj Sjang Lü']","['[DEN] ', '[DEN] ']","['12-21', '21-15', '21-18']",MS - Qualification ,20180118
+34,"['Mads Thøgersen', 'Ditlev Jaeger Holm [7]']","['[DEN] ', '[DEN] ']","['21-16', '11-21', '22-20']",MS - Qualification ,20180118
+35,"['Mickey Lykkegren', 'Rasmus Kæseler']","['[DEN] ', '[DEN] ']","['21-15', '23-25', '21-16']",MS - Qualification ,20180118
+36,"['Anne Fuglsang', 'Léonice Huet']","['[DEN] ', '[FRA] ']","['21-16', '14-21', '21-15']",WS - Qualification ,20180118
+37,"['Patrick Bjerregaard [12]', 'Jesper Toft']","['[DEN] ', '[DEN] ']","['21-12', '21-16']",MS - Qualification ,20180118
+38,"['Lisa Kramer', 'Amalie Vestmar', 'Linda Haggman', 'Christine Ingvarsson']","['[DEN] ', '[DEN] ', '[SWE] ', '[SWE] ']","['21-9', '21-5']",WD - Qualification ,20180118
+39,"['Mathieu Gangloff', 'Anne Tran', 'Mathias Thyrri', 'Emilie Aalestrup']","['[FRA] ', '[FRA] ', '[DEN] ', '[DEN] ']","['27-25', '21-17']",XD ,20180118
+40,"['Laura Sarosi', 'Rachael Darragh']","['[HUN] ', '[IRL] ']","['15-21', '21-12', '21-16']",WS ,20180118
+41,"['Jordan Hart [8]', 'Yaelle Hoyaux']","['[WAL] ', '[FRA] ']","['21-14', '21-12']",WS ,20180118
+42,"['Katia Normand', 'Camilla Martens']","['[FRA] ', '[DEN] ']","['21-13', '21-19']",WS ,20180118
+43,"['Clara Azurmendi [2]', 'Amalie Hertz']","['[ESP] ', '[DEN] ']","['21-18', '17-21', '21-15']",WS ,20180118
+44,"['Luís Enrique Peñalver [5]', 'Mikkel Enghøj']","['[ESP] ', '[DEN] ']","['21-15', '21-18']",MS ,20180118
+45,"['Kartikey Gulshan Kumar', 'Soren Toft Hansen [8]']","['[IND] ', '[DEN] ']","['15-21', '21-13', '21-16']",MS ,20180118
+46,"['Thom Gicquel [1]', 'Delphine Delrue', 'Mads Emil Christensen', 'Claudia Paredes']","['[FRA] ', '[FRA] ', '[DEN] ', '[DEN] ']","['22-20', '21-17']",XD ,20180118
+47,"['Kristoffer Knudsen [2]', 'Isabella Nielsen', 'Samy Corvee', 'Emilie Lefel']","['[DEN] ', '[DEN] ', '[FRA] ', '[FRA] ']","['21-18', '21-16']",XD ,20180118
+48,"['Daniel Lundgaard', 'Karl Thor Søndergaard', 'Hermansah .', 'Gustav Stromvall']","['[DEN] ', '[DEN] ', '[INA] ', '[SWE] ']","['21-13', '21-16']",MD ,20180118
+49,"['Debora Jille', 'Imke Van Der Aar', 'Emilie Aalestrup', 'Camilla Martens']","['[NED] ', '[NED] ', '[DEN] ', '[DEN] ']","['21-9', '21-7']",WD ,20180118
+50,"['Richard Eidestedt', 'Carl Harrbacka', 'Mads Emil Christensen', 'Mikkel Stoffersen']","['[SWE] ', '[SWE] ', '[DEN] ', '[DEN] ']","['21-14', '21-19']",MD ,20180118
+51,"['Anna Thea Madsen', 'Jordan Hart [8]']","['[DEN] ', '[WAL] ']","['21-16', '21-15']",WS ,20180118
+52,"['Michelle Skødstrup', 'Iben Bergstein']","['[DEN] ', '[DEN] ']","['21-13', '21-13']",WS ,20180118
+53,"['Felix Burestedt', 'Sahil Sipani [7]']","['[SWE] ', '[IND] ']","['19-21', '21-13', '21-11']",MS ,20180118
+54,"['Mads Christophersen', 'Marius Myhre [6]']","['[DEN] ', '[NOR] ']","['21-10', '21-5']",MS ,20180118
+55,"['Emma Karlsson [3]', 'Johanna Magnusson', 'Lorraine Baumann', 'Vimala Heriau']","['[SWE] ', '[SWE] ', '[FRA] ', '[FRA] ']","['21-17', '21-14']",WD ,20180118
+56,"['Joel Eipe [3]', 'Philip Seerup', 'Emil Hybel', 'Mathias Thyrri']","['[DEN] ', '[DEN] ', '[DEN] ', '[DEN] ']","['21-18', '18-21', '21-16']",MD ,20180118
+57,"['Mads Emil Christensen', 'Claudia Paredes', 'Richard Eidestedt', 'Clara Nistad']","['[DEN] ', '[DEN] ', '[SWE] ', '[SWE] ']","['24-22', '21-23', '21-15']",XD ,20180118
+58,"['Samy Corvee', 'Emilie Lefel', 'Steve Olesen', 'Louise Eriksson']","['[FRA] ', '[FRA] ', '[DEN] ', '[SWE] ']","['21-14', '21-14']",XD ,20180118
+59,"['Line Christophersen', 'Saili Rane [7]']","['[DEN] ', '[IND] ']","['21-17', '21-16']",WS ,20180118
+60,"['Gayle Mahulette [3]', 'Lia Salehar']","['[NED] ', '[SLO] ']","['21-10', '21-11']",WS ,20180118
+61,"['Rosario Maddaloni [1]', 'Joonas Korhonen']","['[ITA] ', '[FIN] ']","['21-8', '21-16']",MS ,20180118
+62,"['David Kim', 'Ilias Xanthou']","['[DEN] ', '[GRE] ']","['21-17', '21-15']",MS ,20180118
+63,"['Jacob Nilsson', 'Toma Junior Popov']","['[SWE] ', '[FRA] ']","['17-21', '25-23', '21-14']",MS ,20180118
+64,"['Lucas Claerbout [2]', 'Bodhit Joshi']","['[FRA] ', '[IND] ']","['21-19', '21-11']",MS ,20180118
+65,"['Oliver Leydon-Davis', 'Gabriella Bøje', 'Mikkel Stoffersen [3]', 'Susan Ekelund']","['[NZL] ', '[DEN] ', '[DEN] ', '[DEN] ']","['21-16', '21-12']",XD ,20180118
+66,"['Adarsh Kumar', 'Jagadish Yadav', 'Mikkel Mikkelsen', 'Nikolaj Overgaard']","['[IND] ', '[IND] ', '[DEN] ', '[DEN] ']","['21-17', '21-16']",MD ,20180118
+67,"['Lorraine Baumann', 'Vimala Heriau', 'Natasja P. Anthonisen', 'Gabriella Bøje']","['[FRA] ', '[FRA] ', '[DEN] ', '[DEN] ']","['21-13', '21-14']",WD ,20180118
+68,"['Emil Hybel', 'Mathias Thyrri', 'Mathieu Gangloff', 'Tom Rodrigues']","['[DEN] ', '[DEN] ', '[FRA] ', '[FRA] ']","['21-15', '17-21', '21-18']",MD ,20180118
+69,"['Julie Dawall Jakobsen [1]', 'Laura Sarosi']","['[DEN] ', '[HUN] ']","['21-17', '21-16']",WS ,20180118
+70,"['Luís Enrique Peñalver [5]', 'Jacob Nilsson']","['[ESP] ', '[SWE] ']","['21-17', '21-17']",MS ,20180118
+71,"['Clara Azurmendi [2]', 'Katia Normand']","['[ESP] ', '[FRA] ']","['21-15', '19-21', '21-14']",WS ,20180118
+72,"['Hermansah .', 'Lucas Claerbout [2]']","['[INA] ', '[FRA] ']","['22-20', '21-13']",MS ,20180118
+73,"['Alexandra Bøje', 'Sara Lundgaard', 'Amanda Hogstrom', 'Clara Nistad']","['[DEN] ', '[DEN] ', '[SWE] ', '[SWE] ']","['21-19', '21-13']",WD ,20180118
+74,"['Adarsh Kumar', 'Jagadish Yadav', 'Eloi Adam [4]', 'Samy Corvee']","['[IND] ', '[IND] ', '[FRA] ', '[FRA] ']","['22-20', '8-21', '21-18']",MD ,20180118
+75,"['Kristoffer Knudsen [2]', 'Isabella Nielsen', 'Mathieu Gangloff', 'Anne Tran']","['[DEN] ', '[DEN] ', '[FRA] ', '[FRA] ']","['21-19', '19-21', '21-16']",XD ,20180118
+76,"['Marie Batomene', 'Irina Amalie Andersen [4]']","['[FRA] ', '[DEN] ']","['23-21', '17-21', '21-9']",WS ,20180118
+77,"['Mads Christophersen', 'Rosario Maddaloni [1]']","['[DEN] ', '[ITA] ']","['21-12', '21-15']",MS ,20180118
+78,"['Martin Campbell [1]', 'Patrick Machugh', 'Jeppe Bruun', 'Tobias Holst']","['[SCO] ', '[SCO] ', '[DEN] ', '[DEN] ']","['23-21', '21-17']",MD ,20180118
+79,"['Adarsh Kumar', 'Jagadish Yadav', 'Rasmus Kæseler', 'Andreas Søndergaard']","['[IND] ', '[IND] ', '[DEN] ', '[DEN] ']","['21-14', '21-19']",MD ,20180118
+80,"['Rohan Kapoor [4]', 'Kuhoo Garg', 'Lasse Mølhede', 'Sara Lundgaard']","['[IND] ', '[IND] ', '[DEN] ', '[DEN] ']","['21-19', '21-16']",XD ,20180118
+81,"['Arnaud Merkle', 'Luís Enrique Peñalver [5]']","['[FRA] ', '[ESP] ']","['21-17', '21-13']",MS ,20180118
+82,"['Siddharth Pratap Singh', 'Felix Burestedt']","['[IND] ', '[SWE] ']","['21-19', '21-18']",MS ,20180118
+83,"['Emilie Lefel [1]', 'Anne Tran', 'Alexandra Bøje', 'Sara Lundgaard']","['[FRA] ', '[FRA] ', '[DEN] ', '[DEN] ']","['23-21', '16-21', '21-17']",WD ,20180118
+84,"['Oliver Leydon-Davis [2]', 'Lasse Mølhede', 'Richard Eidestedt', 'Carl Harrbacka']","['[NZL] ', '[DEN] ', '[SWE] ', '[SWE] ']","['21-8', '21-14']",MD ,20180118
+85,"['Thom Gicquel [1]', 'Delphine Delrue', 'Soren Gravholt', 'Alexandra Bøje']","['[FRA] ', '[FRA] ', '[DEN] ', '[DEN] ']","['21-17', '22-20']",XD ,20180118
+86,"['Mads Christophersen', 'Arnaud Merkle']","['[DEN] ', '[FRA] ']","['19-21', '21-15', '21-14']",MS ,20180118
+87,"['Julie Dawall Jakobsen [1]', 'Gayle Mahulette [3]']","['[DEN] ', '[NED] ']","['21-14', '21-15']",WS ,20180118
+88,"['Emma Karlsson [3]', 'Johanna Magnusson', 'Julie Macpherson [2]', ""Eleanor O'Donnell""]","['[SWE] ', '[SWE] ', '[SCO] ', '[SCO] ']","['21-14', '21-16']",WD ,20180118
+89,"['Oliver Leydon-Davis [2]', 'Lasse Mølhede', 'Adarsh Kumar', 'Jagadish Yadav']","['[NZL] ', '[DEN] ', '[IND] ', '[IND] ']","['21-11', '21-16']",MD ,20180118
+90,"['Soren Gravholt', 'Alexandra Bøje', 'Oliver Leydon-Davis', 'Gabriella Bøje']","['[DEN] ', '[DEN] ', '[NZL] ', '[DEN] ']","['21-16', '21-17']",XD ,20180118
+91,"['Julie Dawall Jakobsen [1]', 'Line Christophersen']","['[DEN] ', '[DEN] ']","['17-21', '21-15', '21-16']",WS ,20180118
+92,"['Michelle Skødstrup', 'Clara Azurmendi [2]']","['[DEN] ', '[ESP] ']","['21-17', '21-18']",WS ,20180118
+93,"['Andhika Anhar', 'Tim Foo', 'Joel Eipe [3]', 'Philip Seerup']","['[INA] ', '[SWE] ', '[DEN] ', '[DEN] ']","['21-16', '21-23', '21-19']",MD ,20180118
+94,"['Debora Jille', 'Imke Van Der Aar', 'Isabella Nielsen', 'Claudia Paredes']","['[NED] ', '[NED] ', '[DEN] ', '[DEN] ']","['21-18', '21-15']",WD ,20180118
+95,"['Kristoffer Knudsen [2]', 'Isabella Nielsen', 'Rohan Kapoor [4]', 'Kuhoo Garg']","['[DEN] ', '[DEN] ', '[IND] ', '[IND] ']","['21-11', '21-19']",XD ,20180118
+96,"['Michelle Skødstrup', 'Marie Batomene']","['[DEN] ', '[FRA] ']","['21-7', '21-6']",WS ,20180118
+97,"['Siddharth Pratap Singh', 'Hermansah .']","['[IND] ', '[INA] ']","['21-18', '21-16']",MS ,20180118
+98,"['Martin Campbell [1]', 'Patrick Machugh', 'Andhika Anhar', 'Tim Foo']","['[SCO] ', '[SCO] ', '[INA] ', '[SWE] ']","['21-19', '21-15']",MD ,20180118
+99,"['Debora Jille', 'Imke Van Der Aar', 'Emilie Lefel [1]', 'Anne Tran']","['[NED] ', '[NED] ', '[FRA] ', '[FRA] ']","['21-19', '21-13']",WD ,20180118
+100,"['Thom Gicquel [1]', 'Delphine Delrue', 'Eloi Adam', 'Vimala Heriau']","['[FRA] ', '[FRA] ', '[FRA] ', '[FRA] ']","['21-11', '21-9']",XD ,20180118
+101,"['Hermansah .', 'Kartikey Gulshan Kumar']","['[INA] ', '[IND] ']","['21-18', '21-12']",MS ,20180118
+102,"['Gayle Mahulette [3]', 'Anna Thea Madsen']","['[NED] ', '[DEN] ']","['21-14', '21-14']",WS ,20180118
+103,"['Emma Karlsson [3]', 'Johanna Magnusson', 'Verlaine Faulmann', 'Margot Lambert']","['[SWE] ', '[SWE] ', '[FRA] ', '[FRA] ']","['21-11', '21-19']",WD ,20180118
+104,"['Julie Macpherson [2]', ""Eleanor O'Donnell"", 'Moa Sjoo', 'Tilda Sjoo']","['[SCO] ', '[SCO] ', '[SWE] ', '[SWE] ']","['21-12', '23-21']",WD ,20180118
+105,"['Michelle Skødstrup', 'Julie Dawall Jakobsen [1]']","['[DEN] ', '[DEN] ']","['21-13', '12-21', '21-19']",WS ,20180118
+106,"['Oliver Leydon-Davis [2]', 'Lasse Mølhede', 'Martin Campbell [1]', 'Patrick Machugh']","['[NZL] ', '[DEN] ', '[SCO] ', '[SCO] ']","['21-17', '21-12']",MD After prize giving ceremony MS,20180118
+107,"['Thom Gicquel [1]', 'Delphine Delrue', 'Kristoffer Knudsen [2]', 'Isabella Nielsen']","['[FRA] ', '[FRA] ', '[DEN] ', '[DEN] ']","['21-16', '21-10']",XD ,20180118
+108,"['Siddharth Pratap Singh', 'Mads Christophersen']","['[IND] ', '[DEN] ']","['21-15', '21-11']",MS ,20180118
+109,"['Emma Karlsson [3]', 'Johanna Magnusson', 'Debora Jille', 'Imke Van Der Aar']","['[SWE] ', '[SWE] ', '[NED] ', '[NED] ']","['18-21', '21-11', '21-19']",WD After prize giving ceremony,20180118

@@ -1,0 +1,285 @@
+,PLAYERS,COUNTRIES,SCORES,EVENT,match_week
+0,"['Thanesh Veerappan', 'Wei Chyi Ti', 'Tedi Supriadi', 'Surya Della Augustia']","['[MAS] ', '[MAS] ', '[INA] ', '[INA] ']","['22-20', '11-21', '21-15']",XD - Qualification,20170508
+1,"['Liu Zerun', 'Chen Si', 'Devand Riefky Reksadillano', 'Anggit Warastiwi']","['[CHN] ', '[CHN] ', '[INA] ', '[INA] ']","['21-11', '21-16']",XD - Qualification,20170508
+2,"['Andrew Susanto', 'Maria Natalia Kartika Mainaky', 'Ming Che Lu', 'Chang Yu Hsuan']","['[INA] ', '[INA] ', '[TPE] ', '[TPE] ']","['13-21', '21-19', '21-17']",XD - Qualification,20170508
+3,"['Tao Jianqi', 'Wang Xinyuan', 'Indra Leonard Prasetya', 'Violita Dewi']","['[CHN] ', '[CHN] ', '[INA] ', '[INA] ']","['21-15', '18-21', '21-14']",XD - Qualification,20170508
+4,"['Li Jinqiu', 'Mai Yiwen', 'Angga Dian Saputra', 'Annisya Widya Permatasari']","['[CHN] ', '[CHN] ', '[INA] ', '[INA] ']","['22-20', '28-26']",XD - Qualification,20170508
+5,"['Aditya Muchlis Wicaksono', 'Annisa Mubarokah', 'Yen Chun Chen', 'Wang Yu Qiao']","['[INA] ', '[INA] ', '[TPE] ', '[TPE] ']","['21-17', '18-21', '21-19']",XD - Qualification,20170508
+6,"['Renaldi Samosir', 'Hediana Julimarbela', 'Berata Chandra', 'Kadek Dwi Candrika Anggun']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']",[],XD - Qualification,20170508
+7,"['Muhammad Fachrikar', 'Zarra Faza Azka', 'Chun Hsien Yang', 'Pei-Tzu Lo']","['[INA] ', '[INA] ', '[TPE] ', '[TPE] ']","['21-19', '21-19']",XD - Qualification,20170508
+8,"['Abhinaya Rakan Adira', 'Dara Sri Yuliani', 'Raveno Bagas Prayoga', 'Berlian Putri Laksono']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-14', '21-17']",XD - Qualification,20170508
+9,"['Zuelaikha Idris', 'Nurul Shabillah']","['[MAS] ', '[INA] ']","['21-18', '21-18']",WS - Qualification,20170508
+10,"['Wang Xinyuan', 'Eprilia Mega Ayu Swastika']","['[CHN] ', '[INA] ']","['15-21', '21-15', '21-19']",WS - Qualification,20170508
+11,"['Wei Ying Boon', 'Savira Sandradewi']","['[MAS] ', '[INA] ']","['17-21', '21-18', '21-13']",WS - Qualification,20170508
+12,"['Fan Mengyan', 'Thonia Zamrud Khishtin']","['[CHN] ', '[INA] ']","['21-14', '21-11']",WS - Qualification,20170508
+13,"['Chieh Yu', 'Nandini Putri Arumni']","['[TPE] ', '[INA] ']","['21-19', '21-17']",WS - Qualification,20170508
+14,"['Sylvia Kavita Kumares', 'Bening Sri Rahayu']","['[MAS] ', '[INA] ']","['19-21', '21-16', '21-10']",WS - Qualification,20170508
+15,"['Shen Yabing', 'Triya Nur Saadiyah']","['[CHN] ', '[INA] ']","['21-15', '21-10']",WS - Qualification,20170508
+16,"['Huang Qionghui', 'Melsya Nur Fitriani']","['[CHN] ', '[INA] ']","['21-15', '21-16']",WS - Qualification,20170508
+17,"['Pan Lu', 'Anissa Syifa Oktaviani']","['[CHN] ', '[INA] ']","['21-8', '21-6']",WS - Qualification,20170508
+18,"['Auditya Alpha Hidayat [1]', 'Mohan Krishnan']","['[INA] ', '[IND] ']","['21-11', '21-11']",MS - Qualification,20170508
+19,"['Abdul Karim Hidayat', 'Mohd Nazman Mohd Salleh']","['[INA] ', '[MAS] ']","['21-7', '21-13']",MS - Qualification,20170508
+20,"['Septian Dwi Maulana [14]', 'Choong Yen Tan']","['[INA] ', '[MAS] ']","['21-8', '21-17']",MS - Qualification,20170508
+21,"['Andi Fadel Muhammad', 'Yik Shen Lim']","['[INA] ', '[MAS] ']","['21-19', '21-17']",MS - Qualification,20170508
+22,"['Jun Yan Ng [6]', 'Daniel Hardiana Octavianus']","['[MAS] ', '[INA] ']","['21-16', '21-18']",MS - Qualification,20170508
+23,"['Gatjra Piliang Fiqihila Cupu', 'Chin Yong Chian']","['[INA] ', '[MAS] ']","['21-11', '21-7']",MS - Qualification,20170508
+24,"['Dimitri Han', 'M Fajar Wikajaya [10]']","['[AUS] ', '[INA] ']","['21-19', '21-10']",MS - Qualification,20170508
+25,"['Ming Jun Low', 'Darma Sucipto']","['[MAS] ', '[INA] ']",[],MS - Qualification,20170508
+26,"['Jim Jason Kiazen [3]', 'Colin Hammarberg']","['[INA] ', '[SWE] ']","['21-12', '21-17']",MS - Qualification,20170508
+27,"['Mikael Dwi Putra', 'Nor Aqmal Abu Hassan']","['[INA] ', '[MAS] ']","['21-12', '21-16']",MS - Qualification,20170508
+28,"['Christofel Karinda [13]', 'Wooi Yik Soh']","['[INA] ', '[MAS] ']","['17-21', '21-17', '21-12']",MS - Qualification,20170508
+29,"['Satria Maulana Rahmadi Lubis', 'James Jun Hong']","['[INA] ', '[MAS] ']","['21-14', '21-14']",MS - Qualification,20170508
+30,"['Seng Zoe Yeoh', 'Ramadhani Zulkifli [5]']","['[MAS] ', '[INA] ']","['21-14', '13-21', '21-17']",MS - Qualification,20170508
+31,"['Yonathan Ramlie', 'Wei Jun Ai']","['[INA] ', '[MAS] ']","['21-10', '21-14']",MS - Qualification,20170508
+32,"['Yosua Yosua', 'Datu Mohd Saffuan Nizam Sardik [9]']","['[INA] ', '[MAS] ']","['21-14', '15-21', '21-17']",MS - Qualification,20170508
+33,"['Rahul Bharadwaj B.M', 'Tri Cahya Supriyanto']","['[IND] ', '[INA] ']","['21-12', '21-14']",MS - Qualification,20170508
+34,"['Mukhammad Rizqy Ramadhani', 'Yi Jie Yap']","['[INA] ', '[MAS] ']","['21-14', '21-15']",MS - Qualification,20170508
+35,"['Nyoman Tryadnya Arya Kurniawan [15]', 'Muhammad Syauqi Mohd Puzi']","['[INA] ', '[MAS] ']","['14-21', '21-9', '21-13']",MS - Qualification,20170508
+36,"['Zhang Qi', 'Noval Ramadhan']","['[CHN] ', '[INA] ']","['21-13', '21-8']",MS - Qualification,20170508
+37,"['Vincent Cheng Wei Phuah [7]', 'Reinaldy Arifin']","['[MAS] ', '[INA] ']","['21-4', '21-8']",MS - Qualification,20170508
+38,"['Thanesh Veerappan', 'Saihul Islam']","['[MAS] ', '[INA] ']",[],MS - Qualification,20170508
+39,"['Jing Ping Ng', 'Muhammad Yusuf Maulana [16]']","['[MAS] ', '[INA] ']","['11-21', '21-12', '21-12']",MS - Qualification,20170508
+40,"['Yi Xin Chew', 'Mega Ciputra']","['[MAS] ', '[INA] ']","['21-16', '21-18']",MS - Qualification,20170508
+41,"['Yaafi Mauriza', 'Heng Lin Ngan [4]']","['[INA] ', '[ENG] ']","['21-18', '21-19']",MS - Qualification,20170508
+42,"['Yen Chun Chen', 'Vero Wisnu Kusuma Wardana']","['[TPE] ', '[INA] ']","['21-14', '21-5']",MS - Qualification,20170508
+43,"['Datu Mohd Shah Eizlan Sardik [12]', 'Berata Chandra']","['[MAS] ', '[INA] ']",[],MS - Qualification,20170508
+44,"['Yik Fong Lim', 'Muhamad Rizquloh Alfarizqi']","['[MAS] ', '[INA] ']","['20-22', '21-15', '21-15']",MS - Qualification,20170508
+45,"['Bagas Kristianto Nugroho [8]', 'Ade Resky Dwicahyo']","['[INA] ', '[INA] ']","['20-22', '22-20', '21-14']",MS - Qualification,20170508
+46,"['Chandrikat Abrian', 'Syahzlan Hazwan Salleh']","['[INA] ', '[MAS] ']","['21-8', '21-7']",MS - Qualification,20170508
+47,"['Rezha Akbar Raja Husain', 'Yusriazmi Yusuf [11]']","['[INA] ', '[MAS] ']","['21-9', '21-4']",MS - Qualification,20170508
+48,"['Zhong Rui Goh', 'Ifaldi Nanda Kusuma']","['[MAS] ', '[INA] ']",[],MS - Qualification,20170508
+49,"['Balraj Kajla [2]', 'Enggar Paksi Wijaya']","['[IND] ', '[INA] ']","['21-19', '28-26']",MS - Qualification,20170508
+50,"['Syahzlan Hazwan Salleh', 'Yusriazmi Yusuf', 'Saihul Islam', 'Andrew Susanto']","['[MAS] ', '[MAS] ', '[INA] ', '[INA] ']",[],MD - Qualification,20170508
+51,"['- Hantoro', 'Rendra Wijaya', 'Zakri Idris', 'Mohamad Syazmil Zailan']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['21-12', '24-22']",MD - Qualification,20170508
+52,"['Abhinaya Rakan Adira', 'Devand Riefky Reksadillano', 'Jia Jun Ng', 'Velayutham Roobenraj']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['22-20', '21-16']",MD - Qualification,20170508
+53,"['Rizki Adam', 'Raynald Tangguh Hartanto', 'Ming Che Lu', 'Chun Hsien Yang']","['[INA] ', '[INA] ', '[TPE] ', '[TPE] ']","['18-21', '21-13', '21-18']",MD - Qualification,20170508
+54,"['Alan Muhammad Afwanil Hakim', 'Ade Bagus Sapta Ramadhany', 'Khek Wei Chua', 'Wei Khoon Ong']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['21-14', '16-21', '21-15']",MD - Qualification,20170508
+55,"['Jian Liang Lee', 'Guang Liang Jason Wong', 'Barok Fauzan', 'Muhammad Andi Purnomo']","['[SGP] ', '[SGP] ', '[INA] ', '[INA] ']","['21-13', '21-6']",MD - Qualification,20170508
+56,"['Adnan Maulana', 'Yeremia Erich Yoche Yacob', 'Wei Jun Ai', 'Yi Xin Chew']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['21-16', '21-14']",MD - Qualification,20170508
+57,"['Ren Pengbo', 'Ye Binghong', 'Nor Aqmal Abu Hassan', 'Kai Wun Tee']","['[CHN] ', '[CHN] ', '[MAS] ', '[MAS] ']","['19-21', '21-17', '21-14']",MD - Qualification,20170508
+58,"['Muhd Sharul Nazim Rahman', 'Muhd Sharul Nizam Rahman', 'Tushar Sharma', 'Brijesh Yadav']","['[MAS] ', '[MAS] ', '[IND] ', '[IND] ']","['21-18', '15-21', '23-21']",MD - Qualification,20170508
+59,"['Nur Akmal Mohamed Rumsani', 'Mohd Razlan Shah Mohd Ridzuan Shah', 'Muhammad Muhammad', 'Rustam Faita Ukkas']","['[MAS] ', '[MAS] ', '[INA] ', '[INA] ']","['21-7', '21-5']",MD - Qualification,20170508
+60,"['Thanesh Veerappan', 'Wei Chyi Ti', 'Guang Liang Jason Wong [1]', 'Putri Sari Dewi Citra']","['[MAS] ', '[MAS] ', '[SGP] ', '[SGP] ']",[],XD - Qualification,20170508
+61,"['Liu Zerun', 'Chen Si', 'Daniel Hardiana Octavianus', 'Anissa Syifa Oktaviani']","['[CHN] ', '[CHN] ', '[INA] ', '[INA] ']","['21-15', '21-15']",XD - Qualification,20170508
+62,"['Pramudya Kusumawardana [4]', 'Lisa Ayu Kusumawati', 'Andrew Susanto', 'Maria Natalia Kartika Mainaky']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-17', '16-21', '21-12']",XD - Qualification,20170508
+63,"['Tao Jianqi', 'Wang Xinyuan', 'Muhammad Rafi Rabbani Putra', ""Priskyla Ma'Mudah""]","['[CHN] ', '[CHN] ', '[INA] ', '[INA] ']","['24-22', '21-11']",XD - Qualification,20170508
+64,"['Aditya Muchlis Wicaksono', 'Annisa Mubarokah', 'Li Jinqiu', 'Mai Yiwen']","['[INA] ', '[INA] ', '[CHN] ', '[CHN] ']","['20-22', '22-20', '21-16']",XD - Qualification,20170508
+65,"['Yeremia Erich Yoche Yacob [3]', 'Ribka Sugiarto', 'Renaldi Samosir', 'Hediana Julimarbela']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-19', '15-21', '21-14']",XD - Qualification,20170508
+66,"['Muhammad Fachrikar', 'Zarra Faza Azka', 'Ramsha Ariadita', 'Syarifah Nurmariam']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-17', '21-9']",XD - Qualification,20170508
+67,"['Ou Xuanyi [2]', 'Lin Liu', 'Abhinaya Rakan Adira', 'Dara Sri Yuliani']","['[CHN] ', '[CHN] ', '[INA] ', '[INA] ']","['21-18', '24-22']",XD - Qualification,20170508
+68,"['Zuelaikha Idris', 'Ganis Nur Rahmadani [1]']","['[MAS] ', '[INA] ']",['11-3'],WS - Qualification,20170508
+69,"['Diana Setiyoningsih', 'Wang Xinyuan']","['[INA] ', '[CHN] ']","['23-21', '21-14']",WS - Qualification,20170508
+70,"['Winda Puji Hastuti [3]', 'Wei Ying Boon']","['[INA] ', '[MAS] ']","['21-10', '21-13']",WS - Qualification,20170508
+71,"['Fan Mengyan', 'Anisa Firgie']","['[CHN] ', '[INA] ']","['21-13', '21-5']",WS - Qualification,20170508
+72,"['Chieh Yu', 'Sylvia Kavita Kumares']","['[TPE] ', '[MAS] ']","['21-4', '21-9']",WS - Qualification,20170508
+73,"['Shen Yabing', 'Silvi Wulandari [4]']","['[CHN] ', '[INA] ']","['21-14', '21-13']",WS - Qualification,20170508
+74,"['Huang Qionghui', 'Sekartaji Putri']","['[CHN] ', '[INA] ']","['21-15', '21-6']",WS - Qualification,20170508
+75,"['Pan Lu', 'Vaishnavi Reddy Jakka [2]']","['[CHN] ', '[IND] ']",[],WS - Qualification,20170508
+76,"['Auditya Alpha Hidayat [1]', 'Abdul Karim Hidayat']","['[INA] ', '[INA] ']","['21-14', '21-11']",MS - Qualification,20170508
+77,"['Septian Dwi Maulana [14]', 'Andi Fadel Muhammad']","['[INA] ', '[INA] ']","['21-19', '15-21', '23-21']",MS - Qualification,20170508
+78,"['Gatjra Piliang Fiqihila Cupu', 'Jun Yan Ng [6]']","['[INA] ', '[MAS] ']","['22-20', '19-21', '21-12']",MS - Qualification,20170508
+79,"['Ming Jun Low', 'Dimitri Han']","['[MAS] ', '[AUS] ']","['21-6', '21-10']",MS - Qualification,20170508
+80,"['Jim Jason Kiazen [3]', 'Mikael Dwi Putra']","['[INA] ', '[INA] ']","['21-18', '12-21', '21-14']",MS - Qualification,20170508
+81,"['Christofel Karinda [13]', 'Satria Maulana Rahmadi Lubis']","['[INA] ', '[INA] ']","['20-22', '21-11', '21-15']",MS - Qualification,20170508
+82,"['Seng Zoe Yeoh', 'Yonathan Ramlie']","['[MAS] ', '[INA] ']","['21-11', '17-21', '21-12']",MS - Qualification,20170508
+83,"['Yosua Yosua', 'Rahul Bharadwaj B.M']","['[INA] ', '[IND] ']","['21-15', '21-15']",MS - Qualification,20170508
+84,"['Nyoman Tryadnya Arya Kurniawan [15]', 'Mukhammad Rizqy Ramadhani']","['[INA] ', '[INA] ']","['21-17', '21-19']",MS - Qualification,20170508
+85,"['Zhang Qi', 'Vincent Cheng Wei Phuah [7]']","['[CHN] ', '[MAS] ']","['21-19', '21-15']",MS - Qualification,20170508
+86,"['Jing Ping Ng', 'Thanesh Veerappan']","['[MAS] ', '[MAS] ']","['21-15', '21-17']",MS - Qualification,20170508
+87,"['Yi Xin Chew', 'Yaafi Mauriza']","['[MAS] ', '[INA] ']","['21-14', '13-21', '21-13']",MS - Qualification,20170508
+88,"['Yen Chun Chen', 'Datu Mohd Shah Eizlan Sardik [12]']","['[TPE] ', '[MAS] ']","['21-16', '21-10']",MS - Qualification,20170508
+89,"['Bagas Kristianto Nugroho [8]', 'Yik Fong Lim']","['[INA] ', '[MAS] ']","['21-11', '21-10']",MS - Qualification,20170508
+90,"['Rezha Akbar Raja Husain', 'Chandrikat Abrian']","['[INA] ', '[INA] ']","['21-15', '21-17']",MS - Qualification,20170508
+91,"['Balraj Kajla [2]', 'Zhong Rui Goh']","['[IND] ', '[MAS] ']","['21-13', '21-13']",MS - Qualification,20170508
+92,"['Ou Xuanyi', 'Zhang Qi', '- Hantoro', 'Rendra Wijaya']","['[CHN] ', '[CHN] ', '[INA] ', '[INA] ']","['17-21', '21-19', '21-15']",MD - Qualification,20170508
+93,"['Kevin Ezra [4]', 'Hendra Gustiawan', 'Abhinaya Rakan Adira', 'Devand Riefky Reksadillano']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-17', '21-17']",MD - Qualification,20170508
+94,"['Alan Muhammad Afwanil Hakim', 'Ade Bagus Sapta Ramadhany', 'Rizki Adam', 'Raynald Tangguh Hartanto']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-13', '21-17']",MD - Qualification,20170508
+95,"['Alwi Mahardika [1]', 'Muhd. Alfian Firsada Tern Sangaji', 'Syahzlan Hazwan Salleh', 'Yusriazmi Yusuf']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['21-8', '21-15']",MD - Qualification,20170508
+96,"['Jian Liang Lee', 'Guang Liang Jason Wong', 'Adnan Maulana', 'Yeremia Erich Yoche Yacob']","['[SGP] ', '[SGP] ', '[INA] ', '[INA] ']","['21-17', '18-21', '23-21']",MD - Qualification,20170508
+97,"['Ren Pengbo', 'Ye Binghong', 'Hendra Tandjaya [3]', 'Androw Yunanto']","['[CHN] ', '[CHN] ', '[INA] ', '[INA] ']","['21-16', '21-10']",MD - Qualification,20170508
+98,"['Muhd Sharul Nazim Rahman', 'Muhd Sharul Nizam Rahman', 'Raveno Bagas Prayoga', 'Muhammad Rafi Rabbani Putra']","['[MAS] ', '[MAS] ', '[INA] ', '[INA] ']","['21-10', '21-16']",MD - Qualification,20170508
+99,"['Nur Akmal Mohamed Rumsani', 'Mohd Razlan Shah Mohd Ridzuan Shah', 'Setiawan Hidayat [2]', 'Zachariah Joshiano Sumanti']","['[MAS] ', '[MAS] ', '[INA] ', '[INA] ']","['21-15', '12-21', '21-14']",MD - Qualification,20170508
+100,"['Ruselli Hartawan [1]', 'Huang Qionghui']","['[INA] ', '[CHN] ']","['21-13', '21-16']",WS,20170508
+101,"['Aurum Oktavia Winata', 'Smit Toshniwal']","['[INA] ', '[IND] ']","['21-7', '21-16']",WS,20170508
+102,"['Gabriela Meilani Moningka [8]', 'Zuelaikha Idris']","['[INA] ', '[MAS] ']","['21-9', '21-13']",WS,20170508
+103,"['Selvaduray Kisona', 'Ni Made Pranita Sulistya Devi']","['[MAS] ', '[INA] ']","['21-14', '21-14']",WS,20170508
+104,"['Shen Yabing', 'Febby Angguni [4]']","['[CHN] ', '[INA] ']","['21-15', '24-22']",WS,20170508
+105,"['Ghaida Nurul Ghaniyu', 'Thinaah M.']","['[INA] ', '[MAS] ']","['18-21', '22-20', '21-18']",WS,20170508
+106,"['Natsuki Nidaira [6]', 'Isra Faradilla']","['[JPN] ', '[INA] ']","['21-9', '21-14']",WS,20170508
+107,"['Aprillia Yuswandari', 'Fan Mengyan']","['[INA] ', '[CHN] ']","['21-16', '21-19']",WS,20170508
+108,"['Pan Lu', 'Marsa Indah Salsabila']","['[CHN] ', '[INA] ']","['21-10', '21-13']",WS,20170508
+109,"['Yin Fun Lim [5]', 'Putri Ayu Desiderianti']","['[MAS] ', '[INA] ']","['21-12', '21-9']",WS,20170508
+110,"['Diana Setiyoningsih', 'Intan Dwi Jayanti']","['[INA] ', '[INA] ']","['21-19', '17-21', '21-17']",WS,20170508
+111,"['Gregoria Mariska Tunjung [3]', 'Aakarshi Kashyap']","['[INA] ', '[IND] ']",[],WS,20170508
+112,"['Chieh Yu', 'Olivia Chelin Maria Kambey']","['[TPE] ', '[INA] ']","['21-19', '21-14']",WS,20170508
+113,"['Maharani Sekar Batari [7]', 'Lauren Lim']","['[INA] ', '[AUS] ']","['21-8', '21-13']",WS,20170508
+114,"['Wulan Cahya Utami Sukoputri', 'Winda Puji Hastuti']","['[INA] ', '[INA] ']","['21-15', '21-17']",WS,20170508
+115,"['Ana Rovita', 'Hui Zhen Grace Chua [2]']","['[INA] ', '[SGP] ']","['24-22', '21-15']",WS,20170508
+116,"['Riichi Takeshita [1]', 'Bodhit Joshi']","['[JPN] ', '[IND] ']","['21-17', '21-8']",MS,20170508
+117,"['Balraj Kajla', 'Muhammad Ahdial Octa Khairulloh']","['[IND] ', '[INA] ']","['21-6', '21-10']",MS,20170508
+118,"['Chico Aura Dwi Wardoyo [13]', 'Seng Zoe Yeoh']","['[INA] ', '[MAS] ']","['17-21', '21-19', '21-15']",MS,20170508
+119,"['Ye Binghong', 'Ikhsan Leonardo Imanuel Rumbay']","['[CHN] ', '[INA] ']","['21-15', '21-14']",MS,20170508
+120,"['Enzi Shafira [7]', 'Septian Dwi Maulana']","['[INA] ', '[INA] ']","['21-13', '21-15']",MS,20170508
+121,"['Mahbub Thomi Azizan', 'Mithun Manjunath']","['[INA] ', '[IND] ']","['21-13', '21-10']",MS,20170508
+122,"['Jia Wei Tan [9]', 'Muhammad Elaf Wei Tan']","['[MAS] ', '[SGP] ']","['21-17', '21-14']",MS,20170508
+123,"['Bagas Kristianto Nugroho', 'Handoko Yusuf Wijayanto']","['[INA] ', '[INA] ']","['18-21', '21-14', '21-13']",MS,20170508
+124,"['Vega Vio Nirwanda [4]', 'Rezha Akbar Raja Husain']","['[INA] ', '[INA] ']","['21-17', '18-21', '21-10']",MS,20170508
+125,"['Abdul Kadir Zailani', 'Auditya Alpha Hidayat']","['[INA] ', '[INA] ']","['20-22', '21-14', '21-19']",MS,20170508
+126,"['Lakshya Sen [16]', 'Gatjra Piliang Fiqihila Cupu']","['[IND] ', '[INA] ']","['19-21', '21-17', '21-10']",MS,20170508
+127,"['Karono Suwarno', 'Hin Shun Wong']","['[INA] ', '[ENG] ']","['21-14', '21-12']",MS,20170508
+128,"['Andre Marteen [8]', 'Yen Chun Chen']","['[INA] ', '[TPE] ']","['21-10', '21-13']",MS,20170508
+129,"['Yulianto Ilham Sri', 'Jimmy, Yu Lun Tay']","['[INA] ', '[MAS] ']","['14-21', '21-14', '21-17']",MS,20170508
+130,"['Kiran George', 'Zin Rei Ryan Ng [14]']","['[IND] ', '[SGP] ']","['21-16', '21-17']",MS,20170508
+131,"['Dionysius Hayom Rumbaka', 'Jim Jason Kiazen']","['[INA] ', '[INA] ']","['21-19', '21-12']",MS,20170508
+132,"['Ren Pengbo', 'Riyanto Subagja']","['[CHN] ', '[INA] ']","['15-21', '21-11', '21-5']",MS,20170508
+133,"['June Wei Cheam [10]', 'Kartikey Gulshan Kumar']","['[MAS] ', '[IND] ']","['21-13', '21-11']",MS,20170508
+134,"['Nyoman Tryadnya Arya Kurniawan', 'Androw Yunanto']","['[INA] ', '[INA] ']","['21-16', '21-19']",MS,20170508
+135,"['Wisnu Yuli Prasetyo [6]', 'Chirag Sen']","['[INA] ', '[IND] ']","['21-10', '21-18']",MS,20170508
+136,"['Abhyansh Singh', 'Ming Jun Low']","['[IND] ', '[MAS] ']","['21-11', '21-13']",MS,20170508
+137,"['Reksy Aureza Megananda [12]', 'Kai Wun Tee']","['[INA] ', '[MAS] ']","['21-12', '17-21', '21-11']",MS,20170508
+138,"['Saputra Vicky Angga', 'Jing Ping Ng']","['[INA] ', '[MAS] ']","['19-21', '21-19', '21-11']",MS,20170508
+139,"['Jacob Maliekal [3]', 'Yehezkiel Fritz Mainaky']","['[RSA] ', '[INA] ']","['21-10', '21-10']",MS,20170508
+140,"['Zhang Qi', 'Siddharth Pratap Singh']","['[CHN] ', '[IND] ']","['16-21', '21-14', '21-14']",MS,20170508
+141,"['Qin Zheng', 'Nathaniel Ernestan Sulistyo [15]']","['[CHI] ', '[INA] ']","['21-8', '21-15']",MS,20170508
+142,"['Fathurrahman Fauzi', 'Yi Xin Chew']","['[INA] ', '[MAS] ']","['21-19', '21-7']",MS,20170508
+143,"['Zii Jia Lee [5]', 'Alberto Alvin Yulianto']","['[MAS] ', '[INA] ']","['21-23', '21-11', '21-18']",MS,20170508
+144,"['Christofel Karinda', 'Andrew Susanto']","['[INA] ', '[INA] ']","['21-8', '22-20']",MS,20170508
+145,"['Tri Haryanto', 'Hemanth M.Gowda [11]']","['[INA] ', '[IND] ']","['21-15', '14-21', '21-16']",MS,20170508
+146,"['Muhammad Rehan Diaz', 'Jin Lei Chuang']","['[INA] ', '[SGP] ']","['19-21', '21-15', '21-17']",MS,20170508
+147,"['Shesar Hiren Rhustavito [2]', 'Yosua Yosua']","['[INA] ', '[INA] ']","['21-9', '21-15']",MS,20170508
+148,"['Desiree, Hao Shan Siow', 'Wei Chyi Ti', 'Dinda Dwi Cahyaning', 'Nakhla Aufa Dhiya Ulhaq']","['[MAS] ', '[MAS] ', '[INA] ', '[INA] ']","['12-21', '21-17', '21-18']",WD,20170508
+149,"['Agatha Imanuela', 'Siti Fadia Silva Ramadhanti', 'Weni Anggraini', 'Brigita Marcelia Rumambi']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['16-21', '21-15', '21-10']",WD,20170508
+150,"['Du Peng', 'Pan Lu', 'Febriana Dwipuji Kusuma', 'Ribka Sugiarto']","['[CHN] ', '[CHN] ', '[INA] ', '[INA] ']","['11-21', '21-17', '21-15']",WD,20170508
+151,"['Serena Kani', 'Jauza Fadhila Sugiarto', 'Luo Jin Wen', 'Wang Yu Qiao']","['[INA] ', '[INA] ', '[TPE] ', '[TPE] ']","['21-11', '21-13']",WD,20170508
+152,"['Fie Cho Soong', 'Jing Yi Tee', 'Aisyah Nuraini', 'Enzelica Susanto']","['[MAS] ', '[MAS] ', '[INA] ', '[INA] ']","['21-12', '21-13']",WD,20170508
+153,"['Chen Si', 'Lin Liu', 'Berlian Putri Laksono', ""Priskyla Ma'Mudah""]","['[CHN] ', '[CHN] ', '[INA] ', '[INA] ']","['21-9', '21-15']",WD,20170508
+154,"['Ririn Amelia', 'Surya Della Augustia', 'Fan Mengyan', 'Huang Qionghui']","['[INA] ', '[INA] ', '[CHN] ', '[CHN] ']","['14-21', '21-19', '21-12']",WD,20170508
+155,"['Anggit Warastiwi', 'Dara Sri Yuliani', 'Jee Lynn Lim', 'Sueh Jeou Tan']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['19-21', '22-20', '21-17']",WD,20170508
+156,"['Zarra Faza Azka', 'Masita Mahmudin', 'Winda Puji Hastuti', 'Ana Rovita']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-11', '21-13']",WD,20170508
+157,"['Rahmadhani Hastiyanti Putri [4]', 'Vania Arianti Sukoco', 'Dhea Bunga Anjani', 'Denisa Dwisyawaliah Budiani']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-9', '21-16']",WD,20170508
+158,"['Hediana Julimarbela', 'Vanadia Pranasa', 'Maria Natalia Kartika Mainaky', 'Monika Sandia']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-14', '21-15']",WD,20170508
+159,"['Mai Yiwen', 'Shen Yabing', 'Rayhan Vania Salsabila', 'Putri Andini Wahyuningrum']","['[CHN] ', '[CHN] ', '[INA] ', '[INA] ']","['21-18', '21-18']",WD,20170508
+160,"['Tania Oktaviani Kusumah', 'Nisak Puji Lestari', 'Chang Yu Hsuan', 'Pei-Tzu Lo']","['[INA] ', '[INA] ', '[TPE] ', '[TPE] ']","['21-17', '20-22', '21-15']",WD,20170508
+161,"['Irfan Fadhilah [1]', 'Weni Anggraini', 'Thanesh Veerappan', 'Wei Chyi Ti']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['21-10', '21-14']",XD,20170508
+162,"['M. Robby Darwis', 'Monika Insani', 'Tang Jie Chen', 'Jia Jia Tew']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['21-19', '21-18']",XD,20170508
+163,"['Andika Ramadiansyah', 'Mychelle Crhystine Bandaso', 'Akbar Bintang Cahyono [7]', 'Winny Oktavina Kandow']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-15', '21-17']",XD,20170508
+164,"['Ou Xuanyi', 'Lin Liu', 'Setiawan Hidayat', 'Nadya Melati']","['[CHN] ', '[CHN] ', '[INA] ', '[INA] ']","['13-21', '21-18', '21-19']",XD,20170508
+165,"['Bimo Adi Prakoso [4]', 'Yujia Jin', 'Fernando Kurniawan', 'Dian Fitriani']","['[SGP] ', '[SGP] ', '[INA] ', '[INA] ']","['21-12', '26-24']",XD,20170508
+166,"['Muhammad Fachrikar', 'Zarra Faza Azka', 'Hendra Tandjaya', 'Sekartaji Putri']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-12', '21-14']",XD,20170508
+167,"['Riky Widianto [5]', 'Richi Puspita Dili', 'Wang Sijie', 'Du Peng']","['[INA] ', '[INA] ', '[CHN] ', '[CHN] ']","['15-21', '22-20', '21-19']",XD,20170508
+168,"['Agripinna Prima Rahmanto Putra', 'Dhea Bunga Anjani', 'Aditya Muchlis Wicaksono', 'Annisa Mubarokah']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-11', '21-12']",XD,20170508
+169,"['Rian Swastedian', 'Masita Mahmudin', 'Yeremia Erich Yoche Yacob', 'Ribka Sugiarto']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-19', '21-13']",XD,20170508
+170,"['Rinov Rivaldy [8]', 'Angelica Wiratama', 'Zachariah Joshiano Sumanti', 'Marisa Vania Liske Teneh']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-18', '21-12']",XD,20170508
+171,"['Guang Liang Jason Wong', 'Putri Sari Dewi Citra', 'Tao Jianqi', 'Wang Xinyuan']","['[SGP] ', '[SGP] ', '[CHN] ', '[CHN] ']","['21-23', '21-17', '23-21']",XD,20170508
+172,"['Lukhi Apri Nugroho [3]', 'Ririn Amelia', 'Pang Ron Hoo', 'Yee See Cheah']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['21-18', '17-21', '21-12']",XD,20170508
+173,"['Pramudya Kusumawardana', 'Lisa Ayu Kusumawati', 'Erwin Rendana Purnomo', 'Dewi Setyo Rahmawati']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-18', '25-23']",XD,20170508
+174,"['Rehan Naufal Kusharjanto', 'Siti Fadia Silva Ramadhanti', 'Amri Syahnawi [6]', 'Brigita Marcelia Rumambi']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-17', '21-11']",XD,20170508
+175,"['Fachryza Abimanyu', 'Bunga Fitriani Romadhini', 'Mohd Razlan Shah Mohd Ridzuan Shah', 'Desiree, Hao Shan Siow']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['21-19', '21-15']",XD,20170508
+176,"['Yantoni Edy Saputra [2]', 'Marsheilla Gischa Islami', 'Liu Zerun', 'Chen Si']","['[INA] ', '[INA] ', '[CHN] ', '[CHN] ']","['21-8', '21-10']",XD,20170508
+177,"['Riichi Takeshita [1]', 'Balraj Kajla']","['[JPN] ', '[IND] ']","['21-14', '21-12']",MS,20170508
+178,"['Ye Binghong', 'Chico Aura Dwi Wardoyo [13]']","['[CHN] ', '[INA] ']","['21-14', '21-10']",MS,20170508
+179,"['Enzi Shafira [7]', 'Mahbub Thomi Azizan']","['[INA] ', '[INA] ']","['21-14', '21-8']",MS,20170508
+180,"['Jia Wei Tan [9]', 'Bagas Kristianto Nugroho']","['[MAS] ', '[INA] ']","['21-17', '21-18']",MS,20170508
+181,"['Vega Vio Nirwanda [4]', 'Abdul Kadir Zailani']","['[INA] ', '[INA] ']","['21-12', '21-14']",MS,20170508
+182,"['Lakshya Sen [16]', 'Karono Suwarno']","['[IND] ', '[INA] ']","['14-21', '21-14', '21-18']",MS,20170508
+183,"['Andre Marteen [8]', 'Yulianto Ilham Sri']","['[INA] ', '[INA] ']","['21-11', '21-12']",MS,20170508
+184,"['Dionysius Hayom Rumbaka', 'Kiran George']","['[INA] ', '[IND] ']","['13-21', '21-16', '21-18']",MS,20170508
+185,"['Ren Pengbo', 'June Wei Cheam [10]']","['[CHN] ', '[MAS] ']","['21-15', '21-15']",MS,20170508
+186,"['Wisnu Yuli Prasetyo [6]', 'Nyoman Tryadnya Arya Kurniawan']","['[INA] ', '[INA] ']","['21-16', '21-19']",MS,20170508
+187,"['Reksy Aureza Megananda [12]', 'Abhyansh Singh']","['[INA] ', '[IND] ']","['21-15', '21-11']",MS,20170508
+188,"['Jacob Maliekal [3]', 'Saputra Vicky Angga']","['[RSA] ', '[INA] ']","['22-20', '14-21', '21-6']",MS,20170508
+189,"['Zhang Qi', 'Qin Zheng']","['[CHN] ', '[CHI] ']","['21-10', '22-20']",MS,20170508
+190,"['Zii Jia Lee [5]', 'Fathurrahman Fauzi']","['[MAS] ', '[INA] ']","['23-21', '21-9']",MS,20170508
+191,"['Christofel Karinda', 'Tri Haryanto']","['[INA] ', '[INA] ']","['21-13', '21-19']",MS,20170508
+192,"['Shesar Hiren Rhustavito [2]', 'Muhammad Rehan Diaz']","['[INA] ', '[INA] ']","['21-19', '21-11']",MS,20170508
+193,"['Desiree, Hao Shan Siow', 'Wei Chyi Ti', 'Putri Sari Dewi Citra [1]', 'Yujia Jin']","['[MAS] ', '[MAS] ', '[SGP] ', '[SGP] ']","['13-21', '24-22', '21-9']",WD,20170508
+194,"['Agatha Imanuela', 'Siti Fadia Silva Ramadhanti', 'Du Peng', 'Pan Lu']","['[INA] ', '[INA] ', '[CHN] ', '[CHN] ']","['21-14', '22-20']",WD,20170508
+195,"['Pitha Haningtyas Mentari [3]', 'Virni Putri', 'Serena Kani', 'Jauza Fadhila Sugiarto']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-17', '21-13']",WD,20170508
+196,"['Fie Cho Soong', 'Jing Yi Tee', 'Chen Si', 'Lin Liu']","['[MAS] ', '[MAS] ', '[CHN] ', '[CHN] ']","['21-19', '22-20']",WD,20170508
+197,"['Ririn Amelia', 'Surya Della Augustia', 'Anggit Warastiwi', 'Dara Sri Yuliani']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-13', '21-15']",WD,20170508
+198,"['Zarra Faza Azka', 'Masita Mahmudin', 'Rahmadhani Hastiyanti Putri [4]', 'Vania Arianti Sukoco']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['19-21', '21-8', '21-16']",WD,20170508
+199,"['Mai Yiwen', 'Shen Yabing', 'Hediana Julimarbela', 'Vanadia Pranasa']","['[CHN] ', '[CHN] ', '[INA] ', '[INA] ']","['21-15', '21-23', '21-16']",WD,20170508
+200,"['Dian Fitriani [2]', 'Nadya Melati', 'Tania Oktaviani Kusumah', 'Nisak Puji Lestari']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['23-25', '21-12', '21-14']",WD,20170508
+201,"['Akbar Bintang Cahyono', 'Giovani Dicky Oktavan', 'Jian Yi Lee [1]', 'Zhen Ting Lim']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['21-18', '22-24', '21-12']",MD,20170508
+202,"['Trikusuma Wardhana', 'Riky Widianto', 'Nur Akmal Mohamed Rumsani', 'Mohd Razlan Shah Mohd Ridzuan Shah']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['28-26', '17-21', '21-17']",MD,20170508
+203,"['Kenas Adi Haryanto [6]', 'Moh Reza Pahlevi Isfahani', 'Alwi Mahardika', 'Muhd. Alfian Firsada Tern Sangaji']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-18', '21-16']",MD,20170508
+204,"['Hendrik K Clinton', 'Stefan Indra Hapsara', 'Li Jinqiu', 'Liu Zerun']","['[INA] ', '[INA] ', '[CHN] ', '[CHN] ']","['19-21', '21-14', '21-19']",MD,20170508
+205,"['Sabar Karyaman Gutama [3]', 'Frengky Wijaya Putra', 'Aaron Chia', 'Mohamad Syazmil Idham Zainal Abidin']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['22-20', '21-19']",MD,20170508
+206,"['Willian Astan', 'Wisnu Cahyo Saputro', 'Muhd Sharul Nazim Rahman', 'Muhd Sharul Nizam Rahman']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['19-21', '21-15', '21-15']",MD,20170508
+207,"['Andrei Adistia [5]', 'Yee Jian Kwek', 'Hang Yee Low', 'Chun Kang Shia']","['[INA] ', '[MAS] ', '[MAS] ', '[MAS] ']","['21-15', '14-21', '22-20']",MD,20170508
+208,"['Kevin Ezra', 'Hendra Gustiawan', 'Yonathan Suryatama Dasuki', 'Komandani Maytri Sugiarto']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-16', '26-24']",MD,20170508
+209,"['Ren Pengbo', 'Ye Binghong', 'Muhammad Fachrikar', 'Amri Syahnawi']","['[CHN] ', '[CHN] ', '[INA] ', '[INA] ']","['21-15', '21-14']",MD,20170508
+210,"['Wahyu Nayaka Arya Pangkaryanira [8]', 'Ade Yusuf Santoso', 'Ching Weng Chua', 'Agripinna Prima Rahmanto Putra']","['[INA] ', '[INA] ', '[MAS] ', '[INA] ']","['21-14', '21-14']",MD,20170508
+211,"['Amir Syazwan Al Razi Mohd Shahriman Bakhtir', 'Muhammad Amzzar Zainuddin', 'Rehan Naufal Kusharjanto', 'Rinov Rivaldy']","['[MAS] ', '[MAS] ', '[INA] ', '[INA] ']","['24-26', '21-10', '21-16']",MD,20170508
+212,"['Altof Barriq [4]', 'Reinard Dhanriano', 'Jian Liang Lee', 'Guang Liang Jason Wong']","['[INA] ', '[INA] ', '[SGP] ', '[SGP] ']","['21-19', '21-17']",MD,20170508
+213,"['Calvin Kristanto', 'Bagas Maulana', 'Ou Xuanyi', 'Zhang Qi']","['[INA] ', '[INA] ', '[CHN] ', '[CHN] ']","['21-19', '21-14']",MD,20170508
+214,"['Irfan Fadhilah', 'Rian Swastedian', 'Tao Jianqi [7]', 'Wang Sijie']","['[INA] ', '[INA] ', '[CHN] ', '[CHN] ']","['22-20', '13-21', '21-19']",MD,20170508
+215,"['Markis Kido', 'Reza Dwi Cahyo Purnomo', 'Alan Muhammad Afwanil Hakim', 'Ade Bagus Sapta Ramadhany']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-17', '16-21', '22-20']",MD,20170508
+216,"['Lukhi Apri Nugroho [2]', 'Tedi Supriadi', 'Tang Jie Chen', 'Wei Chong Man']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['21-18', '21-6']",MD,20170508
+217,"['Irfan Fadhilah [1]', 'Weni Anggraini', 'M. Robby Darwis', 'Monika Insani']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-14', '21-12']",XD,20170508
+218,"['Ou Xuanyi', 'Lin Liu', 'Andika Ramadiansyah', 'Mychelle Crhystine Bandaso']","['[CHN] ', '[CHN] ', '[INA] ', '[INA] ']","['21-19', '5-21', '21-13']",XD,20170508
+219,"['Muhammad Fachrikar', 'Zarra Faza Azka', 'Bimo Adi Prakoso [4]', 'Yujia Jin']","['[INA] ', '[INA] ', '[SGP] ', '[SGP] ']","['21-15', '21-18']",XD,20170508
+220,"['Riky Widianto [5]', 'Richi Puspita Dili', 'Agripinna Prima Rahmanto Putra', 'Dhea Bunga Anjani']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-17', '21-19']",XD,20170508
+221,"['Rian Swastedian', 'Masita Mahmudin', 'Rinov Rivaldy [8]', 'Angelica Wiratama']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-18', '21-10']",XD,20170508
+222,"['Lukhi Apri Nugroho [3]', 'Ririn Amelia', 'Guang Liang Jason Wong', 'Putri Sari Dewi Citra']","['[INA] ', '[INA] ', '[SGP] ', '[SGP] ']","['21-14', '21-19']",XD,20170508
+223,"['Rehan Naufal Kusharjanto', 'Siti Fadia Silva Ramadhanti', 'Pramudya Kusumawardana', 'Lisa Ayu Kusumawati']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-13', '21-12']",XD,20170508
+224,"['Yantoni Edy Saputra [2]', 'Marsheilla Gischa Islami', 'Fachryza Abimanyu', 'Bunga Fitriani Romadhini']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['18-21', '21-12', '21-8']",XD,20170508
+225,"['Ruselli Hartawan [1]', 'Aurum Oktavia Winata']","['[INA] ', '[INA] ']","['21-17', '17-21', '21-15']",WS,20170508
+226,"['Selvaduray Kisona', 'Gabriela Meilani Moningka [8]']","['[MAS] ', '[INA] ']","['21-15', '21-19']",WS,20170508
+227,"['Shen Yabing', 'Ghaida Nurul Ghaniyu']","['[CHN] ', '[INA] ']","['18-21', '21-9', '21-9']",WS,20170508
+228,"['Natsuki Nidaira [6]', 'Aprillia Yuswandari']","['[JPN] ', '[INA] ']","['21-19', '21-14']",WS,20170508
+229,"['Pan Lu', 'Yin Fun Lim [5]']","['[CHN] ', '[MAS] ']","['21-15', '21-16']",WS,20170508
+230,"['Gregoria Mariska Tunjung [3]', 'Diana Setiyoningsih']","['[INA] ', '[INA] ']","['20-22', '21-8', '21-17']",WS,20170508
+231,"['Chieh Yu', 'Maharani Sekar Batari [7]']","['[TPE] ', '[INA] ']","['21-11', '21-17']",WS,20170508
+232,"['Wulan Cahya Utami Sukoputri', 'Ana Rovita']","['[INA] ', '[INA] ']","['21-19', '16-21', '21-8']",WS,20170508
+233,"['Ren Pengbo', 'Wisnu Yuli Prasetyo [6]']","['[CHN] ', '[INA] ']","['21-18', '17-21', '21-18']",MS,20170508
+234,"['Riichi Takeshita [1]', 'Ye Binghong']","['[JPN] ', '[CHN] ']","['21-15', '23-25', '21-15']",MS,20170508
+235,"['Enzi Shafira [7]', 'Jia Wei Tan [9]']","['[INA] ', '[MAS] ']","['24-22', '22-20']",MS,20170508
+236,"['Lakshya Sen [16]', 'Vega Vio Nirwanda [4]']","['[IND] ', '[INA] ']","['21-19', '21-12']",MS,20170508
+237,"['Dionysius Hayom Rumbaka', 'Andre Marteen [8]']","['[INA] ', '[INA] ']","['21-15', '21-16']",MS,20170508
+238,"['Zii Jia Lee [5]', 'Zhang Qi']","['[MAS] ', '[CHN] ']","['21-11', '21-12']",MS,20170508
+239,"['Shesar Hiren Rhustavito [2]', 'Christofel Karinda']","['[INA] ', '[INA] ']","['21-9', '21-9']",MS,20170508
+240,"['Reksy Aureza Megananda [12]', 'Jacob Maliekal [3]']","['[INA] ', '[RSA] ']","['17-21', '21-9', '21-11']",MS,20170508
+241,"['Akbar Bintang Cahyono', 'Giovani Dicky Oktavan', 'Trikusuma Wardhana', 'Riky Widianto']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-14', '21-14']",MD,20170508
+242,"['Kenas Adi Haryanto [6]', 'Moh Reza Pahlevi Isfahani', 'Hendrik K Clinton', 'Stefan Indra Hapsara']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-16', '21-14']",MD,20170508
+243,"['Sabar Karyaman Gutama [3]', 'Frengky Wijaya Putra', 'Willian Astan', 'Wisnu Cahyo Saputro']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-18', '20-22', '21-15']",MD,20170508
+244,"['Kevin Ezra', 'Hendra Gustiawan', 'Andrei Adistia [5]', 'Yee Jian Kwek']","['[INA] ', '[INA] ', '[INA] ', '[MAS] ']","['16-21', '21-18', '22-20']",MD,20170508
+245,"['Wahyu Nayaka Arya Pangkaryanira [8]', 'Ade Yusuf Santoso', 'Ren Pengbo', 'Ye Binghong']","['[INA] ', '[INA] ', '[CHN] ', '[CHN] ']","['22-20', '21-18']",MD,20170508
+246,"['Amir Syazwan Al Razi Mohd Shahriman Bakhtir', 'Muhammad Amzzar Zainuddin', 'Altof Barriq [4]', 'Reinard Dhanriano']","['[MAS] ', '[MAS] ', '[INA] ', '[INA] ']","['22-20', '21-13']",MD,20170508
+247,"['Irfan Fadhilah', 'Rian Swastedian', 'Calvin Kristanto', 'Bagas Maulana']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-15', '21-13']",MD,20170508
+248,"['Markis Kido', 'Reza Dwi Cahyo Purnomo', 'Lukhi Apri Nugroho [2]', 'Tedi Supriadi']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-15', '17-21', '21-17']",MD,20170508
+249,"['Natsuki Nidaira [6]', 'Shen Yabing']","['[JPN] ', '[CHN] ']","['21-15', '21-11']",WS,20170508
+250,"['Ou Xuanyi', 'Lin Liu', 'Irfan Fadhilah [1]', 'Weni Anggraini']","['[CHN] ', '[CHN] ', '[INA] ', '[INA] ']","['21-18', '21-18']",XD,20170508
+251,"['Riky Widianto [5]', 'Richi Puspita Dili', 'Muhammad Fachrikar', 'Zarra Faza Azka']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['19-21', '21-12', '21-12']",XD,20170508
+252,"['Lukhi Apri Nugroho [3]', 'Ririn Amelia', 'Rian Swastedian', 'Masita Mahmudin']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-14', '21-16']",XD,20170508
+253,"['Yantoni Edy Saputra [2]', 'Marsheilla Gischa Islami', 'Rehan Naufal Kusharjanto', 'Siti Fadia Silva Ramadhanti']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-19', '21-16']",XD,20170508
+254,"['Selvaduray Kisona', 'Ruselli Hartawan [1]']","['[MAS] ', '[INA] ']","['21-19', '21-17']",WS,20170508
+255,"['Gregoria Mariska Tunjung [3]', 'Pan Lu']","['[INA] ', '[CHN] ']","['21-13', '21-19']",WS,20170508
+256,"['Chieh Yu', 'Wulan Cahya Utami Sukoputri']","['[TPE] ', '[INA] ']","['11-21', '21-15', '22-20']",WS,20170508
+257,"['Enzi Shafira [7]', 'Riichi Takeshita [1]']","['[INA] ', '[JPN] ']","['21-13', '15-21', '21-13']",MS,20170508
+258,"['Dionysius Hayom Rumbaka', 'Lakshya Sen [16]']","['[INA] ', '[IND] ']","['13-21', '24-22', '21-18']",MS,20170508
+259,"['Ren Pengbo', 'Reksy Aureza Megananda [12]']","['[CHN] ', '[INA] ']","['21-14', '15-21', '21-10']",MS,20170508
+260,"['Shesar Hiren Rhustavito [2]', 'Zii Jia Lee [5]']","['[INA] ', '[MAS] ']","['23-21', '21-15']",MS,20170508
+261,"['Agatha Imanuela', 'Siti Fadia Silva Ramadhanti', 'Desiree, Hao Shan Siow', 'Wei Chyi Ti']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['21-9', '28-26']",WD,20170508
+262,"['Fie Cho Soong', 'Jing Yi Tee', 'Pitha Haningtyas Mentari [3]', 'Virni Putri']","['[MAS] ', '[MAS] ', '[INA] ', '[INA] ']","['21-16', '21-18']",WD,20170508
+263,"['Zarra Faza Azka', 'Masita Mahmudin', 'Ririn Amelia', 'Surya Della Augustia']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-13', '21-9']",WD,20170508
+264,"['Dian Fitriani [2]', 'Nadya Melati', 'Mai Yiwen', 'Shen Yabing']","['[INA] ', '[INA] ', '[CHN] ', '[CHN] ']","['21-15', '21-15']",WD,20170508
+265,"['Kenas Adi Haryanto [6]', 'Moh Reza Pahlevi Isfahani', 'Akbar Bintang Cahyono', 'Giovani Dicky Oktavan']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-18', '21-15']",MD,20170508
+266,"['Sabar Karyaman Gutama [3]', 'Frengky Wijaya Putra', 'Kevin Ezra', 'Hendra Gustiawan']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-13', '21-13']",MD,20170508
+267,"['Irfan Fadhilah', 'Rian Swastedian', 'Markis Kido', 'Reza Dwi Cahyo Purnomo']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['20-22', '21-15', '21-18']",MD,20170508
+268,"['Wahyu Nayaka Arya Pangkaryanira [8]', 'Ade Yusuf Santoso', 'Amir Syazwan Al Razi Mohd Shahriman Bakhtir', 'Muhammad Amzzar Zainuddin']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['23-21', '21-19']",MD,20170508
+269,"['Kenas Adi Haryanto [6]', 'Moh Reza Pahlevi Isfahani', 'Sabar Karyaman Gutama [3]', 'Frengky Wijaya Putra']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-15', '21-15']",MD ,20170508
+270,"['Fie Cho Soong', 'Jing Yi Tee', 'Agatha Imanuela', 'Siti Fadia Silva Ramadhanti']","['[MAS] ', '[MAS] ', '[INA] ', '[INA] ']","['21-12', '22-20']",WD ,20170508
+271,"['Dionysius Hayom Rumbaka', 'Enzi Shafira [7]']","['[INA] ', '[INA] ']","['10-21', '21-17', '23-21']",MS ,20170508
+272,"['Selvaduray Kisona', 'Natsuki Nidaira [6]']","['[MAS] ', '[JPN] ']","['15-21', '21-19', '21-14']",WS ,20170508
+273,"['Ou Xuanyi', 'Lin Liu', 'Riky Widianto [5]', 'Richi Puspita Dili']","['[CHN] ', '[CHN] ', '[INA] ', '[INA] ']","['21-13', '22-24', '21-13']",XD ,20170508
+274,"['Lukhi Apri Nugroho [3]', 'Ririn Amelia', 'Yantoni Edy Saputra [2]', 'Marsheilla Gischa Islami']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-15', '21-16']",XD ,20170508
+275,"['Gregoria Mariska Tunjung [3]', 'Chieh Yu']","['[INA] ', '[TPE] ']","['21-14', '21-4']",WS ,20170508
+276,"['Dian Fitriani [2]', 'Nadya Melati', 'Zarra Faza Azka', 'Masita Mahmudin']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['22-20', '21-19']",WD ,20170508
+277,"['Wahyu Nayaka Arya Pangkaryanira [8]', 'Ade Yusuf Santoso', 'Irfan Fadhilah', 'Rian Swastedian']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['15-21', '21-11', '21-18']",MD ,20170508
+278,"['Shesar Hiren Rhustavito [2]', 'Ren Pengbo']","['[INA] ', '[CHN] ']","['21-13', '21-13']",MS ,20170508
+279,"['Selvaduray Kisona', 'Gregoria Mariska Tunjung [3]']","['[MAS] ', '[INA] ']","['10-21', '21-16', '21-19']",WS ,20170508
+280,"['Shesar Hiren Rhustavito [2]', 'Dionysius Hayom Rumbaka']","['[INA] ', '[INA] ']",['11-4'],MS ,20170508
+281,"['Fie Cho Soong', 'Jing Yi Tee', 'Dian Fitriani [2]', 'Nadya Melati']","['[MAS] ', '[MAS] ', '[INA] ', '[INA] ']","['21-16', '16-21', '21-19']",WD ,20170508
+282,"['Wahyu Nayaka Arya Pangkaryanira [8]', 'Ade Yusuf Santoso', 'Kenas Adi Haryanto [6]', 'Moh Reza Pahlevi Isfahani']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-18', '16-21', '21-19']",MD ,20170508
+283,"['Ou Xuanyi', 'Lin Liu', 'Lukhi Apri Nugroho [3]', 'Ririn Amelia']","['[CHN] ', '[CHN] ', '[INA] ', '[INA] ']","['22-20', '21-11']",XD ,20170508
