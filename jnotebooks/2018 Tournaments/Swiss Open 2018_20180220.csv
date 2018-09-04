@@ -1,149 +1,149 @@
-,PLAYERS,COUNTRIES,SCORES,EVENT,match_week
-0,"['Niclas Nohr', 'Sara Thygesen', 'Peter Kaesbauer', 'Olga Konon']","['[DEN] ', '[DEN] ', '[GER] ', '[GER] ']","['21-16', '19-21', '21-11']",XD ,20180220
-1,"['Robin Tabeling', 'Cheryl Seinen', 'Gaetan Mittelheisser', 'Emilie Lefel']","['[NED] ', '[NED] ', '[FRA] ', '[FRA] ']","['19-21', '21-16', '21-9']",XD ,20180220
-2,"['Tinn Isriyanet', 'Pacharapun Chochuwong', 'Jakub Bitman', 'Alzbeta Basova']","['[THA] ', '[THA] ', '[CZE] ', '[CZE] ']","['21-11', '21-11']",XD ,20180220
-3,"['Ben Lane [6]', 'Jessica Pugh', 'Thom Gicquel', 'Delphine Delrue']","['[ENG] ', '[ENG] ', '[FRA] ', '[FRA] ']","['21-19', '21-15']",XD ,20180220
-4,"['Jacco Arends [5]', 'Selena Piek', 'Yang Ming-Tse', 'Sung Shuo Yun']","['[NED] ', '[NED] ', '[TPE] ', '[TPE] ']","['21-16', '21-12']",XD ,20180220
-5,"['Marvin Emil Seidel [4]', 'Linda Efler', 'Pang Ron Hoo', 'Yen Wei Peck']","['[GER] ', '[GER] ', '[MAS] ', '[MAS] ']","['21-18', '22-20']",XD ,20180220
-6,"['Bastian Kersaudy', 'Lea Palermo', 'Oliver Schaller', 'Celine Burkart']","['[FRA] ', '[FRA] ', '[SUI] ', '[SUI] ']","['21-14', '21-16']",XD ,20180220
-7,"['Chang Ko-Chi', 'Cheng Chi Ya', 'Andreas Heinz', 'Annika Horbach']","['[TPE] ', '[TPE] ', '[GER] ', '[GER] ']","['21-13', '19-21', '21-16']",XD ,20180220
-8,"['Ruben Jille', 'Imke Van Der Aar', 'Yehezkiel Fritz Mainaky', 'Lyanny Alessandra Mainaky']","['[NED] ', '[NED] ', '[INA] ', '[INA] ']","['21-14', '21-14']",XD ,20180220
-9,"['Jones Ralfy Jansen', 'Carla Nelte', 'Freek Golinski', 'Lise Jaques']","['[GER] ', '[GER] ', '[BEL] ', '[BEL] ']","['21-9', '21-10']",XD ,20180220
-10,"['Mark Lamsfuss [1]', 'Isabel Herttrich', 'William Villeger', 'Sharone Bauer']","['[GER] ', '[GER] ', '[FRA] ', '[FRA] ']","['21-16', '21-17']",XD ,20180220
-11,"['Marcus Ellis [7]', 'Lauren Smith', 'Mathias Bay-Smidt', 'Rikke Søby']","['[ENG] ', '[ENG] ', '[DEN] ', '[DEN] ']","['21-17', '23-21']",XD ,20180220
-12,"['Mikkel Mikkelsen [8]', 'Mai Surrow', 'Matijs Dierickx', 'Flore Vandenhoucke']","['[DEN] ', '[DEN] ', '[BEL] ', '[BEL] ']","['21-15', '19-21', '21-10']",XD,20180220
-13,"['Josche Zurwonne', 'Eva Janssens', 'Anton Kaisti', 'Jenny Nystrom']","['[GER] ', '[GER] ', '[FIN] ', '[FIN] ']","['17-21', '21-13', '21-16']",XD,20180220
-14,"['Kittisak Namdash', 'Savitree Amitrapai', 'Tang Jie Chen', 'Cheah Yee See']","['[THA] ', '[THA] ', '[MAS] ', '[MAS] ']","['21-9', '21-19']",XD,20180220
-15,"['Stilian Makarski', 'Diana Dimova', 'Mathew Fogarty', 'Isabel Zhong']","['[BUL] ', '[BUL] ', '[USA] ', '[USA] ']","['21-9', '21-15']",XD,20180220
-16,"['Linda Zetchiri [6]', 'Luise Heim']","['[BUL] ', '[GER] ']","['21-18', '18-21', '21-11']",WS,20180220
-17,"['Julie Dawall Jakobsen', 'Vaishnavi Reddy Jakka']","['[DEN] ', '[IND] ']","['21-19', '21-17']",WS,20180220
-18,"['Minatsu Mitani [2]', 'Qi Xuefei']","['[JPN] ', '[CHN] ']","['21-13', '21-7']",WS,20180220
-19,"['Sai Uttejitha Rao Chukka', 'Yvonne Li']","['[IND] ', '[GER] ']","['25-23', '21-16']",WS,20180220
-20,"['Sitthikom Thammasin', 'Takuma Ueda']","['[THA] ', '[JPN] ']","['8-21', '21-13', '21-19']",MS,20180220
-21,"['Kantaphon Wangcharoen', 'Kai Schaefer']","['[THA] ', '[GER] ']","['21-19', '21-14']",MS,20180220
-22,"['Sourabh Verma', 'Misha Zilberman']","['[IND] ', '[ISR] ']","['21-11', '21-18']",MS,20180220
-23,"['Gurusaidutt R. M. V.', 'Ygor Coelho [3]']","['[IND] ', '[BRA] ']","['21-16', '21-11']",MS,20180220
-24,"['Ayako Sakuramoto', 'Yukiko Takahata', 'Maiken Fruergaard [3]', 'Sara Thygesen']","['[JPN] ', '[JPN] ', '[DEN] ', '[DEN] ']","['21-11', '21-19']",WD,20180220
-25,"['Ben Lane', 'Sean Vendy', 'Jacco Arends [7]', 'Ruben Jille']","['[ENG] ', '[ENG] ', '[NED] ', '[NED] ']","['21-12', '15-21', '21-18']",MD,20180220
-26,"['Konstantin Abramov', 'Alexandr Zinchenko', 'Mathieu Gangloff', 'Tom Rodrigues']","['[RUS] ', '[RUS] ', '[FRA] ', '[FRA] ']","['21-15', '21-11']",MD,20180220
-27,"['Inkarat Apisuk', 'Tanupat Viriyangkura', 'Milosz Bochat', 'Adam Cwalina']","['[THA] ', '[THA] ', '[POL] ', '[POL] ']","['21-17', '21-16']",MD,20180220
-28,"['Mariya Mitsova', 'Ronja Stern']","['[BUL] ', '[SUI] ']","['21-18', '21-13']",WS,20180220
-29,"['Marcus Ellis [3]', 'Chris Langridge', 'Daniel Benz', 'Andreas Heinz']","['[ENG] ', '[ENG] ', '[GER] ', '[GER] ']","['21-17', '21-13']",MD,20180220
-30,"['Natsuki Nidaira', 'Ayumi Mine']","['[JPN] ', '[JPN] ']","['21-19', '21-18']",WS,20180220
-31,"['Lise Jaques', 'Flore Vandenhoucke', 'Eva Janssens', 'Judith Petrikowski']","['[BEL] ', '[BEL] ', '[GER] ', '[GER] ']","['21-13', '21-15']",WD,20180220
-32,"['Mia Blichfeldt [3]', 'Debora Jille']","['[DEN] ', '[NED] ']","['21-7', '21-11']",WS,20180220
-33,"['Kento Momota', 'Christian Kirchmayr']","['[JPN] ', '[SUI] ']","['21-11', '21-15']",MS,20180220
-34,"['Isabel Herttrich', 'Carla Nelte', 'Savitree Amitrapai', 'Pacharapun Chochuwong']","['[GER] ', '[GER] ', '[THA] ', '[THA] ']","['21-19', '14-21', '21-17']",WD,20180220
-35,"['Sung Shuo Yun', 'Natalia Perminova']","['[TPE] ', '[RUS] ']","['21-18', '16-21', '21-11']",WS,20180220
-36,"['Mark Caljouw [5]', 'Adam Mendrek']","['[NED] ', '[CZE] ']","['22-24', '21-8', '21-15']",MS,20180220
-37,"['Sameer Verma [2]', 'Thomas Rouxel']","['[IND] ', '[FRA] ']","['22-20', '21-10']",MS,20180220
-38,"['Yu Igarashi', 'Lars Schaenzler']","['[JPN] ', '[GER] ']","['21-15', '21-14']",MS,20180220
-39,"['Selena Piek', 'Cheryl Seinen', 'Sharone Bauer', 'Charlotte Ganci']","['[NED] ', '[NED] ', '[FRA] ', '[FRA] ']","['21-7', '21-7']",WD,20180220
-40,"['Mathias Boe [1]', 'Carsten Mogensen', 'Chun Kang Shia', 'Wee Gieen Tan']","['[DEN] ', '[DEN] ', '[MAS] ', '[MAS] ']","['21-9', '21-19']",MD,20180220
-41,"['Line Højmark Kjaersfeldt [7]', 'Devi Yunita Indah Sari']","['[DEN] ', '[INA] ']","['21-14', '21-9']",WS,20180220
-42,"['Mathias Bay-Smidt', 'Frederik Søgaard', 'Eloi Adam', 'Samy Corvee']","['[DEN] ', '[DEN] ', '[FRA] ', '[FRA] ']","['21-12', '21-14']",MD,20180220
-43,"['Evgeniya Kosetskaya [4]', 'Mukherjee Riya']","['[RUS] ', '[IND] ']","['13-21', '21-12', '21-17']",WS,20180220
-44,"['Chloe Birch', 'Chang Ya Lan']","['[ENG] ', '[TPE] ']","['21-17', '21-17']",WS,20180220
-45,"['Kasper Antonsen', 'Niclas Nohr', 'Julien Scheiwiller', 'Iztok Utrosa']","['[DEN] ', '[DEN] ', '[SUI] ', '[SLO] ']","['21-12', '21-13']",MD,20180220
-46,"['Lyanny Alessandra Mainaky', 'Sri Krishna Priya Kudaravalli']","['[INA] ', '[IND] ']","['21-11', '21-15']",WS,20180220
-47,"['Rajiv Ouseph [1]', 'Abhishek Yelegar']","['[ENG] ', '[IND] ']","['21-14', '21-13']",MS,20180220
-48,"['Beatriz Corrales [5]', 'Isabel Zhong']","['[ESP] ', '[USA] ']","['21-17', '21-14']",WS,20180220
-49,"['Koki Watanabe', 'Lucas Claerbout']","['[JPN] ', '[FRA] ']","['14-21', '21-13', '21-14']",MS,20180220
-50,"['Arnaud Merkle', 'Emil Holst [6]']","['[FRA] ', '[DEN] ']","['21-16', '12-21', '22-20']",MS,20180220
-51,"['Lucas Corvee', 'Riichi Takeshita']","['[FRA] ', '[JPN] ']","['22-20', '21-11']",MS,20180220
-52,"['Linda Efler', 'Olga Konon', 'Celine Burkart', 'Annika Horbach']","['[GER] ', '[GER] ', '[SUI] ', '[GER] ']","['21-7', '21-8']",WD,20180220
-53,"['Alzbeta Basova', 'Michaela Fuchsova', 'Silvia Garino', 'Lisa Iversen']","['[CZE] ', '[CZE] ', '[ITA] ', '[ITA] ']","['21-13', '21-16']",WD,20180220
-54,"['Aaron Chia', 'Wooi Yik Soh', 'Titon Gustaman', 'Stilian Makarski']","['[MAS] ', '[MAS] ', '[INA] ', '[BUL] ']","['16-21', '21-19', '21-7']",MD,20180220
-55,"['Tinn Isriyanet', 'Kittisak Namdash', 'Matijs Dierickx', 'Freek Golinski']","['[THA] ', '[THA] ', '[BEL] ', '[BEL] ']","['21-17', '21-14']",MD,20180220
-56,"['Mark Lamsfuss [8]', 'Marvin Emil Seidel', 'Kenji Lovang', 'William Villeger']","['[GER] ', '[GER] ', '[FRA] ', '[FRA] ']","['21-8', '21-14']",MD,20180220
-57,"['Mathias Christiansen [2]', 'David Daugaard', 'Peter Kaesbauer', 'Johannes Pistorius']","['[DEN] ', '[DEN] ', '[GER] ', '[GER] ']","['21-12', '21-8']",MD,20180220
-58,"['Lauren Smith', 'Sarah Walker', 'Aline Müller', 'Jenjira Stadelmann']","['[ENG] ', '[ENG] ', '[SUI] ', '[SUI] ']","['21-8', '21-15']",WD,20180220
-59,"['Julie Finne-Ipsen', 'Rikke Søby', 'Cheng Chi Ya', 'Sung Shuo Yun']","['[DEN] ', '[DEN] ', '[TPE] ', '[TPE] ']","['21-19', '21-18']",WD,20180220
-60,"['Sayaka Takahashi [1]', 'Anura Prabhudesai']","['[JPN] ', '[IND] ']","['21-12', '21-12']",WS,20180220
-61,"['Natalia Koch Rohde [8]', 'Ksenia Polikarpova']","['[DEN] ', '[ISR] ']","['21-14', '21-11']",WS,20180220
-62,"['Sabrina Jaquet', 'Ayla Huser']","['[SUI] ', '[SUI] ']","['21-13', '20-22', '21-11']",WS,20180220
-63,"['Suppanyu Avihingsanon [4]', 'Kim Bruun']","['[THA] ', '[DEN] ']","['21-11', '19-21', '21-19']",MS,20180220
-64,"['Joo Ven Soong', 'Adulrach Namkul']","['[MAS] ', '[THA] ']","['24-22', '21-19']",MS,20180220
-65,"['Jan O Jorgensen', 'Lee Zii Jia [8]']","['[DEN] ', '[MAS] ']","['21-15', '21-14']",MS,20180220
-66,"['Iskandar Zulkarnain', 'Eetu Heino']","['[MAS] ', '[FIN] ']","['21-23', '21-14', '21-10']",MS,20180220
-67,"['Emilie Lefel', 'Anne Tran', 'Susanne Keller', 'Yvonne Keller']","['[FRA] ', '[FRA] ', '[SUI] ', '[SUI] ']","['21-3', '21-14']",WD,20180220
-68,"['Chloe Birch', 'Jessica Pugh', 'Debora Jille', 'Imke Van Der Aar']","['[ENG] ', '[ENG] ', '[NED] ', '[NED] ']","['21-13', '21-16']",WD,20180220
-69,"['Maneepong Jongjit', 'Nanthakarn Yordphaisong', 'Maxime Briot', 'Fabien Delrue']","['[THA] ', '[THA] ', '[FRA] ', '[FRA] ']","['21-12', '21-16']",MD,20180220
-70,"['Jones Ralfy Jansen [4]', 'Josche Zurwonne', 'Kapil Chaudhary', 'Brijesh Yadav']","['[GER] ', '[GER] ', '[IND] ', '[IND] ']","['21-8', '21-15']",MD,20180220
-71,"['Peter Briggs [6]', 'Tom Wolfenden', 'Mathias Bonny', 'Oliver Schaller']","['[ENG] ', '[ENG] ', '[SUI] ', '[SUI] ']","['21-10', '17-21', '21-15']",MD,20180220
-72,"['Arjun M.R.', 'Ramchandran Shlok', 'Po Li-Wei', 'Yang Ming-Tse']","['[IND] ', '[IND] ', '[TPE] ', '[TPE] ']","['21-17', '14-21', '21-15']",MD,20180220
-73,"['Linda Zetchiri [6]', 'Julie Dawall Jakobsen']","['[BUL] ', '[DEN] ']","['21-15', '21-12']",WS ,20180220
-74,"['Kantaphon Wangcharoen', 'Sitthikom Thammasin']","['[THA] ', '[THA] ']","['22-20', '18-21', '11-10']",MS ,20180220
-75,"['Selena Piek', 'Cheryl Seinen', 'Lise Jaques', 'Flore Vandenhoucke']","['[NED] ', '[NED] ', '[BEL] ', '[BEL] ']","['21-10', '21-12']",WD ,20180220
-76,"['Linda Efler', 'Olga Konon', 'Alzbeta Basova', 'Michaela Fuchsova']","['[GER] ', '[GER] ', '[CZE] ', '[CZE] ']","['21-13', '15-21', '21-8']",WD ,20180220
-77,"['Gurusaidutt R. M. V.', 'Sourabh Verma']","['[IND] ', '[IND] ']","['21-18', '21-14']",MS ,20180220
-78,"['Kasper Antonsen', 'Niclas Nohr', 'Mathias Bay-Smidt', 'Frederik Søgaard']","['[DEN] ', '[DEN] ', '[DEN] ', '[DEN] ']","['19-21', '21-13', '21-16']",MD ,20180220
-79,"['Maneepong Jongjit', 'Nanthakarn Yordphaisong', 'Peter Briggs [6]', 'Tom Wolfenden']","['[THA] ', '[THA] ', '[ENG] ', '[ENG] ']","['21-19', '21-16']",MD ,20180220
-80,"['Ayako Sakuramoto', 'Yukiko Takahata', 'Isabel Herttrich', 'Carla Nelte']","['[JPN] ', '[JPN] ', '[GER] ', '[GER] ']","['21-7', '19-21', '21-12']",WD ,20180220
-81,"['Line Højmark Kjaersfeldt [7]', 'Sung Shuo Yun']","['[DEN] ', '[TPE] ']","['21-18', '22-20']",WS ,20180220
-82,"['Lucas Corvee', 'Arnaud Merkle']","['[FRA] ', '[FRA] ']","['18-21', '21-13', '22-20']",MS ,20180220
-83,"['Suppanyu Avihingsanon [4]', 'Joo Ven Soong']","['[THA] ', '[MAS] ']","['22-20', '21-14']",MS ,20180220
-84,"['Jan O Jorgensen', 'Iskandar Zulkarnain']","['[DEN] ', '[MAS] ']","['21-19', '21-18']",MS ,20180220
-85,"['Tinn Isriyanet', 'Kittisak Namdash', 'Mathias Christiansen [2]', 'David Daugaard']","['[THA] ', '[THA] ', '[DEN] ', '[DEN] ']","['21-16', '16-21', '17-16']",MD ,20180220
-86,"['Lauren Smith', 'Sarah Walker', 'Delphine Delrue', 'Lea Palermo']","['[ENG] ', '[ENG] ', '[FRA] ', '[FRA] ']","['19-21', '25-23', '21-15']",WD ,20180220
-87,"['Jones Ralfy Jansen', 'Carla Nelte', 'Tinn Isriyanet', 'Pacharapun Chochuwong']","['[GER] ', '[GER] ', '[THA] ', '[THA] ']","['23-21', '21-18']",XD ,20180220
-88,"['Sayaka Takahashi [1]', 'Lyanny Alessandra Mainaky']","['[JPN] ', '[INA] ']","['21-11', '21-11']",WS ,20180220
-89,"['Kento Momota', 'Mark Caljouw [5]']","['[JPN] ', '[NED] ']","['21-15', '21-16']",MS ,20180220
-90,"['Sameer Verma [2]', 'Yu Igarashi']","['[IND] ', '[JPN] ']","['11-21', '21-18', '21-16']",MS ,20180220
-91,"['Mikkel Mikkelsen [8]', 'Mai Surrow', 'Josche Zurwonne', 'Eva Janssens']","['[DEN] ', '[DEN] ', '[GER] ', '[GER] ']","['16-21', '21-19', '21-9']",XD ,20180220
-92,"['Natsuki Nidaira', 'Mia Blichfeldt [3]']","['[JPN] ', '[DEN] ']","['21-17', '21-19']",WS ,20180220
-93,"['Robin Tabeling', 'Cheryl Seinen', 'Kittisak Namdash', 'Savitree Amitrapai']","['[NED] ', '[NED] ', '[THA] ', '[THA] ']","['16-21', '21-19', '21-11']",XD ,20180220
-94,"['Ben Lane', 'Sean Vendy', 'Konstantin Abramov', 'Alexandr Zinchenko']","['[ENG] ', '[ENG] ', '[RUS] ', '[RUS] ']","['21-17', '21-15']",MD ,20180220
-95,"['Jacco Arends [5]', 'Selena Piek', 'Niclas Nohr', 'Sara Thygesen']","['[NED] ', '[NED] ', '[DEN] ', '[DEN] ']","['21-18', '9-21', '21-15']",XD ,20180220
-96,"['Natalia Koch Rohde [8]', 'Sabrina Jaquet']","['[DEN] ', '[SUI] ']","['21-19', '11-21', '21-19']",WS ,20180220
-97,"['Koki Watanabe', 'Rajiv Ouseph [1]']","['[JPN] ', '[ENG] ']","['20-22', '21-17', '21-14']",MS ,20180220
-98,"['Ben Lane [6]', 'Jessica Pugh', 'Stilian Makarski', 'Diana Dimova']","['[ENG] ', '[ENG] ', '[BUL] ', '[BUL] ']","['23-21', '21-4']",XD ,20180220
-99,"['Nami Matsuyama', 'Chiharu Shida', 'Anastasia Chervyakova [2]', 'Olga Morozova']","['[JPN] ', '[JPN] ', '[RUS] ', '[RUS] ']","['21-18', '21-12']",WD ,20180220
-100,"['Mark Lamsfuss [1]', 'Isabel Herttrich', 'Ruben Jille', 'Imke Van Der Aar']","['[GER] ', '[GER] ', '[NED] ', '[NED] ']","['17-21', '21-18', '25-23']",XD ,20180220
-101,"['Minatsu Mitani [2]', 'Sai Uttejitha Rao Chukka']","['[JPN] ', '[IND] ']","['21-8', '21-13']",WS ,20180220
-102,"['Evgeniya Kosetskaya [4]', 'Chloe Birch']","['[RUS] ', '[ENG] ']","['21-17', '21-16']",WS ,20180220
-103,"['Emilie Lefel', 'Anne Tran', 'Misato Aratama [4]', 'Akane Watanabe']","['[FRA] ', '[FRA] ', '[JPN] ', '[JPN] ']","['14-21', '21-13', '21-17']",WD ,20180220
-104,"['Beatriz Corrales [5]', 'Mariya Mitsova']","['[ESP] ', '[BUL] ']","['21-15', '14-21', '21-18']",WS ,20180220
-105,"['Marcus Ellis [7]', 'Lauren Smith', 'Chang Ko-Chi', 'Cheng Chi Ya']","['[ENG] ', '[ENG] ', '[TPE] ', '[TPE] ']","['21-13', '9-21', '21-15']",XD ,20180220
-106,"['Chloe Birch', 'Jessica Pugh', 'Ainoa Desmons', 'Juliette Moinard']","['[ENG] ', '[ENG] ', '[FRA] ', '[FRA] ']","['21-8', '21-10']",WD ,20180220
-107,"['Aaron Chia', 'Wooi Yik Soh', 'Mark Lamsfuss [8]', 'Marvin Emil Seidel']","['[MAS] ', '[MAS] ', '[GER] ', '[GER] ']","['21-19', '21-15']",MD ,20180220
-108,"['Gabriela Stoeva [1]', 'Stefani Stoeva', 'Julie Finne-Ipsen', 'Rikke Søby']","['[BUL] ', '[BUL] ', '[DEN] ', '[DEN] ']","['21-9', '21-12']",WD ,20180220
-109,"['Arjun M.R.', 'Ramchandran Shlok', 'Jones Ralfy Jansen [4]', 'Josche Zurwonne']","['[IND] ', '[IND] ', '[GER] ', '[GER] ']","['21-13', '21-17']",MD ,20180220
-110,"['Mathias Boe [1]', 'Carsten Mogensen', 'Francis Alwin', 'K. Nandagopal']","['[DEN] ', '[DEN] ', '[IND] ', '[IND] ']","['21-14', '21-13']",MD ,20180220
-111,"['Marvin Emil Seidel [4]', 'Linda Efler', 'Bastian Kersaudy', 'Lea Palermo']","['[GER] ', '[GER] ', '[FRA] ', '[FRA] ']","['22-20', '17-21', '21-12']",XD ,20180220
-112,"['Marcus Ellis [3]', 'Chris Langridge', 'Inkarat Apisuk', 'Tanupat Viriyangkura']","['[ENG] ', '[ENG] ', '[THA] ', '[THA] ']","['21-11', '21-9']",MD ,20180220
-113,"['Nami Matsuyama', 'Chiharu Shida', 'Lauren Smith', 'Sarah Walker']","['[JPN] ', '[JPN] ', '[ENG] ', '[ENG] ']","['21-9', '21-19']",WD ,20180220
-114,"['Jones Ralfy Jansen', 'Carla Nelte', 'Mikkel Mikkelsen [8]', 'Mai Surrow']","['[GER] ', '[GER] ', '[DEN] ', '[DEN] ']","['21-19', '21-15']",XD ,20180220
-115,"['Gabriela Stoeva [1]', 'Stefani Stoeva', 'Linda Efler', 'Olga Konon']","['[BUL] ', '[BUL] ', '[GER] ', '[GER] ']","['21-11', '21-8']",WD ,20180220
-116,"['Kantaphon Wangcharoen', 'Gurusaidutt R. M. V.']","['[THA] ', '[IND] ']","['21-8', '21-15']",MS ,20180220
-117,"['Evgeniya Kosetskaya [4]', 'Natalia Koch Rohde [8]']","['[RUS] ', '[DEN] ']","['18-21', '21-13', '11-3']",WS ,20180220
-118,"['Tinn Isriyanet', 'Kittisak Namdash', 'Aaron Chia', 'Wooi Yik Soh']","['[THA] ', '[THA] ', '[MAS] ', '[MAS] ']","['21-18', '21-13']",MD ,20180220
-119,"['Lucas Corvee', 'Koki Watanabe']","['[FRA] ', '[JPN] ']","['21-14', '19-21', '21-13']",MS ,20180220
-120,"['Marcus Ellis [7]', 'Lauren Smith', 'Marvin Emil Seidel [4]', 'Linda Efler']","['[ENG] ', '[ENG] ', '[GER] ', '[GER] ']","['21-15', '21-14']",XD ,20180220
-121,"['Sameer Verma [2]', 'Kento Momota']","['[IND] ', '[JPN] ']","['21-17', '21-16']",MS ,20180220
-122,"['Maneepong Jongjit', 'Nanthakarn Yordphaisong', 'Arjun M.R.', 'Ramchandran Shlok']","['[THA] ', '[THA] ', '[IND] ', '[IND] ']","['21-13', '21-18']",MD ,20180220
-123,"['Natsuki Nidaira', 'Beatriz Corrales [5]']","['[JPN] ', '[ESP] ']","['21-8', '21-17']",WS ,20180220
-124,"['Ayako Sakuramoto', 'Yukiko Takahata', 'Selena Piek', 'Cheryl Seinen']","['[JPN] ', '[JPN] ', '[NED] ', '[NED] ']","['21-13', '21-14']",WD ,20180220
-125,"['Marcus Ellis [3]', 'Chris Langridge', 'Ben Lane', 'Sean Vendy']","['[ENG] ', '[ENG] ', '[ENG] ', '[ENG] ']","['15-21', '21-13', '23-21']",MD ,20180220
-126,"['Minatsu Mitani [2]', 'Linda Zetchiri [6]']","['[JPN] ', '[BUL] ']","['21-17', '22-20']",WS ,20180220
-127,"['Emilie Lefel', 'Anne Tran', 'Chloe Birch', 'Jessica Pugh']","['[FRA] ', '[FRA] ', '[ENG] ', '[ENG] ']","['21-17', '21-13']",WD ,20180220
-128,"['Mark Lamsfuss [1]', 'Isabel Herttrich', 'Jacco Arends [5]', 'Selena Piek']","['[GER] ', '[GER] ', '[NED] ', '[NED] ']","['21-8', '21-19']",XD ,20180220
-129,"['Mathias Boe [1]', 'Carsten Mogensen', 'Kasper Antonsen', 'Niclas Nohr']","['[DEN] ', '[DEN] ', '[DEN] ', '[DEN] ']","['21-15', '16-21', '21-14']",MD ,20180220
-130,"['Sayaka Takahashi [1]', 'Line Højmark Kjaersfeldt [7]']","['[JPN] ', '[DEN] ']","['21-14', '21-13']",WS ,20180220
-131,"['Ben Lane [6]', 'Jessica Pugh', 'Robin Tabeling', 'Cheryl Seinen']","['[ENG] ', '[ENG] ', '[NED] ', '[NED] ']","['21-18', '22-20']",XD ,20180220
-132,"['Jan O Jorgensen', 'Suppanyu Avihingsanon [4]']","['[DEN] ', '[THA] ']","['21-13', '21-16']",MS ,20180220
-133,"['Ayako Sakuramoto', 'Yukiko Takahata', 'Nami Matsuyama', 'Chiharu Shida']","['[JPN] ', '[JPN] ', '[JPN] ', '[JPN] ']","['21-18', '18-21', '21-18']",WD ,20180220
-134,"['Sayaka Takahashi [1]', 'Evgeniya Kosetskaya [4]']","['[JPN] ', '[RUS] ']","['21-6', '21-18']",WS ,20180220
-135,"['Mathias Boe [1]', 'Carsten Mogensen', 'Marcus Ellis [3]', 'Chris Langridge']","['[DEN] ', '[DEN] ', '[ENG] ', '[ENG] ']","['21-15', '21-14']",MD ,20180220
-136,"['Sameer Verma [2]', 'Kantaphon Wangcharoen']","['[IND] ', '[THA] ']","['21-14', '11-21', '21-12']",MS ,20180220
-137,"['Mark Lamsfuss [1]', 'Isabel Herttrich', 'Jones Ralfy Jansen', 'Carla Nelte']","['[GER] ', '[GER] ', '[GER] ', '[GER] ']","['21-16', '22-20']",XD ,20180220
-138,"['Tinn Isriyanet', 'Kittisak Namdash', 'Maneepong Jongjit', 'Nanthakarn Yordphaisong']","['[THA] ', '[THA] ', '[THA] ', '[THA] ']","['27-25', '16-21', '21-16']",MD ,20180220
-139,"['Natsuki Nidaira', 'Minatsu Mitani [2]']","['[JPN] ', '[JPN] ']",[],WS ,20180220
-140,"['Gabriela Stoeva [1]', 'Stefani Stoeva', 'Emilie Lefel', 'Anne Tran']","['[BUL] ', '[BUL] ', '[FRA] ', '[FRA] ']","['21-16', '21-12']",WD minimum 45 minutes after match 6,20180220
-141,"['Marcus Ellis [7]', 'Lauren Smith', 'Ben Lane [6]', 'Jessica Pugh']","['[ENG] ', '[ENG] ', '[ENG] ', '[ENG] ']","['21-8', '21-4']",XD ,20180220
-142,"['Jan O Jorgensen', 'Lucas Corvee']","['[DEN] ', '[FRA] ']","['21-14', '12-21', '21-18']",MS ,20180220
-143,"['Sayaka Takahashi [1]', 'Natsuki Nidaira']","['[JPN] ', '[JPN] ']","['21-12', '21-18']",WS ,20180220
-144,"['Mark Lamsfuss [1]', 'Isabel Herttrich', 'Marcus Ellis [7]', 'Lauren Smith']","['[GER] ', '[GER] ', '[ENG] ', '[ENG] ']","['22-20', '21-19']",XD ,20180220
-145,"['Ayako Sakuramoto', 'Yukiko Takahata', 'Gabriela Stoeva [1]', 'Stefani Stoeva']","['[JPN] ', '[JPN] ', '[BUL] ', '[BUL] ']","['19-21', '21-15', '21-18']",WD ,20180220
-146,"['Sameer Verma [2]', 'Jan O Jorgensen']","['[IND] ', '[DEN] ']","['21-15', '21-13']",MS ,20180220
-147,"['Mathias Boe [1]', 'Carsten Mogensen', 'Tinn Isriyanet', 'Kittisak Namdash']","['[DEN] ', '[DEN] ', '[THA] ', '[THA] ']","['21-15', '21-11']",MD ,20180220
+,PLAYERS,COUNTRIES,SCORES,EVENT,match_week,match_location
+0,"['Niclas Nohr', 'Sara Thygesen', 'Peter Kaesbauer', 'Olga Konon']","['[DEN] ', '[DEN] ', '[GER] ', '[GER] ']","['21-16', '19-21', '21-11']",XD ,20180220,"Basel, Switzerland"
+1,"['Robin Tabeling', 'Cheryl Seinen', 'Gaetan Mittelheisser', 'Emilie Lefel']","['[NED] ', '[NED] ', '[FRA] ', '[FRA] ']","['19-21', '21-16', '21-9']",XD ,20180220,"Basel, Switzerland"
+2,"['Tinn Isriyanet', 'Pacharapun Chochuwong', 'Jakub Bitman', 'Alzbeta Basova']","['[THA] ', '[THA] ', '[CZE] ', '[CZE] ']","['21-11', '21-11']",XD ,20180220,"Basel, Switzerland"
+3,"['Ben Lane [6]', 'Jessica Pugh', 'Thom Gicquel', 'Delphine Delrue']","['[ENG] ', '[ENG] ', '[FRA] ', '[FRA] ']","['21-19', '21-15']",XD ,20180220,"Basel, Switzerland"
+4,"['Jacco Arends [5]', 'Selena Piek', 'Yang Ming-Tse', 'Sung Shuo Yun']","['[NED] ', '[NED] ', '[TPE] ', '[TPE] ']","['21-16', '21-12']",XD ,20180220,"Basel, Switzerland"
+5,"['Marvin Emil Seidel [4]', 'Linda Efler', 'Pang Ron Hoo', 'Yen Wei Peck']","['[GER] ', '[GER] ', '[MAS] ', '[MAS] ']","['21-18', '22-20']",XD ,20180220,"Basel, Switzerland"
+6,"['Bastian Kersaudy', 'Lea Palermo', 'Oliver Schaller', 'Celine Burkart']","['[FRA] ', '[FRA] ', '[SUI] ', '[SUI] ']","['21-14', '21-16']",XD ,20180220,"Basel, Switzerland"
+7,"['Chang Ko-Chi', 'Cheng Chi Ya', 'Andreas Heinz', 'Annika Horbach']","['[TPE] ', '[TPE] ', '[GER] ', '[GER] ']","['21-13', '19-21', '21-16']",XD ,20180220,"Basel, Switzerland"
+8,"['Ruben Jille', 'Imke Van Der Aar', 'Yehezkiel Fritz Mainaky', 'Lyanny Alessandra Mainaky']","['[NED] ', '[NED] ', '[INA] ', '[INA] ']","['21-14', '21-14']",XD ,20180220,"Basel, Switzerland"
+9,"['Jones Ralfy Jansen', 'Carla Nelte', 'Freek Golinski', 'Lise Jaques']","['[GER] ', '[GER] ', '[BEL] ', '[BEL] ']","['21-9', '21-10']",XD ,20180220,"Basel, Switzerland"
+10,"['Mark Lamsfuss [1]', 'Isabel Herttrich', 'William Villeger', 'Sharone Bauer']","['[GER] ', '[GER] ', '[FRA] ', '[FRA] ']","['21-16', '21-17']",XD ,20180220,"Basel, Switzerland"
+11,"['Marcus Ellis [7]', 'Lauren Smith', 'Mathias Bay-Smidt', 'Rikke Søby']","['[ENG] ', '[ENG] ', '[DEN] ', '[DEN] ']","['21-17', '23-21']",XD ,20180220,"Basel, Switzerland"
+12,"['Mikkel Mikkelsen [8]', 'Mai Surrow', 'Matijs Dierickx', 'Flore Vandenhoucke']","['[DEN] ', '[DEN] ', '[BEL] ', '[BEL] ']","['21-15', '19-21', '21-10']",XD,20180220,"Basel, Switzerland"
+13,"['Josche Zurwonne', 'Eva Janssens', 'Anton Kaisti', 'Jenny Nystrom']","['[GER] ', '[GER] ', '[FIN] ', '[FIN] ']","['17-21', '21-13', '21-16']",XD,20180220,"Basel, Switzerland"
+14,"['Kittisak Namdash', 'Savitree Amitrapai', 'Tang Jie Chen', 'Cheah Yee See']","['[THA] ', '[THA] ', '[MAS] ', '[MAS] ']","['21-9', '21-19']",XD,20180220,"Basel, Switzerland"
+15,"['Stilian Makarski', 'Diana Dimova', 'Mathew Fogarty', 'Isabel Zhong']","['[BUL] ', '[BUL] ', '[USA] ', '[USA] ']","['21-9', '21-15']",XD,20180220,"Basel, Switzerland"
+16,"['Linda Zetchiri [6]', 'Luise Heim']","['[BUL] ', '[GER] ']","['21-18', '18-21', '21-11']",WS,20180220,"Basel, Switzerland"
+17,"['Julie Dawall Jakobsen', 'Vaishnavi Reddy Jakka']","['[DEN] ', '[IND] ']","['21-19', '21-17']",WS,20180220,"Basel, Switzerland"
+18,"['Minatsu Mitani [2]', 'Qi Xuefei']","['[JPN] ', '[CHN] ']","['21-13', '21-7']",WS,20180220,"Basel, Switzerland"
+19,"['Sai Uttejitha Rao Chukka', 'Yvonne Li']","['[IND] ', '[GER] ']","['25-23', '21-16']",WS,20180220,"Basel, Switzerland"
+20,"['Sitthikom Thammasin', 'Takuma Ueda']","['[THA] ', '[JPN] ']","['8-21', '21-13', '21-19']",MS,20180220,"Basel, Switzerland"
+21,"['Kantaphon Wangcharoen', 'Kai Schaefer']","['[THA] ', '[GER] ']","['21-19', '21-14']",MS,20180220,"Basel, Switzerland"
+22,"['Sourabh Verma', 'Misha Zilberman']","['[IND] ', '[ISR] ']","['21-11', '21-18']",MS,20180220,"Basel, Switzerland"
+23,"['Gurusaidutt R. M. V.', 'Ygor Coelho [3]']","['[IND] ', '[BRA] ']","['21-16', '21-11']",MS,20180220,"Basel, Switzerland"
+24,"['Ayako Sakuramoto', 'Yukiko Takahata', 'Maiken Fruergaard [3]', 'Sara Thygesen']","['[JPN] ', '[JPN] ', '[DEN] ', '[DEN] ']","['21-11', '21-19']",WD,20180220,"Basel, Switzerland"
+25,"['Ben Lane', 'Sean Vendy', 'Jacco Arends [7]', 'Ruben Jille']","['[ENG] ', '[ENG] ', '[NED] ', '[NED] ']","['21-12', '15-21', '21-18']",MD,20180220,"Basel, Switzerland"
+26,"['Konstantin Abramov', 'Alexandr Zinchenko', 'Mathieu Gangloff', 'Tom Rodrigues']","['[RUS] ', '[RUS] ', '[FRA] ', '[FRA] ']","['21-15', '21-11']",MD,20180220,"Basel, Switzerland"
+27,"['Inkarat Apisuk', 'Tanupat Viriyangkura', 'Milosz Bochat', 'Adam Cwalina']","['[THA] ', '[THA] ', '[POL] ', '[POL] ']","['21-17', '21-16']",MD,20180220,"Basel, Switzerland"
+28,"['Mariya Mitsova', 'Ronja Stern']","['[BUL] ', '[SUI] ']","['21-18', '21-13']",WS,20180220,"Basel, Switzerland"
+29,"['Marcus Ellis [3]', 'Chris Langridge', 'Daniel Benz', 'Andreas Heinz']","['[ENG] ', '[ENG] ', '[GER] ', '[GER] ']","['21-17', '21-13']",MD,20180220,"Basel, Switzerland"
+30,"['Natsuki Nidaira', 'Ayumi Mine']","['[JPN] ', '[JPN] ']","['21-19', '21-18']",WS,20180220,"Basel, Switzerland"
+31,"['Lise Jaques', 'Flore Vandenhoucke', 'Eva Janssens', 'Judith Petrikowski']","['[BEL] ', '[BEL] ', '[GER] ', '[GER] ']","['21-13', '21-15']",WD,20180220,"Basel, Switzerland"
+32,"['Mia Blichfeldt [3]', 'Debora Jille']","['[DEN] ', '[NED] ']","['21-7', '21-11']",WS,20180220,"Basel, Switzerland"
+33,"['Kento Momota', 'Christian Kirchmayr']","['[JPN] ', '[SUI] ']","['21-11', '21-15']",MS,20180220,"Basel, Switzerland"
+34,"['Isabel Herttrich', 'Carla Nelte', 'Savitree Amitrapai', 'Pacharapun Chochuwong']","['[GER] ', '[GER] ', '[THA] ', '[THA] ']","['21-19', '14-21', '21-17']",WD,20180220,"Basel, Switzerland"
+35,"['Sung Shuo Yun', 'Natalia Perminova']","['[TPE] ', '[RUS] ']","['21-18', '16-21', '21-11']",WS,20180220,"Basel, Switzerland"
+36,"['Mark Caljouw [5]', 'Adam Mendrek']","['[NED] ', '[CZE] ']","['22-24', '21-8', '21-15']",MS,20180220,"Basel, Switzerland"
+37,"['Sameer Verma [2]', 'Thomas Rouxel']","['[IND] ', '[FRA] ']","['22-20', '21-10']",MS,20180220,"Basel, Switzerland"
+38,"['Yu Igarashi', 'Lars Schaenzler']","['[JPN] ', '[GER] ']","['21-15', '21-14']",MS,20180220,"Basel, Switzerland"
+39,"['Selena Piek', 'Cheryl Seinen', 'Sharone Bauer', 'Charlotte Ganci']","['[NED] ', '[NED] ', '[FRA] ', '[FRA] ']","['21-7', '21-7']",WD,20180220,"Basel, Switzerland"
+40,"['Mathias Boe [1]', 'Carsten Mogensen', 'Chun Kang Shia', 'Wee Gieen Tan']","['[DEN] ', '[DEN] ', '[MAS] ', '[MAS] ']","['21-9', '21-19']",MD,20180220,"Basel, Switzerland"
+41,"['Line Højmark Kjaersfeldt [7]', 'Devi Yunita Indah Sari']","['[DEN] ', '[INA] ']","['21-14', '21-9']",WS,20180220,"Basel, Switzerland"
+42,"['Mathias Bay-Smidt', 'Frederik Søgaard', 'Eloi Adam', 'Samy Corvee']","['[DEN] ', '[DEN] ', '[FRA] ', '[FRA] ']","['21-12', '21-14']",MD,20180220,"Basel, Switzerland"
+43,"['Evgeniya Kosetskaya [4]', 'Mukherjee Riya']","['[RUS] ', '[IND] ']","['13-21', '21-12', '21-17']",WS,20180220,"Basel, Switzerland"
+44,"['Chloe Birch', 'Chang Ya Lan']","['[ENG] ', '[TPE] ']","['21-17', '21-17']",WS,20180220,"Basel, Switzerland"
+45,"['Kasper Antonsen', 'Niclas Nohr', 'Julien Scheiwiller', 'Iztok Utrosa']","['[DEN] ', '[DEN] ', '[SUI] ', '[SLO] ']","['21-12', '21-13']",MD,20180220,"Basel, Switzerland"
+46,"['Lyanny Alessandra Mainaky', 'Sri Krishna Priya Kudaravalli']","['[INA] ', '[IND] ']","['21-11', '21-15']",WS,20180220,"Basel, Switzerland"
+47,"['Rajiv Ouseph [1]', 'Abhishek Yelegar']","['[ENG] ', '[IND] ']","['21-14', '21-13']",MS,20180220,"Basel, Switzerland"
+48,"['Beatriz Corrales [5]', 'Isabel Zhong']","['[ESP] ', '[USA] ']","['21-17', '21-14']",WS,20180220,"Basel, Switzerland"
+49,"['Koki Watanabe', 'Lucas Claerbout']","['[JPN] ', '[FRA] ']","['14-21', '21-13', '21-14']",MS,20180220,"Basel, Switzerland"
+50,"['Arnaud Merkle', 'Emil Holst [6]']","['[FRA] ', '[DEN] ']","['21-16', '12-21', '22-20']",MS,20180220,"Basel, Switzerland"
+51,"['Lucas Corvee', 'Riichi Takeshita']","['[FRA] ', '[JPN] ']","['22-20', '21-11']",MS,20180220,"Basel, Switzerland"
+52,"['Linda Efler', 'Olga Konon', 'Celine Burkart', 'Annika Horbach']","['[GER] ', '[GER] ', '[SUI] ', '[GER] ']","['21-7', '21-8']",WD,20180220,"Basel, Switzerland"
+53,"['Alzbeta Basova', 'Michaela Fuchsova', 'Silvia Garino', 'Lisa Iversen']","['[CZE] ', '[CZE] ', '[ITA] ', '[ITA] ']","['21-13', '21-16']",WD,20180220,"Basel, Switzerland"
+54,"['Aaron Chia', 'Wooi Yik Soh', 'Titon Gustaman', 'Stilian Makarski']","['[MAS] ', '[MAS] ', '[INA] ', '[BUL] ']","['16-21', '21-19', '21-7']",MD,20180220,"Basel, Switzerland"
+55,"['Tinn Isriyanet', 'Kittisak Namdash', 'Matijs Dierickx', 'Freek Golinski']","['[THA] ', '[THA] ', '[BEL] ', '[BEL] ']","['21-17', '21-14']",MD,20180220,"Basel, Switzerland"
+56,"['Mark Lamsfuss [8]', 'Marvin Emil Seidel', 'Kenji Lovang', 'William Villeger']","['[GER] ', '[GER] ', '[FRA] ', '[FRA] ']","['21-8', '21-14']",MD,20180220,"Basel, Switzerland"
+57,"['Mathias Christiansen [2]', 'David Daugaard', 'Peter Kaesbauer', 'Johannes Pistorius']","['[DEN] ', '[DEN] ', '[GER] ', '[GER] ']","['21-12', '21-8']",MD,20180220,"Basel, Switzerland"
+58,"['Lauren Smith', 'Sarah Walker', 'Aline Müller', 'Jenjira Stadelmann']","['[ENG] ', '[ENG] ', '[SUI] ', '[SUI] ']","['21-8', '21-15']",WD,20180220,"Basel, Switzerland"
+59,"['Julie Finne-Ipsen', 'Rikke Søby', 'Cheng Chi Ya', 'Sung Shuo Yun']","['[DEN] ', '[DEN] ', '[TPE] ', '[TPE] ']","['21-19', '21-18']",WD,20180220,"Basel, Switzerland"
+60,"['Sayaka Takahashi [1]', 'Anura Prabhudesai']","['[JPN] ', '[IND] ']","['21-12', '21-12']",WS,20180220,"Basel, Switzerland"
+61,"['Natalia Koch Rohde [8]', 'Ksenia Polikarpova']","['[DEN] ', '[ISR] ']","['21-14', '21-11']",WS,20180220,"Basel, Switzerland"
+62,"['Sabrina Jaquet', 'Ayla Huser']","['[SUI] ', '[SUI] ']","['21-13', '20-22', '21-11']",WS,20180220,"Basel, Switzerland"
+63,"['Suppanyu Avihingsanon [4]', 'Kim Bruun']","['[THA] ', '[DEN] ']","['21-11', '19-21', '21-19']",MS,20180220,"Basel, Switzerland"
+64,"['Joo Ven Soong', 'Adulrach Namkul']","['[MAS] ', '[THA] ']","['24-22', '21-19']",MS,20180220,"Basel, Switzerland"
+65,"['Jan O Jorgensen', 'Lee Zii Jia [8]']","['[DEN] ', '[MAS] ']","['21-15', '21-14']",MS,20180220,"Basel, Switzerland"
+66,"['Iskandar Zulkarnain', 'Eetu Heino']","['[MAS] ', '[FIN] ']","['21-23', '21-14', '21-10']",MS,20180220,"Basel, Switzerland"
+67,"['Emilie Lefel', 'Anne Tran', 'Susanne Keller', 'Yvonne Keller']","['[FRA] ', '[FRA] ', '[SUI] ', '[SUI] ']","['21-3', '21-14']",WD,20180220,"Basel, Switzerland"
+68,"['Chloe Birch', 'Jessica Pugh', 'Debora Jille', 'Imke Van Der Aar']","['[ENG] ', '[ENG] ', '[NED] ', '[NED] ']","['21-13', '21-16']",WD,20180220,"Basel, Switzerland"
+69,"['Maneepong Jongjit', 'Nanthakarn Yordphaisong', 'Maxime Briot', 'Fabien Delrue']","['[THA] ', '[THA] ', '[FRA] ', '[FRA] ']","['21-12', '21-16']",MD,20180220,"Basel, Switzerland"
+70,"['Jones Ralfy Jansen [4]', 'Josche Zurwonne', 'Kapil Chaudhary', 'Brijesh Yadav']","['[GER] ', '[GER] ', '[IND] ', '[IND] ']","['21-8', '21-15']",MD,20180220,"Basel, Switzerland"
+71,"['Peter Briggs [6]', 'Tom Wolfenden', 'Mathias Bonny', 'Oliver Schaller']","['[ENG] ', '[ENG] ', '[SUI] ', '[SUI] ']","['21-10', '17-21', '21-15']",MD,20180220,"Basel, Switzerland"
+72,"['Arjun M.R.', 'Ramchandran Shlok', 'Po Li-Wei', 'Yang Ming-Tse']","['[IND] ', '[IND] ', '[TPE] ', '[TPE] ']","['21-17', '14-21', '21-15']",MD,20180220,"Basel, Switzerland"
+73,"['Linda Zetchiri [6]', 'Julie Dawall Jakobsen']","['[BUL] ', '[DEN] ']","['21-15', '21-12']",WS ,20180220,"Basel, Switzerland"
+74,"['Kantaphon Wangcharoen', 'Sitthikom Thammasin']","['[THA] ', '[THA] ']","['22-20', '18-21', '11-10']",MS ,20180220,"Basel, Switzerland"
+75,"['Selena Piek', 'Cheryl Seinen', 'Lise Jaques', 'Flore Vandenhoucke']","['[NED] ', '[NED] ', '[BEL] ', '[BEL] ']","['21-10', '21-12']",WD ,20180220,"Basel, Switzerland"
+76,"['Linda Efler', 'Olga Konon', 'Alzbeta Basova', 'Michaela Fuchsova']","['[GER] ', '[GER] ', '[CZE] ', '[CZE] ']","['21-13', '15-21', '21-8']",WD ,20180220,"Basel, Switzerland"
+77,"['Gurusaidutt R. M. V.', 'Sourabh Verma']","['[IND] ', '[IND] ']","['21-18', '21-14']",MS ,20180220,"Basel, Switzerland"
+78,"['Kasper Antonsen', 'Niclas Nohr', 'Mathias Bay-Smidt', 'Frederik Søgaard']","['[DEN] ', '[DEN] ', '[DEN] ', '[DEN] ']","['19-21', '21-13', '21-16']",MD ,20180220,"Basel, Switzerland"
+79,"['Maneepong Jongjit', 'Nanthakarn Yordphaisong', 'Peter Briggs [6]', 'Tom Wolfenden']","['[THA] ', '[THA] ', '[ENG] ', '[ENG] ']","['21-19', '21-16']",MD ,20180220,"Basel, Switzerland"
+80,"['Ayako Sakuramoto', 'Yukiko Takahata', 'Isabel Herttrich', 'Carla Nelte']","['[JPN] ', '[JPN] ', '[GER] ', '[GER] ']","['21-7', '19-21', '21-12']",WD ,20180220,"Basel, Switzerland"
+81,"['Line Højmark Kjaersfeldt [7]', 'Sung Shuo Yun']","['[DEN] ', '[TPE] ']","['21-18', '22-20']",WS ,20180220,"Basel, Switzerland"
+82,"['Lucas Corvee', 'Arnaud Merkle']","['[FRA] ', '[FRA] ']","['18-21', '21-13', '22-20']",MS ,20180220,"Basel, Switzerland"
+83,"['Suppanyu Avihingsanon [4]', 'Joo Ven Soong']","['[THA] ', '[MAS] ']","['22-20', '21-14']",MS ,20180220,"Basel, Switzerland"
+84,"['Jan O Jorgensen', 'Iskandar Zulkarnain']","['[DEN] ', '[MAS] ']","['21-19', '21-18']",MS ,20180220,"Basel, Switzerland"
+85,"['Tinn Isriyanet', 'Kittisak Namdash', 'Mathias Christiansen [2]', 'David Daugaard']","['[THA] ', '[THA] ', '[DEN] ', '[DEN] ']","['21-16', '16-21', '17-16']",MD ,20180220,"Basel, Switzerland"
+86,"['Lauren Smith', 'Sarah Walker', 'Delphine Delrue', 'Lea Palermo']","['[ENG] ', '[ENG] ', '[FRA] ', '[FRA] ']","['19-21', '25-23', '21-15']",WD ,20180220,"Basel, Switzerland"
+87,"['Jones Ralfy Jansen', 'Carla Nelte', 'Tinn Isriyanet', 'Pacharapun Chochuwong']","['[GER] ', '[GER] ', '[THA] ', '[THA] ']","['23-21', '21-18']",XD ,20180220,"Basel, Switzerland"
+88,"['Sayaka Takahashi [1]', 'Lyanny Alessandra Mainaky']","['[JPN] ', '[INA] ']","['21-11', '21-11']",WS ,20180220,"Basel, Switzerland"
+89,"['Kento Momota', 'Mark Caljouw [5]']","['[JPN] ', '[NED] ']","['21-15', '21-16']",MS ,20180220,"Basel, Switzerland"
+90,"['Sameer Verma [2]', 'Yu Igarashi']","['[IND] ', '[JPN] ']","['11-21', '21-18', '21-16']",MS ,20180220,"Basel, Switzerland"
+91,"['Mikkel Mikkelsen [8]', 'Mai Surrow', 'Josche Zurwonne', 'Eva Janssens']","['[DEN] ', '[DEN] ', '[GER] ', '[GER] ']","['16-21', '21-19', '21-9']",XD ,20180220,"Basel, Switzerland"
+92,"['Natsuki Nidaira', 'Mia Blichfeldt [3]']","['[JPN] ', '[DEN] ']","['21-17', '21-19']",WS ,20180220,"Basel, Switzerland"
+93,"['Robin Tabeling', 'Cheryl Seinen', 'Kittisak Namdash', 'Savitree Amitrapai']","['[NED] ', '[NED] ', '[THA] ', '[THA] ']","['16-21', '21-19', '21-11']",XD ,20180220,"Basel, Switzerland"
+94,"['Ben Lane', 'Sean Vendy', 'Konstantin Abramov', 'Alexandr Zinchenko']","['[ENG] ', '[ENG] ', '[RUS] ', '[RUS] ']","['21-17', '21-15']",MD ,20180220,"Basel, Switzerland"
+95,"['Jacco Arends [5]', 'Selena Piek', 'Niclas Nohr', 'Sara Thygesen']","['[NED] ', '[NED] ', '[DEN] ', '[DEN] ']","['21-18', '9-21', '21-15']",XD ,20180220,"Basel, Switzerland"
+96,"['Natalia Koch Rohde [8]', 'Sabrina Jaquet']","['[DEN] ', '[SUI] ']","['21-19', '11-21', '21-19']",WS ,20180220,"Basel, Switzerland"
+97,"['Koki Watanabe', 'Rajiv Ouseph [1]']","['[JPN] ', '[ENG] ']","['20-22', '21-17', '21-14']",MS ,20180220,"Basel, Switzerland"
+98,"['Ben Lane [6]', 'Jessica Pugh', 'Stilian Makarski', 'Diana Dimova']","['[ENG] ', '[ENG] ', '[BUL] ', '[BUL] ']","['23-21', '21-4']",XD ,20180220,"Basel, Switzerland"
+99,"['Nami Matsuyama', 'Chiharu Shida', 'Anastasia Chervyakova [2]', 'Olga Morozova']","['[JPN] ', '[JPN] ', '[RUS] ', '[RUS] ']","['21-18', '21-12']",WD ,20180220,"Basel, Switzerland"
+100,"['Mark Lamsfuss [1]', 'Isabel Herttrich', 'Ruben Jille', 'Imke Van Der Aar']","['[GER] ', '[GER] ', '[NED] ', '[NED] ']","['17-21', '21-18', '25-23']",XD ,20180220,"Basel, Switzerland"
+101,"['Minatsu Mitani [2]', 'Sai Uttejitha Rao Chukka']","['[JPN] ', '[IND] ']","['21-8', '21-13']",WS ,20180220,"Basel, Switzerland"
+102,"['Evgeniya Kosetskaya [4]', 'Chloe Birch']","['[RUS] ', '[ENG] ']","['21-17', '21-16']",WS ,20180220,"Basel, Switzerland"
+103,"['Emilie Lefel', 'Anne Tran', 'Misato Aratama [4]', 'Akane Watanabe']","['[FRA] ', '[FRA] ', '[JPN] ', '[JPN] ']","['14-21', '21-13', '21-17']",WD ,20180220,"Basel, Switzerland"
+104,"['Beatriz Corrales [5]', 'Mariya Mitsova']","['[ESP] ', '[BUL] ']","['21-15', '14-21', '21-18']",WS ,20180220,"Basel, Switzerland"
+105,"['Marcus Ellis [7]', 'Lauren Smith', 'Chang Ko-Chi', 'Cheng Chi Ya']","['[ENG] ', '[ENG] ', '[TPE] ', '[TPE] ']","['21-13', '9-21', '21-15']",XD ,20180220,"Basel, Switzerland"
+106,"['Chloe Birch', 'Jessica Pugh', 'Ainoa Desmons', 'Juliette Moinard']","['[ENG] ', '[ENG] ', '[FRA] ', '[FRA] ']","['21-8', '21-10']",WD ,20180220,"Basel, Switzerland"
+107,"['Aaron Chia', 'Wooi Yik Soh', 'Mark Lamsfuss [8]', 'Marvin Emil Seidel']","['[MAS] ', '[MAS] ', '[GER] ', '[GER] ']","['21-19', '21-15']",MD ,20180220,"Basel, Switzerland"
+108,"['Gabriela Stoeva [1]', 'Stefani Stoeva', 'Julie Finne-Ipsen', 'Rikke Søby']","['[BUL] ', '[BUL] ', '[DEN] ', '[DEN] ']","['21-9', '21-12']",WD ,20180220,"Basel, Switzerland"
+109,"['Arjun M.R.', 'Ramchandran Shlok', 'Jones Ralfy Jansen [4]', 'Josche Zurwonne']","['[IND] ', '[IND] ', '[GER] ', '[GER] ']","['21-13', '21-17']",MD ,20180220,"Basel, Switzerland"
+110,"['Mathias Boe [1]', 'Carsten Mogensen', 'Francis Alwin', 'K. Nandagopal']","['[DEN] ', '[DEN] ', '[IND] ', '[IND] ']","['21-14', '21-13']",MD ,20180220,"Basel, Switzerland"
+111,"['Marvin Emil Seidel [4]', 'Linda Efler', 'Bastian Kersaudy', 'Lea Palermo']","['[GER] ', '[GER] ', '[FRA] ', '[FRA] ']","['22-20', '17-21', '21-12']",XD ,20180220,"Basel, Switzerland"
+112,"['Marcus Ellis [3]', 'Chris Langridge', 'Inkarat Apisuk', 'Tanupat Viriyangkura']","['[ENG] ', '[ENG] ', '[THA] ', '[THA] ']","['21-11', '21-9']",MD ,20180220,"Basel, Switzerland"
+113,"['Nami Matsuyama', 'Chiharu Shida', 'Lauren Smith', 'Sarah Walker']","['[JPN] ', '[JPN] ', '[ENG] ', '[ENG] ']","['21-9', '21-19']",WD ,20180220,"Basel, Switzerland"
+114,"['Jones Ralfy Jansen', 'Carla Nelte', 'Mikkel Mikkelsen [8]', 'Mai Surrow']","['[GER] ', '[GER] ', '[DEN] ', '[DEN] ']","['21-19', '21-15']",XD ,20180220,"Basel, Switzerland"
+115,"['Gabriela Stoeva [1]', 'Stefani Stoeva', 'Linda Efler', 'Olga Konon']","['[BUL] ', '[BUL] ', '[GER] ', '[GER] ']","['21-11', '21-8']",WD ,20180220,"Basel, Switzerland"
+116,"['Kantaphon Wangcharoen', 'Gurusaidutt R. M. V.']","['[THA] ', '[IND] ']","['21-8', '21-15']",MS ,20180220,"Basel, Switzerland"
+117,"['Evgeniya Kosetskaya [4]', 'Natalia Koch Rohde [8]']","['[RUS] ', '[DEN] ']","['18-21', '21-13', '11-3']",WS ,20180220,"Basel, Switzerland"
+118,"['Tinn Isriyanet', 'Kittisak Namdash', 'Aaron Chia', 'Wooi Yik Soh']","['[THA] ', '[THA] ', '[MAS] ', '[MAS] ']","['21-18', '21-13']",MD ,20180220,"Basel, Switzerland"
+119,"['Lucas Corvee', 'Koki Watanabe']","['[FRA] ', '[JPN] ']","['21-14', '19-21', '21-13']",MS ,20180220,"Basel, Switzerland"
+120,"['Marcus Ellis [7]', 'Lauren Smith', 'Marvin Emil Seidel [4]', 'Linda Efler']","['[ENG] ', '[ENG] ', '[GER] ', '[GER] ']","['21-15', '21-14']",XD ,20180220,"Basel, Switzerland"
+121,"['Sameer Verma [2]', 'Kento Momota']","['[IND] ', '[JPN] ']","['21-17', '21-16']",MS ,20180220,"Basel, Switzerland"
+122,"['Maneepong Jongjit', 'Nanthakarn Yordphaisong', 'Arjun M.R.', 'Ramchandran Shlok']","['[THA] ', '[THA] ', '[IND] ', '[IND] ']","['21-13', '21-18']",MD ,20180220,"Basel, Switzerland"
+123,"['Natsuki Nidaira', 'Beatriz Corrales [5]']","['[JPN] ', '[ESP] ']","['21-8', '21-17']",WS ,20180220,"Basel, Switzerland"
+124,"['Ayako Sakuramoto', 'Yukiko Takahata', 'Selena Piek', 'Cheryl Seinen']","['[JPN] ', '[JPN] ', '[NED] ', '[NED] ']","['21-13', '21-14']",WD ,20180220,"Basel, Switzerland"
+125,"['Marcus Ellis [3]', 'Chris Langridge', 'Ben Lane', 'Sean Vendy']","['[ENG] ', '[ENG] ', '[ENG] ', '[ENG] ']","['15-21', '21-13', '23-21']",MD ,20180220,"Basel, Switzerland"
+126,"['Minatsu Mitani [2]', 'Linda Zetchiri [6]']","['[JPN] ', '[BUL] ']","['21-17', '22-20']",WS ,20180220,"Basel, Switzerland"
+127,"['Emilie Lefel', 'Anne Tran', 'Chloe Birch', 'Jessica Pugh']","['[FRA] ', '[FRA] ', '[ENG] ', '[ENG] ']","['21-17', '21-13']",WD ,20180220,"Basel, Switzerland"
+128,"['Mark Lamsfuss [1]', 'Isabel Herttrich', 'Jacco Arends [5]', 'Selena Piek']","['[GER] ', '[GER] ', '[NED] ', '[NED] ']","['21-8', '21-19']",XD ,20180220,"Basel, Switzerland"
+129,"['Mathias Boe [1]', 'Carsten Mogensen', 'Kasper Antonsen', 'Niclas Nohr']","['[DEN] ', '[DEN] ', '[DEN] ', '[DEN] ']","['21-15', '16-21', '21-14']",MD ,20180220,"Basel, Switzerland"
+130,"['Sayaka Takahashi [1]', 'Line Højmark Kjaersfeldt [7]']","['[JPN] ', '[DEN] ']","['21-14', '21-13']",WS ,20180220,"Basel, Switzerland"
+131,"['Ben Lane [6]', 'Jessica Pugh', 'Robin Tabeling', 'Cheryl Seinen']","['[ENG] ', '[ENG] ', '[NED] ', '[NED] ']","['21-18', '22-20']",XD ,20180220,"Basel, Switzerland"
+132,"['Jan O Jorgensen', 'Suppanyu Avihingsanon [4]']","['[DEN] ', '[THA] ']","['21-13', '21-16']",MS ,20180220,"Basel, Switzerland"
+133,"['Ayako Sakuramoto', 'Yukiko Takahata', 'Nami Matsuyama', 'Chiharu Shida']","['[JPN] ', '[JPN] ', '[JPN] ', '[JPN] ']","['21-18', '18-21', '21-18']",WD ,20180220,"Basel, Switzerland"
+134,"['Sayaka Takahashi [1]', 'Evgeniya Kosetskaya [4]']","['[JPN] ', '[RUS] ']","['21-6', '21-18']",WS ,20180220,"Basel, Switzerland"
+135,"['Mathias Boe [1]', 'Carsten Mogensen', 'Marcus Ellis [3]', 'Chris Langridge']","['[DEN] ', '[DEN] ', '[ENG] ', '[ENG] ']","['21-15', '21-14']",MD ,20180220,"Basel, Switzerland"
+136,"['Sameer Verma [2]', 'Kantaphon Wangcharoen']","['[IND] ', '[THA] ']","['21-14', '11-21', '21-12']",MS ,20180220,"Basel, Switzerland"
+137,"['Mark Lamsfuss [1]', 'Isabel Herttrich', 'Jones Ralfy Jansen', 'Carla Nelte']","['[GER] ', '[GER] ', '[GER] ', '[GER] ']","['21-16', '22-20']",XD ,20180220,"Basel, Switzerland"
+138,"['Tinn Isriyanet', 'Kittisak Namdash', 'Maneepong Jongjit', 'Nanthakarn Yordphaisong']","['[THA] ', '[THA] ', '[THA] ', '[THA] ']","['27-25', '16-21', '21-16']",MD ,20180220,"Basel, Switzerland"
+139,"['Natsuki Nidaira', 'Minatsu Mitani [2]']","['[JPN] ', '[JPN] ']",[],WS ,20180220,"Basel, Switzerland"
+140,"['Gabriela Stoeva [1]', 'Stefani Stoeva', 'Emilie Lefel', 'Anne Tran']","['[BUL] ', '[BUL] ', '[FRA] ', '[FRA] ']","['21-16', '21-12']",WD minimum 45 minutes after match 6,20180220,"Basel, Switzerland"
+141,"['Marcus Ellis [7]', 'Lauren Smith', 'Ben Lane [6]', 'Jessica Pugh']","['[ENG] ', '[ENG] ', '[ENG] ', '[ENG] ']","['21-8', '21-4']",XD ,20180220,"Basel, Switzerland"
+142,"['Jan O Jorgensen', 'Lucas Corvee']","['[DEN] ', '[FRA] ']","['21-14', '12-21', '21-18']",MS ,20180220,"Basel, Switzerland"
+143,"['Sayaka Takahashi [1]', 'Natsuki Nidaira']","['[JPN] ', '[JPN] ']","['21-12', '21-18']",WS ,20180220,"Basel, Switzerland"
+144,"['Mark Lamsfuss [1]', 'Isabel Herttrich', 'Marcus Ellis [7]', 'Lauren Smith']","['[GER] ', '[GER] ', '[ENG] ', '[ENG] ']","['22-20', '21-19']",XD ,20180220,"Basel, Switzerland"
+145,"['Ayako Sakuramoto', 'Yukiko Takahata', 'Gabriela Stoeva [1]', 'Stefani Stoeva']","['[JPN] ', '[JPN] ', '[BUL] ', '[BUL] ']","['19-21', '21-15', '21-18']",WD ,20180220,"Basel, Switzerland"
+146,"['Sameer Verma [2]', 'Jan O Jorgensen']","['[IND] ', '[DEN] ']","['21-15', '21-13']",MS ,20180220,"Basel, Switzerland"
+147,"['Mathias Boe [1]', 'Carsten Mogensen', 'Tinn Isriyanet', 'Kittisak Namdash']","['[DEN] ', '[DEN] ', '[THA] ', '[THA] ']","['21-15', '21-11']",MD ,20180220,"Basel, Switzerland"

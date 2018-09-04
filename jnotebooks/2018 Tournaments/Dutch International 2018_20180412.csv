@@ -1,111 +1,111 @@
-,PLAYERS,COUNTRIES,SCORES,EVENT,match_week
-0,"['Aram Mahmoud', 'Kanishq M']","['[NED] ', '[IND] ']","['19-21', '21-6', '21-12']",MS - Qualification ,20180412
-1,"['Torjus Flaatten', 'Christoffer Elbrønd']","['[NOR] ', '[DEN] ']","['19-21', '21-14', '21-16']",MS - Qualification ,20180412
-2,"['Mohamed Abderrahime Belarbi [14]', 'Sander De Decker']","['[ALG] ', '[BEL] ']","['21-16', '21-23', '21-8']",MS - Qualification ,20180412
-3,"['Julian Edhofer', 'Joachim Cansse']","['[GER] ', '[BEL] ']","['21-18', '21-19']",MS - Qualification ,20180412
-4,"['Peter Roenn Stensaeth [9]', 'Quentin Filliettaz']","['[NOR] ', '[SUI] ']","['22-20', '21-18']",MS - Qualification ,20180412
-5,"['Jeppe Bruun', 'Frederik Aalestrup']","['[DEN] ', '[DEN] ']","['21-11', '21-12']",MS - Qualification ,20180412
-6,"['Johnnie Torjussen', 'Stijn De Langhe']","['[ENG] ', '[BEL] ']","['21-11', '21-15']",MS - Qualification ,20180412
-7,"['Tobias Kuenzi', 'Peter Roenn Stensaeth [9]']","['[SUI] ', '[NOR] ']","['21-10', '21-12']",MS - Qualification ,20180412
-8,"['Ieva Pope [6]', 'Joke De Langhe']","['[LAT] ', '[BEL] ']","['21-15', '14-21', '21-17']",WS - Qualification ,20180412
-9,"['Line Christophersen [3]', 'Anastasiia Shapovalova']","['[DEN] ', '[RUS] ']","['21-13', '17-21', '21-19']",WS - Qualification ,20180412
-10,"['Rebecca Kuhl', 'Monika Radovska']","['[SWE] ', '[LAT] ']","['24-22', '21-16']",WS - Qualification ,20180412
-11,"['Chang Ya Lan', 'Cheng Wen Hsing', 'Fee Teng Liew', 'Lizzie Tolman']","['[TPE] ', '[TPE] ', '[ENG] ', '[ENG] ']","['21-14', '21-15']",WD - Qualification ,20180412
-12,"['Joran Kweekel', 'Dimitar Yanakiev [16]']","['[NED] ', '[BUL] ']","['21-14', '17-21', '21-19']",MS - Qualification ,20180412
-13,"['Joonas Korhonen [15]', 'Karl Thor Søndergaard']","['[FIN] ', '[DEN] ']","['21-12', '21-15']",MS - Qualification ,20180412
-14,"['Johanna Magnusson [8]', 'Anne Fuglsang']","['[SWE] ', '[DEN] ']","['21-18', '21-12']",WS - Qualification ,20180412
-15,"['Aram Mahmoud', 'Rory Easton']","['[NED] ', '[ENG] ']","['21-14', '21-14']",MS - Qualification ,20180412
-16,"['Joshua Eipe', 'Julien Scheiwiller']","['[DEN] ', '[SUI] ']","['26-24', '16-21', '21-15']",MS - Qualification ,20180412
-17,"['Jeppe Bruun', 'Tobias Holst', 'Vasily Kuznetsov', 'Pawel Pradzinski']","['[DEN] ', '[DEN] ', '[RUS] ', '[POL] ']","['21-15', '19-21', '21-13']",MD - Qualification ,20180412
-18,"['Johnnie Torjussen', 'Julien Carraggi']","['[ENG] ', '[BEL] ']","['21-15', '21-14']",MS - Qualification ,20180412
-19,"['Phone Pyae Naing', 'Arun Kumar Ashok Kumar [12]']","['[MYA] ', '[IND] ']","['21-8', '19-21', '21-13']",MS - Qualification ,20180412
-20,"['Martin Bundgaard', 'Elias Bracke']","['[DEN] ', '[BEL] ']","['21-14', '21-16']",MS - Qualification ,20180412
-21,"['Rory Easton', 'Michael Giesinger [10]']","['[ENG] ', '[AUT] ']","['21-15', '21-11']",MS - Qualification ,20180412
-22,"['Joonas Korhonen [15]', 'Torjus Flaatten']","['[FIN] ', '[NOR] ']","['21-11', '14-5']",MS - Qualification ,20180412
-23,"['Vincent Espen', 'Phone Pyae Naing']","['[FRA] ', '[MYA] ']",[],MS - Qualification ,20180412
-24,"['Aram Mahmoud', 'Mattias Sonderskov']","['[NED] ', '[LUX] ']","['21-14', '21-10']",MS - Qualification ,20180412
-25,"['Dimitar Yanakiev [16]', 'David Jones']","['[BUL] ', '[ENG] ']","['26-24', '21-13']",MS - Qualification ,20180412
-26,"['Julien Scheiwiller', 'Kai Ho Tang [11]']","['[SUI] ', '[ENG] ']","['21-15', '21-4']",MS - Qualification ,20180412
-27,"['Emil Lauritzen', 'Mads Muurholm', 'Vincent Espen', 'Samson Gradt-Urban']","['[DEN] ', '[DEN] ', '[FRA] ', '[FRA] ']","['19-21', '21-17', '21-13']",MD - Qualification ,20180412
-28,"['Michelle Skødstrup [5]', 'Tanishq Mamilla Palli']","['[DEN] ', '[IND] ']","['21-7', '21-13']",WS - Qualification ,20180412
-29,"['Freja Ravn', 'Vaishnavi Karri']","['[DEN] ', '[IND] ']","['21-9', '21-17']",WS - Qualification ,20180412
-30,"['Jeppe Bruun', 'Vincent Espen']","['[DEN] ', '[FRA] ']","['21-11', '21-11']",MS - Qualification ,20180412
-31,"['Joshua Eipe', 'Georgii Karpov']","['[DEN] ', '[RUS] ']","['21-13', '21-19']",MS - Qualification ,20180412
-32,"['Li Lian Yang', 'Abigail Holden']","['[MAS] ', '[ENG] ']","['21-13', '21-19']",WS - Qualification ,20180412
-33,"['Debora Jille', 'Rebecca Kuhl']","['[NED] ', '[SWE] ']","['21-19', '23-21']",WS - Qualification ,20180412
-34,"['Michelle Skødstrup [5]', 'Freja Ravn']","['[DEN] ', '[DEN] ']","['21-18', '21-14']",WS - Qualification ,20180412
-35,"['Li Lian Yang', 'Johanna Magnusson [8]']","['[MAS] ', '[SWE] ']","['21-10', '21-7']",WS - Qualification ,20180412
-36,"['Lee Zii Yii', 'Line Christophersen [3]']","['[MAS] ', '[DEN] ']","['21-14', '21-9']",WS - Qualification ,20180412
-37,"['Jacob Nilsson', 'Peyo Boichinov']","['[SWE] ', '[BUL] ']","['21-15', '21-5']",MS ,20180412
-38,"['Christian Kirchmayr', 'Miha Ivanic']","['[SUI] ', '[SLO] ']","['19-21', '21-9', '21-13']",MS ,20180412
-39,"['Adrian Dziolko', 'Sahil Sipani']","['[POL] ', '[IND] ']","['21-13', '21-12']",MS ,20180412
-40,"['Qi Xuefei [5]', 'Amalie Hertz']","['[CHN] ', '[DEN] ']","['21-16', '21-13']",WS ,20180412
-41,"['Anura Prabhudesai', 'Gayle Mahulette [6]']","['[IND] ', '[NED] ']","['21-8', '21-17']",WS ,20180412
-42,"['Lee Zii Yii', 'Irina Amalie Andersen [7]']","['[MAS] ', '[DEN] ']","['14-21', '21-7', '21-14']",WS ,20180412
-43,"['Mathias Bonny', 'Oliver Schaller', 'Frederik Aalestrup', 'Mathias Moldt Baskjaer']","['[SUI] ', '[SUI] ', '[DEN] ', '[DEN] ']","['22-20', '21-18']",MD ,20180412
-44,"['Hermansah .', 'Gustav Stromvall', 'Nicklas Mathiasen', 'Mikkel Stoffersen']","['[INA] ', '[SWE] ', '[DEN] ', '[DEN] ']","['21-19', '10-21', '21-17']",MD ,20180412
-45,"['Chang Ya Lan', 'Cheng Wen Hsing', 'Isabella Nielsen', 'Claudia Paredes']","['[TPE] ', '[TPE] ', '[DEN] ', '[DEN] ']","['21-15', '21-6']",WD ,20180412
-46,"['Hermansah .', 'Andy Tsai']","['[INA] ', '[SWE] ']","['21-12', '21-13']",MS ,20180412
-47,"['Jacob Nilsson', 'Bernardo Atilano']","['[SWE] ', '[POR] ']","['21-11', '21-16']",MS ,20180412
-48,"['Anastasiia Shapovalova', 'Vasily Kuznetsov', 'Jessica Hopton', 'Michael Roe']","['[RUS] ', '[RUS] ', '[ENG] ', '[ENG] ']","['19-21', '21-17', '28-26']",XD ,20180412
-49,"['Susan Ekelund', 'Mikkel Stoffersen', 'Aneta Wojtkowska', 'Pawel Pietryja']","['[DEN] ', '[DEN] ', '[POL] ', '[POL] ']","['21-18', '22-20']",XD ,20180412
-50,"['Chang Ya Lan', 'Lee Zii Yii']","['[TPE] ', '[MAS] ']","['21-19', '10-21', '21-19']",WS ,20180412
-51,"['Yaelle Hoyaux', 'Mariya Mitsova [2]']","['[FRA] ', '[BUL] ']","['20-22', '21-16', '21-14']",WS ,20180412
-52,"['Konstantin Abramov [1]', 'Alexandr Zinchenko', 'Hermansah .', 'Gustav Stromvall']","['[RUS] ', '[RUS] ', '[INA] ', '[SWE] ']","['21-13', '21-16']",MD ,20180412
-53,"['Amalie Magelund', 'Freja Ravn', 'Evie Burbidge', 'Jessica Hopton']","['[DEN] ', '[DEN] ', '[ENG] ', '[ENG] ']","['21-17', '16-21', '21-9']",WD ,20180412
-54,"['Emma Karlsson [2]', 'Johanna Magnusson', 'Verlaine Faulmann', 'Margot Lambert']","['[SWE] ', '[SWE] ', '[FRA] ', '[FRA] ']","['19-21', '21-12', '21-14']",WD ,20180412
-55,"['Elisa Melgaard', 'Mathias Thyrri', 'Celine Burkart [3]', 'Oliver Schaller']","['[DEN] ', '[DEN] ', '[SUI] ', '[SUI] ']","['21-17', '23-21']",XD ,20180412
-56,"['Nick Fransman', 'Adrian George']","['[NED] ', '[IND] ']","['21-16', '21-14']",MS ,20180412
-57,"['Bernardo Atilano', 'Martin Bundgaard']","['[POR] ', '[DEN] ']","['21-18', '18-21', '21-10']",MS ,20180412
-58,"['Pierrick Cajot', 'Aram Mahmoud']","['[FRA] ', '[NED] ']","['21-17', '21-19']",MS ,20180412
-59,"['Ksenia Polikarpova [3]', 'Mugdha Agrey']","['[ISR] ', '[IND] ']","['21-12', '21-7']",WS ,20180412
-60,"['Michelle Skødstrup', 'Kati-Kreet Marran']","['[DEN] ', '[EST] ']","['21-14', '21-9']",WS ,20180412
-61,"['Yaelle Hoyaux', 'Ayla Huser']","['[FRA] ', '[SUI] ']","['21-15', '23-21']",WS ,20180412
-62,"['Joel Eipe', 'Philip Seerup', 'Jeppe Bruun', 'Tobias Holst']","['[DEN] ', '[DEN] ', '[DEN] ', '[DEN] ']","['18-21', '21-15', '21-14']",MD ,20180412
-63,"['Julie Dawall Jakobsen', 'Ditte Søby', 'Moa Sjoo', 'Tilda Sjoo']","['[DEN] ', '[DEN] ', '[SWE] ', '[SWE] ']","['20-22', '21-14', '21-12']",WD ,20180412
-64,"['Adrian Dziolko', 'Luka Wraber']","['[POL] ', '[AUT] ']","['21-15', '21-5']",MS ,20180412
-65,"['Anne Tran', 'Jordan Corvee', 'Lise Jaques', 'Freek Golinski']","['[FRA] ', '[FRA] ', '[BEL] ', '[BEL] ']","['21-15', '21-11']",XD ,20180412
-66,"['Toby Penty [2]', 'Joonas Korhonen']","['[ENG] ', '[FIN] ']","['21-12', '21-11']",MS ,20180412
-67,"['Claudia Paredes', 'Mads Emil Christensen', 'Sian Kelly', 'Matthew Nottingham']","['[DEN] ', '[DEN] ', '[ENG] ', '[ENG] ']","['22-20', '16-21', '21-17']",XD ,20180412
-68,"['Anura Prabhudesai', 'Lianne Tan']","['[IND] ', '[BEL] ']","['21-18', '17-21', '21-13']",WS ,20180412
-69,"['Porntip Buranaprasertsuk', 'Michelle Skødstrup']","['[THA] ', '[DEN] ']","['22-20', '21-10']",WS ,20180412
-70,"['Pierrick Cajot', 'Joshua Eipe']","['[FRA] ', '[DEN] ']","['10-21', '21-15', '21-19']",MS ,20180412
-71,"['Lise Jaques [4]', 'Flore Vandenhoucke', 'Susan Ekelund', 'Line Fleischer']","['[BEL] ', '[BEL] ', '[DEN] ', '[DEN] ']","['21-14', '21-16']",WD ,20180412
-72,"['Daniel Lundgaard', 'Karl Thor Søndergaard', 'Vladimir Nikulov', 'Artem Serpionov']","['[DEN] ', '[DEN] ', '[RUS] ', '[RUS] ']","['21-18', '21-17']",MD ,20180412
-73,"['Debora Jille [3]', 'Imke Van Der Aar', 'Anne Katrine Hansen', 'Marie Louise Steffensen']","['[NED] ', '[NED] ', '[DEN] ', '[DEN] ']","['21-12', '21-14']",WD ,20180412
-74,"['Delphine Delrue [2]', 'Thom Gicquel', 'Susan Ekelund', 'Mikkel Stoffersen']","['[FRA] ', '[FRA] ', '[DEN] ', '[DEN] ']","['21-18', '21-14']",XD ,20180412
-75,"['Flore Vandenhoucke', 'Matijs Dierickx', 'Christine Busch', 'Mads Muurholm']","['[BEL] ', '[BEL] ', '[DEN] ', '[DEN] ']","['21-10', '21-10']",XD ,20180412
-76,"['Yaelle Hoyaux', 'Chang Ya Lan']","['[FRA] ', '[TPE] ']","['21-16', '21-15']",WS ,20180412
-77,"['Adrian Dziolko', 'Abhishek Yeligar [5]']","['[POL] ', '[IND] ']","['21-17', '21-16']",MS ,20180412
-78,"['Arun George', 'Sanyam Shukla', 'Mathias Bonny', 'Oliver Schaller']","['[IND] ', '[IND] ', '[SUI] ', '[SUI] ']","['19-21', '21-17', '21-14']",MD ,20180412
-79,"['Chang Ya Lan', 'Cheng Wen Hsing', 'Julie Dawall Jakobsen', 'Ditte Søby']","['[TPE] ', '[TPE] ', '[DEN] ', '[DEN] ']","['21-23', '21-15', '21-10']",WD ,20180412
-80,"['Julie Dawall Jakobsen [1]', 'Ksenia Polikarpova [3]']","['[DEN] ', '[ISR] ']","['21-15', '17-21', '21-11']",WS ,20180412
-81,"['Elisa Melgaard', 'Mathias Thyrri', 'Anne Tran', 'Jordan Corvee']","['[DEN] ', '[DEN] ', '[FRA] ', '[FRA] ']","['21-15', '16-21', '21-15']",XD ,20180412
-82,"['Muralitharan Thinaah', 'Yaelle Hoyaux']","['[MAS] ', '[FRA] ']","['21-16', '21-17']",WS ,20180412
-83,"['Chang Ya Lan', 'Cheng Wen Hsing', 'Debora Jille [3]', 'Imke Van Der Aar']","['[TPE] ', '[TPE] ', '[NED] ', '[NED] ']","['21-19', '22-20']",WD ,20180412
-84,"['Arun George', 'Sanyam Shukla', 'Konstantin Abramov [1]', 'Alexandr Zinchenko']","['[IND] ', '[IND] ', '[RUS] ', '[RUS] ']","['21-17', '21-14']",MD ,20180412
-85,"['Julie Dawall Jakobsen [1]', 'Qi Xuefei [5]']","['[DEN] ', '[CHN] ']","['21-12', '10-21', '21-13']",WS ,20180412
-86,"['Anne Tran', 'Jordan Corvee', 'Isabella Nielsen [1]', 'Kristoffer Knudsen']","['[FRA] ', '[FRA] ', '[DEN] ', '[DEN] ']","['22-20', '21-14']",XD ,20180412
-87,"['Ksenia Polikarpova [3]', 'Anura Prabhudesai']","['[ISR] ', '[IND] ']","['21-17', '21-14']",WS ,20180412
-88,"['Amalie Magelund', 'Freja Ravn', 'Emma Karlsson [2]', 'Johanna Magnusson']","['[DEN] ', '[DEN] ', '[SWE] ', '[SWE] ']","['21-15', '21-15']",WD ,20180412
-89,"['Konstantin Abramov [1]', 'Alexandr Zinchenko', 'Joel Eipe', 'Philip Seerup']","['[RUS] ', '[RUS] ', '[DEN] ', '[DEN] ']","['21-16', '18-21', '21-16']",MD ,20180412
-90,"['Delphine Delrue [2]', 'Thom Gicquel', 'Flore Vandenhoucke', 'Matijs Dierickx']","['[FRA] ', '[FRA] ', '[BEL] ', '[BEL] ']","['21-11', '21-13']",XD ,20180412
-91,"['Adrian Dziolko', 'Toby Penty [2]']","['[POL] ', '[ENG] ']","['16-21', '21-17', '24-22']",MS ,20180412
-92,"['June Wei Cheam [6]', 'Hermansah .']","['[MAS] ', '[INA] ']","['21-18', '21-19']",MS ,20180412
-93,"['Amalie Magelund', 'Freja Ravn', 'Lise Jaques [4]', 'Flore Vandenhoucke']","['[DEN] ', '[DEN] ', '[BEL] ', '[BEL] ']","['21-12', '21-8']",WD ,20180412
-94,"['Nikita Khakimov', 'Andrey Parakhodin', 'Emil Hybel', 'Mathias Thyrri']","['[RUS] ', '[RUS] ', '[DEN] ', '[DEN] ']","['21-19', '21-12']",MD ,20180412
-95,"['Elisa Melgaard', 'Mathias Thyrri', 'Anastasiia Shapovalova', 'Vasily Kuznetsov']","['[DEN] ', '[DEN] ', '[RUS] ', '[RUS] ']","['21-14', '21-9']",XD ,20180412
-96,"['Muralitharan Thinaah', 'Porntip Buranaprasertsuk']","['[MAS] ', '[THA] ']","['21-18', '21-18']",WS ,20180412
-97,"['Toby Penty [2]', 'Pierrick Cajot']","['[ENG] ', '[FRA] ']","['21-13', '24-22']",MS ,20180412
-98,"['Nikita Khakimov', 'Andrey Parakhodin', 'Daniel Lundgaard', 'Karl Thor Søndergaard']","['[RUS] ', '[RUS] ', '[DEN] ', '[DEN] ']","['21-18', '21-17']",MD ,20180412
-99,"['Lise Jaques [4]', 'Flore Vandenhoucke', 'Emilie Aalestrup', 'Sia Emilie Berg']","['[BEL] ', '[BEL] ', '[DEN] ', '[DEN] ']","['23-21', '21-7']",WD ,20180412
-100,"['Delphine Delrue [2]', 'Thom Gicquel', 'Sofie Nielsen', 'Nicklas Mathiasen']","['[FRA] ', '[FRA] ', '[DEN] ', '[DEN] ']","['21-16', '21-17']",XD ,20180412
-101,"['Hermansah .', 'Jeppe Bruun']","['[INA] ', '[DEN] ']","['22-20', '21-19']",MS ,20180412
-102,"['June Wei Cheam [6]', 'Jacob Nilsson']","['[MAS] ', '[SWE] ']","['21-15', '21-12']",MS ,20180412
-103,"['Debora Jille [3]', 'Imke Van Der Aar', 'Agnieszka Wojtkowska', 'Aneta Wojtkowska']","['[NED] ', '[NED] ', '[POL] ', '[POL] ']","['21-12', '21-14']",WD ,20180412
-104,"['Emil Hybel', 'Mathias Thyrri', 'Rory Easton', 'Matthew Nottingham']","['[DEN] ', '[DEN] ', '[ENG] ', '[ENG] ']","['12-21', '21-12', '21-12']",MD ,20180412
-105,"['Delphine Delrue [2]', 'Thom Gicquel', 'Elisa Melgaard', 'Mathias Thyrri']","['[FRA] ', '[FRA] ', '[DEN] ', '[DEN] ']","['21-17', '21-14']",XD ,20180412
-106,"['Julie Dawall Jakobsen [1]', 'Muralitharan Thinaah']","['[DEN] ', '[MAS] ']","['17-21', '21-15', '21-11']",WS ,20180412
-107,"['June Wei Cheam [6]', 'Adrian Dziolko']","['[MAS] ', '[POL] ']","['13-21', '21-13', '21-10']",MS ,20180412
-108,"['Chang Ya Lan', 'Cheng Wen Hsing', 'Amalie Magelund', 'Freja Ravn']","['[TPE] ', '[TPE] ', '[DEN] ', '[DEN] ']","['21-18', '27-25']",WD ,20180412
-109,"['Arun George', 'Sanyam Shukla', 'Nikita Khakimov', 'Andrey Parakhodin']","['[IND] ', '[IND] ', '[RUS] ', '[RUS] ']","['21-19', '21-19']",MD ,20180412
+,PLAYERS,COUNTRIES,SCORES,EVENT,match_week,match_location
+0,"['Aram Mahmoud', 'Kanishq M']","['[NED] ', '[IND] ']","['19-21', '21-6', '21-12']",MS - Qualification ,20180412,"Wateringen, Netherlands"
+1,"['Torjus Flaatten', 'Christoffer Elbrønd']","['[NOR] ', '[DEN] ']","['19-21', '21-14', '21-16']",MS - Qualification ,20180412,"Wateringen, Netherlands"
+2,"['Mohamed Abderrahime Belarbi [14]', 'Sander De Decker']","['[ALG] ', '[BEL] ']","['21-16', '21-23', '21-8']",MS - Qualification ,20180412,"Wateringen, Netherlands"
+3,"['Julian Edhofer', 'Joachim Cansse']","['[GER] ', '[BEL] ']","['21-18', '21-19']",MS - Qualification ,20180412,"Wateringen, Netherlands"
+4,"['Peter Roenn Stensaeth [9]', 'Quentin Filliettaz']","['[NOR] ', '[SUI] ']","['22-20', '21-18']",MS - Qualification ,20180412,"Wateringen, Netherlands"
+5,"['Jeppe Bruun', 'Frederik Aalestrup']","['[DEN] ', '[DEN] ']","['21-11', '21-12']",MS - Qualification ,20180412,"Wateringen, Netherlands"
+6,"['Johnnie Torjussen', 'Stijn De Langhe']","['[ENG] ', '[BEL] ']","['21-11', '21-15']",MS - Qualification ,20180412,"Wateringen, Netherlands"
+7,"['Tobias Kuenzi', 'Peter Roenn Stensaeth [9]']","['[SUI] ', '[NOR] ']","['21-10', '21-12']",MS - Qualification ,20180412,"Wateringen, Netherlands"
+8,"['Ieva Pope [6]', 'Joke De Langhe']","['[LAT] ', '[BEL] ']","['21-15', '14-21', '21-17']",WS - Qualification ,20180412,"Wateringen, Netherlands"
+9,"['Line Christophersen [3]', 'Anastasiia Shapovalova']","['[DEN] ', '[RUS] ']","['21-13', '17-21', '21-19']",WS - Qualification ,20180412,"Wateringen, Netherlands"
+10,"['Rebecca Kuhl', 'Monika Radovska']","['[SWE] ', '[LAT] ']","['24-22', '21-16']",WS - Qualification ,20180412,"Wateringen, Netherlands"
+11,"['Chang Ya Lan', 'Cheng Wen Hsing', 'Fee Teng Liew', 'Lizzie Tolman']","['[TPE] ', '[TPE] ', '[ENG] ', '[ENG] ']","['21-14', '21-15']",WD - Qualification ,20180412,"Wateringen, Netherlands"
+12,"['Joran Kweekel', 'Dimitar Yanakiev [16]']","['[NED] ', '[BUL] ']","['21-14', '17-21', '21-19']",MS - Qualification ,20180412,"Wateringen, Netherlands"
+13,"['Joonas Korhonen [15]', 'Karl Thor Søndergaard']","['[FIN] ', '[DEN] ']","['21-12', '21-15']",MS - Qualification ,20180412,"Wateringen, Netherlands"
+14,"['Johanna Magnusson [8]', 'Anne Fuglsang']","['[SWE] ', '[DEN] ']","['21-18', '21-12']",WS - Qualification ,20180412,"Wateringen, Netherlands"
+15,"['Aram Mahmoud', 'Rory Easton']","['[NED] ', '[ENG] ']","['21-14', '21-14']",MS - Qualification ,20180412,"Wateringen, Netherlands"
+16,"['Joshua Eipe', 'Julien Scheiwiller']","['[DEN] ', '[SUI] ']","['26-24', '16-21', '21-15']",MS - Qualification ,20180412,"Wateringen, Netherlands"
+17,"['Jeppe Bruun', 'Tobias Holst', 'Vasily Kuznetsov', 'Pawel Pradzinski']","['[DEN] ', '[DEN] ', '[RUS] ', '[POL] ']","['21-15', '19-21', '21-13']",MD - Qualification ,20180412,"Wateringen, Netherlands"
+18,"['Johnnie Torjussen', 'Julien Carraggi']","['[ENG] ', '[BEL] ']","['21-15', '21-14']",MS - Qualification ,20180412,"Wateringen, Netherlands"
+19,"['Phone Pyae Naing', 'Arun Kumar Ashok Kumar [12]']","['[MYA] ', '[IND] ']","['21-8', '19-21', '21-13']",MS - Qualification ,20180412,"Wateringen, Netherlands"
+20,"['Martin Bundgaard', 'Elias Bracke']","['[DEN] ', '[BEL] ']","['21-14', '21-16']",MS - Qualification ,20180412,"Wateringen, Netherlands"
+21,"['Rory Easton', 'Michael Giesinger [10]']","['[ENG] ', '[AUT] ']","['21-15', '21-11']",MS - Qualification ,20180412,"Wateringen, Netherlands"
+22,"['Joonas Korhonen [15]', 'Torjus Flaatten']","['[FIN] ', '[NOR] ']","['21-11', '14-5']",MS - Qualification ,20180412,"Wateringen, Netherlands"
+23,"['Vincent Espen', 'Phone Pyae Naing']","['[FRA] ', '[MYA] ']",[],MS - Qualification ,20180412,"Wateringen, Netherlands"
+24,"['Aram Mahmoud', 'Mattias Sonderskov']","['[NED] ', '[LUX] ']","['21-14', '21-10']",MS - Qualification ,20180412,"Wateringen, Netherlands"
+25,"['Dimitar Yanakiev [16]', 'David Jones']","['[BUL] ', '[ENG] ']","['26-24', '21-13']",MS - Qualification ,20180412,"Wateringen, Netherlands"
+26,"['Julien Scheiwiller', 'Kai Ho Tang [11]']","['[SUI] ', '[ENG] ']","['21-15', '21-4']",MS - Qualification ,20180412,"Wateringen, Netherlands"
+27,"['Emil Lauritzen', 'Mads Muurholm', 'Vincent Espen', 'Samson Gradt-Urban']","['[DEN] ', '[DEN] ', '[FRA] ', '[FRA] ']","['19-21', '21-17', '21-13']",MD - Qualification ,20180412,"Wateringen, Netherlands"
+28,"['Michelle Skødstrup [5]', 'Tanishq Mamilla Palli']","['[DEN] ', '[IND] ']","['21-7', '21-13']",WS - Qualification ,20180412,"Wateringen, Netherlands"
+29,"['Freja Ravn', 'Vaishnavi Karri']","['[DEN] ', '[IND] ']","['21-9', '21-17']",WS - Qualification ,20180412,"Wateringen, Netherlands"
+30,"['Jeppe Bruun', 'Vincent Espen']","['[DEN] ', '[FRA] ']","['21-11', '21-11']",MS - Qualification ,20180412,"Wateringen, Netherlands"
+31,"['Joshua Eipe', 'Georgii Karpov']","['[DEN] ', '[RUS] ']","['21-13', '21-19']",MS - Qualification ,20180412,"Wateringen, Netherlands"
+32,"['Li Lian Yang', 'Abigail Holden']","['[MAS] ', '[ENG] ']","['21-13', '21-19']",WS - Qualification ,20180412,"Wateringen, Netherlands"
+33,"['Debora Jille', 'Rebecca Kuhl']","['[NED] ', '[SWE] ']","['21-19', '23-21']",WS - Qualification ,20180412,"Wateringen, Netherlands"
+34,"['Michelle Skødstrup [5]', 'Freja Ravn']","['[DEN] ', '[DEN] ']","['21-18', '21-14']",WS - Qualification ,20180412,"Wateringen, Netherlands"
+35,"['Li Lian Yang', 'Johanna Magnusson [8]']","['[MAS] ', '[SWE] ']","['21-10', '21-7']",WS - Qualification ,20180412,"Wateringen, Netherlands"
+36,"['Lee Zii Yii', 'Line Christophersen [3]']","['[MAS] ', '[DEN] ']","['21-14', '21-9']",WS - Qualification ,20180412,"Wateringen, Netherlands"
+37,"['Jacob Nilsson', 'Peyo Boichinov']","['[SWE] ', '[BUL] ']","['21-15', '21-5']",MS ,20180412,"Wateringen, Netherlands"
+38,"['Christian Kirchmayr', 'Miha Ivanic']","['[SUI] ', '[SLO] ']","['19-21', '21-9', '21-13']",MS ,20180412,"Wateringen, Netherlands"
+39,"['Adrian Dziolko', 'Sahil Sipani']","['[POL] ', '[IND] ']","['21-13', '21-12']",MS ,20180412,"Wateringen, Netherlands"
+40,"['Qi Xuefei [5]', 'Amalie Hertz']","['[CHN] ', '[DEN] ']","['21-16', '21-13']",WS ,20180412,"Wateringen, Netherlands"
+41,"['Anura Prabhudesai', 'Gayle Mahulette [6]']","['[IND] ', '[NED] ']","['21-8', '21-17']",WS ,20180412,"Wateringen, Netherlands"
+42,"['Lee Zii Yii', 'Irina Amalie Andersen [7]']","['[MAS] ', '[DEN] ']","['14-21', '21-7', '21-14']",WS ,20180412,"Wateringen, Netherlands"
+43,"['Mathias Bonny', 'Oliver Schaller', 'Frederik Aalestrup', 'Mathias Moldt Baskjaer']","['[SUI] ', '[SUI] ', '[DEN] ', '[DEN] ']","['22-20', '21-18']",MD ,20180412,"Wateringen, Netherlands"
+44,"['Hermansah .', 'Gustav Stromvall', 'Nicklas Mathiasen', 'Mikkel Stoffersen']","['[INA] ', '[SWE] ', '[DEN] ', '[DEN] ']","['21-19', '10-21', '21-17']",MD ,20180412,"Wateringen, Netherlands"
+45,"['Chang Ya Lan', 'Cheng Wen Hsing', 'Isabella Nielsen', 'Claudia Paredes']","['[TPE] ', '[TPE] ', '[DEN] ', '[DEN] ']","['21-15', '21-6']",WD ,20180412,"Wateringen, Netherlands"
+46,"['Hermansah .', 'Andy Tsai']","['[INA] ', '[SWE] ']","['21-12', '21-13']",MS ,20180412,"Wateringen, Netherlands"
+47,"['Jacob Nilsson', 'Bernardo Atilano']","['[SWE] ', '[POR] ']","['21-11', '21-16']",MS ,20180412,"Wateringen, Netherlands"
+48,"['Anastasiia Shapovalova', 'Vasily Kuznetsov', 'Jessica Hopton', 'Michael Roe']","['[RUS] ', '[RUS] ', '[ENG] ', '[ENG] ']","['19-21', '21-17', '28-26']",XD ,20180412,"Wateringen, Netherlands"
+49,"['Susan Ekelund', 'Mikkel Stoffersen', 'Aneta Wojtkowska', 'Pawel Pietryja']","['[DEN] ', '[DEN] ', '[POL] ', '[POL] ']","['21-18', '22-20']",XD ,20180412,"Wateringen, Netherlands"
+50,"['Chang Ya Lan', 'Lee Zii Yii']","['[TPE] ', '[MAS] ']","['21-19', '10-21', '21-19']",WS ,20180412,"Wateringen, Netherlands"
+51,"['Yaelle Hoyaux', 'Mariya Mitsova [2]']","['[FRA] ', '[BUL] ']","['20-22', '21-16', '21-14']",WS ,20180412,"Wateringen, Netherlands"
+52,"['Konstantin Abramov [1]', 'Alexandr Zinchenko', 'Hermansah .', 'Gustav Stromvall']","['[RUS] ', '[RUS] ', '[INA] ', '[SWE] ']","['21-13', '21-16']",MD ,20180412,"Wateringen, Netherlands"
+53,"['Amalie Magelund', 'Freja Ravn', 'Evie Burbidge', 'Jessica Hopton']","['[DEN] ', '[DEN] ', '[ENG] ', '[ENG] ']","['21-17', '16-21', '21-9']",WD ,20180412,"Wateringen, Netherlands"
+54,"['Emma Karlsson [2]', 'Johanna Magnusson', 'Verlaine Faulmann', 'Margot Lambert']","['[SWE] ', '[SWE] ', '[FRA] ', '[FRA] ']","['19-21', '21-12', '21-14']",WD ,20180412,"Wateringen, Netherlands"
+55,"['Elisa Melgaard', 'Mathias Thyrri', 'Celine Burkart [3]', 'Oliver Schaller']","['[DEN] ', '[DEN] ', '[SUI] ', '[SUI] ']","['21-17', '23-21']",XD ,20180412,"Wateringen, Netherlands"
+56,"['Nick Fransman', 'Adrian George']","['[NED] ', '[IND] ']","['21-16', '21-14']",MS ,20180412,"Wateringen, Netherlands"
+57,"['Bernardo Atilano', 'Martin Bundgaard']","['[POR] ', '[DEN] ']","['21-18', '18-21', '21-10']",MS ,20180412,"Wateringen, Netherlands"
+58,"['Pierrick Cajot', 'Aram Mahmoud']","['[FRA] ', '[NED] ']","['21-17', '21-19']",MS ,20180412,"Wateringen, Netherlands"
+59,"['Ksenia Polikarpova [3]', 'Mugdha Agrey']","['[ISR] ', '[IND] ']","['21-12', '21-7']",WS ,20180412,"Wateringen, Netherlands"
+60,"['Michelle Skødstrup', 'Kati-Kreet Marran']","['[DEN] ', '[EST] ']","['21-14', '21-9']",WS ,20180412,"Wateringen, Netherlands"
+61,"['Yaelle Hoyaux', 'Ayla Huser']","['[FRA] ', '[SUI] ']","['21-15', '23-21']",WS ,20180412,"Wateringen, Netherlands"
+62,"['Joel Eipe', 'Philip Seerup', 'Jeppe Bruun', 'Tobias Holst']","['[DEN] ', '[DEN] ', '[DEN] ', '[DEN] ']","['18-21', '21-15', '21-14']",MD ,20180412,"Wateringen, Netherlands"
+63,"['Julie Dawall Jakobsen', 'Ditte Søby', 'Moa Sjoo', 'Tilda Sjoo']","['[DEN] ', '[DEN] ', '[SWE] ', '[SWE] ']","['20-22', '21-14', '21-12']",WD ,20180412,"Wateringen, Netherlands"
+64,"['Adrian Dziolko', 'Luka Wraber']","['[POL] ', '[AUT] ']","['21-15', '21-5']",MS ,20180412,"Wateringen, Netherlands"
+65,"['Anne Tran', 'Jordan Corvee', 'Lise Jaques', 'Freek Golinski']","['[FRA] ', '[FRA] ', '[BEL] ', '[BEL] ']","['21-15', '21-11']",XD ,20180412,"Wateringen, Netherlands"
+66,"['Toby Penty [2]', 'Joonas Korhonen']","['[ENG] ', '[FIN] ']","['21-12', '21-11']",MS ,20180412,"Wateringen, Netherlands"
+67,"['Claudia Paredes', 'Mads Emil Christensen', 'Sian Kelly', 'Matthew Nottingham']","['[DEN] ', '[DEN] ', '[ENG] ', '[ENG] ']","['22-20', '16-21', '21-17']",XD ,20180412,"Wateringen, Netherlands"
+68,"['Anura Prabhudesai', 'Lianne Tan']","['[IND] ', '[BEL] ']","['21-18', '17-21', '21-13']",WS ,20180412,"Wateringen, Netherlands"
+69,"['Porntip Buranaprasertsuk', 'Michelle Skødstrup']","['[THA] ', '[DEN] ']","['22-20', '21-10']",WS ,20180412,"Wateringen, Netherlands"
+70,"['Pierrick Cajot', 'Joshua Eipe']","['[FRA] ', '[DEN] ']","['10-21', '21-15', '21-19']",MS ,20180412,"Wateringen, Netherlands"
+71,"['Lise Jaques [4]', 'Flore Vandenhoucke', 'Susan Ekelund', 'Line Fleischer']","['[BEL] ', '[BEL] ', '[DEN] ', '[DEN] ']","['21-14', '21-16']",WD ,20180412,"Wateringen, Netherlands"
+72,"['Daniel Lundgaard', 'Karl Thor Søndergaard', 'Vladimir Nikulov', 'Artem Serpionov']","['[DEN] ', '[DEN] ', '[RUS] ', '[RUS] ']","['21-18', '21-17']",MD ,20180412,"Wateringen, Netherlands"
+73,"['Debora Jille [3]', 'Imke Van Der Aar', 'Anne Katrine Hansen', 'Marie Louise Steffensen']","['[NED] ', '[NED] ', '[DEN] ', '[DEN] ']","['21-12', '21-14']",WD ,20180412,"Wateringen, Netherlands"
+74,"['Delphine Delrue [2]', 'Thom Gicquel', 'Susan Ekelund', 'Mikkel Stoffersen']","['[FRA] ', '[FRA] ', '[DEN] ', '[DEN] ']","['21-18', '21-14']",XD ,20180412,"Wateringen, Netherlands"
+75,"['Flore Vandenhoucke', 'Matijs Dierickx', 'Christine Busch', 'Mads Muurholm']","['[BEL] ', '[BEL] ', '[DEN] ', '[DEN] ']","['21-10', '21-10']",XD ,20180412,"Wateringen, Netherlands"
+76,"['Yaelle Hoyaux', 'Chang Ya Lan']","['[FRA] ', '[TPE] ']","['21-16', '21-15']",WS ,20180412,"Wateringen, Netherlands"
+77,"['Adrian Dziolko', 'Abhishek Yeligar [5]']","['[POL] ', '[IND] ']","['21-17', '21-16']",MS ,20180412,"Wateringen, Netherlands"
+78,"['Arun George', 'Sanyam Shukla', 'Mathias Bonny', 'Oliver Schaller']","['[IND] ', '[IND] ', '[SUI] ', '[SUI] ']","['19-21', '21-17', '21-14']",MD ,20180412,"Wateringen, Netherlands"
+79,"['Chang Ya Lan', 'Cheng Wen Hsing', 'Julie Dawall Jakobsen', 'Ditte Søby']","['[TPE] ', '[TPE] ', '[DEN] ', '[DEN] ']","['21-23', '21-15', '21-10']",WD ,20180412,"Wateringen, Netherlands"
+80,"['Julie Dawall Jakobsen [1]', 'Ksenia Polikarpova [3]']","['[DEN] ', '[ISR] ']","['21-15', '17-21', '21-11']",WS ,20180412,"Wateringen, Netherlands"
+81,"['Elisa Melgaard', 'Mathias Thyrri', 'Anne Tran', 'Jordan Corvee']","['[DEN] ', '[DEN] ', '[FRA] ', '[FRA] ']","['21-15', '16-21', '21-15']",XD ,20180412,"Wateringen, Netherlands"
+82,"['Muralitharan Thinaah', 'Yaelle Hoyaux']","['[MAS] ', '[FRA] ']","['21-16', '21-17']",WS ,20180412,"Wateringen, Netherlands"
+83,"['Chang Ya Lan', 'Cheng Wen Hsing', 'Debora Jille [3]', 'Imke Van Der Aar']","['[TPE] ', '[TPE] ', '[NED] ', '[NED] ']","['21-19', '22-20']",WD ,20180412,"Wateringen, Netherlands"
+84,"['Arun George', 'Sanyam Shukla', 'Konstantin Abramov [1]', 'Alexandr Zinchenko']","['[IND] ', '[IND] ', '[RUS] ', '[RUS] ']","['21-17', '21-14']",MD ,20180412,"Wateringen, Netherlands"
+85,"['Julie Dawall Jakobsen [1]', 'Qi Xuefei [5]']","['[DEN] ', '[CHN] ']","['21-12', '10-21', '21-13']",WS ,20180412,"Wateringen, Netherlands"
+86,"['Anne Tran', 'Jordan Corvee', 'Isabella Nielsen [1]', 'Kristoffer Knudsen']","['[FRA] ', '[FRA] ', '[DEN] ', '[DEN] ']","['22-20', '21-14']",XD ,20180412,"Wateringen, Netherlands"
+87,"['Ksenia Polikarpova [3]', 'Anura Prabhudesai']","['[ISR] ', '[IND] ']","['21-17', '21-14']",WS ,20180412,"Wateringen, Netherlands"
+88,"['Amalie Magelund', 'Freja Ravn', 'Emma Karlsson [2]', 'Johanna Magnusson']","['[DEN] ', '[DEN] ', '[SWE] ', '[SWE] ']","['21-15', '21-15']",WD ,20180412,"Wateringen, Netherlands"
+89,"['Konstantin Abramov [1]', 'Alexandr Zinchenko', 'Joel Eipe', 'Philip Seerup']","['[RUS] ', '[RUS] ', '[DEN] ', '[DEN] ']","['21-16', '18-21', '21-16']",MD ,20180412,"Wateringen, Netherlands"
+90,"['Delphine Delrue [2]', 'Thom Gicquel', 'Flore Vandenhoucke', 'Matijs Dierickx']","['[FRA] ', '[FRA] ', '[BEL] ', '[BEL] ']","['21-11', '21-13']",XD ,20180412,"Wateringen, Netherlands"
+91,"['Adrian Dziolko', 'Toby Penty [2]']","['[POL] ', '[ENG] ']","['16-21', '21-17', '24-22']",MS ,20180412,"Wateringen, Netherlands"
+92,"['June Wei Cheam [6]', 'Hermansah .']","['[MAS] ', '[INA] ']","['21-18', '21-19']",MS ,20180412,"Wateringen, Netherlands"
+93,"['Amalie Magelund', 'Freja Ravn', 'Lise Jaques [4]', 'Flore Vandenhoucke']","['[DEN] ', '[DEN] ', '[BEL] ', '[BEL] ']","['21-12', '21-8']",WD ,20180412,"Wateringen, Netherlands"
+94,"['Nikita Khakimov', 'Andrey Parakhodin', 'Emil Hybel', 'Mathias Thyrri']","['[RUS] ', '[RUS] ', '[DEN] ', '[DEN] ']","['21-19', '21-12']",MD ,20180412,"Wateringen, Netherlands"
+95,"['Elisa Melgaard', 'Mathias Thyrri', 'Anastasiia Shapovalova', 'Vasily Kuznetsov']","['[DEN] ', '[DEN] ', '[RUS] ', '[RUS] ']","['21-14', '21-9']",XD ,20180412,"Wateringen, Netherlands"
+96,"['Muralitharan Thinaah', 'Porntip Buranaprasertsuk']","['[MAS] ', '[THA] ']","['21-18', '21-18']",WS ,20180412,"Wateringen, Netherlands"
+97,"['Toby Penty [2]', 'Pierrick Cajot']","['[ENG] ', '[FRA] ']","['21-13', '24-22']",MS ,20180412,"Wateringen, Netherlands"
+98,"['Nikita Khakimov', 'Andrey Parakhodin', 'Daniel Lundgaard', 'Karl Thor Søndergaard']","['[RUS] ', '[RUS] ', '[DEN] ', '[DEN] ']","['21-18', '21-17']",MD ,20180412,"Wateringen, Netherlands"
+99,"['Lise Jaques [4]', 'Flore Vandenhoucke', 'Emilie Aalestrup', 'Sia Emilie Berg']","['[BEL] ', '[BEL] ', '[DEN] ', '[DEN] ']","['23-21', '21-7']",WD ,20180412,"Wateringen, Netherlands"
+100,"['Delphine Delrue [2]', 'Thom Gicquel', 'Sofie Nielsen', 'Nicklas Mathiasen']","['[FRA] ', '[FRA] ', '[DEN] ', '[DEN] ']","['21-16', '21-17']",XD ,20180412,"Wateringen, Netherlands"
+101,"['Hermansah .', 'Jeppe Bruun']","['[INA] ', '[DEN] ']","['22-20', '21-19']",MS ,20180412,"Wateringen, Netherlands"
+102,"['June Wei Cheam [6]', 'Jacob Nilsson']","['[MAS] ', '[SWE] ']","['21-15', '21-12']",MS ,20180412,"Wateringen, Netherlands"
+103,"['Debora Jille [3]', 'Imke Van Der Aar', 'Agnieszka Wojtkowska', 'Aneta Wojtkowska']","['[NED] ', '[NED] ', '[POL] ', '[POL] ']","['21-12', '21-14']",WD ,20180412,"Wateringen, Netherlands"
+104,"['Emil Hybel', 'Mathias Thyrri', 'Rory Easton', 'Matthew Nottingham']","['[DEN] ', '[DEN] ', '[ENG] ', '[ENG] ']","['12-21', '21-12', '21-12']",MD ,20180412,"Wateringen, Netherlands"
+105,"['Delphine Delrue [2]', 'Thom Gicquel', 'Elisa Melgaard', 'Mathias Thyrri']","['[FRA] ', '[FRA] ', '[DEN] ', '[DEN] ']","['21-17', '21-14']",XD ,20180412,"Wateringen, Netherlands"
+106,"['Julie Dawall Jakobsen [1]', 'Muralitharan Thinaah']","['[DEN] ', '[MAS] ']","['17-21', '21-15', '21-11']",WS ,20180412,"Wateringen, Netherlands"
+107,"['June Wei Cheam [6]', 'Adrian Dziolko']","['[MAS] ', '[POL] ']","['13-21', '21-13', '21-10']",MS ,20180412,"Wateringen, Netherlands"
+108,"['Chang Ya Lan', 'Cheng Wen Hsing', 'Amalie Magelund', 'Freja Ravn']","['[TPE] ', '[TPE] ', '[DEN] ', '[DEN] ']","['21-18', '27-25']",WD ,20180412,"Wateringen, Netherlands"
+109,"['Arun George', 'Sanyam Shukla', 'Nikita Khakimov', 'Andrey Parakhodin']","['[IND] ', '[IND] ', '[RUS] ', '[RUS] ']","['21-19', '21-19']",MD ,20180412,"Wateringen, Netherlands"

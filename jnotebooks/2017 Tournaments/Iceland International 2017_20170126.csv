@@ -1,146 +1,146 @@
-,PLAYERS,COUNTRIES,SCORES,EVENT,match_week
-0,"['Brynjar Mar Ellertsson', 'David Bjarni Bjornsson [1]']","['[ISL] ', '[ISL] ']",[],MS - Qualification,20170126
-1,"['Einar Sverrisson', 'Jens-Frederik Nielsen']","['[ISL] ', '[GLD] ']",[],MS - Qualification,20170126
-2,"['Kristofer Darri Finnsson', 'Robert Thor Henn [7]']","['[ISL] ', '[ISL] ']","['21-9', '11-21', '21-16']",MS - Qualification,20170126
-3,"['Steven Stallwood', 'Robert Ingi Huldarsson']","['[ENG] ', '[ISL] ']","['21-17', '21-15']",MS - Qualification,20170126
-4,"['Thordur Skulason', 'George Priestman [3]']","['[ISL] ', '[ENG] ']",[],MS - Qualification,20170126
-5,"['Atli Tomasson', 'Frederik Elsner']","['[ISL] ', '[GLD] ']",[],MS - Qualification,20170126
-6,"['Viknesh Rajendran [6]', 'Daniel Isak Steinarsson']","['[ENG] ', '[ISL] ']","['21-6', '21-18']",MS - Qualification,20170126
-7,"['Bjarni Thor Sverrisson', 'Bror Madsen']","['[ISL] ', '[GLD] ']",[],MS - Qualification,20170126
-8,"['Ethan Van Leeuwen', 'Eidur Isak Broddason']","['[ENG] ', '[ISL] ']","['21-19', '22-20']",MS - Qualification,20170126
-9,"['Benjamin Pui Hun Li', 'Daniel Johannesson [8]']","['[ENG] ', '[ISL] ']","['21-10', '22-20']",MS - Qualification,20170126
-10,"['Phone Pyae Naing Phone Pyae Naing', 'Sigurdur Edvard Olafsson']","['[MYA] ', '[ISL] ']","['21-15', '21-17']",MS - Qualification,20170126
-11,"['Zach Russ [4]', 'Bjarki Stefansson']","['[ENG] ', '[ISL] ']","['21-9', '21-14']",MS - Qualification,20170126
-12,"['Jonas Baldursson', 'Taatsiannguaq Pedersen']","['[ISL] ', '[GLD] ']","['21-6', '21-16']",MS - Qualification,20170126
-13,"['Heiko Zoober [5]', 'Eysteinn Hognason']","['[EST] ', '[ISL] ']","['21-8', '21-9']",MS - Qualification,20170126
-14,"['Haukur Gylfi Gislason', 'Nicholas Robert Henson Waller']","['[ISL] ', '[USA] ']",[],MS - Qualification,20170126
-15,"['Elvar Mar Sturlaugsson', 'Peter Roenn Stensaeth [2]']","['[ISL] ', '[NOR] ']",[],MS - Qualification,20170126
-16,"['Chloe Le Tissier', 'Ingibjorg Rosa Jonsdottir']","['[ENG] ', '[ISL] ']","['21-10', '21-9']",WS - Qualification,20170126
-17,"['Einar Sverrisson', 'Brynjar Mar Ellertsson']","['[ISL] ', '[ISL] ']","['18-21', '21-18', '21-14']",MS - Qualification,20170126
-18,"['Kristofer Darri Finnsson', 'Steven Stallwood']","['[ISL] ', '[ENG] ']","['21-14', '21-17']",MS - Qualification,20170126
-19,"['Atli Tomasson', 'Thordur Skulason']","['[ISL] ', '[ISL] ']","['21-13', '21-12']",MS - Qualification,20170126
-20,"['Viknesh Rajendran [6]', 'Bjarni Thor Sverrisson']","['[ENG] ', '[ISL] ']","['21-9', '21-16']",MS - Qualification,20170126
-21,"['Pamela Reyes', 'Sigridur Arnadottir [1]']","['[ENG] ', '[ISL] ']",[],WS - Qualification,20170126
-22,"['Viola Lindberg', 'Asmita Chaudhari']","['[FIN] ', '[ENG] ']","['21-14', '21-14']",WS - Qualification,20170126
-23,"['Astrid Molander', 'Annie Lado']","['[DEN] ', '[ENG] ']","['21-15', '16-21', '21-11']",WS - Qualification,20170126
-24,"['Sara Lindskov Jacobsen', 'Halla Maria Gustafsdottir']","['[GLD] ', '[ISL] ']","['21-6', '21-8']",WS - Qualification,20170126
-25,"['Ethan Van Leeuwen', 'Benjamin Pui Hun Li']","['[ENG] ', '[ENG] ']","['21-18', '21-12']",MS - Qualification,20170126
-26,"['Zach Russ [4]', 'Phone Pyae Naing Phone Pyae Naing']","['[ENG] ', '[MYA] ']","['18-21', '21-16', '21-17']",MS - Qualification,20170126
-27,"['Heiko Zoober [5]', 'Jonas Baldursson']","['[EST] ', '[ISL] ']","['21-14', '21-12']",MS - Qualification,20170126
-28,"['Haukur Gylfi Gislason', 'Elvar Mar Sturlaugsson']","['[ISL] ', '[ISL] ']","['20-22', '21-17', '22-20']",MS - Qualification,20170126
-29,"['Chloe Le Tissier', 'Tanvi Dave']","['[ENG] ', '[ENG] ']","['21-7', '21-14']",WS - Qualification,20170126
-30,"['Jessica Li [3]', 'Katrin Vala Einarsdottir']","['[ENG] ', '[ISL] ']","['21-8', '21-0']",WS - Qualification,20170126
-31,"['Eyrun Bjorg Gudjonsdottir', 'Una Hrund Orvar']","['[ISL] ', '[ISL] ']","['21-18', '21-16']",WS - Qualification,20170126
-32,"['Andrea Nilsdottir [2]', 'Ingibjorg Soley Einarsdottir']","['[ISL] ', '[ISL] ']","['21-12', '21-11']",WS - Qualification,20170126
-33,"['Max Flynn', 'Lizzie Tolman', 'Egill Gudlaugsson', 'Erla Bjorg Hafsteinsdottir']","['[ENG] ', '[ENG] ', '[ISL] ', '[ISL] ']","['21-17', '17-21', '21-14']",XD,20170126
-34,"['David Bjarni Bjornsson', 'Drifa Hardardottir', 'Atli Tomasson', 'Eyrun Bjorg Gudjonsdottir']","['[ISL] ', '[ISL] ', '[ISL] ', '[ISL] ']","['21-10', '21-8']",XD,20170126
-35,"['Steven Stallwood', 'Hope Warner', 'Eidur Isak Broddason', 'Thorunn Eylands']","['[ENG] ', '[ENG] ', '[ISL] ', '[ISL] ']","['21-12', '21-17']",XD,20170126
-36,"['Fredrik Kristensen [4]', 'Solvar Flaten Jorgensen', 'Bjarni Thor Sverrisson', 'Katrin Vala Einarsdottir']","['[NOR] ', '[NOR] ', '[ISL] ', '[ISL] ']","['21-15', '21-9']",XD,20170126
-37,"['George Priestman', 'Molly Chapman', 'Jonas Baldursson', 'Sunna Osp Runolfsdottir']","['[ENG] ', '[ENG] ', '[ISL] ', '[ISL] ']","['21-18', '19-21', '23-21']",XD,20170126
-38,"['Jeppe Ludvigsen', 'Astrid Molander', 'Sigurdur Edvard Olafsson', 'Harpa Hilmisdottir']","['[DEN] ', '[DEN] ', '[ISL] ', '[ISL] ']","['21-9', '21-9']",XD,20170126
-39,"['Robert Ingi Huldarsson', 'Arna Karen Johannsdottir', 'Benjamin Pui Hun Li', 'Jessica Li']","['[ISL] ', '[ISL] ', '[ENG] ', '[ENG] ']","['22-20', '17-21', '21-12']",XD,20170126
-40,"['Stuart Hardy', 'Chloe Le Tissier', 'Thordur Skulason', 'Una Hrund Orvar']","['[ENG] ', '[ENG] ', '[ISL] ', '[ISL] ']","['21-12', '21-8']",XD,20170126
-41,"['Sturla Flaten Jorgensen', 'Marlene Wåland', 'Haukur Gylfi Gislason', 'Ingibjorg Soley Einarsdottir']","['[NOR] ', '[NOR] ', '[ISL] ', '[ISL] ']","['21-8', '21-9']",XD,20170126
-42,"['Ethan Van Leeuwen', 'Sian Kelly', 'Robert Thor Henn', 'Andrea Nilsdottir']","['[ENG] ', '[ENG] ', '[ISL] ', '[ISL] ']","['21-23', '21-12', '21-18']",XD,20170126
-43,"['Jan Rudzinski [3]', 'Wiktoria Rudzinska', 'Elvar Mar Sturlaugsson', 'Ulfheidur Embla Asgeirsdottir']","['[POL] ', '[POL] ', '[ISL] ', '[ISL] ']","['21-7', '21-9']",XD,20170126
-44,"['Magnus Christensen', 'Natalie Syvertsen', 'Brynjar Mar Ellertsson', 'Ingibjorg Rosa Jonsdottir']","['[NOR] ', '[NOR] ', '[ISL] ', '[ISL] ']","['21-5', '21-3']",XD,20170126
-45,"['Calvin Jia Hong Ong', 'Lyddia Yi Yu Cheah', 'Einar Sverrisson', 'Halla Maria Gustafsdottir']","['[MAS] ', '[MAS] ', '[ISL] ', '[ISL] ']","['21-9', '21-9']",XD,20170126
-46,"['Kristofer Darri Finnsson', 'Margrét Johannsdottir', 'Carl Christian Mork', 'Elisa Wiborg']","['[ISL] ', '[ISL] ', '[NOR] ', '[NOR] ']","['21-15', '21-10']",XD,20170126
-47,"['Callum Hemming [2]', 'Fee Teng Liew', 'Daniel Johannesson', 'Sigridur Arnadottir']","['[ENG] ', '[ENG] ', '[ISL] ', '[ISL] ']","['21-16', '21-14']",XD,20170126
-48,"['Georgina Bland [1]', 'Ella Soderstrom']","['[ENG] ', '[SWE] ']","['21-18', '21-18']",WS,20170126
-49,"['Vytaute Fomkinaite', 'Arna Karen Johannsdottir']","['[LTU] ', '[ISL] ']","['21-12', '21-6']",WS,20170126
-50,"['Nicola Cerfontyne [6]', 'Harpa Hilmisdottir']","['[ENG] ', '[ISL] ']","['21-8', '21-13']",WS,20170126
-51,"['Elisa Wiborg', 'Sara Lindskov Jacobsen']","['[NOR] ', '[GLD] ']","['21-14', '21-13']",WS,20170126
-52,"['Aimee Moran [3]', 'Ulfheidur Embla Asgeirsdottir']","['[WAL] ', '[ISL] ']","['21-10', '21-10']",WS,20170126
-53,"['Grace King', 'Viola Lindberg']","['[ENG] ', '[FIN] ']","['21-9', '21-14']",WS,20170126
-54,"['Lyddia Yi Yu Cheah [7]', 'Sian Kelly']","['[MAS] ', '[ENG] ']","['21-12', '21-14']",WS,20170126
-55,"['Abigail Holden', 'Eyrun Bjorg Gudjonsdottir']","['[ENG] ', '[ISL] ']","['21-10', '21-4']",WS,20170126
-56,"['Astrid Molander', 'Vilde Espeseth']","['[DEN] ', '[NOR] ']","['14-21', '21-15', '22-20']",WS,20170126
-57,"['Li Lian Yang [5]', 'Wiktoria Rudzinska']","['[MAS] ', '[POL] ']","['21-11', '21-6']",WS,20170126
-58,"['Marlene Wåland', 'Thorunn Eylands']","['[NOR] ', '[ISL] ']","['21-16', '21-12']",WS,20170126
-59,"['Gerda Voitechovskaja [4]', 'Pihla Lindberg']","['[LTU] ', '[FIN] ']","['21-15', '21-19']",WS,20170126
-60,"['Pamela Reyes', 'Chloe Le Tissier']","['[ENG] ', '[ENG] ']","['21-10', '21-7']",WS,20170126
-61,"['Miu Lin Ngan [8]', 'Jessica Li']","['[ENG] ', '[ENG] ']","['21-6', '21-14']",WS,20170126
-62,"['Margrét Johannsdottir', 'Freya Patel-Redfearn']","['[ISL] ', '[ENG] ']","['21-11', '21-7']",WS,20170126
-63,"['Sigridur Arnadottir', 'Andrea Nilsdottir']","['[ISL] ', '[ISL] ']","['21-18', '21-11']",WS,20170126
-64,"['Duarte Nuno Anjo', 'Viknesh Rajendran']","['[POR] ', '[ENG] ']","['14-21', '21-17', '21-14']",MS,20170126
-65,"['Peter Roenn Stensaeth', 'Heiko Zoober']","['[NOR] ', '[EST] ']","['21-15', '18-21', '21-14']",MS,20170126
-66,"['Zach Russ', 'Pawel Pradzinski']","['[ENG] ', '[POL] ']","['22-20', '21-18']",MS,20170126
-67,"['Kim Bruun [1]', 'Ethan Van Leeuwen']","['[DEN] ', '[ENG] ']","['21-10', '21-15']",MS,20170126
-68,"['David Peng', 'Haukur Gylfi Gislason']","['[GER] ', '[ISL] ']","['21-4', '21-6']",MS,20170126
-69,"['Adam Mendrek [6]', 'Ross Green']","['[CZE] ', '[ENG] ']","['21-10', '24-22']",MS,20170126
-70,"['Mikkel Enghøj', 'Einar Sverrisson']","['[DEN] ', '[ISL] ']","['21-8', '21-9']",MS,20170126
-71,"['Bernardo Atilano', 'Mihkel Laanes']","['[POR] ', '[EST] ']","['21-13', '21-19']",MS,20170126
-72,"['Subhankar Dey [3]', 'Johnnie Torjussen']","['[IND] ', '[ENG] ']","['21-15', '21-15']",MS,20170126
-73,"['Vilson Vattanirappel [5]', 'Prakash Vijayanath']","['[AUT] ', '[RSA] ']","['21-17', '17-21', '21-15']",MS,20170126
-74,"['David Jones', 'George Priestman']","['[ENG] ', '[ENG] ']","['21-18', '21-19']",MS,20170126
-75,"['Sam Parsons [4]', 'David Bjarni Bjornsson']","['[ENG] ', '[ISL] ']","['21-9', '21-17']",MS,20170126
-76,"['Simon Wang', 'Michael Spencer-Smith']","['[GER] ', '[ENG] ']","['21-11', '21-10']",MS,20170126
-77,"['Luis Ramon Garrido [8]', 'Kristofer Darri Finnsson']","['[MEX] ', '[ISL] ']","['18-21', '21-8', '21-17']",MS,20170126
-78,"['Robert Mann', 'Atli Tomasson']","['[LUX] ', '[ISL] ']","['21-16', '21-13']",MS,20170126
-79,"['Kalle Koljonen [2]', 'Alex Lane']","['[FIN] ', '[ENG] ']","['21-17', '21-19']",MS,20170126
-80,"['Lyddia Yi Yu Cheah', 'Li Lian Yang', 'María Arnadottir', 'Andrea Nilsdottir']","['[MAS] ', '[MAS] ', '[ISL] ', '[ISL] ']","['21-9', '21-6']",WD,20170126
-81,"['Abigail Holden', 'Miu Lin Ngan', 'Erla Bjorg Hafsteinsdottir', 'Snjolaug Johannsdottir']","['[ENG] ', '[ENG] ', '[ISL] ', '[ISL] ']","['21-15', '16-21', '21-15']",WD,20170126
-82,"['Grace King', 'Hope Warner', 'Katrin Vala Einarsdottir', 'Ingibjorg Rosa Jonsdottir']","['[ENG] ', '[ENG] ', '[ISL] ', '[ISL] ']","['21-8', '21-7']",WD,20170126
-83,"['Sian Kelly', 'Annie Lado', 'Thorunn Eylands', 'Sunna Osp Runolfsdottir']","['[ENG] ', '[ENG] ', '[ISL] ', '[ISL] ']","['21-12', '21-12']",WD,20170126
-84,"['Zach Russ', 'Steven Stallwood', 'Brynjar Mar Ellertsson', 'Thordur Skulason']","['[ENG] ', '[ENG] ', '[ISL] ', '[ISL] ']","['21-5', '21-7']",MD,20170126
-85,"['Max Flynn', 'David Jones', 'Bjarki Stefansson', 'Atli Tomasson']","['[ENG] ', '[ENG] ', '[ISL] ', '[ISL] ']","['21-11', '21-6']",MD,20170126
-86,"['Haukur Gylfi Gislason', 'Elvar Mar Sturlaugsson', 'Magnus Christensen', 'Vegard Rikheim']","['[ISL] ', '[ISL] ', '[NOR] ', '[NOR] ']",[],MD,20170126
-87,"['David Bjarni Bjornsson', 'Kristofer Darri Finnsson', 'Callum Hemming', 'Johnnie Torjussen']","['[ISL] ', '[ISL] ', '[ENG] ', '[ENG] ']","['20-22', '21-18', '24-22']",MD,20170126
-88,"['Robert Golding', 'Phone Pyae Naing Phone Pyae Naing', 'Frederik Elsner', 'Jens-Frederik Nielsen']","['[ENG] ', '[MYA] ', '[GLD] ', '[GLD] ']",[],MD,20170126
-89,"['Mihkel Laanes', 'Heiko Zoober', 'Daniel Isak Steinarsson', 'Einar Sverrisson']","['[EST] ', '[EST] ', '[ISL] ', '[ISL] ']","['21-6', '21-16']",MD,20170126
-90,"['Max Flynn', 'Lizzie Tolman', 'Bastian Kersaudy [1]', 'Lea Palermo']","['[ENG] ', '[ENG] ', '[FRA] ', '[FRA] ']",[],XD,20170126
-91,"['Steven Stallwood', 'Hope Warner', 'David Bjarni Bjornsson', 'Drifa Hardardottir']","['[ENG] ', '[ENG] ', '[ISL] ', '[ISL] ']","['21-12', '21-16']",XD,20170126
-92,"['Fredrik Kristensen [4]', 'Solvar Flaten Jorgensen', 'George Priestman', 'Molly Chapman']","['[NOR] ', '[NOR] ', '[ENG] ', '[ENG] ']","['21-14', '21-19']",XD,20170126
-93,"['Jeppe Ludvigsen', 'Astrid Molander', 'Robert Ingi Huldarsson', 'Arna Karen Johannsdottir']","['[DEN] ', '[DEN] ', '[ISL] ', '[ISL] ']","['21-15', '21-16']",XD,20170126
-94,"['Sturla Flaten Jorgensen', 'Marlene Wåland', 'Stuart Hardy', 'Chloe Le Tissier']","['[NOR] ', '[NOR] ', '[ENG] ', '[ENG] ']","['21-12', '21-17']",XD,20170126
-95,"['Ethan Van Leeuwen', 'Sian Kelly', 'Jan Rudzinski [3]', 'Wiktoria Rudzinska']","['[ENG] ', '[ENG] ', '[POL] ', '[POL] ']","['21-11', '21-5']",XD,20170126
-96,"['Calvin Jia Hong Ong', 'Lyddia Yi Yu Cheah', 'Magnus Christensen', 'Natalie Syvertsen']","['[MAS] ', '[MAS] ', '[NOR] ', '[NOR] ']","['21-16', '21-19']",XD,20170126
-97,"['Callum Hemming [2]', 'Fee Teng Liew', 'Kristofer Darri Finnsson', 'Margrét Johannsdottir']","['[ENG] ', '[ENG] ', '[ISL] ', '[ISL] ']","['18-21', '21-12', '21-12']",XD,20170126
-98,"['Georgina Bland [1]', 'Vytaute Fomkinaite']","['[ENG] ', '[LTU] ']","['21-17', '21-9']",WS,20170126
-99,"['Nicola Cerfontyne [6]', 'Elisa Wiborg']","['[ENG] ', '[NOR] ']","['21-10', '21-10']",WS,20170126
-100,"['Grace King', 'Aimee Moran [3]']","['[ENG] ', '[WAL] ']","['21-17', '14-21', '21-15']",WS,20170126
-101,"['Lyddia Yi Yu Cheah [7]', 'Abigail Holden']","['[MAS] ', '[ENG] ']","['21-17', '21-12']",WS,20170126
-102,"['Li Lian Yang [5]', 'Astrid Molander']","['[MAS] ', '[DEN] ']","['21-13', '21-6']",WS,20170126
-103,"['Gerda Voitechovskaja [4]', 'Marlene Wåland']","['[LTU] ', '[NOR] ']","['21-14', '21-12']",WS,20170126
-104,"['Pamela Reyes', 'Miu Lin Ngan [8]']","['[ENG] ', '[ENG] ']","['21-16', '18-21', '21-19']",WS,20170126
-105,"['Margrét Johannsdottir', 'Sigridur Arnadottir']","['[ISL] ', '[ISL] ']","['21-8', '21-13']",WS,20170126
-106,"['Kim Bruun [1]', 'Duarte Nuno Anjo']","['[DEN] ', '[POR] ']","['21-8', '21-23', '21-15']",MS,20170126
-107,"['Zach Russ', 'Peter Roenn Stensaeth']","['[ENG] ', '[NOR] ']","['21-6', '21-12']",MS,20170126
-108,"['Subhankar Dey [3]', 'David Peng']","['[IND] ', '[GER] ']","['21-18', '21-12']",MS,20170126
-109,"['Mikkel Enghøj', 'Adam Mendrek [6]']","['[DEN] ', '[CZE] ']","['20-22', '21-11', '21-11']",MS,20170126
-110,"['Bernardo Atilano', 'Vilson Vattanirappel [5]']","['[POR] ', '[AUT] ']","['21-5', '17-9']",MS,20170126
-111,"['Sam Parsons [4]', 'David Jones']","['[ENG] ', '[ENG] ']","['23-25', '21-13', '21-17']",MS,20170126
-112,"['Luis Ramon Garrido [8]', 'Simon Wang']","['[MEX] ', '[GER] ']","['21-19', '21-18']",MS,20170126
-113,"['Kalle Koljonen [2]', 'Robert Mann']","['[FIN] ', '[LUX] ']","['21-12', '21-8']",MS,20170126
-114,"['Drifa Hardardottir', 'Margrét Johannsdottir', 'Vytaute Fomkinaite [1]', 'Gerda Voitechovskaja']","['[ISL] ', '[ISL] ', '[LTU] ', '[LTU] ']","['21-16', '21-13']",WD,20170126
-115,"['Lyddia Yi Yu Cheah', 'Li Lian Yang', 'Halla Maria Gustafsdottir', 'Una Hrund Orvar']","['[MAS] ', '[MAS] ', '[ISL] ', '[ISL] ']","['21-1', '21-2']",WD,20170126
-116,"['Fee Teng Liew [4]', 'Lizzie Tolman', 'Ulfheidur Embla Asgeirsdottir', 'Eyrun Bjorg Gudjonsdottir']","['[ENG] ', '[ENG] ', '[ISL] ', '[ISL] ']","['21-3', '21-4']",WD,20170126
-117,"['Abigail Holden', 'Miu Lin Ngan', 'Pihla Lindberg', 'Viola Lindberg']","['[ENG] ', '[ENG] ', '[FIN] ', '[FIN] ']","['22-20', '21-4']",WD,20170126
-118,"['Grace King', 'Hope Warner', 'Georgina Bland', 'Ella Soderstrom']","['[ENG] ', '[ENG] ', '[ENG] ', '[SWE] ']","['21-12', '21-16']",WD,20170126
-119,"['Molly Chapman [3]', 'Freya Patel-Redfearn', 'Asmita Chaudhari', 'Pamela Reyes']","['[ENG] ', '[ENG] ', '[ENG] ', '[ENG] ']","['21-19', '22-20']",WD,20170126
-120,"['Sian Kelly', 'Annie Lado', 'Harpa Hilmisdottir', 'Arna Karen Johannsdottir']","['[ENG] ', '[ENG] ', '[ISL] ', '[ISL] ']","['21-14', '21-9']",WD,20170126
-121,"['Sigridur Arnadottir', 'Astrid Molander', 'Solvar Flaten Jorgensen [2]', 'Natalie Syvertsen']","['[ISL] ', '[DEN] ', '[NOR] ', '[NOR] ']","['21-14', '21-15']",WD,20170126
-122,"['Tomas Bjorn Gudmundsson', 'Sigurdur Edvard Olafsson', 'Daniel Benz [1]', 'Andreas Heinz']","['[ISL] ', '[ISL] ', '[GER] ', '[GER] ']",[],MD,20170126
-123,"['Zach Russ', 'Steven Stallwood', 'Bror Madsen', 'Taatsiannguaq Pedersen']","['[ENG] ', '[ENG] ', '[GLD] ', '[GLD] ']",[],MD,20170126
-124,"['Max Flynn', 'David Jones', 'Sturla Flaten Jorgensen [4]', 'Carl Christian Mork']","['[ENG] ', '[ENG] ', '[NOR] ', '[NOR] ']","['21-13', '21-12']",MD,20170126
-125,"['Eidur Isak Broddason', 'Daniel Johannesson', 'Haukur Gylfi Gislason', 'Elvar Mar Sturlaugsson']","['[ISL] ', '[ISL] ', '[ISL] ', '[ISL] ']","['21-7', '21-8']",MD,20170126
-126,"['David Bjarni Bjornsson', 'Kristofer Darri Finnsson', 'Jonas Baldursson', 'Robert Thor Henn']","['[ISL] ', '[ISL] ', '[ISL] ', '[ISL] ']","['21-15', '21-19']",MD,20170126
-127,"['Pawel Pradzinski [3]', 'Jan Rudzinski', 'Robert Golding', 'Phone Pyae Naing Phone Pyae Naing']","['[POL] ', '[POL] ', '[ENG] ', '[MYA] ']","['21-15', '21-17']",MD,20170126
-128,"['Mihkel Laanes', 'Heiko Zoober', 'Eysteinn Hognason', 'Bjarni Thor Sverrisson']","['[EST] ', '[EST] ', '[ISL] ', '[ISL] ']","['21-12', '21-12']",MD,20170126
-129,"['Fredrik Kristensen [2]', 'Jesper Kristensen', 'Egill Gudlaugsson', 'Robert Ingi Huldarsson']","['[NOR] ', '[NOR] ', '[ISL] ', '[ISL] ']","['21-12', '23-25', '21-11']",MD,20170126
-130,"['Steven Stallwood', 'Hope Warner', 'Jeppe Ludvigsen', 'Astrid Molander']","['[ENG] ', '[ENG] ', '[DEN] ', '[DEN] ']","['21-11', '21-18']",XD ,20170126
-131,"['Lyddia Yi Yu Cheah [7]', 'Nicola Cerfontyne [6]']","['[MAS] ', '[ENG] ']","['21-17', '21-9']",WS ,20170126
-132,"['Subhankar Dey [3]', 'Kim Bruun [1]']","['[IND] ', '[DEN] ']","['14-21', '21-16', '21-17']",MS ,20170126
-133,"['Lyddia Yi Yu Cheah', 'Li Lian Yang', 'Fee Teng Liew [4]', 'Lizzie Tolman']","['[MAS] ', '[MAS] ', '[ENG] ', '[ENG] ']","['21-14', '21-14']",WD ,20170126
-134,"['Zach Russ', 'Steven Stallwood', 'Max Flynn', 'David Jones']","['[ENG] ', '[ENG] ', '[ENG] ', '[ENG] ']","['21-19', '21-16']",MD ,20170126
-135,"['Callum Hemming [2]', 'Fee Teng Liew', 'Ethan Van Leeuwen', 'Sian Kelly']","['[ENG] ', '[ENG] ', '[ENG] ', '[ENG] ']","['21-8', '21-7']",XD ,20170126
-136,"['Li Lian Yang [5]', 'Margrét Johannsdottir']","['[MAS] ', '[ISL] ']","['21-10', '21-9']",WS ,20170126
-137,"['Kalle Koljonen [2]', 'Sam Parsons [4]']","['[FIN] ', '[ENG] ']","['21-17', '21-12']",MS ,20170126
-138,"['Grace King', 'Hope Warner', 'Sian Kelly', 'Annie Lado']","['[ENG] ', '[ENG] ', '[ENG] ', '[ENG] ']","['21-10', '21-12']",WD ,20170126
-139,"['Pawel Pradzinski [3]', 'Jan Rudzinski', 'Fredrik Kristensen [2]', 'Jesper Kristensen']","['[POL] ', '[POL] ', '[NOR] ', '[NOR] ']","['21-16', '21-18']",MD ,20170126
-140,"['Li Lian Yang [5]', 'Lyddia Yi Yu Cheah [7]']","['[MAS] ', '[MAS] ']","['21-8', '21-11']",WS ,20170126
-141,"['Pawel Pradzinski [3]', 'Jan Rudzinski', 'Zach Russ', 'Steven Stallwood']","['[POL] ', '[POL] ', '[ENG] ', '[ENG] ']","['24-22', '10-21', '21-16']",MD ,20170126
-142,"['Lyddia Yi Yu Cheah', 'Li Lian Yang', 'Grace King', 'Hope Warner']","['[MAS] ', '[MAS] ', '[ENG] ', '[ENG] ']","['21-6', '21-16']",WD ,20170126
-143,"['Subhankar Dey [3]', 'Kalle Koljonen [2]']","['[IND] ', '[FIN] ']","['21-11', '21-17']",MS ,20170126
-144,"['Callum Hemming [2]', 'Fee Teng Liew', 'Steven Stallwood', 'Hope Warner']","['[ENG] ', '[ENG] ', '[ENG] ', '[ENG] ']","['19-21', '21-16', '21-11']",XD ,20170126
+,PLAYERS,COUNTRIES,SCORES,EVENT,match_week,match_location
+0,"['Brynjar Mar Ellertsson', 'David Bjarni Bjornsson [1]']","['[ISL] ', '[ISL] ']",[],MS - Qualification,20170126,"Reykjavik, Iceland"
+1,"['Einar Sverrisson', 'Jens-Frederik Nielsen']","['[ISL] ', '[GLD] ']",[],MS - Qualification,20170126,"Reykjavik, Iceland"
+2,"['Kristofer Darri Finnsson', 'Robert Thor Henn [7]']","['[ISL] ', '[ISL] ']","['21-9', '11-21', '21-16']",MS - Qualification,20170126,"Reykjavik, Iceland"
+3,"['Steven Stallwood', 'Robert Ingi Huldarsson']","['[ENG] ', '[ISL] ']","['21-17', '21-15']",MS - Qualification,20170126,"Reykjavik, Iceland"
+4,"['Thordur Skulason', 'George Priestman [3]']","['[ISL] ', '[ENG] ']",[],MS - Qualification,20170126,"Reykjavik, Iceland"
+5,"['Atli Tomasson', 'Frederik Elsner']","['[ISL] ', '[GLD] ']",[],MS - Qualification,20170126,"Reykjavik, Iceland"
+6,"['Viknesh Rajendran [6]', 'Daniel Isak Steinarsson']","['[ENG] ', '[ISL] ']","['21-6', '21-18']",MS - Qualification,20170126,"Reykjavik, Iceland"
+7,"['Bjarni Thor Sverrisson', 'Bror Madsen']","['[ISL] ', '[GLD] ']",[],MS - Qualification,20170126,"Reykjavik, Iceland"
+8,"['Ethan Van Leeuwen', 'Eidur Isak Broddason']","['[ENG] ', '[ISL] ']","['21-19', '22-20']",MS - Qualification,20170126,"Reykjavik, Iceland"
+9,"['Benjamin Pui Hun Li', 'Daniel Johannesson [8]']","['[ENG] ', '[ISL] ']","['21-10', '22-20']",MS - Qualification,20170126,"Reykjavik, Iceland"
+10,"['Phone Pyae Naing Phone Pyae Naing', 'Sigurdur Edvard Olafsson']","['[MYA] ', '[ISL] ']","['21-15', '21-17']",MS - Qualification,20170126,"Reykjavik, Iceland"
+11,"['Zach Russ [4]', 'Bjarki Stefansson']","['[ENG] ', '[ISL] ']","['21-9', '21-14']",MS - Qualification,20170126,"Reykjavik, Iceland"
+12,"['Jonas Baldursson', 'Taatsiannguaq Pedersen']","['[ISL] ', '[GLD] ']","['21-6', '21-16']",MS - Qualification,20170126,"Reykjavik, Iceland"
+13,"['Heiko Zoober [5]', 'Eysteinn Hognason']","['[EST] ', '[ISL] ']","['21-8', '21-9']",MS - Qualification,20170126,"Reykjavik, Iceland"
+14,"['Haukur Gylfi Gislason', 'Nicholas Robert Henson Waller']","['[ISL] ', '[USA] ']",[],MS - Qualification,20170126,"Reykjavik, Iceland"
+15,"['Elvar Mar Sturlaugsson', 'Peter Roenn Stensaeth [2]']","['[ISL] ', '[NOR] ']",[],MS - Qualification,20170126,"Reykjavik, Iceland"
+16,"['Chloe Le Tissier', 'Ingibjorg Rosa Jonsdottir']","['[ENG] ', '[ISL] ']","['21-10', '21-9']",WS - Qualification,20170126,"Reykjavik, Iceland"
+17,"['Einar Sverrisson', 'Brynjar Mar Ellertsson']","['[ISL] ', '[ISL] ']","['18-21', '21-18', '21-14']",MS - Qualification,20170126,"Reykjavik, Iceland"
+18,"['Kristofer Darri Finnsson', 'Steven Stallwood']","['[ISL] ', '[ENG] ']","['21-14', '21-17']",MS - Qualification,20170126,"Reykjavik, Iceland"
+19,"['Atli Tomasson', 'Thordur Skulason']","['[ISL] ', '[ISL] ']","['21-13', '21-12']",MS - Qualification,20170126,"Reykjavik, Iceland"
+20,"['Viknesh Rajendran [6]', 'Bjarni Thor Sverrisson']","['[ENG] ', '[ISL] ']","['21-9', '21-16']",MS - Qualification,20170126,"Reykjavik, Iceland"
+21,"['Pamela Reyes', 'Sigridur Arnadottir [1]']","['[ENG] ', '[ISL] ']",[],WS - Qualification,20170126,"Reykjavik, Iceland"
+22,"['Viola Lindberg', 'Asmita Chaudhari']","['[FIN] ', '[ENG] ']","['21-14', '21-14']",WS - Qualification,20170126,"Reykjavik, Iceland"
+23,"['Astrid Molander', 'Annie Lado']","['[DEN] ', '[ENG] ']","['21-15', '16-21', '21-11']",WS - Qualification,20170126,"Reykjavik, Iceland"
+24,"['Sara Lindskov Jacobsen', 'Halla Maria Gustafsdottir']","['[GLD] ', '[ISL] ']","['21-6', '21-8']",WS - Qualification,20170126,"Reykjavik, Iceland"
+25,"['Ethan Van Leeuwen', 'Benjamin Pui Hun Li']","['[ENG] ', '[ENG] ']","['21-18', '21-12']",MS - Qualification,20170126,"Reykjavik, Iceland"
+26,"['Zach Russ [4]', 'Phone Pyae Naing Phone Pyae Naing']","['[ENG] ', '[MYA] ']","['18-21', '21-16', '21-17']",MS - Qualification,20170126,"Reykjavik, Iceland"
+27,"['Heiko Zoober [5]', 'Jonas Baldursson']","['[EST] ', '[ISL] ']","['21-14', '21-12']",MS - Qualification,20170126,"Reykjavik, Iceland"
+28,"['Haukur Gylfi Gislason', 'Elvar Mar Sturlaugsson']","['[ISL] ', '[ISL] ']","['20-22', '21-17', '22-20']",MS - Qualification,20170126,"Reykjavik, Iceland"
+29,"['Chloe Le Tissier', 'Tanvi Dave']","['[ENG] ', '[ENG] ']","['21-7', '21-14']",WS - Qualification,20170126,"Reykjavik, Iceland"
+30,"['Jessica Li [3]', 'Katrin Vala Einarsdottir']","['[ENG] ', '[ISL] ']","['21-8', '21-0']",WS - Qualification,20170126,"Reykjavik, Iceland"
+31,"['Eyrun Bjorg Gudjonsdottir', 'Una Hrund Orvar']","['[ISL] ', '[ISL] ']","['21-18', '21-16']",WS - Qualification,20170126,"Reykjavik, Iceland"
+32,"['Andrea Nilsdottir [2]', 'Ingibjorg Soley Einarsdottir']","['[ISL] ', '[ISL] ']","['21-12', '21-11']",WS - Qualification,20170126,"Reykjavik, Iceland"
+33,"['Max Flynn', 'Lizzie Tolman', 'Egill Gudlaugsson', 'Erla Bjorg Hafsteinsdottir']","['[ENG] ', '[ENG] ', '[ISL] ', '[ISL] ']","['21-17', '17-21', '21-14']",XD,20170126,"Reykjavik, Iceland"
+34,"['David Bjarni Bjornsson', 'Drifa Hardardottir', 'Atli Tomasson', 'Eyrun Bjorg Gudjonsdottir']","['[ISL] ', '[ISL] ', '[ISL] ', '[ISL] ']","['21-10', '21-8']",XD,20170126,"Reykjavik, Iceland"
+35,"['Steven Stallwood', 'Hope Warner', 'Eidur Isak Broddason', 'Thorunn Eylands']","['[ENG] ', '[ENG] ', '[ISL] ', '[ISL] ']","['21-12', '21-17']",XD,20170126,"Reykjavik, Iceland"
+36,"['Fredrik Kristensen [4]', 'Solvar Flaten Jorgensen', 'Bjarni Thor Sverrisson', 'Katrin Vala Einarsdottir']","['[NOR] ', '[NOR] ', '[ISL] ', '[ISL] ']","['21-15', '21-9']",XD,20170126,"Reykjavik, Iceland"
+37,"['George Priestman', 'Molly Chapman', 'Jonas Baldursson', 'Sunna Osp Runolfsdottir']","['[ENG] ', '[ENG] ', '[ISL] ', '[ISL] ']","['21-18', '19-21', '23-21']",XD,20170126,"Reykjavik, Iceland"
+38,"['Jeppe Ludvigsen', 'Astrid Molander', 'Sigurdur Edvard Olafsson', 'Harpa Hilmisdottir']","['[DEN] ', '[DEN] ', '[ISL] ', '[ISL] ']","['21-9', '21-9']",XD,20170126,"Reykjavik, Iceland"
+39,"['Robert Ingi Huldarsson', 'Arna Karen Johannsdottir', 'Benjamin Pui Hun Li', 'Jessica Li']","['[ISL] ', '[ISL] ', '[ENG] ', '[ENG] ']","['22-20', '17-21', '21-12']",XD,20170126,"Reykjavik, Iceland"
+40,"['Stuart Hardy', 'Chloe Le Tissier', 'Thordur Skulason', 'Una Hrund Orvar']","['[ENG] ', '[ENG] ', '[ISL] ', '[ISL] ']","['21-12', '21-8']",XD,20170126,"Reykjavik, Iceland"
+41,"['Sturla Flaten Jorgensen', 'Marlene Wåland', 'Haukur Gylfi Gislason', 'Ingibjorg Soley Einarsdottir']","['[NOR] ', '[NOR] ', '[ISL] ', '[ISL] ']","['21-8', '21-9']",XD,20170126,"Reykjavik, Iceland"
+42,"['Ethan Van Leeuwen', 'Sian Kelly', 'Robert Thor Henn', 'Andrea Nilsdottir']","['[ENG] ', '[ENG] ', '[ISL] ', '[ISL] ']","['21-23', '21-12', '21-18']",XD,20170126,"Reykjavik, Iceland"
+43,"['Jan Rudzinski [3]', 'Wiktoria Rudzinska', 'Elvar Mar Sturlaugsson', 'Ulfheidur Embla Asgeirsdottir']","['[POL] ', '[POL] ', '[ISL] ', '[ISL] ']","['21-7', '21-9']",XD,20170126,"Reykjavik, Iceland"
+44,"['Magnus Christensen', 'Natalie Syvertsen', 'Brynjar Mar Ellertsson', 'Ingibjorg Rosa Jonsdottir']","['[NOR] ', '[NOR] ', '[ISL] ', '[ISL] ']","['21-5', '21-3']",XD,20170126,"Reykjavik, Iceland"
+45,"['Calvin Jia Hong Ong', 'Lyddia Yi Yu Cheah', 'Einar Sverrisson', 'Halla Maria Gustafsdottir']","['[MAS] ', '[MAS] ', '[ISL] ', '[ISL] ']","['21-9', '21-9']",XD,20170126,"Reykjavik, Iceland"
+46,"['Kristofer Darri Finnsson', 'Margrét Johannsdottir', 'Carl Christian Mork', 'Elisa Wiborg']","['[ISL] ', '[ISL] ', '[NOR] ', '[NOR] ']","['21-15', '21-10']",XD,20170126,"Reykjavik, Iceland"
+47,"['Callum Hemming [2]', 'Fee Teng Liew', 'Daniel Johannesson', 'Sigridur Arnadottir']","['[ENG] ', '[ENG] ', '[ISL] ', '[ISL] ']","['21-16', '21-14']",XD,20170126,"Reykjavik, Iceland"
+48,"['Georgina Bland [1]', 'Ella Soderstrom']","['[ENG] ', '[SWE] ']","['21-18', '21-18']",WS,20170126,"Reykjavik, Iceland"
+49,"['Vytaute Fomkinaite', 'Arna Karen Johannsdottir']","['[LTU] ', '[ISL] ']","['21-12', '21-6']",WS,20170126,"Reykjavik, Iceland"
+50,"['Nicola Cerfontyne [6]', 'Harpa Hilmisdottir']","['[ENG] ', '[ISL] ']","['21-8', '21-13']",WS,20170126,"Reykjavik, Iceland"
+51,"['Elisa Wiborg', 'Sara Lindskov Jacobsen']","['[NOR] ', '[GLD] ']","['21-14', '21-13']",WS,20170126,"Reykjavik, Iceland"
+52,"['Aimee Moran [3]', 'Ulfheidur Embla Asgeirsdottir']","['[WAL] ', '[ISL] ']","['21-10', '21-10']",WS,20170126,"Reykjavik, Iceland"
+53,"['Grace King', 'Viola Lindberg']","['[ENG] ', '[FIN] ']","['21-9', '21-14']",WS,20170126,"Reykjavik, Iceland"
+54,"['Lyddia Yi Yu Cheah [7]', 'Sian Kelly']","['[MAS] ', '[ENG] ']","['21-12', '21-14']",WS,20170126,"Reykjavik, Iceland"
+55,"['Abigail Holden', 'Eyrun Bjorg Gudjonsdottir']","['[ENG] ', '[ISL] ']","['21-10', '21-4']",WS,20170126,"Reykjavik, Iceland"
+56,"['Astrid Molander', 'Vilde Espeseth']","['[DEN] ', '[NOR] ']","['14-21', '21-15', '22-20']",WS,20170126,"Reykjavik, Iceland"
+57,"['Li Lian Yang [5]', 'Wiktoria Rudzinska']","['[MAS] ', '[POL] ']","['21-11', '21-6']",WS,20170126,"Reykjavik, Iceland"
+58,"['Marlene Wåland', 'Thorunn Eylands']","['[NOR] ', '[ISL] ']","['21-16', '21-12']",WS,20170126,"Reykjavik, Iceland"
+59,"['Gerda Voitechovskaja [4]', 'Pihla Lindberg']","['[LTU] ', '[FIN] ']","['21-15', '21-19']",WS,20170126,"Reykjavik, Iceland"
+60,"['Pamela Reyes', 'Chloe Le Tissier']","['[ENG] ', '[ENG] ']","['21-10', '21-7']",WS,20170126,"Reykjavik, Iceland"
+61,"['Miu Lin Ngan [8]', 'Jessica Li']","['[ENG] ', '[ENG] ']","['21-6', '21-14']",WS,20170126,"Reykjavik, Iceland"
+62,"['Margrét Johannsdottir', 'Freya Patel-Redfearn']","['[ISL] ', '[ENG] ']","['21-11', '21-7']",WS,20170126,"Reykjavik, Iceland"
+63,"['Sigridur Arnadottir', 'Andrea Nilsdottir']","['[ISL] ', '[ISL] ']","['21-18', '21-11']",WS,20170126,"Reykjavik, Iceland"
+64,"['Duarte Nuno Anjo', 'Viknesh Rajendran']","['[POR] ', '[ENG] ']","['14-21', '21-17', '21-14']",MS,20170126,"Reykjavik, Iceland"
+65,"['Peter Roenn Stensaeth', 'Heiko Zoober']","['[NOR] ', '[EST] ']","['21-15', '18-21', '21-14']",MS,20170126,"Reykjavik, Iceland"
+66,"['Zach Russ', 'Pawel Pradzinski']","['[ENG] ', '[POL] ']","['22-20', '21-18']",MS,20170126,"Reykjavik, Iceland"
+67,"['Kim Bruun [1]', 'Ethan Van Leeuwen']","['[DEN] ', '[ENG] ']","['21-10', '21-15']",MS,20170126,"Reykjavik, Iceland"
+68,"['David Peng', 'Haukur Gylfi Gislason']","['[GER] ', '[ISL] ']","['21-4', '21-6']",MS,20170126,"Reykjavik, Iceland"
+69,"['Adam Mendrek [6]', 'Ross Green']","['[CZE] ', '[ENG] ']","['21-10', '24-22']",MS,20170126,"Reykjavik, Iceland"
+70,"['Mikkel Enghøj', 'Einar Sverrisson']","['[DEN] ', '[ISL] ']","['21-8', '21-9']",MS,20170126,"Reykjavik, Iceland"
+71,"['Bernardo Atilano', 'Mihkel Laanes']","['[POR] ', '[EST] ']","['21-13', '21-19']",MS,20170126,"Reykjavik, Iceland"
+72,"['Subhankar Dey [3]', 'Johnnie Torjussen']","['[IND] ', '[ENG] ']","['21-15', '21-15']",MS,20170126,"Reykjavik, Iceland"
+73,"['Vilson Vattanirappel [5]', 'Prakash Vijayanath']","['[AUT] ', '[RSA] ']","['21-17', '17-21', '21-15']",MS,20170126,"Reykjavik, Iceland"
+74,"['David Jones', 'George Priestman']","['[ENG] ', '[ENG] ']","['21-18', '21-19']",MS,20170126,"Reykjavik, Iceland"
+75,"['Sam Parsons [4]', 'David Bjarni Bjornsson']","['[ENG] ', '[ISL] ']","['21-9', '21-17']",MS,20170126,"Reykjavik, Iceland"
+76,"['Simon Wang', 'Michael Spencer-Smith']","['[GER] ', '[ENG] ']","['21-11', '21-10']",MS,20170126,"Reykjavik, Iceland"
+77,"['Luis Ramon Garrido [8]', 'Kristofer Darri Finnsson']","['[MEX] ', '[ISL] ']","['18-21', '21-8', '21-17']",MS,20170126,"Reykjavik, Iceland"
+78,"['Robert Mann', 'Atli Tomasson']","['[LUX] ', '[ISL] ']","['21-16', '21-13']",MS,20170126,"Reykjavik, Iceland"
+79,"['Kalle Koljonen [2]', 'Alex Lane']","['[FIN] ', '[ENG] ']","['21-17', '21-19']",MS,20170126,"Reykjavik, Iceland"
+80,"['Lyddia Yi Yu Cheah', 'Li Lian Yang', 'María Arnadottir', 'Andrea Nilsdottir']","['[MAS] ', '[MAS] ', '[ISL] ', '[ISL] ']","['21-9', '21-6']",WD,20170126,"Reykjavik, Iceland"
+81,"['Abigail Holden', 'Miu Lin Ngan', 'Erla Bjorg Hafsteinsdottir', 'Snjolaug Johannsdottir']","['[ENG] ', '[ENG] ', '[ISL] ', '[ISL] ']","['21-15', '16-21', '21-15']",WD,20170126,"Reykjavik, Iceland"
+82,"['Grace King', 'Hope Warner', 'Katrin Vala Einarsdottir', 'Ingibjorg Rosa Jonsdottir']","['[ENG] ', '[ENG] ', '[ISL] ', '[ISL] ']","['21-8', '21-7']",WD,20170126,"Reykjavik, Iceland"
+83,"['Sian Kelly', 'Annie Lado', 'Thorunn Eylands', 'Sunna Osp Runolfsdottir']","['[ENG] ', '[ENG] ', '[ISL] ', '[ISL] ']","['21-12', '21-12']",WD,20170126,"Reykjavik, Iceland"
+84,"['Zach Russ', 'Steven Stallwood', 'Brynjar Mar Ellertsson', 'Thordur Skulason']","['[ENG] ', '[ENG] ', '[ISL] ', '[ISL] ']","['21-5', '21-7']",MD,20170126,"Reykjavik, Iceland"
+85,"['Max Flynn', 'David Jones', 'Bjarki Stefansson', 'Atli Tomasson']","['[ENG] ', '[ENG] ', '[ISL] ', '[ISL] ']","['21-11', '21-6']",MD,20170126,"Reykjavik, Iceland"
+86,"['Haukur Gylfi Gislason', 'Elvar Mar Sturlaugsson', 'Magnus Christensen', 'Vegard Rikheim']","['[ISL] ', '[ISL] ', '[NOR] ', '[NOR] ']",[],MD,20170126,"Reykjavik, Iceland"
+87,"['David Bjarni Bjornsson', 'Kristofer Darri Finnsson', 'Callum Hemming', 'Johnnie Torjussen']","['[ISL] ', '[ISL] ', '[ENG] ', '[ENG] ']","['20-22', '21-18', '24-22']",MD,20170126,"Reykjavik, Iceland"
+88,"['Robert Golding', 'Phone Pyae Naing Phone Pyae Naing', 'Frederik Elsner', 'Jens-Frederik Nielsen']","['[ENG] ', '[MYA] ', '[GLD] ', '[GLD] ']",[],MD,20170126,"Reykjavik, Iceland"
+89,"['Mihkel Laanes', 'Heiko Zoober', 'Daniel Isak Steinarsson', 'Einar Sverrisson']","['[EST] ', '[EST] ', '[ISL] ', '[ISL] ']","['21-6', '21-16']",MD,20170126,"Reykjavik, Iceland"
+90,"['Max Flynn', 'Lizzie Tolman', 'Bastian Kersaudy [1]', 'Lea Palermo']","['[ENG] ', '[ENG] ', '[FRA] ', '[FRA] ']",[],XD,20170126,"Reykjavik, Iceland"
+91,"['Steven Stallwood', 'Hope Warner', 'David Bjarni Bjornsson', 'Drifa Hardardottir']","['[ENG] ', '[ENG] ', '[ISL] ', '[ISL] ']","['21-12', '21-16']",XD,20170126,"Reykjavik, Iceland"
+92,"['Fredrik Kristensen [4]', 'Solvar Flaten Jorgensen', 'George Priestman', 'Molly Chapman']","['[NOR] ', '[NOR] ', '[ENG] ', '[ENG] ']","['21-14', '21-19']",XD,20170126,"Reykjavik, Iceland"
+93,"['Jeppe Ludvigsen', 'Astrid Molander', 'Robert Ingi Huldarsson', 'Arna Karen Johannsdottir']","['[DEN] ', '[DEN] ', '[ISL] ', '[ISL] ']","['21-15', '21-16']",XD,20170126,"Reykjavik, Iceland"
+94,"['Sturla Flaten Jorgensen', 'Marlene Wåland', 'Stuart Hardy', 'Chloe Le Tissier']","['[NOR] ', '[NOR] ', '[ENG] ', '[ENG] ']","['21-12', '21-17']",XD,20170126,"Reykjavik, Iceland"
+95,"['Ethan Van Leeuwen', 'Sian Kelly', 'Jan Rudzinski [3]', 'Wiktoria Rudzinska']","['[ENG] ', '[ENG] ', '[POL] ', '[POL] ']","['21-11', '21-5']",XD,20170126,"Reykjavik, Iceland"
+96,"['Calvin Jia Hong Ong', 'Lyddia Yi Yu Cheah', 'Magnus Christensen', 'Natalie Syvertsen']","['[MAS] ', '[MAS] ', '[NOR] ', '[NOR] ']","['21-16', '21-19']",XD,20170126,"Reykjavik, Iceland"
+97,"['Callum Hemming [2]', 'Fee Teng Liew', 'Kristofer Darri Finnsson', 'Margrét Johannsdottir']","['[ENG] ', '[ENG] ', '[ISL] ', '[ISL] ']","['18-21', '21-12', '21-12']",XD,20170126,"Reykjavik, Iceland"
+98,"['Georgina Bland [1]', 'Vytaute Fomkinaite']","['[ENG] ', '[LTU] ']","['21-17', '21-9']",WS,20170126,"Reykjavik, Iceland"
+99,"['Nicola Cerfontyne [6]', 'Elisa Wiborg']","['[ENG] ', '[NOR] ']","['21-10', '21-10']",WS,20170126,"Reykjavik, Iceland"
+100,"['Grace King', 'Aimee Moran [3]']","['[ENG] ', '[WAL] ']","['21-17', '14-21', '21-15']",WS,20170126,"Reykjavik, Iceland"
+101,"['Lyddia Yi Yu Cheah [7]', 'Abigail Holden']","['[MAS] ', '[ENG] ']","['21-17', '21-12']",WS,20170126,"Reykjavik, Iceland"
+102,"['Li Lian Yang [5]', 'Astrid Molander']","['[MAS] ', '[DEN] ']","['21-13', '21-6']",WS,20170126,"Reykjavik, Iceland"
+103,"['Gerda Voitechovskaja [4]', 'Marlene Wåland']","['[LTU] ', '[NOR] ']","['21-14', '21-12']",WS,20170126,"Reykjavik, Iceland"
+104,"['Pamela Reyes', 'Miu Lin Ngan [8]']","['[ENG] ', '[ENG] ']","['21-16', '18-21', '21-19']",WS,20170126,"Reykjavik, Iceland"
+105,"['Margrét Johannsdottir', 'Sigridur Arnadottir']","['[ISL] ', '[ISL] ']","['21-8', '21-13']",WS,20170126,"Reykjavik, Iceland"
+106,"['Kim Bruun [1]', 'Duarte Nuno Anjo']","['[DEN] ', '[POR] ']","['21-8', '21-23', '21-15']",MS,20170126,"Reykjavik, Iceland"
+107,"['Zach Russ', 'Peter Roenn Stensaeth']","['[ENG] ', '[NOR] ']","['21-6', '21-12']",MS,20170126,"Reykjavik, Iceland"
+108,"['Subhankar Dey [3]', 'David Peng']","['[IND] ', '[GER] ']","['21-18', '21-12']",MS,20170126,"Reykjavik, Iceland"
+109,"['Mikkel Enghøj', 'Adam Mendrek [6]']","['[DEN] ', '[CZE] ']","['20-22', '21-11', '21-11']",MS,20170126,"Reykjavik, Iceland"
+110,"['Bernardo Atilano', 'Vilson Vattanirappel [5]']","['[POR] ', '[AUT] ']","['21-5', '17-9']",MS,20170126,"Reykjavik, Iceland"
+111,"['Sam Parsons [4]', 'David Jones']","['[ENG] ', '[ENG] ']","['23-25', '21-13', '21-17']",MS,20170126,"Reykjavik, Iceland"
+112,"['Luis Ramon Garrido [8]', 'Simon Wang']","['[MEX] ', '[GER] ']","['21-19', '21-18']",MS,20170126,"Reykjavik, Iceland"
+113,"['Kalle Koljonen [2]', 'Robert Mann']","['[FIN] ', '[LUX] ']","['21-12', '21-8']",MS,20170126,"Reykjavik, Iceland"
+114,"['Drifa Hardardottir', 'Margrét Johannsdottir', 'Vytaute Fomkinaite [1]', 'Gerda Voitechovskaja']","['[ISL] ', '[ISL] ', '[LTU] ', '[LTU] ']","['21-16', '21-13']",WD,20170126,"Reykjavik, Iceland"
+115,"['Lyddia Yi Yu Cheah', 'Li Lian Yang', 'Halla Maria Gustafsdottir', 'Una Hrund Orvar']","['[MAS] ', '[MAS] ', '[ISL] ', '[ISL] ']","['21-1', '21-2']",WD,20170126,"Reykjavik, Iceland"
+116,"['Fee Teng Liew [4]', 'Lizzie Tolman', 'Ulfheidur Embla Asgeirsdottir', 'Eyrun Bjorg Gudjonsdottir']","['[ENG] ', '[ENG] ', '[ISL] ', '[ISL] ']","['21-3', '21-4']",WD,20170126,"Reykjavik, Iceland"
+117,"['Abigail Holden', 'Miu Lin Ngan', 'Pihla Lindberg', 'Viola Lindberg']","['[ENG] ', '[ENG] ', '[FIN] ', '[FIN] ']","['22-20', '21-4']",WD,20170126,"Reykjavik, Iceland"
+118,"['Grace King', 'Hope Warner', 'Georgina Bland', 'Ella Soderstrom']","['[ENG] ', '[ENG] ', '[ENG] ', '[SWE] ']","['21-12', '21-16']",WD,20170126,"Reykjavik, Iceland"
+119,"['Molly Chapman [3]', 'Freya Patel-Redfearn', 'Asmita Chaudhari', 'Pamela Reyes']","['[ENG] ', '[ENG] ', '[ENG] ', '[ENG] ']","['21-19', '22-20']",WD,20170126,"Reykjavik, Iceland"
+120,"['Sian Kelly', 'Annie Lado', 'Harpa Hilmisdottir', 'Arna Karen Johannsdottir']","['[ENG] ', '[ENG] ', '[ISL] ', '[ISL] ']","['21-14', '21-9']",WD,20170126,"Reykjavik, Iceland"
+121,"['Sigridur Arnadottir', 'Astrid Molander', 'Solvar Flaten Jorgensen [2]', 'Natalie Syvertsen']","['[ISL] ', '[DEN] ', '[NOR] ', '[NOR] ']","['21-14', '21-15']",WD,20170126,"Reykjavik, Iceland"
+122,"['Tomas Bjorn Gudmundsson', 'Sigurdur Edvard Olafsson', 'Daniel Benz [1]', 'Andreas Heinz']","['[ISL] ', '[ISL] ', '[GER] ', '[GER] ']",[],MD,20170126,"Reykjavik, Iceland"
+123,"['Zach Russ', 'Steven Stallwood', 'Bror Madsen', 'Taatsiannguaq Pedersen']","['[ENG] ', '[ENG] ', '[GLD] ', '[GLD] ']",[],MD,20170126,"Reykjavik, Iceland"
+124,"['Max Flynn', 'David Jones', 'Sturla Flaten Jorgensen [4]', 'Carl Christian Mork']","['[ENG] ', '[ENG] ', '[NOR] ', '[NOR] ']","['21-13', '21-12']",MD,20170126,"Reykjavik, Iceland"
+125,"['Eidur Isak Broddason', 'Daniel Johannesson', 'Haukur Gylfi Gislason', 'Elvar Mar Sturlaugsson']","['[ISL] ', '[ISL] ', '[ISL] ', '[ISL] ']","['21-7', '21-8']",MD,20170126,"Reykjavik, Iceland"
+126,"['David Bjarni Bjornsson', 'Kristofer Darri Finnsson', 'Jonas Baldursson', 'Robert Thor Henn']","['[ISL] ', '[ISL] ', '[ISL] ', '[ISL] ']","['21-15', '21-19']",MD,20170126,"Reykjavik, Iceland"
+127,"['Pawel Pradzinski [3]', 'Jan Rudzinski', 'Robert Golding', 'Phone Pyae Naing Phone Pyae Naing']","['[POL] ', '[POL] ', '[ENG] ', '[MYA] ']","['21-15', '21-17']",MD,20170126,"Reykjavik, Iceland"
+128,"['Mihkel Laanes', 'Heiko Zoober', 'Eysteinn Hognason', 'Bjarni Thor Sverrisson']","['[EST] ', '[EST] ', '[ISL] ', '[ISL] ']","['21-12', '21-12']",MD,20170126,"Reykjavik, Iceland"
+129,"['Fredrik Kristensen [2]', 'Jesper Kristensen', 'Egill Gudlaugsson', 'Robert Ingi Huldarsson']","['[NOR] ', '[NOR] ', '[ISL] ', '[ISL] ']","['21-12', '23-25', '21-11']",MD,20170126,"Reykjavik, Iceland"
+130,"['Steven Stallwood', 'Hope Warner', 'Jeppe Ludvigsen', 'Astrid Molander']","['[ENG] ', '[ENG] ', '[DEN] ', '[DEN] ']","['21-11', '21-18']",XD ,20170126,"Reykjavik, Iceland"
+131,"['Lyddia Yi Yu Cheah [7]', 'Nicola Cerfontyne [6]']","['[MAS] ', '[ENG] ']","['21-17', '21-9']",WS ,20170126,"Reykjavik, Iceland"
+132,"['Subhankar Dey [3]', 'Kim Bruun [1]']","['[IND] ', '[DEN] ']","['14-21', '21-16', '21-17']",MS ,20170126,"Reykjavik, Iceland"
+133,"['Lyddia Yi Yu Cheah', 'Li Lian Yang', 'Fee Teng Liew [4]', 'Lizzie Tolman']","['[MAS] ', '[MAS] ', '[ENG] ', '[ENG] ']","['21-14', '21-14']",WD ,20170126,"Reykjavik, Iceland"
+134,"['Zach Russ', 'Steven Stallwood', 'Max Flynn', 'David Jones']","['[ENG] ', '[ENG] ', '[ENG] ', '[ENG] ']","['21-19', '21-16']",MD ,20170126,"Reykjavik, Iceland"
+135,"['Callum Hemming [2]', 'Fee Teng Liew', 'Ethan Van Leeuwen', 'Sian Kelly']","['[ENG] ', '[ENG] ', '[ENG] ', '[ENG] ']","['21-8', '21-7']",XD ,20170126,"Reykjavik, Iceland"
+136,"['Li Lian Yang [5]', 'Margrét Johannsdottir']","['[MAS] ', '[ISL] ']","['21-10', '21-9']",WS ,20170126,"Reykjavik, Iceland"
+137,"['Kalle Koljonen [2]', 'Sam Parsons [4]']","['[FIN] ', '[ENG] ']","['21-17', '21-12']",MS ,20170126,"Reykjavik, Iceland"
+138,"['Grace King', 'Hope Warner', 'Sian Kelly', 'Annie Lado']","['[ENG] ', '[ENG] ', '[ENG] ', '[ENG] ']","['21-10', '21-12']",WD ,20170126,"Reykjavik, Iceland"
+139,"['Pawel Pradzinski [3]', 'Jan Rudzinski', 'Fredrik Kristensen [2]', 'Jesper Kristensen']","['[POL] ', '[POL] ', '[NOR] ', '[NOR] ']","['21-16', '21-18']",MD ,20170126,"Reykjavik, Iceland"
+140,"['Li Lian Yang [5]', 'Lyddia Yi Yu Cheah [7]']","['[MAS] ', '[MAS] ']","['21-8', '21-11']",WS ,20170126,"Reykjavik, Iceland"
+141,"['Pawel Pradzinski [3]', 'Jan Rudzinski', 'Zach Russ', 'Steven Stallwood']","['[POL] ', '[POL] ', '[ENG] ', '[ENG] ']","['24-22', '10-21', '21-16']",MD ,20170126,"Reykjavik, Iceland"
+142,"['Lyddia Yi Yu Cheah', 'Li Lian Yang', 'Grace King', 'Hope Warner']","['[MAS] ', '[MAS] ', '[ENG] ', '[ENG] ']","['21-6', '21-16']",WD ,20170126,"Reykjavik, Iceland"
+143,"['Subhankar Dey [3]', 'Kalle Koljonen [2]']","['[IND] ', '[FIN] ']","['21-11', '21-17']",MS ,20170126,"Reykjavik, Iceland"
+144,"['Callum Hemming [2]', 'Fee Teng Liew', 'Steven Stallwood', 'Hope Warner']","['[ENG] ', '[ENG] ', '[ENG] ', '[ENG] ']","['19-21', '21-16', '21-11']",XD ,20170126,"Reykjavik, Iceland"

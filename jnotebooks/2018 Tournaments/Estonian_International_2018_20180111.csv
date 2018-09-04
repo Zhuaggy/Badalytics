@@ -1,111 +1,111 @@
-,PLAYERS,COUNTRIES,SCORES,EVENT,match_week
-0,"['Mikk Ounmaa', 'Sigrid Laura Moora', 'Edijs Livins', 'Diana Stognija']","['[EST] ', '[EST] ', '[LAT] ', '[LAT] ']","['21-14', '21-14']",XD - Qualification ,20180111
-1,"['Joonas Korhonen', 'Marton Szerecz']","['[FIN] ', '[HUN] ']","['21-15', '12-21', '21-11']",MS - Qualification ,20180111
-2,"['Julien Scheiwiller', 'Zach Russ [6]']","['[SUI] ', '[ENG] ']","['21-19', '21-17']",MS - Qualification ,20180111
-3,"['Valentin Singer', 'Marcus Lõo']","['[FRA] ', '[EST] ']","['21-12', '21-8']",MS - Qualification ,20180111
-4,"['Sander Merits', 'Reinis Sefers']","['[EST] ', '[LAT] ']","['21-15', '21-16']",MS - Qualification ,20180111
-5,"['Miika Lahtinen', 'Rui Mendes']","['[FIN] ', '[POR] ']","['25-23', '16-21', '21-15']",MS - Qualification ,20180111
-6,"['Léonice Huet', 'Mathilde Haapanen']","['[FRA] ', '[DEN] ']","['21-12', '21-15']",WS - Qualification ,20180111
-7,"['Maja Pavlinic [4]', 'Julia Bitsoukova']","['[CRO] ', '[BLR] ']","['21-10', '21-13']",WS - Qualification ,20180111
-8,"['Maija Krzywacki', 'Hannaliina Piho']","['[FIN] ', '[EST] ']","['13-21', '21-12', '23-21']",WS - Qualification ,20180111
-9,"['Tuuli Harkonen', 'Vlada Gynga']","['[FIN] ', '[MDA] ']","['21-16', '21-17']",WS - Qualification ,20180111
-10,"['Jere Övermark', 'Inalotta Suutarinen', 'Alexander Raudsepp', 'Merit Mägi']","['[FIN] ', '[FIN] ', '[EST] ', '[EST] ']","['21-10', '21-15']",XD - Qualification ,20180111
-11,"['Dmytro Zavadsky [8]', 'Kristjan Täherand']","['[UKR] ', '[EST] ']","['21-18', '21-18']",MS - Qualification ,20180111
-12,"['Mikk Ounmaa', 'Sigrid Laura Moora', 'Jesper Paul', 'Elina Niiranen']","['[EST] ', '[EST] ', '[FIN] ', '[FIN] ']","['24-22', '21-17']",XD - Qualification ,20180111
-13,"['Jhotiswaran Karupathevan', 'Dimitar Yanakiev']","['[MAS] ', '[BUL] ']","['21-18', '21-16']",MS - Qualification ,20180111
-14,"['Michelle Skødstrup', 'Ashwathi Pillai [3]']","['[DEN] ', '[SWE] ']","['21-7', '21-7']",WS - Qualification ,20180111
-15,"['Oskari Larkimo', 'Tuomas Nuorteva', 'Karl Kivinurm', 'Vahur Lukin']","['[FIN] ', '[FIN] ', '[EST] ', '[EST] ']","['21-13', '21-12']",MD - Qualification ,20180111
-16,"['Julien Scheiwiller', 'Mika Kongas']","['[SUI] ', '[FIN] ']","['16-21', '21-19', '21-17']",MS - Qualification ,20180111
-17,"['Rainer Kaljumae', 'Pauls Gureckis']","['[EST] ', '[LAT] ']","['21-13', '21-10']",MS - Qualification ,20180111
-18,"['Dmytro Zavadsky [8]', 'Douglas Lidman']","['[UKR] ', '[SWE] ']","['21-15', '21-15']",MS - Qualification ,20180111
-19,"['Jere Övermark', 'Inalotta Suutarinen', 'Andres Aru', 'Ulla Helm']","['[FIN] ', '[FIN] ', '[EST] ', '[EST] ']","['21-17', '23-21']",XD - Qualification ,20180111
-20,"['Jesper Paul', 'Shokhzod Gulomzoda']","['[FIN] ', '[RUS] ']","['10-21', '21-12', '21-16']",MS - Qualification ,20180111
-21,"['Mika Kongas', 'Mikhail Lavrikov']","['[FIN] ', '[RUS] ']","['22-20', '21-8']",MS - Qualification ,20180111
-22,"['Douglas Lidman', 'Quentin Filliettaz']","['[SWE] ', '[SUI] ']","['14-21', '21-16', '21-16']",MS - Qualification ,20180111
-23,"['Romain Frank', 'Alexander Verner']","['[FRA] ', '[RUS] ']","['21-13', '21-16']",MS - Qualification ,20180111
-24,"['Arto Lahtinen', 'Heiko Zoober']","['[FIN] ', '[EST] ']","['22-20', '21-19']",MS - Qualification ,20180111
-25,"['Ella Soderstrom [7]', 'Julie Ferrier']","['[SWE] ', '[FRA] ']","['21-15', '18-21', '22-20']",WS - Qualification ,20180111
-26,"['Anton Kaisti', 'Jere Övermark', 'Dominic Ashton', 'Michael Roe']","['[FIN] ', '[FIN] ', '[ENG] ', '[ENG] ']","['22-20', '15-21', '21-16']",MD - Qualification ,20180111
-27,"['Johanna Magnusson', 'Anastasiia Boiarun']","['[SWE] ', '[RUS] ']","['21-6', '21-8']",WS - Qualification ,20180111
-28,"['Michelle Skødstrup', 'Alena Iakovleva']","['[DEN] ', '[RUS] ']","['21-9', '21-7']",WS - Qualification ,20180111
-29,"['Julien Scheiwiller', 'Victor Zuhr']","['[SUI] ', '[SWE] ']","['23-21', '21-15']",MS - Qualification ,20180111
-30,"['Anton Monnberg', 'Arto Lahtinen']","['[FIN] ', '[FIN] ']","['21-18', '21-16']",MS - Qualification ,20180111
-31,"['Romain Frank', 'Dmitrii Klimenko']","['[FRA] ', '[RUS] ']","['21-14', '21-11']",MS - Qualification ,20180111
-32,"['Ella Soderstrom [7]', 'Maija Krzywacki']","['[SWE] ', '[FIN] ']","['21-13', '13-21', '21-8']",WS - Qualification ,20180111
-33,"['Johanna Magnusson', 'Tuuli Harkonen']","['[SWE] ', '[FIN] ']","['21-10', '21-15']",WS - Qualification ,20180111
-34,"['Duarte Nuno Anjo', 'Bernardo Atilano', 'Anton Kaisti', 'Jere Övermark']","['[POR] ', '[POR] ', '[FIN] ', '[FIN] ']","['21-19', '22-20']",MD - Qualification ,20180111
-35,"['Jhotiswaran Karupathevan', 'Christo Popov']","['[MAS] ', '[FRA] ']","['21-14', '21-15']",MS - Qualification ,20180111
-36,"['Léonice Huet', 'Hanna Karkaus']","['[FRA] ', '[FIN] ']","['21-12', '21-9']",WS - Qualification ,20180111
-37,"['Colin Hammarberg', 'Mikk Ounmaa']","['[SWE] ', '[EST] ']","['21-12', '21-9']",MS - Qualification ,20180111
-38,"['Peter Kaesbauer', 'Olga Konon', 'Max Flynn', 'Lizzie Tolman']","['[GER] ', '[GER] ', '[ENG] ', '[ENG] ']","['21-14', '21-13']",XD ,20180111
-39,"['Raul Must [1]', 'Leo Rossi']","['[EST] ', '[FRA] ']","['21-14', '21-17']",MS ,20180111
-40,"['Gergely Krausz [5]', 'Daniel Chislov']","['[HUN] ', '[ISR] ']","['21-17', '21-16']",MS ,20180111
-41,"['Pierrick Cajot', 'Colin Hammarberg']","['[FRA] ', '[SWE] ']","['21-10', '21-17']",MS ,20180111
-42,"['Iikka Heino [8]', 'Muhammed Ali Kurt']","['[FIN] ', '[TUR] ']","['21-15', '21-7']",MS ,20180111
-43,"['Agnes Korosi [8]', 'Katia Normand']","['[HUN] ', '[FRA] ']","['17-21', '21-18', '21-15']",WS ,20180111
-44,"['Kristin Kuuba', 'Gayle Mahulette [4]']","['[EST] ', '[NED] ']","['21-9', '10-21', '23-21']",WS ,20180111
-45,"['Mariya Mitsova [2]', 'Johanna Magnusson']","['[BUL] ', '[SWE] ']","['21-14', '21-11']",WS ,20180111
-46,"['Mikhail Lavrikov', 'Maxim Romanov', 'Zach Russ', 'Ethan Van Leeuwen']","['[RUS] ', '[RUS] ', '[ENG] ', '[ENG] ']","['18-21', '21-8', '26-24']",MD ,20180111
-47,"['Victoria Slobodyanyuk', 'Elizaveta Tarasova', 'Verlaine Faulmann', 'Margot Lambert']","['[RUS] ', '[RUS] ', '[FRA] ', '[FRA] ']","['21-16', '9-21', '21-11']",WD ,20180111
-48,"['Debora Jille', 'Imke Van Der Aar', 'Anika Dörr', 'Annika Horbach']","['[NED] ', '[NED] ', '[GER] ', '[GER] ']","['21-14', '21-17']",WD ,20180111
-49,"['Jacob Nilsson', 'Pierrick Cajot']","['[SWE] ', '[FRA] ']","['21-3', '21-11']",MS ,20180111
-50,"['Dmytro Zavadsky', 'Alexander Roovers [6]']","['[UKR] ', '[GER] ']","['21-19', '21-15']",MS ,20180111
-51,"['Peter Kaesbauer', 'Olga Konon', 'Samy Corvee', 'Emilie Lefel']","['[GER] ', '[GER] ', '[FRA] ', '[FRA] ']","['21-13', '21-16']",XD ,20180111
-52,"['Ksenia Evgenova', 'Agnes Korosi [8]']","['[RUS] ', '[HUN] ']","['21-16', '21-16']",WS ,20180111
-53,"['Michelle Skødstrup', 'Alesia Zaitsava [7]']","['[DEN] ', '[BLR] ']","['21-19', '21-11']",WS ,20180111
-54,"['Gergely Krausz', 'Tovannakasem Samatcha', 'Anton Monnberg', 'Jesper Paul']","['[HUN] ', '[THA] ', '[FIN] ', '[FIN] ']","['21-19', '21-19']",MD ,20180111
-55,"['Max Flynn', 'Gregory Mairs', 'Henri Aarnio [3]', 'Iikka Heino']","['[ENG] ', '[ENG] ', '[FIN] ', '[FIN] ']","['21-16', '21-14']",MD ,20180111
-56,"['Tuomas Nuorteva', 'Sonja Pekkola', 'Sander Merits', 'Kati-Kreet Marran']","['[FIN] ', '[FIN] ', '[EST] ', '[EST] ']","['21-12', '21-14']",XD ,20180111
-57,"['Kalle Koljonen [2]', 'Jonathan Persson']","['[FIN] ', '[GER] ']","['21-14', '21-17']",MS ,20180111
-58,"['Henri Aarnio', 'Lars Schaenzler']","['[FIN] ', '[GER] ']",['21-18'],MS ,20180111
-59,"['Dmytro Zavadsky', 'Karl Kert']","['[UKR] ', '[EST] ']","['21-14', '10-21', '21-10']",MS ,20180111
-60,"['Anastasiia Semenova', 'Kate Foo Kune [3]']","['[RUS] ', '[MRI] ']","['14-21', '21-15', '21-10']",WS ,20180111
-61,"['Léonice Huet', 'Maryna Ilyinskaya']","['[FRA] ', '[UKR] ']","['21-15', '21-16']",WS ,20180111
-62,"['Ayla Huser', 'Abigail Holden']","['[SUI] ', '[ENG] ']","['21-16', '27-25']",WS ,20180111
-63,"['Hermansah .', 'Gustav Stromvall', 'Romain Frank', 'Florent Riancho']","['[INA] ', '[SWE] ', '[FRA] ', '[FRA] ']","['21-16', '21-14']",MD ,20180111
-64,"['Max Flynn', 'Gregory Mairs', 'Duarte Nuno Anjo', 'Bernardo Atilano']","['[ENG] ', '[ENG] ', '[POR] ', '[POR] ']","['21-16', '21-15']",MD ,20180111
-65,"['Linda Efler', 'Olga Konon', 'Lizzie Tolman', 'Ciara Torrance']","['[GER] ', '[GER] ', '[ENG] ', '[SCO] ']",[],WD ,20180111
-66,"['Henri Aarnio', 'Gergely Krausz [5]']","['[FIN] ', '[HUN] ']","['21-17', '21-19']",MS ,20180111
-67,"['Lucas Claerbout [4]', 'Felix Burestedt']","['[FRA] ', '[SWE] ']","['21-14', '21-12']",MS ,20180111
-68,"['Eloi Adam', 'Anne Tran', 'Tuomas Nuorteva', 'Sonja Pekkola']","['[FRA] ', '[FRA] ', '[FIN] ', '[FIN] ']","['21-15', '21-12']",XD ,20180111
-69,"['Kristin Kuuba', 'Léonice Huet']","['[EST] ', '[FRA] ']","['21-19', '21-10']",WS ,20180111
-70,"['Qi Xuefei', 'Yvonne Li [5]']","['[CHN] ', '[GER] ']","['21-18', '17-21', '21-14']",WS ,20180111
-71,"['Mikhail Lavrikov', 'Maxim Romanov', 'Alexander Bass [4]', 'Shai Geffen']","['[RUS] ', '[RUS] ', '[ISR] ', '[ISR] ']","['21-19', '21-16']",MD ,20180111
-72,"['Julie Macpherson [4]', ""Eleanor O'Donnell"", 'Tatjana Bibik', 'Irina Khlebko']","['[SCO] ', '[SCO] ', '[RUS] ', '[RUS] ']","['21-15', '21-18']",WD ,20180111
-73,"['Ekaterina Bolotova [1]', 'Alina Davletova', 'Victoria Slobodyanyuk', 'Elizaveta Tarasova']","['[RUS] ', '[RUS] ', '[RUS] ', '[RUS] ']","['21-6', '21-16']",WD ,20180111
-74,"['Jessica Hopton', 'Jenny Moore', 'Emilie Lefel [2]', 'Anne Tran']","['[ENG] ', '[ENG] ', '[FRA] ', '[FRA] ']","['21-16', '12-21', '23-21']",WD ,20180111
-75,"['Peter Kaesbauer', 'Olga Konon', 'Anton Kaisti [1]', 'Jenny Nystrom']","['[GER] ', '[GER] ', '[FIN] ', '[FIN] ']","['21-17', '18-21', '21-16']",XD ,20180111
-76,"['Michelle Skødstrup', 'Mariya Mitsova [2]']","['[DEN] ', '[BUL] ']","['21-11', '19-21', '21-19']",WS ,20180111
-77,"['Jacob Nilsson', 'Emre Lale']","['[SWE] ', '[TUR] ']","['22-24', '21-18', '21-16']",MS ,20180111
-78,"['Hermansah .', 'Kalle Koljonen [2]']","['[INA] ', '[FIN] ']","['21-19', '21-16']",MS ,20180111
-79,"['Max Flynn', 'Gregory Mairs', 'Rodion Alimov', 'Rodion Kargaev']","['[ENG] ', '[ENG] ', '[RUS] ', '[RUS] ']","['19-21', '21-9', '21-19']",MD ,20180111
-80,"['Gregory Mairs [2]', 'Jenny Moore', 'Rodion Alimov [3]', 'Alina Davletova']","['[ENG] ', '[ENG] ', '[RUS] ', '[RUS] ']","['21-17', '8-21', '21-19']",XD ,20180111
-81,"['Ksenia Polikarpova [1]', 'Qi Xuefei']","['[ISR] ', '[CHN] ']","['13-21', '21-16', '21-17']",WS ,20180111
-82,"['Jessica Hopton', 'Jenny Moore', 'Julie Macpherson [4]', ""Eleanor O'Donnell""]","['[ENG] ', '[ENG] ', '[SCO] ', '[SCO] ']","['21-15', '21-9']",WD ,20180111
-83,"['Michelle Skødstrup', 'Kristin Kuuba']","['[DEN] ', '[EST] ']","['21-18', '21-15']",WS ,20180111
-84,"['Andrey Parakhodin', 'Nikolai Ukk', 'Max Flynn', 'Gregory Mairs']","['[RUS] ', '[RUS] ', '[ENG] ', '[ENG] ']","['21-16', '18-21', '21-19']",MD ,20180111
-85,"['Rodion Alimov [3]', 'Alina Davletova', 'Eloi Adam', 'Anne Tran']","['[RUS] ', '[RUS] ', '[FRA] ', '[FRA] ']","['21-15', '21-18']",XD ,20180111
-86,"['Ksenia Polikarpova [1]', 'Soraya De Visch Eijbergen [6]']","['[ISR] ', '[NED] ']","['21-18', '21-4']",WS ,20180111
-87,"['Lucas Claerbout [4]', 'Dmytro Zavadsky']","['[FRA] ', '[UKR] ']","['21-9', '21-17']",MS ,20180111
-88,"['Ekaterina Bolotova [1]', 'Alina Davletova', 'Emma Karlsson', 'Johanna Magnusson']","['[RUS] ', '[RUS] ', '[SWE] ', '[SWE] ']","['21-19', '21-14']",WD ,20180111
-89,"['Jessica Hopton', 'Jenny Moore', 'Debora Jille', 'Imke Van Der Aar']","['[ENG] ', '[ENG] ', '[NED] ', '[NED] ']","['21-17', '10-21', '22-20']",WD ,20180111
-90,"['Peter Kaesbauer', 'Olga Konon', 'Thom Gicquel [4]', 'Delphine Delrue']","['[GER] ', '[GER] ', '[FRA] ', '[FRA] ']","['21-16', '25-23']",XD ,20180111
-91,"['Jacob Nilsson', 'Henri Aarnio']","['[SWE] ', '[FIN] ']","['21-15', '21-16']",MS ,20180111
-92,"['Lucas Claerbout [4]', 'Hermansah .']","['[FRA] ', '[INA] ']","['21-18', '21-17']",MS ,20180111
-93,"['Peter Kaesbauer', 'Johannes Pistorius', 'Eloi Adam', 'Samy Corvee']","['[GER] ', '[GER] ', '[FRA] ', '[FRA] ']","['21-9', '21-14']",MD ,20180111
-94,"['Ekaterina Bolotova [1]', 'Alina Davletova', 'Linda Efler', 'Olga Konon']","['[RUS] ', '[RUS] ', '[GER] ', '[GER] ']","['8-21', '21-17', '21-14']",WD ,20180111
-95,"['Thom Gicquel [4]', 'Delphine Delrue', 'Rodion Kargaev', 'Viktoriia Vorobeva']","['[FRA] ', '[FRA] ', '[RUS] ', '[RUS] ']","['21-15', '21-17']",XD ,20180111
-96,"['Henri Aarnio', 'Raul Must [1]']","['[FIN] ', '[EST] ']","['21-18', '21-16']",MS ,20180111
-97,"['Kristin Kuuba', 'Ksenia Evgenova']","['[EST] ', '[RUS] ']","['21-17', '21-10']",WS ,20180111
-98,"['Eloi Adam', 'Samy Corvee', 'Mikhail Lavrikov', 'Maxim Romanov']","['[FRA] ', '[FRA] ', '[RUS] ', '[RUS] ']","['21-11', '21-14']",MD ,20180111
-99,"['Linda Efler', 'Olga Konon', 'Maija Krzywacki', 'Inalotta Suutarinen']","['[GER] ', '[GER] ', '[FIN] ', '[FIN] ']","['21-14', '21-12']",WD ,20180111
-100,"['Gregory Mairs [2]', 'Jenny Moore', 'Vladimir Nikulov', 'Anastasiia Semenova']","['[ENG] ', '[ENG] ', '[RUS] ', '[RUS] ']","['21-9', '21-15']",XD ,20180111
-101,"['Julie Macpherson [4]', ""Eleanor O'Donnell"", 'Maryna Ilyinskaya', 'Yelyzaveta Zharka']","['[SCO] ', '[SCO] ', '[UKR] ', '[UKR] ']","['21-17', '21-23', '21-17']",WD ,20180111
-102,"['Andrey Parakhodin', 'Nikolai Ukk', 'Mathieu Gangloff', 'Tom Rodrigues']","['[RUS] ', '[RUS] ', '[FRA] ', '[FRA] ']","['21-17', '21-10']",MD ,20180111
-103,"['Qi Xuefei', 'Anastasiia Semenova']","['[CHN] ', '[RUS] ']","['21-14', '21-8']",WS ,20180111
-104,"['Peter Kaesbauer', 'Johannes Pistorius', 'Gergely Krausz', 'Tovannakasem Samatcha']","['[GER] ', '[GER] ', '[HUN] ', '[THA] ']","['21-12', '21-16']",MD ,20180111
-105,"['Peter Kaesbauer', 'Olga Konon', 'Gregory Mairs [2]', 'Jenny Moore']","['[GER] ', '[GER] ', '[ENG] ', '[ENG] ']","['21-14', '21-12']",XD ,20180111
-106,"['Ksenia Polikarpova [1]', 'Michelle Skødstrup']","['[ISR] ', '[DEN] ']","['21-13', '21-17']",WS ,20180111
-107,"['Lucas Claerbout [4]', 'Jacob Nilsson']","['[FRA] ', '[SWE] ']","['21-16', '21-6']",MS ,20180111
-108,"['Ekaterina Bolotova [1]', 'Alina Davletova', 'Jessica Hopton', 'Jenny Moore']","['[RUS] ', '[RUS] ', '[ENG] ', '[ENG] ']","['21-10', '21-10']",WD ,20180111
-109,"['Andrey Parakhodin', 'Nikolai Ukk', 'Peter Kaesbauer', 'Johannes Pistorius']","['[RUS] ', '[RUS] ', '[GER] ', '[GER] ']","['14-21', '21-18', '21-19']",MD ,20180111
+,PLAYERS,COUNTRIES,SCORES,EVENT,match_week,match_location
+0,"['Mikk Ounmaa', 'Sigrid Laura Moora', 'Edijs Livins', 'Diana Stognija']","['[EST] ', '[EST] ', '[LAT] ', '[LAT] ']","['21-14', '21-14']",XD - Qualification ,20180111,"Tallinn, Estonia"
+1,"['Joonas Korhonen', 'Marton Szerecz']","['[FIN] ', '[HUN] ']","['21-15', '12-21', '21-11']",MS - Qualification ,20180111,"Tallinn, Estonia"
+2,"['Julien Scheiwiller', 'Zach Russ [6]']","['[SUI] ', '[ENG] ']","['21-19', '21-17']",MS - Qualification ,20180111,"Tallinn, Estonia"
+3,"['Valentin Singer', 'Marcus Lõo']","['[FRA] ', '[EST] ']","['21-12', '21-8']",MS - Qualification ,20180111,"Tallinn, Estonia"
+4,"['Sander Merits', 'Reinis Sefers']","['[EST] ', '[LAT] ']","['21-15', '21-16']",MS - Qualification ,20180111,"Tallinn, Estonia"
+5,"['Miika Lahtinen', 'Rui Mendes']","['[FIN] ', '[POR] ']","['25-23', '16-21', '21-15']",MS - Qualification ,20180111,"Tallinn, Estonia"
+6,"['Léonice Huet', 'Mathilde Haapanen']","['[FRA] ', '[DEN] ']","['21-12', '21-15']",WS - Qualification ,20180111,"Tallinn, Estonia"
+7,"['Maja Pavlinic [4]', 'Julia Bitsoukova']","['[CRO] ', '[BLR] ']","['21-10', '21-13']",WS - Qualification ,20180111,"Tallinn, Estonia"
+8,"['Maija Krzywacki', 'Hannaliina Piho']","['[FIN] ', '[EST] ']","['13-21', '21-12', '23-21']",WS - Qualification ,20180111,"Tallinn, Estonia"
+9,"['Tuuli Harkonen', 'Vlada Gynga']","['[FIN] ', '[MDA] ']","['21-16', '21-17']",WS - Qualification ,20180111,"Tallinn, Estonia"
+10,"['Jere Övermark', 'Inalotta Suutarinen', 'Alexander Raudsepp', 'Merit Mägi']","['[FIN] ', '[FIN] ', '[EST] ', '[EST] ']","['21-10', '21-15']",XD - Qualification ,20180111,"Tallinn, Estonia"
+11,"['Dmytro Zavadsky [8]', 'Kristjan Täherand']","['[UKR] ', '[EST] ']","['21-18', '21-18']",MS - Qualification ,20180111,"Tallinn, Estonia"
+12,"['Mikk Ounmaa', 'Sigrid Laura Moora', 'Jesper Paul', 'Elina Niiranen']","['[EST] ', '[EST] ', '[FIN] ', '[FIN] ']","['24-22', '21-17']",XD - Qualification ,20180111,"Tallinn, Estonia"
+13,"['Jhotiswaran Karupathevan', 'Dimitar Yanakiev']","['[MAS] ', '[BUL] ']","['21-18', '21-16']",MS - Qualification ,20180111,"Tallinn, Estonia"
+14,"['Michelle Skødstrup', 'Ashwathi Pillai [3]']","['[DEN] ', '[SWE] ']","['21-7', '21-7']",WS - Qualification ,20180111,"Tallinn, Estonia"
+15,"['Oskari Larkimo', 'Tuomas Nuorteva', 'Karl Kivinurm', 'Vahur Lukin']","['[FIN] ', '[FIN] ', '[EST] ', '[EST] ']","['21-13', '21-12']",MD - Qualification ,20180111,"Tallinn, Estonia"
+16,"['Julien Scheiwiller', 'Mika Kongas']","['[SUI] ', '[FIN] ']","['16-21', '21-19', '21-17']",MS - Qualification ,20180111,"Tallinn, Estonia"
+17,"['Rainer Kaljumae', 'Pauls Gureckis']","['[EST] ', '[LAT] ']","['21-13', '21-10']",MS - Qualification ,20180111,"Tallinn, Estonia"
+18,"['Dmytro Zavadsky [8]', 'Douglas Lidman']","['[UKR] ', '[SWE] ']","['21-15', '21-15']",MS - Qualification ,20180111,"Tallinn, Estonia"
+19,"['Jere Övermark', 'Inalotta Suutarinen', 'Andres Aru', 'Ulla Helm']","['[FIN] ', '[FIN] ', '[EST] ', '[EST] ']","['21-17', '23-21']",XD - Qualification ,20180111,"Tallinn, Estonia"
+20,"['Jesper Paul', 'Shokhzod Gulomzoda']","['[FIN] ', '[RUS] ']","['10-21', '21-12', '21-16']",MS - Qualification ,20180111,"Tallinn, Estonia"
+21,"['Mika Kongas', 'Mikhail Lavrikov']","['[FIN] ', '[RUS] ']","['22-20', '21-8']",MS - Qualification ,20180111,"Tallinn, Estonia"
+22,"['Douglas Lidman', 'Quentin Filliettaz']","['[SWE] ', '[SUI] ']","['14-21', '21-16', '21-16']",MS - Qualification ,20180111,"Tallinn, Estonia"
+23,"['Romain Frank', 'Alexander Verner']","['[FRA] ', '[RUS] ']","['21-13', '21-16']",MS - Qualification ,20180111,"Tallinn, Estonia"
+24,"['Arto Lahtinen', 'Heiko Zoober']","['[FIN] ', '[EST] ']","['22-20', '21-19']",MS - Qualification ,20180111,"Tallinn, Estonia"
+25,"['Ella Soderstrom [7]', 'Julie Ferrier']","['[SWE] ', '[FRA] ']","['21-15', '18-21', '22-20']",WS - Qualification ,20180111,"Tallinn, Estonia"
+26,"['Anton Kaisti', 'Jere Övermark', 'Dominic Ashton', 'Michael Roe']","['[FIN] ', '[FIN] ', '[ENG] ', '[ENG] ']","['22-20', '15-21', '21-16']",MD - Qualification ,20180111,"Tallinn, Estonia"
+27,"['Johanna Magnusson', 'Anastasiia Boiarun']","['[SWE] ', '[RUS] ']","['21-6', '21-8']",WS - Qualification ,20180111,"Tallinn, Estonia"
+28,"['Michelle Skødstrup', 'Alena Iakovleva']","['[DEN] ', '[RUS] ']","['21-9', '21-7']",WS - Qualification ,20180111,"Tallinn, Estonia"
+29,"['Julien Scheiwiller', 'Victor Zuhr']","['[SUI] ', '[SWE] ']","['23-21', '21-15']",MS - Qualification ,20180111,"Tallinn, Estonia"
+30,"['Anton Monnberg', 'Arto Lahtinen']","['[FIN] ', '[FIN] ']","['21-18', '21-16']",MS - Qualification ,20180111,"Tallinn, Estonia"
+31,"['Romain Frank', 'Dmitrii Klimenko']","['[FRA] ', '[RUS] ']","['21-14', '21-11']",MS - Qualification ,20180111,"Tallinn, Estonia"
+32,"['Ella Soderstrom [7]', 'Maija Krzywacki']","['[SWE] ', '[FIN] ']","['21-13', '13-21', '21-8']",WS - Qualification ,20180111,"Tallinn, Estonia"
+33,"['Johanna Magnusson', 'Tuuli Harkonen']","['[SWE] ', '[FIN] ']","['21-10', '21-15']",WS - Qualification ,20180111,"Tallinn, Estonia"
+34,"['Duarte Nuno Anjo', 'Bernardo Atilano', 'Anton Kaisti', 'Jere Övermark']","['[POR] ', '[POR] ', '[FIN] ', '[FIN] ']","['21-19', '22-20']",MD - Qualification ,20180111,"Tallinn, Estonia"
+35,"['Jhotiswaran Karupathevan', 'Christo Popov']","['[MAS] ', '[FRA] ']","['21-14', '21-15']",MS - Qualification ,20180111,"Tallinn, Estonia"
+36,"['Léonice Huet', 'Hanna Karkaus']","['[FRA] ', '[FIN] ']","['21-12', '21-9']",WS - Qualification ,20180111,"Tallinn, Estonia"
+37,"['Colin Hammarberg', 'Mikk Ounmaa']","['[SWE] ', '[EST] ']","['21-12', '21-9']",MS - Qualification ,20180111,"Tallinn, Estonia"
+38,"['Peter Kaesbauer', 'Olga Konon', 'Max Flynn', 'Lizzie Tolman']","['[GER] ', '[GER] ', '[ENG] ', '[ENG] ']","['21-14', '21-13']",XD ,20180111,"Tallinn, Estonia"
+39,"['Raul Must [1]', 'Leo Rossi']","['[EST] ', '[FRA] ']","['21-14', '21-17']",MS ,20180111,"Tallinn, Estonia"
+40,"['Gergely Krausz [5]', 'Daniel Chislov']","['[HUN] ', '[ISR] ']","['21-17', '21-16']",MS ,20180111,"Tallinn, Estonia"
+41,"['Pierrick Cajot', 'Colin Hammarberg']","['[FRA] ', '[SWE] ']","['21-10', '21-17']",MS ,20180111,"Tallinn, Estonia"
+42,"['Iikka Heino [8]', 'Muhammed Ali Kurt']","['[FIN] ', '[TUR] ']","['21-15', '21-7']",MS ,20180111,"Tallinn, Estonia"
+43,"['Agnes Korosi [8]', 'Katia Normand']","['[HUN] ', '[FRA] ']","['17-21', '21-18', '21-15']",WS ,20180111,"Tallinn, Estonia"
+44,"['Kristin Kuuba', 'Gayle Mahulette [4]']","['[EST] ', '[NED] ']","['21-9', '10-21', '23-21']",WS ,20180111,"Tallinn, Estonia"
+45,"['Mariya Mitsova [2]', 'Johanna Magnusson']","['[BUL] ', '[SWE] ']","['21-14', '21-11']",WS ,20180111,"Tallinn, Estonia"
+46,"['Mikhail Lavrikov', 'Maxim Romanov', 'Zach Russ', 'Ethan Van Leeuwen']","['[RUS] ', '[RUS] ', '[ENG] ', '[ENG] ']","['18-21', '21-8', '26-24']",MD ,20180111,"Tallinn, Estonia"
+47,"['Victoria Slobodyanyuk', 'Elizaveta Tarasova', 'Verlaine Faulmann', 'Margot Lambert']","['[RUS] ', '[RUS] ', '[FRA] ', '[FRA] ']","['21-16', '9-21', '21-11']",WD ,20180111,"Tallinn, Estonia"
+48,"['Debora Jille', 'Imke Van Der Aar', 'Anika Dörr', 'Annika Horbach']","['[NED] ', '[NED] ', '[GER] ', '[GER] ']","['21-14', '21-17']",WD ,20180111,"Tallinn, Estonia"
+49,"['Jacob Nilsson', 'Pierrick Cajot']","['[SWE] ', '[FRA] ']","['21-3', '21-11']",MS ,20180111,"Tallinn, Estonia"
+50,"['Dmytro Zavadsky', 'Alexander Roovers [6]']","['[UKR] ', '[GER] ']","['21-19', '21-15']",MS ,20180111,"Tallinn, Estonia"
+51,"['Peter Kaesbauer', 'Olga Konon', 'Samy Corvee', 'Emilie Lefel']","['[GER] ', '[GER] ', '[FRA] ', '[FRA] ']","['21-13', '21-16']",XD ,20180111,"Tallinn, Estonia"
+52,"['Ksenia Evgenova', 'Agnes Korosi [8]']","['[RUS] ', '[HUN] ']","['21-16', '21-16']",WS ,20180111,"Tallinn, Estonia"
+53,"['Michelle Skødstrup', 'Alesia Zaitsava [7]']","['[DEN] ', '[BLR] ']","['21-19', '21-11']",WS ,20180111,"Tallinn, Estonia"
+54,"['Gergely Krausz', 'Tovannakasem Samatcha', 'Anton Monnberg', 'Jesper Paul']","['[HUN] ', '[THA] ', '[FIN] ', '[FIN] ']","['21-19', '21-19']",MD ,20180111,"Tallinn, Estonia"
+55,"['Max Flynn', 'Gregory Mairs', 'Henri Aarnio [3]', 'Iikka Heino']","['[ENG] ', '[ENG] ', '[FIN] ', '[FIN] ']","['21-16', '21-14']",MD ,20180111,"Tallinn, Estonia"
+56,"['Tuomas Nuorteva', 'Sonja Pekkola', 'Sander Merits', 'Kati-Kreet Marran']","['[FIN] ', '[FIN] ', '[EST] ', '[EST] ']","['21-12', '21-14']",XD ,20180111,"Tallinn, Estonia"
+57,"['Kalle Koljonen [2]', 'Jonathan Persson']","['[FIN] ', '[GER] ']","['21-14', '21-17']",MS ,20180111,"Tallinn, Estonia"
+58,"['Henri Aarnio', 'Lars Schaenzler']","['[FIN] ', '[GER] ']",['21-18'],MS ,20180111,"Tallinn, Estonia"
+59,"['Dmytro Zavadsky', 'Karl Kert']","['[UKR] ', '[EST] ']","['21-14', '10-21', '21-10']",MS ,20180111,"Tallinn, Estonia"
+60,"['Anastasiia Semenova', 'Kate Foo Kune [3]']","['[RUS] ', '[MRI] ']","['14-21', '21-15', '21-10']",WS ,20180111,"Tallinn, Estonia"
+61,"['Léonice Huet', 'Maryna Ilyinskaya']","['[FRA] ', '[UKR] ']","['21-15', '21-16']",WS ,20180111,"Tallinn, Estonia"
+62,"['Ayla Huser', 'Abigail Holden']","['[SUI] ', '[ENG] ']","['21-16', '27-25']",WS ,20180111,"Tallinn, Estonia"
+63,"['Hermansah .', 'Gustav Stromvall', 'Romain Frank', 'Florent Riancho']","['[INA] ', '[SWE] ', '[FRA] ', '[FRA] ']","['21-16', '21-14']",MD ,20180111,"Tallinn, Estonia"
+64,"['Max Flynn', 'Gregory Mairs', 'Duarte Nuno Anjo', 'Bernardo Atilano']","['[ENG] ', '[ENG] ', '[POR] ', '[POR] ']","['21-16', '21-15']",MD ,20180111,"Tallinn, Estonia"
+65,"['Linda Efler', 'Olga Konon', 'Lizzie Tolman', 'Ciara Torrance']","['[GER] ', '[GER] ', '[ENG] ', '[SCO] ']",[],WD ,20180111,"Tallinn, Estonia"
+66,"['Henri Aarnio', 'Gergely Krausz [5]']","['[FIN] ', '[HUN] ']","['21-17', '21-19']",MS ,20180111,"Tallinn, Estonia"
+67,"['Lucas Claerbout [4]', 'Felix Burestedt']","['[FRA] ', '[SWE] ']","['21-14', '21-12']",MS ,20180111,"Tallinn, Estonia"
+68,"['Eloi Adam', 'Anne Tran', 'Tuomas Nuorteva', 'Sonja Pekkola']","['[FRA] ', '[FRA] ', '[FIN] ', '[FIN] ']","['21-15', '21-12']",XD ,20180111,"Tallinn, Estonia"
+69,"['Kristin Kuuba', 'Léonice Huet']","['[EST] ', '[FRA] ']","['21-19', '21-10']",WS ,20180111,"Tallinn, Estonia"
+70,"['Qi Xuefei', 'Yvonne Li [5]']","['[CHN] ', '[GER] ']","['21-18', '17-21', '21-14']",WS ,20180111,"Tallinn, Estonia"
+71,"['Mikhail Lavrikov', 'Maxim Romanov', 'Alexander Bass [4]', 'Shai Geffen']","['[RUS] ', '[RUS] ', '[ISR] ', '[ISR] ']","['21-19', '21-16']",MD ,20180111,"Tallinn, Estonia"
+72,"['Julie Macpherson [4]', ""Eleanor O'Donnell"", 'Tatjana Bibik', 'Irina Khlebko']","['[SCO] ', '[SCO] ', '[RUS] ', '[RUS] ']","['21-15', '21-18']",WD ,20180111,"Tallinn, Estonia"
+73,"['Ekaterina Bolotova [1]', 'Alina Davletova', 'Victoria Slobodyanyuk', 'Elizaveta Tarasova']","['[RUS] ', '[RUS] ', '[RUS] ', '[RUS] ']","['21-6', '21-16']",WD ,20180111,"Tallinn, Estonia"
+74,"['Jessica Hopton', 'Jenny Moore', 'Emilie Lefel [2]', 'Anne Tran']","['[ENG] ', '[ENG] ', '[FRA] ', '[FRA] ']","['21-16', '12-21', '23-21']",WD ,20180111,"Tallinn, Estonia"
+75,"['Peter Kaesbauer', 'Olga Konon', 'Anton Kaisti [1]', 'Jenny Nystrom']","['[GER] ', '[GER] ', '[FIN] ', '[FIN] ']","['21-17', '18-21', '21-16']",XD ,20180111,"Tallinn, Estonia"
+76,"['Michelle Skødstrup', 'Mariya Mitsova [2]']","['[DEN] ', '[BUL] ']","['21-11', '19-21', '21-19']",WS ,20180111,"Tallinn, Estonia"
+77,"['Jacob Nilsson', 'Emre Lale']","['[SWE] ', '[TUR] ']","['22-24', '21-18', '21-16']",MS ,20180111,"Tallinn, Estonia"
+78,"['Hermansah .', 'Kalle Koljonen [2]']","['[INA] ', '[FIN] ']","['21-19', '21-16']",MS ,20180111,"Tallinn, Estonia"
+79,"['Max Flynn', 'Gregory Mairs', 'Rodion Alimov', 'Rodion Kargaev']","['[ENG] ', '[ENG] ', '[RUS] ', '[RUS] ']","['19-21', '21-9', '21-19']",MD ,20180111,"Tallinn, Estonia"
+80,"['Gregory Mairs [2]', 'Jenny Moore', 'Rodion Alimov [3]', 'Alina Davletova']","['[ENG] ', '[ENG] ', '[RUS] ', '[RUS] ']","['21-17', '8-21', '21-19']",XD ,20180111,"Tallinn, Estonia"
+81,"['Ksenia Polikarpova [1]', 'Qi Xuefei']","['[ISR] ', '[CHN] ']","['13-21', '21-16', '21-17']",WS ,20180111,"Tallinn, Estonia"
+82,"['Jessica Hopton', 'Jenny Moore', 'Julie Macpherson [4]', ""Eleanor O'Donnell""]","['[ENG] ', '[ENG] ', '[SCO] ', '[SCO] ']","['21-15', '21-9']",WD ,20180111,"Tallinn, Estonia"
+83,"['Michelle Skødstrup', 'Kristin Kuuba']","['[DEN] ', '[EST] ']","['21-18', '21-15']",WS ,20180111,"Tallinn, Estonia"
+84,"['Andrey Parakhodin', 'Nikolai Ukk', 'Max Flynn', 'Gregory Mairs']","['[RUS] ', '[RUS] ', '[ENG] ', '[ENG] ']","['21-16', '18-21', '21-19']",MD ,20180111,"Tallinn, Estonia"
+85,"['Rodion Alimov [3]', 'Alina Davletova', 'Eloi Adam', 'Anne Tran']","['[RUS] ', '[RUS] ', '[FRA] ', '[FRA] ']","['21-15', '21-18']",XD ,20180111,"Tallinn, Estonia"
+86,"['Ksenia Polikarpova [1]', 'Soraya De Visch Eijbergen [6]']","['[ISR] ', '[NED] ']","['21-18', '21-4']",WS ,20180111,"Tallinn, Estonia"
+87,"['Lucas Claerbout [4]', 'Dmytro Zavadsky']","['[FRA] ', '[UKR] ']","['21-9', '21-17']",MS ,20180111,"Tallinn, Estonia"
+88,"['Ekaterina Bolotova [1]', 'Alina Davletova', 'Emma Karlsson', 'Johanna Magnusson']","['[RUS] ', '[RUS] ', '[SWE] ', '[SWE] ']","['21-19', '21-14']",WD ,20180111,"Tallinn, Estonia"
+89,"['Jessica Hopton', 'Jenny Moore', 'Debora Jille', 'Imke Van Der Aar']","['[ENG] ', '[ENG] ', '[NED] ', '[NED] ']","['21-17', '10-21', '22-20']",WD ,20180111,"Tallinn, Estonia"
+90,"['Peter Kaesbauer', 'Olga Konon', 'Thom Gicquel [4]', 'Delphine Delrue']","['[GER] ', '[GER] ', '[FRA] ', '[FRA] ']","['21-16', '25-23']",XD ,20180111,"Tallinn, Estonia"
+91,"['Jacob Nilsson', 'Henri Aarnio']","['[SWE] ', '[FIN] ']","['21-15', '21-16']",MS ,20180111,"Tallinn, Estonia"
+92,"['Lucas Claerbout [4]', 'Hermansah .']","['[FRA] ', '[INA] ']","['21-18', '21-17']",MS ,20180111,"Tallinn, Estonia"
+93,"['Peter Kaesbauer', 'Johannes Pistorius', 'Eloi Adam', 'Samy Corvee']","['[GER] ', '[GER] ', '[FRA] ', '[FRA] ']","['21-9', '21-14']",MD ,20180111,"Tallinn, Estonia"
+94,"['Ekaterina Bolotova [1]', 'Alina Davletova', 'Linda Efler', 'Olga Konon']","['[RUS] ', '[RUS] ', '[GER] ', '[GER] ']","['8-21', '21-17', '21-14']",WD ,20180111,"Tallinn, Estonia"
+95,"['Thom Gicquel [4]', 'Delphine Delrue', 'Rodion Kargaev', 'Viktoriia Vorobeva']","['[FRA] ', '[FRA] ', '[RUS] ', '[RUS] ']","['21-15', '21-17']",XD ,20180111,"Tallinn, Estonia"
+96,"['Henri Aarnio', 'Raul Must [1]']","['[FIN] ', '[EST] ']","['21-18', '21-16']",MS ,20180111,"Tallinn, Estonia"
+97,"['Kristin Kuuba', 'Ksenia Evgenova']","['[EST] ', '[RUS] ']","['21-17', '21-10']",WS ,20180111,"Tallinn, Estonia"
+98,"['Eloi Adam', 'Samy Corvee', 'Mikhail Lavrikov', 'Maxim Romanov']","['[FRA] ', '[FRA] ', '[RUS] ', '[RUS] ']","['21-11', '21-14']",MD ,20180111,"Tallinn, Estonia"
+99,"['Linda Efler', 'Olga Konon', 'Maija Krzywacki', 'Inalotta Suutarinen']","['[GER] ', '[GER] ', '[FIN] ', '[FIN] ']","['21-14', '21-12']",WD ,20180111,"Tallinn, Estonia"
+100,"['Gregory Mairs [2]', 'Jenny Moore', 'Vladimir Nikulov', 'Anastasiia Semenova']","['[ENG] ', '[ENG] ', '[RUS] ', '[RUS] ']","['21-9', '21-15']",XD ,20180111,"Tallinn, Estonia"
+101,"['Julie Macpherson [4]', ""Eleanor O'Donnell"", 'Maryna Ilyinskaya', 'Yelyzaveta Zharka']","['[SCO] ', '[SCO] ', '[UKR] ', '[UKR] ']","['21-17', '21-23', '21-17']",WD ,20180111,"Tallinn, Estonia"
+102,"['Andrey Parakhodin', 'Nikolai Ukk', 'Mathieu Gangloff', 'Tom Rodrigues']","['[RUS] ', '[RUS] ', '[FRA] ', '[FRA] ']","['21-17', '21-10']",MD ,20180111,"Tallinn, Estonia"
+103,"['Qi Xuefei', 'Anastasiia Semenova']","['[CHN] ', '[RUS] ']","['21-14', '21-8']",WS ,20180111,"Tallinn, Estonia"
+104,"['Peter Kaesbauer', 'Johannes Pistorius', 'Gergely Krausz', 'Tovannakasem Samatcha']","['[GER] ', '[GER] ', '[HUN] ', '[THA] ']","['21-12', '21-16']",MD ,20180111,"Tallinn, Estonia"
+105,"['Peter Kaesbauer', 'Olga Konon', 'Gregory Mairs [2]', 'Jenny Moore']","['[GER] ', '[GER] ', '[ENG] ', '[ENG] ']","['21-14', '21-12']",XD ,20180111,"Tallinn, Estonia"
+106,"['Ksenia Polikarpova [1]', 'Michelle Skødstrup']","['[ISR] ', '[DEN] ']","['21-13', '21-17']",WS ,20180111,"Tallinn, Estonia"
+107,"['Lucas Claerbout [4]', 'Jacob Nilsson']","['[FRA] ', '[SWE] ']","['21-16', '21-6']",MS ,20180111,"Tallinn, Estonia"
+108,"['Ekaterina Bolotova [1]', 'Alina Davletova', 'Jessica Hopton', 'Jenny Moore']","['[RUS] ', '[RUS] ', '[ENG] ', '[ENG] ']","['21-10', '21-10']",WD ,20180111,"Tallinn, Estonia"
+109,"['Andrey Parakhodin', 'Nikolai Ukk', 'Peter Kaesbauer', 'Johannes Pistorius']","['[RUS] ', '[RUS] ', '[GER] ', '[GER] ']","['14-21', '21-18', '21-19']",MD ,20180111,"Tallinn, Estonia"

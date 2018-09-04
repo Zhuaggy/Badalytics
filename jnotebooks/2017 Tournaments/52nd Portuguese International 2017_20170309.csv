@@ -1,110 +1,110 @@
-,PLAYERS,COUNTRIES,SCORES,EVENT,match_week
-0,"['Christopher Grimley', 'Ciara Torrance', 'Sturla Flaten Jorgensen', 'Emilie Faarup Storvik']","['[SCO] ', '[SCO] ', '[NOR] ', '[NOR] ']","['21-17', '21-17']",XD - Qualification ,20170309
-1,"['Miha Ivanic [11]', 'Marco Jorge']","['[SLO] ', '[POR] ']","['21-12', '21-10']",MS - Qualification ,20170309
-2,"['Krzysztof Jakowczuk', 'Christopher Grimley']","['[POL] ', '[SCO] ']","['21-19', '19-21', '21-11']",MS - Qualification ,20170309
-3,"['Ross Green', 'Andraz Krapez']","['[ENG] ', '[SLO] ']","['21-18', '21-18']",MS - Qualification ,20170309
-4,"['Daniel Nikolov [9]', 'Miha Ivancic']","['[BUL] ', '[SLO] ']","['18-21', '21-14', '21-16']",MS - Qualification ,20170309
-5,"['Jocelyn Deschamp [13]', 'Luke Pearce']","['[FRA] ', '[ENG] ']","['21-15', '21-12']",MS - Qualification ,20170309
-6,"['Nathan Vervaeke [5]', 'Martin Cerkovnik']","['[BEL] ', '[SLO] ']","['23-21', '21-10']",MS - Qualification ,20170309
-7,"['Sara Penalver Pereira', 'Paige Butler [8]']","['[ESP] ', '[ENG] ']","['21-12', '21-16']",WS - Qualification ,20170309
-8,"['Juliane Piron', 'Line Fleischer']","['[FRA] ', '[DEN] ']","['21-11', '13-21', '21-15']",WS - Qualification ,20170309
-9,"['Claudia Paredes', 'Helena Pestana']","['[DEN] ', '[POR] ']","['17-21', '21-16', '21-9']",WS - Qualification ,20170309
-10,"['Miguel Rocha [3]', 'Carlos André Silva', 'Francisco B. Mendes', 'Pedro Santos']","['[POR] ', '[POR] ', '[POR] ', '[POR] ']","['21-13', '23-21']",MD - Qualification ,20170309
-11,"['Vincent Ponsart', 'Quentin Vincent', 'Joao Alves', 'Joao Marques']","['[FRA] ', '[FRA] ', '[POR] ', '[POR] ']","['14-21', '21-16', '21-18']",MD - Qualification ,20170309
-12,"['Valentin Singer', 'Frederik Aalestrup [12]']","['[FRA] ', '[DEN] ']","['21-11', '21-17']",MS - Qualification ,20170309
-13,"['Leo Rossi [16]', 'Alexander Dunn']","['[FRA] ', '[SCO] ']","['21-11', '20-22', '21-17']",MS - Qualification ,20170309
-14,"['Tovannakasem Samatcha', 'Ryan Jing Quek']","['[THA] ', '[ENG] ']","['21-14', '21-12']",MS - Qualification ,20170309
-15,"['Holly Newall', 'Anastasiya Cherniavskaya [5]']","['[SCO] ', '[BLR] ']","['23-21', '22-20']",WS - Qualification ,20170309
-16,"['Julie Ferrier', 'Julia Bitsoukova']","['[FRA] ', '[BLR] ']","['25-23', '10-21', '22-20']",WS - Qualification ,20170309
-17,"['Mikkel Enghøj [8]', 'Valentin Singer']","['[DEN] ', '[FRA] ']","['21-16', '21-13']",MS - Qualification ,20170309
-18,"['Leo Rossi [16]', 'Tovannakasem Samatcha']","['[FRA] ', '[THA] ']","['21-18', '19-21', '21-15']",MS - Qualification ,20170309
-19,"['Dzmitry Saidakou', 'Alesia Zaitsava', 'Guilherme Ferreira', 'Inês Lorga']","['[BLR] ', '[BLR] ', '[POR] ', '[POR] ']","['21-7', '21-7']",XD - Qualification ,20170309
-20,"['Koji Naito', 'Richard Kuhl']","['[JPN] ', '[SWE] ']","['21-10', '21-12']",MS - Qualification ,20170309
-21,"['Joel Douse', 'Marton Szerecz']","['[ENG] ', '[HUN] ']","['21-14', '21-11']",MS - Qualification ,20170309
-22,"['Alexander Dunn', 'Stijn De Langhe']","['[SCO] ', '[BEL] ']","['21-15', '21-8']",MS - Qualification ,20170309
-23,"['Bruno Carvalho', 'Barbado Miguel']","['[POR] ', '[ESP] ']","['17-21', '21-18', '21-16']",MS - Qualification ,20170309
-24,"['Matthew Grimley', 'Sam Lyle']","['[SCO] ', '[ENG] ']","['21-15', '16-21', '21-12']",MS - Qualification ,20170309
-25,"['Douglas Lidman', 'Marcin Nowak']","['[SWE] ', '[POL] ']","['24-22', '21-9']",MS - Qualification ,20170309
-26,"['Anastasiya Cherniavskaya [5]', 'Janne Kornum Thomassen']","['[BLR] ', '[DEN] ']","['21-16', '21-15']",WS - Qualification ,20170309
-27,"['Kati-Kreet Marran [6]', 'Emily Beach']","['[EST] ', '[ENG] ']","['21-10', '21-6']",WS - Qualification ,20170309
-28,"['Julie Ferrier', 'Tsui-Yee Lau [7]']","['[FRA] ', '[ENG] ']","['20-22', '22-20', '22-20']",WS - Qualification ,20170309
-29,"['Goncalo Almeida', 'Marco Jorge', 'Thibault Celigny', 'Yoann Delalande']","['[POR] ', '[POR] ', '[FRA] ', '[FRA] ']","['21-14', '21-10']",MD - Qualification ,20170309
-30,"['Christopher Grimley', 'Ciara Torrance', 'Ciaran Chambers', 'Sinead Chambers']","['[SCO] ', '[SCO] ', '[IRL] ', '[IRL] ']","['24-22', '21-17']",XD - Qualification ,20170309
-31,"['Koji Naito', 'Miha Ivanic [11]']","['[JPN] ', '[SLO] ']","['21-16', '21-6']",MS - Qualification ,20170309
-32,"['Krzysztof Jakowczuk', 'Joel König [10]']","['[POL] ', '[SUI] ']","['21-14', '21-16']",MS - Qualification ,20170309
-33,"['Matthew Grimley', 'Nathan Vervaeke [5]']","['[SCO] ', '[BEL] ']","['18-21', '21-18', '21-18']",MS - Qualification ,20170309
-34,"['Claudia Paredes', 'Sonja Pekkola [3]']","['[DEN] ', '[FIN] ']","['21-15', '21-15']",WS - Qualification ,20170309
-35,"['Goncalo Almeida', 'Marco Jorge', 'Guilherme Ferreira [4]', 'Ricardo Silva']","['[POR] ', '[POR] ', '[POR] ', '[POR] ']","['21-16', '21-13']",MD - Qualification ,20170309
-36,"['Mads Christophersen [6]', 'Andy Tsai [15]']","['[DEN] ', '[SWE] ']","['21-15', '16-21', '21-13']",MS - Qualification ,20170309
-37,"['Matthew Grimley', 'Jocelyn Deschamp [13]']","['[SCO] ', '[FRA] ']","['21-18', '13-21', '21-16']",MS - Qualification ,20170309
-38,"['Alberto Zapico', 'Lorena Usle', 'Tovannakasem Samatcha', 'Nikoletta Bukoviczki']","['[ESP] ', '[ESP] ', '[THA] ', '[HUN] ']","['21-15', '21-12']",XD ,20170309
-39,"['Alexander Dunn', ""Eleanor O'Donnell"", 'Tobias Suder', 'Line Nørgaard']","['[SCO] ', '[SCO] ', '[DEN] ', '[DEN] ']","['21-12', '21-13']",XD ,20170309
-40,"['Kristin Kuuba', 'Telma Santos']","['[EST] ', '[POR] ']","['21-15', '19-21', '21-15']",WS ,20170309
-41,"['Yaelle Hoyaux', 'Iben Bergstein']","['[FRA] ', '[DEN] ']","['21-17', '18-21', '21-18']",WS ,20170309
-42,"['Agnes Korosi', 'Claudia Paredes']","['[HUN] ', '[DEN] ']","['21-18', '21-23', '21-14']",WS ,20170309
-43,"['Ditlev Jaeger Holm', 'Mikkel Mikkelsen']","['[DEN] ', '[DEN] ']","['21-11', '13-21', '21-18']",MS ,20170309
-44,"['Matthew Carder [7]', 'Anton Kaisti']","['[SCO] ', '[FIN] ']","['21-11', '21-5']",MS ,20170309
-45,"['Luís Enrique Peñalver', 'Mathias Bonny']","['[ESP] ', '[SUI] ']","['21-11', '21-15']",MS ,20170309
-46,"['Sandra-Maria Jensen', 'Line Nørgaard', 'Holly Newall', 'Ciara Torrance']","['[DEN] ', '[DEN] ', '[SCO] ', '[SCO] ']","['27-25', '21-15']",WD ,20170309
-47,"['Kristoffer Knudsen', 'Nicklas Mathiasen', 'Thomas Baures', 'Leo Rossi']","['[DEN] ', '[DEN] ', '[FRA] ', '[FRA] ']","['21-18', '21-17']",MD ,20170309
-48,"['Miha Ivanic', 'Andraz Krapez', 'Bernardo Atilano', 'Angelo Silva']","['[SLO] ', '[SLO] ', '[POR] ', '[POR] ']","['21-16', '13-21', '21-13']",MD ,20170309
-49,"['Anton Kaisti [3]', 'Jenny Nystrom', 'Steve Olesen', 'Sandra-Maria Jensen']","['[FIN] ', '[FIN] ', '[DEN] ', '[DEN] ']","['20-22', '21-15', '21-17']",XD ,20170309
-50,"['Sofie Holmboe Dahl [1]', 'Kristin Kuuba']","['[DEN] ', '[EST] ']","['21-15', '21-16']",WS ,20170309
-51,"['Devi Yunita Indah Sari', 'Clara Azurmendi [8]']","['[INA] ', '[ESP] ']","['21-18', '21-19']",WS ,20170309
-52,"['Lars Schaenzler [6]', 'Ditlev Jaeger Holm']","['[GER] ', '[DEN] ']","['5-21', '21-17', '21-7']",MS ,20170309
-53,"['Gergely Krausz [8]', 'Luís Enrique Peñalver']","['[HUN] ', '[ESP] ']","['21-11', '21-16']",MS ,20170309
-54,"['Julie Macpherson [4]', ""Eleanor O'Donnell"", 'Lise Jaques', 'Flore Vandenhoucke']","['[SCO] ', '[SCO] ', '[BEL] ', '[BEL] ']","['21-15', '21-15']",WD ,20170309
-55,"['Kristoffer Knudsen', 'Nicklas Mathiasen', 'Daniel Nikolov [1]', 'Ivan Rusev']","['[DEN] ', '[DEN] ', '[BUL] ', '[BUL] ']","['21-12', '19-21', '21-18']",MD ,20170309
-56,"['Mathias Moldt Baskjaer', 'Janne Kornum Thomassen', 'Elias Bracke', 'Lise Jaques']","['[DEN] ', '[DEN] ', '[BEL] ', '[BEL] ']","['24-26', '21-15', '21-19']",XD ,20170309
-57,"['Sofie Holmboe Dahl [1]', 'Katia Normand']","['[DEN] ', '[FRA] ']","['21-11', '21-8']",WS ,20170309
-58,"['Georgina Bland', 'Flore Vandenhoucke']","['[ENG] ', '[BEL] ']","['21-14', '21-18']",WS ,20170309
-59,"['Clara Azurmendi [8]', 'Amalie Hertz']","['[ESP] ', '[DEN] ']","['21-17', '21-18']",WS ,20170309
-60,"['Bernardo Atilano', 'Jacob Nilsson']","['[POR] ', '[SWE] ']","['16-21', '22-20', '21-17']",MS ,20170309
-61,"['Victor Svendsen [4]', 'Daniel Ojaaar']","['[DEN] ', '[SWE] ']","['21-16', '21-8']",MS ,20170309
-62,"['Mikael Westerback', 'Pierrick Cajot']","['[SWE] ', '[FRA] ']","['21-14', '20-22', '21-12']",MS ,20170309
-63,"['Emilie Juul Moller', 'Mai Surrow', 'Georgina Bland', 'Meera Sivakumaran']","['[DEN] ', '[DEN] ', '[ENG] ', '[ENG] ']","['21-15', '21-17']",WD ,20170309
-64,"['Line Fleischer', 'Amalie Hertz', 'Ema Cizelj', 'Nastja Stovanje']","['[DEN] ', '[DEN] ', '[SLO] ', '[SLO] ']","['21-18', '21-10']",WD ,20170309
-65,"['Eloi Adam', 'Samy Corvee', 'Pierrick Deschenaux', 'Joel König']","['[FRA] ', '[FRA] ', '[SUI] ', '[SUI] ']","['21-14', '21-12']",MD ,20170309
-66,"['Mathias Moldt Baskjaer', 'Janne Kornum Thomassen', 'Miha Ivancic [4]', 'Petra Polanc']","['[DEN] ', '[DEN] ', '[SLO] ', '[SLO] ']","['21-18', '21-16']",XD ,20170309
-67,"['Yee Yap', 'Yaelle Hoyaux']","['[MAS] ', '[FRA] ']","['21-11', '21-10']",WS ,20170309
-68,"['Irina Amalie Andersen [6]', 'Agnes Korosi']","['[DEN] ', '[HUN] ']","['21-11', '21-14']",WS ,20170309
-69,"['Manuel Vazquez', 'Mikkel Enghøj']","['[ESP] ', '[DEN] ']","['21-12', '18-21', '21-12']",MS ,20170309
-70,"['Indra Bagus Ade Chandra [2]', 'Rasmus Messerschmidt']","['[ITA] ', '[DEN] ']","['30-28', '13-21', '21-13']",MS ,20170309
-71,"['Kristin Kuuba [2]', 'Helina Rüütel', 'Jenny Nystrom', 'Sonja Pekkola']","['[EST] ', '[EST] ', '[FIN] ', '[FIN] ']","['21-18', '21-6']",WD ,20170309
-72,"['Christopher Grimley', 'Matthew Grimley', 'Eloi Adam', 'Samy Corvee']","['[SCO] ', '[SCO] ', '[FRA] ', '[FRA] ']","['21-18', '21-17']",MD ,20170309
-73,"['Frederik Aalestrup [4]', 'Mathias Moldt Baskjaer', 'Filip Michael Duwall Myhren', 'Jacob Nilsson']","['[DEN] ', '[DEN] ', '[SWE] ', '[SWE] ']","['21-16', '21-17']",MD ,20170309
-74,"['Mikkel Mikkelsen [1]', 'Mai Surrow', 'Mikkel Stoffersen', 'Susan Ekelund']","['[DEN] ', '[DEN] ', '[DEN] ', '[DEN] ']","['21-17', '21-13']",XD ,20170309
-75,"['Chisato Hoshi [7]', 'Sofie Holmboe Dahl [1]']","['[JPN] ', '[DEN] ']","['17-21', '21-17', '21-14']",WS ,20170309
-76,"['Pablo Abian [1]', 'Lars Schaenzler [6]']","['[ESP] ', '[GER] ']","['21-16', '21-15']",MS ,20170309
-77,"['Julie Macpherson [4]', ""Eleanor O'Donnell"", 'Line Fleischer', 'Amalie Hertz']","['[SCO] ', '[SCO] ', '[DEN] ', '[DEN] ']","['21-19', '21-19']",WD ,20170309
-78,"['Steve Olesen', 'Mathias Weber Estrup', 'Miha Ivanic', 'Andraz Krapez']","['[DEN] ', '[DEN] ', '[SLO] ', '[SLO] ']","['21-16', '21-14']",MD ,20170309
-79,"['Anton Kaisti [3]', 'Jenny Nystrom', 'Kristoffer Knudsen', 'Isabella Nielsen']","['[FIN] ', '[FIN] ', '[DEN] ', '[DEN] ']","['21-18', '21-19']",XD ,20170309
-80,"['Lianne Tan [3]', 'Devi Yunita Indah Sari']","['[BEL] ', '[INA] ']","['21-11', '21-11']",WS ,20170309
-81,"['Victor Svendsen [4]', 'Koji Naito']","['[DEN] ', '[JPN] ']","['13-21', '22-20', '21-17']",MS ,20170309
-82,"['Emilie Juul Moller', 'Mai Surrow', 'Isabella Nielsen', 'Claudia Paredes']","['[DEN] ', '[DEN] ', '[DEN] ', '[DEN] ']","['26-24', '19-21', '26-24']",WD ,20170309
-83,"['Christopher Grimley', 'Matthew Grimley', 'Kristoffer Knudsen', 'Nicklas Mathiasen']","['[SCO] ', '[SCO] ', '[DEN] ', '[DEN] ']","['21-18', '21-19']",MD ,20170309
-84,"['Anton Kaisti [3]', 'Jenny Nystrom', 'Mikkel Mikkelsen [1]', 'Mai Surrow']","['[FIN] ', '[FIN] ', '[DEN] ', '[DEN] ']","['21-18', '16-21', '27-25']",XD ,20170309
-85,"['Sayaka Takahashi', 'Lianne Tan [3]']","['[JPN] ', '[BEL] ']","['21-4', '21-11']",WS ,20170309
-86,"['Victor Svendsen [4]', 'Pablo Abian [1]']","['[DEN] ', '[ESP] ']","['21-13', '21-17']",MS ,20170309
-87,"['Steve Olesen', 'Mathias Weber Estrup', 'Christopher Grimley', 'Matthew Grimley']","['[DEN] ', '[DEN] ', '[SCO] ', '[SCO] ']","['21-11', '23-21']",MD ,20170309
-88,"['Emilie Juul Moller', 'Mai Surrow', 'Delphine Delrue', 'Vimala Heriau']","['[DEN] ', '[DEN] ', '[FRA] ', '[FRA] ']","['23-21', '12-21', '21-19']",WD ,20170309
-89,"['Thom Gicquel [2]', 'Delphine Delrue', 'Mathias Weber Estrup', 'Line Fleischer']","['[FRA] ', '[FRA] ', '[DEN] ', '[DEN] ']","['17-21', '21-14', '21-12']",XD ,20170309
-90,"['Sayaka Takahashi', 'Irina Amalie Andersen [6]']","['[JPN] ', '[DEN] ']","['21-14', '21-12']",WS ,20170309
-91,"['Gergely Krausz [8]', 'Indra Bagus Ade Chandra [2]']","['[HUN] ', '[ITA] ']","['21-23', '21-10', '21-15']",MS ,20170309
-92,"['Delphine Delrue', 'Vimala Heriau', 'Sandra-Maria Jensen', 'Line Nørgaard']","['[FRA] ', '[FRA] ', '[DEN] ', '[DEN] ']","['14-21', '21-10', '21-15']",WD ,20170309
-93,"['Kosuke Makino', 'Dai Watanabe', 'Frederik Aalestrup [4]', 'Mathias Moldt Baskjaer']","['[JPN] ', '[JPN] ', '[DEN] ', '[DEN] ']","['21-17', '11-21', '26-24']",MD ,20170309
-94,"['Thom Gicquel [2]', 'Delphine Delrue', 'Alberto Zapico', 'Lorena Usle']","['[FRA] ', '[FRA] ', '[ESP] ', '[ESP] ']","['21-13', '21-17']",XD ,20170309
-95,"['Chisato Hoshi [7]', 'Yee Yap']","['[JPN] ', '[MAS] ']","['21-13', '21-17']",WS ,20170309
-96,"['Subhankar Dey [5]', 'Gergely Krausz [8]']","['[IND] ', '[HUN] ']","['19-21', '21-16', '21-18']",MS ,20170309
-97,"['Kazuaki Oshima', 'Yuta Yamasaki', 'Kosuke Makino', 'Dai Watanabe']","['[JPN] ', '[JPN] ', '[JPN] ', '[JPN] ']","['21-14', '20-22', '21-18']",MD ,20170309
-98,"['Chisato Hoshi', 'Naru Shinoya', 'Julie Macpherson [4]', ""Eleanor O'Donnell""]","['[JPN] ', '[JPN] ', '[SCO] ', '[SCO] ']","['21-6', '21-13']",WD ,20170309
-99,"['Alberto Zapico', 'Lorena Usle', 'Mathias Moldt Baskjaer', 'Janne Kornum Thomassen']","['[ESP] ', '[ESP] ', '[DEN] ', '[DEN] ']","['22-20', '21-12']",XD ,20170309
-100,"['Yee Yap', 'Saili Rane [4]']","['[MAS] ', '[IND] ']","['21-16', '19-21', '21-17']",WS ,20170309
-101,"['Subhankar Dey [5]', 'Manuel Vazquez']","['[IND] ', '[ESP] ']","['21-15', '21-15']",MS ,20170309
-102,"['Chisato Hoshi', 'Naru Shinoya', 'Kristin Kuuba [2]', 'Helina Rüütel']","['[JPN] ', '[JPN] ', '[EST] ', '[EST] ']","['21-6', '21-14']",WD ,20170309
-103,"['Kazuaki Oshima', 'Yuta Yamasaki', 'Mikkel Stoffersen', 'Tobias Suder']","['[JPN] ', '[JPN] ', '[DEN] ', '[DEN] ']","['23-21', '21-10']",MD ,20170309
-104,"['Chisato Hoshi', 'Naru Shinoya', 'Emilie Juul Moller', 'Mai Surrow']","['[JPN] ', '[JPN] ', '[DEN] ', '[DEN] ']","['21-13', '21-6']",WD ,20170309
-105,"['Anton Kaisti [3]', 'Jenny Nystrom', 'Thom Gicquel [2]', 'Delphine Delrue']","['[FIN] ', '[FIN] ', '[FRA] ', '[FRA] ']","['19-21', '21-19', '21-12']",XD ,20170309
-106,"['Kazuaki Oshima', 'Yuta Yamasaki', 'Steve Olesen', 'Mathias Weber Estrup']","['[JPN] ', '[JPN] ', '[DEN] ', '[DEN] ']","['21-16', '21-8']",MD ,20170309
-107,"['Subhankar Dey [5]', 'Victor Svendsen [4]']","['[IND] ', '[DEN] ']","['21-19', '21-19']",MS ,20170309
-108,"['Sayaka Takahashi', 'Chisato Hoshi [7]']","['[JPN] ', '[JPN] ']","['21-10', '21-15']",WS ,20170309
+,PLAYERS,COUNTRIES,SCORES,EVENT,match_week,match_location
+0,"['Christopher Grimley', 'Ciara Torrance', 'Sturla Flaten Jorgensen', 'Emilie Faarup Storvik']","['[SCO] ', '[SCO] ', '[NOR] ', '[NOR] ']","['21-17', '21-17']",XD - Qualification ,20170309,"Caldas da Rainha, Portugal"
+1,"['Miha Ivanic [11]', 'Marco Jorge']","['[SLO] ', '[POR] ']","['21-12', '21-10']",MS - Qualification ,20170309,"Caldas da Rainha, Portugal"
+2,"['Krzysztof Jakowczuk', 'Christopher Grimley']","['[POL] ', '[SCO] ']","['21-19', '19-21', '21-11']",MS - Qualification ,20170309,"Caldas da Rainha, Portugal"
+3,"['Ross Green', 'Andraz Krapez']","['[ENG] ', '[SLO] ']","['21-18', '21-18']",MS - Qualification ,20170309,"Caldas da Rainha, Portugal"
+4,"['Daniel Nikolov [9]', 'Miha Ivancic']","['[BUL] ', '[SLO] ']","['18-21', '21-14', '21-16']",MS - Qualification ,20170309,"Caldas da Rainha, Portugal"
+5,"['Jocelyn Deschamp [13]', 'Luke Pearce']","['[FRA] ', '[ENG] ']","['21-15', '21-12']",MS - Qualification ,20170309,"Caldas da Rainha, Portugal"
+6,"['Nathan Vervaeke [5]', 'Martin Cerkovnik']","['[BEL] ', '[SLO] ']","['23-21', '21-10']",MS - Qualification ,20170309,"Caldas da Rainha, Portugal"
+7,"['Sara Penalver Pereira', 'Paige Butler [8]']","['[ESP] ', '[ENG] ']","['21-12', '21-16']",WS - Qualification ,20170309,"Caldas da Rainha, Portugal"
+8,"['Juliane Piron', 'Line Fleischer']","['[FRA] ', '[DEN] ']","['21-11', '13-21', '21-15']",WS - Qualification ,20170309,"Caldas da Rainha, Portugal"
+9,"['Claudia Paredes', 'Helena Pestana']","['[DEN] ', '[POR] ']","['17-21', '21-16', '21-9']",WS - Qualification ,20170309,"Caldas da Rainha, Portugal"
+10,"['Miguel Rocha [3]', 'Carlos André Silva', 'Francisco B. Mendes', 'Pedro Santos']","['[POR] ', '[POR] ', '[POR] ', '[POR] ']","['21-13', '23-21']",MD - Qualification ,20170309,"Caldas da Rainha, Portugal"
+11,"['Vincent Ponsart', 'Quentin Vincent', 'Joao Alves', 'Joao Marques']","['[FRA] ', '[FRA] ', '[POR] ', '[POR] ']","['14-21', '21-16', '21-18']",MD - Qualification ,20170309,"Caldas da Rainha, Portugal"
+12,"['Valentin Singer', 'Frederik Aalestrup [12]']","['[FRA] ', '[DEN] ']","['21-11', '21-17']",MS - Qualification ,20170309,"Caldas da Rainha, Portugal"
+13,"['Leo Rossi [16]', 'Alexander Dunn']","['[FRA] ', '[SCO] ']","['21-11', '20-22', '21-17']",MS - Qualification ,20170309,"Caldas da Rainha, Portugal"
+14,"['Tovannakasem Samatcha', 'Ryan Jing Quek']","['[THA] ', '[ENG] ']","['21-14', '21-12']",MS - Qualification ,20170309,"Caldas da Rainha, Portugal"
+15,"['Holly Newall', 'Anastasiya Cherniavskaya [5]']","['[SCO] ', '[BLR] ']","['23-21', '22-20']",WS - Qualification ,20170309,"Caldas da Rainha, Portugal"
+16,"['Julie Ferrier', 'Julia Bitsoukova']","['[FRA] ', '[BLR] ']","['25-23', '10-21', '22-20']",WS - Qualification ,20170309,"Caldas da Rainha, Portugal"
+17,"['Mikkel Enghøj [8]', 'Valentin Singer']","['[DEN] ', '[FRA] ']","['21-16', '21-13']",MS - Qualification ,20170309,"Caldas da Rainha, Portugal"
+18,"['Leo Rossi [16]', 'Tovannakasem Samatcha']","['[FRA] ', '[THA] ']","['21-18', '19-21', '21-15']",MS - Qualification ,20170309,"Caldas da Rainha, Portugal"
+19,"['Dzmitry Saidakou', 'Alesia Zaitsava', 'Guilherme Ferreira', 'Inês Lorga']","['[BLR] ', '[BLR] ', '[POR] ', '[POR] ']","['21-7', '21-7']",XD - Qualification ,20170309,"Caldas da Rainha, Portugal"
+20,"['Koji Naito', 'Richard Kuhl']","['[JPN] ', '[SWE] ']","['21-10', '21-12']",MS - Qualification ,20170309,"Caldas da Rainha, Portugal"
+21,"['Joel Douse', 'Marton Szerecz']","['[ENG] ', '[HUN] ']","['21-14', '21-11']",MS - Qualification ,20170309,"Caldas da Rainha, Portugal"
+22,"['Alexander Dunn', 'Stijn De Langhe']","['[SCO] ', '[BEL] ']","['21-15', '21-8']",MS - Qualification ,20170309,"Caldas da Rainha, Portugal"
+23,"['Bruno Carvalho', 'Barbado Miguel']","['[POR] ', '[ESP] ']","['17-21', '21-18', '21-16']",MS - Qualification ,20170309,"Caldas da Rainha, Portugal"
+24,"['Matthew Grimley', 'Sam Lyle']","['[SCO] ', '[ENG] ']","['21-15', '16-21', '21-12']",MS - Qualification ,20170309,"Caldas da Rainha, Portugal"
+25,"['Douglas Lidman', 'Marcin Nowak']","['[SWE] ', '[POL] ']","['24-22', '21-9']",MS - Qualification ,20170309,"Caldas da Rainha, Portugal"
+26,"['Anastasiya Cherniavskaya [5]', 'Janne Kornum Thomassen']","['[BLR] ', '[DEN] ']","['21-16', '21-15']",WS - Qualification ,20170309,"Caldas da Rainha, Portugal"
+27,"['Kati-Kreet Marran [6]', 'Emily Beach']","['[EST] ', '[ENG] ']","['21-10', '21-6']",WS - Qualification ,20170309,"Caldas da Rainha, Portugal"
+28,"['Julie Ferrier', 'Tsui-Yee Lau [7]']","['[FRA] ', '[ENG] ']","['20-22', '22-20', '22-20']",WS - Qualification ,20170309,"Caldas da Rainha, Portugal"
+29,"['Goncalo Almeida', 'Marco Jorge', 'Thibault Celigny', 'Yoann Delalande']","['[POR] ', '[POR] ', '[FRA] ', '[FRA] ']","['21-14', '21-10']",MD - Qualification ,20170309,"Caldas da Rainha, Portugal"
+30,"['Christopher Grimley', 'Ciara Torrance', 'Ciaran Chambers', 'Sinead Chambers']","['[SCO] ', '[SCO] ', '[IRL] ', '[IRL] ']","['24-22', '21-17']",XD - Qualification ,20170309,"Caldas da Rainha, Portugal"
+31,"['Koji Naito', 'Miha Ivanic [11]']","['[JPN] ', '[SLO] ']","['21-16', '21-6']",MS - Qualification ,20170309,"Caldas da Rainha, Portugal"
+32,"['Krzysztof Jakowczuk', 'Joel König [10]']","['[POL] ', '[SUI] ']","['21-14', '21-16']",MS - Qualification ,20170309,"Caldas da Rainha, Portugal"
+33,"['Matthew Grimley', 'Nathan Vervaeke [5]']","['[SCO] ', '[BEL] ']","['18-21', '21-18', '21-18']",MS - Qualification ,20170309,"Caldas da Rainha, Portugal"
+34,"['Claudia Paredes', 'Sonja Pekkola [3]']","['[DEN] ', '[FIN] ']","['21-15', '21-15']",WS - Qualification ,20170309,"Caldas da Rainha, Portugal"
+35,"['Goncalo Almeida', 'Marco Jorge', 'Guilherme Ferreira [4]', 'Ricardo Silva']","['[POR] ', '[POR] ', '[POR] ', '[POR] ']","['21-16', '21-13']",MD - Qualification ,20170309,"Caldas da Rainha, Portugal"
+36,"['Mads Christophersen [6]', 'Andy Tsai [15]']","['[DEN] ', '[SWE] ']","['21-15', '16-21', '21-13']",MS - Qualification ,20170309,"Caldas da Rainha, Portugal"
+37,"['Matthew Grimley', 'Jocelyn Deschamp [13]']","['[SCO] ', '[FRA] ']","['21-18', '13-21', '21-16']",MS - Qualification ,20170309,"Caldas da Rainha, Portugal"
+38,"['Alberto Zapico', 'Lorena Usle', 'Tovannakasem Samatcha', 'Nikoletta Bukoviczki']","['[ESP] ', '[ESP] ', '[THA] ', '[HUN] ']","['21-15', '21-12']",XD ,20170309,"Caldas da Rainha, Portugal"
+39,"['Alexander Dunn', ""Eleanor O'Donnell"", 'Tobias Suder', 'Line Nørgaard']","['[SCO] ', '[SCO] ', '[DEN] ', '[DEN] ']","['21-12', '21-13']",XD ,20170309,"Caldas da Rainha, Portugal"
+40,"['Kristin Kuuba', 'Telma Santos']","['[EST] ', '[POR] ']","['21-15', '19-21', '21-15']",WS ,20170309,"Caldas da Rainha, Portugal"
+41,"['Yaelle Hoyaux', 'Iben Bergstein']","['[FRA] ', '[DEN] ']","['21-17', '18-21', '21-18']",WS ,20170309,"Caldas da Rainha, Portugal"
+42,"['Agnes Korosi', 'Claudia Paredes']","['[HUN] ', '[DEN] ']","['21-18', '21-23', '21-14']",WS ,20170309,"Caldas da Rainha, Portugal"
+43,"['Ditlev Jaeger Holm', 'Mikkel Mikkelsen']","['[DEN] ', '[DEN] ']","['21-11', '13-21', '21-18']",MS ,20170309,"Caldas da Rainha, Portugal"
+44,"['Matthew Carder [7]', 'Anton Kaisti']","['[SCO] ', '[FIN] ']","['21-11', '21-5']",MS ,20170309,"Caldas da Rainha, Portugal"
+45,"['Luís Enrique Peñalver', 'Mathias Bonny']","['[ESP] ', '[SUI] ']","['21-11', '21-15']",MS ,20170309,"Caldas da Rainha, Portugal"
+46,"['Sandra-Maria Jensen', 'Line Nørgaard', 'Holly Newall', 'Ciara Torrance']","['[DEN] ', '[DEN] ', '[SCO] ', '[SCO] ']","['27-25', '21-15']",WD ,20170309,"Caldas da Rainha, Portugal"
+47,"['Kristoffer Knudsen', 'Nicklas Mathiasen', 'Thomas Baures', 'Leo Rossi']","['[DEN] ', '[DEN] ', '[FRA] ', '[FRA] ']","['21-18', '21-17']",MD ,20170309,"Caldas da Rainha, Portugal"
+48,"['Miha Ivanic', 'Andraz Krapez', 'Bernardo Atilano', 'Angelo Silva']","['[SLO] ', '[SLO] ', '[POR] ', '[POR] ']","['21-16', '13-21', '21-13']",MD ,20170309,"Caldas da Rainha, Portugal"
+49,"['Anton Kaisti [3]', 'Jenny Nystrom', 'Steve Olesen', 'Sandra-Maria Jensen']","['[FIN] ', '[FIN] ', '[DEN] ', '[DEN] ']","['20-22', '21-15', '21-17']",XD ,20170309,"Caldas da Rainha, Portugal"
+50,"['Sofie Holmboe Dahl [1]', 'Kristin Kuuba']","['[DEN] ', '[EST] ']","['21-15', '21-16']",WS ,20170309,"Caldas da Rainha, Portugal"
+51,"['Devi Yunita Indah Sari', 'Clara Azurmendi [8]']","['[INA] ', '[ESP] ']","['21-18', '21-19']",WS ,20170309,"Caldas da Rainha, Portugal"
+52,"['Lars Schaenzler [6]', 'Ditlev Jaeger Holm']","['[GER] ', '[DEN] ']","['5-21', '21-17', '21-7']",MS ,20170309,"Caldas da Rainha, Portugal"
+53,"['Gergely Krausz [8]', 'Luís Enrique Peñalver']","['[HUN] ', '[ESP] ']","['21-11', '21-16']",MS ,20170309,"Caldas da Rainha, Portugal"
+54,"['Julie Macpherson [4]', ""Eleanor O'Donnell"", 'Lise Jaques', 'Flore Vandenhoucke']","['[SCO] ', '[SCO] ', '[BEL] ', '[BEL] ']","['21-15', '21-15']",WD ,20170309,"Caldas da Rainha, Portugal"
+55,"['Kristoffer Knudsen', 'Nicklas Mathiasen', 'Daniel Nikolov [1]', 'Ivan Rusev']","['[DEN] ', '[DEN] ', '[BUL] ', '[BUL] ']","['21-12', '19-21', '21-18']",MD ,20170309,"Caldas da Rainha, Portugal"
+56,"['Mathias Moldt Baskjaer', 'Janne Kornum Thomassen', 'Elias Bracke', 'Lise Jaques']","['[DEN] ', '[DEN] ', '[BEL] ', '[BEL] ']","['24-26', '21-15', '21-19']",XD ,20170309,"Caldas da Rainha, Portugal"
+57,"['Sofie Holmboe Dahl [1]', 'Katia Normand']","['[DEN] ', '[FRA] ']","['21-11', '21-8']",WS ,20170309,"Caldas da Rainha, Portugal"
+58,"['Georgina Bland', 'Flore Vandenhoucke']","['[ENG] ', '[BEL] ']","['21-14', '21-18']",WS ,20170309,"Caldas da Rainha, Portugal"
+59,"['Clara Azurmendi [8]', 'Amalie Hertz']","['[ESP] ', '[DEN] ']","['21-17', '21-18']",WS ,20170309,"Caldas da Rainha, Portugal"
+60,"['Bernardo Atilano', 'Jacob Nilsson']","['[POR] ', '[SWE] ']","['16-21', '22-20', '21-17']",MS ,20170309,"Caldas da Rainha, Portugal"
+61,"['Victor Svendsen [4]', 'Daniel Ojaaar']","['[DEN] ', '[SWE] ']","['21-16', '21-8']",MS ,20170309,"Caldas da Rainha, Portugal"
+62,"['Mikael Westerback', 'Pierrick Cajot']","['[SWE] ', '[FRA] ']","['21-14', '20-22', '21-12']",MS ,20170309,"Caldas da Rainha, Portugal"
+63,"['Emilie Juul Moller', 'Mai Surrow', 'Georgina Bland', 'Meera Sivakumaran']","['[DEN] ', '[DEN] ', '[ENG] ', '[ENG] ']","['21-15', '21-17']",WD ,20170309,"Caldas da Rainha, Portugal"
+64,"['Line Fleischer', 'Amalie Hertz', 'Ema Cizelj', 'Nastja Stovanje']","['[DEN] ', '[DEN] ', '[SLO] ', '[SLO] ']","['21-18', '21-10']",WD ,20170309,"Caldas da Rainha, Portugal"
+65,"['Eloi Adam', 'Samy Corvee', 'Pierrick Deschenaux', 'Joel König']","['[FRA] ', '[FRA] ', '[SUI] ', '[SUI] ']","['21-14', '21-12']",MD ,20170309,"Caldas da Rainha, Portugal"
+66,"['Mathias Moldt Baskjaer', 'Janne Kornum Thomassen', 'Miha Ivancic [4]', 'Petra Polanc']","['[DEN] ', '[DEN] ', '[SLO] ', '[SLO] ']","['21-18', '21-16']",XD ,20170309,"Caldas da Rainha, Portugal"
+67,"['Yee Yap', 'Yaelle Hoyaux']","['[MAS] ', '[FRA] ']","['21-11', '21-10']",WS ,20170309,"Caldas da Rainha, Portugal"
+68,"['Irina Amalie Andersen [6]', 'Agnes Korosi']","['[DEN] ', '[HUN] ']","['21-11', '21-14']",WS ,20170309,"Caldas da Rainha, Portugal"
+69,"['Manuel Vazquez', 'Mikkel Enghøj']","['[ESP] ', '[DEN] ']","['21-12', '18-21', '21-12']",MS ,20170309,"Caldas da Rainha, Portugal"
+70,"['Indra Bagus Ade Chandra [2]', 'Rasmus Messerschmidt']","['[ITA] ', '[DEN] ']","['30-28', '13-21', '21-13']",MS ,20170309,"Caldas da Rainha, Portugal"
+71,"['Kristin Kuuba [2]', 'Helina Rüütel', 'Jenny Nystrom', 'Sonja Pekkola']","['[EST] ', '[EST] ', '[FIN] ', '[FIN] ']","['21-18', '21-6']",WD ,20170309,"Caldas da Rainha, Portugal"
+72,"['Christopher Grimley', 'Matthew Grimley', 'Eloi Adam', 'Samy Corvee']","['[SCO] ', '[SCO] ', '[FRA] ', '[FRA] ']","['21-18', '21-17']",MD ,20170309,"Caldas da Rainha, Portugal"
+73,"['Frederik Aalestrup [4]', 'Mathias Moldt Baskjaer', 'Filip Michael Duwall Myhren', 'Jacob Nilsson']","['[DEN] ', '[DEN] ', '[SWE] ', '[SWE] ']","['21-16', '21-17']",MD ,20170309,"Caldas da Rainha, Portugal"
+74,"['Mikkel Mikkelsen [1]', 'Mai Surrow', 'Mikkel Stoffersen', 'Susan Ekelund']","['[DEN] ', '[DEN] ', '[DEN] ', '[DEN] ']","['21-17', '21-13']",XD ,20170309,"Caldas da Rainha, Portugal"
+75,"['Chisato Hoshi [7]', 'Sofie Holmboe Dahl [1]']","['[JPN] ', '[DEN] ']","['17-21', '21-17', '21-14']",WS ,20170309,"Caldas da Rainha, Portugal"
+76,"['Pablo Abian [1]', 'Lars Schaenzler [6]']","['[ESP] ', '[GER] ']","['21-16', '21-15']",MS ,20170309,"Caldas da Rainha, Portugal"
+77,"['Julie Macpherson [4]', ""Eleanor O'Donnell"", 'Line Fleischer', 'Amalie Hertz']","['[SCO] ', '[SCO] ', '[DEN] ', '[DEN] ']","['21-19', '21-19']",WD ,20170309,"Caldas da Rainha, Portugal"
+78,"['Steve Olesen', 'Mathias Weber Estrup', 'Miha Ivanic', 'Andraz Krapez']","['[DEN] ', '[DEN] ', '[SLO] ', '[SLO] ']","['21-16', '21-14']",MD ,20170309,"Caldas da Rainha, Portugal"
+79,"['Anton Kaisti [3]', 'Jenny Nystrom', 'Kristoffer Knudsen', 'Isabella Nielsen']","['[FIN] ', '[FIN] ', '[DEN] ', '[DEN] ']","['21-18', '21-19']",XD ,20170309,"Caldas da Rainha, Portugal"
+80,"['Lianne Tan [3]', 'Devi Yunita Indah Sari']","['[BEL] ', '[INA] ']","['21-11', '21-11']",WS ,20170309,"Caldas da Rainha, Portugal"
+81,"['Victor Svendsen [4]', 'Koji Naito']","['[DEN] ', '[JPN] ']","['13-21', '22-20', '21-17']",MS ,20170309,"Caldas da Rainha, Portugal"
+82,"['Emilie Juul Moller', 'Mai Surrow', 'Isabella Nielsen', 'Claudia Paredes']","['[DEN] ', '[DEN] ', '[DEN] ', '[DEN] ']","['26-24', '19-21', '26-24']",WD ,20170309,"Caldas da Rainha, Portugal"
+83,"['Christopher Grimley', 'Matthew Grimley', 'Kristoffer Knudsen', 'Nicklas Mathiasen']","['[SCO] ', '[SCO] ', '[DEN] ', '[DEN] ']","['21-18', '21-19']",MD ,20170309,"Caldas da Rainha, Portugal"
+84,"['Anton Kaisti [3]', 'Jenny Nystrom', 'Mikkel Mikkelsen [1]', 'Mai Surrow']","['[FIN] ', '[FIN] ', '[DEN] ', '[DEN] ']","['21-18', '16-21', '27-25']",XD ,20170309,"Caldas da Rainha, Portugal"
+85,"['Sayaka Takahashi', 'Lianne Tan [3]']","['[JPN] ', '[BEL] ']","['21-4', '21-11']",WS ,20170309,"Caldas da Rainha, Portugal"
+86,"['Victor Svendsen [4]', 'Pablo Abian [1]']","['[DEN] ', '[ESP] ']","['21-13', '21-17']",MS ,20170309,"Caldas da Rainha, Portugal"
+87,"['Steve Olesen', 'Mathias Weber Estrup', 'Christopher Grimley', 'Matthew Grimley']","['[DEN] ', '[DEN] ', '[SCO] ', '[SCO] ']","['21-11', '23-21']",MD ,20170309,"Caldas da Rainha, Portugal"
+88,"['Emilie Juul Moller', 'Mai Surrow', 'Delphine Delrue', 'Vimala Heriau']","['[DEN] ', '[DEN] ', '[FRA] ', '[FRA] ']","['23-21', '12-21', '21-19']",WD ,20170309,"Caldas da Rainha, Portugal"
+89,"['Thom Gicquel [2]', 'Delphine Delrue', 'Mathias Weber Estrup', 'Line Fleischer']","['[FRA] ', '[FRA] ', '[DEN] ', '[DEN] ']","['17-21', '21-14', '21-12']",XD ,20170309,"Caldas da Rainha, Portugal"
+90,"['Sayaka Takahashi', 'Irina Amalie Andersen [6]']","['[JPN] ', '[DEN] ']","['21-14', '21-12']",WS ,20170309,"Caldas da Rainha, Portugal"
+91,"['Gergely Krausz [8]', 'Indra Bagus Ade Chandra [2]']","['[HUN] ', '[ITA] ']","['21-23', '21-10', '21-15']",MS ,20170309,"Caldas da Rainha, Portugal"
+92,"['Delphine Delrue', 'Vimala Heriau', 'Sandra-Maria Jensen', 'Line Nørgaard']","['[FRA] ', '[FRA] ', '[DEN] ', '[DEN] ']","['14-21', '21-10', '21-15']",WD ,20170309,"Caldas da Rainha, Portugal"
+93,"['Kosuke Makino', 'Dai Watanabe', 'Frederik Aalestrup [4]', 'Mathias Moldt Baskjaer']","['[JPN] ', '[JPN] ', '[DEN] ', '[DEN] ']","['21-17', '11-21', '26-24']",MD ,20170309,"Caldas da Rainha, Portugal"
+94,"['Thom Gicquel [2]', 'Delphine Delrue', 'Alberto Zapico', 'Lorena Usle']","['[FRA] ', '[FRA] ', '[ESP] ', '[ESP] ']","['21-13', '21-17']",XD ,20170309,"Caldas da Rainha, Portugal"
+95,"['Chisato Hoshi [7]', 'Yee Yap']","['[JPN] ', '[MAS] ']","['21-13', '21-17']",WS ,20170309,"Caldas da Rainha, Portugal"
+96,"['Subhankar Dey [5]', 'Gergely Krausz [8]']","['[IND] ', '[HUN] ']","['19-21', '21-16', '21-18']",MS ,20170309,"Caldas da Rainha, Portugal"
+97,"['Kazuaki Oshima', 'Yuta Yamasaki', 'Kosuke Makino', 'Dai Watanabe']","['[JPN] ', '[JPN] ', '[JPN] ', '[JPN] ']","['21-14', '20-22', '21-18']",MD ,20170309,"Caldas da Rainha, Portugal"
+98,"['Chisato Hoshi', 'Naru Shinoya', 'Julie Macpherson [4]', ""Eleanor O'Donnell""]","['[JPN] ', '[JPN] ', '[SCO] ', '[SCO] ']","['21-6', '21-13']",WD ,20170309,"Caldas da Rainha, Portugal"
+99,"['Alberto Zapico', 'Lorena Usle', 'Mathias Moldt Baskjaer', 'Janne Kornum Thomassen']","['[ESP] ', '[ESP] ', '[DEN] ', '[DEN] ']","['22-20', '21-12']",XD ,20170309,"Caldas da Rainha, Portugal"
+100,"['Yee Yap', 'Saili Rane [4]']","['[MAS] ', '[IND] ']","['21-16', '19-21', '21-17']",WS ,20170309,"Caldas da Rainha, Portugal"
+101,"['Subhankar Dey [5]', 'Manuel Vazquez']","['[IND] ', '[ESP] ']","['21-15', '21-15']",MS ,20170309,"Caldas da Rainha, Portugal"
+102,"['Chisato Hoshi', 'Naru Shinoya', 'Kristin Kuuba [2]', 'Helina Rüütel']","['[JPN] ', '[JPN] ', '[EST] ', '[EST] ']","['21-6', '21-14']",WD ,20170309,"Caldas da Rainha, Portugal"
+103,"['Kazuaki Oshima', 'Yuta Yamasaki', 'Mikkel Stoffersen', 'Tobias Suder']","['[JPN] ', '[JPN] ', '[DEN] ', '[DEN] ']","['23-21', '21-10']",MD ,20170309,"Caldas da Rainha, Portugal"
+104,"['Chisato Hoshi', 'Naru Shinoya', 'Emilie Juul Moller', 'Mai Surrow']","['[JPN] ', '[JPN] ', '[DEN] ', '[DEN] ']","['21-13', '21-6']",WD ,20170309,"Caldas da Rainha, Portugal"
+105,"['Anton Kaisti [3]', 'Jenny Nystrom', 'Thom Gicquel [2]', 'Delphine Delrue']","['[FIN] ', '[FIN] ', '[FRA] ', '[FRA] ']","['19-21', '21-19', '21-12']",XD ,20170309,"Caldas da Rainha, Portugal"
+106,"['Kazuaki Oshima', 'Yuta Yamasaki', 'Steve Olesen', 'Mathias Weber Estrup']","['[JPN] ', '[JPN] ', '[DEN] ', '[DEN] ']","['21-16', '21-8']",MD ,20170309,"Caldas da Rainha, Portugal"
+107,"['Subhankar Dey [5]', 'Victor Svendsen [4]']","['[IND] ', '[DEN] ']","['21-19', '21-19']",MS ,20170309,"Caldas da Rainha, Portugal"
+108,"['Sayaka Takahashi', 'Chisato Hoshi [7]']","['[JPN] ', '[JPN] ']","['21-10', '21-15']",WS ,20170309,"Caldas da Rainha, Portugal"

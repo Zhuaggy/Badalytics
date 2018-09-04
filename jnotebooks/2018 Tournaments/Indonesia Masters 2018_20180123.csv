@@ -1,184 +1,184 @@
-,PLAYERS,COUNTRIES,SCORES,EVENT,match_week
-0,"['Kantaphon Wangcharoen', 'Firman Abdul Kholik']","['[THA] ', '[INA] ']","['21-16', '8-21', '21-14']",MS - Qualification,20180123
-1,"['Saputra Vicky Angga', 'Krishna Adi Nugraha']","['[INA] ', '[INA] ']","['21-14', '16-21', '21-14']",MS - Qualification,20180123
-2,"['Shesar Hiren Rhustavito', 'Enzi Shafira']","['[INA] ', '[INA] ']","['21-15', '18-21', '21-19']",MS - Qualification,20180123
-3,"['Panji Ahmad Maulana', 'Subhankar Dey']","['[INA] ', '[IND] ']","['21-9', '23-21']",MS - Qualification,20180123
-4,"['Vega Vio Nirwanda', 'Abhishek Yelegar']","['[INA] ', '[IND] ']","['22-20', '21-14']",MS - Qualification,20180123
-5,"['Sony Dwi Kuncoro', 'Chico Aura Dwi Wardoyo']","['[INA] ', '[INA] ']","['21-11', '17-21', '21-18']",MS - Qualification,20180123
-6,"['Lucas Corvee', 'Kan Chao Yu']","['[FRA] ', '[TPE] ']","['17-21', '21-10', '21-16']",MS - Qualification,20180123
-7,"['Kim Bruun', 'Fikri Ihsandi Hadmadi']","['[DEN] ', '[INA] ']","['21-15', '2-0']",MS - Qualification,20180123
-8,"['Rinov Rivaldy', 'Angelica Wiratama', 'Law Cheuk Him', 'Ng Tsz Yau']","['[INA] ', '[INA] ', '[HKG] ', '[HKG] ']","['21-13', '21-18']",XD - Qualification,20180123
-9,"['Andika Ramadiansyah', 'Mychelle Crhystine Bandaso', 'Danny Bawa Chrisnanta', 'Wong Jia Ying Crystal']","['[INA] ', '[INA] ', '[SGP] ', '[SGP] ']","['21-18', '21-12']",XD - Qualification,20180123
-10,"['Ronald Ronald', 'Winny Oktavina Kandow', 'Fachryza Abimanyu', 'Bunga Fitriani Romadhini']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-16', '16-21', '21-12']",XD - Qualification,20180123
-11,"['Tang Jie Chen', 'Yen Wei Peck', 'Yehezkiel Fritz Mainaky', 'Lyanny Alessandra Mainaky']","['[MAS] ', '[MAS] ', '[INA] ', '[INA] ']","['21-15', '21-19']",XD - Qualification,20180123
-12,"['Metya Inayah Cindiani', 'Indah Cahya Sari Jamil', 'Dhea Bunga Anjani', 'Dinda Dwi Cahyaning']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-15', '21-11']",WD - Qualification,20180123
-13,"['Febriana Dwipuji Kusuma', 'Ribka Sugiarto', 'Rayhan Vania Salsabila', 'Putri Andini Wahyuningrum']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-12', '21-7']",WD - Qualification,20180123
-14,"['Lin Ying Chun', 'Pai Yu Po', 'Denisa Dwisyawaliah Budiani', 'Nakhla Aufa Dhiya Ulhaq']","['[TPE] ', '[TPE] ', '[INA] ', '[INA] ']","['21-10', '21-12']",WD - Qualification,20180123
-15,"['Nisak Puji Lestari', 'Tiara Rosalia Nuraidah', 'Fauzia Kartikasari', 'Mia Dian Nurlia']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-16', '21-16']",WD - Qualification,20180123
-16,"['Sabar Karyaman Gutama', 'Frengky Wijaya Putra', 'Kapil Chaudhary', 'Brijesh Yadav']","['[INA] ', '[INA] ', '[IND] ', '[IND] ']","['21-12', '21-8']",MD - Qualification,20180123
-17,"['Lu Kai', 'Zheng Siwei', 'Muhammad Fachrikar Adma Parlindungan Man', 'Reza Dwicahya Purnama']","['[CHN] ', '[CHN] ', '[INA] ', '[INA] ']","['21-13', '21-9']",MD - Qualification,20180123
-18,"['Akbar Bintang Cahyono', 'Moh Reza Pahlevi Isfahani', 'Lee Sheng Mu', 'Yang Po-Hsuan']","['[INA] ', '[INA] ', '[TPE] ', '[TPE] ']","['21-18', '21-12']",MD - Qualification,20180123
-19,"['Hendra Aprida Gunawan [2]', 'Markis Kido', 'Lukhi Apri Nugroho', 'Tedi Supriadi']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-15', '18-21', '21-14']",MD - Qualification,20180123
-20,"['Goh Jin Wei', 'Sri Krishna Priya Kudaravalli']","['[MAS] ', '[IND] ']","['21-7', '21-9']",WS - Qualification,20180123
-21,"['Chen Su Yu', 'Mette Poulsen']","['[TPE] ', '[DEN] ']","['21-10', '15-21', '21-15']",WS - Qualification,20180123
-22,"['Gregoria Mariska Tunjung', 'Sofie Holmboe Dahl']","['[INA] ', '[DEN] ']","['21-12', '21-13']",WS - Qualification,20180123
-23,"['Line Højmark Kjaersfeldt [2]', 'Delphine Lansac']","['[DEN] ', '[FRA] ']",['2-0'],WS - Qualification,20180123
-24,"['Sony Dwi Kuncoro', 'Vega Vio Nirwanda']","['[INA] ', '[INA] ']","['21-18', '21-9']",MS - Qualification,20180123
-25,"['Lucas Corvee', 'Panji Ahmad Maulana']","['[FRA] ', '[INA] ']","['21-13', '21-19']",MS - Qualification,20180123
-26,"['Kantaphon Wangcharoen', 'Saputra Vicky Angga']","['[THA] ', '[INA] ']","['21-13', '21-12']",MS - Qualification,20180123
-27,"['Shesar Hiren Rhustavito', 'Kim Bruun']","['[INA] ', '[DEN] ']","['21-15', '19-21', '21-15']",MS - Qualification,20180123
-28,"['Lee Yang', 'Hsu Ya Ching', 'Ronan Labar', 'Audrey Fontaine']","['[TPE] ', '[TPE] ', '[FRA] ', '[FRA] ']","['21-19', '21-19']",XD,20180123
-29,"['Ricky Karandasuwardi', 'Debby Susanto', 'Lee Chun Hei Reginald', 'Chau Hoi Wah']","['[INA] ', '[INA] ', '[HKG] ', '[HKG] ']","['15-21', '21-12', '21-10']",XD,20180123
-30,"['Vitalij Durkin', 'Nina Vislova', 'Hafiz Faizal', 'Gloria Emanuelle Widjaja']","['[RUS] ', '[RUS] ', '[INA] ', '[INA] ']","['19-21', '21-19', '21-16']",XD,20180123
-31,"['Seung Jae Seo [5]', 'Kim Ha Na', 'Lu Ching Yao', 'Chiang Kai Hsin']","['[KOR] ', '[KOR] ', '[TPE] ', '[TPE] ']","['16-21', '21-18', '21-11']",XD,20180123
-32,"['Mathias Christiansen [8]', 'Christinna Pedersen', 'Lukhi Apri Nugroho', 'Ririn Amelia']","['[DEN] ', '[DEN] ', '[INA] ', '[INA] ']","['21-15', '21-17']",XD,20180123
-33,"['Zheng Siwei [6]', 'Huang Yaqiong', 'Yuta Watanabe', 'Arisa Higashino']","['[CHN] ', '[CHN] ', '[JPN] ', '[JPN] ']","['21-18', '21-7']",XD,20180123
-34,"['Tontowi Ahmad [1]', 'Liliyana Natsir', 'Riky Widianto', 'Masita Mahmudin']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['23-21', '21-17']",XD,20180123
-35,"['Tang Chun Man [4]', 'Tse Ying Suet', 'Bastian Kersaudy', 'Lea Palermo']","['[HKG] ', '[HKG] ', '[FRA] ', '[FRA] ']","['21-12', '21-19']",XD,20180123
-36,"['Zhang Nan', 'Liu Xuanxuan', 'Anders Skaarup Rasmussen', 'Line Højmark Kjaersfeldt']","['[CHN] ', '[CHN] ', '[DEN] ', '[DEN] ']","['21-18', '21-14']",XD,20180123
-37,"['Tan Kian Meng [7]', 'Lai Pei Jing', 'Niclas Nohr', 'Sara Thygesen']","['[MAS] ', '[MAS] ', '[DEN] ', '[DEN] ']","['22-20', '21-11']",XD,20180123
-38,"['Choi Solgyu', 'Chae Yoo Jung', 'Lu Kai', 'Zhou Chaomin']","['[KOR] ', '[KOR] ', '[CHN] ', '[CHN] ']","['21-19', '21-16']",XD,20180123
-39,"['Goh Soon Huat', 'Shevon Jemie Lai', 'Wang Yilyu [2]', 'Huang Dongping']","['[MAS] ', '[MAS] ', '[CHN] ', '[CHN] ']","['12-21', '21-19', '21-19']",XD,20180123
-40,"['Wang Chi-Lin', 'Lee Chia Hsin', 'Tang Jie Chen', 'Yen Wei Peck']","['[TPE] ', '[TPE] ', '[MAS] ', '[MAS] ']","['25-23', '21-23', '21-18']",XD,20180123
-41,"['Rinov Rivaldy', 'Angelica Wiratama', 'Mohamad Arif Abdul Latif', 'Rusydina Antardayu Riodingin']","['[INA] ', '[INA] ', '[MAS] ', '[INA] ']","['17-21', '21-12', '21-12']",XD,20180123
-42,"['Yantoni Edy Saputra', 'Marsheilla Gischa Islami', 'Andika Ramadiansyah', 'Mychelle Crhystine Bandaso']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['14-21', '21-16', '21-17']",XD,20180123
-43,"['Praveen Jordan', 'Melati Daeva Oktavianti', 'Ronald Ronald', 'Winny Oktavina Kandow']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-19', '16-21', '21-13']",XD,20180123
-44,"['Tai Tzu Ying [1]', 'Michelle Li']","['[TPE] ', '[CAN] ']","['23-25', '21-12', '22-20']",WS,20180123
-45,"['Viktor Axelsen [1]', 'Hsu Jen Hao']","['[DEN] ', '[TPE] ']","['21-13', '21-7']",MS,20180123
-46,"['Pai Yu Po', 'Chen Su Yu']","['[TPE] ', '[TPE] ']","['16-21', '21-10', '21-9']",WS,20180123
-47,"['Chen Qingchen [1]', 'Jia Yifan', 'Zarra Faza Azka', 'Brigita Marcelia Rumambi']","['[CHN] ', '[CHN] ', '[INA] ', '[INA] ']","['21-11', '21-13']",WD,20180123
-48,"['Berry Angriawan', 'Hardianto Hardianto', 'Bastian Kersaudy', 'Julien Maio']","['[INA] ', '[INA] ', '[FRA] ', '[FRA] ']","['21-16', '21-11']",MD,20180123
-49,"['Kazumasa Sakai', 'Sameer Verma']","['[JPN] ', '[IND] ']","['21-16', '12-21', '21-10']",MS,20180123
-50,"['Della Destiara Haris', 'Rizki Amelia Pradipta', 'Nisak Puji Lestari', 'Tiara Rosalia Nuraidah']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-11', '21-9']",WD,20180123
-51,"['Sung Ji Hyun [5]', 'Busanan Ongbamrungphan']","['[KOR] ', '[THA] ']","['21-17', '21-17']",WS,20180123
-52,"['Mads Conrad-Petersen [4]', 'Mads Pieler Kolding', 'Mohammad Ahsan', 'Angga Pratama']","['[DEN] ', '[DEN] ', '[INA] ', '[INA] ']","['21-15', '21-10']",MD,20180123
-53,"['Nitchaon Jindapol', 'Sayaka Sato']","['[THA] ', '[JPN] ']","['22-20', '17-21', '21-9']",WS,20180123
-54,"['Lee So Hee [5]', 'Shin Seung Chan', 'Tang Jinhua', 'Yu Xiaohan']","['[KOR] ', '[KOR] ', '[CHN] ', '[CHN] ']","['21-19', '21-7']",WD,20180123
-55,"['Rasmus Gemke', 'Ihsan Maulana Mustofa']","['[DEN] ', '[INA] ']","['17-21', '23-21', '21-16']",MS,20180123
-56,"['Nozomi Okuhara [6]', 'Cheung Ngan Yi']","['[JPN] ', '[HKG] ']","['21-11', '21-12']",WS,20180123
-57,"['Carolina Marin [3]', 'Dinar Dyah Ayustine']","['[ESP] ', '[INA] ']","['21-13', '21-13']",WS,20180123
-58,"['Febriana Dwipuji Kusuma', 'Ribka Sugiarto', 'Ayu Gary Luma Maharani', 'Aldira Rizki Putri']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-7', '21-18']",WD,20180123
-59,"['Jeon Hyeok Jin', 'Rajiv Ouseph']","['[KOR] ', '[ENG] ']","['21-11', '21-10']",MS,20180123
-60,"['Satwiksairaj Rankireddy', 'Chirag Shetty', 'Takuto Inoue [8]', 'Yuki Kaneko']","['[IND] ', '[IND] ', '[JPN] ', '[JPN] ']","['21-15', '21-17']",MD,20180123
-61,"['Son Wan Ho [4]', 'Jonatan Christie']","['[KOR] ', '[INA] ']","['21-15', '21-10']",MS,20180123
-62,"['Wang Tzu Wei', 'Kanta Tsuneyama']","['[TPE] ', '[JPN] ']","['21-10', '22-20']",MS,20180123
-63,"['Line Højmark Kjaersfeldt', 'Chiang Mei Hui']","['[DEN] ', '[TPE] ']","['21-13', '21-17']",WS,20180123
-64,"['Chae Yoo Jung', 'Hye Rin Kim', 'Febby Valencia Dwijayanti Gani', 'Lisa Ayu Kusumawati']","['[KOR] ', '[KOR] ', '[INA] ', '[INA] ']","['21-18', '21-11']",WD,20180123
-65,"['Kah Ming Chooi', 'Low Juan Shen', 'Kasper Antonsen', 'Niclas Nohr']","['[MAS] ', '[MAS] ', '[DEN] ', '[DEN] ']","['21-18', '19-21', '21-17']",MD,20180123
-66,"['He Bingjiao [8]', 'Aya Ohori']","['[CHN] ', '[JPN] ']","['21-17', '21-17']",WS,20180123
-67,"['Tommy Sugiarto', 'Shesar Hiren Rhustavito']","['[INA] ', '[INA] ']","['21-16', '21-19']",MS,20180123
-68,"['Chen Hung Ling [7]', 'Wang Chi-Lin', 'Sabar Karyaman Gutama', 'Frengky Wijaya Putra']","['[TPE] ', '[TPE] ', '[INA] ', '[INA] ']","['21-18', '21-17']",MD,20180123
-69,"['Greysia Polii [8]', 'Apriyani Rahayu', 'Tania Oktaviani Kusumah', 'Vania Arianti Sukoco']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-6', '21-18']",WD,20180123
-70,"['Ratchanok Intanon [4]', 'Beiwen Zhang']","['[THA] ', '[USA] ']","['21-7', '21-13']",WS,20180123
-71,"['Lee Chia Hsin', 'Mia Blichfeldt']","['[TPE] ', '[DEN] ']","['22-20', '21-11']",WS,20180123
-72,"['Jang Mi Lee', 'Beatriz Corrales']","['[KOR] ', '[ESP] ']","['21-12', '21-10']",WS,20180123
-73,"['Chen Xiaoxin', 'Natalia Koch Rohde']","['[CHN] ', '[DEN] ']","['21-10', '21-3']",WS,20180123
-74,"['Lin Ying Chun', 'Pai Yu Po', 'Keshya Nurvita Hanadia', 'Devi Tika Permatasari']","['[TPE] ', '[TPE] ', '[INA] ', '[INA] ']","['21-16', '21-15']",WD,20180123
-75,"['Maiken Fruergaard', 'Sara Thygesen', 'Lin Xiao Min', 'Wu Fang Chien']","['[DEN] ', '[DEN] ', '[TPE] ', '[TPE] ']","['21-16', '21-15']",WD,20180123
-76,"['Goh V Shem', 'Tan Wee Kiong', 'Mathias Christiansen', 'David Daugaard']","['[MAS] ', '[MAS] ', '[DEN] ', '[DEN] ']","['21-18', '21-13']",MD,20180123
-77,"['Sony Dwi Kuncoro', 'Ng Ka Long Angus [7]']","['[INA] ', '[HKG] ']","['21-19', '21-19']",MS,20180123
-78,"['Anthony Sinisuka Ginting', 'Wong Wing Ki Vincent']","['[INA] ', '[HKG] ']","['21-17', '21-8']",MS,20180123
-79,"['Lu Ching Yao', 'Yang Po Han', 'Manu Attri', 'Reddy B. Sumeeth']","['[TPE] ', '[TPE] ', '[IND] ', '[IND] ']","['21-18', '16-21', '21-16']",MD,20180123
-80,"['Kantaphon Wangcharoen', 'Lin Dan [5]']","['[THA] ', '[CHN] ']","['21-15', '21-19']",MS,20180123
-81,"['Liao Min Chun', 'Su Ching Heng', 'Akbar Bintang Cahyono', 'Moh Reza Pahlevi Isfahani']","['[TPE] ', '[TPE] ', '[INA] ', '[INA] ']","['14-21', '21-15', '24-22']",MD,20180123
-82,"['Vladimir Ivanov [6]', 'Ivan Sozonov', 'Hiroyuki Endo', 'Yuta Watanabe']","['[RUS] ', '[RUS] ', '[JPN] ', '[JPN] ']","['21-16', '21-15']",MD,20180123
-83,"['Kamilla Rytter Juhl [3]', 'Christinna Pedersen', 'Vivian Hoo', 'Woon Khe Wei']","['[DEN] ', '[DEN] ', '[MAS] ', '[MAS] ']","['21-9', '21-16']",WD,20180123
-84,"['Rian Agung Saputro', 'Hendra Setiawan', 'Sze Fei Goh', 'Nur Izzuddin']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['19-21', '21-12', '21-12']",MD,20180123
-85,"['Fitriani Fitriani', 'Kirsty Gilmour']","['[INA] ', '[SCO] ']","['20-22', '21-15', '21-16']",WS,20180123
-86,"['Agatha Imanuela', 'Siti Fadia Silva Ramadhanti', 'Julie Finne-Ipsen', 'Rikke Søby']","['[INA] ', '[INA] ', '[DEN] ', '[DEN] ']","['16-21', '21-16', '21-10']",WD,20180123
-87,"['Suppanyu Avihingsanon', 'Emil Holst']","['[THA] ', '[DEN] ']","['21-19', '14-21', '21-12']",MS,20180123
-88,"['Lee Jhe-Huei [5]', 'Lee Yang', 'Wahyu Nayaka Arya Pangkaryanira', 'Ade Yusuf Santoso']","['[TPE] ', '[TPE] ', '[INA] ', '[INA] ']","['21-16', '21-17']",MD,20180123
-89,"['Jongkolphan Kititharakul [6]', 'Rawinda Prajongjai', 'Serena Kani', 'Virni Putri']","['[THA] ', '[THA] ', '[INA] ', '[INA] ']","['21-14', '19-21', '21-11']",WD,20180123
-90,"['Saina Nehwal', 'Chen Yufei [7]']","['[IND] ', '[CHN] ']","['22-24', '21-15', '21-14']",WS,20180123
-91,"['Chen Long [3]', 'Anders Antonsen']","['[CHN] ', '[DEN] ']","['24-22', '21-10']",MS,20180123
-92,"['Liu Cheng [3]', 'Zhang Nan', 'Lee Chun Hei Reginald', 'Tang Chun Man']","['[CHN] ', '[CHN] ', '[HKG] ', '[HKG] ']","['21-14', '18-21', '21-13']",MD,20180123
-93,"['Marcus Fernaldi Gideon [1]', 'Kevin Sanjaya Sukamuljo', 'Tinn Isriyanet', 'Kittisak Namdash']","['[INA] ', '[INA] ', '[THA] ', '[THA] ']","['21-16', '21-16']",MD,20180123
-94,"['Hsu Ya Ching', 'Wu Ti Jung', 'Metya Inayah Cindiani', 'Indah Cahya Sari Jamil']","['[TPE] ', '[TPE] ', '[INA] ', '[INA] ']","['21-15', '21-10']",WD,20180123
-95,"['Brice Leverdez', 'Huang Yuxiang']","['[FRA] ', '[CHN] ']","['17-21', '21-19', '21-9']",MS,20180123
-96,"['Yulfira Barkah', 'Nitya Krishinda Maheswari', 'Liu Xuanxuan', 'Zhou Chaomin']","['[INA] ', '[INA] ', '[CHN] ', '[CHN] ']","['21-16', '21-14']",WD,20180123
-97,"['Chang Ye Na [7]', 'Jung Kyung Eun', 'Anggia Shitta Awanda', 'Ni Ketut Mahadewi Istarani']","['[KOR] ', '[KOR] ', '[INA] ', '[INA] ']","['21-15', '21-12']",WD,20180123
-98,"['Goh Jin Wei', 'Gregoria Mariska Tunjung']","['[MAS] ', '[INA] ']","['21-14', '19-21', '21-12']",WS,20180123
-99,"['Chou Tien Chen [6]', 'Lucas Corvee']","['[TPE] ', '[FRA] ']","['12-21', '21-15', '21-15']",MS,20180123
-100,"['Fajar Alfian', 'Muhammad Rian Ardianto', 'Law Cheuk Him', 'Or Chin Chung']","['[INA] ', '[INA] ', '[HKG] ', '[HKG] ']","['22-20', '21-9']",MD,20180123
-101,"['Li Junhui [2]', 'Liu Yuchen', 'Kim Astrup', 'Anders Skaarup Rasmussen']","['[CHN] ', '[CHN] ', '[DEN] ', '[DEN] ']","['21-15', '20-22', '21-16']",MD,20180123
-102,"['Chiang Kai Hsin', 'Hung Shih Han', 'Dian Fitriani', 'Nadya Melati']","['[TPE] ', '[TPE] ', '[INA] ', '[INA] ']","['13-21', '21-19', '21-12']",WD,20180123
-103,"['Hans-Kristian Solberg Vittinghus', 'Khosit Phetpradab']","['[DEN] ', '[THA] ']","['23-21', '21-18']",MS,20180123
-104,"['Lu Kai', 'Zheng Siwei', 'Hendra Aprida Gunawan', 'Markis Kido']","['[CHN] ', '[CHN] ', '[INA] ', '[INA] ']","['21-11', '21-14']",MD,20180123
-105,"['Misaki Matsutomo [2]', 'Ayaka Takahashi', 'Huang Dongping', 'Li Wenmei']","['[JPN] ', '[JPN] ', '[CHN] ', '[CHN] ']","['21-12', '21-15']",WD,20180123
-106,"['Pusarla V. Sindhu [2]', 'Hanna Ramadini']","['[IND] ', '[INA] ']","['21-13', '21-10']",WS,20180123
-107,"['Wei Feng Chong', 'Parupalli Kashyap']","['[MAS] ', '[IND] ']","['21-18', '21-18']",MS,20180123
-108,"['Carolina Marin [3]', 'Line Højmark Kjaersfeldt']","['[ESP] ', '[DEN] ']","['21-10', '21-15']",WS,20180123
-109,"['Goh Soon Huat', 'Shevon Jemie Lai', 'Choi Solgyu', 'Chae Yoo Jung']","['[MAS] ', '[MAS] ', '[KOR] ', '[KOR] ']","['21-17', '21-15']",XD,20180123
-110,"['Nozomi Okuhara [6]', 'Pai Yu Po']","['[JPN] ', '[TPE] ']","['21-19', '21-18']",WS,20180123
-111,"['He Bingjiao [8]', 'Jang Mi Lee']","['[CHN] ', '[KOR] ']","['18-21', '21-15', '21-18']",WS,20180123
-112,"['Satwiksairaj Rankireddy', 'Chirag Shetty', 'Liao Min Chun', 'Su Ching Heng']","['[IND] ', '[IND] ', '[TPE] ', '[TPE] ']","['21-17', '21-16']",MD,20180123
-113,"['Rasmus Gemke', 'Jeon Hyeok Jin']","['[DEN] ', '[KOR] ']","['23-21', '21-15']",MS,20180123
-114,"['Kazumasa Sakai', 'Viktor Axelsen [1]']","['[JPN] ', '[DEN] ']","['22-20', '11-7']",MS,20180123
-115,"['Tang Chun Man [4]', 'Tse Ying Suet', 'Vitalij Durkin', 'Nina Vislova']","['[HKG] ', '[HKG] ', '[RUS] ', '[RUS] ']",[],XD,20180123
-116,"['Zhang Nan', 'Liu Xuanxuan', 'Mathias Christiansen [8]', 'Christinna Pedersen']","['[CHN] ', '[CHN] ', '[DEN] ', '[DEN] ']","['21-19', '17-21', '21-15']",XD,20180123
-117,"['Della Destiara Haris', 'Rizki Amelia Pradipta', 'Chen Qingchen [1]', 'Jia Yifan']","['[INA] ', '[INA] ', '[CHN] ', '[CHN] ']","['21-15', '21-11']",WD,20180123
-118,"['Yantoni Edy Saputra', 'Marsheilla Gischa Islami', 'Ricky Karandasuwardi', 'Debby Susanto']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-15', '10-21', '21-14']",XD,20180123
-119,"['Zheng Siwei [6]', 'Huang Yaqiong', 'Wang Chi-Lin', 'Lee Chia Hsin']","['[CHN] ', '[CHN] ', '[TPE] ', '[TPE] ']","['21-8', '16-21', '21-16']",XD,20180123
-120,"['Praveen Jordan', 'Melati Daeva Oktavianti', 'Seung Jae Seo [5]', 'Kim Ha Na']","['[INA] ', '[INA] ', '[KOR] ', '[KOR] ']","['21-15', '21-16']",XD,20180123
-121,"['Son Wan Ho [4]', 'Wang Tzu Wei']","['[KOR] ', '[TPE] ']","['21-17', '11-21', '21-19']",MS,20180123
-122,"['Lee So Hee [5]', 'Shin Seung Chan', 'Febriana Dwipuji Kusuma', 'Ribka Sugiarto']","['[KOR] ', '[KOR] ', '[INA] ', '[INA] ']","['21-12', '21-13']",WD,20180123
-123,"['Greysia Polii [8]', 'Apriyani Rahayu', 'Agatha Imanuela', 'Siti Fadia Silva Ramadhanti']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-11', '21-16']",WD,20180123
-124,"['Tan Kian Meng [7]', 'Lai Pei Jing', 'Rinov Rivaldy', 'Angelica Wiratama']","['[MAS] ', '[MAS] ', '[INA] ', '[INA] ']","['21-18', '21-12']",XD,20180123
-125,"['Ratchanok Intanon [4]', 'Fitriani Fitriani']","['[THA] ', '[INA] ']","['21-17', '21-16']",WS,20180123
-126,"['Sony Dwi Kuncoro', 'Tommy Sugiarto']","['[INA] ', '[INA] ']","['21-14', '21-10']",MS,20180123
-127,"['Mads Conrad-Petersen [4]', 'Mads Pieler Kolding', 'Kah Ming Chooi', 'Low Juan Shen']","['[DEN] ', '[DEN] ', '[MAS] ', '[MAS] ']","['21-11', '21-17']",MD,20180123
-128,"['Sung Ji Hyun [5]', 'Nitchaon Jindapol']","['[KOR] ', '[THA] ']","['21-16', '21-11']",WS,20180123
-129,"['Tontowi Ahmad [1]', 'Liliyana Natsir', 'Lee Yang', 'Hsu Ya Ching']","['[INA] ', '[INA] ', '[TPE] ', '[TPE] ']","['21-12', '21-10']",XD,20180123
-130,"['Saina Nehwal', 'Chen Xiaoxin']","['[IND] ', '[CHN] ']","['21-12', '21-18']",WS,20180123
-131,"['Chae Yoo Jung', 'Hye Rin Kim', 'Lin Ying Chun', 'Pai Yu Po']","['[KOR] ', '[KOR] ', '[TPE] ', '[TPE] ']","['21-13', '21-18']",WD,20180123
-132,"['Jongkolphan Kititharakul [6]', 'Rawinda Prajongjai', 'Maiken Fruergaard', 'Sara Thygesen']","['[THA] ', '[THA] ', '[DEN] ', '[DEN] ']","['21-19', '21-16']",WD,20180123
-133,"['Misaki Matsutomo [2]', 'Ayaka Takahashi', 'Chiang Kai Hsin', 'Hung Shih Han']","['[JPN] ', '[JPN] ', '[TPE] ', '[TPE] ']","['21-12', '21-12']",WD,20180123
-134,"['Tai Tzu Ying [1]', 'Lee Chia Hsin']","['[TPE] ', '[TPE] ']","['21-14', '21-13']",WS,20180123
-135,"['Chang Ye Na [7]', 'Jung Kyung Eun', 'Yulfira Barkah', 'Nitya Krishinda Maheswari']","['[KOR] ', '[KOR] ', '[INA] ', '[INA] ']","['21-11', '19-21', '21-17']",WD,20180123
-136,"['Liu Cheng [3]', 'Zhang Nan', 'Lu Kai', 'Zheng Siwei']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['21-14', '21-16']",MD,20180123
-137,"['Lu Ching Yao', 'Yang Po Han', 'Vladimir Ivanov [6]', 'Ivan Sozonov']","['[TPE] ', '[TPE] ', '[RUS] ', '[RUS] ']","['13-21', '21-19', '21-14']",MD,20180123
-138,"['Hans-Kristian Solberg Vittinghus', 'Wei Feng Chong']","['[DEN] ', '[MAS] ']","['21-18', '11-21', '21-11']",MS,20180123
-139,"['Anthony Sinisuka Ginting', 'Kantaphon Wangcharoen']","['[INA] ', '[THA] ']","['21-11', '21-14']",MS,20180123
-140,"['Li Junhui [2]', 'Liu Yuchen', 'Fajar Alfian', 'Muhammad Rian Ardianto']","['[CHN] ', '[CHN] ', '[INA] ', '[INA] ']","['21-15', '21-12']",MD,20180123
-141,"['Chen Long [3]', 'Suppanyu Avihingsanon']","['[CHN] ', '[THA] ']","['21-13', '21-8']",MS,20180123
-142,"['Pusarla V. Sindhu [2]', 'Goh Jin Wei']","['[IND] ', '[MAS] ']","['21-12', '21-9']",WS,20180123
-143,"['Marcus Fernaldi Gideon [1]', 'Kevin Sanjaya Sukamuljo', 'Rian Agung Saputro', 'Hendra Setiawan']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-16', '23-21']",MD,20180123
-144,"['Chen Hung Ling [7]', 'Wang Chi-Lin', 'Berry Angriawan', 'Hardianto Hardianto']","['[TPE] ', '[TPE] ', '[INA] ', '[INA] ']","['21-11', '21-18']",MD,20180123
-145,"['Goh V Shem', 'Tan Wee Kiong', 'Lee Jhe-Huei [5]', 'Lee Yang']","['[MAS] ', '[MAS] ', '[TPE] ', '[TPE] ']","['21-15', '16-21', '21-13']",MD,20180123
-146,"['Chou Tien Chen [6]', 'Brice Leverdez']","['[TPE] ', '[FRA] ']","['21-16', '21-17']",MS,20180123
-147,"['Kamilla Rytter Juhl [3]', 'Christinna Pedersen', 'Hsu Ya Ching', 'Wu Ti Jung']","['[DEN] ', '[DEN] ', '[TPE] ', '[TPE] ']","['21-12', '21-16']",WD,20180123
-148,"['Tontowi Ahmad [1]', 'Liliyana Natsir', 'Zhang Nan', 'Liu Xuanxuan']","['[INA] ', '[INA] ', '[CHN] ', '[CHN] ']","['21-18', '21-19']",XD ,20180123
-149,"['Greysia Polii [8]', 'Apriyani Rahayu', 'Chae Yoo Jung', 'Hye Rin Kim']","['[INA] ', '[INA] ', '[KOR] ', '[KOR] ']","['21-16', '21-15']",WD ,20180123
-150,"['Ratchanok Intanon [4]', 'Nozomi Okuhara [6]']","['[THA] ', '[JPN] ']","['21-17', '21-10']",WS ,20180123
-151,"['Anthony Sinisuka Ginting', 'Chen Long [3]']","['[INA] ', '[CHN] ']","['21-11', '16-21', '21-18']",MS ,20180123
-152,"['Marcus Fernaldi Gideon [1]', 'Kevin Sanjaya Sukamuljo', 'Chen Hung Ling [7]', 'Wang Chi-Lin']","['[INA] ', '[INA] ', '[TPE] ', '[TPE] ']","['20-22', '21-14', '21-14']",MD ,20180123
-153,"['Tai Tzu Ying [1]', 'Sung Ji Hyun [5]']","['[TPE] ', '[KOR] ']","['21-11', '21-8']",WS ,20180123
-154,"['Chou Tien Chen [6]', 'Hans-Kristian Solberg Vittinghus']","['[TPE] ', '[DEN] ']","['15-21', '21-16', '21-18']",MS ,20180123
-155,"['Satwiksairaj Rankireddy', 'Chirag Shetty', 'Mads Conrad-Petersen [4]', 'Mads Pieler Kolding']","['[IND] ', '[IND] ', '[DEN] ', '[DEN] ']","['23-21', '15-21', '21-19']",MD ,20180123
-156,"['Son Wan Ho [4]', 'Sony Dwi Kuncoro']","['[KOR] ', '[INA] ']","['21-14', '21-14']",MS ,20180123
-157,"['Misaki Matsutomo [2]', 'Ayaka Takahashi', 'Chang Ye Na [7]', 'Jung Kyung Eun']","['[JPN] ', '[JPN] ', '[KOR] ', '[KOR] ']","['21-14', '21-8']",WD ,20180123
-158,"['Saina Nehwal', 'Pusarla V. Sindhu [2]']","['[IND] ', '[IND] ']","['21-13', '21-19']",WS ,20180123
-159,"['Kazumasa Sakai', 'Rasmus Gemke']","['[JPN] ', '[DEN] ']","['21-9', '21-18']",MS ,20180123
-160,"['Zheng Siwei [6]', 'Huang Yaqiong', 'Tang Chun Man [4]', 'Tse Ying Suet']","['[CHN] ', '[CHN] ', '[HKG] ', '[HKG] ']","['21-14', '21-15']",XD ,20180123
-161,"['Liu Cheng [3]', 'Zhang Nan', 'Goh V Shem', 'Tan Wee Kiong']","['[CHN] ', '[CHN] ', '[MAS] ', '[MAS] ']","['21-18', '20-22', '21-12']",MD ,20180123
-162,"['Lee So Hee [5]', 'Shin Seung Chan', 'Della Destiara Haris', 'Rizki Amelia Pradipta']","['[KOR] ', '[KOR] ', '[INA] ', '[INA] ']","['21-12', '21-17']",WD ,20180123
-163,"['Goh Soon Huat', 'Shevon Jemie Lai', 'Tan Kian Meng [7]', 'Lai Pei Jing']","['[MAS] ', '[MAS] ', '[MAS] ', '[MAS] ']","['15-21', '21-16', '21-16']",XD ,20180123
-164,"['Li Junhui [2]', 'Liu Yuchen', 'Lu Ching Yao', 'Yang Po Han']","['[CHN] ', '[CHN] ', '[TPE] ', '[TPE] ']","['12-21', '21-17', '21-10']",MD ,20180123
-165,"['He Bingjiao [8]', 'Carolina Marin [3]']","['[CHN] ', '[ESP] ']","['21-19', '12-21', '21-16']",WS ,20180123
-166,"['Kamilla Rytter Juhl [3]', 'Christinna Pedersen', 'Jongkolphan Kititharakul [6]', 'Rawinda Prajongjai']","['[DEN] ', '[DEN] ', '[THA] ', '[THA] ']","['21-18', '21-10']",WD ,20180123
-167,"['Praveen Jordan', 'Melati Daeva Oktavianti', 'Yantoni Edy Saputra', 'Marsheilla Gischa Islami']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-11', '18-21', '21-17']",XD ,20180123
-168,"['Tontowi Ahmad [1]', 'Liliyana Natsir', 'Praveen Jordan', 'Melati Daeva Oktavianti']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['22-20', '21-17']",XD ,20180123
-169,"['Anthony Sinisuka Ginting', 'Chou Tien Chen [6]']","['[INA] ', '[TPE] ']","['21-16', '13-21', '21-12']",MS ,20180123
-170,"['Saina Nehwal', 'Ratchanok Intanon [4]']","['[IND] ', '[THA] ']","['21-19', '21-19']",WS ,20180123
-171,"['Greysia Polii [8]', 'Apriyani Rahayu', 'Lee So Hee [5]', 'Shin Seung Chan']","['[INA] ', '[INA] ', '[KOR] ', '[KOR] ']","['21-11', '17-21', '21-17']",WD ,20180123
-172,"['Marcus Fernaldi Gideon [1]', 'Kevin Sanjaya Sukamuljo', 'Satwiksairaj Rankireddy', 'Chirag Shetty']","['[INA] ', '[INA] ', '[IND] ', '[IND] ']","['21-14', '21-11']",MD ,20180123
-173,"['Tai Tzu Ying [1]', 'He Bingjiao [8]']","['[TPE] ', '[CHN] ']","['19-21', '21-15', '21-15']",WS ,20180123
-174,"['Zheng Siwei [6]', 'Huang Yaqiong', 'Goh Soon Huat', 'Shevon Jemie Lai']","['[CHN] ', '[CHN] ', '[MAS] ', '[MAS] ']","['21-18', '21-14']",XD ,20180123
-175,"['Misaki Matsutomo [2]', 'Ayaka Takahashi', 'Kamilla Rytter Juhl [3]', 'Christinna Pedersen']","['[JPN] ', '[JPN] ', '[DEN] ', '[DEN] ']","['23-25', '21-15', '21-16']",WD ,20180123
-176,"['Kazumasa Sakai', 'Son Wan Ho [4]']","['[JPN] ', '[KOR] ']","['21-18', '20-22', '21-15']",MS ,20180123
-177,"['Li Junhui [2]', 'Liu Yuchen', 'Liu Cheng [3]', 'Zhang Nan']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['26-24', '14-21', '21-12']",MD ,20180123
-178,"['Tai Tzu Ying [1]', 'Saina Nehwal']","['[TPE] ', '[IND] ']","['21-9', '21-13']",WS ,20180123
-179,"['Anthony Sinisuka Ginting', 'Kazumasa Sakai']","['[INA] ', '[JPN] ']","['21-13', '21-12']",MS ,20180123
-180,"['Zheng Siwei [6]', 'Huang Yaqiong', 'Tontowi Ahmad [1]', 'Liliyana Natsir']","['[CHN] ', '[CHN] ', '[INA] ', '[INA] ']","['21-14', '21-11']",XD ,20180123
-181,"['Misaki Matsutomo [2]', 'Ayaka Takahashi', 'Greysia Polii [8]', 'Apriyani Rahayu']","['[JPN] ', '[JPN] ', '[INA] ', '[INA] ']","['21-17', '21-12']",WD ,20180123
-182,"['Marcus Fernaldi Gideon [1]', 'Kevin Sanjaya Sukamuljo', 'Li Junhui [2]', 'Liu Yuchen']","['[INA] ', '[INA] ', '[CHN] ', '[CHN] ']","['11-21', '21-10', '21-16']",MD ,20180123
+,PLAYERS,COUNTRIES,SCORES,EVENT,match_week,match_location
+0,"['Kantaphon Wangcharoen', 'Firman Abdul Kholik']","['[THA] ', '[INA] ']","['21-16', '8-21', '21-14']",MS - Qualification,20180123,"Jakarta, Indonesia"
+1,"['Saputra Vicky Angga', 'Krishna Adi Nugraha']","['[INA] ', '[INA] ']","['21-14', '16-21', '21-14']",MS - Qualification,20180123,"Jakarta, Indonesia"
+2,"['Shesar Hiren Rhustavito', 'Enzi Shafira']","['[INA] ', '[INA] ']","['21-15', '18-21', '21-19']",MS - Qualification,20180123,"Jakarta, Indonesia"
+3,"['Panji Ahmad Maulana', 'Subhankar Dey']","['[INA] ', '[IND] ']","['21-9', '23-21']",MS - Qualification,20180123,"Jakarta, Indonesia"
+4,"['Vega Vio Nirwanda', 'Abhishek Yelegar']","['[INA] ', '[IND] ']","['22-20', '21-14']",MS - Qualification,20180123,"Jakarta, Indonesia"
+5,"['Sony Dwi Kuncoro', 'Chico Aura Dwi Wardoyo']","['[INA] ', '[INA] ']","['21-11', '17-21', '21-18']",MS - Qualification,20180123,"Jakarta, Indonesia"
+6,"['Lucas Corvee', 'Kan Chao Yu']","['[FRA] ', '[TPE] ']","['17-21', '21-10', '21-16']",MS - Qualification,20180123,"Jakarta, Indonesia"
+7,"['Kim Bruun', 'Fikri Ihsandi Hadmadi']","['[DEN] ', '[INA] ']","['21-15', '2-0']",MS - Qualification,20180123,"Jakarta, Indonesia"
+8,"['Rinov Rivaldy', 'Angelica Wiratama', 'Law Cheuk Him', 'Ng Tsz Yau']","['[INA] ', '[INA] ', '[HKG] ', '[HKG] ']","['21-13', '21-18']",XD - Qualification,20180123,"Jakarta, Indonesia"
+9,"['Andika Ramadiansyah', 'Mychelle Crhystine Bandaso', 'Danny Bawa Chrisnanta', 'Wong Jia Ying Crystal']","['[INA] ', '[INA] ', '[SGP] ', '[SGP] ']","['21-18', '21-12']",XD - Qualification,20180123,"Jakarta, Indonesia"
+10,"['Ronald Ronald', 'Winny Oktavina Kandow', 'Fachryza Abimanyu', 'Bunga Fitriani Romadhini']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-16', '16-21', '21-12']",XD - Qualification,20180123,"Jakarta, Indonesia"
+11,"['Tang Jie Chen', 'Yen Wei Peck', 'Yehezkiel Fritz Mainaky', 'Lyanny Alessandra Mainaky']","['[MAS] ', '[MAS] ', '[INA] ', '[INA] ']","['21-15', '21-19']",XD - Qualification,20180123,"Jakarta, Indonesia"
+12,"['Metya Inayah Cindiani', 'Indah Cahya Sari Jamil', 'Dhea Bunga Anjani', 'Dinda Dwi Cahyaning']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-15', '21-11']",WD - Qualification,20180123,"Jakarta, Indonesia"
+13,"['Febriana Dwipuji Kusuma', 'Ribka Sugiarto', 'Rayhan Vania Salsabila', 'Putri Andini Wahyuningrum']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-12', '21-7']",WD - Qualification,20180123,"Jakarta, Indonesia"
+14,"['Lin Ying Chun', 'Pai Yu Po', 'Denisa Dwisyawaliah Budiani', 'Nakhla Aufa Dhiya Ulhaq']","['[TPE] ', '[TPE] ', '[INA] ', '[INA] ']","['21-10', '21-12']",WD - Qualification,20180123,"Jakarta, Indonesia"
+15,"['Nisak Puji Lestari', 'Tiara Rosalia Nuraidah', 'Fauzia Kartikasari', 'Mia Dian Nurlia']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-16', '21-16']",WD - Qualification,20180123,"Jakarta, Indonesia"
+16,"['Sabar Karyaman Gutama', 'Frengky Wijaya Putra', 'Kapil Chaudhary', 'Brijesh Yadav']","['[INA] ', '[INA] ', '[IND] ', '[IND] ']","['21-12', '21-8']",MD - Qualification,20180123,"Jakarta, Indonesia"
+17,"['Lu Kai', 'Zheng Siwei', 'Muhammad Fachrikar Adma Parlindungan Man', 'Reza Dwicahya Purnama']","['[CHN] ', '[CHN] ', '[INA] ', '[INA] ']","['21-13', '21-9']",MD - Qualification,20180123,"Jakarta, Indonesia"
+18,"['Akbar Bintang Cahyono', 'Moh Reza Pahlevi Isfahani', 'Lee Sheng Mu', 'Yang Po-Hsuan']","['[INA] ', '[INA] ', '[TPE] ', '[TPE] ']","['21-18', '21-12']",MD - Qualification,20180123,"Jakarta, Indonesia"
+19,"['Hendra Aprida Gunawan [2]', 'Markis Kido', 'Lukhi Apri Nugroho', 'Tedi Supriadi']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-15', '18-21', '21-14']",MD - Qualification,20180123,"Jakarta, Indonesia"
+20,"['Goh Jin Wei', 'Sri Krishna Priya Kudaravalli']","['[MAS] ', '[IND] ']","['21-7', '21-9']",WS - Qualification,20180123,"Jakarta, Indonesia"
+21,"['Chen Su Yu', 'Mette Poulsen']","['[TPE] ', '[DEN] ']","['21-10', '15-21', '21-15']",WS - Qualification,20180123,"Jakarta, Indonesia"
+22,"['Gregoria Mariska Tunjung', 'Sofie Holmboe Dahl']","['[INA] ', '[DEN] ']","['21-12', '21-13']",WS - Qualification,20180123,"Jakarta, Indonesia"
+23,"['Line Højmark Kjaersfeldt [2]', 'Delphine Lansac']","['[DEN] ', '[FRA] ']",['2-0'],WS - Qualification,20180123,"Jakarta, Indonesia"
+24,"['Sony Dwi Kuncoro', 'Vega Vio Nirwanda']","['[INA] ', '[INA] ']","['21-18', '21-9']",MS - Qualification,20180123,"Jakarta, Indonesia"
+25,"['Lucas Corvee', 'Panji Ahmad Maulana']","['[FRA] ', '[INA] ']","['21-13', '21-19']",MS - Qualification,20180123,"Jakarta, Indonesia"
+26,"['Kantaphon Wangcharoen', 'Saputra Vicky Angga']","['[THA] ', '[INA] ']","['21-13', '21-12']",MS - Qualification,20180123,"Jakarta, Indonesia"
+27,"['Shesar Hiren Rhustavito', 'Kim Bruun']","['[INA] ', '[DEN] ']","['21-15', '19-21', '21-15']",MS - Qualification,20180123,"Jakarta, Indonesia"
+28,"['Lee Yang', 'Hsu Ya Ching', 'Ronan Labar', 'Audrey Fontaine']","['[TPE] ', '[TPE] ', '[FRA] ', '[FRA] ']","['21-19', '21-19']",XD,20180123,"Jakarta, Indonesia"
+29,"['Ricky Karandasuwardi', 'Debby Susanto', 'Lee Chun Hei Reginald', 'Chau Hoi Wah']","['[INA] ', '[INA] ', '[HKG] ', '[HKG] ']","['15-21', '21-12', '21-10']",XD,20180123,"Jakarta, Indonesia"
+30,"['Vitalij Durkin', 'Nina Vislova', 'Hafiz Faizal', 'Gloria Emanuelle Widjaja']","['[RUS] ', '[RUS] ', '[INA] ', '[INA] ']","['19-21', '21-19', '21-16']",XD,20180123,"Jakarta, Indonesia"
+31,"['Seung Jae Seo [5]', 'Kim Ha Na', 'Lu Ching Yao', 'Chiang Kai Hsin']","['[KOR] ', '[KOR] ', '[TPE] ', '[TPE] ']","['16-21', '21-18', '21-11']",XD,20180123,"Jakarta, Indonesia"
+32,"['Mathias Christiansen [8]', 'Christinna Pedersen', 'Lukhi Apri Nugroho', 'Ririn Amelia']","['[DEN] ', '[DEN] ', '[INA] ', '[INA] ']","['21-15', '21-17']",XD,20180123,"Jakarta, Indonesia"
+33,"['Zheng Siwei [6]', 'Huang Yaqiong', 'Yuta Watanabe', 'Arisa Higashino']","['[CHN] ', '[CHN] ', '[JPN] ', '[JPN] ']","['21-18', '21-7']",XD,20180123,"Jakarta, Indonesia"
+34,"['Tontowi Ahmad [1]', 'Liliyana Natsir', 'Riky Widianto', 'Masita Mahmudin']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['23-21', '21-17']",XD,20180123,"Jakarta, Indonesia"
+35,"['Tang Chun Man [4]', 'Tse Ying Suet', 'Bastian Kersaudy', 'Lea Palermo']","['[HKG] ', '[HKG] ', '[FRA] ', '[FRA] ']","['21-12', '21-19']",XD,20180123,"Jakarta, Indonesia"
+36,"['Zhang Nan', 'Liu Xuanxuan', 'Anders Skaarup Rasmussen', 'Line Højmark Kjaersfeldt']","['[CHN] ', '[CHN] ', '[DEN] ', '[DEN] ']","['21-18', '21-14']",XD,20180123,"Jakarta, Indonesia"
+37,"['Tan Kian Meng [7]', 'Lai Pei Jing', 'Niclas Nohr', 'Sara Thygesen']","['[MAS] ', '[MAS] ', '[DEN] ', '[DEN] ']","['22-20', '21-11']",XD,20180123,"Jakarta, Indonesia"
+38,"['Choi Solgyu', 'Chae Yoo Jung', 'Lu Kai', 'Zhou Chaomin']","['[KOR] ', '[KOR] ', '[CHN] ', '[CHN] ']","['21-19', '21-16']",XD,20180123,"Jakarta, Indonesia"
+39,"['Goh Soon Huat', 'Shevon Jemie Lai', 'Wang Yilyu [2]', 'Huang Dongping']","['[MAS] ', '[MAS] ', '[CHN] ', '[CHN] ']","['12-21', '21-19', '21-19']",XD,20180123,"Jakarta, Indonesia"
+40,"['Wang Chi-Lin', 'Lee Chia Hsin', 'Tang Jie Chen', 'Yen Wei Peck']","['[TPE] ', '[TPE] ', '[MAS] ', '[MAS] ']","['25-23', '21-23', '21-18']",XD,20180123,"Jakarta, Indonesia"
+41,"['Rinov Rivaldy', 'Angelica Wiratama', 'Mohamad Arif Abdul Latif', 'Rusydina Antardayu Riodingin']","['[INA] ', '[INA] ', '[MAS] ', '[INA] ']","['17-21', '21-12', '21-12']",XD,20180123,"Jakarta, Indonesia"
+42,"['Yantoni Edy Saputra', 'Marsheilla Gischa Islami', 'Andika Ramadiansyah', 'Mychelle Crhystine Bandaso']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['14-21', '21-16', '21-17']",XD,20180123,"Jakarta, Indonesia"
+43,"['Praveen Jordan', 'Melati Daeva Oktavianti', 'Ronald Ronald', 'Winny Oktavina Kandow']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-19', '16-21', '21-13']",XD,20180123,"Jakarta, Indonesia"
+44,"['Tai Tzu Ying [1]', 'Michelle Li']","['[TPE] ', '[CAN] ']","['23-25', '21-12', '22-20']",WS,20180123,"Jakarta, Indonesia"
+45,"['Viktor Axelsen [1]', 'Hsu Jen Hao']","['[DEN] ', '[TPE] ']","['21-13', '21-7']",MS,20180123,"Jakarta, Indonesia"
+46,"['Pai Yu Po', 'Chen Su Yu']","['[TPE] ', '[TPE] ']","['16-21', '21-10', '21-9']",WS,20180123,"Jakarta, Indonesia"
+47,"['Chen Qingchen [1]', 'Jia Yifan', 'Zarra Faza Azka', 'Brigita Marcelia Rumambi']","['[CHN] ', '[CHN] ', '[INA] ', '[INA] ']","['21-11', '21-13']",WD,20180123,"Jakarta, Indonesia"
+48,"['Berry Angriawan', 'Hardianto Hardianto', 'Bastian Kersaudy', 'Julien Maio']","['[INA] ', '[INA] ', '[FRA] ', '[FRA] ']","['21-16', '21-11']",MD,20180123,"Jakarta, Indonesia"
+49,"['Kazumasa Sakai', 'Sameer Verma']","['[JPN] ', '[IND] ']","['21-16', '12-21', '21-10']",MS,20180123,"Jakarta, Indonesia"
+50,"['Della Destiara Haris', 'Rizki Amelia Pradipta', 'Nisak Puji Lestari', 'Tiara Rosalia Nuraidah']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-11', '21-9']",WD,20180123,"Jakarta, Indonesia"
+51,"['Sung Ji Hyun [5]', 'Busanan Ongbamrungphan']","['[KOR] ', '[THA] ']","['21-17', '21-17']",WS,20180123,"Jakarta, Indonesia"
+52,"['Mads Conrad-Petersen [4]', 'Mads Pieler Kolding', 'Mohammad Ahsan', 'Angga Pratama']","['[DEN] ', '[DEN] ', '[INA] ', '[INA] ']","['21-15', '21-10']",MD,20180123,"Jakarta, Indonesia"
+53,"['Nitchaon Jindapol', 'Sayaka Sato']","['[THA] ', '[JPN] ']","['22-20', '17-21', '21-9']",WS,20180123,"Jakarta, Indonesia"
+54,"['Lee So Hee [5]', 'Shin Seung Chan', 'Tang Jinhua', 'Yu Xiaohan']","['[KOR] ', '[KOR] ', '[CHN] ', '[CHN] ']","['21-19', '21-7']",WD,20180123,"Jakarta, Indonesia"
+55,"['Rasmus Gemke', 'Ihsan Maulana Mustofa']","['[DEN] ', '[INA] ']","['17-21', '23-21', '21-16']",MS,20180123,"Jakarta, Indonesia"
+56,"['Nozomi Okuhara [6]', 'Cheung Ngan Yi']","['[JPN] ', '[HKG] ']","['21-11', '21-12']",WS,20180123,"Jakarta, Indonesia"
+57,"['Carolina Marin [3]', 'Dinar Dyah Ayustine']","['[ESP] ', '[INA] ']","['21-13', '21-13']",WS,20180123,"Jakarta, Indonesia"
+58,"['Febriana Dwipuji Kusuma', 'Ribka Sugiarto', 'Ayu Gary Luma Maharani', 'Aldira Rizki Putri']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-7', '21-18']",WD,20180123,"Jakarta, Indonesia"
+59,"['Jeon Hyeok Jin', 'Rajiv Ouseph']","['[KOR] ', '[ENG] ']","['21-11', '21-10']",MS,20180123,"Jakarta, Indonesia"
+60,"['Satwiksairaj Rankireddy', 'Chirag Shetty', 'Takuto Inoue [8]', 'Yuki Kaneko']","['[IND] ', '[IND] ', '[JPN] ', '[JPN] ']","['21-15', '21-17']",MD,20180123,"Jakarta, Indonesia"
+61,"['Son Wan Ho [4]', 'Jonatan Christie']","['[KOR] ', '[INA] ']","['21-15', '21-10']",MS,20180123,"Jakarta, Indonesia"
+62,"['Wang Tzu Wei', 'Kanta Tsuneyama']","['[TPE] ', '[JPN] ']","['21-10', '22-20']",MS,20180123,"Jakarta, Indonesia"
+63,"['Line Højmark Kjaersfeldt', 'Chiang Mei Hui']","['[DEN] ', '[TPE] ']","['21-13', '21-17']",WS,20180123,"Jakarta, Indonesia"
+64,"['Chae Yoo Jung', 'Hye Rin Kim', 'Febby Valencia Dwijayanti Gani', 'Lisa Ayu Kusumawati']","['[KOR] ', '[KOR] ', '[INA] ', '[INA] ']","['21-18', '21-11']",WD,20180123,"Jakarta, Indonesia"
+65,"['Kah Ming Chooi', 'Low Juan Shen', 'Kasper Antonsen', 'Niclas Nohr']","['[MAS] ', '[MAS] ', '[DEN] ', '[DEN] ']","['21-18', '19-21', '21-17']",MD,20180123,"Jakarta, Indonesia"
+66,"['He Bingjiao [8]', 'Aya Ohori']","['[CHN] ', '[JPN] ']","['21-17', '21-17']",WS,20180123,"Jakarta, Indonesia"
+67,"['Tommy Sugiarto', 'Shesar Hiren Rhustavito']","['[INA] ', '[INA] ']","['21-16', '21-19']",MS,20180123,"Jakarta, Indonesia"
+68,"['Chen Hung Ling [7]', 'Wang Chi-Lin', 'Sabar Karyaman Gutama', 'Frengky Wijaya Putra']","['[TPE] ', '[TPE] ', '[INA] ', '[INA] ']","['21-18', '21-17']",MD,20180123,"Jakarta, Indonesia"
+69,"['Greysia Polii [8]', 'Apriyani Rahayu', 'Tania Oktaviani Kusumah', 'Vania Arianti Sukoco']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-6', '21-18']",WD,20180123,"Jakarta, Indonesia"
+70,"['Ratchanok Intanon [4]', 'Beiwen Zhang']","['[THA] ', '[USA] ']","['21-7', '21-13']",WS,20180123,"Jakarta, Indonesia"
+71,"['Lee Chia Hsin', 'Mia Blichfeldt']","['[TPE] ', '[DEN] ']","['22-20', '21-11']",WS,20180123,"Jakarta, Indonesia"
+72,"['Jang Mi Lee', 'Beatriz Corrales']","['[KOR] ', '[ESP] ']","['21-12', '21-10']",WS,20180123,"Jakarta, Indonesia"
+73,"['Chen Xiaoxin', 'Natalia Koch Rohde']","['[CHN] ', '[DEN] ']","['21-10', '21-3']",WS,20180123,"Jakarta, Indonesia"
+74,"['Lin Ying Chun', 'Pai Yu Po', 'Keshya Nurvita Hanadia', 'Devi Tika Permatasari']","['[TPE] ', '[TPE] ', '[INA] ', '[INA] ']","['21-16', '21-15']",WD,20180123,"Jakarta, Indonesia"
+75,"['Maiken Fruergaard', 'Sara Thygesen', 'Lin Xiao Min', 'Wu Fang Chien']","['[DEN] ', '[DEN] ', '[TPE] ', '[TPE] ']","['21-16', '21-15']",WD,20180123,"Jakarta, Indonesia"
+76,"['Goh V Shem', 'Tan Wee Kiong', 'Mathias Christiansen', 'David Daugaard']","['[MAS] ', '[MAS] ', '[DEN] ', '[DEN] ']","['21-18', '21-13']",MD,20180123,"Jakarta, Indonesia"
+77,"['Sony Dwi Kuncoro', 'Ng Ka Long Angus [7]']","['[INA] ', '[HKG] ']","['21-19', '21-19']",MS,20180123,"Jakarta, Indonesia"
+78,"['Anthony Sinisuka Ginting', 'Wong Wing Ki Vincent']","['[INA] ', '[HKG] ']","['21-17', '21-8']",MS,20180123,"Jakarta, Indonesia"
+79,"['Lu Ching Yao', 'Yang Po Han', 'Manu Attri', 'Reddy B. Sumeeth']","['[TPE] ', '[TPE] ', '[IND] ', '[IND] ']","['21-18', '16-21', '21-16']",MD,20180123,"Jakarta, Indonesia"
+80,"['Kantaphon Wangcharoen', 'Lin Dan [5]']","['[THA] ', '[CHN] ']","['21-15', '21-19']",MS,20180123,"Jakarta, Indonesia"
+81,"['Liao Min Chun', 'Su Ching Heng', 'Akbar Bintang Cahyono', 'Moh Reza Pahlevi Isfahani']","['[TPE] ', '[TPE] ', '[INA] ', '[INA] ']","['14-21', '21-15', '24-22']",MD,20180123,"Jakarta, Indonesia"
+82,"['Vladimir Ivanov [6]', 'Ivan Sozonov', 'Hiroyuki Endo', 'Yuta Watanabe']","['[RUS] ', '[RUS] ', '[JPN] ', '[JPN] ']","['21-16', '21-15']",MD,20180123,"Jakarta, Indonesia"
+83,"['Kamilla Rytter Juhl [3]', 'Christinna Pedersen', 'Vivian Hoo', 'Woon Khe Wei']","['[DEN] ', '[DEN] ', '[MAS] ', '[MAS] ']","['21-9', '21-16']",WD,20180123,"Jakarta, Indonesia"
+84,"['Rian Agung Saputro', 'Hendra Setiawan', 'Sze Fei Goh', 'Nur Izzuddin']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['19-21', '21-12', '21-12']",MD,20180123,"Jakarta, Indonesia"
+85,"['Fitriani Fitriani', 'Kirsty Gilmour']","['[INA] ', '[SCO] ']","['20-22', '21-15', '21-16']",WS,20180123,"Jakarta, Indonesia"
+86,"['Agatha Imanuela', 'Siti Fadia Silva Ramadhanti', 'Julie Finne-Ipsen', 'Rikke Søby']","['[INA] ', '[INA] ', '[DEN] ', '[DEN] ']","['16-21', '21-16', '21-10']",WD,20180123,"Jakarta, Indonesia"
+87,"['Suppanyu Avihingsanon', 'Emil Holst']","['[THA] ', '[DEN] ']","['21-19', '14-21', '21-12']",MS,20180123,"Jakarta, Indonesia"
+88,"['Lee Jhe-Huei [5]', 'Lee Yang', 'Wahyu Nayaka Arya Pangkaryanira', 'Ade Yusuf Santoso']","['[TPE] ', '[TPE] ', '[INA] ', '[INA] ']","['21-16', '21-17']",MD,20180123,"Jakarta, Indonesia"
+89,"['Jongkolphan Kititharakul [6]', 'Rawinda Prajongjai', 'Serena Kani', 'Virni Putri']","['[THA] ', '[THA] ', '[INA] ', '[INA] ']","['21-14', '19-21', '21-11']",WD,20180123,"Jakarta, Indonesia"
+90,"['Saina Nehwal', 'Chen Yufei [7]']","['[IND] ', '[CHN] ']","['22-24', '21-15', '21-14']",WS,20180123,"Jakarta, Indonesia"
+91,"['Chen Long [3]', 'Anders Antonsen']","['[CHN] ', '[DEN] ']","['24-22', '21-10']",MS,20180123,"Jakarta, Indonesia"
+92,"['Liu Cheng [3]', 'Zhang Nan', 'Lee Chun Hei Reginald', 'Tang Chun Man']","['[CHN] ', '[CHN] ', '[HKG] ', '[HKG] ']","['21-14', '18-21', '21-13']",MD,20180123,"Jakarta, Indonesia"
+93,"['Marcus Fernaldi Gideon [1]', 'Kevin Sanjaya Sukamuljo', 'Tinn Isriyanet', 'Kittisak Namdash']","['[INA] ', '[INA] ', '[THA] ', '[THA] ']","['21-16', '21-16']",MD,20180123,"Jakarta, Indonesia"
+94,"['Hsu Ya Ching', 'Wu Ti Jung', 'Metya Inayah Cindiani', 'Indah Cahya Sari Jamil']","['[TPE] ', '[TPE] ', '[INA] ', '[INA] ']","['21-15', '21-10']",WD,20180123,"Jakarta, Indonesia"
+95,"['Brice Leverdez', 'Huang Yuxiang']","['[FRA] ', '[CHN] ']","['17-21', '21-19', '21-9']",MS,20180123,"Jakarta, Indonesia"
+96,"['Yulfira Barkah', 'Nitya Krishinda Maheswari', 'Liu Xuanxuan', 'Zhou Chaomin']","['[INA] ', '[INA] ', '[CHN] ', '[CHN] ']","['21-16', '21-14']",WD,20180123,"Jakarta, Indonesia"
+97,"['Chang Ye Na [7]', 'Jung Kyung Eun', 'Anggia Shitta Awanda', 'Ni Ketut Mahadewi Istarani']","['[KOR] ', '[KOR] ', '[INA] ', '[INA] ']","['21-15', '21-12']",WD,20180123,"Jakarta, Indonesia"
+98,"['Goh Jin Wei', 'Gregoria Mariska Tunjung']","['[MAS] ', '[INA] ']","['21-14', '19-21', '21-12']",WS,20180123,"Jakarta, Indonesia"
+99,"['Chou Tien Chen [6]', 'Lucas Corvee']","['[TPE] ', '[FRA] ']","['12-21', '21-15', '21-15']",MS,20180123,"Jakarta, Indonesia"
+100,"['Fajar Alfian', 'Muhammad Rian Ardianto', 'Law Cheuk Him', 'Or Chin Chung']","['[INA] ', '[INA] ', '[HKG] ', '[HKG] ']","['22-20', '21-9']",MD,20180123,"Jakarta, Indonesia"
+101,"['Li Junhui [2]', 'Liu Yuchen', 'Kim Astrup', 'Anders Skaarup Rasmussen']","['[CHN] ', '[CHN] ', '[DEN] ', '[DEN] ']","['21-15', '20-22', '21-16']",MD,20180123,"Jakarta, Indonesia"
+102,"['Chiang Kai Hsin', 'Hung Shih Han', 'Dian Fitriani', 'Nadya Melati']","['[TPE] ', '[TPE] ', '[INA] ', '[INA] ']","['13-21', '21-19', '21-12']",WD,20180123,"Jakarta, Indonesia"
+103,"['Hans-Kristian Solberg Vittinghus', 'Khosit Phetpradab']","['[DEN] ', '[THA] ']","['23-21', '21-18']",MS,20180123,"Jakarta, Indonesia"
+104,"['Lu Kai', 'Zheng Siwei', 'Hendra Aprida Gunawan', 'Markis Kido']","['[CHN] ', '[CHN] ', '[INA] ', '[INA] ']","['21-11', '21-14']",MD,20180123,"Jakarta, Indonesia"
+105,"['Misaki Matsutomo [2]', 'Ayaka Takahashi', 'Huang Dongping', 'Li Wenmei']","['[JPN] ', '[JPN] ', '[CHN] ', '[CHN] ']","['21-12', '21-15']",WD,20180123,"Jakarta, Indonesia"
+106,"['Pusarla V. Sindhu [2]', 'Hanna Ramadini']","['[IND] ', '[INA] ']","['21-13', '21-10']",WS,20180123,"Jakarta, Indonesia"
+107,"['Wei Feng Chong', 'Parupalli Kashyap']","['[MAS] ', '[IND] ']","['21-18', '21-18']",MS,20180123,"Jakarta, Indonesia"
+108,"['Carolina Marin [3]', 'Line Højmark Kjaersfeldt']","['[ESP] ', '[DEN] ']","['21-10', '21-15']",WS,20180123,"Jakarta, Indonesia"
+109,"['Goh Soon Huat', 'Shevon Jemie Lai', 'Choi Solgyu', 'Chae Yoo Jung']","['[MAS] ', '[MAS] ', '[KOR] ', '[KOR] ']","['21-17', '21-15']",XD,20180123,"Jakarta, Indonesia"
+110,"['Nozomi Okuhara [6]', 'Pai Yu Po']","['[JPN] ', '[TPE] ']","['21-19', '21-18']",WS,20180123,"Jakarta, Indonesia"
+111,"['He Bingjiao [8]', 'Jang Mi Lee']","['[CHN] ', '[KOR] ']","['18-21', '21-15', '21-18']",WS,20180123,"Jakarta, Indonesia"
+112,"['Satwiksairaj Rankireddy', 'Chirag Shetty', 'Liao Min Chun', 'Su Ching Heng']","['[IND] ', '[IND] ', '[TPE] ', '[TPE] ']","['21-17', '21-16']",MD,20180123,"Jakarta, Indonesia"
+113,"['Rasmus Gemke', 'Jeon Hyeok Jin']","['[DEN] ', '[KOR] ']","['23-21', '21-15']",MS,20180123,"Jakarta, Indonesia"
+114,"['Kazumasa Sakai', 'Viktor Axelsen [1]']","['[JPN] ', '[DEN] ']","['22-20', '11-7']",MS,20180123,"Jakarta, Indonesia"
+115,"['Tang Chun Man [4]', 'Tse Ying Suet', 'Vitalij Durkin', 'Nina Vislova']","['[HKG] ', '[HKG] ', '[RUS] ', '[RUS] ']",[],XD,20180123,"Jakarta, Indonesia"
+116,"['Zhang Nan', 'Liu Xuanxuan', 'Mathias Christiansen [8]', 'Christinna Pedersen']","['[CHN] ', '[CHN] ', '[DEN] ', '[DEN] ']","['21-19', '17-21', '21-15']",XD,20180123,"Jakarta, Indonesia"
+117,"['Della Destiara Haris', 'Rizki Amelia Pradipta', 'Chen Qingchen [1]', 'Jia Yifan']","['[INA] ', '[INA] ', '[CHN] ', '[CHN] ']","['21-15', '21-11']",WD,20180123,"Jakarta, Indonesia"
+118,"['Yantoni Edy Saputra', 'Marsheilla Gischa Islami', 'Ricky Karandasuwardi', 'Debby Susanto']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-15', '10-21', '21-14']",XD,20180123,"Jakarta, Indonesia"
+119,"['Zheng Siwei [6]', 'Huang Yaqiong', 'Wang Chi-Lin', 'Lee Chia Hsin']","['[CHN] ', '[CHN] ', '[TPE] ', '[TPE] ']","['21-8', '16-21', '21-16']",XD,20180123,"Jakarta, Indonesia"
+120,"['Praveen Jordan', 'Melati Daeva Oktavianti', 'Seung Jae Seo [5]', 'Kim Ha Na']","['[INA] ', '[INA] ', '[KOR] ', '[KOR] ']","['21-15', '21-16']",XD,20180123,"Jakarta, Indonesia"
+121,"['Son Wan Ho [4]', 'Wang Tzu Wei']","['[KOR] ', '[TPE] ']","['21-17', '11-21', '21-19']",MS,20180123,"Jakarta, Indonesia"
+122,"['Lee So Hee [5]', 'Shin Seung Chan', 'Febriana Dwipuji Kusuma', 'Ribka Sugiarto']","['[KOR] ', '[KOR] ', '[INA] ', '[INA] ']","['21-12', '21-13']",WD,20180123,"Jakarta, Indonesia"
+123,"['Greysia Polii [8]', 'Apriyani Rahayu', 'Agatha Imanuela', 'Siti Fadia Silva Ramadhanti']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-11', '21-16']",WD,20180123,"Jakarta, Indonesia"
+124,"['Tan Kian Meng [7]', 'Lai Pei Jing', 'Rinov Rivaldy', 'Angelica Wiratama']","['[MAS] ', '[MAS] ', '[INA] ', '[INA] ']","['21-18', '21-12']",XD,20180123,"Jakarta, Indonesia"
+125,"['Ratchanok Intanon [4]', 'Fitriani Fitriani']","['[THA] ', '[INA] ']","['21-17', '21-16']",WS,20180123,"Jakarta, Indonesia"
+126,"['Sony Dwi Kuncoro', 'Tommy Sugiarto']","['[INA] ', '[INA] ']","['21-14', '21-10']",MS,20180123,"Jakarta, Indonesia"
+127,"['Mads Conrad-Petersen [4]', 'Mads Pieler Kolding', 'Kah Ming Chooi', 'Low Juan Shen']","['[DEN] ', '[DEN] ', '[MAS] ', '[MAS] ']","['21-11', '21-17']",MD,20180123,"Jakarta, Indonesia"
+128,"['Sung Ji Hyun [5]', 'Nitchaon Jindapol']","['[KOR] ', '[THA] ']","['21-16', '21-11']",WS,20180123,"Jakarta, Indonesia"
+129,"['Tontowi Ahmad [1]', 'Liliyana Natsir', 'Lee Yang', 'Hsu Ya Ching']","['[INA] ', '[INA] ', '[TPE] ', '[TPE] ']","['21-12', '21-10']",XD,20180123,"Jakarta, Indonesia"
+130,"['Saina Nehwal', 'Chen Xiaoxin']","['[IND] ', '[CHN] ']","['21-12', '21-18']",WS,20180123,"Jakarta, Indonesia"
+131,"['Chae Yoo Jung', 'Hye Rin Kim', 'Lin Ying Chun', 'Pai Yu Po']","['[KOR] ', '[KOR] ', '[TPE] ', '[TPE] ']","['21-13', '21-18']",WD,20180123,"Jakarta, Indonesia"
+132,"['Jongkolphan Kititharakul [6]', 'Rawinda Prajongjai', 'Maiken Fruergaard', 'Sara Thygesen']","['[THA] ', '[THA] ', '[DEN] ', '[DEN] ']","['21-19', '21-16']",WD,20180123,"Jakarta, Indonesia"
+133,"['Misaki Matsutomo [2]', 'Ayaka Takahashi', 'Chiang Kai Hsin', 'Hung Shih Han']","['[JPN] ', '[JPN] ', '[TPE] ', '[TPE] ']","['21-12', '21-12']",WD,20180123,"Jakarta, Indonesia"
+134,"['Tai Tzu Ying [1]', 'Lee Chia Hsin']","['[TPE] ', '[TPE] ']","['21-14', '21-13']",WS,20180123,"Jakarta, Indonesia"
+135,"['Chang Ye Na [7]', 'Jung Kyung Eun', 'Yulfira Barkah', 'Nitya Krishinda Maheswari']","['[KOR] ', '[KOR] ', '[INA] ', '[INA] ']","['21-11', '19-21', '21-17']",WD,20180123,"Jakarta, Indonesia"
+136,"['Liu Cheng [3]', 'Zhang Nan', 'Lu Kai', 'Zheng Siwei']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['21-14', '21-16']",MD,20180123,"Jakarta, Indonesia"
+137,"['Lu Ching Yao', 'Yang Po Han', 'Vladimir Ivanov [6]', 'Ivan Sozonov']","['[TPE] ', '[TPE] ', '[RUS] ', '[RUS] ']","['13-21', '21-19', '21-14']",MD,20180123,"Jakarta, Indonesia"
+138,"['Hans-Kristian Solberg Vittinghus', 'Wei Feng Chong']","['[DEN] ', '[MAS] ']","['21-18', '11-21', '21-11']",MS,20180123,"Jakarta, Indonesia"
+139,"['Anthony Sinisuka Ginting', 'Kantaphon Wangcharoen']","['[INA] ', '[THA] ']","['21-11', '21-14']",MS,20180123,"Jakarta, Indonesia"
+140,"['Li Junhui [2]', 'Liu Yuchen', 'Fajar Alfian', 'Muhammad Rian Ardianto']","['[CHN] ', '[CHN] ', '[INA] ', '[INA] ']","['21-15', '21-12']",MD,20180123,"Jakarta, Indonesia"
+141,"['Chen Long [3]', 'Suppanyu Avihingsanon']","['[CHN] ', '[THA] ']","['21-13', '21-8']",MS,20180123,"Jakarta, Indonesia"
+142,"['Pusarla V. Sindhu [2]', 'Goh Jin Wei']","['[IND] ', '[MAS] ']","['21-12', '21-9']",WS,20180123,"Jakarta, Indonesia"
+143,"['Marcus Fernaldi Gideon [1]', 'Kevin Sanjaya Sukamuljo', 'Rian Agung Saputro', 'Hendra Setiawan']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-16', '23-21']",MD,20180123,"Jakarta, Indonesia"
+144,"['Chen Hung Ling [7]', 'Wang Chi-Lin', 'Berry Angriawan', 'Hardianto Hardianto']","['[TPE] ', '[TPE] ', '[INA] ', '[INA] ']","['21-11', '21-18']",MD,20180123,"Jakarta, Indonesia"
+145,"['Goh V Shem', 'Tan Wee Kiong', 'Lee Jhe-Huei [5]', 'Lee Yang']","['[MAS] ', '[MAS] ', '[TPE] ', '[TPE] ']","['21-15', '16-21', '21-13']",MD,20180123,"Jakarta, Indonesia"
+146,"['Chou Tien Chen [6]', 'Brice Leverdez']","['[TPE] ', '[FRA] ']","['21-16', '21-17']",MS,20180123,"Jakarta, Indonesia"
+147,"['Kamilla Rytter Juhl [3]', 'Christinna Pedersen', 'Hsu Ya Ching', 'Wu Ti Jung']","['[DEN] ', '[DEN] ', '[TPE] ', '[TPE] ']","['21-12', '21-16']",WD,20180123,"Jakarta, Indonesia"
+148,"['Tontowi Ahmad [1]', 'Liliyana Natsir', 'Zhang Nan', 'Liu Xuanxuan']","['[INA] ', '[INA] ', '[CHN] ', '[CHN] ']","['21-18', '21-19']",XD ,20180123,"Jakarta, Indonesia"
+149,"['Greysia Polii [8]', 'Apriyani Rahayu', 'Chae Yoo Jung', 'Hye Rin Kim']","['[INA] ', '[INA] ', '[KOR] ', '[KOR] ']","['21-16', '21-15']",WD ,20180123,"Jakarta, Indonesia"
+150,"['Ratchanok Intanon [4]', 'Nozomi Okuhara [6]']","['[THA] ', '[JPN] ']","['21-17', '21-10']",WS ,20180123,"Jakarta, Indonesia"
+151,"['Anthony Sinisuka Ginting', 'Chen Long [3]']","['[INA] ', '[CHN] ']","['21-11', '16-21', '21-18']",MS ,20180123,"Jakarta, Indonesia"
+152,"['Marcus Fernaldi Gideon [1]', 'Kevin Sanjaya Sukamuljo', 'Chen Hung Ling [7]', 'Wang Chi-Lin']","['[INA] ', '[INA] ', '[TPE] ', '[TPE] ']","['20-22', '21-14', '21-14']",MD ,20180123,"Jakarta, Indonesia"
+153,"['Tai Tzu Ying [1]', 'Sung Ji Hyun [5]']","['[TPE] ', '[KOR] ']","['21-11', '21-8']",WS ,20180123,"Jakarta, Indonesia"
+154,"['Chou Tien Chen [6]', 'Hans-Kristian Solberg Vittinghus']","['[TPE] ', '[DEN] ']","['15-21', '21-16', '21-18']",MS ,20180123,"Jakarta, Indonesia"
+155,"['Satwiksairaj Rankireddy', 'Chirag Shetty', 'Mads Conrad-Petersen [4]', 'Mads Pieler Kolding']","['[IND] ', '[IND] ', '[DEN] ', '[DEN] ']","['23-21', '15-21', '21-19']",MD ,20180123,"Jakarta, Indonesia"
+156,"['Son Wan Ho [4]', 'Sony Dwi Kuncoro']","['[KOR] ', '[INA] ']","['21-14', '21-14']",MS ,20180123,"Jakarta, Indonesia"
+157,"['Misaki Matsutomo [2]', 'Ayaka Takahashi', 'Chang Ye Na [7]', 'Jung Kyung Eun']","['[JPN] ', '[JPN] ', '[KOR] ', '[KOR] ']","['21-14', '21-8']",WD ,20180123,"Jakarta, Indonesia"
+158,"['Saina Nehwal', 'Pusarla V. Sindhu [2]']","['[IND] ', '[IND] ']","['21-13', '21-19']",WS ,20180123,"Jakarta, Indonesia"
+159,"['Kazumasa Sakai', 'Rasmus Gemke']","['[JPN] ', '[DEN] ']","['21-9', '21-18']",MS ,20180123,"Jakarta, Indonesia"
+160,"['Zheng Siwei [6]', 'Huang Yaqiong', 'Tang Chun Man [4]', 'Tse Ying Suet']","['[CHN] ', '[CHN] ', '[HKG] ', '[HKG] ']","['21-14', '21-15']",XD ,20180123,"Jakarta, Indonesia"
+161,"['Liu Cheng [3]', 'Zhang Nan', 'Goh V Shem', 'Tan Wee Kiong']","['[CHN] ', '[CHN] ', '[MAS] ', '[MAS] ']","['21-18', '20-22', '21-12']",MD ,20180123,"Jakarta, Indonesia"
+162,"['Lee So Hee [5]', 'Shin Seung Chan', 'Della Destiara Haris', 'Rizki Amelia Pradipta']","['[KOR] ', '[KOR] ', '[INA] ', '[INA] ']","['21-12', '21-17']",WD ,20180123,"Jakarta, Indonesia"
+163,"['Goh Soon Huat', 'Shevon Jemie Lai', 'Tan Kian Meng [7]', 'Lai Pei Jing']","['[MAS] ', '[MAS] ', '[MAS] ', '[MAS] ']","['15-21', '21-16', '21-16']",XD ,20180123,"Jakarta, Indonesia"
+164,"['Li Junhui [2]', 'Liu Yuchen', 'Lu Ching Yao', 'Yang Po Han']","['[CHN] ', '[CHN] ', '[TPE] ', '[TPE] ']","['12-21', '21-17', '21-10']",MD ,20180123,"Jakarta, Indonesia"
+165,"['He Bingjiao [8]', 'Carolina Marin [3]']","['[CHN] ', '[ESP] ']","['21-19', '12-21', '21-16']",WS ,20180123,"Jakarta, Indonesia"
+166,"['Kamilla Rytter Juhl [3]', 'Christinna Pedersen', 'Jongkolphan Kititharakul [6]', 'Rawinda Prajongjai']","['[DEN] ', '[DEN] ', '[THA] ', '[THA] ']","['21-18', '21-10']",WD ,20180123,"Jakarta, Indonesia"
+167,"['Praveen Jordan', 'Melati Daeva Oktavianti', 'Yantoni Edy Saputra', 'Marsheilla Gischa Islami']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-11', '18-21', '21-17']",XD ,20180123,"Jakarta, Indonesia"
+168,"['Tontowi Ahmad [1]', 'Liliyana Natsir', 'Praveen Jordan', 'Melati Daeva Oktavianti']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['22-20', '21-17']",XD ,20180123,"Jakarta, Indonesia"
+169,"['Anthony Sinisuka Ginting', 'Chou Tien Chen [6]']","['[INA] ', '[TPE] ']","['21-16', '13-21', '21-12']",MS ,20180123,"Jakarta, Indonesia"
+170,"['Saina Nehwal', 'Ratchanok Intanon [4]']","['[IND] ', '[THA] ']","['21-19', '21-19']",WS ,20180123,"Jakarta, Indonesia"
+171,"['Greysia Polii [8]', 'Apriyani Rahayu', 'Lee So Hee [5]', 'Shin Seung Chan']","['[INA] ', '[INA] ', '[KOR] ', '[KOR] ']","['21-11', '17-21', '21-17']",WD ,20180123,"Jakarta, Indonesia"
+172,"['Marcus Fernaldi Gideon [1]', 'Kevin Sanjaya Sukamuljo', 'Satwiksairaj Rankireddy', 'Chirag Shetty']","['[INA] ', '[INA] ', '[IND] ', '[IND] ']","['21-14', '21-11']",MD ,20180123,"Jakarta, Indonesia"
+173,"['Tai Tzu Ying [1]', 'He Bingjiao [8]']","['[TPE] ', '[CHN] ']","['19-21', '21-15', '21-15']",WS ,20180123,"Jakarta, Indonesia"
+174,"['Zheng Siwei [6]', 'Huang Yaqiong', 'Goh Soon Huat', 'Shevon Jemie Lai']","['[CHN] ', '[CHN] ', '[MAS] ', '[MAS] ']","['21-18', '21-14']",XD ,20180123,"Jakarta, Indonesia"
+175,"['Misaki Matsutomo [2]', 'Ayaka Takahashi', 'Kamilla Rytter Juhl [3]', 'Christinna Pedersen']","['[JPN] ', '[JPN] ', '[DEN] ', '[DEN] ']","['23-25', '21-15', '21-16']",WD ,20180123,"Jakarta, Indonesia"
+176,"['Kazumasa Sakai', 'Son Wan Ho [4]']","['[JPN] ', '[KOR] ']","['21-18', '20-22', '21-15']",MS ,20180123,"Jakarta, Indonesia"
+177,"['Li Junhui [2]', 'Liu Yuchen', 'Liu Cheng [3]', 'Zhang Nan']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['26-24', '14-21', '21-12']",MD ,20180123,"Jakarta, Indonesia"
+178,"['Tai Tzu Ying [1]', 'Saina Nehwal']","['[TPE] ', '[IND] ']","['21-9', '21-13']",WS ,20180123,"Jakarta, Indonesia"
+179,"['Anthony Sinisuka Ginting', 'Kazumasa Sakai']","['[INA] ', '[JPN] ']","['21-13', '21-12']",MS ,20180123,"Jakarta, Indonesia"
+180,"['Zheng Siwei [6]', 'Huang Yaqiong', 'Tontowi Ahmad [1]', 'Liliyana Natsir']","['[CHN] ', '[CHN] ', '[INA] ', '[INA] ']","['21-14', '21-11']",XD ,20180123,"Jakarta, Indonesia"
+181,"['Misaki Matsutomo [2]', 'Ayaka Takahashi', 'Greysia Polii [8]', 'Apriyani Rahayu']","['[JPN] ', '[JPN] ', '[INA] ', '[INA] ']","['21-17', '21-12']",WD ,20180123,"Jakarta, Indonesia"
+182,"['Marcus Fernaldi Gideon [1]', 'Kevin Sanjaya Sukamuljo', 'Li Junhui [2]', 'Liu Yuchen']","['[INA] ', '[INA] ', '[CHN] ', '[CHN] ']","['11-21', '21-10', '21-16']",MD ,20180123,"Jakarta, Indonesia"

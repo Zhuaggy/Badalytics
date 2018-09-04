@@ -1,77 +1,77 @@
-,PLAYERS,COUNTRIES,SCORES,EVENT,match_week
-0,"['Vinicius Alecrim Paula', 'Francisco Brandao']","['[BRA] ', '[BRA] ']","['22-20', '21-18']",MS - Qualification,20180307
-1,"['Enrico Baroni', 'Vinicius Gori']","['[ITA] ', '[BRA] ']","['21-12', '21-17']",MS - Qualification,20180307
-2,"['Willian Guimaraes', 'Cleudson Jardel Sousa Lima']","['[BRA] ', '[BRA] ']",[],MS - Qualification,20180307
-3,"['Joao Marcos Moreira', 'Tony Wang']","['[BRA] ', '[BRA] ']","['21-11', '21-9']",MS - Qualification,20180307
-4,"['Ygor Coelho [1]', 'Vinicius Alecrim Paula']","['[BRA] ', '[BRA] ']","['21-5', '21-2']",MS,20180307
-5,"['Mateus Carrijo Cutti', 'Izak Batalha']","['[BRA] ', '[BRA] ']","['21-17', '21-19']",MS,20180307
-6,"['Gergely Krausz [6]', 'Jonathan Matias']","['[HUN] ', '[BRA] ']","['21-18', '21-12']",MS,20180307
-7,"['Fabiana Silva', 'Crystal Pan']","['[BRA] ', '[USA] ']","['21-19', '21-14']",WS,20180307
-8,"['Harshit Aggarwal', 'Milan Dratva']","['[IND] ', '[SVK] ']","['16-21', '21-11', '21-5']",MS,20180307
-9,"['Artur Silva Pomoceno', 'Antonio Li']","['[BRA] ', '[CAN] ']","['21-11', '16-21', '21-8']",MS,20180307
-10,"['Ayla Huser', 'Jaqueline Lima']","['[SUI] ', '[BRA] ']","['21-12', '21-9']",WS,20180307
-11,"['Bahaedeen Ahmad Alshannik', 'Enrico Baroni']","['[JOR] ', '[ITA] ']","['21-18', '21-3']",MS,20180307
-12,"['Kevin Cordon [3]', 'Fabricio Farias']","['[GUA] ', '[BRA] ']","['21-10', '21-10']",MS,20180307
-13,"['Timothy Chiu', 'Willian Guimaraes']","['[CAN] ', '[BRA] ']","['21-13', '21-11']",MS,20180307
-14,"['Luka Wraber [8]', 'Fabio Caponio']","['[AUT] ', '[ITA] ']","['21-10', '21-17']",MS,20180307
-15,"['Giovanni Toti', 'Kevin Barkman']","['[ITA] ', '[CAN] ']","['21-18', '22-20']",MS,20180307
-16,"['Mohd Naser Mansour Nayef', 'Waleson Vinicios Evangeli Santos']","['[JOR] ', '[BRA] ']","['21-14', '21-12']",MS,20180307
-17,"['Milan Ludik [7]', 'Christopher Alexander Martinez Salvador']","['[CZE] ', '[GUA] ']","['21-12', '21-11']",MS,20180307
-18,"['Jason Anthony Ho-Shue [4]', 'Humblers Heymard']","['[CAN] ', '[GUA] ']","['21-12', '21-12']",MS,20180307
-19,"['Alonso Medel', 'Joao Marcos Moreira']","['[CHI] ', '[BRA] ']","['21-13', '21-17']",MS,20180307
-20,"['Sergey Sirant [5]', 'Enzo Sugiura']","['[RUS] ', '[BRA] ']","['21-2', '21-6']",MS,20180307
-21,"['Rosario Maddaloni [2]', 'Matheus Voigt']","['[ITA] ', '[BRA] ']","['21-12', '21-11']",MS,20180307
-22,"['Artur Silva Pomoceno', 'Fabiana Silva', 'Phillip Chew', 'Ariel Lee']","['[BRA] ', '[BRA] ', '[USA] ', '[USA] ']","['21-18', '18-21', '21-15']",XD,20180307
-23,"['Fabricio Farias', 'Jaqueline Lima', 'Milan Dratva', 'Martina Repiska']","['[BRA] ', '[BRA] ', '[SVK] ', '[SVK] ']","['21-14', '17-21', '21-18']",XD,20180307
-24,"['Ygor Coelho [1]', 'Mateus Carrijo Cutti']","['[BRA] ', '[BRA] ']","['21-7', '21-17']",MS,20180307
-25,"['Kevin Cordon [3]', 'Timothy Chiu']","['[GUA] ', '[CAN] ']","['21-9', '21-10']",MS,20180307
-26,"['Luka Wraber [8]', 'Giovanni Toti']","['[AUT] ', '[ITA] ']","['21-9', '21-12']",MS,20180307
-27,"['Artur Silva Pomoceno', 'Rosario Maddaloni [2]']","['[BRA] ', '[ITA] ']","['21-8', '15-21', '21-18']",MS,20180307
-28,"['Gergely Krausz [6]', 'Bahaedeen Ahmad Alshannik']","['[HUN] ', '[JOR] ']","['21-14', '21-19']",MS,20180307
-29,"['Milan Ludik [7]', 'Mohd Naser Mansour Nayef']","['[CZE] ', '[JOR] ']","['21-15', '21-13']",MS,20180307
-30,"['Harshit Aggarwal', 'Jason Anthony Ho-Shue [4]']","['[IND] ', '[CAN] ']","['21-16', '17-21', '21-19']",MS,20180307
-31,"['Sergey Sirant [5]', 'Alonso Medel']","['[RUS] ', '[CHI] ']","['21-9', '21-16']",MS,20180307
-32,"['Rachel Honderich [1]', 'Tamires Santos']","['[CAN] ', '[BRA] ']","['21-8', '21-5']",WS,20180307
-33,"['Jamie Hsu', 'Lohaynny Vicente']","['[USA] ', '[BRA] ']","['19-21', '21-17', '21-19']",WS,20180307
-34,"['Martina Repiska [4]', 'Jennie Gai']","['[SVK] ', '[USA] ']","['11-21', '23-21', '22-20']",WS,20180307
-35,"['Ayla Huser', 'Gabriele Pereira']","['[SUI] ', '[BRA] ']","['21-12', '21-7']",WS,20180307
-36,"['Lianne Tan', 'Fabiana Silva']","['[BEL] ', '[BRA] ']","['22-20', '19-21', '21-13']",WS,20180307
-37,"['Vaishnavi Reddy Jakka [3]', 'Ariel Lee']","['[IND] ', '[USA] ']","['21-8', '21-2']",WS,20180307
-38,"['Jamie Subandhi', 'Yaqueline Duarte']","['[USA] ', '[MEX] ']","['21-10', '21-10']",WS,20180307
-39,"['Sabrina Jaquet [2]', 'Jeisiane Alves']","['[SUI] ', '[BRA] ']","['21-8', '21-10']",WS,20180307
-40,"['Enrico Baroni', 'Giovanni Toti', 'Francisco Brandao', 'Enzo Sugiura']","['[ITA] ', '[ITA] ', '[BRA] ', '[BRA] ']","['21-12', '21-16']",MD,20180307
-41,"['Kevin Cordon', 'Anibal Marroquin', 'Izak Batalha', 'Jonathan Matias']","['[GUA] ', '[GUA] ', '[BRA] ', '[BRA] ']","['21-15', '21-19']",MD,20180307
-42,"['Phillip Chew', 'Ryan Chew', 'Willian Guimaraes', 'Vinicius Alecrim Paula']","['[USA] ', '[USA] ', '[BRA] ', '[BRA] ']","['21-17', '21-9']",MD,20180307
-43,"['Solis Jonathan', 'Rodolfo Ramirez', 'Fabricio Farias', 'Francielton Farias']","['[GUA] ', '[GUA] ', '[BRA] ', '[BRA] ']","['21-14', '21-14']",MD,20180307
-44,"['Kona Tarun', 'Saurabh Sharma', 'Mateus Carrijo Cutti', 'Vinicius Gori']","['[IND] ', '[IND] ', '[BRA] ', '[BRA] ']","['21-8', '21-7']",MD,20180307
-45,"['Evgenij Dremin [2]', 'Denis Grachev', 'Artur Silva Pomoceno', 'Matheus Voigt']","['[RUS] ', '[RUS] ', '[BRA] ', '[BRA] ']","['21-12', '21-10']",MD,20180307
-46,"['Luka Wraber [8]', 'Kevin Cordon [3]']","['[AUT] ', '[GUA] ']","['21-18', '21-12']",MS,20180307
-47,"['Harshit Aggarwal', 'Milan Ludik [7]']","['[IND] ', '[CZE] ']","['21-14', '21-9']",MS,20180307
-48,"['Sergey Sirant [5]', 'Artur Silva Pomoceno']","['[RUS] ', '[BRA] ']","['21-12', '21-7']",MS,20180307
-49,"['Rachel Honderich [1]', 'Jamie Hsu']","['[CAN] ', '[USA] ']","['21-16', '21-17']",WS,20180307
-50,"['Solis Jonathan', 'Rodolfo Ramirez', 'Phillip Chew', 'Ryan Chew']","['[GUA] ', '[GUA] ', '[USA] ', '[USA] ']","['21-11', '20-22', '21-15']",MD,20180307
-51,"['Martina Repiska [4]', 'Ayla Huser']","['[SVK] ', '[SUI] ']","['19-21', '23-21', '21-18']",WS,20180307
-52,"['Vaishnavi Reddy Jakka [3]', 'Lianne Tan']","['[IND] ', '[BEL] ']","['17-21', '21-17', '21-19']",WS,20180307
-53,"['Sabrina Jaquet [2]', 'Jamie Subandhi']","['[SUI] ', '[USA] ']","['21-16', '17-21', '21-15']",WS,20180307
-54,"['Kona Tarun', 'Saurabh Sharma', 'Evgenij Dremin [2]', 'Denis Grachev']","['[IND] ', '[IND] ', '[RUS] ', '[RUS] ']","['21-14', '19-21', '21-15']",MD,20180307
-55,"['Ygor Coelho [1]', 'Gergely Krausz [6]']","['[BRA] ', '[HUN] ']","['21-18', '21-19']",MS,20180307
-56,"['Matheus Voigt', 'Lohaynny Vicente', 'Fabricio Farias', 'Jaqueline Lima']","['[BRA] ', '[BRA] ', '[BRA] ', '[BRA] ']","['21-12', '21-15']",XD,20180307
-57,"['Evgenij Dremin [1]', 'Evgenia Dimova', 'Francielton Farias', 'Jeisiane Alves']","['[RUS] ', '[RUS] ', '[BRA] ', '[BRA] ']","['21-13', '21-15']",XD,20180307
-58,"['Saurabh Sharma [2]', 'Anoushka Parikh', 'Vinicius Alecrim Paula', 'Tamires Santos']","['[IND] ', '[IND] ', '[BRA] ', '[BRA] ']","['21-9', '21-7']",XD,20180307
-59,"['Kevin Cordon', 'Anibal Marroquin', 'Bahaedeen Ahmad Alshannik', 'Mohd Naser Mansour Nayef']","['[GUA] ', '[GUA] ', '[JOR] ', '[JOR] ']","['21-14', '21-16']",MD,20180307
-60,"['Jason Anthony Ho-Shue [1]', 'Nyl Yakura', 'Enrico Baroni', 'Giovanni Toti']","['[CAN] ', '[CAN] ', '[ITA] ', '[ITA] ']","['21-17', '21-11']",MD,20180307
-61,"['Jennie Gai', 'Jamie Hsu', 'Jaqueline Lima', 'Gabriele Pereira']","['[USA] ', '[USA] ', '[BRA] ', '[BRA] ']","['21-7', '21-9']",WD,20180307
-62,"['Saurabh Sharma [2]', 'Anoushka Parikh', 'Matheus Voigt', 'Lohaynny Vicente']","['[IND] ', '[IND] ', '[BRA] ', '[BRA] ']","['21-15', '21-11']",XD ,20180307
-63,"['Ygor Coelho [1]', 'Luka Wraber [8]']","['[BRA] ', '[AUT] ']","['18-21', '21-9', '21-13']",MS ,20180307
-64,"['Sabrina Jaquet [2]', 'Vaishnavi Reddy Jakka [3]']","['[SUI] ', '[IND] ']","['21-17', '21-14']",WS ,20180307
-65,"['Jason Anthony Ho-Shue [1]', 'Nyl Yakura', 'Kevin Cordon', 'Anibal Marroquin']","['[CAN] ', '[CAN] ', '[GUA] ', '[GUA] ']","['21-11', '21-16']",MD ,20180307
-66,"['Kona Tarun', 'Saurabh Sharma', 'Solis Jonathan', 'Rodolfo Ramirez']","['[IND] ', '[IND] ', '[GUA] ', '[GUA] ']","['21-13', '21-15']",MD ,20180307
-67,"['Rachel Honderich [1]', 'Martina Repiska [4]']","['[CAN] ', '[SVK] ']","['21-7', '21-4']",WS ,20180307
-68,"['Evgenij Dremin [1]', 'Evgenia Dimova', 'Artur Silva Pomoceno', 'Fabiana Silva']","['[RUS] ', '[RUS] ', '[BRA] ', '[BRA] ']","['21-19', '21-17']",XD ,20180307
-69,"['Sergey Sirant [5]', 'Harshit Aggarwal']","['[RUS] ', '[IND] ']","['21-17', '23-21']",MS ,20180307
-70,"['Rachel Honderich', 'Jamie Subandhi', 'Jeisiane Alves', 'Tamires Santos']","['[CAN] ', '[USA] ', '[BRA] ', '[BRA] ']","['21-5', '21-9']",WD ,20180307
-71,"['Rachel Honderich [1]', 'Sabrina Jaquet [2]']","['[CAN] ', '[SUI] ']","['21-15', '15-21', '21-14']",WS ,20180307
-72,"['Evgenij Dremin [1]', 'Evgenia Dimova', 'Saurabh Sharma [2]', 'Anoushka Parikh']","['[RUS] ', '[RUS] ', '[IND] ', '[IND] ']","['21-17', '21-14']",XD ,20180307
-73,"['Ygor Coelho [1]', 'Sergey Sirant [5]']","['[BRA] ', '[RUS] ']","['21-18', '21-14']",MS ,20180307
-74,"['Rachel Honderich', 'Jamie Subandhi', 'Jennie Gai', 'Jamie Hsu']","['[CAN] ', '[USA] ', '[USA] ', '[USA] ']","['21-15', '21-10']",WD ,20180307
-75,"['Jason Anthony Ho-Shue [1]', 'Nyl Yakura', 'Kona Tarun', 'Saurabh Sharma']","['[CAN] ', '[CAN] ', '[IND] ', '[IND] ']",['21-7'],MD ,20180307
+,PLAYERS,COUNTRIES,SCORES,EVENT,match_week,match_location
+0,"['Vinicius Alecrim Paula', 'Francisco Brandao']","['[BRA] ', '[BRA] ']","['22-20', '21-18']",MS - Qualification,20180307,"Foz do Iguazu , Brazil"
+1,"['Enrico Baroni', 'Vinicius Gori']","['[ITA] ', '[BRA] ']","['21-12', '21-17']",MS - Qualification,20180307,"Foz do Iguazu , Brazil"
+2,"['Willian Guimaraes', 'Cleudson Jardel Sousa Lima']","['[BRA] ', '[BRA] ']",[],MS - Qualification,20180307,"Foz do Iguazu , Brazil"
+3,"['Joao Marcos Moreira', 'Tony Wang']","['[BRA] ', '[BRA] ']","['21-11', '21-9']",MS - Qualification,20180307,"Foz do Iguazu , Brazil"
+4,"['Ygor Coelho [1]', 'Vinicius Alecrim Paula']","['[BRA] ', '[BRA] ']","['21-5', '21-2']",MS,20180307,"Foz do Iguazu , Brazil"
+5,"['Mateus Carrijo Cutti', 'Izak Batalha']","['[BRA] ', '[BRA] ']","['21-17', '21-19']",MS,20180307,"Foz do Iguazu , Brazil"
+6,"['Gergely Krausz [6]', 'Jonathan Matias']","['[HUN] ', '[BRA] ']","['21-18', '21-12']",MS,20180307,"Foz do Iguazu , Brazil"
+7,"['Fabiana Silva', 'Crystal Pan']","['[BRA] ', '[USA] ']","['21-19', '21-14']",WS,20180307,"Foz do Iguazu , Brazil"
+8,"['Harshit Aggarwal', 'Milan Dratva']","['[IND] ', '[SVK] ']","['16-21', '21-11', '21-5']",MS,20180307,"Foz do Iguazu , Brazil"
+9,"['Artur Silva Pomoceno', 'Antonio Li']","['[BRA] ', '[CAN] ']","['21-11', '16-21', '21-8']",MS,20180307,"Foz do Iguazu , Brazil"
+10,"['Ayla Huser', 'Jaqueline Lima']","['[SUI] ', '[BRA] ']","['21-12', '21-9']",WS,20180307,"Foz do Iguazu , Brazil"
+11,"['Bahaedeen Ahmad Alshannik', 'Enrico Baroni']","['[JOR] ', '[ITA] ']","['21-18', '21-3']",MS,20180307,"Foz do Iguazu , Brazil"
+12,"['Kevin Cordon [3]', 'Fabricio Farias']","['[GUA] ', '[BRA] ']","['21-10', '21-10']",MS,20180307,"Foz do Iguazu , Brazil"
+13,"['Timothy Chiu', 'Willian Guimaraes']","['[CAN] ', '[BRA] ']","['21-13', '21-11']",MS,20180307,"Foz do Iguazu , Brazil"
+14,"['Luka Wraber [8]', 'Fabio Caponio']","['[AUT] ', '[ITA] ']","['21-10', '21-17']",MS,20180307,"Foz do Iguazu , Brazil"
+15,"['Giovanni Toti', 'Kevin Barkman']","['[ITA] ', '[CAN] ']","['21-18', '22-20']",MS,20180307,"Foz do Iguazu , Brazil"
+16,"['Mohd Naser Mansour Nayef', 'Waleson Vinicios Evangeli Santos']","['[JOR] ', '[BRA] ']","['21-14', '21-12']",MS,20180307,"Foz do Iguazu , Brazil"
+17,"['Milan Ludik [7]', 'Christopher Alexander Martinez Salvador']","['[CZE] ', '[GUA] ']","['21-12', '21-11']",MS,20180307,"Foz do Iguazu , Brazil"
+18,"['Jason Anthony Ho-Shue [4]', 'Humblers Heymard']","['[CAN] ', '[GUA] ']","['21-12', '21-12']",MS,20180307,"Foz do Iguazu , Brazil"
+19,"['Alonso Medel', 'Joao Marcos Moreira']","['[CHI] ', '[BRA] ']","['21-13', '21-17']",MS,20180307,"Foz do Iguazu , Brazil"
+20,"['Sergey Sirant [5]', 'Enzo Sugiura']","['[RUS] ', '[BRA] ']","['21-2', '21-6']",MS,20180307,"Foz do Iguazu , Brazil"
+21,"['Rosario Maddaloni [2]', 'Matheus Voigt']","['[ITA] ', '[BRA] ']","['21-12', '21-11']",MS,20180307,"Foz do Iguazu , Brazil"
+22,"['Artur Silva Pomoceno', 'Fabiana Silva', 'Phillip Chew', 'Ariel Lee']","['[BRA] ', '[BRA] ', '[USA] ', '[USA] ']","['21-18', '18-21', '21-15']",XD,20180307,"Foz do Iguazu , Brazil"
+23,"['Fabricio Farias', 'Jaqueline Lima', 'Milan Dratva', 'Martina Repiska']","['[BRA] ', '[BRA] ', '[SVK] ', '[SVK] ']","['21-14', '17-21', '21-18']",XD,20180307,"Foz do Iguazu , Brazil"
+24,"['Ygor Coelho [1]', 'Mateus Carrijo Cutti']","['[BRA] ', '[BRA] ']","['21-7', '21-17']",MS,20180307,"Foz do Iguazu , Brazil"
+25,"['Kevin Cordon [3]', 'Timothy Chiu']","['[GUA] ', '[CAN] ']","['21-9', '21-10']",MS,20180307,"Foz do Iguazu , Brazil"
+26,"['Luka Wraber [8]', 'Giovanni Toti']","['[AUT] ', '[ITA] ']","['21-9', '21-12']",MS,20180307,"Foz do Iguazu , Brazil"
+27,"['Artur Silva Pomoceno', 'Rosario Maddaloni [2]']","['[BRA] ', '[ITA] ']","['21-8', '15-21', '21-18']",MS,20180307,"Foz do Iguazu , Brazil"
+28,"['Gergely Krausz [6]', 'Bahaedeen Ahmad Alshannik']","['[HUN] ', '[JOR] ']","['21-14', '21-19']",MS,20180307,"Foz do Iguazu , Brazil"
+29,"['Milan Ludik [7]', 'Mohd Naser Mansour Nayef']","['[CZE] ', '[JOR] ']","['21-15', '21-13']",MS,20180307,"Foz do Iguazu , Brazil"
+30,"['Harshit Aggarwal', 'Jason Anthony Ho-Shue [4]']","['[IND] ', '[CAN] ']","['21-16', '17-21', '21-19']",MS,20180307,"Foz do Iguazu , Brazil"
+31,"['Sergey Sirant [5]', 'Alonso Medel']","['[RUS] ', '[CHI] ']","['21-9', '21-16']",MS,20180307,"Foz do Iguazu , Brazil"
+32,"['Rachel Honderich [1]', 'Tamires Santos']","['[CAN] ', '[BRA] ']","['21-8', '21-5']",WS,20180307,"Foz do Iguazu , Brazil"
+33,"['Jamie Hsu', 'Lohaynny Vicente']","['[USA] ', '[BRA] ']","['19-21', '21-17', '21-19']",WS,20180307,"Foz do Iguazu , Brazil"
+34,"['Martina Repiska [4]', 'Jennie Gai']","['[SVK] ', '[USA] ']","['11-21', '23-21', '22-20']",WS,20180307,"Foz do Iguazu , Brazil"
+35,"['Ayla Huser', 'Gabriele Pereira']","['[SUI] ', '[BRA] ']","['21-12', '21-7']",WS,20180307,"Foz do Iguazu , Brazil"
+36,"['Lianne Tan', 'Fabiana Silva']","['[BEL] ', '[BRA] ']","['22-20', '19-21', '21-13']",WS,20180307,"Foz do Iguazu , Brazil"
+37,"['Vaishnavi Reddy Jakka [3]', 'Ariel Lee']","['[IND] ', '[USA] ']","['21-8', '21-2']",WS,20180307,"Foz do Iguazu , Brazil"
+38,"['Jamie Subandhi', 'Yaqueline Duarte']","['[USA] ', '[MEX] ']","['21-10', '21-10']",WS,20180307,"Foz do Iguazu , Brazil"
+39,"['Sabrina Jaquet [2]', 'Jeisiane Alves']","['[SUI] ', '[BRA] ']","['21-8', '21-10']",WS,20180307,"Foz do Iguazu , Brazil"
+40,"['Enrico Baroni', 'Giovanni Toti', 'Francisco Brandao', 'Enzo Sugiura']","['[ITA] ', '[ITA] ', '[BRA] ', '[BRA] ']","['21-12', '21-16']",MD,20180307,"Foz do Iguazu , Brazil"
+41,"['Kevin Cordon', 'Anibal Marroquin', 'Izak Batalha', 'Jonathan Matias']","['[GUA] ', '[GUA] ', '[BRA] ', '[BRA] ']","['21-15', '21-19']",MD,20180307,"Foz do Iguazu , Brazil"
+42,"['Phillip Chew', 'Ryan Chew', 'Willian Guimaraes', 'Vinicius Alecrim Paula']","['[USA] ', '[USA] ', '[BRA] ', '[BRA] ']","['21-17', '21-9']",MD,20180307,"Foz do Iguazu , Brazil"
+43,"['Solis Jonathan', 'Rodolfo Ramirez', 'Fabricio Farias', 'Francielton Farias']","['[GUA] ', '[GUA] ', '[BRA] ', '[BRA] ']","['21-14', '21-14']",MD,20180307,"Foz do Iguazu , Brazil"
+44,"['Kona Tarun', 'Saurabh Sharma', 'Mateus Carrijo Cutti', 'Vinicius Gori']","['[IND] ', '[IND] ', '[BRA] ', '[BRA] ']","['21-8', '21-7']",MD,20180307,"Foz do Iguazu , Brazil"
+45,"['Evgenij Dremin [2]', 'Denis Grachev', 'Artur Silva Pomoceno', 'Matheus Voigt']","['[RUS] ', '[RUS] ', '[BRA] ', '[BRA] ']","['21-12', '21-10']",MD,20180307,"Foz do Iguazu , Brazil"
+46,"['Luka Wraber [8]', 'Kevin Cordon [3]']","['[AUT] ', '[GUA] ']","['21-18', '21-12']",MS,20180307,"Foz do Iguazu , Brazil"
+47,"['Harshit Aggarwal', 'Milan Ludik [7]']","['[IND] ', '[CZE] ']","['21-14', '21-9']",MS,20180307,"Foz do Iguazu , Brazil"
+48,"['Sergey Sirant [5]', 'Artur Silva Pomoceno']","['[RUS] ', '[BRA] ']","['21-12', '21-7']",MS,20180307,"Foz do Iguazu , Brazil"
+49,"['Rachel Honderich [1]', 'Jamie Hsu']","['[CAN] ', '[USA] ']","['21-16', '21-17']",WS,20180307,"Foz do Iguazu , Brazil"
+50,"['Solis Jonathan', 'Rodolfo Ramirez', 'Phillip Chew', 'Ryan Chew']","['[GUA] ', '[GUA] ', '[USA] ', '[USA] ']","['21-11', '20-22', '21-15']",MD,20180307,"Foz do Iguazu , Brazil"
+51,"['Martina Repiska [4]', 'Ayla Huser']","['[SVK] ', '[SUI] ']","['19-21', '23-21', '21-18']",WS,20180307,"Foz do Iguazu , Brazil"
+52,"['Vaishnavi Reddy Jakka [3]', 'Lianne Tan']","['[IND] ', '[BEL] ']","['17-21', '21-17', '21-19']",WS,20180307,"Foz do Iguazu , Brazil"
+53,"['Sabrina Jaquet [2]', 'Jamie Subandhi']","['[SUI] ', '[USA] ']","['21-16', '17-21', '21-15']",WS,20180307,"Foz do Iguazu , Brazil"
+54,"['Kona Tarun', 'Saurabh Sharma', 'Evgenij Dremin [2]', 'Denis Grachev']","['[IND] ', '[IND] ', '[RUS] ', '[RUS] ']","['21-14', '19-21', '21-15']",MD,20180307,"Foz do Iguazu , Brazil"
+55,"['Ygor Coelho [1]', 'Gergely Krausz [6]']","['[BRA] ', '[HUN] ']","['21-18', '21-19']",MS,20180307,"Foz do Iguazu , Brazil"
+56,"['Matheus Voigt', 'Lohaynny Vicente', 'Fabricio Farias', 'Jaqueline Lima']","['[BRA] ', '[BRA] ', '[BRA] ', '[BRA] ']","['21-12', '21-15']",XD,20180307,"Foz do Iguazu , Brazil"
+57,"['Evgenij Dremin [1]', 'Evgenia Dimova', 'Francielton Farias', 'Jeisiane Alves']","['[RUS] ', '[RUS] ', '[BRA] ', '[BRA] ']","['21-13', '21-15']",XD,20180307,"Foz do Iguazu , Brazil"
+58,"['Saurabh Sharma [2]', 'Anoushka Parikh', 'Vinicius Alecrim Paula', 'Tamires Santos']","['[IND] ', '[IND] ', '[BRA] ', '[BRA] ']","['21-9', '21-7']",XD,20180307,"Foz do Iguazu , Brazil"
+59,"['Kevin Cordon', 'Anibal Marroquin', 'Bahaedeen Ahmad Alshannik', 'Mohd Naser Mansour Nayef']","['[GUA] ', '[GUA] ', '[JOR] ', '[JOR] ']","['21-14', '21-16']",MD,20180307,"Foz do Iguazu , Brazil"
+60,"['Jason Anthony Ho-Shue [1]', 'Nyl Yakura', 'Enrico Baroni', 'Giovanni Toti']","['[CAN] ', '[CAN] ', '[ITA] ', '[ITA] ']","['21-17', '21-11']",MD,20180307,"Foz do Iguazu , Brazil"
+61,"['Jennie Gai', 'Jamie Hsu', 'Jaqueline Lima', 'Gabriele Pereira']","['[USA] ', '[USA] ', '[BRA] ', '[BRA] ']","['21-7', '21-9']",WD,20180307,"Foz do Iguazu , Brazil"
+62,"['Saurabh Sharma [2]', 'Anoushka Parikh', 'Matheus Voigt', 'Lohaynny Vicente']","['[IND] ', '[IND] ', '[BRA] ', '[BRA] ']","['21-15', '21-11']",XD ,20180307,"Foz do Iguazu , Brazil"
+63,"['Ygor Coelho [1]', 'Luka Wraber [8]']","['[BRA] ', '[AUT] ']","['18-21', '21-9', '21-13']",MS ,20180307,"Foz do Iguazu , Brazil"
+64,"['Sabrina Jaquet [2]', 'Vaishnavi Reddy Jakka [3]']","['[SUI] ', '[IND] ']","['21-17', '21-14']",WS ,20180307,"Foz do Iguazu , Brazil"
+65,"['Jason Anthony Ho-Shue [1]', 'Nyl Yakura', 'Kevin Cordon', 'Anibal Marroquin']","['[CAN] ', '[CAN] ', '[GUA] ', '[GUA] ']","['21-11', '21-16']",MD ,20180307,"Foz do Iguazu , Brazil"
+66,"['Kona Tarun', 'Saurabh Sharma', 'Solis Jonathan', 'Rodolfo Ramirez']","['[IND] ', '[IND] ', '[GUA] ', '[GUA] ']","['21-13', '21-15']",MD ,20180307,"Foz do Iguazu , Brazil"
+67,"['Rachel Honderich [1]', 'Martina Repiska [4]']","['[CAN] ', '[SVK] ']","['21-7', '21-4']",WS ,20180307,"Foz do Iguazu , Brazil"
+68,"['Evgenij Dremin [1]', 'Evgenia Dimova', 'Artur Silva Pomoceno', 'Fabiana Silva']","['[RUS] ', '[RUS] ', '[BRA] ', '[BRA] ']","['21-19', '21-17']",XD ,20180307,"Foz do Iguazu , Brazil"
+69,"['Sergey Sirant [5]', 'Harshit Aggarwal']","['[RUS] ', '[IND] ']","['21-17', '23-21']",MS ,20180307,"Foz do Iguazu , Brazil"
+70,"['Rachel Honderich', 'Jamie Subandhi', 'Jeisiane Alves', 'Tamires Santos']","['[CAN] ', '[USA] ', '[BRA] ', '[BRA] ']","['21-5', '21-9']",WD ,20180307,"Foz do Iguazu , Brazil"
+71,"['Rachel Honderich [1]', 'Sabrina Jaquet [2]']","['[CAN] ', '[SUI] ']","['21-15', '15-21', '21-14']",WS ,20180307,"Foz do Iguazu , Brazil"
+72,"['Evgenij Dremin [1]', 'Evgenia Dimova', 'Saurabh Sharma [2]', 'Anoushka Parikh']","['[RUS] ', '[RUS] ', '[IND] ', '[IND] ']","['21-17', '21-14']",XD ,20180307,"Foz do Iguazu , Brazil"
+73,"['Ygor Coelho [1]', 'Sergey Sirant [5]']","['[BRA] ', '[RUS] ']","['21-18', '21-14']",MS ,20180307,"Foz do Iguazu , Brazil"
+74,"['Rachel Honderich', 'Jamie Subandhi', 'Jennie Gai', 'Jamie Hsu']","['[CAN] ', '[USA] ', '[USA] ', '[USA] ']","['21-15', '21-10']",WD ,20180307,"Foz do Iguazu , Brazil"
+75,"['Jason Anthony Ho-Shue [1]', 'Nyl Yakura', 'Kona Tarun', 'Saurabh Sharma']","['[CAN] ', '[CAN] ', '[IND] ', '[IND] ']",['21-7'],MD ,20180307,"Foz do Iguazu , Brazil"

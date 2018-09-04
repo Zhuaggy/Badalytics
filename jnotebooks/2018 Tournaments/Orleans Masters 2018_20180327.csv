@@ -1,226 +1,226 @@
-,PLAYERS,COUNTRIES,SCORES,EVENT,match_week
-0,"['Romain Frank', 'Roman Razaki']","['[FRA] ', '[BEN] ']","['21-4', '21-15']",MS - Qualification,20180327
-1,"['Michael Spencer-Smith', 'Alexis Chollet']","['[ENG] ', '[FRA] ']","['21-17', '21-15']",MS - Qualification,20180327
-2,"['Joshua Magee [6]', 'Anant Shivam Jindal']","['[IRL] ', '[IND] ']","['21-9', '21-15']",MS - Qualification,20180327
-3,"['Valeriy Atrashchenkov', 'Bernardo Atilano [3]']","['[UKR] ', '[POR] ']","['21-13', '21-19']",MS - Qualification,20180327
-4,"['Samuel Hsiao', 'Toma Junior Popov [4]']","['[GER] ', '[FRA] ']","['21-16', '21-16']",MS - Qualification,20180327
-5,"['Aneeth Kumar Repudi', 'Shinsai Deslauriers']","['[IND] ', '[FRA] ']","['15-21', '21-18', '21-17']",MS - Qualification,20180327
-6,"['Remi Rossi', 'Hugo Jardim']","['[PYF] ', '[ENG] ']","['21-2', '21-10']",MS - Qualification,20180327
-7,"['Hardik Makkar', 'Marc Laporte']","['[IND] ', '[FRA] ']","['21-12', '21-18']",MS - Qualification,20180327
-8,"['Gurusaidutt R. M. V.', 'Jocelyn Deschamp']","['[IND] ', '[FRA] ']","['21-18', '21-16']",MS - Qualification,20180327
-9,"['Adel Hamek', 'Raymond Webster']","['[ALG] ', '[ENG] ']","['21-3', '21-5']",MS - Qualification,20180327
-10,"['Jonathan Persson [5]', 'Adrian George']","['[GER] ', '[IND] ']","['21-15', '21-16']",MS - Qualification,20180327
-11,"['Max Weisskirchen [7]', 'Pavel Kotsarenko']","['[GER] ', '[RUS] ']","['21-9', '21-10']",MS - Qualification,20180327
-12,"['Valentin Singer', 'Bilal Elharab']","['[FRA] ', '[MAR] ']","['21-16', '21-16']",MS - Qualification,20180327
-13,"['Hemanth M.Gowda', 'Alex Vlaar [8]']","['[IND] ', '[BUL] ']","['16-21', '21-19', '21-15']",MS - Qualification,20180327
-14,"['Kartik Jindal', 'Mohamed Abderrahime Belarbi']","['[IND] ', '[ALG] ']","['21-13', '21-5']",MS - Qualification,20180327
-15,"['Leo Rossi', 'Joseph Waugh']","['[FRA] ', '[ENG] ']",[],MS - Qualification,20180327
-16,"['Katia Normand', 'Maryna Ilyinskaya']","['[FRA] ', '[UKR] ']","['21-23', '21-17', '21-10']",WS - Qualification,20180327
-17,"['Devi Yunita Indah Sari', 'Anura Prabhudesai']","['[INA] ', '[IND] ']","['22-20', '21-12']",WS - Qualification,20180327
-18,"['Marie Batomene', 'Shruti Mundada']","['[FRA] ', '[IND] ']",[],WS - Qualification,20180327
-19,"['Ozge Bayrak', 'Priskila Siahaya']","['[TUR] ', '[GER] ']",[],WS - Qualification,20180327
-20,"['Peter Kaesbauer [2]', 'Olga Konon', 'Valeriy Atrashchenkov', 'Yelyzaveta Zharka']","['[GER] ', '[GER] ', '[UKR] ', '[UKR] ']","['21-14', '21-18']",XD - Qualification,20180327
-21,"['Tim Fischer', 'Daniel Hess', 'Rehan Naufal Kusharjanto', 'Pramudya Kusumawardana Riyanto']","['[GER] ', '[GER] ', '[INA] ', '[INA] ']",[],MD - Qualification,20180327
-22,"['Romain Frank', 'Florent Riancho', 'Patrick Scheiel', 'Julian Voigt']","['[FRA] ', '[FRA] ', '[GER] ', '[GER] ']",[],MD - Qualification,20180327
-23,"['Mugdha Agrey', 'Isabel Zhong']","['[IND] ', '[USA] ']","['21-17', '21-17']",WS - Qualification,20180327
-24,"['Vaidehi Choudhari', 'Porntip Buranaprasertsuk']","['[IND] ', '[THA] ']",[],WS - Qualification,20180327
-25,"['Jordan Hart', 'Georgina Bland']","['[WAL] ', '[ENG] ']","['21-19', '21-9']",WS - Qualification,20180327
-26,"['Yaelle Hoyaux', 'Viktoriia Vorobeva']","['[FRA] ', '[RUS] ']","['21-8', '21-15']",WS - Qualification,20180327
-27,"['Akbar Bintang Cahyono', 'Moh Reza Pahlevi Isfahani', 'Hari Kiran Chereddi', 'K. Ajay Kumar']","['[INA] ', '[INA] ', '[IND] ', '[IND] ']",[],MD - Qualification,20180327
-28,"['Pang Ron Hoo', 'Cheah Yee See', 'Denis Grachev', 'Ekaterina Bolotova']","['[MAS] ', '[MAS] ', '[RUS] ', '[RUS] ']","['21-17', '21-19']",XD - Qualification,20180327
-29,"['Matijs Dierickx', 'Flore Vandenhoucke', 'Gaetan Mittelheisser', 'Emilie Lefel']","['[BEL] ', '[BEL] ', '[FRA] ', '[FRA] ']","['19-21', '4-6']",XD - Qualification,20180327
-30,"['Nikolaj Persson', 'Kilasu Ostermeyer', 'Mathieu Gangloff', 'Verlaine Faulmann']","['[GER] ', '[GER] ', '[FRA] ', '[FRA] ']","['26-24', '23-21']",XD - Qualification,20180327
-31,"['Josche Zurwonne', 'Eva Janssens', 'Wee Gieen Tan', 'Yap Cheng Wen']","['[GER] ', '[GER] ', '[MAS] ', '[MAS] ']","['21-18', '9-21', '23-21']",XD - Qualification,20180327
-32,"['Pramudya Kusumawardana Riyanto [4]', 'Ribka Sugiarto', 'Milan Dratva', 'Martina Repiska']","['[INA] ', '[INA] ', '[SVK] ', '[SVK] ']","['21-16', '21-10']",XD - Qualification,20180327
-33,"['Eloi Adam', 'Vimala Heriau', 'Patrick Scheiel', 'Franziska Volkmann']","['[FRA] ', '[FRA] ', '[GER] ', '[GER] ']","['21-15', '16-21', '21-10']",XD - Qualification,20180327
-34,"['Valeriy Atrashchenkov', 'Adel Hamek']","['[UKR] ', '[ALG] ']","['14-21', '21-11', '21-16']",MS - Qualification,20180327
-35,"['Romain Frank', 'Jonathan Persson [5]']","['[FRA] ', '[GER] ']",[],MS - Qualification,20180327
-36,"['Gurusaidutt R. M. V.', 'Max Weisskirchen [7]']","['[IND] ', '[GER] ']","['21-14', '20-22', '21-14']",MS - Qualification,20180327
-37,"['Joshua Magee [6]', 'Michael Spencer-Smith']","['[IRL] ', '[ENG] ']","['21-9', '21-8']",MS - Qualification,20180327
-38,"['Richard Eidestedt [3]', 'Clara Nistad', 'Rodion Kargaev', 'Viktoriia Vorobeva']","['[SWE] ', '[SWE] ', '[RUS] ', '[RUS] ']","['22-20', '21-13']",XD - Qualification,20180327
-39,"['Hemanth M.Gowda', 'Valentin Singer']","['[IND] ', '[FRA] ']","['21-12', '21-15']",MS - Qualification,20180327
-40,"['Remi Rossi', 'Hardik Makkar']","['[PYF] ', '[IND] ']","['21-15', '21-11']",MS - Qualification,20180327
-41,"['Samuel Hsiao', 'Aneeth Kumar Repudi']","['[GER] ', '[IND] ']","['21-9', '21-17']",MS - Qualification,20180327
-42,"['Ozge Bayrak', 'Jordan Hart']","['[TUR] ', '[WAL] ']","['21-17', '21-13']",WS - Qualification,20180327
-43,"['Duarte Nuno Anjo', 'Bernardo Atilano', 'Mathieu Gangloff [1]', 'Tom Rodrigues']","['[POR] ', '[POR] ', '[FRA] ', '[FRA] ']",[],MD - Qualification,20180327
-44,"['Romain Frank', 'Florent Riancho', 'Bjarne Geiss [2]', 'Jan Colin Völker']","['[FRA] ', '[FRA] ', '[GER] ', '[GER] ']",[],MD - Qualification,20180327
-45,"['Tim Fischer', 'Daniel Hess', 'Tang Jie Chen', 'Pang Ron Hoo']","['[GER] ', '[GER] ', '[MAS] ', '[MAS] ']",[],MD - Qualification,20180327
-46,"['Kartik Jindal', 'Leo Rossi']","['[IND] ', '[FRA] ']","['13-21', '21-13', '21-13']",MS - Qualification,20180327
-47,"['Akbar Bintang Cahyono', 'Moh Reza Pahlevi Isfahani', 'Joshua Magee', 'Paul Reynolds']","['[INA] ', '[INA] ', '[IRL] ', '[IRL] ']","['21-10', '21-14']",MD - Qualification,20180327
-48,"['Mugdha Agrey', 'Katia Normand']","['[IND] ', '[FRA] ']","['15-21', '21-18', '21-13']",WS - Qualification,20180327
-49,"['Vaidehi Choudhari', 'Yaelle Hoyaux']","['[IND] ', '[FRA] ']","['21-19', '20-22', '21-18']",WS - Qualification,20180327
-50,"['Devi Yunita Indah Sari', 'Marie Batomene']","['[INA] ', '[FRA] ']","['21-17', '9-21', '21-19']",WS - Qualification,20180327
-51,"['Peter Kaesbauer [2]', 'Olga Konon', 'Eloi Adam', 'Vimala Heriau']","['[GER] ', '[GER] ', '[FRA] ', '[FRA] ']","['21-15', '21-7']",XD - Qualification,20180327
-52,"['Pramudya Kusumawardana Riyanto [4]', 'Ribka Sugiarto', 'Matijs Dierickx', 'Flore Vandenhoucke']","['[INA] ', '[INA] ', '[BEL] ', '[BEL] ']","['21-18', '19-21', '21-12']",XD - Qualification,20180327
-53,"['Josche Zurwonne', 'Eva Janssens', 'Pang Ron Hoo', 'Cheah Yee See']","['[GER] ', '[GER] ', '[MAS] ', '[MAS] ']","['22-20', '21-19']",XD - Qualification,20180327
-54,"['Richard Eidestedt [3]', 'Clara Nistad', 'Nikolaj Persson', 'Kilasu Ostermeyer']","['[SWE] ', '[SWE] ', '[GER] ', '[GER] ']","['15-21', '21-13', '21-10']",XD - Qualification,20180327
-55,"['Zvonimir Durkinjak', 'Duarte Nuno Anjo']","['[CRO] ', '[POR] ']","['21-17', '21-13']",MS,20180327
-56,"['Rahul Yadav Chittaboina', 'Luís Enrique Peñalver']","['[IND] ', '[ESP] ']","['24-22', '21-19']",MS,20180327
-57,"['Kalle Koljonen', 'Abhishek Yeligar']","['[FIN] ', '[IND] ']","['21-16', '21-10']",MS,20180327
-58,"['Henri Aarnio', 'Adam Mendrek']","['[FIN] ', '[CZE] ']","['21-10', '21-17']",MS,20180327
-59,"['Sergey Sirant', 'Valeriy Atrashchenkov']","['[RUS] ', '[UKR] ']","['21-18', '21-18']",MS,20180327
-60,"['Nhat Nguyen', 'Samuel Hsiao']","['[IRL] ', '[GER] ']","['21-13', '21-17']",MS,20180327
-61,"['Kartikey Gulshan Kumar', 'Vladimir Malkov']","['[IND] ', '[RUS] ']","['21-17', '21-18']",MS,20180327
-62,"['Sam Parsons', 'Shreyansh Jaiswal']","['[ENG] ', '[IND] ']","['21-19', '12-21', '21-10']",MS,20180327
-63,"['Eetu Heino', 'Milan Dratva']","['[FIN] ', '[SVK] ']","['21-17', '21-12']",MS,20180327
-64,"['Remi Rossi', 'Karan Rajan Rajarajan']","['[PYF] ', '[IND] ']","['21-14', '21-17']",MS,20180327
-65,"['Thomas Rouxel', 'Subhankar Dey']","['[FRA] ', '[IND] ']","['21-23', '21-19', '21-15']",MS,20180327
-66,"['Alexander Roovers', 'Jonathan Persson']","['[GER] ', '[GER] ']","['21-16', '21-17']",MS,20180327
-67,"['Kartik Jindal', 'Milan Ludik']","['[IND] ', '[CZE] ']","['21-11', '22-20']",MS,20180327
-68,"['Jan O Jorgensen', 'Lars Schaenzler']","['[DEN] ', '[GER] ']","['21-13', '21-15']",MS,20180327
-69,"['Gurusaidutt R. M. V.', 'Siril Verma']","['[IND] ', '[IND] ']","['21-17', '21-18']",MS,20180327
-70,"['Iikka Heino', 'Artem Pochtarov']","['[FIN] ', '[UKR] ']","['21-11', '21-11']",MS,20180327
-71,"['Linda Zetchiri [4]', 'Fabienne Deprez']","['[BUL] ', '[GER] ']","['18-21', '21-17', '21-19']",WS,20180327
-72,"['Niclas Nohr', 'Sara Thygesen', 'Alex Vlaar', 'Iris Tabeling']","['[DEN] ', '[DEN] ', '[BUL] ', '[NED] ']","['21-17', '21-13']",XD,20180327
-73,"['Maryna Ilyinskaya', 'Yelyzaveta Zharka', 'Eva Janssens', 'Judith Petrikowski']","['[UKR] ', '[UKR] ', '[GER] ', '[GER] ']",[],WD,20180327
-74,"['Parupalli Kashyap [5]', 'Zvonimir Durkinjak']","['[IND] ', '[CRO] ']","['21-16', '21-7']",MS,20180327
-75,"['Andika Ramadiansyah', 'Mychelle Crhystine Bandaso', 'Mark Lamsfuss [1]', 'Isabel Herttrich']","['[INA] ', '[INA] ', '[GER] ', '[GER] ']","['15-21', '21-15', '21-19']",XD,20180327
-76,"['Eetu Heino', 'Rosario Maddaloni']","['[FIN] ', '[ITA] ']","['23-21', '21-17']",MS,20180327
-77,"['Luise Heim', 'Mette Poulsen [6]']","['[GER] ', '[DEN] ']","['21-11', '21-23', '21-6']",WS,20180327
-78,"['Sabar Karyaman Gutama', 'Frengky Wijaya Putra', 'Mohamed Abderrahime Belarbi', 'Adel Hamek']","['[INA] ', '[INA] ', '[ALG] ', '[ALG] ']","['21-13', '21-9']",MD,20180327
-79,"['Mayu Nakamura', 'Miku Shigeta', 'Maria Ulitina', 'Natalya Voytsekh']","['[JPN] ', '[JPN] ', '[UKR] ', '[UKR] ']","['19-21', '21-18', '21-11']",WD,20180327
-80,"['Francis Alwin [6]', 'K. Nandagopal', 'Jeppe Bay', 'Rasmus Kjær']","['[IND] ', '[IND] ', '[DEN] ', '[DEN] ']","['23-21', '21-14']",MD,20180327
-81,"['Marvin Emil Seidel [3]', 'Linda Efler', 'Pramudya Kusumawardana Riyanto', 'Ribka Sugiarto']","['[GER] ', '[GER] ', '[INA] ', '[INA] ']","['21-19', '21-12']",XD,20180327
-82,"['Rasmus Gemke [3]', 'Henri Aarnio']","['[DEN] ', '[FIN] ']","['23-21', '21-17']",MS,20180327
-83,"['Cheah Yee See', 'Yen Wei Peck', 'Verlaine Faulmann', 'Margot Lambert']","['[MAS] ', '[MAS] ', '[FRA] ', '[FRA] ']","['21-9', '21-7']",WD,20180327
-84,"['Yvonne Li', 'Soraya De Visch Eijbergen']","['[GER] ', '[NED] ']","['21-16', '21-10']",WS,20180327
-85,"['Milosz Bochat', 'Adam Cwalina', 'Konstantin Abramov', 'Alexandr Zinchenko']","['[POL] ', '[POL] ', '[RUS] ', '[RUS] ']","['11-21', '21-18', '21-17']",MD,20180327
-86,"['Peter Kaesbauer', 'Olga Konon', 'Kristoffer Knudsen', 'Isabella Nielsen']","['[GER] ', '[GER] ', '[DEN] ', '[DEN] ']","['21-17', '21-17']",XD,20180327
-87,"['Shiori Saito', 'Beatriz Corrales [1]']","['[JPN] ', '[ESP] ']","['21-7', '21-13']",WS,20180327
-88,"['Tang Jie Chen', 'Pang Ron Hoo', 'Manu Attri [1]', 'Reddy B. Sumeeth']","['[MAS] ', '[MAS] ', '[IND] ', '[IND] ']",[],MD,20180327
-89,"['Mychelle Crhystine Bandaso', 'Winny Oktavina Kandow', 'Anastasia Chervyakova [2]', 'Olga Morozova']","['[INA] ', '[INA] ', '[RUS] ', '[RUS] ']","['21-13', '21-19']",WD,20180327
-90,"['Joshua Magee', 'Remi Rossi']","['[IRL] ', '[PYF] ']","['21-11', '21-18']",MS,20180327
-91,"['Alfian Eko Prasetya', 'Marsheilla Gischa Islami', 'Anton Kaisti', 'Jenny Nystrom']","['[INA] ', '[INA] ', '[FIN] ', '[FIN] ']","['21-18', '21-18']",XD,20180327
-92,"['Emilie Lefel', 'Anne Tran', 'Julie Dawall Jakobsen', 'Ditte Søby']","['[FRA] ', '[FRA] ', '[DEN] ', '[DEN] ']","['21-17', '21-19']",WD,20180327
-93,"['Mark Caljouw [4]', 'Iikka Heino']","['[NED] ', '[FIN] ']","['21-10', '21-12']",MS,20180327
-94,"['Ozge Bayrak', 'Sabrina Jaquet']","['[TUR] ', '[SUI] ']","['21-13', '21-16']",WS,20180327
-95,"['Sam Parsons', 'Ygor Coelho [2]']","['[ENG] ', '[BRA] ']","['21-12', '21-19']",MS,20180327
-96,"['Ying Ying Lee [5]', 'Kate Foo Kune']","['[MAS] ', '[MRI] ']","['21-5', '21-9']",WS,20180327
-97,"['Peter Kaesbauer', 'Johannes Pistorius', 'Rodion Alimov', 'Pavel Kotsarenko']","['[GER] ', '[GER] ', '[RUS] ', '[RUS] ']","['21-19', '21-19']",MD,20180327
-98,"['Rehan Naufal Kusharjanto', 'Siti Fadia Silva Ramadhanti', 'Bastian Kersaudy', 'Lea Palermo']","['[INA] ', '[INA] ', '[FRA] ', '[FRA] ']","['21-19', '12-21', '21-16']",XD,20180327
-99,"['Alexandra Bøje', 'Sara Lundgaard', 'Isabel Herttrich [3]', 'Carla Nelte']","['[DEN] ', '[DEN] ', '[GER] ', '[GER] ']",[],WD,20180327
-100,"['Richard Eidestedt', 'Clara Nistad', 'Alexandr Zinchenko', 'Olga Morozova']","['[SWE] ', '[SWE] ', '[RUS] ', '[RUS] ']","['21-19', '21-13']",XD,20180327
-101,"['Lucas Claerbout', 'Rahul Yadav Chittaboina']","['[FRA] ', '[IND] ']","['25-23', '21-13']",MS,20180327
-102,"['Akbar Bintang Cahyono', 'Moh Reza Pahlevi Isfahani', 'Kona Tarun', 'Saurabh Sharma']","['[INA] ', '[INA] ', '[IND] ', '[IND] ']","['21-15', '21-15']",MD,20180327
-103,"['Josche Zurwonne', 'Eva Janssens', 'Mathew Fogarty', 'Isabel Zhong']","['[GER] ', '[GER] ', '[USA] ', '[USA] ']","['21-10', '21-6']",XD,20180327
-104,"['Jacco Arends [4]', 'Ruben Jille', 'Matijs Dierickx', 'Freek Golinski']","['[NED] ', '[NED] ', '[BEL] ', '[BEL] ']","['21-7', '21-16']",MD,20180327
-105,"['Gregoria Mariska Tunjung [8]', 'Julie Dawall Jakobsen']","['[INA] ', '[DEN] ']","['21-14', '23-21']",WS,20180327
-106,"['Amalie Magelund', 'Freja Ravn', 'Kuhoo Garg', 'Ningshi Block Hazarika']","['[DEN] ', '[DEN] ', '[IND] ', '[IND] ']","['21-11', '21-10']",WD,20180327
-107,"['Nikita Khakimov', 'Andrey Parakhodin', 'Mathias Bonny', 'Oliver Schaller']","['[RUS] ', '[RUS] ', '[SUI] ', '[SUI] ']","['21-16', '14-21', '21-19']",MD,20180327
-108,"['Agatha Imanuela', 'Siti Fadia Silva Ramadhanti', 'Lise Jaques', 'Flore Vandenhoucke']","['[INA] ', '[INA] ', '[BEL] ', '[BEL] ']","['21-13', '21-6']",WD,20180327
-109,"['Lucas Corvee [8]', 'Kalle Koljonen']","['[FRA] ', '[FIN] ']","['18-21', '21-5', '21-16']",MS,20180327
-110,"['Selvaduray Kisona', 'Devi Yunita Indah Sari']","['[MAS] ', '[INA] ']","['21-18', '20-22', '21-13']",WS,20180327
-111,"['Ruselli Hartawan', 'Ksenia Polikarpova']","['[INA] ', '[ISR] ']","['18-21', '21-13', '21-7']",WS,20180327
-112,"['Rodion Alimov', 'Alina Davletova', 'Jelle Maas', 'Imke Van Der Aar']","['[RUS] ', '[RUS] ', '[NED] ', '[NED] ']","['21-13', '21-17']",XD,20180327
-113,"['Celine Burkart', 'Jenjira Stadelmann', 'Jenny Nystrom', 'Sonja Pekkola']","['[SUI] ', '[SUI] ', '[FIN] ', '[FIN] ']","['19-21', '21-10', '21-17']",WD,20180327
-114,"['Gurusaidutt R. M. V.', 'Kai Schaefer']","['[IND] ', '[GER] ']","['21-12', '24-22']",MS,20180327
-115,"['Neslihan Yigit [7]', 'Yin Fun Lim']","['[TUR] ', '[MAS] ']","['12-21', '21-15', '21-16']",WS,20180327
-116,"['Chun Kang Shia', 'Wee Gieen Tan', 'Jones Ralfy Jansen [2]', 'Josche Zurwonne']","['[MAS] ', '[MAS] ', '[GER] ', '[GER] ']","['22-24', '21-18', '21-18']",MD,20180327
-117,"['Nhat Nguyen', 'Romain Frank']","['[IRL] ', '[FRA] ']","['21-15', '21-13']",MS,20180327
-118,"['Akbar Bintang Cahyono', 'Winny Oktavina Kandow', 'Mikkel Mikkelsen [7]', 'Mai Surrow']","['[INA] ', '[INA] ', '[DEN] ', '[DEN] ']","['21-16', '21-19']",XD,20180327
-119,"['Soong Fie Cho', 'Tee Jing Yi', 'Julie Finne-Ipsen', 'Rikke Søby']","['[MAS] ', '[MAS] ', '[DEN] ', '[DEN] ']",[],WD,20180327
-120,"['Aliye Demirbag', 'Natalya Voytsekh']","['[TUR] ', '[UKR] ']","['21-19', '21-17']",WS,20180327
-121,"['Thomas Rouxel', 'Hemanth M.Gowda']","['[FRA] ', '[IND] ']","['21-14', '21-7']",MS,20180327
-122,"['Joachim Fischer Nielsen', 'Alexandra Bøje', 'Tang Jie Chen', 'Yen Wei Peck']","['[DEN] ', '[DEN] ', '[MAS] ', '[MAS] ']","['21-19', '21-15']",XD,20180327
-123,"['Evgenij Dremin [7]', 'Denis Grachev', 'Henri Aarnio', 'Iikka Heino']","['[RUS] ', '[RUS] ', '[FIN] ', '[FIN] ']","['24-22', '21-16']",MD,20180327
-124,"['Ronan Labar [2]', 'Audrey Fontaine', 'Rohan Kapoor', 'Kuhoo Garg']","['[FRA] ', '[FRA] ', '[IND] ', '[IND] ']","['21-11', '21-18']",XD,20180327
-125,"['Selena Piek', 'Cheryl Seinen', 'Amanda Hogstrom', 'Clara Nistad']","['[NED] ', '[NED] ', '[SWE] ', '[SWE] ']","['17-21', '21-11', '21-13']",WD,20180327
-126,"['Jelle Maas [5]', 'Robin Tabeling', 'Rehan Naufal Kusharjanto', 'Pramudya Kusumawardana Riyanto']","['[NED] ', '[NED] ', '[INA] ', '[INA] ']","['22-20', '21-14']",MD,20180327
-127,"['Mia Blichfeldt [2]', 'Gayle Mahulette']","['[DEN] ', '[NED] ']","['21-16', '21-15']",WS,20180327
-128,"['Mathieu Gangloff', 'Tom Rodrigues', 'Romain Frank', 'Florent Riancho']","['[FRA] ', '[FRA] ', '[FRA] ', '[FRA] ']","['21-10', '21-15']",MD,20180327
-129,"['Emil Holst [7]', 'Kartik Jindal']","['[DEN] ', '[IND] ']","['23-21', '24-22']",MS,20180327
-130,"['Delphine Delrue', 'Lea Palermo', 'Mai Surrow', 'Josephine Van Zaane']","['[FRA] ', '[FRA] ', '[DEN] ', '[DEN] ']",[],WD,20180327
-131,"['Sam Magee [5]', 'Chloe Magee', 'Artem Pochtarov', 'Natalya Voytsekh']","['[IRL] ', '[IRL] ', '[UKR] ', '[UKR] ']","['24-22', '21-11']",XD,20180327
-132,"['Sameer Verma [1]', 'Sergey Sirant']","['[IND] ', '[RUS] ']","['21-7', '21-9']",MS,20180327
-133,"['Natalia Perminova', 'Maria Ulitina']","['[RUS] ', '[UKR] ']","['22-20', '21-7']",WS,20180327
-134,"['Febriana Dwipuji Kusuma', 'Ribka Sugiarto', 'Linda Efler', 'Olga Konon']","['[INA] ', '[INA] ', '[GER] ', '[GER] ']","['21-19', '21-18']",WD,20180327
-135,"['Mark Lamsfuss [3]', 'Marvin Emil Seidel', 'Mathias Bay-Smidt', 'Frederik Søgaard']","['[GER] ', '[GER] ', '[DEN] ', '[DEN] ']","['16-21', '21-17', '21-18']",MD,20180327
-136,"['Jacco Arends [4]', 'Selena Piek', 'Gregory Mairs', 'Jenny Moore']","['[NED] ', '[NED] ', '[ENG] ', '[ENG] ']","['21-18', '21-13']",XD,20180327
-137,"['Alexander Roovers', 'Sahil Sipani']","['[GER] ', '[IND] ']","['21-12', '21-13']",MS,20180327
-138,"['Martina Repiska', 'Saili Rane']","['[SVK] ', '[IND] ']","['22-20', '17-21', '21-13']",WS,20180327
-139,"['Yea Ching Goh', 'Yap Cheng Wen', 'Ekaterina Bolotova', 'Alina Davletova']","['[MAS] ', '[MAS] ', '[RUS] ', '[RUS] ']","['20-22', '21-19', '21-13']",WD,20180327
-140,"['Frederik Colberg', 'Joachim Fischer Nielsen', 'Patrick Scheiel', 'Julian Voigt']","['[DEN] ', '[DEN] ', '[GER] ', '[GER] ']","['21-13', '21-14']",MD,20180327
-141,"['Evgenij Dremin [6]', 'Evgenia Dimova', 'Oliver Schaller', 'Celine Burkart']","['[RUS] ', '[RUS] ', '[SUI] ', '[SUI] ']","['21-14', '23-21']",XD,20180327
-142,"['Jan O Jorgensen', 'Pablo Abian [6]']","['[DEN] ', '[ESP] ']","['17-21', '21-12', '21-12']",MS,20180327
-143,"['Mugdha Agrey', 'Sri Krishna Priya Kudaravalli']","['[IND] ', '[IND] ']","['21-18', '21-18']",WS,20180327
-144,"['Kilasu Ostermeyer', 'Iris Tabeling', 'Maiken Fruergaard [4]', 'Sara Thygesen']","['[GER] ', '[NED] ', '[DEN] ', '[DEN] ']",[],WD,20180327
-145,"['Kasper Antonsen [8]', 'Niclas Nohr', 'Tim Fischer', 'Daniel Hess']","['[DEN] ', '[DEN] ', '[GER] ', '[GER] ']","['21-14', '23-21']",MD,20180327
-146,"['Robin Tabeling [8]', 'Cheryl Seinen', 'Saurabh Sharma', 'Anoushka Parikh']","['[NED] ', '[NED] ', '[IND] ', '[IND] ']","['21-18', '21-15']",XD,20180327
-147,"['Victor Svendsen', 'Kartikey Gulshan Kumar']","['[DEN] ', '[IND] ']","['21-17', '21-8']",MS,20180327
-148,"['Qi Xuefei', 'Vaidehi Choudhari']","['[CHN] ', '[IND] ']","['21-19', '21-9']",WS,20180327
-149,"['Thom Gicquel', 'Ronan Labar', 'Duarte Nuno Anjo', 'Bernardo Atilano']","['[FRA] ', '[FRA] ', '[POR] ', '[POR] ']","['21-5', '21-13']",MD,20180327
-150,"['Marvin Emil Seidel [3]', 'Linda Efler', 'Josche Zurwonne', 'Eva Janssens']","['[GER] ', '[GER] ', '[GER] ', '[GER] ']","['21-13', '21-19']",XD ,20180327
-151,"['Selvaduray Kisona', 'Ying Ying Lee [5]']","['[MAS] ', '[MAS] ']","['21-19', '21-13']",WS ,20180327
-152,"['Andika Ramadiansyah', 'Mychelle Crhystine Bandaso', 'Rehan Naufal Kusharjanto', 'Siti Fadia Silva Ramadhanti']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-17', '21-18']",XD ,20180327
-153,"['Alfian Eko Prasetya', 'Marsheilla Gischa Islami', 'Akbar Bintang Cahyono', 'Winny Oktavina Kandow']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['19-21', '21-15', '21-15']",XD ,20180327
-154,"['Evgenij Dremin [6]', 'Evgenia Dimova', 'Rodion Alimov', 'Alina Davletova']","['[RUS] ', '[RUS] ', '[RUS] ', '[RUS] ']","['22-24', '21-19', '21-14']",XD ,20180327
-155,"['Natalia Perminova', 'Luise Heim']","['[RUS] ', '[GER] ']","['21-13', '22-24', '21-9']",WS ,20180327
-156,"['Mayu Nakamura', 'Miku Shigeta', 'Maryna Ilyinskaya', 'Yelyzaveta Zharka']","['[JPN] ', '[JPN] ', '[UKR] ', '[UKR] ']","['21-15', '21-10']",WD ,20180327
-157,"['Neslihan Yigit [7]', 'Aliye Demirbag']","['[TUR] ', '[TUR] ']","['21-8', '21-8']",WS ,20180327
-158,"['Alexandra Bøje', 'Sara Lundgaard', 'Cheah Yee See', 'Yen Wei Peck']","['[DEN] ', '[DEN] ', '[MAS] ', '[MAS] ']","['18-21', '21-8', '21-16']",WD ,20180327
-159,"['Mark Lamsfuss [3]', 'Marvin Emil Seidel', 'Peter Kaesbauer', 'Johannes Pistorius']","['[GER] ', '[GER] ', '[GER] ', '[GER] ']","['21-18', '21-17']",MD ,20180327
-160,"['Sameer Verma [1]', 'Thomas Rouxel']","['[IND] ', '[FRA] ']","['21-16', '21-15']",MS ,20180327
-161,"['Akbar Bintang Cahyono', 'Moh Reza Pahlevi Isfahani', 'Jelle Maas [5]', 'Robin Tabeling']","['[INA] ', '[INA] ', '[NED] ', '[NED] ']","['22-20', '18-21', '21-14']",MD ,20180327
-162,"['Nikita Khakimov', 'Andrey Parakhodin', 'Evgenij Dremin [7]', 'Denis Grachev']","['[RUS] ', '[RUS] ', '[RUS] ', '[RUS] ']","['21-12', '12-21', '23-21']",MD ,20180327
-163,"['Rasmus Gemke [3]', 'Eetu Heino']","['[DEN] ', '[FIN] ']","['21-16', '21-13']",MS ,20180327
-164,"['Ronan Labar [2]', 'Audrey Fontaine', 'Joachim Fischer Nielsen', 'Alexandra Bøje']","['[FRA] ', '[FRA] ', '[DEN] ', '[DEN] ']","['16-21', '21-17', '21-19']",XD ,20180327
-165,"['Gregoria Mariska Tunjung [8]', 'Mugdha Agrey']","['[INA] ', '[IND] ']","['21-11', '21-9']",WS ,20180327
-166,"['Mark Caljouw [4]', 'Victor Svendsen']","['[NED] ', '[DEN] ']","['21-14', '21-9']",MS ,20180327
-167,"['Ruselli Hartawan', 'Martina Repiska']","['[INA] ', '[SVK] ']","['21-13', '18-21', '21-14']",WS ,20180327
-168,"['Amalie Magelund', 'Freja Ravn', 'Kilasu Ostermeyer', 'Iris Tabeling']","['[DEN] ', '[DEN] ', '[GER] ', '[NED] ']","['21-18', '16-21', '21-13']",WD ,20180327
-169,"['Sabar Karyaman Gutama', 'Frengky Wijaya Putra', 'Tang Jie Chen', 'Pang Ron Hoo']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['21-12', '21-16']",MD ,20180327
-170,"['Jan O Jorgensen', 'Gurusaidutt R. M. V.']","['[DEN] ', '[IND] ']","['22-20', '17-21', '21-17']",MS ,20180327
-171,"['Frederik Colberg', 'Joachim Fischer Nielsen', 'Jacco Arends [4]', 'Ruben Jille']","['[DEN] ', '[DEN] ', '[NED] ', '[NED] ']","['20-22', '21-18', '22-20']",MD ,20180327
-172,"['Gabriela Stoeva [1]', 'Stefani Stoeva', 'Soong Fie Cho', 'Tee Jing Yi']","['[BUL] ', '[BUL] ', '[MAS] ', '[MAS] ']","['24-22', '21-18']",WD ,20180327
-173,"['Emilie Lefel', 'Anne Tran', 'Mychelle Crhystine Bandaso', 'Winny Oktavina Kandow']","['[FRA] ', '[FRA] ', '[INA] ', '[INA] ']","['21-13', '13-21', '22-20']",WD ,20180327
-174,"['Alexander Roovers', 'Sam Parsons']","['[GER] ', '[ENG] ']","['21-17', '13-21', '21-17']",MS ,20180327
-175,"['Yea Ching Goh', 'Yap Cheng Wen', 'Febriana Dwipuji Kusuma', 'Ribka Sugiarto']","['[MAS] ', '[MAS] ', '[INA] ', '[INA] ']","['13-21', '21-14', '21-17']",WD ,20180327
-176,"['Shiori Saito', 'Yvonne Li']","['[JPN] ', '[GER] ']","['21-14', '21-9']",WS ,20180327
-177,"['Peter Kaesbauer', 'Olga Konon', 'Sam Magee [5]', 'Chloe Magee']","['[GER] ', '[GER] ', '[IRL] ', '[IRL] ']","['21-18', '21-16']",XD ,20180327
-178,"['Jacco Arends [4]', 'Selena Piek', 'Richard Eidestedt', 'Clara Nistad']","['[NED] ', '[NED] ', '[SWE] ', '[SWE] ']","['21-15', '21-16']",XD ,20180327
-179,"['Niclas Nohr', 'Sara Thygesen', 'Robin Tabeling [8]', 'Cheryl Seinen']","['[DEN] ', '[DEN] ', '[NED] ', '[NED] ']","['24-22', '21-8']",XD ,20180327
-180,"['Parupalli Kashyap [5]', 'Joshua Magee']","['[IND] ', '[IRL] ']","['21-11', '21-14']",MS ,20180327
-181,"['Mia Blichfeldt [2]', 'Ozge Bayrak']","['[DEN] ', '[TUR] ']","['21-10', '21-10']",WS ,20180327
-182,"['Francis Alwin [6]', 'K. Nandagopal', 'Milosz Bochat', 'Adam Cwalina']","['[IND] ', '[IND] ', '[POL] ', '[POL] ']","['15-21', '21-17', '21-17']",MD ,20180327
-183,"['Lucas Claerbout', 'Emil Holst [7]']","['[FRA] ', '[DEN] ']","['16-21', '21-15', '21-10']",MS ,20180327
-184,"['Qi Xuefei', 'Linda Zetchiri [4]']","['[CHN] ', '[BUL] ']","['21-18', '21-14']",WS ,20180327
-185,"['Selena Piek', 'Cheryl Seinen', 'Agatha Imanuela', 'Siti Fadia Silva Ramadhanti']","['[NED] ', '[NED] ', '[INA] ', '[INA] ']","['17-21', '21-18', '21-16']",WD ,20180327
-186,"['Kasper Antonsen [8]', 'Niclas Nohr', 'Thom Gicquel', 'Ronan Labar']","['[DEN] ', '[DEN] ', '[FRA] ', '[FRA] ']","['18-21', '21-12', '21-11']",MD ,20180327
-187,"['Chun Kang Shia', 'Wee Gieen Tan', 'Mathieu Gangloff', 'Tom Rodrigues']","['[MAS] ', '[MAS] ', '[FRA] ', '[FRA] ']","['21-17', '21-12']",MD ,20180327
-188,"['Delphine Delrue', 'Lea Palermo', 'Celine Burkart', 'Jenjira Stadelmann']","['[FRA] ', '[FRA] ', '[SUI] ', '[SUI] ']","['21-18', '21-13']",WD ,20180327
-189,"['Lucas Corvee [8]', 'Nhat Nguyen']","['[FRA] ', '[IRL] ']","['21-14', '19-21', '21-17']",MS ,20180327
-190,"['Evgenij Dremin [6]', 'Evgenia Dimova', 'Andika Ramadiansyah', 'Mychelle Crhystine Bandaso']","['[RUS] ', '[RUS] ', '[INA] ', '[INA] ']","['21-16', '21-17']",XD ,20180327
-191,"['Rasmus Gemke [3]', 'Parupalli Kashyap [5]']","['[DEN] ', '[IND] ']","['21-18', '21-14']",MS ,20180327
-192,"['Ruselli Hartawan', 'Selvaduray Kisona']","['[INA] ', '[MAS] ']","['21-10', '17-21', '21-17']",WS ,20180327
-193,"['Qi Xuefei', 'Neslihan Yigit [7]']","['[CHN] ', '[TUR] ']","['17-21', '21-16', '21-11']",WS ,20180327
-194,"['Akbar Bintang Cahyono', 'Moh Reza Pahlevi Isfahani', 'Frederik Colberg', 'Joachim Fischer Nielsen']","['[INA] ', '[INA] ', '[DEN] ', '[DEN] ']","['21-18', '10-21', '22-20']",MD ,20180327
-195,"['Chun Kang Shia', 'Wee Gieen Tan', 'Nikita Khakimov', 'Andrey Parakhodin']","['[MAS] ', '[MAS] ', '[RUS] ', '[RUS] ']","['21-14', '21-13']",MD ,20180327
-196,"['Alfian Eko Prasetya', 'Marsheilla Gischa Islami', 'Jacco Arends [4]', 'Selena Piek']","['[INA] ', '[INA] ', '[NED] ', '[NED] ']","['10-21', '21-16', '21-15']",XD ,20180327
-197,"['Mia Blichfeldt [2]', 'Natalia Perminova']","['[DEN] ', '[RUS] ']","['21-16', '21-17']",WS ,20180327
-198,"['Peter Kaesbauer', 'Olga Konon', 'Ronan Labar [2]', 'Audrey Fontaine']","['[GER] ', '[GER] ', '[FRA] ', '[FRA] ']","['21-17', '21-12']",XD ,20180327
-199,"['Sameer Verma [1]', 'Lucas Corvee [8]']","['[IND] ', '[FRA] ']","['17-21', '21-19', '21-15']",MS ,20180327
-200,"['Mark Caljouw [4]', 'Jan O Jorgensen']","['[NED] ', '[DEN] ']","['24-22', '23-21']",MS ,20180327
-201,"['Mark Lamsfuss [3]', 'Marvin Emil Seidel', 'Francis Alwin [6]', 'K. Nandagopal']","['[GER] ', '[GER] ', '[IND] ', '[IND] ']","['19-21', '21-14', '21-8']",MD ,20180327
-202,"['Emilie Lefel', 'Anne Tran', 'Mayu Nakamura', 'Miku Shigeta']","['[FRA] ', '[FRA] ', '[JPN] ', '[JPN] ']","['21-14', '21-16']",WD ,20180327
-203,"['Niclas Nohr', 'Sara Thygesen', 'Marvin Emil Seidel [3]', 'Linda Efler']","['[DEN] ', '[DEN] ', '[GER] ', '[GER] ']","['21-16', '21-12']",XD ,20180327
-204,"['Lucas Claerbout', 'Alexander Roovers']","['[FRA] ', '[GER] ']","['21-13', '19-21', '21-17']",MS ,20180327
-205,"['Delphine Delrue', 'Lea Palermo', 'Alexandra Bøje', 'Sara Lundgaard']","['[FRA] ', '[FRA] ', '[DEN] ', '[DEN] ']","['21-13', '21-18']",WD ,20180327
-206,"['Shiori Saito', 'Gregoria Mariska Tunjung [8]']","['[JPN] ', '[INA] ']","['21-14', '21-17']",WS ,20180327
-207,"['Gabriela Stoeva [1]', 'Stefani Stoeva', 'Yea Ching Goh', 'Yap Cheng Wen']","['[BUL] ', '[BUL] ', '[MAS] ', '[MAS] ']","['21-4', '21-9']",WD ,20180327
-208,"['Selena Piek', 'Cheryl Seinen', 'Amalie Magelund', 'Freja Ravn']","['[NED] ', '[NED] ', '[DEN] ', '[DEN] ']","['21-9', '21-18']",WD ,20180327
-209,"['Kasper Antonsen [8]', 'Niclas Nohr', 'Sabar Karyaman Gutama', 'Frengky Wijaya Putra']","['[DEN] ', '[DEN] ', '[INA] ', '[INA] ']","['21-23', '21-18', '23-21']",MD ,20180327
-210,"['Niclas Nohr', 'Sara Thygesen', 'Evgenij Dremin [6]', 'Evgenia Dimova']","['[DEN] ', '[DEN] ', '[RUS] ', '[RUS] ']","['20-22', '21-18', '21-17']",XD ,20180327
-211,"['Delphine Delrue', 'Lea Palermo', 'Emilie Lefel', 'Anne Tran']","['[FRA] ', '[FRA] ', '[FRA] ', '[FRA] ']","['21-17', '14-21', '21-10']",WD ,20180327
-212,"['Shiori Saito', 'Qi Xuefei']","['[JPN] ', '[CHN] ']","['21-10', '18-21', '21-14']",WS ,20180327
-213,"['Chun Kang Shia', 'Wee Gieen Tan', 'Akbar Bintang Cahyono', 'Moh Reza Pahlevi Isfahani']","['[MAS] ', '[MAS] ', '[INA] ', '[INA] ']","['21-14', '13-21', '21-16']",MD ,20180327
-214,"['Rasmus Gemke [3]', 'Lucas Claerbout']","['[DEN] ', '[FRA] ']","['15-21', '21-17', '22-20']",MS ,20180327
-215,"['Gabriela Stoeva [1]', 'Stefani Stoeva', 'Selena Piek', 'Cheryl Seinen']","['[BUL] ', '[BUL] ', '[NED] ', '[NED] ']",[],WD ,20180327
-216,"['Peter Kaesbauer', 'Olga Konon', 'Alfian Eko Prasetya', 'Marsheilla Gischa Islami']","['[GER] ', '[GER] ', '[INA] ', '[INA] ']","['21-11', '21-16']",XD ,20180327
-217,"['Mark Caljouw [4]', 'Sameer Verma [1]']","['[NED] ', '[IND] ']","['18-21', '21-13', '21-12']",MS ,20180327
-218,"['Mia Blichfeldt [2]', 'Ruselli Hartawan']","['[DEN] ', '[INA] ']","['21-17', '21-15']",WS ,20180327
-219,"['Mark Lamsfuss [3]', 'Marvin Emil Seidel', 'Kasper Antonsen [8]', 'Niclas Nohr']","['[GER] ', '[GER] ', '[DEN] ', '[DEN] ']","['21-18', '12-21', '21-19']",MD ,20180327
-220,"['Gabriela Stoeva [1]', 'Stefani Stoeva', 'Delphine Delrue', 'Lea Palermo']","['[BUL] ', '[BUL] ', '[FRA] ', '[FRA] ']","['21-8', '21-14']",WD ,20180327
-221,"['Niclas Nohr', 'Sara Thygesen', 'Peter Kaesbauer', 'Olga Konon']","['[DEN] ', '[DEN] ', '[GER] ', '[GER] ']","['21-19', '21-9']",XD ,20180327
-222,"['Shiori Saito', 'Mia Blichfeldt [2]']","['[JPN] ', '[DEN] ']","['21-18', '21-14']",WS ,20180327
-223,"['Mark Caljouw [4]', 'Rasmus Gemke [3]']","['[NED] ', '[DEN] ']","['10-21', '21-18', '21-8']",MS ,20180327
-224,"['Mark Lamsfuss [3]', 'Marvin Emil Seidel', 'Chun Kang Shia', 'Wee Gieen Tan']","['[GER] ', '[GER] ', '[MAS] ', '[MAS] ']","['21-10', '21-18']",MD ,20180327
+,PLAYERS,COUNTRIES,SCORES,EVENT,match_week,match_location
+0,"['Romain Frank', 'Roman Razaki']","['[FRA] ', '[BEN] ']","['21-4', '21-15']",MS - Qualification,20180327,"Orleans, France"
+1,"['Michael Spencer-Smith', 'Alexis Chollet']","['[ENG] ', '[FRA] ']","['21-17', '21-15']",MS - Qualification,20180327,"Orleans, France"
+2,"['Joshua Magee [6]', 'Anant Shivam Jindal']","['[IRL] ', '[IND] ']","['21-9', '21-15']",MS - Qualification,20180327,"Orleans, France"
+3,"['Valeriy Atrashchenkov', 'Bernardo Atilano [3]']","['[UKR] ', '[POR] ']","['21-13', '21-19']",MS - Qualification,20180327,"Orleans, France"
+4,"['Samuel Hsiao', 'Toma Junior Popov [4]']","['[GER] ', '[FRA] ']","['21-16', '21-16']",MS - Qualification,20180327,"Orleans, France"
+5,"['Aneeth Kumar Repudi', 'Shinsai Deslauriers']","['[IND] ', '[FRA] ']","['15-21', '21-18', '21-17']",MS - Qualification,20180327,"Orleans, France"
+6,"['Remi Rossi', 'Hugo Jardim']","['[PYF] ', '[ENG] ']","['21-2', '21-10']",MS - Qualification,20180327,"Orleans, France"
+7,"['Hardik Makkar', 'Marc Laporte']","['[IND] ', '[FRA] ']","['21-12', '21-18']",MS - Qualification,20180327,"Orleans, France"
+8,"['Gurusaidutt R. M. V.', 'Jocelyn Deschamp']","['[IND] ', '[FRA] ']","['21-18', '21-16']",MS - Qualification,20180327,"Orleans, France"
+9,"['Adel Hamek', 'Raymond Webster']","['[ALG] ', '[ENG] ']","['21-3', '21-5']",MS - Qualification,20180327,"Orleans, France"
+10,"['Jonathan Persson [5]', 'Adrian George']","['[GER] ', '[IND] ']","['21-15', '21-16']",MS - Qualification,20180327,"Orleans, France"
+11,"['Max Weisskirchen [7]', 'Pavel Kotsarenko']","['[GER] ', '[RUS] ']","['21-9', '21-10']",MS - Qualification,20180327,"Orleans, France"
+12,"['Valentin Singer', 'Bilal Elharab']","['[FRA] ', '[MAR] ']","['21-16', '21-16']",MS - Qualification,20180327,"Orleans, France"
+13,"['Hemanth M.Gowda', 'Alex Vlaar [8]']","['[IND] ', '[BUL] ']","['16-21', '21-19', '21-15']",MS - Qualification,20180327,"Orleans, France"
+14,"['Kartik Jindal', 'Mohamed Abderrahime Belarbi']","['[IND] ', '[ALG] ']","['21-13', '21-5']",MS - Qualification,20180327,"Orleans, France"
+15,"['Leo Rossi', 'Joseph Waugh']","['[FRA] ', '[ENG] ']",[],MS - Qualification,20180327,"Orleans, France"
+16,"['Katia Normand', 'Maryna Ilyinskaya']","['[FRA] ', '[UKR] ']","['21-23', '21-17', '21-10']",WS - Qualification,20180327,"Orleans, France"
+17,"['Devi Yunita Indah Sari', 'Anura Prabhudesai']","['[INA] ', '[IND] ']","['22-20', '21-12']",WS - Qualification,20180327,"Orleans, France"
+18,"['Marie Batomene', 'Shruti Mundada']","['[FRA] ', '[IND] ']",[],WS - Qualification,20180327,"Orleans, France"
+19,"['Ozge Bayrak', 'Priskila Siahaya']","['[TUR] ', '[GER] ']",[],WS - Qualification,20180327,"Orleans, France"
+20,"['Peter Kaesbauer [2]', 'Olga Konon', 'Valeriy Atrashchenkov', 'Yelyzaveta Zharka']","['[GER] ', '[GER] ', '[UKR] ', '[UKR] ']","['21-14', '21-18']",XD - Qualification,20180327,"Orleans, France"
+21,"['Tim Fischer', 'Daniel Hess', 'Rehan Naufal Kusharjanto', 'Pramudya Kusumawardana Riyanto']","['[GER] ', '[GER] ', '[INA] ', '[INA] ']",[],MD - Qualification,20180327,"Orleans, France"
+22,"['Romain Frank', 'Florent Riancho', 'Patrick Scheiel', 'Julian Voigt']","['[FRA] ', '[FRA] ', '[GER] ', '[GER] ']",[],MD - Qualification,20180327,"Orleans, France"
+23,"['Mugdha Agrey', 'Isabel Zhong']","['[IND] ', '[USA] ']","['21-17', '21-17']",WS - Qualification,20180327,"Orleans, France"
+24,"['Vaidehi Choudhari', 'Porntip Buranaprasertsuk']","['[IND] ', '[THA] ']",[],WS - Qualification,20180327,"Orleans, France"
+25,"['Jordan Hart', 'Georgina Bland']","['[WAL] ', '[ENG] ']","['21-19', '21-9']",WS - Qualification,20180327,"Orleans, France"
+26,"['Yaelle Hoyaux', 'Viktoriia Vorobeva']","['[FRA] ', '[RUS] ']","['21-8', '21-15']",WS - Qualification,20180327,"Orleans, France"
+27,"['Akbar Bintang Cahyono', 'Moh Reza Pahlevi Isfahani', 'Hari Kiran Chereddi', 'K. Ajay Kumar']","['[INA] ', '[INA] ', '[IND] ', '[IND] ']",[],MD - Qualification,20180327,"Orleans, France"
+28,"['Pang Ron Hoo', 'Cheah Yee See', 'Denis Grachev', 'Ekaterina Bolotova']","['[MAS] ', '[MAS] ', '[RUS] ', '[RUS] ']","['21-17', '21-19']",XD - Qualification,20180327,"Orleans, France"
+29,"['Matijs Dierickx', 'Flore Vandenhoucke', 'Gaetan Mittelheisser', 'Emilie Lefel']","['[BEL] ', '[BEL] ', '[FRA] ', '[FRA] ']","['19-21', '4-6']",XD - Qualification,20180327,"Orleans, France"
+30,"['Nikolaj Persson', 'Kilasu Ostermeyer', 'Mathieu Gangloff', 'Verlaine Faulmann']","['[GER] ', '[GER] ', '[FRA] ', '[FRA] ']","['26-24', '23-21']",XD - Qualification,20180327,"Orleans, France"
+31,"['Josche Zurwonne', 'Eva Janssens', 'Wee Gieen Tan', 'Yap Cheng Wen']","['[GER] ', '[GER] ', '[MAS] ', '[MAS] ']","['21-18', '9-21', '23-21']",XD - Qualification,20180327,"Orleans, France"
+32,"['Pramudya Kusumawardana Riyanto [4]', 'Ribka Sugiarto', 'Milan Dratva', 'Martina Repiska']","['[INA] ', '[INA] ', '[SVK] ', '[SVK] ']","['21-16', '21-10']",XD - Qualification,20180327,"Orleans, France"
+33,"['Eloi Adam', 'Vimala Heriau', 'Patrick Scheiel', 'Franziska Volkmann']","['[FRA] ', '[FRA] ', '[GER] ', '[GER] ']","['21-15', '16-21', '21-10']",XD - Qualification,20180327,"Orleans, France"
+34,"['Valeriy Atrashchenkov', 'Adel Hamek']","['[UKR] ', '[ALG] ']","['14-21', '21-11', '21-16']",MS - Qualification,20180327,"Orleans, France"
+35,"['Romain Frank', 'Jonathan Persson [5]']","['[FRA] ', '[GER] ']",[],MS - Qualification,20180327,"Orleans, France"
+36,"['Gurusaidutt R. M. V.', 'Max Weisskirchen [7]']","['[IND] ', '[GER] ']","['21-14', '20-22', '21-14']",MS - Qualification,20180327,"Orleans, France"
+37,"['Joshua Magee [6]', 'Michael Spencer-Smith']","['[IRL] ', '[ENG] ']","['21-9', '21-8']",MS - Qualification,20180327,"Orleans, France"
+38,"['Richard Eidestedt [3]', 'Clara Nistad', 'Rodion Kargaev', 'Viktoriia Vorobeva']","['[SWE] ', '[SWE] ', '[RUS] ', '[RUS] ']","['22-20', '21-13']",XD - Qualification,20180327,"Orleans, France"
+39,"['Hemanth M.Gowda', 'Valentin Singer']","['[IND] ', '[FRA] ']","['21-12', '21-15']",MS - Qualification,20180327,"Orleans, France"
+40,"['Remi Rossi', 'Hardik Makkar']","['[PYF] ', '[IND] ']","['21-15', '21-11']",MS - Qualification,20180327,"Orleans, France"
+41,"['Samuel Hsiao', 'Aneeth Kumar Repudi']","['[GER] ', '[IND] ']","['21-9', '21-17']",MS - Qualification,20180327,"Orleans, France"
+42,"['Ozge Bayrak', 'Jordan Hart']","['[TUR] ', '[WAL] ']","['21-17', '21-13']",WS - Qualification,20180327,"Orleans, France"
+43,"['Duarte Nuno Anjo', 'Bernardo Atilano', 'Mathieu Gangloff [1]', 'Tom Rodrigues']","['[POR] ', '[POR] ', '[FRA] ', '[FRA] ']",[],MD - Qualification,20180327,"Orleans, France"
+44,"['Romain Frank', 'Florent Riancho', 'Bjarne Geiss [2]', 'Jan Colin Völker']","['[FRA] ', '[FRA] ', '[GER] ', '[GER] ']",[],MD - Qualification,20180327,"Orleans, France"
+45,"['Tim Fischer', 'Daniel Hess', 'Tang Jie Chen', 'Pang Ron Hoo']","['[GER] ', '[GER] ', '[MAS] ', '[MAS] ']",[],MD - Qualification,20180327,"Orleans, France"
+46,"['Kartik Jindal', 'Leo Rossi']","['[IND] ', '[FRA] ']","['13-21', '21-13', '21-13']",MS - Qualification,20180327,"Orleans, France"
+47,"['Akbar Bintang Cahyono', 'Moh Reza Pahlevi Isfahani', 'Joshua Magee', 'Paul Reynolds']","['[INA] ', '[INA] ', '[IRL] ', '[IRL] ']","['21-10', '21-14']",MD - Qualification,20180327,"Orleans, France"
+48,"['Mugdha Agrey', 'Katia Normand']","['[IND] ', '[FRA] ']","['15-21', '21-18', '21-13']",WS - Qualification,20180327,"Orleans, France"
+49,"['Vaidehi Choudhari', 'Yaelle Hoyaux']","['[IND] ', '[FRA] ']","['21-19', '20-22', '21-18']",WS - Qualification,20180327,"Orleans, France"
+50,"['Devi Yunita Indah Sari', 'Marie Batomene']","['[INA] ', '[FRA] ']","['21-17', '9-21', '21-19']",WS - Qualification,20180327,"Orleans, France"
+51,"['Peter Kaesbauer [2]', 'Olga Konon', 'Eloi Adam', 'Vimala Heriau']","['[GER] ', '[GER] ', '[FRA] ', '[FRA] ']","['21-15', '21-7']",XD - Qualification,20180327,"Orleans, France"
+52,"['Pramudya Kusumawardana Riyanto [4]', 'Ribka Sugiarto', 'Matijs Dierickx', 'Flore Vandenhoucke']","['[INA] ', '[INA] ', '[BEL] ', '[BEL] ']","['21-18', '19-21', '21-12']",XD - Qualification,20180327,"Orleans, France"
+53,"['Josche Zurwonne', 'Eva Janssens', 'Pang Ron Hoo', 'Cheah Yee See']","['[GER] ', '[GER] ', '[MAS] ', '[MAS] ']","['22-20', '21-19']",XD - Qualification,20180327,"Orleans, France"
+54,"['Richard Eidestedt [3]', 'Clara Nistad', 'Nikolaj Persson', 'Kilasu Ostermeyer']","['[SWE] ', '[SWE] ', '[GER] ', '[GER] ']","['15-21', '21-13', '21-10']",XD - Qualification,20180327,"Orleans, France"
+55,"['Zvonimir Durkinjak', 'Duarte Nuno Anjo']","['[CRO] ', '[POR] ']","['21-17', '21-13']",MS,20180327,"Orleans, France"
+56,"['Rahul Yadav Chittaboina', 'Luís Enrique Peñalver']","['[IND] ', '[ESP] ']","['24-22', '21-19']",MS,20180327,"Orleans, France"
+57,"['Kalle Koljonen', 'Abhishek Yeligar']","['[FIN] ', '[IND] ']","['21-16', '21-10']",MS,20180327,"Orleans, France"
+58,"['Henri Aarnio', 'Adam Mendrek']","['[FIN] ', '[CZE] ']","['21-10', '21-17']",MS,20180327,"Orleans, France"
+59,"['Sergey Sirant', 'Valeriy Atrashchenkov']","['[RUS] ', '[UKR] ']","['21-18', '21-18']",MS,20180327,"Orleans, France"
+60,"['Nhat Nguyen', 'Samuel Hsiao']","['[IRL] ', '[GER] ']","['21-13', '21-17']",MS,20180327,"Orleans, France"
+61,"['Kartikey Gulshan Kumar', 'Vladimir Malkov']","['[IND] ', '[RUS] ']","['21-17', '21-18']",MS,20180327,"Orleans, France"
+62,"['Sam Parsons', 'Shreyansh Jaiswal']","['[ENG] ', '[IND] ']","['21-19', '12-21', '21-10']",MS,20180327,"Orleans, France"
+63,"['Eetu Heino', 'Milan Dratva']","['[FIN] ', '[SVK] ']","['21-17', '21-12']",MS,20180327,"Orleans, France"
+64,"['Remi Rossi', 'Karan Rajan Rajarajan']","['[PYF] ', '[IND] ']","['21-14', '21-17']",MS,20180327,"Orleans, France"
+65,"['Thomas Rouxel', 'Subhankar Dey']","['[FRA] ', '[IND] ']","['21-23', '21-19', '21-15']",MS,20180327,"Orleans, France"
+66,"['Alexander Roovers', 'Jonathan Persson']","['[GER] ', '[GER] ']","['21-16', '21-17']",MS,20180327,"Orleans, France"
+67,"['Kartik Jindal', 'Milan Ludik']","['[IND] ', '[CZE] ']","['21-11', '22-20']",MS,20180327,"Orleans, France"
+68,"['Jan O Jorgensen', 'Lars Schaenzler']","['[DEN] ', '[GER] ']","['21-13', '21-15']",MS,20180327,"Orleans, France"
+69,"['Gurusaidutt R. M. V.', 'Siril Verma']","['[IND] ', '[IND] ']","['21-17', '21-18']",MS,20180327,"Orleans, France"
+70,"['Iikka Heino', 'Artem Pochtarov']","['[FIN] ', '[UKR] ']","['21-11', '21-11']",MS,20180327,"Orleans, France"
+71,"['Linda Zetchiri [4]', 'Fabienne Deprez']","['[BUL] ', '[GER] ']","['18-21', '21-17', '21-19']",WS,20180327,"Orleans, France"
+72,"['Niclas Nohr', 'Sara Thygesen', 'Alex Vlaar', 'Iris Tabeling']","['[DEN] ', '[DEN] ', '[BUL] ', '[NED] ']","['21-17', '21-13']",XD,20180327,"Orleans, France"
+73,"['Maryna Ilyinskaya', 'Yelyzaveta Zharka', 'Eva Janssens', 'Judith Petrikowski']","['[UKR] ', '[UKR] ', '[GER] ', '[GER] ']",[],WD,20180327,"Orleans, France"
+74,"['Parupalli Kashyap [5]', 'Zvonimir Durkinjak']","['[IND] ', '[CRO] ']","['21-16', '21-7']",MS,20180327,"Orleans, France"
+75,"['Andika Ramadiansyah', 'Mychelle Crhystine Bandaso', 'Mark Lamsfuss [1]', 'Isabel Herttrich']","['[INA] ', '[INA] ', '[GER] ', '[GER] ']","['15-21', '21-15', '21-19']",XD,20180327,"Orleans, France"
+76,"['Eetu Heino', 'Rosario Maddaloni']","['[FIN] ', '[ITA] ']","['23-21', '21-17']",MS,20180327,"Orleans, France"
+77,"['Luise Heim', 'Mette Poulsen [6]']","['[GER] ', '[DEN] ']","['21-11', '21-23', '21-6']",WS,20180327,"Orleans, France"
+78,"['Sabar Karyaman Gutama', 'Frengky Wijaya Putra', 'Mohamed Abderrahime Belarbi', 'Adel Hamek']","['[INA] ', '[INA] ', '[ALG] ', '[ALG] ']","['21-13', '21-9']",MD,20180327,"Orleans, France"
+79,"['Mayu Nakamura', 'Miku Shigeta', 'Maria Ulitina', 'Natalya Voytsekh']","['[JPN] ', '[JPN] ', '[UKR] ', '[UKR] ']","['19-21', '21-18', '21-11']",WD,20180327,"Orleans, France"
+80,"['Francis Alwin [6]', 'K. Nandagopal', 'Jeppe Bay', 'Rasmus Kjær']","['[IND] ', '[IND] ', '[DEN] ', '[DEN] ']","['23-21', '21-14']",MD,20180327,"Orleans, France"
+81,"['Marvin Emil Seidel [3]', 'Linda Efler', 'Pramudya Kusumawardana Riyanto', 'Ribka Sugiarto']","['[GER] ', '[GER] ', '[INA] ', '[INA] ']","['21-19', '21-12']",XD,20180327,"Orleans, France"
+82,"['Rasmus Gemke [3]', 'Henri Aarnio']","['[DEN] ', '[FIN] ']","['23-21', '21-17']",MS,20180327,"Orleans, France"
+83,"['Cheah Yee See', 'Yen Wei Peck', 'Verlaine Faulmann', 'Margot Lambert']","['[MAS] ', '[MAS] ', '[FRA] ', '[FRA] ']","['21-9', '21-7']",WD,20180327,"Orleans, France"
+84,"['Yvonne Li', 'Soraya De Visch Eijbergen']","['[GER] ', '[NED] ']","['21-16', '21-10']",WS,20180327,"Orleans, France"
+85,"['Milosz Bochat', 'Adam Cwalina', 'Konstantin Abramov', 'Alexandr Zinchenko']","['[POL] ', '[POL] ', '[RUS] ', '[RUS] ']","['11-21', '21-18', '21-17']",MD,20180327,"Orleans, France"
+86,"['Peter Kaesbauer', 'Olga Konon', 'Kristoffer Knudsen', 'Isabella Nielsen']","['[GER] ', '[GER] ', '[DEN] ', '[DEN] ']","['21-17', '21-17']",XD,20180327,"Orleans, France"
+87,"['Shiori Saito', 'Beatriz Corrales [1]']","['[JPN] ', '[ESP] ']","['21-7', '21-13']",WS,20180327,"Orleans, France"
+88,"['Tang Jie Chen', 'Pang Ron Hoo', 'Manu Attri [1]', 'Reddy B. Sumeeth']","['[MAS] ', '[MAS] ', '[IND] ', '[IND] ']",[],MD,20180327,"Orleans, France"
+89,"['Mychelle Crhystine Bandaso', 'Winny Oktavina Kandow', 'Anastasia Chervyakova [2]', 'Olga Morozova']","['[INA] ', '[INA] ', '[RUS] ', '[RUS] ']","['21-13', '21-19']",WD,20180327,"Orleans, France"
+90,"['Joshua Magee', 'Remi Rossi']","['[IRL] ', '[PYF] ']","['21-11', '21-18']",MS,20180327,"Orleans, France"
+91,"['Alfian Eko Prasetya', 'Marsheilla Gischa Islami', 'Anton Kaisti', 'Jenny Nystrom']","['[INA] ', '[INA] ', '[FIN] ', '[FIN] ']","['21-18', '21-18']",XD,20180327,"Orleans, France"
+92,"['Emilie Lefel', 'Anne Tran', 'Julie Dawall Jakobsen', 'Ditte Søby']","['[FRA] ', '[FRA] ', '[DEN] ', '[DEN] ']","['21-17', '21-19']",WD,20180327,"Orleans, France"
+93,"['Mark Caljouw [4]', 'Iikka Heino']","['[NED] ', '[FIN] ']","['21-10', '21-12']",MS,20180327,"Orleans, France"
+94,"['Ozge Bayrak', 'Sabrina Jaquet']","['[TUR] ', '[SUI] ']","['21-13', '21-16']",WS,20180327,"Orleans, France"
+95,"['Sam Parsons', 'Ygor Coelho [2]']","['[ENG] ', '[BRA] ']","['21-12', '21-19']",MS,20180327,"Orleans, France"
+96,"['Ying Ying Lee [5]', 'Kate Foo Kune']","['[MAS] ', '[MRI] ']","['21-5', '21-9']",WS,20180327,"Orleans, France"
+97,"['Peter Kaesbauer', 'Johannes Pistorius', 'Rodion Alimov', 'Pavel Kotsarenko']","['[GER] ', '[GER] ', '[RUS] ', '[RUS] ']","['21-19', '21-19']",MD,20180327,"Orleans, France"
+98,"['Rehan Naufal Kusharjanto', 'Siti Fadia Silva Ramadhanti', 'Bastian Kersaudy', 'Lea Palermo']","['[INA] ', '[INA] ', '[FRA] ', '[FRA] ']","['21-19', '12-21', '21-16']",XD,20180327,"Orleans, France"
+99,"['Alexandra Bøje', 'Sara Lundgaard', 'Isabel Herttrich [3]', 'Carla Nelte']","['[DEN] ', '[DEN] ', '[GER] ', '[GER] ']",[],WD,20180327,"Orleans, France"
+100,"['Richard Eidestedt', 'Clara Nistad', 'Alexandr Zinchenko', 'Olga Morozova']","['[SWE] ', '[SWE] ', '[RUS] ', '[RUS] ']","['21-19', '21-13']",XD,20180327,"Orleans, France"
+101,"['Lucas Claerbout', 'Rahul Yadav Chittaboina']","['[FRA] ', '[IND] ']","['25-23', '21-13']",MS,20180327,"Orleans, France"
+102,"['Akbar Bintang Cahyono', 'Moh Reza Pahlevi Isfahani', 'Kona Tarun', 'Saurabh Sharma']","['[INA] ', '[INA] ', '[IND] ', '[IND] ']","['21-15', '21-15']",MD,20180327,"Orleans, France"
+103,"['Josche Zurwonne', 'Eva Janssens', 'Mathew Fogarty', 'Isabel Zhong']","['[GER] ', '[GER] ', '[USA] ', '[USA] ']","['21-10', '21-6']",XD,20180327,"Orleans, France"
+104,"['Jacco Arends [4]', 'Ruben Jille', 'Matijs Dierickx', 'Freek Golinski']","['[NED] ', '[NED] ', '[BEL] ', '[BEL] ']","['21-7', '21-16']",MD,20180327,"Orleans, France"
+105,"['Gregoria Mariska Tunjung [8]', 'Julie Dawall Jakobsen']","['[INA] ', '[DEN] ']","['21-14', '23-21']",WS,20180327,"Orleans, France"
+106,"['Amalie Magelund', 'Freja Ravn', 'Kuhoo Garg', 'Ningshi Block Hazarika']","['[DEN] ', '[DEN] ', '[IND] ', '[IND] ']","['21-11', '21-10']",WD,20180327,"Orleans, France"
+107,"['Nikita Khakimov', 'Andrey Parakhodin', 'Mathias Bonny', 'Oliver Schaller']","['[RUS] ', '[RUS] ', '[SUI] ', '[SUI] ']","['21-16', '14-21', '21-19']",MD,20180327,"Orleans, France"
+108,"['Agatha Imanuela', 'Siti Fadia Silva Ramadhanti', 'Lise Jaques', 'Flore Vandenhoucke']","['[INA] ', '[INA] ', '[BEL] ', '[BEL] ']","['21-13', '21-6']",WD,20180327,"Orleans, France"
+109,"['Lucas Corvee [8]', 'Kalle Koljonen']","['[FRA] ', '[FIN] ']","['18-21', '21-5', '21-16']",MS,20180327,"Orleans, France"
+110,"['Selvaduray Kisona', 'Devi Yunita Indah Sari']","['[MAS] ', '[INA] ']","['21-18', '20-22', '21-13']",WS,20180327,"Orleans, France"
+111,"['Ruselli Hartawan', 'Ksenia Polikarpova']","['[INA] ', '[ISR] ']","['18-21', '21-13', '21-7']",WS,20180327,"Orleans, France"
+112,"['Rodion Alimov', 'Alina Davletova', 'Jelle Maas', 'Imke Van Der Aar']","['[RUS] ', '[RUS] ', '[NED] ', '[NED] ']","['21-13', '21-17']",XD,20180327,"Orleans, France"
+113,"['Celine Burkart', 'Jenjira Stadelmann', 'Jenny Nystrom', 'Sonja Pekkola']","['[SUI] ', '[SUI] ', '[FIN] ', '[FIN] ']","['19-21', '21-10', '21-17']",WD,20180327,"Orleans, France"
+114,"['Gurusaidutt R. M. V.', 'Kai Schaefer']","['[IND] ', '[GER] ']","['21-12', '24-22']",MS,20180327,"Orleans, France"
+115,"['Neslihan Yigit [7]', 'Yin Fun Lim']","['[TUR] ', '[MAS] ']","['12-21', '21-15', '21-16']",WS,20180327,"Orleans, France"
+116,"['Chun Kang Shia', 'Wee Gieen Tan', 'Jones Ralfy Jansen [2]', 'Josche Zurwonne']","['[MAS] ', '[MAS] ', '[GER] ', '[GER] ']","['22-24', '21-18', '21-18']",MD,20180327,"Orleans, France"
+117,"['Nhat Nguyen', 'Romain Frank']","['[IRL] ', '[FRA] ']","['21-15', '21-13']",MS,20180327,"Orleans, France"
+118,"['Akbar Bintang Cahyono', 'Winny Oktavina Kandow', 'Mikkel Mikkelsen [7]', 'Mai Surrow']","['[INA] ', '[INA] ', '[DEN] ', '[DEN] ']","['21-16', '21-19']",XD,20180327,"Orleans, France"
+119,"['Soong Fie Cho', 'Tee Jing Yi', 'Julie Finne-Ipsen', 'Rikke Søby']","['[MAS] ', '[MAS] ', '[DEN] ', '[DEN] ']",[],WD,20180327,"Orleans, France"
+120,"['Aliye Demirbag', 'Natalya Voytsekh']","['[TUR] ', '[UKR] ']","['21-19', '21-17']",WS,20180327,"Orleans, France"
+121,"['Thomas Rouxel', 'Hemanth M.Gowda']","['[FRA] ', '[IND] ']","['21-14', '21-7']",MS,20180327,"Orleans, France"
+122,"['Joachim Fischer Nielsen', 'Alexandra Bøje', 'Tang Jie Chen', 'Yen Wei Peck']","['[DEN] ', '[DEN] ', '[MAS] ', '[MAS] ']","['21-19', '21-15']",XD,20180327,"Orleans, France"
+123,"['Evgenij Dremin [7]', 'Denis Grachev', 'Henri Aarnio', 'Iikka Heino']","['[RUS] ', '[RUS] ', '[FIN] ', '[FIN] ']","['24-22', '21-16']",MD,20180327,"Orleans, France"
+124,"['Ronan Labar [2]', 'Audrey Fontaine', 'Rohan Kapoor', 'Kuhoo Garg']","['[FRA] ', '[FRA] ', '[IND] ', '[IND] ']","['21-11', '21-18']",XD,20180327,"Orleans, France"
+125,"['Selena Piek', 'Cheryl Seinen', 'Amanda Hogstrom', 'Clara Nistad']","['[NED] ', '[NED] ', '[SWE] ', '[SWE] ']","['17-21', '21-11', '21-13']",WD,20180327,"Orleans, France"
+126,"['Jelle Maas [5]', 'Robin Tabeling', 'Rehan Naufal Kusharjanto', 'Pramudya Kusumawardana Riyanto']","['[NED] ', '[NED] ', '[INA] ', '[INA] ']","['22-20', '21-14']",MD,20180327,"Orleans, France"
+127,"['Mia Blichfeldt [2]', 'Gayle Mahulette']","['[DEN] ', '[NED] ']","['21-16', '21-15']",WS,20180327,"Orleans, France"
+128,"['Mathieu Gangloff', 'Tom Rodrigues', 'Romain Frank', 'Florent Riancho']","['[FRA] ', '[FRA] ', '[FRA] ', '[FRA] ']","['21-10', '21-15']",MD,20180327,"Orleans, France"
+129,"['Emil Holst [7]', 'Kartik Jindal']","['[DEN] ', '[IND] ']","['23-21', '24-22']",MS,20180327,"Orleans, France"
+130,"['Delphine Delrue', 'Lea Palermo', 'Mai Surrow', 'Josephine Van Zaane']","['[FRA] ', '[FRA] ', '[DEN] ', '[DEN] ']",[],WD,20180327,"Orleans, France"
+131,"['Sam Magee [5]', 'Chloe Magee', 'Artem Pochtarov', 'Natalya Voytsekh']","['[IRL] ', '[IRL] ', '[UKR] ', '[UKR] ']","['24-22', '21-11']",XD,20180327,"Orleans, France"
+132,"['Sameer Verma [1]', 'Sergey Sirant']","['[IND] ', '[RUS] ']","['21-7', '21-9']",MS,20180327,"Orleans, France"
+133,"['Natalia Perminova', 'Maria Ulitina']","['[RUS] ', '[UKR] ']","['22-20', '21-7']",WS,20180327,"Orleans, France"
+134,"['Febriana Dwipuji Kusuma', 'Ribka Sugiarto', 'Linda Efler', 'Olga Konon']","['[INA] ', '[INA] ', '[GER] ', '[GER] ']","['21-19', '21-18']",WD,20180327,"Orleans, France"
+135,"['Mark Lamsfuss [3]', 'Marvin Emil Seidel', 'Mathias Bay-Smidt', 'Frederik Søgaard']","['[GER] ', '[GER] ', '[DEN] ', '[DEN] ']","['16-21', '21-17', '21-18']",MD,20180327,"Orleans, France"
+136,"['Jacco Arends [4]', 'Selena Piek', 'Gregory Mairs', 'Jenny Moore']","['[NED] ', '[NED] ', '[ENG] ', '[ENG] ']","['21-18', '21-13']",XD,20180327,"Orleans, France"
+137,"['Alexander Roovers', 'Sahil Sipani']","['[GER] ', '[IND] ']","['21-12', '21-13']",MS,20180327,"Orleans, France"
+138,"['Martina Repiska', 'Saili Rane']","['[SVK] ', '[IND] ']","['22-20', '17-21', '21-13']",WS,20180327,"Orleans, France"
+139,"['Yea Ching Goh', 'Yap Cheng Wen', 'Ekaterina Bolotova', 'Alina Davletova']","['[MAS] ', '[MAS] ', '[RUS] ', '[RUS] ']","['20-22', '21-19', '21-13']",WD,20180327,"Orleans, France"
+140,"['Frederik Colberg', 'Joachim Fischer Nielsen', 'Patrick Scheiel', 'Julian Voigt']","['[DEN] ', '[DEN] ', '[GER] ', '[GER] ']","['21-13', '21-14']",MD,20180327,"Orleans, France"
+141,"['Evgenij Dremin [6]', 'Evgenia Dimova', 'Oliver Schaller', 'Celine Burkart']","['[RUS] ', '[RUS] ', '[SUI] ', '[SUI] ']","['21-14', '23-21']",XD,20180327,"Orleans, France"
+142,"['Jan O Jorgensen', 'Pablo Abian [6]']","['[DEN] ', '[ESP] ']","['17-21', '21-12', '21-12']",MS,20180327,"Orleans, France"
+143,"['Mugdha Agrey', 'Sri Krishna Priya Kudaravalli']","['[IND] ', '[IND] ']","['21-18', '21-18']",WS,20180327,"Orleans, France"
+144,"['Kilasu Ostermeyer', 'Iris Tabeling', 'Maiken Fruergaard [4]', 'Sara Thygesen']","['[GER] ', '[NED] ', '[DEN] ', '[DEN] ']",[],WD,20180327,"Orleans, France"
+145,"['Kasper Antonsen [8]', 'Niclas Nohr', 'Tim Fischer', 'Daniel Hess']","['[DEN] ', '[DEN] ', '[GER] ', '[GER] ']","['21-14', '23-21']",MD,20180327,"Orleans, France"
+146,"['Robin Tabeling [8]', 'Cheryl Seinen', 'Saurabh Sharma', 'Anoushka Parikh']","['[NED] ', '[NED] ', '[IND] ', '[IND] ']","['21-18', '21-15']",XD,20180327,"Orleans, France"
+147,"['Victor Svendsen', 'Kartikey Gulshan Kumar']","['[DEN] ', '[IND] ']","['21-17', '21-8']",MS,20180327,"Orleans, France"
+148,"['Qi Xuefei', 'Vaidehi Choudhari']","['[CHN] ', '[IND] ']","['21-19', '21-9']",WS,20180327,"Orleans, France"
+149,"['Thom Gicquel', 'Ronan Labar', 'Duarte Nuno Anjo', 'Bernardo Atilano']","['[FRA] ', '[FRA] ', '[POR] ', '[POR] ']","['21-5', '21-13']",MD,20180327,"Orleans, France"
+150,"['Marvin Emil Seidel [3]', 'Linda Efler', 'Josche Zurwonne', 'Eva Janssens']","['[GER] ', '[GER] ', '[GER] ', '[GER] ']","['21-13', '21-19']",XD ,20180327,"Orleans, France"
+151,"['Selvaduray Kisona', 'Ying Ying Lee [5]']","['[MAS] ', '[MAS] ']","['21-19', '21-13']",WS ,20180327,"Orleans, France"
+152,"['Andika Ramadiansyah', 'Mychelle Crhystine Bandaso', 'Rehan Naufal Kusharjanto', 'Siti Fadia Silva Ramadhanti']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-17', '21-18']",XD ,20180327,"Orleans, France"
+153,"['Alfian Eko Prasetya', 'Marsheilla Gischa Islami', 'Akbar Bintang Cahyono', 'Winny Oktavina Kandow']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['19-21', '21-15', '21-15']",XD ,20180327,"Orleans, France"
+154,"['Evgenij Dremin [6]', 'Evgenia Dimova', 'Rodion Alimov', 'Alina Davletova']","['[RUS] ', '[RUS] ', '[RUS] ', '[RUS] ']","['22-24', '21-19', '21-14']",XD ,20180327,"Orleans, France"
+155,"['Natalia Perminova', 'Luise Heim']","['[RUS] ', '[GER] ']","['21-13', '22-24', '21-9']",WS ,20180327,"Orleans, France"
+156,"['Mayu Nakamura', 'Miku Shigeta', 'Maryna Ilyinskaya', 'Yelyzaveta Zharka']","['[JPN] ', '[JPN] ', '[UKR] ', '[UKR] ']","['21-15', '21-10']",WD ,20180327,"Orleans, France"
+157,"['Neslihan Yigit [7]', 'Aliye Demirbag']","['[TUR] ', '[TUR] ']","['21-8', '21-8']",WS ,20180327,"Orleans, France"
+158,"['Alexandra Bøje', 'Sara Lundgaard', 'Cheah Yee See', 'Yen Wei Peck']","['[DEN] ', '[DEN] ', '[MAS] ', '[MAS] ']","['18-21', '21-8', '21-16']",WD ,20180327,"Orleans, France"
+159,"['Mark Lamsfuss [3]', 'Marvin Emil Seidel', 'Peter Kaesbauer', 'Johannes Pistorius']","['[GER] ', '[GER] ', '[GER] ', '[GER] ']","['21-18', '21-17']",MD ,20180327,"Orleans, France"
+160,"['Sameer Verma [1]', 'Thomas Rouxel']","['[IND] ', '[FRA] ']","['21-16', '21-15']",MS ,20180327,"Orleans, France"
+161,"['Akbar Bintang Cahyono', 'Moh Reza Pahlevi Isfahani', 'Jelle Maas [5]', 'Robin Tabeling']","['[INA] ', '[INA] ', '[NED] ', '[NED] ']","['22-20', '18-21', '21-14']",MD ,20180327,"Orleans, France"
+162,"['Nikita Khakimov', 'Andrey Parakhodin', 'Evgenij Dremin [7]', 'Denis Grachev']","['[RUS] ', '[RUS] ', '[RUS] ', '[RUS] ']","['21-12', '12-21', '23-21']",MD ,20180327,"Orleans, France"
+163,"['Rasmus Gemke [3]', 'Eetu Heino']","['[DEN] ', '[FIN] ']","['21-16', '21-13']",MS ,20180327,"Orleans, France"
+164,"['Ronan Labar [2]', 'Audrey Fontaine', 'Joachim Fischer Nielsen', 'Alexandra Bøje']","['[FRA] ', '[FRA] ', '[DEN] ', '[DEN] ']","['16-21', '21-17', '21-19']",XD ,20180327,"Orleans, France"
+165,"['Gregoria Mariska Tunjung [8]', 'Mugdha Agrey']","['[INA] ', '[IND] ']","['21-11', '21-9']",WS ,20180327,"Orleans, France"
+166,"['Mark Caljouw [4]', 'Victor Svendsen']","['[NED] ', '[DEN] ']","['21-14', '21-9']",MS ,20180327,"Orleans, France"
+167,"['Ruselli Hartawan', 'Martina Repiska']","['[INA] ', '[SVK] ']","['21-13', '18-21', '21-14']",WS ,20180327,"Orleans, France"
+168,"['Amalie Magelund', 'Freja Ravn', 'Kilasu Ostermeyer', 'Iris Tabeling']","['[DEN] ', '[DEN] ', '[GER] ', '[NED] ']","['21-18', '16-21', '21-13']",WD ,20180327,"Orleans, France"
+169,"['Sabar Karyaman Gutama', 'Frengky Wijaya Putra', 'Tang Jie Chen', 'Pang Ron Hoo']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['21-12', '21-16']",MD ,20180327,"Orleans, France"
+170,"['Jan O Jorgensen', 'Gurusaidutt R. M. V.']","['[DEN] ', '[IND] ']","['22-20', '17-21', '21-17']",MS ,20180327,"Orleans, France"
+171,"['Frederik Colberg', 'Joachim Fischer Nielsen', 'Jacco Arends [4]', 'Ruben Jille']","['[DEN] ', '[DEN] ', '[NED] ', '[NED] ']","['20-22', '21-18', '22-20']",MD ,20180327,"Orleans, France"
+172,"['Gabriela Stoeva [1]', 'Stefani Stoeva', 'Soong Fie Cho', 'Tee Jing Yi']","['[BUL] ', '[BUL] ', '[MAS] ', '[MAS] ']","['24-22', '21-18']",WD ,20180327,"Orleans, France"
+173,"['Emilie Lefel', 'Anne Tran', 'Mychelle Crhystine Bandaso', 'Winny Oktavina Kandow']","['[FRA] ', '[FRA] ', '[INA] ', '[INA] ']","['21-13', '13-21', '22-20']",WD ,20180327,"Orleans, France"
+174,"['Alexander Roovers', 'Sam Parsons']","['[GER] ', '[ENG] ']","['21-17', '13-21', '21-17']",MS ,20180327,"Orleans, France"
+175,"['Yea Ching Goh', 'Yap Cheng Wen', 'Febriana Dwipuji Kusuma', 'Ribka Sugiarto']","['[MAS] ', '[MAS] ', '[INA] ', '[INA] ']","['13-21', '21-14', '21-17']",WD ,20180327,"Orleans, France"
+176,"['Shiori Saito', 'Yvonne Li']","['[JPN] ', '[GER] ']","['21-14', '21-9']",WS ,20180327,"Orleans, France"
+177,"['Peter Kaesbauer', 'Olga Konon', 'Sam Magee [5]', 'Chloe Magee']","['[GER] ', '[GER] ', '[IRL] ', '[IRL] ']","['21-18', '21-16']",XD ,20180327,"Orleans, France"
+178,"['Jacco Arends [4]', 'Selena Piek', 'Richard Eidestedt', 'Clara Nistad']","['[NED] ', '[NED] ', '[SWE] ', '[SWE] ']","['21-15', '21-16']",XD ,20180327,"Orleans, France"
+179,"['Niclas Nohr', 'Sara Thygesen', 'Robin Tabeling [8]', 'Cheryl Seinen']","['[DEN] ', '[DEN] ', '[NED] ', '[NED] ']","['24-22', '21-8']",XD ,20180327,"Orleans, France"
+180,"['Parupalli Kashyap [5]', 'Joshua Magee']","['[IND] ', '[IRL] ']","['21-11', '21-14']",MS ,20180327,"Orleans, France"
+181,"['Mia Blichfeldt [2]', 'Ozge Bayrak']","['[DEN] ', '[TUR] ']","['21-10', '21-10']",WS ,20180327,"Orleans, France"
+182,"['Francis Alwin [6]', 'K. Nandagopal', 'Milosz Bochat', 'Adam Cwalina']","['[IND] ', '[IND] ', '[POL] ', '[POL] ']","['15-21', '21-17', '21-17']",MD ,20180327,"Orleans, France"
+183,"['Lucas Claerbout', 'Emil Holst [7]']","['[FRA] ', '[DEN] ']","['16-21', '21-15', '21-10']",MS ,20180327,"Orleans, France"
+184,"['Qi Xuefei', 'Linda Zetchiri [4]']","['[CHN] ', '[BUL] ']","['21-18', '21-14']",WS ,20180327,"Orleans, France"
+185,"['Selena Piek', 'Cheryl Seinen', 'Agatha Imanuela', 'Siti Fadia Silva Ramadhanti']","['[NED] ', '[NED] ', '[INA] ', '[INA] ']","['17-21', '21-18', '21-16']",WD ,20180327,"Orleans, France"
+186,"['Kasper Antonsen [8]', 'Niclas Nohr', 'Thom Gicquel', 'Ronan Labar']","['[DEN] ', '[DEN] ', '[FRA] ', '[FRA] ']","['18-21', '21-12', '21-11']",MD ,20180327,"Orleans, France"
+187,"['Chun Kang Shia', 'Wee Gieen Tan', 'Mathieu Gangloff', 'Tom Rodrigues']","['[MAS] ', '[MAS] ', '[FRA] ', '[FRA] ']","['21-17', '21-12']",MD ,20180327,"Orleans, France"
+188,"['Delphine Delrue', 'Lea Palermo', 'Celine Burkart', 'Jenjira Stadelmann']","['[FRA] ', '[FRA] ', '[SUI] ', '[SUI] ']","['21-18', '21-13']",WD ,20180327,"Orleans, France"
+189,"['Lucas Corvee [8]', 'Nhat Nguyen']","['[FRA] ', '[IRL] ']","['21-14', '19-21', '21-17']",MS ,20180327,"Orleans, France"
+190,"['Evgenij Dremin [6]', 'Evgenia Dimova', 'Andika Ramadiansyah', 'Mychelle Crhystine Bandaso']","['[RUS] ', '[RUS] ', '[INA] ', '[INA] ']","['21-16', '21-17']",XD ,20180327,"Orleans, France"
+191,"['Rasmus Gemke [3]', 'Parupalli Kashyap [5]']","['[DEN] ', '[IND] ']","['21-18', '21-14']",MS ,20180327,"Orleans, France"
+192,"['Ruselli Hartawan', 'Selvaduray Kisona']","['[INA] ', '[MAS] ']","['21-10', '17-21', '21-17']",WS ,20180327,"Orleans, France"
+193,"['Qi Xuefei', 'Neslihan Yigit [7]']","['[CHN] ', '[TUR] ']","['17-21', '21-16', '21-11']",WS ,20180327,"Orleans, France"
+194,"['Akbar Bintang Cahyono', 'Moh Reza Pahlevi Isfahani', 'Frederik Colberg', 'Joachim Fischer Nielsen']","['[INA] ', '[INA] ', '[DEN] ', '[DEN] ']","['21-18', '10-21', '22-20']",MD ,20180327,"Orleans, France"
+195,"['Chun Kang Shia', 'Wee Gieen Tan', 'Nikita Khakimov', 'Andrey Parakhodin']","['[MAS] ', '[MAS] ', '[RUS] ', '[RUS] ']","['21-14', '21-13']",MD ,20180327,"Orleans, France"
+196,"['Alfian Eko Prasetya', 'Marsheilla Gischa Islami', 'Jacco Arends [4]', 'Selena Piek']","['[INA] ', '[INA] ', '[NED] ', '[NED] ']","['10-21', '21-16', '21-15']",XD ,20180327,"Orleans, France"
+197,"['Mia Blichfeldt [2]', 'Natalia Perminova']","['[DEN] ', '[RUS] ']","['21-16', '21-17']",WS ,20180327,"Orleans, France"
+198,"['Peter Kaesbauer', 'Olga Konon', 'Ronan Labar [2]', 'Audrey Fontaine']","['[GER] ', '[GER] ', '[FRA] ', '[FRA] ']","['21-17', '21-12']",XD ,20180327,"Orleans, France"
+199,"['Sameer Verma [1]', 'Lucas Corvee [8]']","['[IND] ', '[FRA] ']","['17-21', '21-19', '21-15']",MS ,20180327,"Orleans, France"
+200,"['Mark Caljouw [4]', 'Jan O Jorgensen']","['[NED] ', '[DEN] ']","['24-22', '23-21']",MS ,20180327,"Orleans, France"
+201,"['Mark Lamsfuss [3]', 'Marvin Emil Seidel', 'Francis Alwin [6]', 'K. Nandagopal']","['[GER] ', '[GER] ', '[IND] ', '[IND] ']","['19-21', '21-14', '21-8']",MD ,20180327,"Orleans, France"
+202,"['Emilie Lefel', 'Anne Tran', 'Mayu Nakamura', 'Miku Shigeta']","['[FRA] ', '[FRA] ', '[JPN] ', '[JPN] ']","['21-14', '21-16']",WD ,20180327,"Orleans, France"
+203,"['Niclas Nohr', 'Sara Thygesen', 'Marvin Emil Seidel [3]', 'Linda Efler']","['[DEN] ', '[DEN] ', '[GER] ', '[GER] ']","['21-16', '21-12']",XD ,20180327,"Orleans, France"
+204,"['Lucas Claerbout', 'Alexander Roovers']","['[FRA] ', '[GER] ']","['21-13', '19-21', '21-17']",MS ,20180327,"Orleans, France"
+205,"['Delphine Delrue', 'Lea Palermo', 'Alexandra Bøje', 'Sara Lundgaard']","['[FRA] ', '[FRA] ', '[DEN] ', '[DEN] ']","['21-13', '21-18']",WD ,20180327,"Orleans, France"
+206,"['Shiori Saito', 'Gregoria Mariska Tunjung [8]']","['[JPN] ', '[INA] ']","['21-14', '21-17']",WS ,20180327,"Orleans, France"
+207,"['Gabriela Stoeva [1]', 'Stefani Stoeva', 'Yea Ching Goh', 'Yap Cheng Wen']","['[BUL] ', '[BUL] ', '[MAS] ', '[MAS] ']","['21-4', '21-9']",WD ,20180327,"Orleans, France"
+208,"['Selena Piek', 'Cheryl Seinen', 'Amalie Magelund', 'Freja Ravn']","['[NED] ', '[NED] ', '[DEN] ', '[DEN] ']","['21-9', '21-18']",WD ,20180327,"Orleans, France"
+209,"['Kasper Antonsen [8]', 'Niclas Nohr', 'Sabar Karyaman Gutama', 'Frengky Wijaya Putra']","['[DEN] ', '[DEN] ', '[INA] ', '[INA] ']","['21-23', '21-18', '23-21']",MD ,20180327,"Orleans, France"
+210,"['Niclas Nohr', 'Sara Thygesen', 'Evgenij Dremin [6]', 'Evgenia Dimova']","['[DEN] ', '[DEN] ', '[RUS] ', '[RUS] ']","['20-22', '21-18', '21-17']",XD ,20180327,"Orleans, France"
+211,"['Delphine Delrue', 'Lea Palermo', 'Emilie Lefel', 'Anne Tran']","['[FRA] ', '[FRA] ', '[FRA] ', '[FRA] ']","['21-17', '14-21', '21-10']",WD ,20180327,"Orleans, France"
+212,"['Shiori Saito', 'Qi Xuefei']","['[JPN] ', '[CHN] ']","['21-10', '18-21', '21-14']",WS ,20180327,"Orleans, France"
+213,"['Chun Kang Shia', 'Wee Gieen Tan', 'Akbar Bintang Cahyono', 'Moh Reza Pahlevi Isfahani']","['[MAS] ', '[MAS] ', '[INA] ', '[INA] ']","['21-14', '13-21', '21-16']",MD ,20180327,"Orleans, France"
+214,"['Rasmus Gemke [3]', 'Lucas Claerbout']","['[DEN] ', '[FRA] ']","['15-21', '21-17', '22-20']",MS ,20180327,"Orleans, France"
+215,"['Gabriela Stoeva [1]', 'Stefani Stoeva', 'Selena Piek', 'Cheryl Seinen']","['[BUL] ', '[BUL] ', '[NED] ', '[NED] ']",[],WD ,20180327,"Orleans, France"
+216,"['Peter Kaesbauer', 'Olga Konon', 'Alfian Eko Prasetya', 'Marsheilla Gischa Islami']","['[GER] ', '[GER] ', '[INA] ', '[INA] ']","['21-11', '21-16']",XD ,20180327,"Orleans, France"
+217,"['Mark Caljouw [4]', 'Sameer Verma [1]']","['[NED] ', '[IND] ']","['18-21', '21-13', '21-12']",MS ,20180327,"Orleans, France"
+218,"['Mia Blichfeldt [2]', 'Ruselli Hartawan']","['[DEN] ', '[INA] ']","['21-17', '21-15']",WS ,20180327,"Orleans, France"
+219,"['Mark Lamsfuss [3]', 'Marvin Emil Seidel', 'Kasper Antonsen [8]', 'Niclas Nohr']","['[GER] ', '[GER] ', '[DEN] ', '[DEN] ']","['21-18', '12-21', '21-19']",MD ,20180327,"Orleans, France"
+220,"['Gabriela Stoeva [1]', 'Stefani Stoeva', 'Delphine Delrue', 'Lea Palermo']","['[BUL] ', '[BUL] ', '[FRA] ', '[FRA] ']","['21-8', '21-14']",WD ,20180327,"Orleans, France"
+221,"['Niclas Nohr', 'Sara Thygesen', 'Peter Kaesbauer', 'Olga Konon']","['[DEN] ', '[DEN] ', '[GER] ', '[GER] ']","['21-19', '21-9']",XD ,20180327,"Orleans, France"
+222,"['Shiori Saito', 'Mia Blichfeldt [2]']","['[JPN] ', '[DEN] ']","['21-18', '21-14']",WS ,20180327,"Orleans, France"
+223,"['Mark Caljouw [4]', 'Rasmus Gemke [3]']","['[NED] ', '[DEN] ']","['10-21', '21-18', '21-8']",MS ,20180327,"Orleans, France"
+224,"['Mark Lamsfuss [3]', 'Marvin Emil Seidel', 'Chun Kang Shia', 'Wee Gieen Tan']","['[GER] ', '[GER] ', '[MAS] ', '[MAS] ']","['21-10', '21-18']",MD ,20180327,"Orleans, France"

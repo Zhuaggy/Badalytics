@@ -1,164 +1,164 @@
-,PLAYERS,COUNTRIES,SCORES,EVENT,match_week
-0,"['Chi-Lin Wang', 'Chia Hsin Lee', 'Ruben Jille', 'Iris Tabeling']","['[TPE] ', '[TPE] ', '[NED] ', '[NED] ']","['21-12', '18-21', '21-10']",XD - Qualification,20170307
-1,"['Xiao Min Lin', 'Wu Fang Chien', 'Jenny Moore', 'Victoria Williams']","['[TPE] ', '[TPE] ', '[ENG] ', '[ENG] ']","['21-18', '21-19']",WD - Qualification,20170307
-2,"['Danny Bawa Chrisnanta [1]', 'Hendra Wijaya', 'Christopher Coles', 'Gregory Mairs']","['[SGP] ', '[SGP] ', '[ENG] ', '[ENG] ']","['21-19', '21-17']",MD - Qualification,20170307
-3,"['Pawel Pietryja', 'Aneta Wojtkowska', 'Jakub Bitman', 'Alzbeta Basova']","['[POL] ', '[POL] ', '[CZE] ', '[CZE] ']","['21-15', '21-12']",XD - Qualification,20170307
-4,"['Nadia Fankhauser [4]', 'Sannatasah Saniru', 'Evie Burbidge', 'Elizabeth Mcmorrow']","['[SUI] ', '[MAS] ', '[ENG] ', '[ENG] ']","['21-16', '21-16']",WD - Qualification,20170307
-5,"['Ronan Labar', 'Audrey Fontaine', 'Ko-Chi Chang [4]', 'Hsin Tien Chang']","['[FRA] ', '[FRA] ', '[TPE] ', '[TPE] ']","['21-18', '21-19']",XD - Qualification,20170307
-6,"['Ashwini Ponnappa', 'Reddy N. Sikki', 'Lauren Smith', 'Sarah Walker']","['[IND] ', '[IND] ', '[ENG] ', '[ENG] ']","['21-17', '16-21', '24-22']",WD - Qualification,20170307
-7,"['Martin Campbell', 'Patrick Machugh', 'Adam Hall', 'Peter Mills']","['[SCO] ', '[SCO] ', '[SCO] ', '[ENG] ']","['21-17', '21-14']",MD - Qualification,20170307
-8,"['Mark Lamsfuss', 'Isabel Herttrich', 'Robin Tabeling', 'Cheryl Seinen']","['[GER] ', '[GER] ', '[NED] ', '[NED] ']","['21-11', '21-14']",XD - Qualification,20170307
-9,"['Bao Yixin', 'Yu Xiaohan', 'Lisa Kaminski', 'Hannah Pohl']","['[CHN] ', '[CHN] ', '[GER] ', '[GER] ']","['21-13', '21-4']",WD - Qualification,20170307
-10,"['Wang Yilyu', 'Huang Dongping', 'Ben Lane', 'Jessica Pugh']","['[CHN] ', '[CHN] ', '[ENG] ', '[ENG] ']","['21-18', '21-14']",XD - Qualification,20170307
-11,"['Jacco Arends', 'Ruben Jille', 'Yong Kai Terry Hee', 'Kean Hean Loh']","['[NED] ', '[NED] ', '[SGP] ', '[SGP] ']","['18-21', '21-19', '21-15']",MD - Qualification,20170307
-12,"['Takuma Ueda', 'Thomas Rouxel']","['[JPN] ', '[FRA] ']","['21-14', '21-10']",MS - Qualification,20170307
-13,"['Yang Lee [3]', 'Hsu Ya Ching', 'Raphael Beck', 'Carla Nelte']","['[TPE] ', '[TPE] ', '[GER] ', '[GER] ']","['21-9', '21-16']",XD - Qualification,20170307
-14,"['Hiroyuki Endo', 'Yuta Watanabe', 'Matijs Dierickx [3]', 'Freek Golinski']","['[JPN] ', '[JPN] ', '[BEL] ', '[BEL] ']","['21-14', '24-22']",MD - Qualification,20170307
-15,"['Nipitphon Phuangphuapet', 'Jongkolphan Kititharakul', 'Soren Gravholt', 'Maiken Fruergaard']","['[THA] ', '[THA] ', '[DEN] ', '[DEN] ']","['21-15', '21-13']",XD - Qualification,20170307
-16,"['Bastian Kersaudy', 'Julien Maio', 'Alexander Bass', 'Shai Geffen']","['[FRA] ', '[FRA] ', '[ISR] ', '[ISR] ']","['21-11', '21-16']",MD - Qualification,20170307
-17,"['Cheryl Seinen', 'Iris Tabeling', 'Linda Efler', 'Eva Janssens']","['[NED] ', '[NED] ', '[GER] ', '[GER] ']","['21-16', '20-22', '21-15']",WD - Qualification,20170307
-18,"['Gregory Mairs', 'Jenny Moore', 'Marcus Ellis', 'Lauren Smith']","['[ENG] ', '[ENG] ', '[ENG] ', '[ENG] ']",[],XD - Qualification,20170307
-19,"['Liu Cheng [4]', 'Zhang Nan', 'Jelle Maas', 'Robin Tabeling']","['[CHN] ', '[CHN] ', '[NED] ', '[NED] ']","['21-15', '21-15']",MD - Qualification,20170307
-20,"['Anthony Sinisuka Ginting [4]', 'Sourabh Verma']","['[INA] ', '[IND] ']","['21-10', '14-21', '22-20']",MS - Qualification,20170307
-21,"['Delphine Lansac', 'Chia Hsin Lee [1]']","['[FRA] ', '[TPE] ']","['21-11', '21-12']",WS - Qualification,20170307
-22,"['Isabel Herttrich [3]', 'Carla Nelte', 'Peiy Yee, Payee Lim', 'Peiy Zhean Lim']","['[GER] ', '[GER] ', '[MAS] ', '[MAS] ']","['21-10', '21-9']",WD - Qualification,20170307
-23,"['Raphael Beck', 'Peter Kaesbauer', 'Ben Lane', 'Sean Vendy']","['[GER] ', '[GER] ', '[ENG] ', '[ENG] ']","['21-13', '19-21', '21-16']",MD - Qualification,20170307
-24,"['Zhao Junpeng', 'Sam Parsons']","['[CHN] ', '[ENG] ']","['11-21', '21-13', '21-12']",MS - Qualification,20170307
-25,"['Peter Briggs', 'Tom Wolfenden', 'Liao Kuan Hao [2]', 'Lu Chia Pin']","['[ENG] ', '[ENG] ', '[TPE] ', '[TPE] ']","['21-17', '21-17']",MD - Qualification,20170307
-26,"['Ihsan Maulana Mustofa', 'Kenta Nishimoto']","['[INA] ', '[JPN] ']","['21-19', '13-21', '21-17']",MS - Qualification,20170307
-27,"['Lyanny Alessandra Mainaky', 'Nadia Fankhauser']","['[INA] ', '[SUI] ']","['21-12', '21-11']",WS - Qualification,20170307
-28,"['Lin Yu Hsien', 'Lucas Claerbout']","['[TPE] ', '[FRA] ']","['21-16', '17-21', '21-16']",MS - Qualification,20170307
-29,"['Airi Mikkela [4]', 'Julie Finne-Ipsen']","['[FIN] ', '[DEN] ']","['21-12', '19-21', '21-15']",WS - Qualification,20170307
-30,"['Kazumasa Sakai', 'Sameer Verma [3]']","['[JPN] ', '[IND] ']","['21-17', '21-12']",MS - Qualification,20170307
-31,"['Fontaine Mica Chapman', 'Katerina Tomalova']","['[ENG] ', '[CZE] ']","['21-13', '21-19']",WS - Qualification,20170307
-32,"['Sabrina Jaquet [2]', 'Yvonne Li']","['[SUI] ', '[GER] ']","['21-14', '21-15']",WS - Qualification,20170307
-33,"['Lucas Corvee', 'Jeon Hyeok Jin']","['[FRA] ', '[KOR] ']","['21-19', '21-15']",MS - Qualification,20170307
-34,"['Mariya Mitsova', 'Chloe Birch']","['[BUL] ', '[ENG] ']","['21-14', '21-17']",WS - Qualification,20170307
-35,"['Fabienne Deprez', 'Jordan Hart']","['[GER] ', '[WAL] ']","['21-18', '21-18']",WS - Qualification,20170307
-36,"['Brice Leverdez [2]', 'Fabian Roth']","['[FRA] ', '[GER] ']","['21-14', '13-21', '21-13']",MS - Qualification,20170307
-37,"['Natalia Koch Rohde [3]', 'Luise Heim']","['[DEN] ', '[GER] ']","['21-19', '21-14']",WS - Qualification,20170307
-38,"['Mark Lamsfuss', 'Isabel Herttrich', 'Ronan Labar', 'Audrey Fontaine']","['[GER] ', '[GER] ', '[FRA] ', '[FRA] ']","['21-18', '19-21', '21-18']",XD - Qualification,20170307
-39,"['Wang Yilyu', 'Huang Dongping', 'Yang Lee [3]', 'Hsu Ya Ching']","['[CHN] ', '[CHN] ', '[TPE] ', '[TPE] ']","['21-11', '21-14']",XD - Qualification,20170307
-40,"['Nipitphon Phuangphuapet', 'Jongkolphan Kititharakul', 'Gregory Mairs', 'Jenny Moore']","['[THA] ', '[THA] ', '[ENG] ', '[ENG] ']","['21-14', '18-21', '21-10']",XD - Qualification,20170307
-41,"['Chi-Lin Wang', 'Chia Hsin Lee', 'Pawel Pietryja', 'Aneta Wojtkowska']","['[TPE] ', '[TPE] ', '[POL] ', '[POL] ']","['21-13', '21-11']",XD - Qualification,20170307
-42,"['Peter Briggs', 'Tom Wolfenden', 'Bastian Kersaudy', 'Julien Maio']","['[ENG] ', '[ENG] ', '[FRA] ', '[FRA] ']","['21-17', '21-11']",MD - Qualification,20170307
-43,"['Nadia Fankhauser [4]', 'Sannatasah Saniru', 'Ashwini Ponnappa', 'Reddy N. Sikki']","['[SUI] ', '[MAS] ', '[IND] ', '[IND] ']","['21-15', '18-21', '21-18']",WD - Qualification,20170307
-44,"['Anthony Sinisuka Ginting [4]', 'Ihsan Maulana Mustofa']","['[INA] ', '[INA] ']","['21-17', '21-16']",MS - Qualification,20170307
-45,"['Zhao Junpeng', 'Takuma Ueda']","['[CHN] ', '[JPN] ']","['21-19', '21-15']",MS - Qualification,20170307
-46,"['Fontaine Mica Chapman', 'Airi Mikkela [4]']","['[ENG] ', '[FIN] ']","['21-10', '21-10']",WS - Qualification,20170307
-47,"['Hiroyuki Endo', 'Yuta Watanabe', 'Martin Campbell', 'Patrick Machugh']","['[JPN] ', '[JPN] ', '[SCO] ', '[SCO] ']","['21-10', '21-13']",MD - Qualification,20170307
-48,"['Liu Cheng [4]', 'Zhang Nan', 'Raphael Beck', 'Peter Kaesbauer']","['[CHN] ', '[CHN] ', '[GER] ', '[GER] ']","['21-13', '21-14']",MD - Qualification,20170307
-49,"['Jacco Arends', 'Ruben Jille', 'Danny Bawa Chrisnanta [1]', 'Hendra Wijaya']","['[NED] ', '[NED] ', '[SGP] ', '[SGP] ']","['21-23', '24-22', '21-17']",MD - Qualification,20170307
-50,"['Brice Leverdez [2]', 'Lucas Corvee']","['[FRA] ', '[FRA] ']","['21-19', '21-19']",MS - Qualification,20170307
-51,"['Kazumasa Sakai', 'Lin Yu Hsien']","['[JPN] ', '[TPE] ']","['21-10', '26-24']",MS - Qualification,20170307
-52,"['Delphine Lansac', 'Lyanny Alessandra Mainaky']","['[FRA] ', '[INA] ']","['21-15', '21-13']",WS - Qualification,20170307
-53,"['Natalia Koch Rohde [3]', 'Mariya Mitsova']","['[DEN] ', '[BUL] ']","['21-9', '10-21', '21-17']",WS - Qualification,20170307
-54,"['Fabienne Deprez', 'Sabrina Jaquet [2]']","['[GER] ', '[SUI] ']","['21-18', '21-17']",WS - Qualification,20170307
-55,"['Cheryl Seinen', 'Iris Tabeling', 'Isabel Herttrich [3]', 'Carla Nelte']","['[NED] ', '[NED] ', '[GER] ', '[GER] ']","['21-16', '17-21', '21-16']",WD - Qualification,20170307
-56,"['Zheng Siwei [1]', 'Chen Qingchen', 'Dechapol Puavaranukroh', 'Sapsiree Taerattanachai']","['[CHN] ', '[CHN] ', '[THA] ', '[THA] ']","['21-10', '21-15']",XD,20170307
-57,"['Lu Kai [5]', 'Huang Yaqiong', 'Alfian Eko Prasetya', 'Annisa Saufika']","['[CHN] ', '[CHN] ', '[INA] ', '[INA] ']","['21-9', '21-17']",XD,20170307
-58,"['Hsu Ya Ching', 'Wu Ti Jung', 'Jakkampudi Meghana', 'Poorvisha S Ram']","['[TPE] ', '[TPE] ', '[IND] ', '[IND] ']","['21-19', '21-12']",WD,20170307
-59,"['Bodin Isara', 'Nipitphon Phuangphuapet', 'Jacco Arends', 'Ruben Jille']","['[THA] ', '[THA] ', '[NED] ', '[NED] ']","['21-14', '21-13']",MD,20170307
-60,"['Marcus Fernaldi Gideon [5]', 'Kevin Sanjaya Sukamuljo', 'Hendra Setiawan', 'Boon Heong Tan']","['[INA] ', '[INA] ', '[INA] ', '[MAS] ']","['21-12', '21-17']",MD,20170307
-61,"['Mohammad Ahsan', 'Rian Agung Saputro', 'Law Cheuk Him', 'Lee Chun Hei Reginald']","['[INA] ', '[INA] ', '[HKG] ', '[HKG] ']","['21-13', '16-21', '21-10']",MD,20170307
-62,"['Minatsu Mitani', 'Beatriz Corrales']","['[JPN] ', '[ESP] ']","['21-7', '21-11']",WS,20170307
-63,"['Peter Briggs', 'Tom Wolfenden', 'Manu Attri', 'Reddy B. Sumeeth']","['[ENG] ', '[ENG] ', '[IND] ', '[IND] ']","['21-19', '10-21', '21-18']",MD,20170307
-64,"['Sony Dwi Kuncoro', 'Son Wan Ho [4]']","['[INA] ', '[KOR] ']",['4-1'],MS,20170307
-65,"['Chou Tien Chen', 'Anthony Sinisuka Ginting']","['[TPE] ', '[INA] ']","['21-10', '21-14']",MS,20170307
-66,"['He Bingjiao', 'Kim Hyo Min']","['[CHN] ', '[KOR] ']","['21-12', '22-20']",WS,20170307
-67,"['Tai Tzu Ying [1]', 'Nitchaon Jindapol']","['[TPE] ', '[THA] ']","['21-18', '21-14']",WS,20170307
-68,"['Shi Yuqi', 'Hu Yun']","['[CHN] ', '[HKG] ']","['21-12', '21-9']",MS,20170307
-69,"['Takeshi Kamura [3]', 'Keigo Sonoda', 'Chen Hung Ling', 'Chi-Lin Wang']","['[JPN] ', '[JPN] ', '[TPE] ', '[TPE] ']","['21-17', '21-18']",MD,20170307
-70,"['Kenta Kazuno', 'Ayane Kurihara', 'Mathias Christiansen', 'Sara Thygesen']","['[JPN] ', '[JPN] ', '[DEN] ', '[DEN] ']","['21-18', '21-18']",XD,20170307
-71,"['Ratchanok Intanon [5]', 'Sayaka Sato']","['[THA] ', '[JPN] ']","['21-14', '21-9']",WS,20170307
-72,"['Bao Yixin', 'Yu Xiaohan', 'Huang Dongping [7]', 'Li Yinhui']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['21-13', '21-13']",WD,20170307
-73,"['Li Junhui [6]', 'Liu Yuchen', 'Fajar Alfian', 'Muhammad Rian Ardianto']","['[CHN] ', '[CHN] ', '[INA] ', '[INA] ']","['21-19', '21-16']",MD,20170307
-74,"['Tian Houwei [7]', 'Tommy Sugiarto']","['[CHN] ', '[INA] ']","['21-19', '21-18']",MS,20170307
-75,"['Tanongsak Saensomboonsuk', 'Hans-Kristian Solberg Vittinghus']","['[THA] ', '[DEN] ']","['21-15', '21-18']",MS,20170307
-76,"['Dinar Dyah Ayustine', 'Natalia Koch Rohde']","['[INA] ', '[DEN] ']","['21-19', '22-20']",WS,20170307
-77,"['Lu Kai', 'Zheng Siwei', 'Mathias Boe [2]', 'Carsten Mogensen']","['[CHN] ', '[CHN] ', '[DEN] ', '[DEN] ']","['21-15', '22-20']",MD,20170307
-78,"['Mark Lamsfuss', 'Isabel Herttrich', 'Bodin Isara', 'Savitree Amitrapai']","['[GER] ', '[GER] ', '[THA] ', '[THA] ']","['21-18', '17-21', '21-16']",XD,20170307
-79,"['Chang Ye Na [4]', 'Lee So Hee', 'Johanna Goliszewski', 'Lara Kaepplein']","['[KOR] ', '[KOR] ', '[GER] ', '[GER] ']","['21-11', '21-5']",WD,20170307
-80,"['Julie Finne-Ipsen', 'Rikke Søby', 'Ni Ketut Mahadewi Istarani', 'Tiara Rosalia Nuraidah']","['[DEN] ', '[DEN] ', '[INA] ', '[INA] ']","['22-20', '9-21', '21-18']",WD,20170307
-81,"['Prannoy H. S.', 'Qiao Bin']","['[IND] ', '[CHN] ']","['17-21', '22-20', '21-19']",MS,20170307
-82,"['Ng Ka Long Angus [8]', 'Rajiv Ouseph']","['[HKG] ', '[ENG] ']","['19-21', '21-18', '21-12']",MS,20170307
-83,"['Lee Chun Hei Reginald', 'Chau Hoi Wah', 'Sam Magee', 'Chloe Magee']","['[HKG] ', '[HKG] ', '[IRL] ', '[IRL] ']","['16-21', '21-16', '21-15']",XD,20170307
-84,"['Huang Yaqiong', 'Tang Jinhua', 'Chiang Kai Hsin', 'Hung Shih Han']","['[CHN] ', '[CHN] ', '[TPE] ', '[TPE] ']","['21-14', '21-16']",WD,20170307
-85,"['Liu Xiaolong', 'Xu Chen', 'Hiroyuki Endo', 'Yuta Watanabe']","['[CHN] ', '[CHN] ', '[JPN] ', '[JPN] ']","['21-17', '21-14']",MD,20170307
-86,"['Kim Astrup', 'Anders Skaarup Rasmussen', 'Jhe-Huei Lee', 'Yang Lee']","['[DEN] ', '[DEN] ', '[TPE] ', '[TPE] ']","['21-13', '20-22', '21-11']",MD,20170307
-87,"['Xiao Min Lin', 'Wu Fang Chien', 'Nadia Fankhauser', 'Sannatasah Saniru']","['[TPE] ', '[TPE] ', '[SUI] ', '[MAS] ']","['21-14', '21-15']",WD,20170307
-88,"['Jung Kyung Eun [3]', 'Shin Seung Chan', 'Jongkolphan Kititharakul', 'Rawinda Prajongjai']","['[KOR] ', '[KOR] ', '[THA] ', '[THA] ']","['21-19', '21-19']",WD,20170307
-89,"['Joachim Fischer Nielsen [3]', 'Christinna Pedersen', 'Ronald Ronald', 'Melati Daeva Oktavianti']","['[DEN] ', '[DEN] ', '[INA] ', '[INA] ']","['21-14', '21-5']",XD,20170307
-90,"['Hsu Ya Ching', 'Cheung Ngan Yi']","['[TPE] ', '[HKG] ']","['17-21', '21-18', '21-18']",WS,20170307
-91,"['Pusarla V. Sindhu [6]', 'Mette Poulsen']","['[IND] ', '[DEN] ']","['21-10', '21-11']",WS,20170307
-92,"['Tontowi Ahmad [2]', 'Liliyana Natsir', 'Chi-Lin Wang', 'Chia Hsin Lee']","['[INA] ', '[INA] ', '[TPE] ', '[TPE] ']","['21-8', '21-18']",XD,20170307
-93,"['Shiho Tanaka', 'Koharu Yonemoto', 'Chen Qingchen [5]', 'Jia Yifan']","['[JPN] ', '[JPN] ', '[CHN] ', '[CHN] ']","['15-21', '28-26', '21-18']",WD,20170307
-94,"['Liu Cheng', 'Zhang Nan', 'Kittinupong Kedren', 'Dechapol Puavaranukroh']","['[CHN] ', '[CHN] ', '[THA] ', '[THA] ']","['21-11', '16-21', '21-13']",MD,20170307
-95,"['Vivian Hoo', 'Khe Wei Woon', 'Puttita Supajirakul', 'Sapsiree Taerattanachai']","['[MAS] ', '[MAS] ', '[THA] ', '[THA] ']","['18-21', '21-11', '21-17']",WD,20170307
-96,"['Huang Kaixiang', 'Wang Yilyu', 'Or Chin Chung', 'Tang Chun Man']","['[CHN] ', '[CHN] ', '[HKG] ', '[HKG] ']","['21-11', '21-17']",MD,20170307
-97,"['Chai Biao [4]', 'Hong Wei', 'Mathias Christiansen', 'David Daugaard']","['[CHN] ', '[CHN] ', '[DEN] ', '[DEN] ']","['21-18', '21-19']",MD,20170307
-98,"['Lu Ching Yao', 'Yang Po Han', 'Yew Sin Ong', 'Ee Yi Teo']","['[TPE] ', '[TPE] ', '[MAS] ', '[MAS] ']","['21-14', '13-21', '21-18']",MD,20170307
-99,"['Greysia Polii', 'Rizki Amelia Pradipta', 'Maiken Fruergaard', 'Sara Thygesen']","['[INA] ', '[INA] ', '[DEN] ', '[DEN] ']","['21-19', '21-17']",WD,20170307
-100,"['Huang Yuxiang', 'Ajay Jayaram']","['[CHN] ', '[IND] ']","['21-19', '21-13']",MS,20170307
-101,"['V Shem Goh [1]', 'Wee Kiong Tan', 'Takuro Hoki', 'Yugo Kobayashi']","['[MAS] ', '[MAS] ', '[JPN] ', '[JPN] ']","['21-15', '21-18']",MD,20170307
-102,"['Sun Yu [4]', 'Beiwen Zhang']","['[CHN] ', '[USA] ']","['21-17', '21-15']",WS,20170307
-103,"['Robert Mateusiak', 'Nadiezda Zieba', 'Lin Chia Yu', 'Wu Ti Jung']","['[POL] ', '[POL] ', '[TPE] ', '[TPE] ']","['22-20', '21-14']",XD,20170307
-104,"['Viktor Axelsen [3]', 'Anders Antonsen']","['[DEN] ', '[DEN] ']","['21-13', '21-9']",MS,20170307
-105,"['Misaki Matsutomo [1]', 'Ayaka Takahashi', 'Della Destiara Haris', 'Rosyita Eka Putri Sari']","['[JPN] ', '[JPN] ', '[INA] ', '[INA] ']","['21-15', '21-13']",WD,20170307
-106,"['Mads Conrad-Petersen [8]', 'Mads Pieler Kolding', 'Vladimir Ivanov', 'Ivan Sozonov']","['[DEN] ', '[DEN] ', '[RUS] ', '[RUS] ']","['21-11', '21-15']",MD,20170307
-107,"['Chen Yufei', 'Busanan Ongbamrungphan']","['[CHN] ', '[THA] ']","['18-21', '21-15', '21-11']",WS,20170307
-108,"['Peng Soon Chan [6]', 'Liu Ying Goh', 'Nico Ruponen', 'Amanda Hogstrom']","['[MAS] ', '[MAS] ', '[SWE] ', '[SWE] ']","['21-12', '21-19']",XD,20170307
-109,"['Lee Chong Wei [1]', 'Brice Leverdez']","['[MAS] ', '[FRA] ']","['21-15', '21-12']",MS,20170307
-110,"['Fabienne Deprez', 'Delphine Lansac']","['[GER] ', '[FRA] ']","['19-21', '21-15', '21-18']",WS,20170307
-111,"['Zhao Junpeng', 'Kidambi Srikanth']","['[CHN] ', '[IND] ']","['21-19', '19-21', '21-12']",MS,20170307
-112,"['Ricky Karandasuwardi', 'Angga Pratama', 'Marcus Ellis', 'Chris Langridge']","['[INA] ', '[INA] ', '[ENG] ', '[ENG] ']","['27-25', '21-19']",MD,20170307
-113,"['Saina Nehwal [8]', 'Nozomi Okuhara']","['[IND] ', '[JPN] ']","['21-15', '21-14']",WS,20170307
-114,"['Wang Yilyu', 'Huang Dongping', 'Solgyu Choi', 'Chae Yoo Jung']","['[CHN] ', '[CHN] ', '[KOR] ', '[KOR] ']","['21-9', '21-16']",XD,20170307
-115,"['Tzu Wei Wang', 'Wei Nan']","['[TPE] ', '[HKG] ']","['17-21', '21-19', '21-14']",MS,20170307
-116,"['Jan O Jorgensen [2]', 'Hsu Jen Hao']","['[DEN] ', '[TPE] ']","['21-9', '21-13']",MS,20170307
-117,"['Kamilla Rytter Juhl [2]', 'Christinna Pedersen', 'Emilie Lefel', 'Anne Tran']","['[DEN] ', '[DEN] ', '[FRA] ', '[FRA] ']","['21-16', '21-16']",WD,20170307
-118,"['Chen Long [5]', 'Marc Zwiebler']","['[CHN] ', '[GER] ']","['21-17', '21-7']",MS,20170307
-119,"['Anggia Shitta Awanda', 'Apriyani Rahayu', 'Anastasia Chervyakova', 'Olga Morozova']","['[INA] ', '[INA] ', '[RUS] ', '[RUS] ']","['21-18', '16-21', '21-16']",WD,20170307
-120,"['Sung Ji Hyun [3]', 'Fitriani Fitriani']","['[KOR] ', '[INA] ']","['21-18', '21-12']",WS,20170307
-121,"['Lin Dan [6]', 'Zulfadli Zulkiffli']","['[CHN] ', '[MAS] ']","['21-11', '21-12']",MS,20170307
-122,"['Kazumasa Sakai', 'Wong Wing Ki Vincent']","['[JPN] ', '[HKG] ']","['22-20', '21-18']",MS,20170307
-123,"['Chris Adcock [7]', 'Gabrielle Adcock', 'Yong Kai Terry Hee', 'Wei Han Tan']","['[ENG] ', '[ENG] ', '[SGP] ', '[SGP] ']","['21-9', '21-18']",XD,20170307
-124,"['Akane Yamaguchi [7]', 'Xiaoyu Liang']","['[JPN] ', '[SGP] ']","['21-16', '21-12']",WS,20170307
-125,"['Chiang Mei Hui', 'Linda Zetchiri']","['[TPE] ', '[BUL] ']","['21-11', '19-21', '21-14']",WS,20170307
-126,"['Yip Pui Yin', 'Fontaine Mica Chapman']","['[HKG] ', '[ENG] ']","['21-12', '21-19']",WS,20170307
-127,"['Carolina Marin [2]', 'Line Kjaersfeldt']","['[ESP] ', '[DEN] ']","['21-12', '21-17']",WS,20170307
-128,"['Zhang Nan', 'Li Yinhui', 'Hafiz Faizal', 'Shela Devi Aulia']","['[CHN] ', '[CHN] ', '[INA] ', '[INA] ']","['21-16', '21-13']",XD,20170307
-129,"['Luo Ying [6]', 'Luo Yu', 'Gabriela Stoeva', 'Stefani Stoeva']","['[CHN] ', '[CHN] ', '[BUL] ', '[BUL] ']","['21-16', '16-21', '21-6']",WD,20170307
-130,"['Xu Chen', 'Du Yue', 'Nipitphon Phuangphuapet', 'Jongkolphan Kititharakul']","['[CHN] ', '[CHN] ', '[THA] ', '[THA] ']","['21-9', '25-23']",XD,20170307
-131,"['Naoko Fukuman [8]', 'Kurumi Yonao', 'Cheryl Seinen', 'Iris Tabeling']","['[JPN] ', '[JPN] ', '[NED] ', '[NED] ']","['21-18', '21-11']",WD,20170307
-132,"['Yuta Watanabe', 'Arisa Higashino', 'Praveen Jordan [4]', 'Debby Susanto']","['[JPN] ', '[JPN] ', '[INA] ', '[INA] ']","['21-17', '19-21', '21-12']",XD,20170307
-133,"['Yuki Fukushima', 'Sayaka Hirota', 'Mariya Mitsova', 'Petya Nedelcheva']","['[JPN] ', '[JPN] ', '[BUL] ', '[BUL] ']","['21-10', '21-9']",WD,20170307
-134,"['Kian Meng Tan [8]', 'Pei Jing Lai', 'Lu Ching Yao', 'Chiang Kai Hsin']","['[MAS] ', '[MAS] ', '[TPE] ', '[TPE] ']","['21-14', '21-19']",XD,20170307
-135,"['Yoo Yeon Seong', 'Kim Ha Na', 'Pranaav Jerry Chopra', 'Reddy N. Sikki']","['[KOR] ', '[KOR] ', '[IND] ', '[IND] ']","['21-19', '22-20']",XD,20170307
-136,"['Pusarla V. Sindhu [6]', 'Dinar Dyah Ayustine']","['[IND] ', '[INA] ']","['21-12', '21-4']",WS ,20170307
-137,"['Lee Chong Wei [1]', 'Tzu Wei Wang']","['[MAS] ', '[TPE] ']","['21-18', '21-18']",MS ,20170307
-138,"['Takeshi Kamura [3]', 'Keigo Sonoda', 'Kim Astrup', 'Anders Skaarup Rasmussen']","['[JPN] ', '[JPN] ', '[DEN] ', '[DEN] ']","['21-18', '21-15']",MD ,20170307
-139,"['Ratchanok Intanon [5]', 'Hsu Ya Ching']","['[THA] ', '[TPE] ']","['21-14', '21-15']",WS ,20170307
-140,"['Chris Adcock [7]', 'Gabrielle Adcock', 'Xu Chen', 'Du Yue']","['[ENG] ', '[ENG] ', '[CHN] ', '[CHN] ']","['21-17', '21-12']",XD ,20170307
-141,"['Tai Tzu Ying [1]', 'Pusarla V. Sindhu [6]']","['[TPE] ', '[IND] ']","['21-14', '21-10']",WS ,20170307
-142,"['Li Junhui [6]', 'Liu Yuchen', 'V Shem Goh [1]', 'Wee Kiong Tan']","['[CHN] ', '[CHN] ', '[MAS] ', '[MAS] ']","['21-19', '17-21', '21-19']",MD ,20170307
-143,"['Chris Adcock [7]', 'Gabrielle Adcock', 'Tontowi Ahmad [2]', 'Liliyana Natsir']","['[ENG] ', '[ENG] ', '[INA] ', '[INA] ']","['16-21', '21-19', '21-12']",XD ,20170307
-144,"['Ratchanok Intanon [5]', 'Carolina Marin [2]']","['[THA] ', '[ESP] ']","['22-20', '13-21', '21-18']",WS ,20170307
-145,"['Lin Dan [6]', 'Viktor Axelsen [3]']","['[CHN] ', '[DEN] ']","['8-21', '21-14', '21-15']",MS ,20170307
-146,"['Lee Chong Wei [1]', 'Tian Houwei [7]']","['[MAS] ', '[CHN] ']","['21-12', '21-15']",MS ,20170307
-147,"['Kamilla Rytter Juhl [2]', 'Christinna Pedersen', 'Naoko Fukuman [8]', 'Kurumi Yonao']","['[DEN] ', '[DEN] ', '[JPN] ', '[JPN] ']","['21-12', '21-11']",WD ,20170307
-148,"['Ratchanok Intanon [5]', 'Akane Yamaguchi [7]']","['[THA] ', '[JPN] ']","['22-20', '21-16']",WS ,20170307
-149,"['Lee Chong Wei [1]', 'Chou Tien Chen']","['[MAS] ', '[TPE] ']","['10-21', '21-14', '21-9']",MS ,20170307
-150,"['Lu Kai [5]', 'Huang Yaqiong', 'Chris Adcock [7]', 'Gabrielle Adcock']","['[CHN] ', '[CHN] ', '[ENG] ', '[ENG] ']","['19-21', '21-12', '22-20']",XD ,20170307
-151,"['Kamilla Rytter Juhl [2]', 'Christinna Pedersen', 'Jung Kyung Eun [3]', 'Shin Seung Chan']","['[DEN] ', '[DEN] ', '[KOR] ', '[KOR] ']","['21-16', '21-13']",WD ,20170307
-152,"['Marcus Fernaldi Gideon [5]', 'Kevin Sanjaya Sukamuljo', 'Mads Conrad-Petersen [8]', 'Mads Pieler Kolding']","['[INA] ', '[INA] ', '[DEN] ', '[DEN] ']","['19-21', '21-13', '21-17']",MD ,20170307
-153,"['Li Junhui [6]', 'Liu Yuchen', 'Liu Cheng', 'Zhang Nan']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['21-18', '21-14']",MD ,20170307
-154,"['Tai Tzu Ying [1]', 'Sung Ji Hyun [3]']","['[TPE] ', '[KOR] ']","['11-21', '21-14', '21-14']",WS ,20170307
-155,"['Chang Ye Na [4]', 'Lee So Hee', 'Bao Yixin', 'Yu Xiaohan']","['[KOR] ', '[KOR] ', '[CHN] ', '[CHN] ']","['21-18', '21-18']",WD ,20170307
-156,"['Peng Soon Chan [6]', 'Liu Ying Goh', 'Yuta Watanabe', 'Arisa Higashino']","['[MAS] ', '[MAS] ', '[JPN] ', '[JPN] ']","['21-17', '21-15']",XD ,20170307
-157,"['Shi Yuqi', 'Lin Dan [6]']","['[CHN] ', '[CHN] ']","['24-22', '21-11']",MS ,20170307
-158,"['Lu Kai [5]', 'Huang Yaqiong', 'Peng Soon Chan [6]', 'Liu Ying Goh']","['[CHN] ', '[CHN] ', '[MAS] ', '[MAS] ']","['18-21', '21-19', '21-16']",XD ,20170307
-159,"['Lee Chong Wei [1]', 'Shi Yuqi']","['[MAS] ', '[CHN] ']","['21-12', '21-10']",MS ,20170307
-160,"['Chang Ye Na [4]', 'Lee So Hee', 'Kamilla Rytter Juhl [2]', 'Christinna Pedersen']","['[KOR] ', '[KOR] ', '[DEN] ', '[DEN] ']","['21-18', '21-13']",WD ,20170307
-161,"['Marcus Fernaldi Gideon [5]', 'Kevin Sanjaya Sukamuljo', 'Li Junhui [6]', 'Liu Yuchen']","['[INA] ', '[INA] ', '[CHN] ', '[CHN] ']","['21-19', '21-14']",MD ,20170307
-162,"['Tai Tzu Ying [1]', 'Ratchanok Intanon [5]']","['[TPE] ', '[THA] ']","['21-16', '22-20']",WS ,20170307
+,PLAYERS,COUNTRIES,SCORES,EVENT,match_week,match_location
+0,"['Chi-Lin Wang', 'Chia Hsin Lee', 'Ruben Jille', 'Iris Tabeling']","['[TPE] ', '[TPE] ', '[NED] ', '[NED] ']","['21-12', '18-21', '21-10']",XD - Qualification,20170307,"Birmingham, England"
+1,"['Xiao Min Lin', 'Wu Fang Chien', 'Jenny Moore', 'Victoria Williams']","['[TPE] ', '[TPE] ', '[ENG] ', '[ENG] ']","['21-18', '21-19']",WD - Qualification,20170307,"Birmingham, England"
+2,"['Danny Bawa Chrisnanta [1]', 'Hendra Wijaya', 'Christopher Coles', 'Gregory Mairs']","['[SGP] ', '[SGP] ', '[ENG] ', '[ENG] ']","['21-19', '21-17']",MD - Qualification,20170307,"Birmingham, England"
+3,"['Pawel Pietryja', 'Aneta Wojtkowska', 'Jakub Bitman', 'Alzbeta Basova']","['[POL] ', '[POL] ', '[CZE] ', '[CZE] ']","['21-15', '21-12']",XD - Qualification,20170307,"Birmingham, England"
+4,"['Nadia Fankhauser [4]', 'Sannatasah Saniru', 'Evie Burbidge', 'Elizabeth Mcmorrow']","['[SUI] ', '[MAS] ', '[ENG] ', '[ENG] ']","['21-16', '21-16']",WD - Qualification,20170307,"Birmingham, England"
+5,"['Ronan Labar', 'Audrey Fontaine', 'Ko-Chi Chang [4]', 'Hsin Tien Chang']","['[FRA] ', '[FRA] ', '[TPE] ', '[TPE] ']","['21-18', '21-19']",XD - Qualification,20170307,"Birmingham, England"
+6,"['Ashwini Ponnappa', 'Reddy N. Sikki', 'Lauren Smith', 'Sarah Walker']","['[IND] ', '[IND] ', '[ENG] ', '[ENG] ']","['21-17', '16-21', '24-22']",WD - Qualification,20170307,"Birmingham, England"
+7,"['Martin Campbell', 'Patrick Machugh', 'Adam Hall', 'Peter Mills']","['[SCO] ', '[SCO] ', '[SCO] ', '[ENG] ']","['21-17', '21-14']",MD - Qualification,20170307,"Birmingham, England"
+8,"['Mark Lamsfuss', 'Isabel Herttrich', 'Robin Tabeling', 'Cheryl Seinen']","['[GER] ', '[GER] ', '[NED] ', '[NED] ']","['21-11', '21-14']",XD - Qualification,20170307,"Birmingham, England"
+9,"['Bao Yixin', 'Yu Xiaohan', 'Lisa Kaminski', 'Hannah Pohl']","['[CHN] ', '[CHN] ', '[GER] ', '[GER] ']","['21-13', '21-4']",WD - Qualification,20170307,"Birmingham, England"
+10,"['Wang Yilyu', 'Huang Dongping', 'Ben Lane', 'Jessica Pugh']","['[CHN] ', '[CHN] ', '[ENG] ', '[ENG] ']","['21-18', '21-14']",XD - Qualification,20170307,"Birmingham, England"
+11,"['Jacco Arends', 'Ruben Jille', 'Yong Kai Terry Hee', 'Kean Hean Loh']","['[NED] ', '[NED] ', '[SGP] ', '[SGP] ']","['18-21', '21-19', '21-15']",MD - Qualification,20170307,"Birmingham, England"
+12,"['Takuma Ueda', 'Thomas Rouxel']","['[JPN] ', '[FRA] ']","['21-14', '21-10']",MS - Qualification,20170307,"Birmingham, England"
+13,"['Yang Lee [3]', 'Hsu Ya Ching', 'Raphael Beck', 'Carla Nelte']","['[TPE] ', '[TPE] ', '[GER] ', '[GER] ']","['21-9', '21-16']",XD - Qualification,20170307,"Birmingham, England"
+14,"['Hiroyuki Endo', 'Yuta Watanabe', 'Matijs Dierickx [3]', 'Freek Golinski']","['[JPN] ', '[JPN] ', '[BEL] ', '[BEL] ']","['21-14', '24-22']",MD - Qualification,20170307,"Birmingham, England"
+15,"['Nipitphon Phuangphuapet', 'Jongkolphan Kititharakul', 'Soren Gravholt', 'Maiken Fruergaard']","['[THA] ', '[THA] ', '[DEN] ', '[DEN] ']","['21-15', '21-13']",XD - Qualification,20170307,"Birmingham, England"
+16,"['Bastian Kersaudy', 'Julien Maio', 'Alexander Bass', 'Shai Geffen']","['[FRA] ', '[FRA] ', '[ISR] ', '[ISR] ']","['21-11', '21-16']",MD - Qualification,20170307,"Birmingham, England"
+17,"['Cheryl Seinen', 'Iris Tabeling', 'Linda Efler', 'Eva Janssens']","['[NED] ', '[NED] ', '[GER] ', '[GER] ']","['21-16', '20-22', '21-15']",WD - Qualification,20170307,"Birmingham, England"
+18,"['Gregory Mairs', 'Jenny Moore', 'Marcus Ellis', 'Lauren Smith']","['[ENG] ', '[ENG] ', '[ENG] ', '[ENG] ']",[],XD - Qualification,20170307,"Birmingham, England"
+19,"['Liu Cheng [4]', 'Zhang Nan', 'Jelle Maas', 'Robin Tabeling']","['[CHN] ', '[CHN] ', '[NED] ', '[NED] ']","['21-15', '21-15']",MD - Qualification,20170307,"Birmingham, England"
+20,"['Anthony Sinisuka Ginting [4]', 'Sourabh Verma']","['[INA] ', '[IND] ']","['21-10', '14-21', '22-20']",MS - Qualification,20170307,"Birmingham, England"
+21,"['Delphine Lansac', 'Chia Hsin Lee [1]']","['[FRA] ', '[TPE] ']","['21-11', '21-12']",WS - Qualification,20170307,"Birmingham, England"
+22,"['Isabel Herttrich [3]', 'Carla Nelte', 'Peiy Yee, Payee Lim', 'Peiy Zhean Lim']","['[GER] ', '[GER] ', '[MAS] ', '[MAS] ']","['21-10', '21-9']",WD - Qualification,20170307,"Birmingham, England"
+23,"['Raphael Beck', 'Peter Kaesbauer', 'Ben Lane', 'Sean Vendy']","['[GER] ', '[GER] ', '[ENG] ', '[ENG] ']","['21-13', '19-21', '21-16']",MD - Qualification,20170307,"Birmingham, England"
+24,"['Zhao Junpeng', 'Sam Parsons']","['[CHN] ', '[ENG] ']","['11-21', '21-13', '21-12']",MS - Qualification,20170307,"Birmingham, England"
+25,"['Peter Briggs', 'Tom Wolfenden', 'Liao Kuan Hao [2]', 'Lu Chia Pin']","['[ENG] ', '[ENG] ', '[TPE] ', '[TPE] ']","['21-17', '21-17']",MD - Qualification,20170307,"Birmingham, England"
+26,"['Ihsan Maulana Mustofa', 'Kenta Nishimoto']","['[INA] ', '[JPN] ']","['21-19', '13-21', '21-17']",MS - Qualification,20170307,"Birmingham, England"
+27,"['Lyanny Alessandra Mainaky', 'Nadia Fankhauser']","['[INA] ', '[SUI] ']","['21-12', '21-11']",WS - Qualification,20170307,"Birmingham, England"
+28,"['Lin Yu Hsien', 'Lucas Claerbout']","['[TPE] ', '[FRA] ']","['21-16', '17-21', '21-16']",MS - Qualification,20170307,"Birmingham, England"
+29,"['Airi Mikkela [4]', 'Julie Finne-Ipsen']","['[FIN] ', '[DEN] ']","['21-12', '19-21', '21-15']",WS - Qualification,20170307,"Birmingham, England"
+30,"['Kazumasa Sakai', 'Sameer Verma [3]']","['[JPN] ', '[IND] ']","['21-17', '21-12']",MS - Qualification,20170307,"Birmingham, England"
+31,"['Fontaine Mica Chapman', 'Katerina Tomalova']","['[ENG] ', '[CZE] ']","['21-13', '21-19']",WS - Qualification,20170307,"Birmingham, England"
+32,"['Sabrina Jaquet [2]', 'Yvonne Li']","['[SUI] ', '[GER] ']","['21-14', '21-15']",WS - Qualification,20170307,"Birmingham, England"
+33,"['Lucas Corvee', 'Jeon Hyeok Jin']","['[FRA] ', '[KOR] ']","['21-19', '21-15']",MS - Qualification,20170307,"Birmingham, England"
+34,"['Mariya Mitsova', 'Chloe Birch']","['[BUL] ', '[ENG] ']","['21-14', '21-17']",WS - Qualification,20170307,"Birmingham, England"
+35,"['Fabienne Deprez', 'Jordan Hart']","['[GER] ', '[WAL] ']","['21-18', '21-18']",WS - Qualification,20170307,"Birmingham, England"
+36,"['Brice Leverdez [2]', 'Fabian Roth']","['[FRA] ', '[GER] ']","['21-14', '13-21', '21-13']",MS - Qualification,20170307,"Birmingham, England"
+37,"['Natalia Koch Rohde [3]', 'Luise Heim']","['[DEN] ', '[GER] ']","['21-19', '21-14']",WS - Qualification,20170307,"Birmingham, England"
+38,"['Mark Lamsfuss', 'Isabel Herttrich', 'Ronan Labar', 'Audrey Fontaine']","['[GER] ', '[GER] ', '[FRA] ', '[FRA] ']","['21-18', '19-21', '21-18']",XD - Qualification,20170307,"Birmingham, England"
+39,"['Wang Yilyu', 'Huang Dongping', 'Yang Lee [3]', 'Hsu Ya Ching']","['[CHN] ', '[CHN] ', '[TPE] ', '[TPE] ']","['21-11', '21-14']",XD - Qualification,20170307,"Birmingham, England"
+40,"['Nipitphon Phuangphuapet', 'Jongkolphan Kititharakul', 'Gregory Mairs', 'Jenny Moore']","['[THA] ', '[THA] ', '[ENG] ', '[ENG] ']","['21-14', '18-21', '21-10']",XD - Qualification,20170307,"Birmingham, England"
+41,"['Chi-Lin Wang', 'Chia Hsin Lee', 'Pawel Pietryja', 'Aneta Wojtkowska']","['[TPE] ', '[TPE] ', '[POL] ', '[POL] ']","['21-13', '21-11']",XD - Qualification,20170307,"Birmingham, England"
+42,"['Peter Briggs', 'Tom Wolfenden', 'Bastian Kersaudy', 'Julien Maio']","['[ENG] ', '[ENG] ', '[FRA] ', '[FRA] ']","['21-17', '21-11']",MD - Qualification,20170307,"Birmingham, England"
+43,"['Nadia Fankhauser [4]', 'Sannatasah Saniru', 'Ashwini Ponnappa', 'Reddy N. Sikki']","['[SUI] ', '[MAS] ', '[IND] ', '[IND] ']","['21-15', '18-21', '21-18']",WD - Qualification,20170307,"Birmingham, England"
+44,"['Anthony Sinisuka Ginting [4]', 'Ihsan Maulana Mustofa']","['[INA] ', '[INA] ']","['21-17', '21-16']",MS - Qualification,20170307,"Birmingham, England"
+45,"['Zhao Junpeng', 'Takuma Ueda']","['[CHN] ', '[JPN] ']","['21-19', '21-15']",MS - Qualification,20170307,"Birmingham, England"
+46,"['Fontaine Mica Chapman', 'Airi Mikkela [4]']","['[ENG] ', '[FIN] ']","['21-10', '21-10']",WS - Qualification,20170307,"Birmingham, England"
+47,"['Hiroyuki Endo', 'Yuta Watanabe', 'Martin Campbell', 'Patrick Machugh']","['[JPN] ', '[JPN] ', '[SCO] ', '[SCO] ']","['21-10', '21-13']",MD - Qualification,20170307,"Birmingham, England"
+48,"['Liu Cheng [4]', 'Zhang Nan', 'Raphael Beck', 'Peter Kaesbauer']","['[CHN] ', '[CHN] ', '[GER] ', '[GER] ']","['21-13', '21-14']",MD - Qualification,20170307,"Birmingham, England"
+49,"['Jacco Arends', 'Ruben Jille', 'Danny Bawa Chrisnanta [1]', 'Hendra Wijaya']","['[NED] ', '[NED] ', '[SGP] ', '[SGP] ']","['21-23', '24-22', '21-17']",MD - Qualification,20170307,"Birmingham, England"
+50,"['Brice Leverdez [2]', 'Lucas Corvee']","['[FRA] ', '[FRA] ']","['21-19', '21-19']",MS - Qualification,20170307,"Birmingham, England"
+51,"['Kazumasa Sakai', 'Lin Yu Hsien']","['[JPN] ', '[TPE] ']","['21-10', '26-24']",MS - Qualification,20170307,"Birmingham, England"
+52,"['Delphine Lansac', 'Lyanny Alessandra Mainaky']","['[FRA] ', '[INA] ']","['21-15', '21-13']",WS - Qualification,20170307,"Birmingham, England"
+53,"['Natalia Koch Rohde [3]', 'Mariya Mitsova']","['[DEN] ', '[BUL] ']","['21-9', '10-21', '21-17']",WS - Qualification,20170307,"Birmingham, England"
+54,"['Fabienne Deprez', 'Sabrina Jaquet [2]']","['[GER] ', '[SUI] ']","['21-18', '21-17']",WS - Qualification,20170307,"Birmingham, England"
+55,"['Cheryl Seinen', 'Iris Tabeling', 'Isabel Herttrich [3]', 'Carla Nelte']","['[NED] ', '[NED] ', '[GER] ', '[GER] ']","['21-16', '17-21', '21-16']",WD - Qualification,20170307,"Birmingham, England"
+56,"['Zheng Siwei [1]', 'Chen Qingchen', 'Dechapol Puavaranukroh', 'Sapsiree Taerattanachai']","['[CHN] ', '[CHN] ', '[THA] ', '[THA] ']","['21-10', '21-15']",XD,20170307,"Birmingham, England"
+57,"['Lu Kai [5]', 'Huang Yaqiong', 'Alfian Eko Prasetya', 'Annisa Saufika']","['[CHN] ', '[CHN] ', '[INA] ', '[INA] ']","['21-9', '21-17']",XD,20170307,"Birmingham, England"
+58,"['Hsu Ya Ching', 'Wu Ti Jung', 'Jakkampudi Meghana', 'Poorvisha S Ram']","['[TPE] ', '[TPE] ', '[IND] ', '[IND] ']","['21-19', '21-12']",WD,20170307,"Birmingham, England"
+59,"['Bodin Isara', 'Nipitphon Phuangphuapet', 'Jacco Arends', 'Ruben Jille']","['[THA] ', '[THA] ', '[NED] ', '[NED] ']","['21-14', '21-13']",MD,20170307,"Birmingham, England"
+60,"['Marcus Fernaldi Gideon [5]', 'Kevin Sanjaya Sukamuljo', 'Hendra Setiawan', 'Boon Heong Tan']","['[INA] ', '[INA] ', '[INA] ', '[MAS] ']","['21-12', '21-17']",MD,20170307,"Birmingham, England"
+61,"['Mohammad Ahsan', 'Rian Agung Saputro', 'Law Cheuk Him', 'Lee Chun Hei Reginald']","['[INA] ', '[INA] ', '[HKG] ', '[HKG] ']","['21-13', '16-21', '21-10']",MD,20170307,"Birmingham, England"
+62,"['Minatsu Mitani', 'Beatriz Corrales']","['[JPN] ', '[ESP] ']","['21-7', '21-11']",WS,20170307,"Birmingham, England"
+63,"['Peter Briggs', 'Tom Wolfenden', 'Manu Attri', 'Reddy B. Sumeeth']","['[ENG] ', '[ENG] ', '[IND] ', '[IND] ']","['21-19', '10-21', '21-18']",MD,20170307,"Birmingham, England"
+64,"['Sony Dwi Kuncoro', 'Son Wan Ho [4]']","['[INA] ', '[KOR] ']",['4-1'],MS,20170307,"Birmingham, England"
+65,"['Chou Tien Chen', 'Anthony Sinisuka Ginting']","['[TPE] ', '[INA] ']","['21-10', '21-14']",MS,20170307,"Birmingham, England"
+66,"['He Bingjiao', 'Kim Hyo Min']","['[CHN] ', '[KOR] ']","['21-12', '22-20']",WS,20170307,"Birmingham, England"
+67,"['Tai Tzu Ying [1]', 'Nitchaon Jindapol']","['[TPE] ', '[THA] ']","['21-18', '21-14']",WS,20170307,"Birmingham, England"
+68,"['Shi Yuqi', 'Hu Yun']","['[CHN] ', '[HKG] ']","['21-12', '21-9']",MS,20170307,"Birmingham, England"
+69,"['Takeshi Kamura [3]', 'Keigo Sonoda', 'Chen Hung Ling', 'Chi-Lin Wang']","['[JPN] ', '[JPN] ', '[TPE] ', '[TPE] ']","['21-17', '21-18']",MD,20170307,"Birmingham, England"
+70,"['Kenta Kazuno', 'Ayane Kurihara', 'Mathias Christiansen', 'Sara Thygesen']","['[JPN] ', '[JPN] ', '[DEN] ', '[DEN] ']","['21-18', '21-18']",XD,20170307,"Birmingham, England"
+71,"['Ratchanok Intanon [5]', 'Sayaka Sato']","['[THA] ', '[JPN] ']","['21-14', '21-9']",WS,20170307,"Birmingham, England"
+72,"['Bao Yixin', 'Yu Xiaohan', 'Huang Dongping [7]', 'Li Yinhui']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['21-13', '21-13']",WD,20170307,"Birmingham, England"
+73,"['Li Junhui [6]', 'Liu Yuchen', 'Fajar Alfian', 'Muhammad Rian Ardianto']","['[CHN] ', '[CHN] ', '[INA] ', '[INA] ']","['21-19', '21-16']",MD,20170307,"Birmingham, England"
+74,"['Tian Houwei [7]', 'Tommy Sugiarto']","['[CHN] ', '[INA] ']","['21-19', '21-18']",MS,20170307,"Birmingham, England"
+75,"['Tanongsak Saensomboonsuk', 'Hans-Kristian Solberg Vittinghus']","['[THA] ', '[DEN] ']","['21-15', '21-18']",MS,20170307,"Birmingham, England"
+76,"['Dinar Dyah Ayustine', 'Natalia Koch Rohde']","['[INA] ', '[DEN] ']","['21-19', '22-20']",WS,20170307,"Birmingham, England"
+77,"['Lu Kai', 'Zheng Siwei', 'Mathias Boe [2]', 'Carsten Mogensen']","['[CHN] ', '[CHN] ', '[DEN] ', '[DEN] ']","['21-15', '22-20']",MD,20170307,"Birmingham, England"
+78,"['Mark Lamsfuss', 'Isabel Herttrich', 'Bodin Isara', 'Savitree Amitrapai']","['[GER] ', '[GER] ', '[THA] ', '[THA] ']","['21-18', '17-21', '21-16']",XD,20170307,"Birmingham, England"
+79,"['Chang Ye Na [4]', 'Lee So Hee', 'Johanna Goliszewski', 'Lara Kaepplein']","['[KOR] ', '[KOR] ', '[GER] ', '[GER] ']","['21-11', '21-5']",WD,20170307,"Birmingham, England"
+80,"['Julie Finne-Ipsen', 'Rikke Søby', 'Ni Ketut Mahadewi Istarani', 'Tiara Rosalia Nuraidah']","['[DEN] ', '[DEN] ', '[INA] ', '[INA] ']","['22-20', '9-21', '21-18']",WD,20170307,"Birmingham, England"
+81,"['Prannoy H. S.', 'Qiao Bin']","['[IND] ', '[CHN] ']","['17-21', '22-20', '21-19']",MS,20170307,"Birmingham, England"
+82,"['Ng Ka Long Angus [8]', 'Rajiv Ouseph']","['[HKG] ', '[ENG] ']","['19-21', '21-18', '21-12']",MS,20170307,"Birmingham, England"
+83,"['Lee Chun Hei Reginald', 'Chau Hoi Wah', 'Sam Magee', 'Chloe Magee']","['[HKG] ', '[HKG] ', '[IRL] ', '[IRL] ']","['16-21', '21-16', '21-15']",XD,20170307,"Birmingham, England"
+84,"['Huang Yaqiong', 'Tang Jinhua', 'Chiang Kai Hsin', 'Hung Shih Han']","['[CHN] ', '[CHN] ', '[TPE] ', '[TPE] ']","['21-14', '21-16']",WD,20170307,"Birmingham, England"
+85,"['Liu Xiaolong', 'Xu Chen', 'Hiroyuki Endo', 'Yuta Watanabe']","['[CHN] ', '[CHN] ', '[JPN] ', '[JPN] ']","['21-17', '21-14']",MD,20170307,"Birmingham, England"
+86,"['Kim Astrup', 'Anders Skaarup Rasmussen', 'Jhe-Huei Lee', 'Yang Lee']","['[DEN] ', '[DEN] ', '[TPE] ', '[TPE] ']","['21-13', '20-22', '21-11']",MD,20170307,"Birmingham, England"
+87,"['Xiao Min Lin', 'Wu Fang Chien', 'Nadia Fankhauser', 'Sannatasah Saniru']","['[TPE] ', '[TPE] ', '[SUI] ', '[MAS] ']","['21-14', '21-15']",WD,20170307,"Birmingham, England"
+88,"['Jung Kyung Eun [3]', 'Shin Seung Chan', 'Jongkolphan Kititharakul', 'Rawinda Prajongjai']","['[KOR] ', '[KOR] ', '[THA] ', '[THA] ']","['21-19', '21-19']",WD,20170307,"Birmingham, England"
+89,"['Joachim Fischer Nielsen [3]', 'Christinna Pedersen', 'Ronald Ronald', 'Melati Daeva Oktavianti']","['[DEN] ', '[DEN] ', '[INA] ', '[INA] ']","['21-14', '21-5']",XD,20170307,"Birmingham, England"
+90,"['Hsu Ya Ching', 'Cheung Ngan Yi']","['[TPE] ', '[HKG] ']","['17-21', '21-18', '21-18']",WS,20170307,"Birmingham, England"
+91,"['Pusarla V. Sindhu [6]', 'Mette Poulsen']","['[IND] ', '[DEN] ']","['21-10', '21-11']",WS,20170307,"Birmingham, England"
+92,"['Tontowi Ahmad [2]', 'Liliyana Natsir', 'Chi-Lin Wang', 'Chia Hsin Lee']","['[INA] ', '[INA] ', '[TPE] ', '[TPE] ']","['21-8', '21-18']",XD,20170307,"Birmingham, England"
+93,"['Shiho Tanaka', 'Koharu Yonemoto', 'Chen Qingchen [5]', 'Jia Yifan']","['[JPN] ', '[JPN] ', '[CHN] ', '[CHN] ']","['15-21', '28-26', '21-18']",WD,20170307,"Birmingham, England"
+94,"['Liu Cheng', 'Zhang Nan', 'Kittinupong Kedren', 'Dechapol Puavaranukroh']","['[CHN] ', '[CHN] ', '[THA] ', '[THA] ']","['21-11', '16-21', '21-13']",MD,20170307,"Birmingham, England"
+95,"['Vivian Hoo', 'Khe Wei Woon', 'Puttita Supajirakul', 'Sapsiree Taerattanachai']","['[MAS] ', '[MAS] ', '[THA] ', '[THA] ']","['18-21', '21-11', '21-17']",WD,20170307,"Birmingham, England"
+96,"['Huang Kaixiang', 'Wang Yilyu', 'Or Chin Chung', 'Tang Chun Man']","['[CHN] ', '[CHN] ', '[HKG] ', '[HKG] ']","['21-11', '21-17']",MD,20170307,"Birmingham, England"
+97,"['Chai Biao [4]', 'Hong Wei', 'Mathias Christiansen', 'David Daugaard']","['[CHN] ', '[CHN] ', '[DEN] ', '[DEN] ']","['21-18', '21-19']",MD,20170307,"Birmingham, England"
+98,"['Lu Ching Yao', 'Yang Po Han', 'Yew Sin Ong', 'Ee Yi Teo']","['[TPE] ', '[TPE] ', '[MAS] ', '[MAS] ']","['21-14', '13-21', '21-18']",MD,20170307,"Birmingham, England"
+99,"['Greysia Polii', 'Rizki Amelia Pradipta', 'Maiken Fruergaard', 'Sara Thygesen']","['[INA] ', '[INA] ', '[DEN] ', '[DEN] ']","['21-19', '21-17']",WD,20170307,"Birmingham, England"
+100,"['Huang Yuxiang', 'Ajay Jayaram']","['[CHN] ', '[IND] ']","['21-19', '21-13']",MS,20170307,"Birmingham, England"
+101,"['V Shem Goh [1]', 'Wee Kiong Tan', 'Takuro Hoki', 'Yugo Kobayashi']","['[MAS] ', '[MAS] ', '[JPN] ', '[JPN] ']","['21-15', '21-18']",MD,20170307,"Birmingham, England"
+102,"['Sun Yu [4]', 'Beiwen Zhang']","['[CHN] ', '[USA] ']","['21-17', '21-15']",WS,20170307,"Birmingham, England"
+103,"['Robert Mateusiak', 'Nadiezda Zieba', 'Lin Chia Yu', 'Wu Ti Jung']","['[POL] ', '[POL] ', '[TPE] ', '[TPE] ']","['22-20', '21-14']",XD,20170307,"Birmingham, England"
+104,"['Viktor Axelsen [3]', 'Anders Antonsen']","['[DEN] ', '[DEN] ']","['21-13', '21-9']",MS,20170307,"Birmingham, England"
+105,"['Misaki Matsutomo [1]', 'Ayaka Takahashi', 'Della Destiara Haris', 'Rosyita Eka Putri Sari']","['[JPN] ', '[JPN] ', '[INA] ', '[INA] ']","['21-15', '21-13']",WD,20170307,"Birmingham, England"
+106,"['Mads Conrad-Petersen [8]', 'Mads Pieler Kolding', 'Vladimir Ivanov', 'Ivan Sozonov']","['[DEN] ', '[DEN] ', '[RUS] ', '[RUS] ']","['21-11', '21-15']",MD,20170307,"Birmingham, England"
+107,"['Chen Yufei', 'Busanan Ongbamrungphan']","['[CHN] ', '[THA] ']","['18-21', '21-15', '21-11']",WS,20170307,"Birmingham, England"
+108,"['Peng Soon Chan [6]', 'Liu Ying Goh', 'Nico Ruponen', 'Amanda Hogstrom']","['[MAS] ', '[MAS] ', '[SWE] ', '[SWE] ']","['21-12', '21-19']",XD,20170307,"Birmingham, England"
+109,"['Lee Chong Wei [1]', 'Brice Leverdez']","['[MAS] ', '[FRA] ']","['21-15', '21-12']",MS,20170307,"Birmingham, England"
+110,"['Fabienne Deprez', 'Delphine Lansac']","['[GER] ', '[FRA] ']","['19-21', '21-15', '21-18']",WS,20170307,"Birmingham, England"
+111,"['Zhao Junpeng', 'Kidambi Srikanth']","['[CHN] ', '[IND] ']","['21-19', '19-21', '21-12']",MS,20170307,"Birmingham, England"
+112,"['Ricky Karandasuwardi', 'Angga Pratama', 'Marcus Ellis', 'Chris Langridge']","['[INA] ', '[INA] ', '[ENG] ', '[ENG] ']","['27-25', '21-19']",MD,20170307,"Birmingham, England"
+113,"['Saina Nehwal [8]', 'Nozomi Okuhara']","['[IND] ', '[JPN] ']","['21-15', '21-14']",WS,20170307,"Birmingham, England"
+114,"['Wang Yilyu', 'Huang Dongping', 'Solgyu Choi', 'Chae Yoo Jung']","['[CHN] ', '[CHN] ', '[KOR] ', '[KOR] ']","['21-9', '21-16']",XD,20170307,"Birmingham, England"
+115,"['Tzu Wei Wang', 'Wei Nan']","['[TPE] ', '[HKG] ']","['17-21', '21-19', '21-14']",MS,20170307,"Birmingham, England"
+116,"['Jan O Jorgensen [2]', 'Hsu Jen Hao']","['[DEN] ', '[TPE] ']","['21-9', '21-13']",MS,20170307,"Birmingham, England"
+117,"['Kamilla Rytter Juhl [2]', 'Christinna Pedersen', 'Emilie Lefel', 'Anne Tran']","['[DEN] ', '[DEN] ', '[FRA] ', '[FRA] ']","['21-16', '21-16']",WD,20170307,"Birmingham, England"
+118,"['Chen Long [5]', 'Marc Zwiebler']","['[CHN] ', '[GER] ']","['21-17', '21-7']",MS,20170307,"Birmingham, England"
+119,"['Anggia Shitta Awanda', 'Apriyani Rahayu', 'Anastasia Chervyakova', 'Olga Morozova']","['[INA] ', '[INA] ', '[RUS] ', '[RUS] ']","['21-18', '16-21', '21-16']",WD,20170307,"Birmingham, England"
+120,"['Sung Ji Hyun [3]', 'Fitriani Fitriani']","['[KOR] ', '[INA] ']","['21-18', '21-12']",WS,20170307,"Birmingham, England"
+121,"['Lin Dan [6]', 'Zulfadli Zulkiffli']","['[CHN] ', '[MAS] ']","['21-11', '21-12']",MS,20170307,"Birmingham, England"
+122,"['Kazumasa Sakai', 'Wong Wing Ki Vincent']","['[JPN] ', '[HKG] ']","['22-20', '21-18']",MS,20170307,"Birmingham, England"
+123,"['Chris Adcock [7]', 'Gabrielle Adcock', 'Yong Kai Terry Hee', 'Wei Han Tan']","['[ENG] ', '[ENG] ', '[SGP] ', '[SGP] ']","['21-9', '21-18']",XD,20170307,"Birmingham, England"
+124,"['Akane Yamaguchi [7]', 'Xiaoyu Liang']","['[JPN] ', '[SGP] ']","['21-16', '21-12']",WS,20170307,"Birmingham, England"
+125,"['Chiang Mei Hui', 'Linda Zetchiri']","['[TPE] ', '[BUL] ']","['21-11', '19-21', '21-14']",WS,20170307,"Birmingham, England"
+126,"['Yip Pui Yin', 'Fontaine Mica Chapman']","['[HKG] ', '[ENG] ']","['21-12', '21-19']",WS,20170307,"Birmingham, England"
+127,"['Carolina Marin [2]', 'Line Kjaersfeldt']","['[ESP] ', '[DEN] ']","['21-12', '21-17']",WS,20170307,"Birmingham, England"
+128,"['Zhang Nan', 'Li Yinhui', 'Hafiz Faizal', 'Shela Devi Aulia']","['[CHN] ', '[CHN] ', '[INA] ', '[INA] ']","['21-16', '21-13']",XD,20170307,"Birmingham, England"
+129,"['Luo Ying [6]', 'Luo Yu', 'Gabriela Stoeva', 'Stefani Stoeva']","['[CHN] ', '[CHN] ', '[BUL] ', '[BUL] ']","['21-16', '16-21', '21-6']",WD,20170307,"Birmingham, England"
+130,"['Xu Chen', 'Du Yue', 'Nipitphon Phuangphuapet', 'Jongkolphan Kititharakul']","['[CHN] ', '[CHN] ', '[THA] ', '[THA] ']","['21-9', '25-23']",XD,20170307,"Birmingham, England"
+131,"['Naoko Fukuman [8]', 'Kurumi Yonao', 'Cheryl Seinen', 'Iris Tabeling']","['[JPN] ', '[JPN] ', '[NED] ', '[NED] ']","['21-18', '21-11']",WD,20170307,"Birmingham, England"
+132,"['Yuta Watanabe', 'Arisa Higashino', 'Praveen Jordan [4]', 'Debby Susanto']","['[JPN] ', '[JPN] ', '[INA] ', '[INA] ']","['21-17', '19-21', '21-12']",XD,20170307,"Birmingham, England"
+133,"['Yuki Fukushima', 'Sayaka Hirota', 'Mariya Mitsova', 'Petya Nedelcheva']","['[JPN] ', '[JPN] ', '[BUL] ', '[BUL] ']","['21-10', '21-9']",WD,20170307,"Birmingham, England"
+134,"['Kian Meng Tan [8]', 'Pei Jing Lai', 'Lu Ching Yao', 'Chiang Kai Hsin']","['[MAS] ', '[MAS] ', '[TPE] ', '[TPE] ']","['21-14', '21-19']",XD,20170307,"Birmingham, England"
+135,"['Yoo Yeon Seong', 'Kim Ha Na', 'Pranaav Jerry Chopra', 'Reddy N. Sikki']","['[KOR] ', '[KOR] ', '[IND] ', '[IND] ']","['21-19', '22-20']",XD,20170307,"Birmingham, England"
+136,"['Pusarla V. Sindhu [6]', 'Dinar Dyah Ayustine']","['[IND] ', '[INA] ']","['21-12', '21-4']",WS ,20170307,"Birmingham, England"
+137,"['Lee Chong Wei [1]', 'Tzu Wei Wang']","['[MAS] ', '[TPE] ']","['21-18', '21-18']",MS ,20170307,"Birmingham, England"
+138,"['Takeshi Kamura [3]', 'Keigo Sonoda', 'Kim Astrup', 'Anders Skaarup Rasmussen']","['[JPN] ', '[JPN] ', '[DEN] ', '[DEN] ']","['21-18', '21-15']",MD ,20170307,"Birmingham, England"
+139,"['Ratchanok Intanon [5]', 'Hsu Ya Ching']","['[THA] ', '[TPE] ']","['21-14', '21-15']",WS ,20170307,"Birmingham, England"
+140,"['Chris Adcock [7]', 'Gabrielle Adcock', 'Xu Chen', 'Du Yue']","['[ENG] ', '[ENG] ', '[CHN] ', '[CHN] ']","['21-17', '21-12']",XD ,20170307,"Birmingham, England"
+141,"['Tai Tzu Ying [1]', 'Pusarla V. Sindhu [6]']","['[TPE] ', '[IND] ']","['21-14', '21-10']",WS ,20170307,"Birmingham, England"
+142,"['Li Junhui [6]', 'Liu Yuchen', 'V Shem Goh [1]', 'Wee Kiong Tan']","['[CHN] ', '[CHN] ', '[MAS] ', '[MAS] ']","['21-19', '17-21', '21-19']",MD ,20170307,"Birmingham, England"
+143,"['Chris Adcock [7]', 'Gabrielle Adcock', 'Tontowi Ahmad [2]', 'Liliyana Natsir']","['[ENG] ', '[ENG] ', '[INA] ', '[INA] ']","['16-21', '21-19', '21-12']",XD ,20170307,"Birmingham, England"
+144,"['Ratchanok Intanon [5]', 'Carolina Marin [2]']","['[THA] ', '[ESP] ']","['22-20', '13-21', '21-18']",WS ,20170307,"Birmingham, England"
+145,"['Lin Dan [6]', 'Viktor Axelsen [3]']","['[CHN] ', '[DEN] ']","['8-21', '21-14', '21-15']",MS ,20170307,"Birmingham, England"
+146,"['Lee Chong Wei [1]', 'Tian Houwei [7]']","['[MAS] ', '[CHN] ']","['21-12', '21-15']",MS ,20170307,"Birmingham, England"
+147,"['Kamilla Rytter Juhl [2]', 'Christinna Pedersen', 'Naoko Fukuman [8]', 'Kurumi Yonao']","['[DEN] ', '[DEN] ', '[JPN] ', '[JPN] ']","['21-12', '21-11']",WD ,20170307,"Birmingham, England"
+148,"['Ratchanok Intanon [5]', 'Akane Yamaguchi [7]']","['[THA] ', '[JPN] ']","['22-20', '21-16']",WS ,20170307,"Birmingham, England"
+149,"['Lee Chong Wei [1]', 'Chou Tien Chen']","['[MAS] ', '[TPE] ']","['10-21', '21-14', '21-9']",MS ,20170307,"Birmingham, England"
+150,"['Lu Kai [5]', 'Huang Yaqiong', 'Chris Adcock [7]', 'Gabrielle Adcock']","['[CHN] ', '[CHN] ', '[ENG] ', '[ENG] ']","['19-21', '21-12', '22-20']",XD ,20170307,"Birmingham, England"
+151,"['Kamilla Rytter Juhl [2]', 'Christinna Pedersen', 'Jung Kyung Eun [3]', 'Shin Seung Chan']","['[DEN] ', '[DEN] ', '[KOR] ', '[KOR] ']","['21-16', '21-13']",WD ,20170307,"Birmingham, England"
+152,"['Marcus Fernaldi Gideon [5]', 'Kevin Sanjaya Sukamuljo', 'Mads Conrad-Petersen [8]', 'Mads Pieler Kolding']","['[INA] ', '[INA] ', '[DEN] ', '[DEN] ']","['19-21', '21-13', '21-17']",MD ,20170307,"Birmingham, England"
+153,"['Li Junhui [6]', 'Liu Yuchen', 'Liu Cheng', 'Zhang Nan']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['21-18', '21-14']",MD ,20170307,"Birmingham, England"
+154,"['Tai Tzu Ying [1]', 'Sung Ji Hyun [3]']","['[TPE] ', '[KOR] ']","['11-21', '21-14', '21-14']",WS ,20170307,"Birmingham, England"
+155,"['Chang Ye Na [4]', 'Lee So Hee', 'Bao Yixin', 'Yu Xiaohan']","['[KOR] ', '[KOR] ', '[CHN] ', '[CHN] ']","['21-18', '21-18']",WD ,20170307,"Birmingham, England"
+156,"['Peng Soon Chan [6]', 'Liu Ying Goh', 'Yuta Watanabe', 'Arisa Higashino']","['[MAS] ', '[MAS] ', '[JPN] ', '[JPN] ']","['21-17', '21-15']",XD ,20170307,"Birmingham, England"
+157,"['Shi Yuqi', 'Lin Dan [6]']","['[CHN] ', '[CHN] ']","['24-22', '21-11']",MS ,20170307,"Birmingham, England"
+158,"['Lu Kai [5]', 'Huang Yaqiong', 'Peng Soon Chan [6]', 'Liu Ying Goh']","['[CHN] ', '[CHN] ', '[MAS] ', '[MAS] ']","['18-21', '21-19', '21-16']",XD ,20170307,"Birmingham, England"
+159,"['Lee Chong Wei [1]', 'Shi Yuqi']","['[MAS] ', '[CHN] ']","['21-12', '21-10']",MS ,20170307,"Birmingham, England"
+160,"['Chang Ye Na [4]', 'Lee So Hee', 'Kamilla Rytter Juhl [2]', 'Christinna Pedersen']","['[KOR] ', '[KOR] ', '[DEN] ', '[DEN] ']","['21-18', '21-13']",WD ,20170307,"Birmingham, England"
+161,"['Marcus Fernaldi Gideon [5]', 'Kevin Sanjaya Sukamuljo', 'Li Junhui [6]', 'Liu Yuchen']","['[INA] ', '[INA] ', '[CHN] ', '[CHN] ']","['21-19', '21-14']",MD ,20170307,"Birmingham, England"
+162,"['Tai Tzu Ying [1]', 'Ratchanok Intanon [5]']","['[TPE] ', '[THA] ']","['21-16', '22-20']",WS ,20170307,"Birmingham, England"

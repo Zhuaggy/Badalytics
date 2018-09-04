@@ -1,150 +1,150 @@
-,PLAYERS,COUNTRIES,SCORES,EVENT,match_week
-0,"['Ratnajit Tamang [4]', 'Pang Fong Pui']","['[NEP] ', '[MAC] ']","['17-21', '21-16', '21-16']",MS - Group D,20180424
-1,"['Hu Yun', 'Adnan Ebrahim']","['[HKG] ', '[BRN] ']","['21-16', '21-14']",MS - Group A,20180424
-2,"['Bahaedeen Ahmad Alshannik [2]', 'Jaspar Woon Chai Yu']","['[JOR] ', '[BRU] ']","['21-18', '21-15']",MS - Group B,20180424
-3,"['Wangcharoen Kantaphon', 'Dmitriy Panarin']","['[THA] ', '[KAZ] ']","['21-14', '21-9']",MS - Group C,20180424
-4,"['Sri Krishna Priya Kudaravalli [4]', 'Soraya Aghaeihajiagha']","['[IND] ', '[IRI] ']","['21-12', '22-20']",WS - Group C,20180424
-5,"['Angga Pratama', 'Rian Agung Saputro', 'Danny Bawa Chrisnanta [3]', 'Hee Yong Kai Terry']","['[INA] ', '[INA] ', '[SGP] ', '[SGP] ']","['21-19', '21-14']",MD - Group C,20180424
-6,"['Mohammad Ahsan [4]', 'Hendra Setiawan', 'Ahmad Mahyuddin Haji Abas', 'Mohamad Fairie Syah Ruslan']","['[INA] ', '[INA] ', '[BRU] ', '[BRU] ']","['21-8', '21-15']",MD - Group D,20180424
-7,"['Jui Jeon', 'Thilini Pramodika Hendahewa']","['[KOR] ', '[SRI] ']","['21-6', '21-7']",WS - Group A,20180424
-8,"['Leong Iok Chong', 'Pang Fong Pui', 'Kapil Chaudhary [2]', 'Brijesh Yadav']","['[MAC] ', '[MAC] ', '[IND] ', '[IND] ']",[],MD - Group B,20180424
-9,"['Thuy Linh Nguyen', 'Fathimath Nabaaha Abdul Razzaq']","['[VIE] ', '[MDV] ']","['21-7', '21-4']",WS - Group B,20180424
-10,"['Chua Hui Zhen Grace', 'Weng Chi Ng']","['[SGP] ', '[MAC] ']","['21-3', '21-9']",WS - Group D,20180424
-11,"['Ratnajit Tamang [4]', 'Artyom Savatyugin']","['[NEP] ', '[UZB] ']","['21-18', '10-21', '21-15']",MS - Group D,20180424
-12,"['Jaspar Woon Chai Yu', 'Batdavaa Munkhbat']","['[BRU] ', '[MGL] ']","['21-15', '21-13']",MS - Group B,20180424
-13,"['Adnan Ebrahim', 'Mehran Shahbazi']","['[BRN] ', '[IRI] ']","['21-23', '22-20', '21-15']",MS - Group A,20180424
-14,"['Dmitriy Panarin', 'Hussein Zayan Shaheed']","['[KAZ] ', '[MDV] ']","['21-16', '21-5']",MS - Group C,20180424
-15,"['Yeo Jia Min', 'Soraya Aghaeihajiagha']","['[SGP] ', '[IRI] ']","['21-10', '21-11']",WS - Group C,20180424
-16,"['Dipesh Dhami', 'Ratnajit Tamang', 'Ahmad Mahyuddin Haji Abas', 'Mohamad Fairie Syah Ruslan']","['[NEP] ', '[NEP] ', '[BRU] ', '[BRU] ']","['20-22', '21-8', '21-19']",MD - Group D,20180424
-17,"['Dinuka Karunaratna', 'Niluka Karunaratne', 'Kapil Chaudhary [2]', 'Brijesh Yadav']","['[SRI] ', '[SRI] ', '[IND] ', '[IND] ']",[],MD - Group B,20180424
-18,"['Pang Fong Pui', 'Artyom Savatyugin']","['[MAC] ', '[UZB] ']","['21-16', '21-9']",MS - Group D,20180424
-19,"['Hu Yun', 'Mehran Shahbazi']","['[HKG] ', '[IRI] ']","['21-15', '21-10']",MS - Group A,20180424
-20,"['Bahaedeen Ahmad Alshannik [2]', 'Batdavaa Munkhbat']","['[JOR] ', '[MGL] ']","['21-17', '21-10']",MS - Group B,20180424
-21,"['Wangcharoen Kantaphon', 'Hussein Zayan Shaheed']","['[THA] ', '[MDV] ']","['21-5', '21-11']",MS - Group C,20180424
-22,"['Angga Pratama', 'Rian Agung Saputro', 'Artur Niyazov', 'Dmitriy Panarin']","['[INA] ', '[INA] ', '[KAZ] ', '[KAZ] ']","['21-6', '21-15']",MD - Group C,20180424
-23,"['Dinuka Karunaratna', 'Niluka Karunaratne', 'Leong Iok Chong', 'Pang Fong Pui']","['[SRI] ', '[SRI] ', '[MAC] ', '[MAC] ']","['21-13', '21-11']",MD - Group B,20180424
-24,"['Mohammad Ahsan [4]', 'Hendra Setiawan', 'Dipesh Dhami', 'Ratnajit Tamang']","['[INA] ', '[INA] ', '[NEP] ', '[NEP] ']","['21-9', '21-7']",MD - Group D,20180424
-25,"['Yeo Jia Min', 'Sri Krishna Priya Kudaravalli [4]']","['[SGP] ', '[IND] ']","['21-6', '21-11']",WS - Group C,20180424
-26,"['Danny Bawa Chrisnanta [3]', 'Hee Yong Kai Terry', 'Artur Niyazov', 'Dmitriy Panarin']","['[SGP] ', '[SGP] ', '[KAZ] ', '[KAZ] ']","['21-19', '21-15']",MD - Group C,20180424
-27,"['Tinn Isriyanet', 'Pacharapun Chochuwong', 'Lu Ching Yao', 'Chiang Kai Hsin']","['[THA] ', '[THA] ', '[TPE] ', '[TPE] ']","['21-11', '17-21', '21-12']",XD,20180424
-28,"['Tontowi Ahmad [1]', 'Liliyana Natsir', 'Yuki Kaneko', 'Koharu Yonemoto']","['[INA] ', '[INA] ', '[JPN] ', '[JPN] ']","['21-18', '21-12']",XD,20180424
-29,"['Kim Won Ho', 'Shin Seung Chan', 'Saurabh Sharma', 'Anoushka Parikh']","['[KOR] ', '[KOR] ', '[IND] ', '[IND] ']","['21-17', '21-14']",XD,20180424
-30,"['Tang Chun Man [3]', 'Tse Ying Suet', 'Praveen Jordan', 'Melati Daeva Oktavianti']","['[HKG] ', '[HKG] ', '[INA] ', '[INA] ']","['21-16', '21-12']",XD,20180424
-31,"['Ratchanok Intanon [4]', 'Lee Chia Hsin']","['[THA] ', '[TPE] ']","['21-7', '21-13']",WS,20180424
-32,"['He Jiting', 'Du Yue', 'Tan Kian Meng [7]', 'Lai Pei Jing']","['[CHN] ', '[CHN] ', '[MAS] ', '[MAS] ']","['18-21', '21-12', '21-16']",XD,20180424
-33,"['Nipitphon Phuangphuapet', 'Jongkolphan Kititharakul', 'Danny Bawa Chrisnanta', 'Wong Jia Ying Crystal']","['[THA] ', '[THA] ', '[SGP] ', '[SGP] ']","['21-9', '13-21', '21-12']",XD,20180424
-34,"['Zheng Siwei [5]', 'Huang Yaqiong', 'Hussein Zayan Shaheed', 'Fathimath Nabaaha Abdul Razzaq']","['[CHN] ', '[CHN] ', '[MDV] ', '[MDV] ']","['21-2', '21-9']",XD,20180424
-35,"['Choi Solgyu', 'Chae Yujung', 'Liao Min Chun', 'Chen Hsiao Huan']","['[KOR] ', '[KOR] ', '[TPE] ', '[TPE] ']","['21-17', '24-22']",XD,20180424
-36,"['Tai Tzu Ying [1]', 'Jui Jeon']","['[TPE] ', '[KOR] ']","['21-13', '21-9']",WS,20180424
-37,"['Chen Long [3]', 'Bahaedeen Ahmad Alshannik']","['[CHN] ', '[JOR] ']","['21-8', '21-8']",MS,20180424
-38,"['Kim Hyo Min', 'Lyanny Alessandra Mainaky']","['[KOR] ', '[INA] ']","['21-10', '21-10']",WS,20180424
-39,"['He Bingjiao [8]', 'Yip Pui Yin']","['[CHN] ', '[HKG] ']","['21-19', '21-14']",WS,20180424
-40,"['Pornpawee Chochuwong', 'Aya Ohori']","['[THA] ', '[JPN] ']","['21-7', '16-21', '21-18']",WS,20180424
-41,"['Lee Jang Mi', 'Hanna Ramadini']","['[KOR] ', '[INA] ']","['21-17', '17-21', '25-23']",WS,20180424
-42,"['Kidambi Srikanth [1]', 'Kenta Nishimoto']","['[IND] ', '[JPN] ']","['13-21', '21-16', '21-16']",MS,20180424
-43,"['Wong Wing Ki Vincent', 'Ratnajit Tamang']","['[HKG] ', '[NEP] ']","['21-16', '17-21', '21-4']",MS,20180424
-44,"['Anthony Sinisuka Ginting', 'Niluka Karunaratne']","['[INA] ', '[SRI] ']","['22-20', '21-12']",MS,20180424
-45,"['Shi Yuqi [4]', 'Lee Dong Keun']","['[CHN] ', '[KOR] ']","['21-3', '6-2']",MS,20180424
-46,"['Wang Chi-Lin', 'Lee Chia Hsin', 'Hee Yong Kai Terry', 'Ong Ren-Ne']","['[TPE] ', '[TPE] ', '[SGP] ', '[SGP] ']","['21-15', '21-13']",XD,20180424
-47,"['Della Destiara Haris', 'Rizki Amelia Pradipta', 'Hsu Ya Ching', 'Wu Ti Jung']","['[INA] ', '[INA] ', '[TPE] ', '[TPE] ']","['21-17', '21-16']",WD,20180424
-48,"['Kento Momota', 'Tien Minh Nguyen']","['[JPN] ', '[VIE] ']","['21-11', '21-15']",MS,20180424
-49,"['Chou Tien Chen [7]', 'Sameer Verma']","['[TPE] ', '[IND] ']","['23-21', '21-17']",MS,20180424
-50,"['Chen Qingchen [1]', 'Jia Yifan', 'Kittipak Dubthuk', 'Natcha Saengchote']","['[CHN] ', '[CHN] ', '[THA] ', '[THA] ']","['21-10', '21-18']",WD,20180424
-51,"['Saina Nehwal', 'Yeo Jia Min']","['[IND] ', '[SGP] ']","['21-12', '21-9']",WS,20180424
-52,"['Greysia Polii [5]', 'Apriyani Rahayu', 'Huang Dongping', 'Li Wenmei']","['[INA] ', '[INA] ', '[CHN] ', '[CHN] ']","['15-21', '21-11', '21-19']",WD,20180424
-53,"['Naoko Fukuman', 'Kurumi Yonao', 'Lee So Hee [6]', 'Shin Seung Chan']","['[JPN] ', '[JPN] ', '[KOR] ', '[KOR] ']",['5-2'],WD,20180424
-54,"['Yuki Fukushima [3]', 'Sayaka Hirota', 'Chow Mei Kuan', 'Lee Meng Yean']","['[JPN] ', '[JPN] ', '[MAS] ', '[MAS] ']","['21-12', '21-7']",WD,20180424
-55,"['Huang Yaqiong', 'Tang Jinhua', 'Cheng Yu Chieh', 'Hu Ling Fang']","['[CHN] ', '[CHN] ', '[TPE] ', '[TPE] ']","['21-13', '21-15']",WD,20180424
-56,"['Jongkolphan Kititharakul [7]', 'Rawinda Prajongjai', 'Xue Xin Gong', 'Weng Chi Ng']","['[THA] ', '[THA] ', '[MAC] ', '[MAC] ']","['21-11', '21-9']",WD,20180424
-57,"['Gao Fangjie', 'Nozomi Okuhara [5]']","['[CHN] ', '[JPN] ']","['21-15', '23-21']",WS,20180424
-58,"['Jakkampudi Meghana', 'Poorvisha S Ram', 'Ong Ren-Ne', 'Wong Jia Ying Crystal']","['[IND] ', '[IND] ', '[SGP] ', '[SGP] ']","['14-21', '22-20', '21-17']",WD,20180424
-59,"['Arjun M.R.', 'Ramchandran Shlok', 'Chung Eui Seok', 'Kim Dukyoung']","['[IND] ', '[IND] ', '[KOR] ', '[KOR] ']","['25-23', '23-21']",MD,20180424
-60,"['Takuto Inoue [6]', 'Yuki Kaneko', 'Or Chin Chung', 'Tang Chun Man']","['[JPN] ', '[JPN] ', '[HKG] ', '[HKG] ']","['21-13', '21-10']",MD,20180424
-61,"['Du Yue [8]', 'Li Yinhui', 'Chayanit Chaladchalam', 'Phataimas Muenwong']","['[CHN] ', '[CHN] ', '[THA] ', '[THA] ']","['21-10', '21-17']",WD,20180424
-62,"['Lee Chong Wei [5]', 'Qiao Bin']","['[MAS] ', '[CHN] ']","['21-17', '21-16']",MS,20180424
-63,"['Lu Ching Yao', 'Yang Po Han', 'Sze Fei Goh', 'Nur Izzuddin']","['[TPE] ', '[TPE] ', '[MAS] ', '[MAS] ']","['20-22', '21-18', '21-17']",MD,20180424
-64,"['Huang Kaixiang', 'Wang Yilyu', 'Chen Hung Ling [4]', 'Wang Chi-Lin']","['[CHN] ', '[CHN] ', '[TPE] ', '[TPE] ']","['21-11', '21-19']",MD,20180424
-65,"['Angga Pratama', 'Rian Agung Saputro', 'Ong Yew Sin', 'Teo Ee Yi']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['21-17', '25-23']",MD,20180424
-66,"['Fajar Alfian [7]', 'Muhammad Rian Ardianto', 'Hyuk Gyun Choi', 'Park Kyung Hoon']","['[INA] ', '[INA] ', '[KOR] ', '[KOR] ']","['21-18', '21-17']",MD,20180424
-67,"['Liu Cheng [2]', 'Zhang Nan', 'Bahaedeen Ahmad Alshannik', 'Mohd Naser Mansour Nayef']","['[CHN] ', '[CHN] ', '[JOR] ', '[JOR] ']","['21-11', '21-16']",MD,20180424
-68,"['Dechapol Puavaranukroh [8]', 'Sapsiree Taerattanachai', 'Chang Tak Ching', 'Ng Wing Yung']","['[THA] ', '[THA] ', '[HKG] ', '[HKG] ']","['18-21', '21-12', '21-15']",XD,20180424
-69,"['Yuta Watanabe', 'Arisa Higashino', 'Seung Jae Seo [4]', 'Kim Ha Na']","['[JPN] ', '[JPN] ', '[KOR] ', '[KOR] ']","['21-16', '21-12']",XD,20180424
-70,"['Ricky Karandasuwardi', 'Debby Susanto', 'Sachin Dias', 'Thilini Pramodika Hendahewa']","['[INA] ', '[INA] ', '[SRI] ', '[SRI] ']","['21-14', '17-21', '21-10']",XD,20180424
-71,"['Goh Soon Huat [6]', 'Shevon Jemie Lai', 'Lee Yang', 'Hsu Ya Ching']","['[MAS] ', '[MAS] ', '[TPE] ', '[TPE] ']","['21-19', '21-6']",XD,20180424
-72,"['Pusarla V. Sindhu [3]', 'Pai Yu Po']","['[IND] ', '[TPE] ']","['21-14', '21-19']",WS,20180424
-73,"['Lee Chun Hei Reginald', 'Chau Hoi Wah', 'Venkat Gaurav Prasad', 'Juhi Dewangan']","['[HKG] ', '[HKG] ', '[IND] ', '[IND] ']","['21-11', '21-13']",XD,20180424
-74,"['Busanan Ongbamrungphan', 'Goh Jin Wei']","['[THA] ', '[MAS] ']","['18-21', '21-15', '21-10']",WS,20180424
-75,"['Sung Ji Hyun [7]', 'Sayaka Sato']","['[KOR] ', '[JPN] ']","['21-13', '21-19']",WS,20180424
-76,"['Chen Xiaoxin', 'Thuy Linh Nguyen']","['[CHN] ', '[VIE] ']","['21-13', '21-9']",WS,20180424
-77,"['Wang Yilyu [2]', 'Huang Dongping', 'Tuan Duc Do', 'Nhu Thao Pham']","['[CHN] ', '[CHN] ', '[VIE] ', '[VIE] ']","['21-10', '21-15']",XD,20180424
-78,"['Nitchaon Jindapol', 'Ying Ying Lee']","['[THA] ', '[MAS] ']","['12-21', '21-17', '21-17']",WS,20180424
-79,"['Chen Yufei [6]', 'Chiang Mei Hui']","['[CHN] ', '[TPE] ']","['21-10', '21-15']",WS,20180424
-80,"['Cheung Ngan Yi', 'Dinar Dyah Ayustine']","['[HKG] ', '[INA] ']","['21-17', '21-18']",WS,20180424
-81,"['Wang Tzu Wei', 'Lin Dan [6]']","['[TPE] ', '[CHN] ']","['15-21', '21-9', '21-16']",MS,20180424
-82,"['Ng Ka Long Angus [8]', 'Hsu Jen Hao']","['[HKG] ', '[TPE] ']","['21-18', '14-21', '21-14']",MS,20180424
-83,"['Jonatan Christie', 'Kazumasa Sakai']","['[INA] ', '[JPN] ']","['21-13', '21-11']",MS,20180424
-84,"['Sai Praneeth B.', 'Suppanyu Avihingsanon']","['[IND] ', '[THA] ']","['21-13', '11-21', '21-19']",MS,20180424
-85,"['Thi Trang (B) Vu', 'Chua Hui Zhen Grace']","['[VIE] ', '[SGP] ']","['21-10', '21-17']",WS,20180424
-86,"['Zhang Nan', 'Li Yinhui', 'Rohan Kapoor', 'Kuhoo Garg']","['[CHN] ', '[CHN] ', '[IND] ', '[IND] ']","['21-10', '21-17']",XD,20180424
-87,"['Lin Xiao Min', 'Wu Fang Chien', 'Aminath Nabeeha Abdul Razzaq', 'Fathimath Nabaaha Abdul Razzaq']","['[TPE] ', '[TPE] ', '[MDV] ', '[MDV] ']","['21-9', '21-12']",WD,20180424
-88,"['Prannoy H. S.', 'Wangcharoen Kantaphon']","['[IND] ', '[THA] ']","['21-15', '19-21', '21-19']",MS,20180424
-89,"['Kanta Tsuneyama', 'Ng Zin Rei Ryan']","['[JPN] ', '[SGP] ']","['21-5', '21-17']",MS,20180424
-90,"['Son Wan Ho [2]', 'Ihsan Maulana Mustofa']","['[KOR] ', '[INA] ']","['21-17', '21-10']",MS,20180424
-91,"['Misaki Matsutomo [2]', 'Ayaka Takahashi', 'Thilini Pramodika Hendahewa', 'Kavidi Sirimannage']","['[JPN] ', '[JPN] ', '[SRI] ', '[SRI] ']","['21-6', '21-7']",WD,20180424
-92,"['Khosit Phetpradab', 'Hu Yun']","['[THA] ', '[HKG] ']","['21-14', '21-8']",MS,20180424
-93,"['Kim So Yeong', 'Hee Yong Kong', 'Shiho Tanaka [4]', 'Koharu Yonemoto']","['[KOR] ', '[KOR] ', '[JPN] ', '[JPN] ']","['19-21', '23-21', '21-19']",WD,20180424
-94,"['Ha Na Baek', 'Yu Rim Lee', 'Aparna Balan', 'Sruthi K.P']","['[KOR] ', '[KOR] ', '[IND] ', '[IND] ']","['21-10', '21-10']",WD,20180424
-95,"['Lee Jhe-Huei [5]', 'Lee Yang', 'Chooi Kah Ming', 'Low Juan Shen']","['[TPE] ', '[TPE] ', '[MAS] ', '[MAS] ']","['21-16', '18-21', '21-16']",MD,20180424
-96,"['Savitree Amitrapai', 'Pacharapun Chochuwong', 'Chiang Kai Hsin', 'Hung Shih Han']","['[THA] ', '[THA] ', '[TPE] ', '[TPE] ']","['21-18', '21-13']",WD,20180424
-97,"['Li Junhui [1]', 'Liu Yuchen', 'Dinuka Karunaratna', 'Niluka Karunaratne']","['[CHN] ', '[CHN] ', '[SRI] ', '[SRI] ']","['21-12', '21-10']",MD,20180424
-98,"['Soong Fie Cho', 'Tee Jing Yi', 'Kuhoo Garg', 'Ningshi Block Hazarika']","['[MAS] ', '[MAS] ', '[IND] ', '[IND] ']","['21-10', '21-12']",WD,20180424
-99,"['Hiroyuki Endo', 'Yuta Watanabe', 'Kittinupong Kedren', 'Dechapol Puavaranukroh']","['[JPN] ', '[JPN] ', '[THA] ', '[THA] ']","['21-11', '21-10']",MD,20180424
-100,"['Berry Angriawan', 'Hardianto Hardianto', 'Choi Solgyu', 'Jae Hwan Kim']","['[INA] ', '[INA] ', '[KOR] ', '[KOR] ']","['15-21', '22-20', '21-15']",MD,20180424
-101,"['Goh V Shem [8]', 'Tan Wee Kiong', 'Liao Min Chun', 'Su Ching Heng']","['[MAS] ', '[MAS] ', '[TPE] ', '[TPE] ']","['24-22', '22-20']",MD,20180424
-102,"['Mohammad Ahsan', 'Hendra Setiawan', 'Kim Won Ho', 'Seung Jae Seo']","['[INA] ', '[INA] ', '[KOR] ', '[KOR] ']","['21-17', '21-18']",MD,20180424
-103,"['He Jiting', 'Tan Qiang', 'Tinn Isriyanet', 'Kittisak Namdash']","['[CHN] ', '[CHN] ', '[THA] ', '[THA] ']","['21-14', '21-18']",MD,20180424
-104,"['Takeshi Kamura [3]', 'Keigo Sonoda', 'Amrullo Bakhshullaev', 'Artyom Savatyugin']","['[JPN] ', '[JPN] ', '[UZB] ', '[UZB] ']","['21-8', '21-7']",MD,20180424
-105,"['Bodin Isara', 'Nipitphon Phuangphuapet', 'Manu Attri', 'Reddy B. Sumeeth']","['[THA] ', '[THA] ', '[IND] ', '[IND] ']","['21-14', '21-16']",MD,20180424
-106,"['Kim So Yeong', 'Hee Yong Kong', 'Lin Xiao Min', 'Wu Fang Chien']","['[KOR] ', '[KOR] ', '[TPE] ', '[TPE] ']","['21-7', '21-5']",WD ,20180424
-107,"['Chou Tien Chen [7]', 'Khosit Phetpradab']","['[TPE] ', '[THA] ']","['21-18', '18-21', '21-13']",MS ,20180424
-108,"['Li Junhui [1]', 'Liu Yuchen', 'Arjun M.R.', 'Ramchandran Shlok']","['[CHN] ', '[CHN] ', '[IND] ', '[IND] ']","['21-11', '21-19']",MD ,20180424
-109,"['Kento Momota', 'Shi Yuqi [4]']","['[JPN] ', '[CHN] ']","['21-15', '12-21', '21-12']",MS ,20180424
-110,"['Pusarla V. Sindhu [3]', 'Chen Xiaoxin']","['[IND] ', '[CHN] ']","['21-12', '21-15']",WS ,20180424
-111,"['Zheng Siwei [5]', 'Huang Yaqiong', 'Choi Solgyu', 'Chae Yujung']","['[CHN] ', '[CHN] ', '[KOR] ', '[KOR] ']","['21-16', '21-16']",XD ,20180424
-112,"['Sung Ji Hyun [7]', 'Busanan Ongbamrungphan']","['[KOR] ', '[THA] ']","['21-14', '21-12']",WS ,20180424
-113,"['Naoko Fukuman', 'Kurumi Yonao', 'Ng Wing Yung', 'Yeung Nga Ting']","['[JPN] ', '[JPN] ', '[HKG] ', '[HKG] ']","['21-8', '21-12']",WD ,20180424
-114,"['Lee Chong Wei [5]', 'Kidambi Srikanth [1]']","['[MAS] ', '[IND] ']","['21-12', '21-15']",MS ,20180424
-115,"['Kento Momota', 'Chou Tien Chen [7]']","['[JPN] ', '[TPE] ']","['21-5', '21-13']",MS ,20180424
-116,"['Li Junhui [1]', 'Liu Yuchen', 'Takuto Inoue [6]', 'Yuki Kaneko']","['[CHN] ', '[CHN] ', '[JPN] ', '[JPN] ']","['21-17', '15-21', '21-17']",MD ,20180424
-117,"['Tai Tzu Ying [1]', 'He Bingjiao [8]']","['[TPE] ', '[CHN] ']","['21-14', '21-9']",WS ,20180424
-118,"['Zheng Siwei [5]', 'Huang Yaqiong', 'Tang Chun Man [3]', 'Tse Ying Suet']","['[CHN] ', '[CHN] ', '[HKG] ', '[HKG] ']","['21-8', '21-7']",XD ,20180424
-119,"['Kim So Yeong', 'Hee Yong Kong', 'Du Yue [8]', 'Li Yinhui']","['[KOR] ', '[KOR] ', '[CHN] ', '[CHN] ']","['21-17', '20-22', '21-11']",WD ,20180424
-120,"['Chen Long [3]', 'Ng Ka Long Angus [8]']","['[CHN] ', '[HKG] ']","['22-24', '21-15', '21-17']",MS ,20180424
-121,"['Tontowi Ahmad [1]', 'Liliyana Natsir', 'He Jiting', 'Du Yue']","['[INA] ', '[INA] ', '[CHN] ', '[CHN] ']","['21-11', '9-21', '21-10']",XD ,20180424
-122,"['Takeshi Kamura [3]', 'Keigo Sonoda', 'Goh V Shem [8]', 'Tan Wee Kiong']","['[JPN] ', '[JPN] ', '[MAS] ', '[MAS] ']","['21-18', '21-17']",MD ,20180424
-123,"['Prannoy H. S.', 'Son Wan Ho [2]']","['[IND] ', '[KOR] ']","['18-21', '23-21', '21-12']",MS ,20180424
-124,"['Zhang Nan', 'Li Yinhui', 'Dechapol Puavaranukroh [8]', 'Sapsiree Taerattanachai']","['[CHN] ', '[CHN] ', '[THA] ', '[THA] ']","['21-16', '21-16']",XD ,20180424
-125,"['Yuki Fukushima [3]', 'Sayaka Hirota', 'Jongkolphan Kititharakul [7]', 'Rawinda Prajongjai']","['[JPN] ', '[JPN] ', '[THA] ', '[THA] ']","['21-19', '21-13']",WD ,20180424
-126,"['Sung Ji Hyun [7]', 'Pusarla V. Sindhu [3]']","['[KOR] ', '[IND] ']","['21-19', '21-10']",WS ,20180424
-127,"['Misaki Matsutomo [2]', 'Ayaka Takahashi', 'Greysia Polii [5]', 'Apriyani Rahayu']","['[JPN] ', '[JPN] ', '[INA] ', '[INA] ']","['21-19', '21-14']",WD ,20180424
-128,"['Liu Cheng [2]', 'Zhang Nan', 'Lee Jhe-Huei [5]', 'Lee Yang']","['[CHN] ', '[CHN] ', '[TPE] ', '[TPE] ']","['19-21', '21-14', '21-15']",MD ,20180424
-129,"['Huang Kaixiang', 'Wang Yilyu', 'Hiroyuki Endo', 'Yuta Watanabe']","['[CHN] ', '[CHN] ', '[JPN] ', '[JPN] ']","['21-15', '21-18']",MD ,20180424
-130,"['Saina Nehwal', 'Lee Jang Mi']","['[IND] ', '[KOR] ']","['21-15', '21-13']",WS ,20180424
-131,"['Della Destiara Haris', 'Rizki Amelia Pradipta', 'Naoko Fukuman', 'Kurumi Yonao']","['[INA] ', '[INA] ', '[JPN] ', '[JPN] ']","['21-12', '21-12']",WD ,20180424
-132,"['Chen Yufei [6]', 'Cheung Ngan Yi']","['[CHN] ', '[HKG] ']","['21-9', '21-18']",WS ,20180424
-133,"['Wang Yilyu [2]', 'Huang Dongping', 'Ricky Karandasuwardi', 'Debby Susanto']","['[CHN] ', '[CHN] ', '[INA] ', '[INA] ']","['21-15', '21-19']",XD ,20180424
-134,"['Takeshi Kamura [3]', 'Keigo Sonoda', 'Liu Cheng [2]', 'Zhang Nan']","['[JPN] ', '[JPN] ', '[CHN] ', '[CHN] ']","['14-21', '21-12', '25-23']",MD ,20180424
-135,"['Tontowi Ahmad [1]', 'Liliyana Natsir', 'Zheng Siwei [5]', 'Huang Yaqiong']","['[INA] ', '[INA] ', '[CHN] ', '[CHN] ']","['21-11', '21-13']",XD ,20180424
-136,"['Chen Long [3]', 'Prannoy H. S.']","['[CHN] ', '[IND] ']","['21-16', '21-18']",MS ,20180424
-137,"['Tai Tzu Ying [1]', 'Saina Nehwal']","['[TPE] ', '[IND] ']","['27-25', '21-19']",WS ,20180424
-138,"['Kento Momota', 'Lee Chong Wei [5]']","['[JPN] ', '[MAS] ']","['21-19', '21-14']",MS ,20180424
-139,"['Li Junhui [1]', 'Liu Yuchen', 'Huang Kaixiang', 'Wang Yilyu']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['21-17', '14-21', '21-10']",MD ,20180424
-140,"['Chen Yufei [6]', 'Sung Ji Hyun [7]']","['[CHN] ', '[KOR] ']","['21-12', '21-13']",WS ,20180424
-141,"['Yuki Fukushima [3]', 'Sayaka Hirota', 'Della Destiara Haris', 'Rizki Amelia Pradipta']","['[JPN] ', '[JPN] ', '[INA] ', '[INA] ']","['27-29', '21-17', '21-11']",WD ,20180424
-142,"['Misaki Matsutomo [2]', 'Ayaka Takahashi', 'Kim So Yeong', 'Hee Yong Kong']","['[JPN] ', '[JPN] ', '[KOR] ', '[KOR] ']","['21-17', '20-22', '21-14']",WD ,20180424
-143,"['Wang Yilyu [2]', 'Huang Dongping', 'Zhang Nan', 'Li Yinhui']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['18-21', '21-18', '21-17']",XD ,20180424
-144,"['Wang Yilyu [2]', 'Huang Dongping', 'Tontowi Ahmad [1]', 'Liliyana Natsir']","['[CHN] ', '[CHN] ', '[INA] ', '[INA] ']","['21-17', '21-17']",XD ,20180424
-145,"['Kento Momota', 'Chen Long [3]']","['[JPN] ', '[CHN] ']","['21-17', '21-13']",MS ,20180424
-146,"['Li Junhui [1]', 'Liu Yuchen', 'Takeshi Kamura [3]', 'Keigo Sonoda']","['[CHN] ', '[CHN] ', '[JPN] ', '[JPN] ']","['11-21', '21-10', '21-13']",MD ,20180424
-147,"['Tai Tzu Ying [1]', 'Chen Yufei [6]']","['[TPE] ', '[CHN] ']","['21-19', '22-20']",WS ,20180424
-148,"['Yuki Fukushima [3]', 'Sayaka Hirota', 'Misaki Matsutomo [2]', 'Ayaka Takahashi']","['[JPN] ', '[JPN] ', '[JPN] ', '[JPN] ']","['21-18', '18-21', '21-15']",WD ,20180424
+,PLAYERS,COUNTRIES,SCORES,EVENT,match_week,match_location
+0,"['Ratnajit Tamang [4]', 'Pang Fong Pui']","['[NEP] ', '[MAC] ']","['17-21', '21-16', '21-16']",MS - Group D,20180424,"Wuhan, China"
+1,"['Hu Yun', 'Adnan Ebrahim']","['[HKG] ', '[BRN] ']","['21-16', '21-14']",MS - Group A,20180424,"Wuhan, China"
+2,"['Bahaedeen Ahmad Alshannik [2]', 'Jaspar Woon Chai Yu']","['[JOR] ', '[BRU] ']","['21-18', '21-15']",MS - Group B,20180424,"Wuhan, China"
+3,"['Wangcharoen Kantaphon', 'Dmitriy Panarin']","['[THA] ', '[KAZ] ']","['21-14', '21-9']",MS - Group C,20180424,"Wuhan, China"
+4,"['Sri Krishna Priya Kudaravalli [4]', 'Soraya Aghaeihajiagha']","['[IND] ', '[IRI] ']","['21-12', '22-20']",WS - Group C,20180424,"Wuhan, China"
+5,"['Angga Pratama', 'Rian Agung Saputro', 'Danny Bawa Chrisnanta [3]', 'Hee Yong Kai Terry']","['[INA] ', '[INA] ', '[SGP] ', '[SGP] ']","['21-19', '21-14']",MD - Group C,20180424,"Wuhan, China"
+6,"['Mohammad Ahsan [4]', 'Hendra Setiawan', 'Ahmad Mahyuddin Haji Abas', 'Mohamad Fairie Syah Ruslan']","['[INA] ', '[INA] ', '[BRU] ', '[BRU] ']","['21-8', '21-15']",MD - Group D,20180424,"Wuhan, China"
+7,"['Jui Jeon', 'Thilini Pramodika Hendahewa']","['[KOR] ', '[SRI] ']","['21-6', '21-7']",WS - Group A,20180424,"Wuhan, China"
+8,"['Leong Iok Chong', 'Pang Fong Pui', 'Kapil Chaudhary [2]', 'Brijesh Yadav']","['[MAC] ', '[MAC] ', '[IND] ', '[IND] ']",[],MD - Group B,20180424,"Wuhan, China"
+9,"['Thuy Linh Nguyen', 'Fathimath Nabaaha Abdul Razzaq']","['[VIE] ', '[MDV] ']","['21-7', '21-4']",WS - Group B,20180424,"Wuhan, China"
+10,"['Chua Hui Zhen Grace', 'Weng Chi Ng']","['[SGP] ', '[MAC] ']","['21-3', '21-9']",WS - Group D,20180424,"Wuhan, China"
+11,"['Ratnajit Tamang [4]', 'Artyom Savatyugin']","['[NEP] ', '[UZB] ']","['21-18', '10-21', '21-15']",MS - Group D,20180424,"Wuhan, China"
+12,"['Jaspar Woon Chai Yu', 'Batdavaa Munkhbat']","['[BRU] ', '[MGL] ']","['21-15', '21-13']",MS - Group B,20180424,"Wuhan, China"
+13,"['Adnan Ebrahim', 'Mehran Shahbazi']","['[BRN] ', '[IRI] ']","['21-23', '22-20', '21-15']",MS - Group A,20180424,"Wuhan, China"
+14,"['Dmitriy Panarin', 'Hussein Zayan Shaheed']","['[KAZ] ', '[MDV] ']","['21-16', '21-5']",MS - Group C,20180424,"Wuhan, China"
+15,"['Yeo Jia Min', 'Soraya Aghaeihajiagha']","['[SGP] ', '[IRI] ']","['21-10', '21-11']",WS - Group C,20180424,"Wuhan, China"
+16,"['Dipesh Dhami', 'Ratnajit Tamang', 'Ahmad Mahyuddin Haji Abas', 'Mohamad Fairie Syah Ruslan']","['[NEP] ', '[NEP] ', '[BRU] ', '[BRU] ']","['20-22', '21-8', '21-19']",MD - Group D,20180424,"Wuhan, China"
+17,"['Dinuka Karunaratna', 'Niluka Karunaratne', 'Kapil Chaudhary [2]', 'Brijesh Yadav']","['[SRI] ', '[SRI] ', '[IND] ', '[IND] ']",[],MD - Group B,20180424,"Wuhan, China"
+18,"['Pang Fong Pui', 'Artyom Savatyugin']","['[MAC] ', '[UZB] ']","['21-16', '21-9']",MS - Group D,20180424,"Wuhan, China"
+19,"['Hu Yun', 'Mehran Shahbazi']","['[HKG] ', '[IRI] ']","['21-15', '21-10']",MS - Group A,20180424,"Wuhan, China"
+20,"['Bahaedeen Ahmad Alshannik [2]', 'Batdavaa Munkhbat']","['[JOR] ', '[MGL] ']","['21-17', '21-10']",MS - Group B,20180424,"Wuhan, China"
+21,"['Wangcharoen Kantaphon', 'Hussein Zayan Shaheed']","['[THA] ', '[MDV] ']","['21-5', '21-11']",MS - Group C,20180424,"Wuhan, China"
+22,"['Angga Pratama', 'Rian Agung Saputro', 'Artur Niyazov', 'Dmitriy Panarin']","['[INA] ', '[INA] ', '[KAZ] ', '[KAZ] ']","['21-6', '21-15']",MD - Group C,20180424,"Wuhan, China"
+23,"['Dinuka Karunaratna', 'Niluka Karunaratne', 'Leong Iok Chong', 'Pang Fong Pui']","['[SRI] ', '[SRI] ', '[MAC] ', '[MAC] ']","['21-13', '21-11']",MD - Group B,20180424,"Wuhan, China"
+24,"['Mohammad Ahsan [4]', 'Hendra Setiawan', 'Dipesh Dhami', 'Ratnajit Tamang']","['[INA] ', '[INA] ', '[NEP] ', '[NEP] ']","['21-9', '21-7']",MD - Group D,20180424,"Wuhan, China"
+25,"['Yeo Jia Min', 'Sri Krishna Priya Kudaravalli [4]']","['[SGP] ', '[IND] ']","['21-6', '21-11']",WS - Group C,20180424,"Wuhan, China"
+26,"['Danny Bawa Chrisnanta [3]', 'Hee Yong Kai Terry', 'Artur Niyazov', 'Dmitriy Panarin']","['[SGP] ', '[SGP] ', '[KAZ] ', '[KAZ] ']","['21-19', '21-15']",MD - Group C,20180424,"Wuhan, China"
+27,"['Tinn Isriyanet', 'Pacharapun Chochuwong', 'Lu Ching Yao', 'Chiang Kai Hsin']","['[THA] ', '[THA] ', '[TPE] ', '[TPE] ']","['21-11', '17-21', '21-12']",XD,20180424,"Wuhan, China"
+28,"['Tontowi Ahmad [1]', 'Liliyana Natsir', 'Yuki Kaneko', 'Koharu Yonemoto']","['[INA] ', '[INA] ', '[JPN] ', '[JPN] ']","['21-18', '21-12']",XD,20180424,"Wuhan, China"
+29,"['Kim Won Ho', 'Shin Seung Chan', 'Saurabh Sharma', 'Anoushka Parikh']","['[KOR] ', '[KOR] ', '[IND] ', '[IND] ']","['21-17', '21-14']",XD,20180424,"Wuhan, China"
+30,"['Tang Chun Man [3]', 'Tse Ying Suet', 'Praveen Jordan', 'Melati Daeva Oktavianti']","['[HKG] ', '[HKG] ', '[INA] ', '[INA] ']","['21-16', '21-12']",XD,20180424,"Wuhan, China"
+31,"['Ratchanok Intanon [4]', 'Lee Chia Hsin']","['[THA] ', '[TPE] ']","['21-7', '21-13']",WS,20180424,"Wuhan, China"
+32,"['He Jiting', 'Du Yue', 'Tan Kian Meng [7]', 'Lai Pei Jing']","['[CHN] ', '[CHN] ', '[MAS] ', '[MAS] ']","['18-21', '21-12', '21-16']",XD,20180424,"Wuhan, China"
+33,"['Nipitphon Phuangphuapet', 'Jongkolphan Kititharakul', 'Danny Bawa Chrisnanta', 'Wong Jia Ying Crystal']","['[THA] ', '[THA] ', '[SGP] ', '[SGP] ']","['21-9', '13-21', '21-12']",XD,20180424,"Wuhan, China"
+34,"['Zheng Siwei [5]', 'Huang Yaqiong', 'Hussein Zayan Shaheed', 'Fathimath Nabaaha Abdul Razzaq']","['[CHN] ', '[CHN] ', '[MDV] ', '[MDV] ']","['21-2', '21-9']",XD,20180424,"Wuhan, China"
+35,"['Choi Solgyu', 'Chae Yujung', 'Liao Min Chun', 'Chen Hsiao Huan']","['[KOR] ', '[KOR] ', '[TPE] ', '[TPE] ']","['21-17', '24-22']",XD,20180424,"Wuhan, China"
+36,"['Tai Tzu Ying [1]', 'Jui Jeon']","['[TPE] ', '[KOR] ']","['21-13', '21-9']",WS,20180424,"Wuhan, China"
+37,"['Chen Long [3]', 'Bahaedeen Ahmad Alshannik']","['[CHN] ', '[JOR] ']","['21-8', '21-8']",MS,20180424,"Wuhan, China"
+38,"['Kim Hyo Min', 'Lyanny Alessandra Mainaky']","['[KOR] ', '[INA] ']","['21-10', '21-10']",WS,20180424,"Wuhan, China"
+39,"['He Bingjiao [8]', 'Yip Pui Yin']","['[CHN] ', '[HKG] ']","['21-19', '21-14']",WS,20180424,"Wuhan, China"
+40,"['Pornpawee Chochuwong', 'Aya Ohori']","['[THA] ', '[JPN] ']","['21-7', '16-21', '21-18']",WS,20180424,"Wuhan, China"
+41,"['Lee Jang Mi', 'Hanna Ramadini']","['[KOR] ', '[INA] ']","['21-17', '17-21', '25-23']",WS,20180424,"Wuhan, China"
+42,"['Kidambi Srikanth [1]', 'Kenta Nishimoto']","['[IND] ', '[JPN] ']","['13-21', '21-16', '21-16']",MS,20180424,"Wuhan, China"
+43,"['Wong Wing Ki Vincent', 'Ratnajit Tamang']","['[HKG] ', '[NEP] ']","['21-16', '17-21', '21-4']",MS,20180424,"Wuhan, China"
+44,"['Anthony Sinisuka Ginting', 'Niluka Karunaratne']","['[INA] ', '[SRI] ']","['22-20', '21-12']",MS,20180424,"Wuhan, China"
+45,"['Shi Yuqi [4]', 'Lee Dong Keun']","['[CHN] ', '[KOR] ']","['21-3', '6-2']",MS,20180424,"Wuhan, China"
+46,"['Wang Chi-Lin', 'Lee Chia Hsin', 'Hee Yong Kai Terry', 'Ong Ren-Ne']","['[TPE] ', '[TPE] ', '[SGP] ', '[SGP] ']","['21-15', '21-13']",XD,20180424,"Wuhan, China"
+47,"['Della Destiara Haris', 'Rizki Amelia Pradipta', 'Hsu Ya Ching', 'Wu Ti Jung']","['[INA] ', '[INA] ', '[TPE] ', '[TPE] ']","['21-17', '21-16']",WD,20180424,"Wuhan, China"
+48,"['Kento Momota', 'Tien Minh Nguyen']","['[JPN] ', '[VIE] ']","['21-11', '21-15']",MS,20180424,"Wuhan, China"
+49,"['Chou Tien Chen [7]', 'Sameer Verma']","['[TPE] ', '[IND] ']","['23-21', '21-17']",MS,20180424,"Wuhan, China"
+50,"['Chen Qingchen [1]', 'Jia Yifan', 'Kittipak Dubthuk', 'Natcha Saengchote']","['[CHN] ', '[CHN] ', '[THA] ', '[THA] ']","['21-10', '21-18']",WD,20180424,"Wuhan, China"
+51,"['Saina Nehwal', 'Yeo Jia Min']","['[IND] ', '[SGP] ']","['21-12', '21-9']",WS,20180424,"Wuhan, China"
+52,"['Greysia Polii [5]', 'Apriyani Rahayu', 'Huang Dongping', 'Li Wenmei']","['[INA] ', '[INA] ', '[CHN] ', '[CHN] ']","['15-21', '21-11', '21-19']",WD,20180424,"Wuhan, China"
+53,"['Naoko Fukuman', 'Kurumi Yonao', 'Lee So Hee [6]', 'Shin Seung Chan']","['[JPN] ', '[JPN] ', '[KOR] ', '[KOR] ']",['5-2'],WD,20180424,"Wuhan, China"
+54,"['Yuki Fukushima [3]', 'Sayaka Hirota', 'Chow Mei Kuan', 'Lee Meng Yean']","['[JPN] ', '[JPN] ', '[MAS] ', '[MAS] ']","['21-12', '21-7']",WD,20180424,"Wuhan, China"
+55,"['Huang Yaqiong', 'Tang Jinhua', 'Cheng Yu Chieh', 'Hu Ling Fang']","['[CHN] ', '[CHN] ', '[TPE] ', '[TPE] ']","['21-13', '21-15']",WD,20180424,"Wuhan, China"
+56,"['Jongkolphan Kititharakul [7]', 'Rawinda Prajongjai', 'Xue Xin Gong', 'Weng Chi Ng']","['[THA] ', '[THA] ', '[MAC] ', '[MAC] ']","['21-11', '21-9']",WD,20180424,"Wuhan, China"
+57,"['Gao Fangjie', 'Nozomi Okuhara [5]']","['[CHN] ', '[JPN] ']","['21-15', '23-21']",WS,20180424,"Wuhan, China"
+58,"['Jakkampudi Meghana', 'Poorvisha S Ram', 'Ong Ren-Ne', 'Wong Jia Ying Crystal']","['[IND] ', '[IND] ', '[SGP] ', '[SGP] ']","['14-21', '22-20', '21-17']",WD,20180424,"Wuhan, China"
+59,"['Arjun M.R.', 'Ramchandran Shlok', 'Chung Eui Seok', 'Kim Dukyoung']","['[IND] ', '[IND] ', '[KOR] ', '[KOR] ']","['25-23', '23-21']",MD,20180424,"Wuhan, China"
+60,"['Takuto Inoue [6]', 'Yuki Kaneko', 'Or Chin Chung', 'Tang Chun Man']","['[JPN] ', '[JPN] ', '[HKG] ', '[HKG] ']","['21-13', '21-10']",MD,20180424,"Wuhan, China"
+61,"['Du Yue [8]', 'Li Yinhui', 'Chayanit Chaladchalam', 'Phataimas Muenwong']","['[CHN] ', '[CHN] ', '[THA] ', '[THA] ']","['21-10', '21-17']",WD,20180424,"Wuhan, China"
+62,"['Lee Chong Wei [5]', 'Qiao Bin']","['[MAS] ', '[CHN] ']","['21-17', '21-16']",MS,20180424,"Wuhan, China"
+63,"['Lu Ching Yao', 'Yang Po Han', 'Sze Fei Goh', 'Nur Izzuddin']","['[TPE] ', '[TPE] ', '[MAS] ', '[MAS] ']","['20-22', '21-18', '21-17']",MD,20180424,"Wuhan, China"
+64,"['Huang Kaixiang', 'Wang Yilyu', 'Chen Hung Ling [4]', 'Wang Chi-Lin']","['[CHN] ', '[CHN] ', '[TPE] ', '[TPE] ']","['21-11', '21-19']",MD,20180424,"Wuhan, China"
+65,"['Angga Pratama', 'Rian Agung Saputro', 'Ong Yew Sin', 'Teo Ee Yi']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['21-17', '25-23']",MD,20180424,"Wuhan, China"
+66,"['Fajar Alfian [7]', 'Muhammad Rian Ardianto', 'Hyuk Gyun Choi', 'Park Kyung Hoon']","['[INA] ', '[INA] ', '[KOR] ', '[KOR] ']","['21-18', '21-17']",MD,20180424,"Wuhan, China"
+67,"['Liu Cheng [2]', 'Zhang Nan', 'Bahaedeen Ahmad Alshannik', 'Mohd Naser Mansour Nayef']","['[CHN] ', '[CHN] ', '[JOR] ', '[JOR] ']","['21-11', '21-16']",MD,20180424,"Wuhan, China"
+68,"['Dechapol Puavaranukroh [8]', 'Sapsiree Taerattanachai', 'Chang Tak Ching', 'Ng Wing Yung']","['[THA] ', '[THA] ', '[HKG] ', '[HKG] ']","['18-21', '21-12', '21-15']",XD,20180424,"Wuhan, China"
+69,"['Yuta Watanabe', 'Arisa Higashino', 'Seung Jae Seo [4]', 'Kim Ha Na']","['[JPN] ', '[JPN] ', '[KOR] ', '[KOR] ']","['21-16', '21-12']",XD,20180424,"Wuhan, China"
+70,"['Ricky Karandasuwardi', 'Debby Susanto', 'Sachin Dias', 'Thilini Pramodika Hendahewa']","['[INA] ', '[INA] ', '[SRI] ', '[SRI] ']","['21-14', '17-21', '21-10']",XD,20180424,"Wuhan, China"
+71,"['Goh Soon Huat [6]', 'Shevon Jemie Lai', 'Lee Yang', 'Hsu Ya Ching']","['[MAS] ', '[MAS] ', '[TPE] ', '[TPE] ']","['21-19', '21-6']",XD,20180424,"Wuhan, China"
+72,"['Pusarla V. Sindhu [3]', 'Pai Yu Po']","['[IND] ', '[TPE] ']","['21-14', '21-19']",WS,20180424,"Wuhan, China"
+73,"['Lee Chun Hei Reginald', 'Chau Hoi Wah', 'Venkat Gaurav Prasad', 'Juhi Dewangan']","['[HKG] ', '[HKG] ', '[IND] ', '[IND] ']","['21-11', '21-13']",XD,20180424,"Wuhan, China"
+74,"['Busanan Ongbamrungphan', 'Goh Jin Wei']","['[THA] ', '[MAS] ']","['18-21', '21-15', '21-10']",WS,20180424,"Wuhan, China"
+75,"['Sung Ji Hyun [7]', 'Sayaka Sato']","['[KOR] ', '[JPN] ']","['21-13', '21-19']",WS,20180424,"Wuhan, China"
+76,"['Chen Xiaoxin', 'Thuy Linh Nguyen']","['[CHN] ', '[VIE] ']","['21-13', '21-9']",WS,20180424,"Wuhan, China"
+77,"['Wang Yilyu [2]', 'Huang Dongping', 'Tuan Duc Do', 'Nhu Thao Pham']","['[CHN] ', '[CHN] ', '[VIE] ', '[VIE] ']","['21-10', '21-15']",XD,20180424,"Wuhan, China"
+78,"['Nitchaon Jindapol', 'Ying Ying Lee']","['[THA] ', '[MAS] ']","['12-21', '21-17', '21-17']",WS,20180424,"Wuhan, China"
+79,"['Chen Yufei [6]', 'Chiang Mei Hui']","['[CHN] ', '[TPE] ']","['21-10', '21-15']",WS,20180424,"Wuhan, China"
+80,"['Cheung Ngan Yi', 'Dinar Dyah Ayustine']","['[HKG] ', '[INA] ']","['21-17', '21-18']",WS,20180424,"Wuhan, China"
+81,"['Wang Tzu Wei', 'Lin Dan [6]']","['[TPE] ', '[CHN] ']","['15-21', '21-9', '21-16']",MS,20180424,"Wuhan, China"
+82,"['Ng Ka Long Angus [8]', 'Hsu Jen Hao']","['[HKG] ', '[TPE] ']","['21-18', '14-21', '21-14']",MS,20180424,"Wuhan, China"
+83,"['Jonatan Christie', 'Kazumasa Sakai']","['[INA] ', '[JPN] ']","['21-13', '21-11']",MS,20180424,"Wuhan, China"
+84,"['Sai Praneeth B.', 'Suppanyu Avihingsanon']","['[IND] ', '[THA] ']","['21-13', '11-21', '21-19']",MS,20180424,"Wuhan, China"
+85,"['Thi Trang (B) Vu', 'Chua Hui Zhen Grace']","['[VIE] ', '[SGP] ']","['21-10', '21-17']",WS,20180424,"Wuhan, China"
+86,"['Zhang Nan', 'Li Yinhui', 'Rohan Kapoor', 'Kuhoo Garg']","['[CHN] ', '[CHN] ', '[IND] ', '[IND] ']","['21-10', '21-17']",XD,20180424,"Wuhan, China"
+87,"['Lin Xiao Min', 'Wu Fang Chien', 'Aminath Nabeeha Abdul Razzaq', 'Fathimath Nabaaha Abdul Razzaq']","['[TPE] ', '[TPE] ', '[MDV] ', '[MDV] ']","['21-9', '21-12']",WD,20180424,"Wuhan, China"
+88,"['Prannoy H. S.', 'Wangcharoen Kantaphon']","['[IND] ', '[THA] ']","['21-15', '19-21', '21-19']",MS,20180424,"Wuhan, China"
+89,"['Kanta Tsuneyama', 'Ng Zin Rei Ryan']","['[JPN] ', '[SGP] ']","['21-5', '21-17']",MS,20180424,"Wuhan, China"
+90,"['Son Wan Ho [2]', 'Ihsan Maulana Mustofa']","['[KOR] ', '[INA] ']","['21-17', '21-10']",MS,20180424,"Wuhan, China"
+91,"['Misaki Matsutomo [2]', 'Ayaka Takahashi', 'Thilini Pramodika Hendahewa', 'Kavidi Sirimannage']","['[JPN] ', '[JPN] ', '[SRI] ', '[SRI] ']","['21-6', '21-7']",WD,20180424,"Wuhan, China"
+92,"['Khosit Phetpradab', 'Hu Yun']","['[THA] ', '[HKG] ']","['21-14', '21-8']",MS,20180424,"Wuhan, China"
+93,"['Kim So Yeong', 'Hee Yong Kong', 'Shiho Tanaka [4]', 'Koharu Yonemoto']","['[KOR] ', '[KOR] ', '[JPN] ', '[JPN] ']","['19-21', '23-21', '21-19']",WD,20180424,"Wuhan, China"
+94,"['Ha Na Baek', 'Yu Rim Lee', 'Aparna Balan', 'Sruthi K.P']","['[KOR] ', '[KOR] ', '[IND] ', '[IND] ']","['21-10', '21-10']",WD,20180424,"Wuhan, China"
+95,"['Lee Jhe-Huei [5]', 'Lee Yang', 'Chooi Kah Ming', 'Low Juan Shen']","['[TPE] ', '[TPE] ', '[MAS] ', '[MAS] ']","['21-16', '18-21', '21-16']",MD,20180424,"Wuhan, China"
+96,"['Savitree Amitrapai', 'Pacharapun Chochuwong', 'Chiang Kai Hsin', 'Hung Shih Han']","['[THA] ', '[THA] ', '[TPE] ', '[TPE] ']","['21-18', '21-13']",WD,20180424,"Wuhan, China"
+97,"['Li Junhui [1]', 'Liu Yuchen', 'Dinuka Karunaratna', 'Niluka Karunaratne']","['[CHN] ', '[CHN] ', '[SRI] ', '[SRI] ']","['21-12', '21-10']",MD,20180424,"Wuhan, China"
+98,"['Soong Fie Cho', 'Tee Jing Yi', 'Kuhoo Garg', 'Ningshi Block Hazarika']","['[MAS] ', '[MAS] ', '[IND] ', '[IND] ']","['21-10', '21-12']",WD,20180424,"Wuhan, China"
+99,"['Hiroyuki Endo', 'Yuta Watanabe', 'Kittinupong Kedren', 'Dechapol Puavaranukroh']","['[JPN] ', '[JPN] ', '[THA] ', '[THA] ']","['21-11', '21-10']",MD,20180424,"Wuhan, China"
+100,"['Berry Angriawan', 'Hardianto Hardianto', 'Choi Solgyu', 'Jae Hwan Kim']","['[INA] ', '[INA] ', '[KOR] ', '[KOR] ']","['15-21', '22-20', '21-15']",MD,20180424,"Wuhan, China"
+101,"['Goh V Shem [8]', 'Tan Wee Kiong', 'Liao Min Chun', 'Su Ching Heng']","['[MAS] ', '[MAS] ', '[TPE] ', '[TPE] ']","['24-22', '22-20']",MD,20180424,"Wuhan, China"
+102,"['Mohammad Ahsan', 'Hendra Setiawan', 'Kim Won Ho', 'Seung Jae Seo']","['[INA] ', '[INA] ', '[KOR] ', '[KOR] ']","['21-17', '21-18']",MD,20180424,"Wuhan, China"
+103,"['He Jiting', 'Tan Qiang', 'Tinn Isriyanet', 'Kittisak Namdash']","['[CHN] ', '[CHN] ', '[THA] ', '[THA] ']","['21-14', '21-18']",MD,20180424,"Wuhan, China"
+104,"['Takeshi Kamura [3]', 'Keigo Sonoda', 'Amrullo Bakhshullaev', 'Artyom Savatyugin']","['[JPN] ', '[JPN] ', '[UZB] ', '[UZB] ']","['21-8', '21-7']",MD,20180424,"Wuhan, China"
+105,"['Bodin Isara', 'Nipitphon Phuangphuapet', 'Manu Attri', 'Reddy B. Sumeeth']","['[THA] ', '[THA] ', '[IND] ', '[IND] ']","['21-14', '21-16']",MD,20180424,"Wuhan, China"
+106,"['Kim So Yeong', 'Hee Yong Kong', 'Lin Xiao Min', 'Wu Fang Chien']","['[KOR] ', '[KOR] ', '[TPE] ', '[TPE] ']","['21-7', '21-5']",WD ,20180424,"Wuhan, China"
+107,"['Chou Tien Chen [7]', 'Khosit Phetpradab']","['[TPE] ', '[THA] ']","['21-18', '18-21', '21-13']",MS ,20180424,"Wuhan, China"
+108,"['Li Junhui [1]', 'Liu Yuchen', 'Arjun M.R.', 'Ramchandran Shlok']","['[CHN] ', '[CHN] ', '[IND] ', '[IND] ']","['21-11', '21-19']",MD ,20180424,"Wuhan, China"
+109,"['Kento Momota', 'Shi Yuqi [4]']","['[JPN] ', '[CHN] ']","['21-15', '12-21', '21-12']",MS ,20180424,"Wuhan, China"
+110,"['Pusarla V. Sindhu [3]', 'Chen Xiaoxin']","['[IND] ', '[CHN] ']","['21-12', '21-15']",WS ,20180424,"Wuhan, China"
+111,"['Zheng Siwei [5]', 'Huang Yaqiong', 'Choi Solgyu', 'Chae Yujung']","['[CHN] ', '[CHN] ', '[KOR] ', '[KOR] ']","['21-16', '21-16']",XD ,20180424,"Wuhan, China"
+112,"['Sung Ji Hyun [7]', 'Busanan Ongbamrungphan']","['[KOR] ', '[THA] ']","['21-14', '21-12']",WS ,20180424,"Wuhan, China"
+113,"['Naoko Fukuman', 'Kurumi Yonao', 'Ng Wing Yung', 'Yeung Nga Ting']","['[JPN] ', '[JPN] ', '[HKG] ', '[HKG] ']","['21-8', '21-12']",WD ,20180424,"Wuhan, China"
+114,"['Lee Chong Wei [5]', 'Kidambi Srikanth [1]']","['[MAS] ', '[IND] ']","['21-12', '21-15']",MS ,20180424,"Wuhan, China"
+115,"['Kento Momota', 'Chou Tien Chen [7]']","['[JPN] ', '[TPE] ']","['21-5', '21-13']",MS ,20180424,"Wuhan, China"
+116,"['Li Junhui [1]', 'Liu Yuchen', 'Takuto Inoue [6]', 'Yuki Kaneko']","['[CHN] ', '[CHN] ', '[JPN] ', '[JPN] ']","['21-17', '15-21', '21-17']",MD ,20180424,"Wuhan, China"
+117,"['Tai Tzu Ying [1]', 'He Bingjiao [8]']","['[TPE] ', '[CHN] ']","['21-14', '21-9']",WS ,20180424,"Wuhan, China"
+118,"['Zheng Siwei [5]', 'Huang Yaqiong', 'Tang Chun Man [3]', 'Tse Ying Suet']","['[CHN] ', '[CHN] ', '[HKG] ', '[HKG] ']","['21-8', '21-7']",XD ,20180424,"Wuhan, China"
+119,"['Kim So Yeong', 'Hee Yong Kong', 'Du Yue [8]', 'Li Yinhui']","['[KOR] ', '[KOR] ', '[CHN] ', '[CHN] ']","['21-17', '20-22', '21-11']",WD ,20180424,"Wuhan, China"
+120,"['Chen Long [3]', 'Ng Ka Long Angus [8]']","['[CHN] ', '[HKG] ']","['22-24', '21-15', '21-17']",MS ,20180424,"Wuhan, China"
+121,"['Tontowi Ahmad [1]', 'Liliyana Natsir', 'He Jiting', 'Du Yue']","['[INA] ', '[INA] ', '[CHN] ', '[CHN] ']","['21-11', '9-21', '21-10']",XD ,20180424,"Wuhan, China"
+122,"['Takeshi Kamura [3]', 'Keigo Sonoda', 'Goh V Shem [8]', 'Tan Wee Kiong']","['[JPN] ', '[JPN] ', '[MAS] ', '[MAS] ']","['21-18', '21-17']",MD ,20180424,"Wuhan, China"
+123,"['Prannoy H. S.', 'Son Wan Ho [2]']","['[IND] ', '[KOR] ']","['18-21', '23-21', '21-12']",MS ,20180424,"Wuhan, China"
+124,"['Zhang Nan', 'Li Yinhui', 'Dechapol Puavaranukroh [8]', 'Sapsiree Taerattanachai']","['[CHN] ', '[CHN] ', '[THA] ', '[THA] ']","['21-16', '21-16']",XD ,20180424,"Wuhan, China"
+125,"['Yuki Fukushima [3]', 'Sayaka Hirota', 'Jongkolphan Kititharakul [7]', 'Rawinda Prajongjai']","['[JPN] ', '[JPN] ', '[THA] ', '[THA] ']","['21-19', '21-13']",WD ,20180424,"Wuhan, China"
+126,"['Sung Ji Hyun [7]', 'Pusarla V. Sindhu [3]']","['[KOR] ', '[IND] ']","['21-19', '21-10']",WS ,20180424,"Wuhan, China"
+127,"['Misaki Matsutomo [2]', 'Ayaka Takahashi', 'Greysia Polii [5]', 'Apriyani Rahayu']","['[JPN] ', '[JPN] ', '[INA] ', '[INA] ']","['21-19', '21-14']",WD ,20180424,"Wuhan, China"
+128,"['Liu Cheng [2]', 'Zhang Nan', 'Lee Jhe-Huei [5]', 'Lee Yang']","['[CHN] ', '[CHN] ', '[TPE] ', '[TPE] ']","['19-21', '21-14', '21-15']",MD ,20180424,"Wuhan, China"
+129,"['Huang Kaixiang', 'Wang Yilyu', 'Hiroyuki Endo', 'Yuta Watanabe']","['[CHN] ', '[CHN] ', '[JPN] ', '[JPN] ']","['21-15', '21-18']",MD ,20180424,"Wuhan, China"
+130,"['Saina Nehwal', 'Lee Jang Mi']","['[IND] ', '[KOR] ']","['21-15', '21-13']",WS ,20180424,"Wuhan, China"
+131,"['Della Destiara Haris', 'Rizki Amelia Pradipta', 'Naoko Fukuman', 'Kurumi Yonao']","['[INA] ', '[INA] ', '[JPN] ', '[JPN] ']","['21-12', '21-12']",WD ,20180424,"Wuhan, China"
+132,"['Chen Yufei [6]', 'Cheung Ngan Yi']","['[CHN] ', '[HKG] ']","['21-9', '21-18']",WS ,20180424,"Wuhan, China"
+133,"['Wang Yilyu [2]', 'Huang Dongping', 'Ricky Karandasuwardi', 'Debby Susanto']","['[CHN] ', '[CHN] ', '[INA] ', '[INA] ']","['21-15', '21-19']",XD ,20180424,"Wuhan, China"
+134,"['Takeshi Kamura [3]', 'Keigo Sonoda', 'Liu Cheng [2]', 'Zhang Nan']","['[JPN] ', '[JPN] ', '[CHN] ', '[CHN] ']","['14-21', '21-12', '25-23']",MD ,20180424,"Wuhan, China"
+135,"['Tontowi Ahmad [1]', 'Liliyana Natsir', 'Zheng Siwei [5]', 'Huang Yaqiong']","['[INA] ', '[INA] ', '[CHN] ', '[CHN] ']","['21-11', '21-13']",XD ,20180424,"Wuhan, China"
+136,"['Chen Long [3]', 'Prannoy H. S.']","['[CHN] ', '[IND] ']","['21-16', '21-18']",MS ,20180424,"Wuhan, China"
+137,"['Tai Tzu Ying [1]', 'Saina Nehwal']","['[TPE] ', '[IND] ']","['27-25', '21-19']",WS ,20180424,"Wuhan, China"
+138,"['Kento Momota', 'Lee Chong Wei [5]']","['[JPN] ', '[MAS] ']","['21-19', '21-14']",MS ,20180424,"Wuhan, China"
+139,"['Li Junhui [1]', 'Liu Yuchen', 'Huang Kaixiang', 'Wang Yilyu']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['21-17', '14-21', '21-10']",MD ,20180424,"Wuhan, China"
+140,"['Chen Yufei [6]', 'Sung Ji Hyun [7]']","['[CHN] ', '[KOR] ']","['21-12', '21-13']",WS ,20180424,"Wuhan, China"
+141,"['Yuki Fukushima [3]', 'Sayaka Hirota', 'Della Destiara Haris', 'Rizki Amelia Pradipta']","['[JPN] ', '[JPN] ', '[INA] ', '[INA] ']","['27-29', '21-17', '21-11']",WD ,20180424,"Wuhan, China"
+142,"['Misaki Matsutomo [2]', 'Ayaka Takahashi', 'Kim So Yeong', 'Hee Yong Kong']","['[JPN] ', '[JPN] ', '[KOR] ', '[KOR] ']","['21-17', '20-22', '21-14']",WD ,20180424,"Wuhan, China"
+143,"['Wang Yilyu [2]', 'Huang Dongping', 'Zhang Nan', 'Li Yinhui']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['18-21', '21-18', '21-17']",XD ,20180424,"Wuhan, China"
+144,"['Wang Yilyu [2]', 'Huang Dongping', 'Tontowi Ahmad [1]', 'Liliyana Natsir']","['[CHN] ', '[CHN] ', '[INA] ', '[INA] ']","['21-17', '21-17']",XD ,20180424,"Wuhan, China"
+145,"['Kento Momota', 'Chen Long [3]']","['[JPN] ', '[CHN] ']","['21-17', '21-13']",MS ,20180424,"Wuhan, China"
+146,"['Li Junhui [1]', 'Liu Yuchen', 'Takeshi Kamura [3]', 'Keigo Sonoda']","['[CHN] ', '[CHN] ', '[JPN] ', '[JPN] ']","['11-21', '21-10', '21-13']",MD ,20180424,"Wuhan, China"
+147,"['Tai Tzu Ying [1]', 'Chen Yufei [6]']","['[TPE] ', '[CHN] ']","['21-19', '22-20']",WS ,20180424,"Wuhan, China"
+148,"['Yuki Fukushima [3]', 'Sayaka Hirota', 'Misaki Matsutomo [2]', 'Ayaka Takahashi']","['[JPN] ', '[JPN] ', '[JPN] ', '[JPN] ']","['21-18', '18-21', '21-15']",WD ,20180424,"Wuhan, China"

@@ -1,119 +1,119 @@
-,PLAYERS,COUNTRIES,SCORES,EVENT,match_week
-0,"['Luiz Eduardo Martinez', 'Luis Roberto Schoueri']","['[BRA] ', '[BRA] ']","['21-10', '21-16']",MS - Qualification,20170308
-1,"['Alex Yuwan Tjong', 'Francisco Brandao']","['[BRA] ', '[BRA] ']","['21-16', '21-12']",MS - Qualification,20170308
-2,"['Alberto Alvin Yulianto', 'Lucas Constant Da Silva']","['[INA] ', '[BRA] ']","['21-13', '21-8']",MS - Qualification,20170308
-3,"['Cleudson Jardel Sousa Lima', 'Gabriel Guimaraes Nery']","['[BRA] ', '[BRA] ']","['18-21', '21-18', '21-10']",MS - Qualification,20170308
-4,"[""D'Artagnan Da Silva"", 'Pedro Kawakami']","['[BRA] ', '[BRA] ']","['21-18', '21-17']",MS - Qualification,20170308
-5,"['Milan Dratva', 'Enzo Sugiura']","['[SVK] ', '[BRA] ']","['21-15', '21-12']",MS - Qualification,20170308
-6,"['Ikhsan Leonardo Imanuel Rumbay', 'Artur Silva Pomoceno']","['[INA] ', '[BRA] ']","['21-15', '21-16']",MS - Qualification,20170308
-7,"['Jonathan Persson', 'Waleson Vinicios Evangeli Santos']","['[GER] ', '[BRA] ']","['21-12', '19-21', '21-16']",MS - Qualification,20170308
-8,"['Francielton Farias', 'Daniel Grassmuck']","['[BRA] ', '[AUT] ']","['21-16', '21-15']",MS - Qualification,20170308
-9,"['Giovanni Greco', 'Lucca Trovarelli']","['[ITA] ', '[BRA] ']","['21-11', '21-12']",MS - Qualification,20170308
-10,"['Fabricio Farias', 'Matheus Voigt']","['[BRA] ', '[BRA] ']","['21-16', '23-21']",MS - Qualification,20170308
-11,"['Joao Marcos Moreira', 'Alonso Medel']","['[BRA] ', '[CHI] ']","['18-21', '21-16', '22-20']",MS - Qualification,20170308
-12,"['Igor Ibrahim [1]', 'Luiz Eduardo Martinez']","['[BRA] ', '[BRA] ']","['17-21', '22-20', '21-18']",MS - Qualification,20170308
-13,"['Alberto Alvin Yulianto', 'Alex Yuwan Tjong']","['[INA] ', '[BRA] ']","['21-14', '21-13']",MS - Qualification,20170308
-14,"['Ivan Leon [3]', 'Cleudson Jardel Sousa Lima']","['[CHI] ', '[BRA] ']","['21-16', '13-21', '21-12']",MS - Qualification,20170308
-15,"['Milan Dratva', ""D'Artagnan Da Silva""]","['[SVK] ', '[BRA] ']","['21-11', '22-24', '21-13']",MS - Qualification,20170308
-16,"['Ikhsan Leonardo Imanuel Rumbay', 'Jonathan Persson']","['[INA] ', '[GER] ']","['21-16', '21-10']",MS - Qualification,20170308
-17,"['Francielton Farias', 'Mateus Carrijo Cutti [4]']","['[BRA] ', '[BRA] ']","['25-23', '21-19']",MS - Qualification,20170308
-18,"['Giovanni Greco', 'Fabricio Farias']","['[ITA] ', '[BRA] ']","['21-13', '21-12']",MS - Qualification,20170308
-19,"['Joao Marcos Moreira', 'Luiz Dos Santos [2]']","['[BRA] ', '[BRA] ']","['21-19', '21-14']",MS - Qualification,20170308
-20,"['Misha Zilberman [1]', 'Kevin Strobl']","['[ISR] ', '[ITA] ']","['21-5', '21-8']",MS,20170308
-21,"['Jason Anthony Ho-Shue', 'Matteo Bellucci']","['[CAN] ', '[ITA] ']","['21-11', '21-16']",MS,20170308
-22,"['Ikhsan Leonardo Imanuel Rumbay', 'Vilson Vattanirappel [8]']","['[INA] ', '[AUT] ']","['21-9', '21-9']",MS,20170308
-23,"['Rudolf Dellenbach', 'Matej Hlinican']","['[ITA] ', '[SVK] ']","['21-9', '21-15']",MS,20170308
-24,"['Ygor Coelho [3]', 'Lukas Osele']","['[BRA] ', '[ITA] ']","['21-14', '21-10']",MS,20170308
-25,"['Milan Dratva', 'Giovanni Greco']","['[SVK] ', '[ITA] ']","['21-16', '21-19']",MS,20170308
-26,"['Kevin Cordon [7]', 'Nicholas Bonkowsky']","['[GUA] ', '[TTO] ']","['21-18', '21-15']",MS,20170308
-27,"['Luis Ramon Garrido', 'Alberto Alvin Yulianto']","['[MEX] ', '[INA] ']","['21-15', '21-16']",MS,20170308
-28,"['Anibal Marroquin', 'Joao Marcos Moreira']","['[GUA] ', '[BRA] ']","['21-17', '12-21', '21-17']",MS,20170308
-29,"['Rosario Maddaloni [6]', 'Denis Grachev']","['[ITA] ', '[RUS] ']","['21-16', '21-23', '21-15']",MS,20170308
-30,"['Duarte Nuno Anjo', 'Ivan Leon']","['[POR] ', '[CHI] ']","['21-10', '21-14']",MS,20170308
-31,"['Luka Wraber [4]', 'Mathew Fogarty']","['[AUT] ', '[USA] ']","['21-7', '21-4']",MS,20170308
-32,"['Ruben Castellanos', 'Francielton Farias']","['[GUA] ', '[BRA] ']","['21-17', '13-21', '21-16']",MS,20170308
-33,"['Maxime Moreels [5]', 'Bastian Lizama']","['[BEL] ', '[CHI] ']","['21-10', '21-6']",MS,20170308
-34,"['Adam Mendrek', 'Pawel Pradzinski']","['[CZE] ', '[POL] ']","['21-14', '21-10']",MS,20170308
-35,"['Niluka Karunaratne [2]', 'Igor Ibrahim']","['[SRI] ', '[BRA] ']","['21-13', '21-11']",MS,20170308
-36,"['Lisa Iversen', 'Andrezza Ribeiro']","['[ITA] ', '[BRA] ']","['21-7', '21-5']",WS,20170308
-37,"['Silvia Garino', 'Mariana Couto']","['[ITA] ', '[BRA] ']","['21-3', '21-9']",WS,20170308
-38,"['Mariana Pedrol Freitas', 'Giulia Fiorito']","['[BRA] ', '[ITA] ']","['21-18', '17-21', '25-23']",WS,20170308
-39,"['Artur Silva Pomoceno', 'Matheus Voigt', 'Bastian Lizama', 'Alonso Medel']","['[BRA] ', '[BRA] ', '[CHI] ', '[CHI] ']","['21-10', '21-9']",MD,20170308
-40,"['Daniel Grassmuck', 'Luka Wraber', 'Fabricio Farias', 'Waleson Vinicios Evangeli Santos']","['[AUT] ', '[AUT] ', '[BRA] ', '[BRA] ']","['21-19', '21-14']",MD,20170308
-41,"['Pawel Pradzinski', 'Jan Rudzinski', 'Felippe Cury Fonseca', 'Alex Yuwan Tjong']","['[POL] ', '[POL] ', '[BRA] ', '[BRA] ']","['21-13', '21-15']",MD,20170308
-42,"['Adam Mendrek', 'Jonathan Persson', 'Hugo Arthuso', 'Daniel Paiola']","['[CZE] ', '[GER] ', '[BRA] ', '[BRA] ']","['24-22', '11-21', '29-27']",MD,20170308
-43,"['Francisco Brandao', 'Enzo Sugiura', 'Venkatesh Prasad', 'Jagadish Yadav']","['[BRA] ', '[BRA] ', '[IND] ', '[IND] ']",[],MD,20170308
-44,"['Giovanni Greco', 'Rosario Maddaloni', 'Igor Ibrahim', ""D'Artagnan Da Silva""]","['[ITA] ', '[ITA] ', '[BRA] ', '[BRA] ']","['21-14', '21-13']",MD,20170308
-45,"['Ruben Castellanos', 'Anibal Marroquin', 'Pedro Kawakami', 'Lucas Constant Da Silva']","['[GUA] ', '[GUA] ', '[BRA] ', '[BRA] ']","['20-22', '21-11', '21-13']",MD,20170308
-46,"['Mateus Carrijo Cutti', 'Paloma Eduarda Da Silva', 'Matteo Bellucci', 'Giulia Fiorito']","['[BRA] ', '[BRA] ', '[ITA] ', '[ITA] ']","['21-13', '21-16']",XD,20170308
-47,"['Roman Zirnwald', 'Ana Paula Campos', 'Luis Roberto Schoueri', 'Andrezza Ribeiro']","['[AUT] ', '[BRA] ', '[BRA] ', '[BRA] ']","['21-13', '21-10']",XD,20170308
-48,"['Jonathan Persson', 'Kate Foo Kune', 'Lukas Osele', 'Lisa Iversen']","['[GER] ', '[MRI] ', '[ITA] ', '[ITA] ']","['21-18', '16-21', '21-15']",XD,20170308
-49,"['Felippe Cury Fonseca', 'Paula Pereira', 'Ivan Leon', 'Camila Macaya']","['[BRA] ', '[BRA] ', '[CHI] ', '[CHI] ']","['21-19', '21-15']",XD,20170308
-50,"['Luiz Dos Santos', 'Mariana Pedrol Freitas', 'Milan Dratva', 'Martina Repiska']","['[BRA] ', '[BRA] ', '[SVK] ', '[SVK] ']","['21-18', '21-13']",XD,20170308
-51,"['Francielton Farias', 'Jaqueline Lima', 'Evgenij Dremin [1]', 'Evgenia Dimova']","['[BRA] ', '[BRA] ', '[RUS] ', '[RUS] ']",[],XD,20170308
-52,"['Fabricio Farias', 'Samia Lima', 'Mateus Carrijo Cutti', 'Paloma Eduarda Da Silva']","['[BRA] ', '[BRA] ', '[BRA] ', '[BRA] ']","['21-15', '21-19']",XD,20170308
-53,"['Hugo Arthuso [3]', 'Fabiana Silva', 'Joao Marcos Moreira', 'Gabriele Pereira']","['[BRA] ', '[BRA] ', '[BRA] ', '[BRA] ']","['21-17', '21-11']",XD,20170308
-54,"['Roman Zirnwald', 'Ana Paula Campos', 'Luiz Eduardo Martinez', 'Mariana Couto']","['[AUT] ', '[BRA] ', '[BRA] ', '[BRA] ']","['21-10', '21-8']",XD,20170308
-55,"['Jonathan Persson', 'Kate Foo Kune', 'Lucas Constant Da Silva', 'Thalita Correa']","['[GER] ', '[MRI] ', '[BRA] ', '[BRA] ']","['21-9', '21-10']",XD,20170308
-56,"['Felippe Cury Fonseca', 'Paula Pereira', 'Kevin Strobl [4]', 'Silvia Garino']","['[BRA] ', '[BRA] ', '[ITA] ', '[ITA] ']","['21-13', '21-8']",XD,20170308
-57,"['Luiz Dos Santos', 'Mariana Pedrol Freitas', 'Artur Silva Pomoceno', 'Manoela Koepsel']","['[BRA] ', '[BRA] ', '[BRA] ', '[BRA] ']","['21-14', '21-15']",XD,20170308
-58,"['Matheus Voigt [2]', 'Bianca Oliveira Lima', 'Pedro Kawakami', 'Estefane Ventura']","['[BRA] ', '[BRA] ', '[BRA] ', '[BRA] ']","['21-15', '21-9']",XD,20170308
-59,"['Jason Anthony Ho-Shue', 'Misha Zilberman [1]']","['[CAN] ', '[ISR] ']","['21-16', '21-19']",MS,20170308
-60,"['Ikhsan Leonardo Imanuel Rumbay', 'Rudolf Dellenbach']","['[INA] ', '[ITA] ']","['21-8', '21-9']",MS,20170308
-61,"['Ygor Coelho [3]', 'Milan Dratva']","['[BRA] ', '[SVK] ']","['21-2', '21-0']",MS,20170308
-62,"['Luis Ramon Garrido', 'Kevin Cordon [7]']","['[MEX] ', '[GUA] ']",['1-0'],MS,20170308
-63,"['Rosario Maddaloni [6]', 'Anibal Marroquin']","['[ITA] ', '[GUA] ']","['22-20', '21-2']",MS,20170308
-64,"['Luka Wraber [4]', 'Duarte Nuno Anjo']","['[AUT] ', '[POR] ']","['21-14', '21-13']",MS,20170308
-65,"['Maxime Moreels [5]', 'Ruben Castellanos']","['[BEL] ', '[GUA] ']","['21-13', '21-10']",MS,20170308
-66,"['Niluka Karunaratne [2]', 'Adam Mendrek']","['[SRI] ', '[CZE] ']","['21-10', '21-10']",MS,20170308
-67,"['Kate Foo Kune [1]', 'Gabriele Pereira']","['[MRI] ', '[BRA] ']","['21-13', '21-10']",WS,20170308
-68,"['Haruko Suzuki', 'Samia Lima']","['[JPN] ', '[BRA] ']","['21-12', '21-7']",WS,20170308
-69,"['Paloma Eduarda Da Silva [4]', 'Estefane Ventura']","['[BRA] ', '[BRA] ']","['21-8', '21-11']",WS,20170308
-70,"['Bianca Oliveira Lima', 'Lisa Iversen']","['[BRA] ', '[ITA] ']","['20-22', '21-11', '21-16']",WS,20170308
-71,"['Jaqueline Lima', 'Silvia Garino']","['[BRA] ', '[ITA] ']","['21-19', '21-14']",WS,20170308
-72,"['Martina Repiska [3]', 'Thalita Correa']","['[SVK] ', '[BRA] ']","['21-15', '21-12']",WS,20170308
-73,"['Mariana Pedrol Freitas', 'Manoela Koepsel']","['[BRA] ', '[BRA] ']","['21-17', '21-13']",WS,20170308
-74,"['Fabiana Silva [2]', 'Camila Macaya']","['[BRA] ', '[CHI] ']","['21-10', '21-11']",WS,20170308
-75,"['Evgenij Dremin [1]', 'Denis Grachev', 'Francielton Farias', 'Luiz Dos Santos']","['[RUS] ', '[RUS] ', '[BRA] ', '[BRA] ']","['21-17', '21-8']",MD,20170308
-76,"['Artur Silva Pomoceno', 'Matheus Voigt', 'Mateus Carrijo Cutti', 'Luiz Eduardo Martinez']","['[BRA] ', '[BRA] ', '[BRA] ', '[BRA] ']","['21-14', '21-14']",MD,20170308
-77,"['Daniel Grassmuck', 'Luka Wraber', 'Lukas Osele [3]', 'Kevin Strobl']","['[AUT] ', '[AUT] ', '[ITA] ', '[ITA] ']","['21-15', '21-12']",MD,20170308
-78,"['Pawel Pradzinski', 'Jan Rudzinski', 'Milan Dratva', 'Matej Hlinican']","['[POL] ', '[POL] ', '[SVK] ', '[SVK] ']",['1-0'],MD,20170308
-79,"['Paula Pereira [1]', 'Fabiana Silva', 'Gabriele Pereira', 'Andrezza Ribeiro']","['[BRA] ', '[BRA] ', '[BRA] ', '[BRA] ']","['21-4', '21-14']",WD,20170308
-80,"['Adam Mendrek', 'Jonathan Persson', 'Cleudson Jardel Sousa Lima', 'Joao Marcos Moreira']","['[CZE] ', '[GER] ', '[BRA] ', '[BRA] ']","['21-16', '21-16']",MD,20170308
-81,"['Nicholas Bonkowsky [4]', 'Mathew Fogarty', 'Francisco Brandao', 'Enzo Sugiura']","['[TTO] ', '[USA] ', '[BRA] ', '[BRA] ']","['21-18', '21-14']",MD,20170308
-82,"['Giovanni Greco', 'Rosario Maddaloni', 'Luis Roberto Schoueri', 'Lucca Trovarelli']","['[ITA] ', '[ITA] ', '[BRA] ', '[BRA] ']","['21-9', '21-7']",MD,20170308
-83,"['Dominik Stipsits [2]', 'Roman Zirnwald', 'Ruben Castellanos', 'Anibal Marroquin']","['[AUT] ', '[AUT] ', '[GUA] ', '[GUA] ']","['21-13', '21-11']",MD,20170308
-84,"['Jaqueline Lima', 'Samia Lima', 'Mariana Couto', 'Estefane Ventura']","['[BRA] ', '[BRA] ', '[BRA] ', '[BRA] ']","['21-9', '21-9']",WD,20170308
-85,"['Silvia Garino [2]', 'Lisa Iversen', 'Ana Paula Campos', 'Mariana Pedrol Freitas']","['[ITA] ', '[ITA] ', '[BRA] ', '[BRA] ']","['16-21', '21-19', '21-10']",WD,20170308
-86,"['Thalita Correa', 'Paloma Eduarda Da Silva', 'Manoela Koepsel', 'Bianca Oliveira Lima']","['[BRA] ', '[BRA] ', '[BRA] ', '[BRA] ']","['21-18', '21-15']",WD,20170308
-87,"['Fabricio Farias', 'Samia Lima', 'Francielton Farias', 'Jaqueline Lima']","['[BRA] ', '[BRA] ', '[BRA] ', '[BRA] ']","['21-16', '22-20']",XD,20170308
-88,"['Hugo Arthuso [3]', 'Fabiana Silva', 'Roman Zirnwald', 'Ana Paula Campos']","['[BRA] ', '[BRA] ', '[AUT] ', '[BRA] ']","['21-16', '17-21', '21-12']",XD,20170308
-89,"['Jonathan Persson', 'Kate Foo Kune', 'Felippe Cury Fonseca', 'Paula Pereira']","['[GER] ', '[MRI] ', '[BRA] ', '[BRA] ']","['21-14', '21-17']",XD,20170308
-90,"['Luiz Dos Santos', 'Mariana Pedrol Freitas', 'Matheus Voigt [2]', 'Bianca Oliveira Lima']","['[BRA] ', '[BRA] ', '[BRA] ', '[BRA] ']","['21-18', '21-12']",XD,20170308
-91,"['Fabiana Silva [2]', 'Mariana Pedrol Freitas']","['[BRA] ', '[BRA] ']","['21-15', '21-13']",WS,20170308
-92,"['Luka Wraber [4]', 'Rosario Maddaloni [6]']","['[AUT] ', '[ITA] ']","['21-19', '21-13']",MS,20170308
-93,"['Niluka Karunaratne [2]', 'Maxime Moreels [5]']","['[SRI] ', '[BEL] ']","['21-12', '21-19']",MS,20170308
-94,"['Martina Repiska [3]', 'Jaqueline Lima']","['[SVK] ', '[BRA] ']","['21-12', '19-21', '21-13']",WS,20170308
-95,"['Paloma Eduarda Da Silva [4]', 'Bianca Oliveira Lima']","['[BRA] ', '[BRA] ']","['21-10', '21-15']",WS,20170308
-96,"['Jason Anthony Ho-Shue', 'Ikhsan Leonardo Imanuel Rumbay']","['[CAN] ', '[INA] ']","['21-15', '21-18']",MS,20170308
-97,"['Ygor Coelho [3]', 'Luis Ramon Garrido']","['[BRA] ', '[MEX] ']","['21-18', '18-21', '21-19']",MS,20170308
-98,"['Haruko Suzuki', 'Kate Foo Kune [1]']","['[JPN] ', '[MRI] ']","['21-8', '21-9']",WS,20170308
-99,"['Evgenij Dremin [1]', 'Denis Grachev', 'Artur Silva Pomoceno', 'Matheus Voigt']","['[RUS] ', '[RUS] ', '[BRA] ', '[BRA] ']","['21-17', '21-18']",MD,20170308
-100,"['Pawel Pradzinski', 'Jan Rudzinski', 'Daniel Grassmuck', 'Luka Wraber']","['[POL] ', '[POL] ', '[AUT] ', '[AUT] ']","['21-18', '22-20']",MD,20170308
-101,"['Adam Mendrek', 'Jonathan Persson', 'Nicholas Bonkowsky [4]', 'Mathew Fogarty']","['[CZE] ', '[GER] ', '[TTO] ', '[USA] ']","['21-6', '21-13']",MD,20170308
-102,"['Dominik Stipsits [2]', 'Roman Zirnwald', 'Giovanni Greco', 'Rosario Maddaloni']","['[AUT] ', '[AUT] ', '[ITA] ', '[ITA] ']","['21-11', '21-14']",MD,20170308
-103,"['Hugo Arthuso [3]', 'Fabiana Silva', 'Fabricio Farias', 'Samia Lima']","['[BRA] ', '[BRA] ', '[BRA] ', '[BRA] ']","['24-22', '10-21', '21-12']",XD,20170308
-104,"['Jonathan Persson', 'Kate Foo Kune', 'Luiz Dos Santos', 'Mariana Pedrol Freitas']","['[GER] ', '[MRI] ', '[BRA] ', '[BRA] ']","['21-15', '21-15']",XD,20170308
-105,"['Ygor Coelho [3]', 'Jason Anthony Ho-Shue']","['[BRA] ', '[CAN] ']","['21-17', '21-7']",MS,20170308
-106,"['Niluka Karunaratne [2]', 'Luka Wraber [4]']","['[SRI] ', '[AUT] ']","['21-18', '21-10']",MS,20170308
-107,"['Haruko Suzuki', 'Paloma Eduarda Da Silva [4]']","['[JPN] ', '[BRA] ']","['21-12', '21-3']",WS,20170308
-108,"['Fabiana Silva [2]', 'Martina Repiska [3]']","['[BRA] ', '[SVK] ']","['21-13', '21-17']",WS,20170308
-109,"['Evgenij Dremin [1]', 'Denis Grachev', 'Pawel Pradzinski', 'Jan Rudzinski']","['[RUS] ', '[RUS] ', '[POL] ', '[POL] ']","['21-16', '21-13']",MD,20170308
-110,"['Adam Mendrek', 'Jonathan Persson', 'Dominik Stipsits [2]', 'Roman Zirnwald']","['[CZE] ', '[GER] ', '[AUT] ', '[AUT] ']","['21-13', '21-15']",MD,20170308
-111,"['Jaqueline Lima', 'Samia Lima', 'Paula Pereira [1]', 'Fabiana Silva']","['[BRA] ', '[BRA] ', '[BRA] ', '[BRA] ']","['22-20', '16-21', '21-16']",WD,20170308
-112,"['Thalita Correa', 'Paloma Eduarda Da Silva', 'Silvia Garino [2]', 'Lisa Iversen']","['[BRA] ', '[BRA] ', '[ITA] ', '[ITA] ']","['21-18', '21-18']",WD,20170308
-113,"['Jaqueline Lima', 'Samia Lima', 'Thalita Correa', 'Paloma Eduarda Da Silva']","['[BRA] ', '[BRA] ', '[BRA] ', '[BRA] ']","['14-21', '21-19', '21-15']",WD ,20170308
-114,"['Haruko Suzuki', 'Fabiana Silva [2]']","['[JPN] ', '[BRA] ']","['21-9', '21-6']",WS ,20170308
-115,"['Evgenij Dremin [1]', 'Denis Grachev', 'Adam Mendrek', 'Jonathan Persson']","['[RUS] ', '[RUS] ', '[CZE] ', '[GER] ']","['21-17', '21-16']",MD ,20170308
-116,"['Niluka Karunaratne [2]', 'Ygor Coelho [3]']","['[SRI] ', '[BRA] ']","['9-21', '21-14', '21-18']",MS ,20170308
-117,"['Hugo Arthuso [3]', 'Fabiana Silva', 'Jonathan Persson', 'Kate Foo Kune']","['[BRA] ', '[BRA] ', '[GER] ', '[MRI] ']","['21-11', '21-19']",XD ,20170308
+,PLAYERS,COUNTRIES,SCORES,EVENT,match_week,match_location
+0,"['Luiz Eduardo Martinez', 'Luis Roberto Schoueri']","['[BRA] ', '[BRA] ']","['21-10', '21-16']",MS - Qualification,20170308,"São Paulo, Brazil"
+1,"['Alex Yuwan Tjong', 'Francisco Brandao']","['[BRA] ', '[BRA] ']","['21-16', '21-12']",MS - Qualification,20170308,"São Paulo, Brazil"
+2,"['Alberto Alvin Yulianto', 'Lucas Constant Da Silva']","['[INA] ', '[BRA] ']","['21-13', '21-8']",MS - Qualification,20170308,"São Paulo, Brazil"
+3,"['Cleudson Jardel Sousa Lima', 'Gabriel Guimaraes Nery']","['[BRA] ', '[BRA] ']","['18-21', '21-18', '21-10']",MS - Qualification,20170308,"São Paulo, Brazil"
+4,"[""D'Artagnan Da Silva"", 'Pedro Kawakami']","['[BRA] ', '[BRA] ']","['21-18', '21-17']",MS - Qualification,20170308,"São Paulo, Brazil"
+5,"['Milan Dratva', 'Enzo Sugiura']","['[SVK] ', '[BRA] ']","['21-15', '21-12']",MS - Qualification,20170308,"São Paulo, Brazil"
+6,"['Ikhsan Leonardo Imanuel Rumbay', 'Artur Silva Pomoceno']","['[INA] ', '[BRA] ']","['21-15', '21-16']",MS - Qualification,20170308,"São Paulo, Brazil"
+7,"['Jonathan Persson', 'Waleson Vinicios Evangeli Santos']","['[GER] ', '[BRA] ']","['21-12', '19-21', '21-16']",MS - Qualification,20170308,"São Paulo, Brazil"
+8,"['Francielton Farias', 'Daniel Grassmuck']","['[BRA] ', '[AUT] ']","['21-16', '21-15']",MS - Qualification,20170308,"São Paulo, Brazil"
+9,"['Giovanni Greco', 'Lucca Trovarelli']","['[ITA] ', '[BRA] ']","['21-11', '21-12']",MS - Qualification,20170308,"São Paulo, Brazil"
+10,"['Fabricio Farias', 'Matheus Voigt']","['[BRA] ', '[BRA] ']","['21-16', '23-21']",MS - Qualification,20170308,"São Paulo, Brazil"
+11,"['Joao Marcos Moreira', 'Alonso Medel']","['[BRA] ', '[CHI] ']","['18-21', '21-16', '22-20']",MS - Qualification,20170308,"São Paulo, Brazil"
+12,"['Igor Ibrahim [1]', 'Luiz Eduardo Martinez']","['[BRA] ', '[BRA] ']","['17-21', '22-20', '21-18']",MS - Qualification,20170308,"São Paulo, Brazil"
+13,"['Alberto Alvin Yulianto', 'Alex Yuwan Tjong']","['[INA] ', '[BRA] ']","['21-14', '21-13']",MS - Qualification,20170308,"São Paulo, Brazil"
+14,"['Ivan Leon [3]', 'Cleudson Jardel Sousa Lima']","['[CHI] ', '[BRA] ']","['21-16', '13-21', '21-12']",MS - Qualification,20170308,"São Paulo, Brazil"
+15,"['Milan Dratva', ""D'Artagnan Da Silva""]","['[SVK] ', '[BRA] ']","['21-11', '22-24', '21-13']",MS - Qualification,20170308,"São Paulo, Brazil"
+16,"['Ikhsan Leonardo Imanuel Rumbay', 'Jonathan Persson']","['[INA] ', '[GER] ']","['21-16', '21-10']",MS - Qualification,20170308,"São Paulo, Brazil"
+17,"['Francielton Farias', 'Mateus Carrijo Cutti [4]']","['[BRA] ', '[BRA] ']","['25-23', '21-19']",MS - Qualification,20170308,"São Paulo, Brazil"
+18,"['Giovanni Greco', 'Fabricio Farias']","['[ITA] ', '[BRA] ']","['21-13', '21-12']",MS - Qualification,20170308,"São Paulo, Brazil"
+19,"['Joao Marcos Moreira', 'Luiz Dos Santos [2]']","['[BRA] ', '[BRA] ']","['21-19', '21-14']",MS - Qualification,20170308,"São Paulo, Brazil"
+20,"['Misha Zilberman [1]', 'Kevin Strobl']","['[ISR] ', '[ITA] ']","['21-5', '21-8']",MS,20170308,"São Paulo, Brazil"
+21,"['Jason Anthony Ho-Shue', 'Matteo Bellucci']","['[CAN] ', '[ITA] ']","['21-11', '21-16']",MS,20170308,"São Paulo, Brazil"
+22,"['Ikhsan Leonardo Imanuel Rumbay', 'Vilson Vattanirappel [8]']","['[INA] ', '[AUT] ']","['21-9', '21-9']",MS,20170308,"São Paulo, Brazil"
+23,"['Rudolf Dellenbach', 'Matej Hlinican']","['[ITA] ', '[SVK] ']","['21-9', '21-15']",MS,20170308,"São Paulo, Brazil"
+24,"['Ygor Coelho [3]', 'Lukas Osele']","['[BRA] ', '[ITA] ']","['21-14', '21-10']",MS,20170308,"São Paulo, Brazil"
+25,"['Milan Dratva', 'Giovanni Greco']","['[SVK] ', '[ITA] ']","['21-16', '21-19']",MS,20170308,"São Paulo, Brazil"
+26,"['Kevin Cordon [7]', 'Nicholas Bonkowsky']","['[GUA] ', '[TTO] ']","['21-18', '21-15']",MS,20170308,"São Paulo, Brazil"
+27,"['Luis Ramon Garrido', 'Alberto Alvin Yulianto']","['[MEX] ', '[INA] ']","['21-15', '21-16']",MS,20170308,"São Paulo, Brazil"
+28,"['Anibal Marroquin', 'Joao Marcos Moreira']","['[GUA] ', '[BRA] ']","['21-17', '12-21', '21-17']",MS,20170308,"São Paulo, Brazil"
+29,"['Rosario Maddaloni [6]', 'Denis Grachev']","['[ITA] ', '[RUS] ']","['21-16', '21-23', '21-15']",MS,20170308,"São Paulo, Brazil"
+30,"['Duarte Nuno Anjo', 'Ivan Leon']","['[POR] ', '[CHI] ']","['21-10', '21-14']",MS,20170308,"São Paulo, Brazil"
+31,"['Luka Wraber [4]', 'Mathew Fogarty']","['[AUT] ', '[USA] ']","['21-7', '21-4']",MS,20170308,"São Paulo, Brazil"
+32,"['Ruben Castellanos', 'Francielton Farias']","['[GUA] ', '[BRA] ']","['21-17', '13-21', '21-16']",MS,20170308,"São Paulo, Brazil"
+33,"['Maxime Moreels [5]', 'Bastian Lizama']","['[BEL] ', '[CHI] ']","['21-10', '21-6']",MS,20170308,"São Paulo, Brazil"
+34,"['Adam Mendrek', 'Pawel Pradzinski']","['[CZE] ', '[POL] ']","['21-14', '21-10']",MS,20170308,"São Paulo, Brazil"
+35,"['Niluka Karunaratne [2]', 'Igor Ibrahim']","['[SRI] ', '[BRA] ']","['21-13', '21-11']",MS,20170308,"São Paulo, Brazil"
+36,"['Lisa Iversen', 'Andrezza Ribeiro']","['[ITA] ', '[BRA] ']","['21-7', '21-5']",WS,20170308,"São Paulo, Brazil"
+37,"['Silvia Garino', 'Mariana Couto']","['[ITA] ', '[BRA] ']","['21-3', '21-9']",WS,20170308,"São Paulo, Brazil"
+38,"['Mariana Pedrol Freitas', 'Giulia Fiorito']","['[BRA] ', '[ITA] ']","['21-18', '17-21', '25-23']",WS,20170308,"São Paulo, Brazil"
+39,"['Artur Silva Pomoceno', 'Matheus Voigt', 'Bastian Lizama', 'Alonso Medel']","['[BRA] ', '[BRA] ', '[CHI] ', '[CHI] ']","['21-10', '21-9']",MD,20170308,"São Paulo, Brazil"
+40,"['Daniel Grassmuck', 'Luka Wraber', 'Fabricio Farias', 'Waleson Vinicios Evangeli Santos']","['[AUT] ', '[AUT] ', '[BRA] ', '[BRA] ']","['21-19', '21-14']",MD,20170308,"São Paulo, Brazil"
+41,"['Pawel Pradzinski', 'Jan Rudzinski', 'Felippe Cury Fonseca', 'Alex Yuwan Tjong']","['[POL] ', '[POL] ', '[BRA] ', '[BRA] ']","['21-13', '21-15']",MD,20170308,"São Paulo, Brazil"
+42,"['Adam Mendrek', 'Jonathan Persson', 'Hugo Arthuso', 'Daniel Paiola']","['[CZE] ', '[GER] ', '[BRA] ', '[BRA] ']","['24-22', '11-21', '29-27']",MD,20170308,"São Paulo, Brazil"
+43,"['Francisco Brandao', 'Enzo Sugiura', 'Venkatesh Prasad', 'Jagadish Yadav']","['[BRA] ', '[BRA] ', '[IND] ', '[IND] ']",[],MD,20170308,"São Paulo, Brazil"
+44,"['Giovanni Greco', 'Rosario Maddaloni', 'Igor Ibrahim', ""D'Artagnan Da Silva""]","['[ITA] ', '[ITA] ', '[BRA] ', '[BRA] ']","['21-14', '21-13']",MD,20170308,"São Paulo, Brazil"
+45,"['Ruben Castellanos', 'Anibal Marroquin', 'Pedro Kawakami', 'Lucas Constant Da Silva']","['[GUA] ', '[GUA] ', '[BRA] ', '[BRA] ']","['20-22', '21-11', '21-13']",MD,20170308,"São Paulo, Brazil"
+46,"['Mateus Carrijo Cutti', 'Paloma Eduarda Da Silva', 'Matteo Bellucci', 'Giulia Fiorito']","['[BRA] ', '[BRA] ', '[ITA] ', '[ITA] ']","['21-13', '21-16']",XD,20170308,"São Paulo, Brazil"
+47,"['Roman Zirnwald', 'Ana Paula Campos', 'Luis Roberto Schoueri', 'Andrezza Ribeiro']","['[AUT] ', '[BRA] ', '[BRA] ', '[BRA] ']","['21-13', '21-10']",XD,20170308,"São Paulo, Brazil"
+48,"['Jonathan Persson', 'Kate Foo Kune', 'Lukas Osele', 'Lisa Iversen']","['[GER] ', '[MRI] ', '[ITA] ', '[ITA] ']","['21-18', '16-21', '21-15']",XD,20170308,"São Paulo, Brazil"
+49,"['Felippe Cury Fonseca', 'Paula Pereira', 'Ivan Leon', 'Camila Macaya']","['[BRA] ', '[BRA] ', '[CHI] ', '[CHI] ']","['21-19', '21-15']",XD,20170308,"São Paulo, Brazil"
+50,"['Luiz Dos Santos', 'Mariana Pedrol Freitas', 'Milan Dratva', 'Martina Repiska']","['[BRA] ', '[BRA] ', '[SVK] ', '[SVK] ']","['21-18', '21-13']",XD,20170308,"São Paulo, Brazil"
+51,"['Francielton Farias', 'Jaqueline Lima', 'Evgenij Dremin [1]', 'Evgenia Dimova']","['[BRA] ', '[BRA] ', '[RUS] ', '[RUS] ']",[],XD,20170308,"São Paulo, Brazil"
+52,"['Fabricio Farias', 'Samia Lima', 'Mateus Carrijo Cutti', 'Paloma Eduarda Da Silva']","['[BRA] ', '[BRA] ', '[BRA] ', '[BRA] ']","['21-15', '21-19']",XD,20170308,"São Paulo, Brazil"
+53,"['Hugo Arthuso [3]', 'Fabiana Silva', 'Joao Marcos Moreira', 'Gabriele Pereira']","['[BRA] ', '[BRA] ', '[BRA] ', '[BRA] ']","['21-17', '21-11']",XD,20170308,"São Paulo, Brazil"
+54,"['Roman Zirnwald', 'Ana Paula Campos', 'Luiz Eduardo Martinez', 'Mariana Couto']","['[AUT] ', '[BRA] ', '[BRA] ', '[BRA] ']","['21-10', '21-8']",XD,20170308,"São Paulo, Brazil"
+55,"['Jonathan Persson', 'Kate Foo Kune', 'Lucas Constant Da Silva', 'Thalita Correa']","['[GER] ', '[MRI] ', '[BRA] ', '[BRA] ']","['21-9', '21-10']",XD,20170308,"São Paulo, Brazil"
+56,"['Felippe Cury Fonseca', 'Paula Pereira', 'Kevin Strobl [4]', 'Silvia Garino']","['[BRA] ', '[BRA] ', '[ITA] ', '[ITA] ']","['21-13', '21-8']",XD,20170308,"São Paulo, Brazil"
+57,"['Luiz Dos Santos', 'Mariana Pedrol Freitas', 'Artur Silva Pomoceno', 'Manoela Koepsel']","['[BRA] ', '[BRA] ', '[BRA] ', '[BRA] ']","['21-14', '21-15']",XD,20170308,"São Paulo, Brazil"
+58,"['Matheus Voigt [2]', 'Bianca Oliveira Lima', 'Pedro Kawakami', 'Estefane Ventura']","['[BRA] ', '[BRA] ', '[BRA] ', '[BRA] ']","['21-15', '21-9']",XD,20170308,"São Paulo, Brazil"
+59,"['Jason Anthony Ho-Shue', 'Misha Zilberman [1]']","['[CAN] ', '[ISR] ']","['21-16', '21-19']",MS,20170308,"São Paulo, Brazil"
+60,"['Ikhsan Leonardo Imanuel Rumbay', 'Rudolf Dellenbach']","['[INA] ', '[ITA] ']","['21-8', '21-9']",MS,20170308,"São Paulo, Brazil"
+61,"['Ygor Coelho [3]', 'Milan Dratva']","['[BRA] ', '[SVK] ']","['21-2', '21-0']",MS,20170308,"São Paulo, Brazil"
+62,"['Luis Ramon Garrido', 'Kevin Cordon [7]']","['[MEX] ', '[GUA] ']",['1-0'],MS,20170308,"São Paulo, Brazil"
+63,"['Rosario Maddaloni [6]', 'Anibal Marroquin']","['[ITA] ', '[GUA] ']","['22-20', '21-2']",MS,20170308,"São Paulo, Brazil"
+64,"['Luka Wraber [4]', 'Duarte Nuno Anjo']","['[AUT] ', '[POR] ']","['21-14', '21-13']",MS,20170308,"São Paulo, Brazil"
+65,"['Maxime Moreels [5]', 'Ruben Castellanos']","['[BEL] ', '[GUA] ']","['21-13', '21-10']",MS,20170308,"São Paulo, Brazil"
+66,"['Niluka Karunaratne [2]', 'Adam Mendrek']","['[SRI] ', '[CZE] ']","['21-10', '21-10']",MS,20170308,"São Paulo, Brazil"
+67,"['Kate Foo Kune [1]', 'Gabriele Pereira']","['[MRI] ', '[BRA] ']","['21-13', '21-10']",WS,20170308,"São Paulo, Brazil"
+68,"['Haruko Suzuki', 'Samia Lima']","['[JPN] ', '[BRA] ']","['21-12', '21-7']",WS,20170308,"São Paulo, Brazil"
+69,"['Paloma Eduarda Da Silva [4]', 'Estefane Ventura']","['[BRA] ', '[BRA] ']","['21-8', '21-11']",WS,20170308,"São Paulo, Brazil"
+70,"['Bianca Oliveira Lima', 'Lisa Iversen']","['[BRA] ', '[ITA] ']","['20-22', '21-11', '21-16']",WS,20170308,"São Paulo, Brazil"
+71,"['Jaqueline Lima', 'Silvia Garino']","['[BRA] ', '[ITA] ']","['21-19', '21-14']",WS,20170308,"São Paulo, Brazil"
+72,"['Martina Repiska [3]', 'Thalita Correa']","['[SVK] ', '[BRA] ']","['21-15', '21-12']",WS,20170308,"São Paulo, Brazil"
+73,"['Mariana Pedrol Freitas', 'Manoela Koepsel']","['[BRA] ', '[BRA] ']","['21-17', '21-13']",WS,20170308,"São Paulo, Brazil"
+74,"['Fabiana Silva [2]', 'Camila Macaya']","['[BRA] ', '[CHI] ']","['21-10', '21-11']",WS,20170308,"São Paulo, Brazil"
+75,"['Evgenij Dremin [1]', 'Denis Grachev', 'Francielton Farias', 'Luiz Dos Santos']","['[RUS] ', '[RUS] ', '[BRA] ', '[BRA] ']","['21-17', '21-8']",MD,20170308,"São Paulo, Brazil"
+76,"['Artur Silva Pomoceno', 'Matheus Voigt', 'Mateus Carrijo Cutti', 'Luiz Eduardo Martinez']","['[BRA] ', '[BRA] ', '[BRA] ', '[BRA] ']","['21-14', '21-14']",MD,20170308,"São Paulo, Brazil"
+77,"['Daniel Grassmuck', 'Luka Wraber', 'Lukas Osele [3]', 'Kevin Strobl']","['[AUT] ', '[AUT] ', '[ITA] ', '[ITA] ']","['21-15', '21-12']",MD,20170308,"São Paulo, Brazil"
+78,"['Pawel Pradzinski', 'Jan Rudzinski', 'Milan Dratva', 'Matej Hlinican']","['[POL] ', '[POL] ', '[SVK] ', '[SVK] ']",['1-0'],MD,20170308,"São Paulo, Brazil"
+79,"['Paula Pereira [1]', 'Fabiana Silva', 'Gabriele Pereira', 'Andrezza Ribeiro']","['[BRA] ', '[BRA] ', '[BRA] ', '[BRA] ']","['21-4', '21-14']",WD,20170308,"São Paulo, Brazil"
+80,"['Adam Mendrek', 'Jonathan Persson', 'Cleudson Jardel Sousa Lima', 'Joao Marcos Moreira']","['[CZE] ', '[GER] ', '[BRA] ', '[BRA] ']","['21-16', '21-16']",MD,20170308,"São Paulo, Brazil"
+81,"['Nicholas Bonkowsky [4]', 'Mathew Fogarty', 'Francisco Brandao', 'Enzo Sugiura']","['[TTO] ', '[USA] ', '[BRA] ', '[BRA] ']","['21-18', '21-14']",MD,20170308,"São Paulo, Brazil"
+82,"['Giovanni Greco', 'Rosario Maddaloni', 'Luis Roberto Schoueri', 'Lucca Trovarelli']","['[ITA] ', '[ITA] ', '[BRA] ', '[BRA] ']","['21-9', '21-7']",MD,20170308,"São Paulo, Brazil"
+83,"['Dominik Stipsits [2]', 'Roman Zirnwald', 'Ruben Castellanos', 'Anibal Marroquin']","['[AUT] ', '[AUT] ', '[GUA] ', '[GUA] ']","['21-13', '21-11']",MD,20170308,"São Paulo, Brazil"
+84,"['Jaqueline Lima', 'Samia Lima', 'Mariana Couto', 'Estefane Ventura']","['[BRA] ', '[BRA] ', '[BRA] ', '[BRA] ']","['21-9', '21-9']",WD,20170308,"São Paulo, Brazil"
+85,"['Silvia Garino [2]', 'Lisa Iversen', 'Ana Paula Campos', 'Mariana Pedrol Freitas']","['[ITA] ', '[ITA] ', '[BRA] ', '[BRA] ']","['16-21', '21-19', '21-10']",WD,20170308,"São Paulo, Brazil"
+86,"['Thalita Correa', 'Paloma Eduarda Da Silva', 'Manoela Koepsel', 'Bianca Oliveira Lima']","['[BRA] ', '[BRA] ', '[BRA] ', '[BRA] ']","['21-18', '21-15']",WD,20170308,"São Paulo, Brazil"
+87,"['Fabricio Farias', 'Samia Lima', 'Francielton Farias', 'Jaqueline Lima']","['[BRA] ', '[BRA] ', '[BRA] ', '[BRA] ']","['21-16', '22-20']",XD,20170308,"São Paulo, Brazil"
+88,"['Hugo Arthuso [3]', 'Fabiana Silva', 'Roman Zirnwald', 'Ana Paula Campos']","['[BRA] ', '[BRA] ', '[AUT] ', '[BRA] ']","['21-16', '17-21', '21-12']",XD,20170308,"São Paulo, Brazil"
+89,"['Jonathan Persson', 'Kate Foo Kune', 'Felippe Cury Fonseca', 'Paula Pereira']","['[GER] ', '[MRI] ', '[BRA] ', '[BRA] ']","['21-14', '21-17']",XD,20170308,"São Paulo, Brazil"
+90,"['Luiz Dos Santos', 'Mariana Pedrol Freitas', 'Matheus Voigt [2]', 'Bianca Oliveira Lima']","['[BRA] ', '[BRA] ', '[BRA] ', '[BRA] ']","['21-18', '21-12']",XD,20170308,"São Paulo, Brazil"
+91,"['Fabiana Silva [2]', 'Mariana Pedrol Freitas']","['[BRA] ', '[BRA] ']","['21-15', '21-13']",WS,20170308,"São Paulo, Brazil"
+92,"['Luka Wraber [4]', 'Rosario Maddaloni [6]']","['[AUT] ', '[ITA] ']","['21-19', '21-13']",MS,20170308,"São Paulo, Brazil"
+93,"['Niluka Karunaratne [2]', 'Maxime Moreels [5]']","['[SRI] ', '[BEL] ']","['21-12', '21-19']",MS,20170308,"São Paulo, Brazil"
+94,"['Martina Repiska [3]', 'Jaqueline Lima']","['[SVK] ', '[BRA] ']","['21-12', '19-21', '21-13']",WS,20170308,"São Paulo, Brazil"
+95,"['Paloma Eduarda Da Silva [4]', 'Bianca Oliveira Lima']","['[BRA] ', '[BRA] ']","['21-10', '21-15']",WS,20170308,"São Paulo, Brazil"
+96,"['Jason Anthony Ho-Shue', 'Ikhsan Leonardo Imanuel Rumbay']","['[CAN] ', '[INA] ']","['21-15', '21-18']",MS,20170308,"São Paulo, Brazil"
+97,"['Ygor Coelho [3]', 'Luis Ramon Garrido']","['[BRA] ', '[MEX] ']","['21-18', '18-21', '21-19']",MS,20170308,"São Paulo, Brazil"
+98,"['Haruko Suzuki', 'Kate Foo Kune [1]']","['[JPN] ', '[MRI] ']","['21-8', '21-9']",WS,20170308,"São Paulo, Brazil"
+99,"['Evgenij Dremin [1]', 'Denis Grachev', 'Artur Silva Pomoceno', 'Matheus Voigt']","['[RUS] ', '[RUS] ', '[BRA] ', '[BRA] ']","['21-17', '21-18']",MD,20170308,"São Paulo, Brazil"
+100,"['Pawel Pradzinski', 'Jan Rudzinski', 'Daniel Grassmuck', 'Luka Wraber']","['[POL] ', '[POL] ', '[AUT] ', '[AUT] ']","['21-18', '22-20']",MD,20170308,"São Paulo, Brazil"
+101,"['Adam Mendrek', 'Jonathan Persson', 'Nicholas Bonkowsky [4]', 'Mathew Fogarty']","['[CZE] ', '[GER] ', '[TTO] ', '[USA] ']","['21-6', '21-13']",MD,20170308,"São Paulo, Brazil"
+102,"['Dominik Stipsits [2]', 'Roman Zirnwald', 'Giovanni Greco', 'Rosario Maddaloni']","['[AUT] ', '[AUT] ', '[ITA] ', '[ITA] ']","['21-11', '21-14']",MD,20170308,"São Paulo, Brazil"
+103,"['Hugo Arthuso [3]', 'Fabiana Silva', 'Fabricio Farias', 'Samia Lima']","['[BRA] ', '[BRA] ', '[BRA] ', '[BRA] ']","['24-22', '10-21', '21-12']",XD,20170308,"São Paulo, Brazil"
+104,"['Jonathan Persson', 'Kate Foo Kune', 'Luiz Dos Santos', 'Mariana Pedrol Freitas']","['[GER] ', '[MRI] ', '[BRA] ', '[BRA] ']","['21-15', '21-15']",XD,20170308,"São Paulo, Brazil"
+105,"['Ygor Coelho [3]', 'Jason Anthony Ho-Shue']","['[BRA] ', '[CAN] ']","['21-17', '21-7']",MS,20170308,"São Paulo, Brazil"
+106,"['Niluka Karunaratne [2]', 'Luka Wraber [4]']","['[SRI] ', '[AUT] ']","['21-18', '21-10']",MS,20170308,"São Paulo, Brazil"
+107,"['Haruko Suzuki', 'Paloma Eduarda Da Silva [4]']","['[JPN] ', '[BRA] ']","['21-12', '21-3']",WS,20170308,"São Paulo, Brazil"
+108,"['Fabiana Silva [2]', 'Martina Repiska [3]']","['[BRA] ', '[SVK] ']","['21-13', '21-17']",WS,20170308,"São Paulo, Brazil"
+109,"['Evgenij Dremin [1]', 'Denis Grachev', 'Pawel Pradzinski', 'Jan Rudzinski']","['[RUS] ', '[RUS] ', '[POL] ', '[POL] ']","['21-16', '21-13']",MD,20170308,"São Paulo, Brazil"
+110,"['Adam Mendrek', 'Jonathan Persson', 'Dominik Stipsits [2]', 'Roman Zirnwald']","['[CZE] ', '[GER] ', '[AUT] ', '[AUT] ']","['21-13', '21-15']",MD,20170308,"São Paulo, Brazil"
+111,"['Jaqueline Lima', 'Samia Lima', 'Paula Pereira [1]', 'Fabiana Silva']","['[BRA] ', '[BRA] ', '[BRA] ', '[BRA] ']","['22-20', '16-21', '21-16']",WD,20170308,"São Paulo, Brazil"
+112,"['Thalita Correa', 'Paloma Eduarda Da Silva', 'Silvia Garino [2]', 'Lisa Iversen']","['[BRA] ', '[BRA] ', '[ITA] ', '[ITA] ']","['21-18', '21-18']",WD,20170308,"São Paulo, Brazil"
+113,"['Jaqueline Lima', 'Samia Lima', 'Thalita Correa', 'Paloma Eduarda Da Silva']","['[BRA] ', '[BRA] ', '[BRA] ', '[BRA] ']","['14-21', '21-19', '21-15']",WD ,20170308,"São Paulo, Brazil"
+114,"['Haruko Suzuki', 'Fabiana Silva [2]']","['[JPN] ', '[BRA] ']","['21-9', '21-6']",WS ,20170308,"São Paulo, Brazil"
+115,"['Evgenij Dremin [1]', 'Denis Grachev', 'Adam Mendrek', 'Jonathan Persson']","['[RUS] ', '[RUS] ', '[CZE] ', '[GER] ']","['21-17', '21-16']",MD ,20170308,"São Paulo, Brazil"
+116,"['Niluka Karunaratne [2]', 'Ygor Coelho [3]']","['[SRI] ', '[BRA] ']","['9-21', '21-14', '21-18']",MS ,20170308,"São Paulo, Brazil"
+117,"['Hugo Arthuso [3]', 'Fabiana Silva', 'Jonathan Persson', 'Kate Foo Kune']","['[BRA] ', '[BRA] ', '[GER] ', '[MRI] ']","['21-11', '21-19']",XD ,20170308,"São Paulo, Brazil"

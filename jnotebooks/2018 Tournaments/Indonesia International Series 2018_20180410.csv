@@ -1,230 +1,230 @@
-,PLAYERS,COUNTRIES,SCORES,EVENT,match_week
-0,"['Fong Hau Sim', 'Mohamad Hafiz Mohamed Sikkander']","['[MAS] ', '[MAS] ']","['21-6', '21-7']",MS - Qualification,20180410
-1,"['Chen Yen Chun', 'Jason Rivaldo Sutrisno']","['[TPE] ', '[INA] ']","['21-15', '21-16']",MS - Qualification,20180410
-2,"['Muhammad Syafiq Iqbal Mohd Nadzri', 'Jovi Mikhael']","['[MAS] ', '[INA] ']","['21-19', '21-18']",MS - Qualification,20180410
-3,"['Zacharia Joshiano Sumanti', 'Serena Kani', 'Muhammad Juan Elgiffani', 'Windi Siti Mulyani']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-14', '21-17']",XD - Qualification,20180410
-4,"['Erwin Rendana Purnomo', 'Riska Ayu Indah Sari', 'Jien Sern Ian Wong [4]', 'Kha Yan Wong']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']",[],XD - Qualification,20180410
-5,"['Marsa Indah Salsabila [2]', 'Chen You-Chi']","['[INA] ', '[TPE] ']","['17-21', '21-18', '25-23']",WS - Qualification,20180410
-6,"['Abdul Karim Hidayat [8]', 'Syahzlan Hazwan Salleh']","['[INA] ', '[MAS] ']","['21-18', '21-4']",MS - Qualification,20180410
-7,"['Rizky Doka Putra', 'Namboun Luangamath']","['[INA] ', '[LAO] ']","['21-10', '21-19']",MS - Qualification,20180410
-8,"['Alden Lefilson Putra Mainaky', 'Muhammad Aiman Abd Malek']","['[INA] ', '[MAS] ']",[],MS - Qualification,20180410
-9,"['Yonathan Ramlie', 'Ade Resky Dwicahyo']","['[INA] ', '[AZE] ']","['19-21', '21-19', '21-16']",MS - Qualification,20180410
-10,"['Muhammad Rehan Diaz [3]', 'Eveshgaran Vasigaran']","['[INA] ', '[MAS] ']","['21-16', '21-7']",MS - Qualification,20180410
-11,"['Widjaja Stephani', 'Desiree, Hao Shan Siow']","['[INA] ', '[MAS] ']","['21-13', '22-20']",WS - Qualification,20180410
-12,"['Mega Ciputra', 'Chaiyasit Sukasem']","['[INA] ', '[THA] ']","['21-14', '21-17']",MS - Qualification,20180410
-13,"['Wei Chong Man', 'Mei Xing Teoh', 'Renaldi Samosir [3]', 'Hediana Julimarbela']","['[MAS] ', '[MAS] ', '[INA] ', '[INA] ']","['21-15', '21-17']",XD - Qualification,20180410
-14,"['Muhammad Imran Khan', 'Andrew Susanto [7]']","['[SGP] ', '[INA] ']","['7-21', '21-9', '22-20']",MS - Qualification,20180410
-15,"['Ramsha Ariadita', 'Syarifah Nurmariam', 'Kok Xian Tan', 'Anna Ching Yik Cheong']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['16-21', '21-8', '21-17']",XD - Qualification,20180410
-16,"['Amir Al Razi Syazwan', 'Zhen Yap', 'Mek Narongrit [2]', 'Supanida Katethong']","['[MAS] ', '[MAS] ', '[THA] ', '[THA] ']",[],XD - Qualification,20180410
-17,"['Azmy Qowimuramadhoni [6]', 'Mario Verdiano Ben-Oni Mainaky']","['[AZE] ', '[INA] ']","['21-10', '21-17']",MS - Qualification,20180410
-18,"['Orijit Chaliha', 'Muhammad Yusuf Maulana']","['[IND] ', '[INA] ']","['21-18', '14-21', '22-20']",MS - Qualification,20180410
-19,"['Yosua Yosua', 'Mathias Pedersen']","['[INA] ', '[DEN] ']","['21-13', '21-13']",MS - Qualification,20180410
-20,"['Muhammad Idham Zainal Abi Syazmil', 'Sueh Jeou Tan', 'Yosia Michael', 'Marsa Indah Salsabila']","['[MAS] ', '[MAS] ', '[INA] ', '[INA] ']","['21-15', '21-13']",XD - Qualification,20180410
-21,"['Ferdian Mahardika Ranialdy', 'Rafika Putri Sejati', 'Muhammad Syawal Mohd Ismail', 'Nurul Farisha Abd Malek']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['26-24', '21-13']",XD - Qualification,20180410
-22,"['Nandini Putri Arumni', 'Shivani Vaishnavi Devi Gangula']","['[INA] ', '[IND] ']","['21-16', '21-13']",WS - Qualification,20180410
-23,"['Laksika Kanlaha', 'Yeh Szu-Jou']","['[THA] ', '[TPE] ']","['22-20', '21-14']",WS - Qualification,20180410
-24,"['Lauhit Pokuri', 'Dean Bencha Wijaya']","['[IND] ', '[INA] ']","['21-11', '21-12']",MS - Qualification,20180410
-25,"['Manjit Singh Khwairakpam', 'Dingku Singh Konthoujam', 'Yu Heng Kau', 'Muhammad Fahmi Soha']","['[IND] ', '[IND] ', '[MAS] ', '[MAS] ']","['21-17', '23-21']",MD - Qualification,20180410
-26,"['Respati Banuaji', 'Naufal Ligo Saufik', 'Xin Yuan Boon', 'Zhong Rui Goh']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['21-16', '21-12']",MD - Qualification,20180410
-27,"['Mohd Razlan Shah Mohd Ridzuan Shah', 'Tien Ci Wong', 'Aldo Ganang Amiranda', 'Barok Fauzan']","['[MAS] ', '[MAS] ', '[INA] ', '[INA] ']","['21-14', '21-13']",MD - Qualification,20180410
-28,"['Yasnita Enggira Setiawan', 'Ornnicha Jongsathapornparn [1]']","['[INA] ', '[THA] ']","['21-12', '21-18']",WS - Qualification,20180410
-29,"['Savira Sandradewi', 'Chen Li']","['[INA] ', '[TPE] ']","['17-21', '21-18', '21-15']",WS - Qualification,20180410
-30,"['Aidil Sholeh Ali Sadikin [4]', 'Mikael Dwi Putra']","['[MAS] ', '[INA] ']","['21-15', '21-9']",MS - Qualification,20180410
-31,"['Ade Bagus Sapta Ramadhany [4]', 'Timoti Wuisan', 'Syahzlan Hazwan Salleh', 'Datu Mohd Saffuan Nizam Sardik']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['21-11', '21-15']",MD - Qualification,20180410
-32,"['Ade Resky Dwicahyo', 'Azmy Qowimuramadhoni', 'Muhammad Syauqi Mohd Puzi', 'Mohamad Syazmil Zailan']","['[AZE] ', '[AZE] ', '[MAS] ', '[MAS] ']","['21-18', '21-17']",MD - Qualification,20180410
-33,"['Liang Xiaoyu', 'Devita Puti Alifia']","['[SGP] ', '[INA] ']","['19-21', '21-18', '22-20']",WS - Qualification,20180410
-34,"['Putri Kusuma Wardani', 'Peeraya Khantaruangsakul [3]']","['[INA] ', '[THA] ']","['21-10', '21-12']",WS - Qualification,20180410
-35,"['Eizlan Shah Misfahul Muneer [5]', 'Muhammad Ahdial Octa Khairulloh']","['[MAS] ', '[INA] ']","['21-15', '20-22', '21-14']",MS - Qualification,20180410
-36,"['Vishnu Vardhan Goud Panjala', 'Srikrishna Sai Kumar Podile', 'Yosia Michael [3]', 'Andrew Susanto']","['[IND] ', '[IND] ', '[INA] ', '[INA] ']","['21-19', '17-21', '21-11']",MD - Qualification,20180410
-37,"['Ramsha Ariadita', 'Muhammad Juan Elgiffani', 'Galuh Dwi Putra', 'Gabriel Christopher Winta Wijaya']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-17', '21-18']",MD - Qualification,20180410
-38,"['Leo Rolly Carnando', 'Metya Inayah Cindiani', 'Chang Ching-Yuan', 'Tai Wei-Ling']","['[INA] ', '[INA] ', '[TPE] ', '[TPE] ']","['21-14', '21-10']",XD - Qualification,20180410
-39,"['Indra Leonard Prasetya', 'Erwin Rendana Purnomo', 'Muhammad Shahmi Abdillah', 'Muhammad Nuraidil Adha Azman']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']",[],MD - Qualification,20180410
-40,"['Ornnicha Jongsathapornparn', 'Laksika Kanlaha', 'Windi Siti Mulyani', 'Syarifah Nurmariam']","['[THA] ', '[THA] ', '[INA] ', '[INA] ']","['17-21', '21-14', '21-9']",WD - Qualification,20180410
-41,"['Nita Violina Marwah', 'Putri Syaikah', 'Chen Li', 'Chen You-Chi']","['[INA] ', '[INA] ', '[TPE] ', '[TPE] ']","['21-13', '21-14']",WD - Qualification,20180410
-42,"['Putri Larasati', 'Melanni Mamahit', 'Yeh Szu-Jou', 'Chieh Yu']","['[INA] ', '[INA] ', '[TPE] ', '[TPE] ']","['21-11', '22-20']",WD - Qualification,20180410
-43,"['Mega Ciputra', 'Muhammad Febriansyah']","['[INA] ', '[INA] ']",['13-4'],MS,20180410
-44,"['Vega Vio Nirwanda [15]', 'Muhammad Rehan Diaz']","['[INA] ', '[INA] ']","['21-16', '21-11']",MS,20180410
-45,"['Jun Yan Ng', 'Daniel Philip']","['[MAS] ', '[NGR] ']","['21-17', '21-12']",MS,20180410
-46,"['Handoko Yusuf Wijayanto', 'Vincent Cheng Wei Phuah']","['[INA] ', '[MAS] ']","['21-12', '10-21', '21-18']",MS,20180410
-47,"['Mek Narongrit [16]', 'Muhammad Naim Ahmad Fairuzly']","['[THA] ', '[MAS] ']","['21-13', '18-21', '21-14']",MS,20180410
-48,"['Karono Karono', 'Joo Ven Soong [1]']","['[INA] ', '[MAS] ']","['21-18', '21-17']",MS,20180410
-49,"['Chen Yen Chun', 'Auditya Alpha Hidayat']","['[TPE] ', '[INA] ']","['21-12', '21-12']",MS,20180410
-50,"['Sony Dwi Kuncoro [3]', 'Yosua Yosua']","['[INA] ', '[INA] ']","['21-13', '21-17']",MS,20180410
-51,"['Shi Xuan Dominic Soh', 'Labieb Muhzafar Lakamagi']","['[SGP] ', '[MAS] ']","['20-22', '21-13', '21-16']",MS,20180410
-52,"['Datu Mohd Shah Eizlan Sardik', 'Anuoluwapo Juwon Opeyori [11]']","['[MAS] ', '[NGR] ']","['21-13', '22-20']",MS,20180410
-53,"['Yulianto Ilham Sri', 'Alden Lefilson Putra Mainaky']","['[INA] ', '[INA] ']","['21-8', '21-12']",MS,20180410
-54,"['Azmy Qowimuramadhoni', 'Lakshya Sen [5]']","['[AZE] ', '[IND] ']","['21-14', '21-16']",MS,20180410
-55,"['Muhammad Bayu Pangisthu', 'Datu Mohd Saffuan Nizam Sardik']","['[INA] ', '[MAS] ']","['21-15', '21-18']",MS,20180410
-56,"['Riyanto Subagja', 'Yu Leong, Alfred Lau [14]']","['[INA] ', '[MAS] ']","['21-14', '21-8']",MS,20180410
-57,"['Christofel Karinda', 'Lauhit Pokuri']","['[INA] ', '[IND] ']","['21-12', '21-13']",MS,20180410
-58,"['Faiz Rozain', 'Godwin Olofua']","['[MAS] ', '[NGR] ']","['19-21', '21-10', '21-13']",MS,20180410
-59,"['Henrikho Kho Wibowo [10]', 'Orijit Chaliha']","['[INA] ', '[IND] ']","['24-22', '21-19']",MS,20180410
-60,"['Aidil Sholeh Ali Sadikin', 'Nyoman Tryadnya Arya Kurniawan']","['[MAS] ', '[INA] ']","['21-15', '20-22', '21-16']",MS,20180410
-61,"['Mithun Manjunath [6]', 'Wisnu Yuli Prasetyo']","['[IND] ', '[INA] ']","['21-19', '24-22']",MS,20180410
-62,"['Kiran Kumar Mekala', 'Rizky Doka Putra']","['[IND] ', '[INA] ']","['17-21', '21-7', '21-17']",MS,20180410
-63,"['Krishna Adi Nugraha [13]', 'Seng Zoe Yeoh']","['[INA] ', '[MAS] ']","['24-22', '21-14']",MS,20180410
-64,"['Gatjra Piliang Fiqihila Cupu', 'Muhammad Elaf Wei Tan']","['[INA] ', '[SGP] ']","['21-8', '15-21', '21-8']",MS,20180410
-65,"['Lim Chi Wing [4]', 'Fong Hau Sim']","['[MAS] ', '[MAS] ']","['21-14', '21-9']",MS,20180410
-66,"['Yonathan Ramlie', 'Chin Yong Chian']","['[INA] ', '[MAS] ']","['21-10', '21-11']",MS,20180410
-67,"['Mukhammad Rizqy Ramadhani', 'Siddharth Pratap Singh [9]']","['[INA] ', '[IND] ']","['21-15', '18-21', '21-16']",MS,20180410
-68,"['Andi Fadel Muhammad', 'Andrew Rouse']","['[INA] ', '[NZL] ']","['21-7', '21-13']",MS,20180410
-69,"['Yee Han Chong [8]', 'Abdul Karim Hidayat']","['[MAS] ', '[INA] ']","['21-14', '21-14']",MS,20180410
-70,"['Alberto Alvin Yulianto', 'Eizlan Shah Misfahul Muneer']","['[INA] ', '[MAS] ']","['21-10', '21-9']",MS,20180410
-71,"['Søren Toft [12]', 'Yu Ming, Adam Lau']","['[DEN] ', '[MAS] ']","['21-17', '21-19']",MS,20180410
-72,"['Bagas Kristianto Nugroho', 'Shahzan Shah Misfahul']","['[INA] ', '[MAS] ']","['21-13', '12-13']",MS,20180410
-73,"['Shesar Hiren Rhustavito [2]', 'Muhammad Syafiq Iqbal Mohd Nadzri']","['[INA] ', '[MAS] ']","['18-21', '21-14', '21-8']",MS,20180410
-74,"['Enzi Shafira [7]', 'Muhammad Imran Khan']","['[INA] ', '[SGP] ']","['21-14', '21-10']",MS,20180410
-75,"['Fachryza Abimanyu [1]', 'Bunga Fitriani Romadhini', 'Muhammad Syauqi Mohd Puzi', 'Desiree, Hao Shan Siow']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['21-10', '21-16']",XD,20180410
-76,"['Reinard Dhanriano', 'Maretha Dea Giovani', 'Jian Liang Lee [8]', 'Putri Sari Dewi Citra']","['[INA] ', '[INA] ', '[SGP] ', '[SGP] ']","['25-23', '21-13']",XD,20180410
-77,"['Irfan Fadhilah', 'Pia Zebadiah Bernadet', 'Erwin Rendana Purnomo', 'Riska Ayu Indah Sari']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-9', '16-21', '21-14']",XD,20180410
-78,"['Zacharia Joshiano Sumanti', 'Serena Kani', 'Ahmad Maziri Mazlan [4]', 'Peiy Yee, Payee Lim']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['21-16', '21-13']",XD,20180410
-79,"['Supanida Katethong [5]', 'Dapasha Joshi']","['[THA] ', '[IND] ']","['21-10', '21-9']",WS,20180410
-80,"['Maharani Sekar Batari [6]', 'Chieh Yu']","['[INA] ', '[TPE] ']","['22-20', '21-17']",WS,20180410
-81,"['Muhammad Fachrikar', 'Brigita Marcelia Rumambi', 'Ferdian Mahardika Ranialdy', 'Rafika Putri Sejati']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-14', '21-15']",XD,20180410
-82,"['Leo Rolly Carnando', 'Metya Inayah Cindiani', 'Reza Dwicahya Purnama', 'Dhea Bunga Anjani']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['16-21', '21-17', '24-22']",XD,20180410
-83,"['Amri Syahnawi [5]', 'Shela Devi Aulia', 'Izzat Farhan Azhar', 'Noor Hazwani Hazair']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['21-17', '21-16']",XD,20180410
-84,"['Tang Kai Wei', 'Lee Wei Tzu', 'Indra Leonard Prasetya', 'Elok Machsunnah']","['[TPE] ', '[TPE] ', '[INA] ', '[INA] ']","['21-19', '14-21', '21-10']",XD,20180410
-85,"['Wei Chong Man', 'Mei Xing Teoh', 'Bimo Adi Prakoso [3]', 'Yujia Jin']","['[MAS] ', '[MAS] ', '[SGP] ', '[SGP] ']","['21-15', '18-21', '21-19']",XD,20180410
-86,"['Hendra Gustiawan', 'Monika Insani', 'Chaloempon Charoenkitamorn', 'Rawimon Iamratanamaetheekul']","['[INA] ', '[INA] ', '[THA] ', '[THA] ']","['21-15', '21-12']",XD,20180410
-87,"['Kenas Adi Haryanto', 'Tiara Rosalia Nuraidah', 'Ramsha Ariadita', 'Syarifah Nurmariam']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['12-21', '25-23', '21-18']",XD,20180410
-88,"['Tedi Supriadi [7]', 'Ririn Amelia', 'Hon Jian Choong', 'Shun Mei Lee']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['22-20', '21-15']",XD,20180410
-89,"['Muhammad Idham Zainal Abi Syazmil', 'Sueh Jeou Tan', 'Eveshgaran Vasigaran', 'Dharshinie Vasigaran']","['[MAS] ', '[MAS] ', '[MAS] ', '[MAS] ']","['21-15', '21-13']",XD,20180410
-90,"['Riky Widianto [2]', 'Masita Mahmudin', 'Zairul Fahmi Zainudin', 'Jayshinie Vasigaran']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['21-6', '21-11']",XD,20180410
-91,"['Tang Wan Yi [1]', 'Made Deya Surya Saraswati']","['[TPE] ', '[INA] ']","['21-7', '22-20']",WS,20180410
-92,"['Eprilia Mega Ayu Swastika', 'Marsa Indah Salsabila']","['[INA] ', '[INA] ']","['13-21', '21-9', '21-19']",WS,20180410
-93,"['Silvi Wulandari', 'Widjaja Stephani']","['[INA] ', '[INA] ']","['21-14', '21-12']",WS,20180410
-94,"['Liang Xiaoyu', 'Peng Li Ting [4]']","['[SGP] ', '[TPE] ']","['21-19', '15-21', '27-25']",WS,20180410
-95,"['Desima Aqmar Syarafina', 'Ming Hui Lim']","['[INA] ', '[SGP] ']","['21-11', '21-14']",WS,20180410
-96,"['Putri Kusuma Wardani', 'Diana Setiyoningsih']","['[INA] ', '[INA] ']","['21-14', '21-7']",WS,20180410
-97,"['Mek Narongrit [16]', 'Chen Yen Chun']","['[THA] ', '[TPE] ']","['21-13', '15-21', '23-21']",MS,20180410
-98,"['Gatjra Piliang Fiqihila Cupu', 'Lim Chi Wing [4]']","['[INA] ', '[MAS] ']","['22-20', '21-14']",MS,20180410
-99,"['Aisha Galuh Maheswari', 'Saranya Navaratnajah [8]']","['[INA] ', '[MAS] ']","['15-21', '21-11', '21-11']",WS,20180410
-100,"['Yasnita Enggira Setiawan', 'Wulan Cahya Utami Sukoputri']","['[INA] ', '[INA] ']","['18-21', '21-19', '22-20']",WS,20180410
-101,"['Aurum Oktavia Winata', 'Hung Yi-Ting [3]']","['[INA] ', '[TPE] ']","['20-22', '21-18', '21-11']",WS,20180410
-102,"['Ni Made Pranita Sulistya Devi', 'Savira Sandradewi']","['[INA] ', '[INA] ']","['21-13', '18-21', '21-10']",WS,20180410
-103,"['Pardeshi Shreyanshi [7]', 'Samin Abedkhojasteh']","['[IND] ', '[IRI] ']","['21-19', '21-14']",WS,20180410
-104,"['Isra Faradilla', 'Su Hsiang Ling']","['[INA] ', '[TPE] ']","['21-13', '13-21', '21-18']",WS,20180410
-105,"['Laksika Kanlaha', 'Gabriela Meilani Moningka [2]']","['[THA] ', '[INA] ']","['21-23', '21-7', '21-16']",WS,20180410
-106,"['Karono Karono', 'Mega Ciputra']","['[INA] ', '[INA] ']","['21-18', '21-13']",MS,20180410
-107,"['Vega Vio Nirwanda [15]', 'Jun Yan Ng']","['[INA] ', '[MAS] ']","['21-11', '21-13']",MS,20180410
-108,"['Enzi Shafira [7]', 'Handoko Yusuf Wijayanto']","['[INA] ', '[INA] ']","['21-13', '22-20']",MS,20180410
-109,"['Yonathan Ramlie', 'Mukhammad Rizqy Ramadhani']","['[INA] ', '[INA] ']","['23-21', '22-20']",MS,20180410
-110,"['Devita Puti Alifia', 'Amalia Cahaya Pratiwi', 'Mei Xing Teoh [7]', 'Zhen Yap']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['21-19', '22-20']",WD,20180410
-111,"['Sony Dwi Kuncoro [3]', 'Shi Xuan Dominic Soh']","['[INA] ', '[SGP] ']","['21-11', '16-21', '21-14']",MS,20180410
-112,"['Yulianto Ilham Sri', 'Datu Mohd Shah Eizlan Sardik']","['[INA] ', '[MAS] ']","['21-10', '21-12']",MS,20180410
-113,"['Muhammad Bayu Pangisthu', 'Azmy Qowimuramadhoni']","['[INA] ', '[AZE] ']","['21-18', '21-10']",MS,20180410
-114,"['Christofel Karinda', 'Riyanto Subagja']","['[INA] ', '[INA] ']","['21-18', '21-18']",MS,20180410
-115,"['Henrikho Kho Wibowo [10]', 'Faiz Rozain']","['[INA] ', '[MAS] ']","['16-21', '22-20', '21-17']",MS,20180410
-116,"['Aidil Sholeh Ali Sadikin', 'Mithun Manjunath [6]']","['[MAS] ', '[IND] ']","['21-8', '21-15']",MS,20180410
-117,"['Krishna Adi Nugraha [13]', 'Kiran Kumar Mekala']","['[INA] ', '[IND] ']","['21-11', '21-19']",MS,20180410
-118,"['Andi Fadel Muhammad', 'Yee Han Chong [8]']","['[INA] ', '[MAS] ']","['21-16', '21-17']",MS,20180410
-119,"['Alberto Alvin Yulianto', 'Søren Toft [12]']","['[INA] ', '[DEN] ']","['21-6', '21-19']",MS,20180410
-120,"['Shesar Hiren Rhustavito [2]', 'Bagas Kristianto Nugroho']","['[INA] ', '[INA] ']","['21-16', '21-14']",MS,20180410
-121,"['Ana Rovita', 'Nandini Putri Arumni']","['[INA] ', '[INA] ']","['21-16', '21-18']",WS,20180410
-122,"['Adnan Maulana [8]', 'Ferdian Mahardika Ranialdy', 'Muhammad Idham Zainal Abi Syazmil', 'Amir Al Razi Syazwan']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['21-19', '21-16']",MD,20180410
-123,"['Metya Inayah Cindiani', 'Indah Cahya Sari Jamil', 'Putri Sari Dewi Citra [1]', 'Yujia Jin']","['[INA] ', '[INA] ', '[SGP] ', '[SGP] ']","['21-10', '21-13']",WD,20180410
-124,"['Monika Insani [5]', 'Tiara Rosalia Nuraidah', 'Nita Violina Marwah', 'Putri Syaikah']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-15', '21-17']",WD,20180410
-125,"['Dhea Bunga Anjani', 'Dinda Dwi Cahyaning', 'Noor Hazwani Hazair', 'Peiy Yee, Payee Lim']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['21-8', '21-17']",WD,20180410
-126,"['Serena Kani', 'Virni Putri', 'Sararat Chueboca', 'Suphapich Silprakob']","['[INA] ', '[INA] ', '[THA] ', '[THA] ']","['21-12', '22-20']",WD,20180410
-127,"['Chiew Sien Lim', 'Sueh Jeou Tan', 'Lin Xiao Min [6]', 'Peng Li Ting']","['[MAS] ', '[MAS] ', '[TPE] ', '[TPE] ']","['21-5', '18-21', '21-12']",WD,20180410
-128,"['Riska Ayu Indah Sari', 'Elok Machsunnah', 'Beverly Gabriela', 'Silvia Ratih']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['26-24', '21-19']",WD,20180410
-129,"['Febby Valencia Dwijayanti Gani [3]', 'Lisa Ayu Kusumawati', 'Ornnicha Jongsathapornparn', 'Laksika Kanlaha']","['[INA] ', '[INA] ', '[THA] ', '[THA] ']","['24-22', '21-13']",WD,20180410
-130,"['Erica Pei Shan Khoo', 'Desiree, Hao Shan Siow', 'Cynthia Shara Ayunidha', 'Ludwina Audrey Naomi']","['[MAS] ', '[MAS] ', '[INA] ', '[INA] ']","['21-19', '21-18']",WD,20180410
-131,"['Maretha Dea Giovani', 'Nisak Puji Lestari', 'Lee Wei Tzu [8]', 'Tai Wei-Ling']","['[INA] ', '[INA] ', '[TPE] ', '[TPE] ']","['21-16', '21-15']",WD,20180410
-132,"['Shun Mei Lee', 'Kha Yan Wong', 'Dharshinie Vasigaran', 'Jayshinie Vasigaran']","['[MAS] ', '[MAS] ', '[MAS] ', '[MAS] ']","['21-17', '21-13']",WD,20180410
-133,"['Zarra Faza Azka [4]', 'Brigita Marcelia Rumambi', ""Ker'Sara Koh"", 'Ming Hui Lim']","['[INA] ', '[INA] ', '[SGP] ', '[SGP] ']","['21-15', '21-16']",WD,20180410
-134,"['Shela Devi Aulia', 'Pia Zebadiah Bernadet', 'Hung Yi-Ting', 'Wu Fang Chien']","['[INA] ', '[INA] ', '[TPE] ', '[TPE] ']","['21-9', '21-17']",WD,20180410
-135,"['Rafika Putri Sejati', 'Nahla Aufa Dhia Ulhaq', 'Putri Larasati', 'Melanni Mamahit']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['20-22', '21-8', '21-19']",WD,20180410
-136,"['Tania Oktaviani Kusumah [2]', 'Vania Arianti Sukoco', 'Nurul Farisha Abd Malek', 'Anna Ching Yik Cheong']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['21-11', '21-14']",WD,20180410
-137,"['Forverio Rivaldo', 'Riky Widianto', 'Indra Leonard Prasetya', 'Erwin Rendana Purnomo']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-8', '21-19']",MD,20180410
-138,"['Calvin Kristanto [7]', 'Giovani Dicky Oktavan', 'Manjit Singh Khwairakpam', 'Dingku Singh Konthoujam']","['[INA] ', '[INA] ', '[IND] ', '[IND] ']","['21-9', '16-21', '21-9']",MD,20180410
-139,"['Krishna Prasad Garaga', 'Dhruv Kapila', 'Muhammad Amar Mohd Sani [4]', 'Muhammad Amir Mohd Sani']","['[IND] ', '[IND] ', '[MAS] ', '[MAS] ']","['21-19', '18-21', '21-15']",MD,20180410
-140,"['Lukhi Apri Nugroho [1]', 'Tedi Supriadi', 'Shahzan Shah Misfahul', 'Eizlan Shah Misfahul Muneer']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']",[],MD,20180410
-141,"['Chun Hann Lo', 'Zairul Fahmi Zainudin', 'Mathias Pedersen', 'Søren Toft']","['[MAS] ', '[MAS] ', '[DEN] ', '[DEN] ']","['21-16', '17-21', '21-15']",MD,20180410
-142,"['Respati Banuaji', 'Naufal Ligo Saufik', 'Haffiz Nur Adila', 'Didit Juang']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-15', '18-21', '21-19']",MD,20180410
-143,"['Irfan Fadhilah [5]', 'Markis Kido', 'Jia Huo Chen', 'Yu Ming, Adam Lau']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['21-12', '21-14']",MD,20180410
-144,"['Reinard Dhanriano', 'Hendra Gustiawan', 'Ramsha Ariadita', 'Muhammad Juan Elgiffani']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-16', '21-19']",MD,20180410
-145,"['Rian Swastedian', 'Amri Syahnawi', 'Ade Resky Dwicahyo', 'Azmy Qowimuramadhoni']","['[INA] ', '[INA] ', '[AZE] ', '[AZE] ']","['21-15', '21-14']",MD,20180410
-146,"['Kenas Adi Haryanto [6]', 'Agripinna Prima Rahmanto Putra', 'Muhammad Syawal Mohd Ismail', 'Kok Xian Tan']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['21-13', '21-15']",MD,20180410
-147,"['Wirawan Ihsan Adam', 'Abiyyu Fauzan Majid', 'Izzat Farhan Azhar', 'Ahmad Maziri Mazlan']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['21-16', '21-14']",MD,20180410
-148,"['Mohd Razlan Shah Mohd Ridzuan Shah', 'Tien Ci Wong', 'Godwin Olofua [3]', 'Anuoluwapo Juwon Opeyori']","['[MAS] ', '[MAS] ', '[NGR] ', '[NGR] ']","['21-10', '21-11']",MD,20180410
-149,"['Vishnu Vardhan Goud Panjala', 'Srikrishna Sai Kumar Podile', 'Sai Pavan Karri', 'Qadeer Moinuddin Mohammed']","['[IND] ', '[IND] ', '[IND] ', '[IND] ']","['21-17', '21-19']",MD,20180410
-150,"['Hon Jian Choong', 'Wei Chong Man', 'Muhammad Shohibul Fikri', 'Bagas Maulana']","['[MAS] ', '[MAS] ', '[INA] ', '[INA] ']",[],MD,20180410
-151,"['Ade Bagus Sapta Ramadhany', 'Timoti Wuisan', 'Muhammad Fachrikar [2]', 'Reza Dwicahya Purnama']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['16-21', '21-19', '21-18']",MD,20180410
-152,"['Mek Narongrit', 'Supanida Katethong', 'Yeremia Erich Yoche Yacob [6]', 'Angelica Wiratama']","['[THA] ', '[THA] ', '[INA] ', '[INA] ']","['18-21', '21-14', '22-20']",XD,20180410
-153,"['Chen Yen Chun', 'Su Hsiang Ling', 'Amir Al Razi Syazwan', 'Zhen Yap']","['[TPE] ', '[TPE] ', '[MAS] ', '[MAS] ']","['21-19', '12-21', '21-18']",XD,20180410
-154,"['Fachryza Abimanyu [1]', 'Bunga Fitriani Romadhini', 'Chen Yen Chun', 'Su Hsiang Ling']","['[INA] ', '[INA] ', '[TPE] ', '[TPE] ']","['21-10', '21-9']",XD,20180410
-155,"['Irfan Fadhilah', 'Pia Zebadiah Bernadet', 'Reinard Dhanriano', 'Maretha Dea Giovani']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-17', '21-19']",XD,20180410
-156,"['Zacharia Joshiano Sumanti', 'Serena Kani', 'Hendra Gustiawan', 'Monika Insani']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['27-25', '21-11']",XD,20180410
-157,"['Supanida Katethong [5]', 'Silvi Wulandari']","['[THA] ', '[INA] ']","['23-21', '21-8']",WS,20180410
-158,"['Enzi Shafira [7]', 'Mek Narongrit [16]']","['[INA] ', '[THA] ']","['21-14', '22-24', '21-7']",MS,20180410
-159,"['Amri Syahnawi [5]', 'Shela Devi Aulia', 'Leo Rolly Carnando', 'Metya Inayah Cindiani']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-14', '21-9']",XD,20180410
-160,"['Kenas Adi Haryanto', 'Tiara Rosalia Nuraidah', 'Tedi Supriadi [7]', 'Ririn Amelia']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-16', '21-15']",XD,20180410
-161,"['Riky Widianto [2]', 'Masita Mahmudin', 'Muhammad Idham Zainal Abi Syazmil', 'Sueh Jeou Tan']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['21-15', '21-5']",XD,20180410
-162,"['Tang Wan Yi [1]', 'Eprilia Mega Ayu Swastika']","['[TPE] ', '[INA] ']","['21-9', '21-5']",WS,20180410
-163,"['Liang Xiaoyu', 'Desima Aqmar Syarafina']","['[SGP] ', '[INA] ']","['14-21', '21-15', '21-12']",WS,20180410
-164,"['Maharani Sekar Batari [6]', 'Ana Rovita']","['[INA] ', '[INA] ']","['21-16', '21-18']",WS,20180410
-165,"['Putri Kusuma Wardani', 'Aisha Galuh Maheswari']","['[INA] ', '[INA] ']","['21-14', '21-19']",WS,20180410
-166,"['Aurum Oktavia Winata', 'Yasnita Enggira Setiawan']","['[INA] ', '[INA] ']","['21-16', '21-14']",WS,20180410
-167,"['Ni Made Pranita Sulistya Devi', 'Pardeshi Shreyanshi [7]']","['[INA] ', '[IND] ']","['21-18', '18-21', '21-10']",WS,20180410
-168,"['Laksika Kanlaha', 'Isra Faradilla']","['[THA] ', '[INA] ']","['21-23', '21-9', '21-13']",WS,20180410
-169,"['Wei Chong Man', 'Mei Xing Teoh', 'Tang Kai Wei', 'Lee Wei Tzu']","['[MAS] ', '[MAS] ', '[TPE] ', '[TPE] ']","['21-15', '21-19']",XD,20180410
-170,"['Forverio Rivaldo', 'Riky Widianto', 'Lukhi Apri Nugroho [1]', 'Tedi Supriadi']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-18', '21-14']",MD,20180410
-171,"['Calvin Kristanto [7]', 'Giovani Dicky Oktavan', 'Chun Hann Lo', 'Zairul Fahmi Zainudin']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['21-17', '21-6']",MD,20180410
-172,"['Krishna Prasad Garaga', 'Dhruv Kapila', 'Respati Banuaji', 'Naufal Ligo Saufik']","['[IND] ', '[IND] ', '[INA] ', '[INA] ']","['21-8', '21-7']",MD,20180410
-173,"['Irfan Fadhilah [5]', 'Markis Kido', 'Reinard Dhanriano', 'Hendra Gustiawan']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['12-21', '21-8', '21-14']",MD,20180410
-174,"['Rian Swastedian', 'Amri Syahnawi', 'Kenas Adi Haryanto [6]', 'Agripinna Prima Rahmanto Putra']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-18', '21-12']",MD,20180410
-175,"['Mohd Razlan Shah Mohd Ridzuan Shah', 'Tien Ci Wong', 'Wirawan Ihsan Adam', 'Abiyyu Fauzan Majid']","['[MAS] ', '[MAS] ', '[INA] ', '[INA] ']","['21-12', '21-19']",MD,20180410
-176,"['Adnan Maulana [8]', 'Ferdian Mahardika Ranialdy', 'Vishnu Vardhan Goud Panjala', 'Srikrishna Sai Kumar Podile']","['[INA] ', '[INA] ', '[IND] ', '[IND] ']","['21-13', '21-9']",MD,20180410
-177,"['Muhammad Fachrikar', 'Brigita Marcelia Rumambi', 'Mek Narongrit', 'Supanida Katethong']","['[INA] ', '[INA] ', '[THA] ', '[THA] ']","['21-17', '16-21', '21-16']",XD,20180410
-178,"['Ririn Amelia', 'Rahmadhani Hastiyanti Putri', 'Metya Inayah Cindiani', 'Indah Cahya Sari Jamil']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['14-21', '21-16', '21-15']",WD,20180410
-179,"['Monika Insani [5]', 'Tiara Rosalia Nuraidah', 'Dhea Bunga Anjani', 'Dinda Dwi Cahyaning']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['23-21', '21-12']",WD,20180410
-180,"['Serena Kani', 'Virni Putri', 'Febby Valencia Dwijayanti Gani [3]', 'Lisa Ayu Kusumawati']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-17', '10-21', '21-1']",WD,20180410
-181,"['Chiew Sien Lim', 'Sueh Jeou Tan', 'Riska Ayu Indah Sari', 'Elok Machsunnah']","['[MAS] ', '[MAS] ', '[INA] ', '[INA] ']","['23-21', '21-10']",WD,20180410
-182,"['Maretha Dea Giovani', 'Nisak Puji Lestari', 'Erica Pei Shan Khoo', 'Desiree, Hao Shan Siow']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['21-17', '21-18']",WD,20180410
-183,"['Shela Devi Aulia', 'Pia Zebadiah Bernadet', 'Devita Puti Alifia', 'Amalia Cahaya Pratiwi']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-17', '21-14']",WD,20180410
-184,"['Tania Oktaviani Kusumah [2]', 'Vania Arianti Sukoco', 'Rafika Putri Sejati', 'Nahla Aufa Dhia Ulhaq']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-14', '21-14']",WD,20180410
-185,"['Ade Bagus Sapta Ramadhany', 'Timoti Wuisan', 'Hon Jian Choong', 'Wei Chong Man']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['21-18', '21-18']",MD,20180410
-186,"['Vega Vio Nirwanda [15]', 'Karono Karono']","['[INA] ', '[INA] ']","['21-14', '15-21', '21-9']",MS,20180410
-187,"['Sony Dwi Kuncoro [3]', 'Yulianto Ilham Sri']","['[INA] ', '[INA] ']","['21-8', '17-21', '21-16']",MS,20180410
-188,"['Muhammad Bayu Pangisthu', 'Christofel Karinda']","['[INA] ', '[INA] ']","['21-17', '21-13']",MS,20180410
-189,"['Zarra Faza Azka [4]', 'Brigita Marcelia Rumambi', 'Shun Mei Lee', 'Kha Yan Wong']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['21-17', '21-6']",WD,20180410
-190,"['Aidil Sholeh Ali Sadikin', 'Henrikho Kho Wibowo [10]']","['[MAS] ', '[INA] ']","['21-11', '21-16']",MS,20180410
-191,"['Krishna Adi Nugraha [13]', 'Gatjra Piliang Fiqihila Cupu']","['[INA] ', '[INA] ']","['21-15', '18-21', '22-20']",MS,20180410
-192,"['Yonathan Ramlie', 'Andi Fadel Muhammad']","['[INA] ', '[INA] ']","['10-21', '21-16', '21-14']",MS,20180410
-193,"['Shesar Hiren Rhustavito [2]', 'Alberto Alvin Yulianto']","['[INA] ', '[INA] ']","['21-11', '21-16']",MS,20180410
-194,"['Muhammad Fachrikar', 'Brigita Marcelia Rumambi', 'Zacharia Joshiano Sumanti', 'Serena Kani']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-16', '22-20']",XD ,20180410
-195,"['Vega Vio Nirwanda [15]', 'Enzi Shafira [7]']","['[INA] ', '[INA] ']","['14-21', '21-17', '22-20']",MS ,20180410
-196,"['Aurum Oktavia Winata', 'Putri Kusuma Wardani']","['[INA] ', '[INA] ']","['14-21', '21-5', '21-17']",WS ,20180410
-197,"['Chiew Sien Lim', 'Sueh Jeou Tan', 'Serena Kani', 'Virni Putri']","['[MAS] ', '[MAS] ', '[INA] ', '[INA] ']","['21-15', '21-19']",WD ,20180410
-198,"['Maretha Dea Giovani', 'Nisak Puji Lestari', 'Zarra Faza Azka [4]', 'Brigita Marcelia Rumambi']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-19', '21-10']",WD ,20180410
-199,"['Irfan Fadhilah', 'Pia Zebadiah Bernadet', 'Fachryza Abimanyu [1]', 'Bunga Fitriani Romadhini']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-11', '14-21', '21-14']",XD ,20180410
-200,"['Maharani Sekar Batari [6]', 'Liang Xiaoyu']","['[INA] ', '[SGP] ']","['21-11', '21-14']",WS ,20180410
-201,"['Sony Dwi Kuncoro [3]', 'Muhammad Bayu Pangisthu']","['[INA] ', '[INA] ']","['21-18', '22-20']",MS ,20180410
-202,"['Shela Devi Aulia', 'Pia Zebadiah Bernadet', 'Tania Oktaviani Kusumah [2]', 'Vania Arianti Sukoco']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-18', '21-14']",WD ,20180410
-203,"['Irfan Fadhilah [5]', 'Markis Kido', 'Krishna Prasad Garaga', 'Dhruv Kapila']","['[INA] ', '[INA] ', '[IND] ', '[IND] ']","['17-21', '21-19', '21-17']",MD ,20180410
-204,"['Amri Syahnawi [5]', 'Shela Devi Aulia', 'Wei Chong Man', 'Mei Xing Teoh']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['21-16', '15-21', '21-15']",XD ,20180410
-205,"['Krishna Adi Nugraha [13]', 'Aidil Sholeh Ali Sadikin']","['[INA] ', '[MAS] ']","['21-11', '21-11']",MS ,20180410
-206,"['Ni Made Pranita Sulistya Devi', 'Laksika Kanlaha']","['[INA] ', '[THA] ']","['21-11', '21-17']",WS ,20180410
-207,"['Adnan Maulana [8]', 'Ferdian Mahardika Ranialdy', 'Ade Bagus Sapta Ramadhany', 'Timoti Wuisan']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-13', '21-19']",MD ,20180410
-208,"['Rian Swastedian', 'Amri Syahnawi', 'Mohd Razlan Shah Mohd Ridzuan Shah', 'Tien Ci Wong']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['22-20', '16-21', '21-15']",MD ,20180410
-209,"['Riky Widianto [2]', 'Masita Mahmudin', 'Kenas Adi Haryanto', 'Tiara Rosalia Nuraidah']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-14', '22-20']",XD ,20180410
-210,"['Supanida Katethong [5]', 'Tang Wan Yi [1]']","['[THA] ', '[TPE] ']","['15-21', '21-12', '21-13']",WS ,20180410
-211,"['Shesar Hiren Rhustavito [2]', 'Yonathan Ramlie']","['[INA] ', '[INA] ']","['22-20', '21-8']",MS ,20180410
-212,"['Monika Insani [5]', 'Tiara Rosalia Nuraidah', 'Ririn Amelia', 'Rahmadhani Hastiyanti Putri']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-16', '24-22']",WD ,20180410
-213,"['Calvin Kristanto [7]', 'Giovani Dicky Oktavan', 'Forverio Rivaldo', 'Riky Widianto']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['24-22', '21-14']",MD ,20180410
-214,"['Irfan Fadhilah', 'Pia Zebadiah Bernadet', 'Muhammad Fachrikar', 'Brigita Marcelia Rumambi']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-13', '21-9']",XD ,20180410
-215,"['Supanida Katethong [5]', 'Maharani Sekar Batari [6]']","['[THA] ', '[INA] ']","['21-14', '21-12']",WS ,20180410
-216,"['Sony Dwi Kuncoro [3]', 'Vega Vio Nirwanda [15]']","['[INA] ', '[INA] ']","['21-16', '16-21', '23-21']",MS ,20180410
-217,"['Shela Devi Aulia', 'Pia Zebadiah Bernadet', 'Maretha Dea Giovani', 'Nisak Puji Lestari']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['17-21', '21-12', '21-14']",WD ,20180410
-218,"['Irfan Fadhilah [5]', 'Markis Kido', 'Calvin Kristanto [7]', 'Giovani Dicky Oktavan']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-16', '21-13']",MD ,20180410
-219,"['Amri Syahnawi [5]', 'Shela Devi Aulia', 'Riky Widianto [2]', 'Masita Mahmudin']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['22-20', '21-17']",XD ,20180410
-220,"['Aurum Oktavia Winata', 'Ni Made Pranita Sulistya Devi']","['[INA] ', '[INA] ']","['21-19', '21-9']",WS ,20180410
-221,"['Shesar Hiren Rhustavito [2]', 'Krishna Adi Nugraha [13]']","['[INA] ', '[INA] ']","['16-21', '21-14', '21-15']",MS ,20180410
-222,"['Chiew Sien Lim', 'Sueh Jeou Tan', 'Monika Insani [5]', 'Tiara Rosalia Nuraidah']","['[MAS] ', '[MAS] ', '[INA] ', '[INA] ']","['21-18', '21-17']",WD ,20180410
-223,"['Rian Swastedian', 'Amri Syahnawi', 'Adnan Maulana [8]', 'Ferdian Mahardika Ranialdy']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['26-24', '21-19']",MD ,20180410
-224,"['Amri Syahnawi [5]', 'Shela Devi Aulia', 'Irfan Fadhilah', 'Pia Zebadiah Bernadet']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-17', '21-16']",XD ,20180410
-225,"['Aurum Oktavia Winata', 'Supanida Katethong [5]']","['[INA] ', '[THA] ']","['21-19', '21-16']",WS ,20180410
-226,"['Shesar Hiren Rhustavito [2]', 'Sony Dwi Kuncoro [3]']","['[INA] ', '[INA] ']","['21-12', '22-20']",MS ,20180410
-227,"['Shela Devi Aulia', 'Pia Zebadiah Bernadet', 'Chiew Sien Lim', 'Sueh Jeou Tan']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['21-17', '21-12']",WD ,20180410
-228,"['Rian Swastedian', 'Amri Syahnawi', 'Irfan Fadhilah [5]', 'Markis Kido']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-19', '21-18']",MD ,20180410
+,PLAYERS,COUNTRIES,SCORES,EVENT,match_week,match_location
+0,"['Fong Hau Sim', 'Mohamad Hafiz Mohamed Sikkander']","['[MAS] ', '[MAS] ']","['21-6', '21-7']",MS - Qualification,20180410,"Semarang, Indonesia"
+1,"['Chen Yen Chun', 'Jason Rivaldo Sutrisno']","['[TPE] ', '[INA] ']","['21-15', '21-16']",MS - Qualification,20180410,"Semarang, Indonesia"
+2,"['Muhammad Syafiq Iqbal Mohd Nadzri', 'Jovi Mikhael']","['[MAS] ', '[INA] ']","['21-19', '21-18']",MS - Qualification,20180410,"Semarang, Indonesia"
+3,"['Zacharia Joshiano Sumanti', 'Serena Kani', 'Muhammad Juan Elgiffani', 'Windi Siti Mulyani']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-14', '21-17']",XD - Qualification,20180410,"Semarang, Indonesia"
+4,"['Erwin Rendana Purnomo', 'Riska Ayu Indah Sari', 'Jien Sern Ian Wong [4]', 'Kha Yan Wong']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']",[],XD - Qualification,20180410,"Semarang, Indonesia"
+5,"['Marsa Indah Salsabila [2]', 'Chen You-Chi']","['[INA] ', '[TPE] ']","['17-21', '21-18', '25-23']",WS - Qualification,20180410,"Semarang, Indonesia"
+6,"['Abdul Karim Hidayat [8]', 'Syahzlan Hazwan Salleh']","['[INA] ', '[MAS] ']","['21-18', '21-4']",MS - Qualification,20180410,"Semarang, Indonesia"
+7,"['Rizky Doka Putra', 'Namboun Luangamath']","['[INA] ', '[LAO] ']","['21-10', '21-19']",MS - Qualification,20180410,"Semarang, Indonesia"
+8,"['Alden Lefilson Putra Mainaky', 'Muhammad Aiman Abd Malek']","['[INA] ', '[MAS] ']",[],MS - Qualification,20180410,"Semarang, Indonesia"
+9,"['Yonathan Ramlie', 'Ade Resky Dwicahyo']","['[INA] ', '[AZE] ']","['19-21', '21-19', '21-16']",MS - Qualification,20180410,"Semarang, Indonesia"
+10,"['Muhammad Rehan Diaz [3]', 'Eveshgaran Vasigaran']","['[INA] ', '[MAS] ']","['21-16', '21-7']",MS - Qualification,20180410,"Semarang, Indonesia"
+11,"['Widjaja Stephani', 'Desiree, Hao Shan Siow']","['[INA] ', '[MAS] ']","['21-13', '22-20']",WS - Qualification,20180410,"Semarang, Indonesia"
+12,"['Mega Ciputra', 'Chaiyasit Sukasem']","['[INA] ', '[THA] ']","['21-14', '21-17']",MS - Qualification,20180410,"Semarang, Indonesia"
+13,"['Wei Chong Man', 'Mei Xing Teoh', 'Renaldi Samosir [3]', 'Hediana Julimarbela']","['[MAS] ', '[MAS] ', '[INA] ', '[INA] ']","['21-15', '21-17']",XD - Qualification,20180410,"Semarang, Indonesia"
+14,"['Muhammad Imran Khan', 'Andrew Susanto [7]']","['[SGP] ', '[INA] ']","['7-21', '21-9', '22-20']",MS - Qualification,20180410,"Semarang, Indonesia"
+15,"['Ramsha Ariadita', 'Syarifah Nurmariam', 'Kok Xian Tan', 'Anna Ching Yik Cheong']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['16-21', '21-8', '21-17']",XD - Qualification,20180410,"Semarang, Indonesia"
+16,"['Amir Al Razi Syazwan', 'Zhen Yap', 'Mek Narongrit [2]', 'Supanida Katethong']","['[MAS] ', '[MAS] ', '[THA] ', '[THA] ']",[],XD - Qualification,20180410,"Semarang, Indonesia"
+17,"['Azmy Qowimuramadhoni [6]', 'Mario Verdiano Ben-Oni Mainaky']","['[AZE] ', '[INA] ']","['21-10', '21-17']",MS - Qualification,20180410,"Semarang, Indonesia"
+18,"['Orijit Chaliha', 'Muhammad Yusuf Maulana']","['[IND] ', '[INA] ']","['21-18', '14-21', '22-20']",MS - Qualification,20180410,"Semarang, Indonesia"
+19,"['Yosua Yosua', 'Mathias Pedersen']","['[INA] ', '[DEN] ']","['21-13', '21-13']",MS - Qualification,20180410,"Semarang, Indonesia"
+20,"['Muhammad Idham Zainal Abi Syazmil', 'Sueh Jeou Tan', 'Yosia Michael', 'Marsa Indah Salsabila']","['[MAS] ', '[MAS] ', '[INA] ', '[INA] ']","['21-15', '21-13']",XD - Qualification,20180410,"Semarang, Indonesia"
+21,"['Ferdian Mahardika Ranialdy', 'Rafika Putri Sejati', 'Muhammad Syawal Mohd Ismail', 'Nurul Farisha Abd Malek']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['26-24', '21-13']",XD - Qualification,20180410,"Semarang, Indonesia"
+22,"['Nandini Putri Arumni', 'Shivani Vaishnavi Devi Gangula']","['[INA] ', '[IND] ']","['21-16', '21-13']",WS - Qualification,20180410,"Semarang, Indonesia"
+23,"['Laksika Kanlaha', 'Yeh Szu-Jou']","['[THA] ', '[TPE] ']","['22-20', '21-14']",WS - Qualification,20180410,"Semarang, Indonesia"
+24,"['Lauhit Pokuri', 'Dean Bencha Wijaya']","['[IND] ', '[INA] ']","['21-11', '21-12']",MS - Qualification,20180410,"Semarang, Indonesia"
+25,"['Manjit Singh Khwairakpam', 'Dingku Singh Konthoujam', 'Yu Heng Kau', 'Muhammad Fahmi Soha']","['[IND] ', '[IND] ', '[MAS] ', '[MAS] ']","['21-17', '23-21']",MD - Qualification,20180410,"Semarang, Indonesia"
+26,"['Respati Banuaji', 'Naufal Ligo Saufik', 'Xin Yuan Boon', 'Zhong Rui Goh']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['21-16', '21-12']",MD - Qualification,20180410,"Semarang, Indonesia"
+27,"['Mohd Razlan Shah Mohd Ridzuan Shah', 'Tien Ci Wong', 'Aldo Ganang Amiranda', 'Barok Fauzan']","['[MAS] ', '[MAS] ', '[INA] ', '[INA] ']","['21-14', '21-13']",MD - Qualification,20180410,"Semarang, Indonesia"
+28,"['Yasnita Enggira Setiawan', 'Ornnicha Jongsathapornparn [1]']","['[INA] ', '[THA] ']","['21-12', '21-18']",WS - Qualification,20180410,"Semarang, Indonesia"
+29,"['Savira Sandradewi', 'Chen Li']","['[INA] ', '[TPE] ']","['17-21', '21-18', '21-15']",WS - Qualification,20180410,"Semarang, Indonesia"
+30,"['Aidil Sholeh Ali Sadikin [4]', 'Mikael Dwi Putra']","['[MAS] ', '[INA] ']","['21-15', '21-9']",MS - Qualification,20180410,"Semarang, Indonesia"
+31,"['Ade Bagus Sapta Ramadhany [4]', 'Timoti Wuisan', 'Syahzlan Hazwan Salleh', 'Datu Mohd Saffuan Nizam Sardik']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['21-11', '21-15']",MD - Qualification,20180410,"Semarang, Indonesia"
+32,"['Ade Resky Dwicahyo', 'Azmy Qowimuramadhoni', 'Muhammad Syauqi Mohd Puzi', 'Mohamad Syazmil Zailan']","['[AZE] ', '[AZE] ', '[MAS] ', '[MAS] ']","['21-18', '21-17']",MD - Qualification,20180410,"Semarang, Indonesia"
+33,"['Liang Xiaoyu', 'Devita Puti Alifia']","['[SGP] ', '[INA] ']","['19-21', '21-18', '22-20']",WS - Qualification,20180410,"Semarang, Indonesia"
+34,"['Putri Kusuma Wardani', 'Peeraya Khantaruangsakul [3]']","['[INA] ', '[THA] ']","['21-10', '21-12']",WS - Qualification,20180410,"Semarang, Indonesia"
+35,"['Eizlan Shah Misfahul Muneer [5]', 'Muhammad Ahdial Octa Khairulloh']","['[MAS] ', '[INA] ']","['21-15', '20-22', '21-14']",MS - Qualification,20180410,"Semarang, Indonesia"
+36,"['Vishnu Vardhan Goud Panjala', 'Srikrishna Sai Kumar Podile', 'Yosia Michael [3]', 'Andrew Susanto']","['[IND] ', '[IND] ', '[INA] ', '[INA] ']","['21-19', '17-21', '21-11']",MD - Qualification,20180410,"Semarang, Indonesia"
+37,"['Ramsha Ariadita', 'Muhammad Juan Elgiffani', 'Galuh Dwi Putra', 'Gabriel Christopher Winta Wijaya']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-17', '21-18']",MD - Qualification,20180410,"Semarang, Indonesia"
+38,"['Leo Rolly Carnando', 'Metya Inayah Cindiani', 'Chang Ching-Yuan', 'Tai Wei-Ling']","['[INA] ', '[INA] ', '[TPE] ', '[TPE] ']","['21-14', '21-10']",XD - Qualification,20180410,"Semarang, Indonesia"
+39,"['Indra Leonard Prasetya', 'Erwin Rendana Purnomo', 'Muhammad Shahmi Abdillah', 'Muhammad Nuraidil Adha Azman']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']",[],MD - Qualification,20180410,"Semarang, Indonesia"
+40,"['Ornnicha Jongsathapornparn', 'Laksika Kanlaha', 'Windi Siti Mulyani', 'Syarifah Nurmariam']","['[THA] ', '[THA] ', '[INA] ', '[INA] ']","['17-21', '21-14', '21-9']",WD - Qualification,20180410,"Semarang, Indonesia"
+41,"['Nita Violina Marwah', 'Putri Syaikah', 'Chen Li', 'Chen You-Chi']","['[INA] ', '[INA] ', '[TPE] ', '[TPE] ']","['21-13', '21-14']",WD - Qualification,20180410,"Semarang, Indonesia"
+42,"['Putri Larasati', 'Melanni Mamahit', 'Yeh Szu-Jou', 'Chieh Yu']","['[INA] ', '[INA] ', '[TPE] ', '[TPE] ']","['21-11', '22-20']",WD - Qualification,20180410,"Semarang, Indonesia"
+43,"['Mega Ciputra', 'Muhammad Febriansyah']","['[INA] ', '[INA] ']",['13-4'],MS,20180410,"Semarang, Indonesia"
+44,"['Vega Vio Nirwanda [15]', 'Muhammad Rehan Diaz']","['[INA] ', '[INA] ']","['21-16', '21-11']",MS,20180410,"Semarang, Indonesia"
+45,"['Jun Yan Ng', 'Daniel Philip']","['[MAS] ', '[NGR] ']","['21-17', '21-12']",MS,20180410,"Semarang, Indonesia"
+46,"['Handoko Yusuf Wijayanto', 'Vincent Cheng Wei Phuah']","['[INA] ', '[MAS] ']","['21-12', '10-21', '21-18']",MS,20180410,"Semarang, Indonesia"
+47,"['Mek Narongrit [16]', 'Muhammad Naim Ahmad Fairuzly']","['[THA] ', '[MAS] ']","['21-13', '18-21', '21-14']",MS,20180410,"Semarang, Indonesia"
+48,"['Karono Karono', 'Joo Ven Soong [1]']","['[INA] ', '[MAS] ']","['21-18', '21-17']",MS,20180410,"Semarang, Indonesia"
+49,"['Chen Yen Chun', 'Auditya Alpha Hidayat']","['[TPE] ', '[INA] ']","['21-12', '21-12']",MS,20180410,"Semarang, Indonesia"
+50,"['Sony Dwi Kuncoro [3]', 'Yosua Yosua']","['[INA] ', '[INA] ']","['21-13', '21-17']",MS,20180410,"Semarang, Indonesia"
+51,"['Shi Xuan Dominic Soh', 'Labieb Muhzafar Lakamagi']","['[SGP] ', '[MAS] ']","['20-22', '21-13', '21-16']",MS,20180410,"Semarang, Indonesia"
+52,"['Datu Mohd Shah Eizlan Sardik', 'Anuoluwapo Juwon Opeyori [11]']","['[MAS] ', '[NGR] ']","['21-13', '22-20']",MS,20180410,"Semarang, Indonesia"
+53,"['Yulianto Ilham Sri', 'Alden Lefilson Putra Mainaky']","['[INA] ', '[INA] ']","['21-8', '21-12']",MS,20180410,"Semarang, Indonesia"
+54,"['Azmy Qowimuramadhoni', 'Lakshya Sen [5]']","['[AZE] ', '[IND] ']","['21-14', '21-16']",MS,20180410,"Semarang, Indonesia"
+55,"['Muhammad Bayu Pangisthu', 'Datu Mohd Saffuan Nizam Sardik']","['[INA] ', '[MAS] ']","['21-15', '21-18']",MS,20180410,"Semarang, Indonesia"
+56,"['Riyanto Subagja', 'Yu Leong, Alfred Lau [14]']","['[INA] ', '[MAS] ']","['21-14', '21-8']",MS,20180410,"Semarang, Indonesia"
+57,"['Christofel Karinda', 'Lauhit Pokuri']","['[INA] ', '[IND] ']","['21-12', '21-13']",MS,20180410,"Semarang, Indonesia"
+58,"['Faiz Rozain', 'Godwin Olofua']","['[MAS] ', '[NGR] ']","['19-21', '21-10', '21-13']",MS,20180410,"Semarang, Indonesia"
+59,"['Henrikho Kho Wibowo [10]', 'Orijit Chaliha']","['[INA] ', '[IND] ']","['24-22', '21-19']",MS,20180410,"Semarang, Indonesia"
+60,"['Aidil Sholeh Ali Sadikin', 'Nyoman Tryadnya Arya Kurniawan']","['[MAS] ', '[INA] ']","['21-15', '20-22', '21-16']",MS,20180410,"Semarang, Indonesia"
+61,"['Mithun Manjunath [6]', 'Wisnu Yuli Prasetyo']","['[IND] ', '[INA] ']","['21-19', '24-22']",MS,20180410,"Semarang, Indonesia"
+62,"['Kiran Kumar Mekala', 'Rizky Doka Putra']","['[IND] ', '[INA] ']","['17-21', '21-7', '21-17']",MS,20180410,"Semarang, Indonesia"
+63,"['Krishna Adi Nugraha [13]', 'Seng Zoe Yeoh']","['[INA] ', '[MAS] ']","['24-22', '21-14']",MS,20180410,"Semarang, Indonesia"
+64,"['Gatjra Piliang Fiqihila Cupu', 'Muhammad Elaf Wei Tan']","['[INA] ', '[SGP] ']","['21-8', '15-21', '21-8']",MS,20180410,"Semarang, Indonesia"
+65,"['Lim Chi Wing [4]', 'Fong Hau Sim']","['[MAS] ', '[MAS] ']","['21-14', '21-9']",MS,20180410,"Semarang, Indonesia"
+66,"['Yonathan Ramlie', 'Chin Yong Chian']","['[INA] ', '[MAS] ']","['21-10', '21-11']",MS,20180410,"Semarang, Indonesia"
+67,"['Mukhammad Rizqy Ramadhani', 'Siddharth Pratap Singh [9]']","['[INA] ', '[IND] ']","['21-15', '18-21', '21-16']",MS,20180410,"Semarang, Indonesia"
+68,"['Andi Fadel Muhammad', 'Andrew Rouse']","['[INA] ', '[NZL] ']","['21-7', '21-13']",MS,20180410,"Semarang, Indonesia"
+69,"['Yee Han Chong [8]', 'Abdul Karim Hidayat']","['[MAS] ', '[INA] ']","['21-14', '21-14']",MS,20180410,"Semarang, Indonesia"
+70,"['Alberto Alvin Yulianto', 'Eizlan Shah Misfahul Muneer']","['[INA] ', '[MAS] ']","['21-10', '21-9']",MS,20180410,"Semarang, Indonesia"
+71,"['Søren Toft [12]', 'Yu Ming, Adam Lau']","['[DEN] ', '[MAS] ']","['21-17', '21-19']",MS,20180410,"Semarang, Indonesia"
+72,"['Bagas Kristianto Nugroho', 'Shahzan Shah Misfahul']","['[INA] ', '[MAS] ']","['21-13', '12-13']",MS,20180410,"Semarang, Indonesia"
+73,"['Shesar Hiren Rhustavito [2]', 'Muhammad Syafiq Iqbal Mohd Nadzri']","['[INA] ', '[MAS] ']","['18-21', '21-14', '21-8']",MS,20180410,"Semarang, Indonesia"
+74,"['Enzi Shafira [7]', 'Muhammad Imran Khan']","['[INA] ', '[SGP] ']","['21-14', '21-10']",MS,20180410,"Semarang, Indonesia"
+75,"['Fachryza Abimanyu [1]', 'Bunga Fitriani Romadhini', 'Muhammad Syauqi Mohd Puzi', 'Desiree, Hao Shan Siow']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['21-10', '21-16']",XD,20180410,"Semarang, Indonesia"
+76,"['Reinard Dhanriano', 'Maretha Dea Giovani', 'Jian Liang Lee [8]', 'Putri Sari Dewi Citra']","['[INA] ', '[INA] ', '[SGP] ', '[SGP] ']","['25-23', '21-13']",XD,20180410,"Semarang, Indonesia"
+77,"['Irfan Fadhilah', 'Pia Zebadiah Bernadet', 'Erwin Rendana Purnomo', 'Riska Ayu Indah Sari']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-9', '16-21', '21-14']",XD,20180410,"Semarang, Indonesia"
+78,"['Zacharia Joshiano Sumanti', 'Serena Kani', 'Ahmad Maziri Mazlan [4]', 'Peiy Yee, Payee Lim']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['21-16', '21-13']",XD,20180410,"Semarang, Indonesia"
+79,"['Supanida Katethong [5]', 'Dapasha Joshi']","['[THA] ', '[IND] ']","['21-10', '21-9']",WS,20180410,"Semarang, Indonesia"
+80,"['Maharani Sekar Batari [6]', 'Chieh Yu']","['[INA] ', '[TPE] ']","['22-20', '21-17']",WS,20180410,"Semarang, Indonesia"
+81,"['Muhammad Fachrikar', 'Brigita Marcelia Rumambi', 'Ferdian Mahardika Ranialdy', 'Rafika Putri Sejati']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-14', '21-15']",XD,20180410,"Semarang, Indonesia"
+82,"['Leo Rolly Carnando', 'Metya Inayah Cindiani', 'Reza Dwicahya Purnama', 'Dhea Bunga Anjani']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['16-21', '21-17', '24-22']",XD,20180410,"Semarang, Indonesia"
+83,"['Amri Syahnawi [5]', 'Shela Devi Aulia', 'Izzat Farhan Azhar', 'Noor Hazwani Hazair']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['21-17', '21-16']",XD,20180410,"Semarang, Indonesia"
+84,"['Tang Kai Wei', 'Lee Wei Tzu', 'Indra Leonard Prasetya', 'Elok Machsunnah']","['[TPE] ', '[TPE] ', '[INA] ', '[INA] ']","['21-19', '14-21', '21-10']",XD,20180410,"Semarang, Indonesia"
+85,"['Wei Chong Man', 'Mei Xing Teoh', 'Bimo Adi Prakoso [3]', 'Yujia Jin']","['[MAS] ', '[MAS] ', '[SGP] ', '[SGP] ']","['21-15', '18-21', '21-19']",XD,20180410,"Semarang, Indonesia"
+86,"['Hendra Gustiawan', 'Monika Insani', 'Chaloempon Charoenkitamorn', 'Rawimon Iamratanamaetheekul']","['[INA] ', '[INA] ', '[THA] ', '[THA] ']","['21-15', '21-12']",XD,20180410,"Semarang, Indonesia"
+87,"['Kenas Adi Haryanto', 'Tiara Rosalia Nuraidah', 'Ramsha Ariadita', 'Syarifah Nurmariam']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['12-21', '25-23', '21-18']",XD,20180410,"Semarang, Indonesia"
+88,"['Tedi Supriadi [7]', 'Ririn Amelia', 'Hon Jian Choong', 'Shun Mei Lee']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['22-20', '21-15']",XD,20180410,"Semarang, Indonesia"
+89,"['Muhammad Idham Zainal Abi Syazmil', 'Sueh Jeou Tan', 'Eveshgaran Vasigaran', 'Dharshinie Vasigaran']","['[MAS] ', '[MAS] ', '[MAS] ', '[MAS] ']","['21-15', '21-13']",XD,20180410,"Semarang, Indonesia"
+90,"['Riky Widianto [2]', 'Masita Mahmudin', 'Zairul Fahmi Zainudin', 'Jayshinie Vasigaran']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['21-6', '21-11']",XD,20180410,"Semarang, Indonesia"
+91,"['Tang Wan Yi [1]', 'Made Deya Surya Saraswati']","['[TPE] ', '[INA] ']","['21-7', '22-20']",WS,20180410,"Semarang, Indonesia"
+92,"['Eprilia Mega Ayu Swastika', 'Marsa Indah Salsabila']","['[INA] ', '[INA] ']","['13-21', '21-9', '21-19']",WS,20180410,"Semarang, Indonesia"
+93,"['Silvi Wulandari', 'Widjaja Stephani']","['[INA] ', '[INA] ']","['21-14', '21-12']",WS,20180410,"Semarang, Indonesia"
+94,"['Liang Xiaoyu', 'Peng Li Ting [4]']","['[SGP] ', '[TPE] ']","['21-19', '15-21', '27-25']",WS,20180410,"Semarang, Indonesia"
+95,"['Desima Aqmar Syarafina', 'Ming Hui Lim']","['[INA] ', '[SGP] ']","['21-11', '21-14']",WS,20180410,"Semarang, Indonesia"
+96,"['Putri Kusuma Wardani', 'Diana Setiyoningsih']","['[INA] ', '[INA] ']","['21-14', '21-7']",WS,20180410,"Semarang, Indonesia"
+97,"['Mek Narongrit [16]', 'Chen Yen Chun']","['[THA] ', '[TPE] ']","['21-13', '15-21', '23-21']",MS,20180410,"Semarang, Indonesia"
+98,"['Gatjra Piliang Fiqihila Cupu', 'Lim Chi Wing [4]']","['[INA] ', '[MAS] ']","['22-20', '21-14']",MS,20180410,"Semarang, Indonesia"
+99,"['Aisha Galuh Maheswari', 'Saranya Navaratnajah [8]']","['[INA] ', '[MAS] ']","['15-21', '21-11', '21-11']",WS,20180410,"Semarang, Indonesia"
+100,"['Yasnita Enggira Setiawan', 'Wulan Cahya Utami Sukoputri']","['[INA] ', '[INA] ']","['18-21', '21-19', '22-20']",WS,20180410,"Semarang, Indonesia"
+101,"['Aurum Oktavia Winata', 'Hung Yi-Ting [3]']","['[INA] ', '[TPE] ']","['20-22', '21-18', '21-11']",WS,20180410,"Semarang, Indonesia"
+102,"['Ni Made Pranita Sulistya Devi', 'Savira Sandradewi']","['[INA] ', '[INA] ']","['21-13', '18-21', '21-10']",WS,20180410,"Semarang, Indonesia"
+103,"['Pardeshi Shreyanshi [7]', 'Samin Abedkhojasteh']","['[IND] ', '[IRI] ']","['21-19', '21-14']",WS,20180410,"Semarang, Indonesia"
+104,"['Isra Faradilla', 'Su Hsiang Ling']","['[INA] ', '[TPE] ']","['21-13', '13-21', '21-18']",WS,20180410,"Semarang, Indonesia"
+105,"['Laksika Kanlaha', 'Gabriela Meilani Moningka [2]']","['[THA] ', '[INA] ']","['21-23', '21-7', '21-16']",WS,20180410,"Semarang, Indonesia"
+106,"['Karono Karono', 'Mega Ciputra']","['[INA] ', '[INA] ']","['21-18', '21-13']",MS,20180410,"Semarang, Indonesia"
+107,"['Vega Vio Nirwanda [15]', 'Jun Yan Ng']","['[INA] ', '[MAS] ']","['21-11', '21-13']",MS,20180410,"Semarang, Indonesia"
+108,"['Enzi Shafira [7]', 'Handoko Yusuf Wijayanto']","['[INA] ', '[INA] ']","['21-13', '22-20']",MS,20180410,"Semarang, Indonesia"
+109,"['Yonathan Ramlie', 'Mukhammad Rizqy Ramadhani']","['[INA] ', '[INA] ']","['23-21', '22-20']",MS,20180410,"Semarang, Indonesia"
+110,"['Devita Puti Alifia', 'Amalia Cahaya Pratiwi', 'Mei Xing Teoh [7]', 'Zhen Yap']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['21-19', '22-20']",WD,20180410,"Semarang, Indonesia"
+111,"['Sony Dwi Kuncoro [3]', 'Shi Xuan Dominic Soh']","['[INA] ', '[SGP] ']","['21-11', '16-21', '21-14']",MS,20180410,"Semarang, Indonesia"
+112,"['Yulianto Ilham Sri', 'Datu Mohd Shah Eizlan Sardik']","['[INA] ', '[MAS] ']","['21-10', '21-12']",MS,20180410,"Semarang, Indonesia"
+113,"['Muhammad Bayu Pangisthu', 'Azmy Qowimuramadhoni']","['[INA] ', '[AZE] ']","['21-18', '21-10']",MS,20180410,"Semarang, Indonesia"
+114,"['Christofel Karinda', 'Riyanto Subagja']","['[INA] ', '[INA] ']","['21-18', '21-18']",MS,20180410,"Semarang, Indonesia"
+115,"['Henrikho Kho Wibowo [10]', 'Faiz Rozain']","['[INA] ', '[MAS] ']","['16-21', '22-20', '21-17']",MS,20180410,"Semarang, Indonesia"
+116,"['Aidil Sholeh Ali Sadikin', 'Mithun Manjunath [6]']","['[MAS] ', '[IND] ']","['21-8', '21-15']",MS,20180410,"Semarang, Indonesia"
+117,"['Krishna Adi Nugraha [13]', 'Kiran Kumar Mekala']","['[INA] ', '[IND] ']","['21-11', '21-19']",MS,20180410,"Semarang, Indonesia"
+118,"['Andi Fadel Muhammad', 'Yee Han Chong [8]']","['[INA] ', '[MAS] ']","['21-16', '21-17']",MS,20180410,"Semarang, Indonesia"
+119,"['Alberto Alvin Yulianto', 'Søren Toft [12]']","['[INA] ', '[DEN] ']","['21-6', '21-19']",MS,20180410,"Semarang, Indonesia"
+120,"['Shesar Hiren Rhustavito [2]', 'Bagas Kristianto Nugroho']","['[INA] ', '[INA] ']","['21-16', '21-14']",MS,20180410,"Semarang, Indonesia"
+121,"['Ana Rovita', 'Nandini Putri Arumni']","['[INA] ', '[INA] ']","['21-16', '21-18']",WS,20180410,"Semarang, Indonesia"
+122,"['Adnan Maulana [8]', 'Ferdian Mahardika Ranialdy', 'Muhammad Idham Zainal Abi Syazmil', 'Amir Al Razi Syazwan']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['21-19', '21-16']",MD,20180410,"Semarang, Indonesia"
+123,"['Metya Inayah Cindiani', 'Indah Cahya Sari Jamil', 'Putri Sari Dewi Citra [1]', 'Yujia Jin']","['[INA] ', '[INA] ', '[SGP] ', '[SGP] ']","['21-10', '21-13']",WD,20180410,"Semarang, Indonesia"
+124,"['Monika Insani [5]', 'Tiara Rosalia Nuraidah', 'Nita Violina Marwah', 'Putri Syaikah']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-15', '21-17']",WD,20180410,"Semarang, Indonesia"
+125,"['Dhea Bunga Anjani', 'Dinda Dwi Cahyaning', 'Noor Hazwani Hazair', 'Peiy Yee, Payee Lim']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['21-8', '21-17']",WD,20180410,"Semarang, Indonesia"
+126,"['Serena Kani', 'Virni Putri', 'Sararat Chueboca', 'Suphapich Silprakob']","['[INA] ', '[INA] ', '[THA] ', '[THA] ']","['21-12', '22-20']",WD,20180410,"Semarang, Indonesia"
+127,"['Chiew Sien Lim', 'Sueh Jeou Tan', 'Lin Xiao Min [6]', 'Peng Li Ting']","['[MAS] ', '[MAS] ', '[TPE] ', '[TPE] ']","['21-5', '18-21', '21-12']",WD,20180410,"Semarang, Indonesia"
+128,"['Riska Ayu Indah Sari', 'Elok Machsunnah', 'Beverly Gabriela', 'Silvia Ratih']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['26-24', '21-19']",WD,20180410,"Semarang, Indonesia"
+129,"['Febby Valencia Dwijayanti Gani [3]', 'Lisa Ayu Kusumawati', 'Ornnicha Jongsathapornparn', 'Laksika Kanlaha']","['[INA] ', '[INA] ', '[THA] ', '[THA] ']","['24-22', '21-13']",WD,20180410,"Semarang, Indonesia"
+130,"['Erica Pei Shan Khoo', 'Desiree, Hao Shan Siow', 'Cynthia Shara Ayunidha', 'Ludwina Audrey Naomi']","['[MAS] ', '[MAS] ', '[INA] ', '[INA] ']","['21-19', '21-18']",WD,20180410,"Semarang, Indonesia"
+131,"['Maretha Dea Giovani', 'Nisak Puji Lestari', 'Lee Wei Tzu [8]', 'Tai Wei-Ling']","['[INA] ', '[INA] ', '[TPE] ', '[TPE] ']","['21-16', '21-15']",WD,20180410,"Semarang, Indonesia"
+132,"['Shun Mei Lee', 'Kha Yan Wong', 'Dharshinie Vasigaran', 'Jayshinie Vasigaran']","['[MAS] ', '[MAS] ', '[MAS] ', '[MAS] ']","['21-17', '21-13']",WD,20180410,"Semarang, Indonesia"
+133,"['Zarra Faza Azka [4]', 'Brigita Marcelia Rumambi', ""Ker'Sara Koh"", 'Ming Hui Lim']","['[INA] ', '[INA] ', '[SGP] ', '[SGP] ']","['21-15', '21-16']",WD,20180410,"Semarang, Indonesia"
+134,"['Shela Devi Aulia', 'Pia Zebadiah Bernadet', 'Hung Yi-Ting', 'Wu Fang Chien']","['[INA] ', '[INA] ', '[TPE] ', '[TPE] ']","['21-9', '21-17']",WD,20180410,"Semarang, Indonesia"
+135,"['Rafika Putri Sejati', 'Nahla Aufa Dhia Ulhaq', 'Putri Larasati', 'Melanni Mamahit']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['20-22', '21-8', '21-19']",WD,20180410,"Semarang, Indonesia"
+136,"['Tania Oktaviani Kusumah [2]', 'Vania Arianti Sukoco', 'Nurul Farisha Abd Malek', 'Anna Ching Yik Cheong']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['21-11', '21-14']",WD,20180410,"Semarang, Indonesia"
+137,"['Forverio Rivaldo', 'Riky Widianto', 'Indra Leonard Prasetya', 'Erwin Rendana Purnomo']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-8', '21-19']",MD,20180410,"Semarang, Indonesia"
+138,"['Calvin Kristanto [7]', 'Giovani Dicky Oktavan', 'Manjit Singh Khwairakpam', 'Dingku Singh Konthoujam']","['[INA] ', '[INA] ', '[IND] ', '[IND] ']","['21-9', '16-21', '21-9']",MD,20180410,"Semarang, Indonesia"
+139,"['Krishna Prasad Garaga', 'Dhruv Kapila', 'Muhammad Amar Mohd Sani [4]', 'Muhammad Amir Mohd Sani']","['[IND] ', '[IND] ', '[MAS] ', '[MAS] ']","['21-19', '18-21', '21-15']",MD,20180410,"Semarang, Indonesia"
+140,"['Lukhi Apri Nugroho [1]', 'Tedi Supriadi', 'Shahzan Shah Misfahul', 'Eizlan Shah Misfahul Muneer']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']",[],MD,20180410,"Semarang, Indonesia"
+141,"['Chun Hann Lo', 'Zairul Fahmi Zainudin', 'Mathias Pedersen', 'Søren Toft']","['[MAS] ', '[MAS] ', '[DEN] ', '[DEN] ']","['21-16', '17-21', '21-15']",MD,20180410,"Semarang, Indonesia"
+142,"['Respati Banuaji', 'Naufal Ligo Saufik', 'Haffiz Nur Adila', 'Didit Juang']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-15', '18-21', '21-19']",MD,20180410,"Semarang, Indonesia"
+143,"['Irfan Fadhilah [5]', 'Markis Kido', 'Jia Huo Chen', 'Yu Ming, Adam Lau']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['21-12', '21-14']",MD,20180410,"Semarang, Indonesia"
+144,"['Reinard Dhanriano', 'Hendra Gustiawan', 'Ramsha Ariadita', 'Muhammad Juan Elgiffani']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-16', '21-19']",MD,20180410,"Semarang, Indonesia"
+145,"['Rian Swastedian', 'Amri Syahnawi', 'Ade Resky Dwicahyo', 'Azmy Qowimuramadhoni']","['[INA] ', '[INA] ', '[AZE] ', '[AZE] ']","['21-15', '21-14']",MD,20180410,"Semarang, Indonesia"
+146,"['Kenas Adi Haryanto [6]', 'Agripinna Prima Rahmanto Putra', 'Muhammad Syawal Mohd Ismail', 'Kok Xian Tan']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['21-13', '21-15']",MD,20180410,"Semarang, Indonesia"
+147,"['Wirawan Ihsan Adam', 'Abiyyu Fauzan Majid', 'Izzat Farhan Azhar', 'Ahmad Maziri Mazlan']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['21-16', '21-14']",MD,20180410,"Semarang, Indonesia"
+148,"['Mohd Razlan Shah Mohd Ridzuan Shah', 'Tien Ci Wong', 'Godwin Olofua [3]', 'Anuoluwapo Juwon Opeyori']","['[MAS] ', '[MAS] ', '[NGR] ', '[NGR] ']","['21-10', '21-11']",MD,20180410,"Semarang, Indonesia"
+149,"['Vishnu Vardhan Goud Panjala', 'Srikrishna Sai Kumar Podile', 'Sai Pavan Karri', 'Qadeer Moinuddin Mohammed']","['[IND] ', '[IND] ', '[IND] ', '[IND] ']","['21-17', '21-19']",MD,20180410,"Semarang, Indonesia"
+150,"['Hon Jian Choong', 'Wei Chong Man', 'Muhammad Shohibul Fikri', 'Bagas Maulana']","['[MAS] ', '[MAS] ', '[INA] ', '[INA] ']",[],MD,20180410,"Semarang, Indonesia"
+151,"['Ade Bagus Sapta Ramadhany', 'Timoti Wuisan', 'Muhammad Fachrikar [2]', 'Reza Dwicahya Purnama']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['16-21', '21-19', '21-18']",MD,20180410,"Semarang, Indonesia"
+152,"['Mek Narongrit', 'Supanida Katethong', 'Yeremia Erich Yoche Yacob [6]', 'Angelica Wiratama']","['[THA] ', '[THA] ', '[INA] ', '[INA] ']","['18-21', '21-14', '22-20']",XD,20180410,"Semarang, Indonesia"
+153,"['Chen Yen Chun', 'Su Hsiang Ling', 'Amir Al Razi Syazwan', 'Zhen Yap']","['[TPE] ', '[TPE] ', '[MAS] ', '[MAS] ']","['21-19', '12-21', '21-18']",XD,20180410,"Semarang, Indonesia"
+154,"['Fachryza Abimanyu [1]', 'Bunga Fitriani Romadhini', 'Chen Yen Chun', 'Su Hsiang Ling']","['[INA] ', '[INA] ', '[TPE] ', '[TPE] ']","['21-10', '21-9']",XD,20180410,"Semarang, Indonesia"
+155,"['Irfan Fadhilah', 'Pia Zebadiah Bernadet', 'Reinard Dhanriano', 'Maretha Dea Giovani']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-17', '21-19']",XD,20180410,"Semarang, Indonesia"
+156,"['Zacharia Joshiano Sumanti', 'Serena Kani', 'Hendra Gustiawan', 'Monika Insani']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['27-25', '21-11']",XD,20180410,"Semarang, Indonesia"
+157,"['Supanida Katethong [5]', 'Silvi Wulandari']","['[THA] ', '[INA] ']","['23-21', '21-8']",WS,20180410,"Semarang, Indonesia"
+158,"['Enzi Shafira [7]', 'Mek Narongrit [16]']","['[INA] ', '[THA] ']","['21-14', '22-24', '21-7']",MS,20180410,"Semarang, Indonesia"
+159,"['Amri Syahnawi [5]', 'Shela Devi Aulia', 'Leo Rolly Carnando', 'Metya Inayah Cindiani']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-14', '21-9']",XD,20180410,"Semarang, Indonesia"
+160,"['Kenas Adi Haryanto', 'Tiara Rosalia Nuraidah', 'Tedi Supriadi [7]', 'Ririn Amelia']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-16', '21-15']",XD,20180410,"Semarang, Indonesia"
+161,"['Riky Widianto [2]', 'Masita Mahmudin', 'Muhammad Idham Zainal Abi Syazmil', 'Sueh Jeou Tan']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['21-15', '21-5']",XD,20180410,"Semarang, Indonesia"
+162,"['Tang Wan Yi [1]', 'Eprilia Mega Ayu Swastika']","['[TPE] ', '[INA] ']","['21-9', '21-5']",WS,20180410,"Semarang, Indonesia"
+163,"['Liang Xiaoyu', 'Desima Aqmar Syarafina']","['[SGP] ', '[INA] ']","['14-21', '21-15', '21-12']",WS,20180410,"Semarang, Indonesia"
+164,"['Maharani Sekar Batari [6]', 'Ana Rovita']","['[INA] ', '[INA] ']","['21-16', '21-18']",WS,20180410,"Semarang, Indonesia"
+165,"['Putri Kusuma Wardani', 'Aisha Galuh Maheswari']","['[INA] ', '[INA] ']","['21-14', '21-19']",WS,20180410,"Semarang, Indonesia"
+166,"['Aurum Oktavia Winata', 'Yasnita Enggira Setiawan']","['[INA] ', '[INA] ']","['21-16', '21-14']",WS,20180410,"Semarang, Indonesia"
+167,"['Ni Made Pranita Sulistya Devi', 'Pardeshi Shreyanshi [7]']","['[INA] ', '[IND] ']","['21-18', '18-21', '21-10']",WS,20180410,"Semarang, Indonesia"
+168,"['Laksika Kanlaha', 'Isra Faradilla']","['[THA] ', '[INA] ']","['21-23', '21-9', '21-13']",WS,20180410,"Semarang, Indonesia"
+169,"['Wei Chong Man', 'Mei Xing Teoh', 'Tang Kai Wei', 'Lee Wei Tzu']","['[MAS] ', '[MAS] ', '[TPE] ', '[TPE] ']","['21-15', '21-19']",XD,20180410,"Semarang, Indonesia"
+170,"['Forverio Rivaldo', 'Riky Widianto', 'Lukhi Apri Nugroho [1]', 'Tedi Supriadi']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-18', '21-14']",MD,20180410,"Semarang, Indonesia"
+171,"['Calvin Kristanto [7]', 'Giovani Dicky Oktavan', 'Chun Hann Lo', 'Zairul Fahmi Zainudin']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['21-17', '21-6']",MD,20180410,"Semarang, Indonesia"
+172,"['Krishna Prasad Garaga', 'Dhruv Kapila', 'Respati Banuaji', 'Naufal Ligo Saufik']","['[IND] ', '[IND] ', '[INA] ', '[INA] ']","['21-8', '21-7']",MD,20180410,"Semarang, Indonesia"
+173,"['Irfan Fadhilah [5]', 'Markis Kido', 'Reinard Dhanriano', 'Hendra Gustiawan']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['12-21', '21-8', '21-14']",MD,20180410,"Semarang, Indonesia"
+174,"['Rian Swastedian', 'Amri Syahnawi', 'Kenas Adi Haryanto [6]', 'Agripinna Prima Rahmanto Putra']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-18', '21-12']",MD,20180410,"Semarang, Indonesia"
+175,"['Mohd Razlan Shah Mohd Ridzuan Shah', 'Tien Ci Wong', 'Wirawan Ihsan Adam', 'Abiyyu Fauzan Majid']","['[MAS] ', '[MAS] ', '[INA] ', '[INA] ']","['21-12', '21-19']",MD,20180410,"Semarang, Indonesia"
+176,"['Adnan Maulana [8]', 'Ferdian Mahardika Ranialdy', 'Vishnu Vardhan Goud Panjala', 'Srikrishna Sai Kumar Podile']","['[INA] ', '[INA] ', '[IND] ', '[IND] ']","['21-13', '21-9']",MD,20180410,"Semarang, Indonesia"
+177,"['Muhammad Fachrikar', 'Brigita Marcelia Rumambi', 'Mek Narongrit', 'Supanida Katethong']","['[INA] ', '[INA] ', '[THA] ', '[THA] ']","['21-17', '16-21', '21-16']",XD,20180410,"Semarang, Indonesia"
+178,"['Ririn Amelia', 'Rahmadhani Hastiyanti Putri', 'Metya Inayah Cindiani', 'Indah Cahya Sari Jamil']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['14-21', '21-16', '21-15']",WD,20180410,"Semarang, Indonesia"
+179,"['Monika Insani [5]', 'Tiara Rosalia Nuraidah', 'Dhea Bunga Anjani', 'Dinda Dwi Cahyaning']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['23-21', '21-12']",WD,20180410,"Semarang, Indonesia"
+180,"['Serena Kani', 'Virni Putri', 'Febby Valencia Dwijayanti Gani [3]', 'Lisa Ayu Kusumawati']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-17', '10-21', '21-1']",WD,20180410,"Semarang, Indonesia"
+181,"['Chiew Sien Lim', 'Sueh Jeou Tan', 'Riska Ayu Indah Sari', 'Elok Machsunnah']","['[MAS] ', '[MAS] ', '[INA] ', '[INA] ']","['23-21', '21-10']",WD,20180410,"Semarang, Indonesia"
+182,"['Maretha Dea Giovani', 'Nisak Puji Lestari', 'Erica Pei Shan Khoo', 'Desiree, Hao Shan Siow']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['21-17', '21-18']",WD,20180410,"Semarang, Indonesia"
+183,"['Shela Devi Aulia', 'Pia Zebadiah Bernadet', 'Devita Puti Alifia', 'Amalia Cahaya Pratiwi']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-17', '21-14']",WD,20180410,"Semarang, Indonesia"
+184,"['Tania Oktaviani Kusumah [2]', 'Vania Arianti Sukoco', 'Rafika Putri Sejati', 'Nahla Aufa Dhia Ulhaq']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-14', '21-14']",WD,20180410,"Semarang, Indonesia"
+185,"['Ade Bagus Sapta Ramadhany', 'Timoti Wuisan', 'Hon Jian Choong', 'Wei Chong Man']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['21-18', '21-18']",MD,20180410,"Semarang, Indonesia"
+186,"['Vega Vio Nirwanda [15]', 'Karono Karono']","['[INA] ', '[INA] ']","['21-14', '15-21', '21-9']",MS,20180410,"Semarang, Indonesia"
+187,"['Sony Dwi Kuncoro [3]', 'Yulianto Ilham Sri']","['[INA] ', '[INA] ']","['21-8', '17-21', '21-16']",MS,20180410,"Semarang, Indonesia"
+188,"['Muhammad Bayu Pangisthu', 'Christofel Karinda']","['[INA] ', '[INA] ']","['21-17', '21-13']",MS,20180410,"Semarang, Indonesia"
+189,"['Zarra Faza Azka [4]', 'Brigita Marcelia Rumambi', 'Shun Mei Lee', 'Kha Yan Wong']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['21-17', '21-6']",WD,20180410,"Semarang, Indonesia"
+190,"['Aidil Sholeh Ali Sadikin', 'Henrikho Kho Wibowo [10]']","['[MAS] ', '[INA] ']","['21-11', '21-16']",MS,20180410,"Semarang, Indonesia"
+191,"['Krishna Adi Nugraha [13]', 'Gatjra Piliang Fiqihila Cupu']","['[INA] ', '[INA] ']","['21-15', '18-21', '22-20']",MS,20180410,"Semarang, Indonesia"
+192,"['Yonathan Ramlie', 'Andi Fadel Muhammad']","['[INA] ', '[INA] ']","['10-21', '21-16', '21-14']",MS,20180410,"Semarang, Indonesia"
+193,"['Shesar Hiren Rhustavito [2]', 'Alberto Alvin Yulianto']","['[INA] ', '[INA] ']","['21-11', '21-16']",MS,20180410,"Semarang, Indonesia"
+194,"['Muhammad Fachrikar', 'Brigita Marcelia Rumambi', 'Zacharia Joshiano Sumanti', 'Serena Kani']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-16', '22-20']",XD ,20180410,"Semarang, Indonesia"
+195,"['Vega Vio Nirwanda [15]', 'Enzi Shafira [7]']","['[INA] ', '[INA] ']","['14-21', '21-17', '22-20']",MS ,20180410,"Semarang, Indonesia"
+196,"['Aurum Oktavia Winata', 'Putri Kusuma Wardani']","['[INA] ', '[INA] ']","['14-21', '21-5', '21-17']",WS ,20180410,"Semarang, Indonesia"
+197,"['Chiew Sien Lim', 'Sueh Jeou Tan', 'Serena Kani', 'Virni Putri']","['[MAS] ', '[MAS] ', '[INA] ', '[INA] ']","['21-15', '21-19']",WD ,20180410,"Semarang, Indonesia"
+198,"['Maretha Dea Giovani', 'Nisak Puji Lestari', 'Zarra Faza Azka [4]', 'Brigita Marcelia Rumambi']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-19', '21-10']",WD ,20180410,"Semarang, Indonesia"
+199,"['Irfan Fadhilah', 'Pia Zebadiah Bernadet', 'Fachryza Abimanyu [1]', 'Bunga Fitriani Romadhini']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-11', '14-21', '21-14']",XD ,20180410,"Semarang, Indonesia"
+200,"['Maharani Sekar Batari [6]', 'Liang Xiaoyu']","['[INA] ', '[SGP] ']","['21-11', '21-14']",WS ,20180410,"Semarang, Indonesia"
+201,"['Sony Dwi Kuncoro [3]', 'Muhammad Bayu Pangisthu']","['[INA] ', '[INA] ']","['21-18', '22-20']",MS ,20180410,"Semarang, Indonesia"
+202,"['Shela Devi Aulia', 'Pia Zebadiah Bernadet', 'Tania Oktaviani Kusumah [2]', 'Vania Arianti Sukoco']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-18', '21-14']",WD ,20180410,"Semarang, Indonesia"
+203,"['Irfan Fadhilah [5]', 'Markis Kido', 'Krishna Prasad Garaga', 'Dhruv Kapila']","['[INA] ', '[INA] ', '[IND] ', '[IND] ']","['17-21', '21-19', '21-17']",MD ,20180410,"Semarang, Indonesia"
+204,"['Amri Syahnawi [5]', 'Shela Devi Aulia', 'Wei Chong Man', 'Mei Xing Teoh']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['21-16', '15-21', '21-15']",XD ,20180410,"Semarang, Indonesia"
+205,"['Krishna Adi Nugraha [13]', 'Aidil Sholeh Ali Sadikin']","['[INA] ', '[MAS] ']","['21-11', '21-11']",MS ,20180410,"Semarang, Indonesia"
+206,"['Ni Made Pranita Sulistya Devi', 'Laksika Kanlaha']","['[INA] ', '[THA] ']","['21-11', '21-17']",WS ,20180410,"Semarang, Indonesia"
+207,"['Adnan Maulana [8]', 'Ferdian Mahardika Ranialdy', 'Ade Bagus Sapta Ramadhany', 'Timoti Wuisan']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-13', '21-19']",MD ,20180410,"Semarang, Indonesia"
+208,"['Rian Swastedian', 'Amri Syahnawi', 'Mohd Razlan Shah Mohd Ridzuan Shah', 'Tien Ci Wong']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['22-20', '16-21', '21-15']",MD ,20180410,"Semarang, Indonesia"
+209,"['Riky Widianto [2]', 'Masita Mahmudin', 'Kenas Adi Haryanto', 'Tiara Rosalia Nuraidah']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-14', '22-20']",XD ,20180410,"Semarang, Indonesia"
+210,"['Supanida Katethong [5]', 'Tang Wan Yi [1]']","['[THA] ', '[TPE] ']","['15-21', '21-12', '21-13']",WS ,20180410,"Semarang, Indonesia"
+211,"['Shesar Hiren Rhustavito [2]', 'Yonathan Ramlie']","['[INA] ', '[INA] ']","['22-20', '21-8']",MS ,20180410,"Semarang, Indonesia"
+212,"['Monika Insani [5]', 'Tiara Rosalia Nuraidah', 'Ririn Amelia', 'Rahmadhani Hastiyanti Putri']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-16', '24-22']",WD ,20180410,"Semarang, Indonesia"
+213,"['Calvin Kristanto [7]', 'Giovani Dicky Oktavan', 'Forverio Rivaldo', 'Riky Widianto']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['24-22', '21-14']",MD ,20180410,"Semarang, Indonesia"
+214,"['Irfan Fadhilah', 'Pia Zebadiah Bernadet', 'Muhammad Fachrikar', 'Brigita Marcelia Rumambi']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-13', '21-9']",XD ,20180410,"Semarang, Indonesia"
+215,"['Supanida Katethong [5]', 'Maharani Sekar Batari [6]']","['[THA] ', '[INA] ']","['21-14', '21-12']",WS ,20180410,"Semarang, Indonesia"
+216,"['Sony Dwi Kuncoro [3]', 'Vega Vio Nirwanda [15]']","['[INA] ', '[INA] ']","['21-16', '16-21', '23-21']",MS ,20180410,"Semarang, Indonesia"
+217,"['Shela Devi Aulia', 'Pia Zebadiah Bernadet', 'Maretha Dea Giovani', 'Nisak Puji Lestari']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['17-21', '21-12', '21-14']",WD ,20180410,"Semarang, Indonesia"
+218,"['Irfan Fadhilah [5]', 'Markis Kido', 'Calvin Kristanto [7]', 'Giovani Dicky Oktavan']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-16', '21-13']",MD ,20180410,"Semarang, Indonesia"
+219,"['Amri Syahnawi [5]', 'Shela Devi Aulia', 'Riky Widianto [2]', 'Masita Mahmudin']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['22-20', '21-17']",XD ,20180410,"Semarang, Indonesia"
+220,"['Aurum Oktavia Winata', 'Ni Made Pranita Sulistya Devi']","['[INA] ', '[INA] ']","['21-19', '21-9']",WS ,20180410,"Semarang, Indonesia"
+221,"['Shesar Hiren Rhustavito [2]', 'Krishna Adi Nugraha [13]']","['[INA] ', '[INA] ']","['16-21', '21-14', '21-15']",MS ,20180410,"Semarang, Indonesia"
+222,"['Chiew Sien Lim', 'Sueh Jeou Tan', 'Monika Insani [5]', 'Tiara Rosalia Nuraidah']","['[MAS] ', '[MAS] ', '[INA] ', '[INA] ']","['21-18', '21-17']",WD ,20180410,"Semarang, Indonesia"
+223,"['Rian Swastedian', 'Amri Syahnawi', 'Adnan Maulana [8]', 'Ferdian Mahardika Ranialdy']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['26-24', '21-19']",MD ,20180410,"Semarang, Indonesia"
+224,"['Amri Syahnawi [5]', 'Shela Devi Aulia', 'Irfan Fadhilah', 'Pia Zebadiah Bernadet']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-17', '21-16']",XD ,20180410,"Semarang, Indonesia"
+225,"['Aurum Oktavia Winata', 'Supanida Katethong [5]']","['[INA] ', '[THA] ']","['21-19', '21-16']",WS ,20180410,"Semarang, Indonesia"
+226,"['Shesar Hiren Rhustavito [2]', 'Sony Dwi Kuncoro [3]']","['[INA] ', '[INA] ']","['21-12', '22-20']",MS ,20180410,"Semarang, Indonesia"
+227,"['Shela Devi Aulia', 'Pia Zebadiah Bernadet', 'Chiew Sien Lim', 'Sueh Jeou Tan']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['21-17', '21-12']",WD ,20180410,"Semarang, Indonesia"
+228,"['Rian Swastedian', 'Amri Syahnawi', 'Irfan Fadhilah [5]', 'Markis Kido']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-19', '21-18']",MD ,20180410,"Semarang, Indonesia"

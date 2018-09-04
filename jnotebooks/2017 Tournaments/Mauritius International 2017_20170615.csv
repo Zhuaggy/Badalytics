@@ -1,116 +1,116 @@
-,PLAYERS,COUNTRIES,SCORES,EVENT,match_week
-0,"['Randriamalala Julio Keman', 'Kamlesh Bhoyroo']","['[MAD] ', '[MRI] ']","['21-16', '21-15']",MS - Qualification,20170615
-1,"['Mohamed Ajfan Rasheed', 'Abdul Zaheer Beebeejaun']","['[MDV] ', '[MRI] ']","['21-2', '21-3']",MS - Qualification,20170615
-2,"['Hemraj Shibchurn', 'Narasimha Reddy Ramavathu']","['[MRI] ', '[IND] ']","['21-7', '21-9']",MS - Qualification,20170615
-3,"['Giovanni Toti', 'Ved Callychurn']","['[ITA] ', '[MRI] ']","['21-2', '21-4']",MS - Qualification,20170615
-4,"['Mevan Dewoo [1]', 'Helvin Arnachellum']","['[MRI] ', '[MRI] ']","['15-21', '21-13', '21-8']",MS - Qualification,20170615
-5,"['David Lo Yuen Cheong', 'Sulaiman Essackjee']","['[MRI] ', '[MRI] ']","['21-15', '21-18']",MS - Qualification,20170615
-6,"['Ahmed Nibal', 'Faadil Sayed [6]']","['[MDV] ', '[MRI] ']","['23-21', '21-19']",MS - Qualification,20170615
-7,"['Nevin Lufor [3]', 'Suhaib Khodabocus']","['[MRI] ', '[MRI] ']","['21-4', '21-5']",MS - Qualification,20170615
-8,"['Soobhan Ajmeer', 'Sadashayanand Dumree']","['[MRI] ', '[MRI] ']","['21-8', '21-13']",MS - Qualification,20170615
-9,"['Soogun Z [8]', 'Mohamed Arsalaan Ali']","['[MRI] ', '[MDV] ']","['21-17', '21-17']",MS - Qualification,20170615
-10,"['Eric Renel [5]', 'Janess Rujkoomar']","['[MRI] ', '[MRI] ']","['21-13', '21-14']",MS - Qualification,20170615
-11,"['Andrew Seeruthun', 'Kesaven Veerapen']","['[MRI] ', '[MRI] ']","['21-10', '21-8']",MS - Qualification,20170615
-12,"['Adrian George', 'Giresh Kumar Rampersand [4]']","['[IND] ', '[MRI] ']","['21-12', '21-19']",MS - Qualification,20170615
-13,"['Terry Sebastien Amedee', 'Ranbir Choolun [7]']","['[REU] ', '[MRI] ']","['21-17', '21-8']",MS - Qualification,20170615
-14,"['Daren Pachee', 'Kooshal Pursun']","['[MRI] ', '[MRI] ']","['21-7', '21-6']",MS - Qualification,20170615
-15,"['Tamesh Dookhee [2]', 'Ravin Anthi-Iya']","['[MRI] ', '[MRI] ']","['21-19', '21-16']",MS - Qualification,20170615
-16,"['Randriamalala Julio Keman', 'Robin Armoet']","['[MAD] ', '[REU] ']","['21-14', '21-16']",MS - Qualification,20170615
-17,"['Mohamed Ajfan Rasheed', 'Dany Carver']","['[MDV] ', '[MRI] ']","['21-6', '21-8']",MS - Qualification,20170615
-18,"['Hemraj Shibchurn', 'Abdul Zeeshan Beebeejaun']","['[MRI] ', '[MRI] ']","['21-7', '21-14']",MS - Qualification,20170615
-19,"['Giovanni Toti', 'Kailash Choolun']","['[ITA] ', '[MRI] ']","['21-11', '21-9']",MS - Qualification,20170615
-20,"['Daren Pachee', 'Tamesh Dookhee [2]']","['[MRI] ', '[MRI] ']","['21-18', '14-21', '21-14']",MS - Qualification,20170615
-21,"['Adrian George', 'Andrew Seeruthun']","['[IND] ', '[MRI] ']","['21-11', '21-16']",MS - Qualification,20170615
-22,"['Mevan Dewoo [1]', 'David Lo Yuen Cheong']","['[MRI] ', '[MRI] ']","['21-14', '21-16']",MS - Qualification,20170615
-23,"['Soobhan Ajmeer', 'Nevin Lufor [3]']","['[MRI] ', '[MRI] ']","['21-15', '21-11']",MS - Qualification,20170615
-24,"['Mohamed Ajfan Rasheed', 'Soogun Z [8]']","['[MDV] ', '[MRI] ']","['21-12', '21-9']",MS - Qualification,20170615
-25,"['Ahmed Nibal', 'Randriamalala Julio Keman']","['[MDV] ', '[MAD] ']","['21-17', '21-19']",MS - Qualification,20170615
-26,"['Eric Renel [5]', 'Hemraj Shibchurn']","['[MRI] ', '[MRI] ']","['21-14', '21-13']",MS - Qualification,20170615
-27,"['Giovanni Toti', 'Terry Sebastien Amedee']","['[ITA] ', '[REU] ']","['21-10', '21-13']",MS - Qualification,20170615
-28,"['Misha Zilberman [1]', 'Jean Bernard Bongout']","['[ISR] ', '[MRI] ']","['21-17', '21-6']",MS,20170615
-29,"['Aljallad Ahmad [6]', 'Gilles Allet']","['[SYR] ', '[MRI] ']","['21-14', '21-18']",MS,20170615
-30,"['Fabio Caponio', 'Georges Julien Paul [4]']","['[ITA] ', '[MRI] ']","['13-21', '21-17', '21-17']",MS,20170615
-31,"['K. Ajay Kumar', 'Melvin Appiah']","['[IND] ', '[MRI] ']","['21-12', '21-14']",MS,20170615
-32,"['Robert Mann [7]', 'Clifford Domingue']","['[LUX] ', '[MRI] ']","['21-10', '21-4']",MS,20170615
-33,"['Giap Chin Goh [3]', 'Jatoonah Ashley']","['[MAS] ', '[MRI] ']","['21-2', '21-4']",MS,20170615
-34,"['Jonathan Persson', 'Christopher Paul [8]']","['[GER] ', '[MRI] ']","['21-9', '21-15']",MS,20170615
-35,"['Rosario Maddaloni [2]', 'Hussein Zayan Shaheed']","['[ITA] ', '[MDV] ']","['21-8', '21-8']",MS,20170615
-36,"['Terry Sebastien Amedee', 'Isabelle Lai-Cheung Kit', 'Shailen Chuttoor', 'Luvyna Chuttoor']","['[REU] ', '[REU] ', '[MRI] ', '[MRI] ']","['21-9', '21-6']",XD,20170615
-37,"['Stephan Beeharry', 'Mevan Dewoo']","['[MRI] ', '[MRI] ']","['21-13', '21-16']",MS,20170615
-38,"['Tejraj Pultoo', 'Eric Renel']","['[MRI] ', '[MRI] ']","['21-19', '21-14']",MS,20170615
-39,"['Mohamed Ajfan Rasheed', 'Thierry Bellepeau']","['[MDV] ', '[MRI] ']","['21-19', '21-9']",MS,20170615
-40,"['Mayank Ahuja', 'Daren Pachee']","['[IND] ', '[MRI] ']","['21-5', '21-11']",MS,20170615
-41,"['Adrian George', 'Aatish Lubah [5]']","['[IND] ', '[MRI] ']","['21-9', '17-21', '21-13']",MS,20170615
-42,"['Khabir Teeluck', 'Soobhan Ajmeer']","['[MRI] ', '[MRI] ']","['22-20', '21-9']",MS,20170615
-43,"['Giovanni Toti', 'Vishal Sawaram']","['[ITA] ', '[MRI] ']","['21-5', '21-12']",MS,20170615
-44,"['Ahmed Nibal', 'Huzair Asraaf Ali Bhuttoo']","['[MDV] ', '[MRI] ']","['27-25', '21-13']",MS,20170615
-45,"['Aminath Nabeeha Abdul Razzaq', 'Jemimah Leug For Sang']","['[MDV] ', '[MRI] ']","['22-20', '21-10']",WS,20170615
-46,"['Aisha Nakiyemba', 'Jeisha Chiniah']","['[UGA] ', '[MRI] ']","['21-11', '21-8']",WS,20170615
-47,"['Shikha Gautam', 'Bhavishasingh Canaye']","['[IND] ', '[MRI] ']","['21-6', '21-3']",WS,20170615
-48,"['Hannah Pohl', 'Neela Najeeb']","['[GER] ', '[MDV] ']","['21-11', '21-18']",WS,20170615
-49,"['Ganesha Mungrah', 'Marthe Guichard']","['[MRI] ', '[REU] ']","['23-21', '18-21', '21-8']",WS,20170615
-50,"['Moosa Aminath Shahurunaz', 'Sendila Mourat']","['[MDV] ', '[MRI] ']","['21-18', '18-21', '22-20']",WS,20170615
-51,"['Fathimath Nabaaha Abdul Razzaq', 'Shania Leung']","['[MDV] ', '[MRI] ']","['21-17', '22-24', '21-12']",WS,20170615
-52,"['Kritisha Mungrah', 'Loise Law Kwai']","['[MRI] ', '[REU] ']","['19-21', '21-11', '21-17']",WS,20170615
-53,"['Isabelle Lai-Cheung Kit', 'Vilina Appiah']","['[REU] ', '[MRI] ']","['21-5', '21-13']",WS,20170615
-54,"['Nafha Nasrullah', 'Nawsheen Bahemia']","['[MDV] ', '[MRI] ']","['21-10', '21-6']",WS,20170615
-55,"['Giresh Kumar Rampersand', 'Andrew Seeruthun', 'Kamlesh Bhoyroo', 'Kailash Choolun']","['[MRI] ', '[MRI] ', '[MRI] ', '[MRI] ']","['21-15', '21-12']",MD,20170615
-56,"['Jean Bernard Bongout', 'Khabir Teeluck', 'Tamesh Dookhee', 'Eric Renel']","['[MRI] ', '[MRI] ', '[MRI] ', '[MRI] ']","['21-11', '21-11']",MD,20170615
-57,"['Gilles Allet', 'Sahir Abdool Edoo', 'Helvin Arnachellum', 'Mevan Dewoo']","['[MRI] ', '[MRI] ', '[MRI] ', '[MRI] ']","['21-15', '21-13']",MD,20170615
-58,"['Ved Callychurn', 'Sadashayanand Dumree', 'Shailen Chuttoor', 'Hansley Cunapudy']","['[MRI] ', '[MRI] ', '[MRI] ', '[MRI] ']","['19-21', '21-18', '21-13']",MD,20170615
-59,"['Nevin Lufor', 'Kesaven Veerapen', 'Mohamed Arsalaan Ali', 'Ahmed Nibal']","['[MRI] ', '[MRI] ', '[MDV] ', '[MDV] ']","['21-23', '21-19', '30-29']",MD,20170615
-60,"['Terry Sebastien Amedee', 'Olivier Harel', 'Janess Rujkoomar', 'Hemraj Shibchurn']","['[REU] ', '[MRI] ', '[MRI] ', '[MRI] ']","['21-7', '21-8']",MD,20170615
-61,"['K. Ajay Kumar', 'Fabio Caponio']","['[IND] ', '[ITA] ']","['21-15', '21-8']",MS,20170615
-62,"['Christopher Paul', 'Saheer Ramrakha', 'Sulaiman Essackjee', 'Walid Soyfoo']","['[MRI] ', '[MRI] ', '[MRI] ', '[MRI] ']","['21-5', '21-7']",MD,20170615
-63,"['Ravin Anthi-Iya', 'David Lo Yuen Cheong', 'Faadil Sayed', 'Shakil Sayed']","['[MRI] ', '[MRI] ', '[MRI] ', '[MRI] ']","['21-19', '23-21']",MD,20170615
-64,"['Marthe Guichard', 'Loise Law Kwai', 'Sendila Mourat', 'Ganesha Mungrah']","['[REU] ', '[REU] ', '[MRI] ', '[MRI] ']","['24-22', '21-18']",WD,20170615
-65,"['Sanyogita Ghorpade', 'Prajakta Sawant', 'Neela Najeeb', 'Moosa Aminath Shahurunaz']","['[IND] ', '[IND] ', '[MDV] ', '[MDV] ']","['21-7', '21-7']",WD,20170615
-66,"['Stéphanie Bilon', 'Isabelle Lai-Cheung Kit', 'Vilina Appiah', 'Kritisha Mungrah']","['[REU] ', '[REU] ', '[MRI] ', '[MRI] ']","['21-16', '21-11']",WD,20170615
-67,"['Fabio Caponio', 'Giovanni Toti', 'Vishal Soobah', 'Gavin Veerasamy']","['[ITA] ', '[ITA] ', '[MRI] ', '[MRI] ']","['21-11', '21-10']",MD,20170615
-68,"['Misha Zilberman [1]', 'Stephan Beeharry']","['[ISR] ', '[MRI] ']","['21-11', '21-5']",MS,20170615
-69,"['Aljallad Ahmad [6]', 'Tejraj Pultoo']","['[SYR] ', '[MRI] ']","['21-7', '21-14']",MS,20170615
-70,"['Robert Mann [7]', 'Mohamed Ajfan Rasheed']","['[LUX] ', '[MDV] ']","['18-21', '21-10', '21-6']",MS,20170615
-71,"['Adrian George', 'Mayank Ahuja']","['[IND] ', '[IND] ']","['21-14', '21-16']",MS,20170615
-72,"['Giap Chin Goh [3]', 'Khabir Teeluck']","['[MAS] ', '[MRI] ']","['21-7', '21-5']",MS,20170615
-73,"['Jonathan Persson', 'Giovanni Toti']","['[GER] ', '[ITA] ']","['21-13', '21-9']",MS,20170615
-74,"['Rosario Maddaloni [2]', 'Ahmed Nibal']","['[ITA] ', '[MDV] ']","['21-5', '21-9']",MS,20170615
-75,"['Hari Kiran Chereddi', 'K. Ajay Kumar', 'Abdul Zaheer Beebeejaun', 'Abdul Zeeshan Beebeejaun']","['[IND] ', '[IND] ', '[MRI] ', '[MRI] ']","['21-5', '21-9']",MD,20170615
-76,"['Kate Foo Kune [1]', 'Aminath Nabeeha Abdul Razzaq']","['[MRI] ', '[MDV] ']","['21-10', '21-3']",WS,20170615
-77,"['Aisha Nakiyemba', 'Lorna Bodha']","['[UGA] ', '[MRI] ']","['21-18', '21-18']",WS,20170615
-78,"['Shikha Gautam', 'Maisa Fathuhulla Ismail [4]']","['[IND] ', '[MDV] ']","['21-11', '21-8']",WS,20170615
-79,"['Hannah Pohl', 'Ganesha Mungrah']","['[GER] ', '[MRI] ']","['21-6', '21-7']",WS,20170615
-80,"['Fathimath Nabaaha Abdul Razzaq', 'Moosa Aminath Shahurunaz']","['[MDV] ', '[MDV] ']","['21-18', '21-14']",WS,20170615
-81,"['Anura Prabhudesai [3]', 'Kritisha Mungrah']","['[IND] ', '[MRI] ']","['21-5', '21-8']",WS,20170615
-82,"['Aurelie Marie Elisa Allet', 'Isabelle Lai-Cheung Kit']","['[MRI] ', '[REU] ']","['13-21', '21-11', '26-24']",WS,20170615
-83,"['Grace King [2]', 'Nafha Nasrullah']","['[ENG] ', '[MDV] ']","['21-5', '21-6']",WS,20170615
-84,"['Aatish Lubah [1]', 'Georges Julien Paul', 'Giresh Kumar Rampersand', 'Andrew Seeruthun']","['[MRI] ', '[MRI] ', '[MRI] ', '[MRI] ']","['21-6', '21-17']",MD,20170615
-85,"['Jean Bernard Bongout', 'Khabir Teeluck', 'Ranbir Choolun', 'Daren Pachee']","['[MRI] ', '[MRI] ', '[MRI] ', '[MRI] ']","['21-12', '19-21', '21-18']",MD,20170615
-86,"['Gilles Allet', 'Sahir Abdool Edoo', 'Huzair Asraaf Ali Bhuttoo [3]', 'Soogun Z']","['[MRI] ', '[MRI] ', '[MRI] ', '[MRI] ']","['21-13', '21-10']",MD,20170615
-87,"['Nevin Lufor', 'Kesaven Veerapen', 'Ved Callychurn', 'Sadashayanand Dumree']","['[MRI] ', '[MRI] ', '[MRI] ', '[MRI] ']","['21-12', '13-21', '21-17']",MD,20170615
-88,"['Christopher Paul', 'Saheer Ramrakha', 'Terry Sebastien Amedee', 'Olivier Harel']","['[MRI] ', '[MRI] ', '[REU] ', '[MRI] ']","['21-7', '21-16']",MD,20170615
-89,"['Stephan Beeharry [4]', 'Vishal Sawaram', 'Ravin Anthi-Iya', 'David Lo Yuen Cheong']","['[MRI] ', '[MRI] ', '[MRI] ', '[MRI] ']","['21-19', '21-10']",MD,20170615
-90,"['Hari Kiran Chereddi', 'K. Ajay Kumar', 'Soobhan Ajmeer', 'M Subdurally']","['[IND] ', '[IND] ', '[MRI] ', '[MRI] ']","['21-17', '16-21', '21-11']",MD,20170615
-91,"['Fabio Caponio', 'Giovanni Toti', 'Melvin Appiah [2]', 'Tejraj Pultoo']","['[ITA] ', '[ITA] ', '[MRI] ', '[MRI] ']","['21-11', '21-12']",MD,20170615
-92,"['Yogendran Khrishnan [1]', 'Prajakta Sawant', 'Ravin Anthi-Iya', 'Sharon Young Pak Kian']","['[MAS] ', '[IND] ', '[MRI] ', '[MRI] ']","['21-4', '21-1']",XD,20170615
-93,"['Mohamed Ajfan Rasheed', 'Neela Najeeb', 'Olivier Harel', 'Marthe Guichard']","['[MDV] ', '[MDV] ', '[MRI] ', '[REU] ']","['21-17', '13-21', '21-13']",XD,20170615
-94,"['Tejraj Pultoo [3]', 'Sendila Mourat', 'Robin Armoet', 'Loise Law Kwai']","['[MRI] ', '[MRI] ', '[REU] ', '[REU] ']","['21-10', '21-12']",XD,20170615
-95,"['Hussein Zayan Shaheed', 'Fathimath Nabaaha Abdul Razzaq', 'Nevin Lufor', 'Nicola Wasserfall']","['[MDV] ', '[MDV] ', '[MRI] ', '[MRI] ']","['21-8', '21-2']",XD,20170615
-96,"['Ahmed Nibal', 'Maisa Fathuhulla Ismail', 'Terry Sebastien Amedee', 'Isabelle Lai-Cheung Kit']","['[MDV] ', '[MDV] ', '[REU] ', '[REU] ']","['21-17', '18-21', '23-21']",XD,20170615
-97,"['Sahir Abdool Edoo [4]', 'Aurelie Marie Elisa Allet', 'Khabir Teeluck', 'Shania Leung']","['[MRI] ', '[MRI] ', '[MRI] ', '[MRI] ']","['21-10', '21-14']",XD,20170615
-98,"['Helvin Arnachellum', 'Jemimah Leug For Sang', 'Ved Callychurn', 'Bhavishasingh Canaye']","['[MRI] ', '[MRI] ', '[MRI] ', '[MRI] ']","['21-12', '21-10']",XD,20170615
-99,"['Jonathan Persson [2]', 'Kate Foo Kune', 'Mohamed Arsalaan Ali', 'Aminath Nabeeha Abdul Razzaq']","['[GER] ', '[MRI] ', '[MDV] ', '[MDV] ']","['21-14', '21-8']",XD,20170615
-100,"['Anura Prabhudesai [3]', 'Grace King [2]']","['[IND] ', '[ENG] ']","['21-10', '21-4']",WS ,20170615
-101,"['Giap Chin Goh [3]', 'Rosario Maddaloni [2]']","['[MAS] ', '[ITA] ']","['21-11', '21-12']",MS ,20170615
-102,"['Lisa Kaminski [1]', 'Hannah Pohl', 'Aminath Nabeeha Abdul Razzaq', 'Fathimath Nabaaha Abdul Razzaq']","['[GER] ', '[GER] ', '[MDV] ', '[MDV] ']","['21-10', '21-9']",WD ,20170615
-103,"['Aatish Lubah [1]', 'Georges Julien Paul', 'Gilles Allet', 'Sahir Abdool Edoo']","['[MRI] ', '[MRI] ', '[MRI] ', '[MRI] ']","['21-12', '19-21', '21-17']",MD ,20170615
-104,"['Yogendran Khrishnan [1]', 'Prajakta Sawant', 'Hussein Zayan Shaheed', 'Fathimath Nabaaha Abdul Razzaq']","['[MAS] ', '[IND] ', '[MDV] ', '[MDV] ']","['21-6', '21-4']",XD ,20170615
-105,"['Shikha Gautam', 'Kate Foo Kune [1]']","['[IND] ', '[MRI] ']","['21-10', '17-21', '22-20']",WS ,20170615
-106,"['Misha Zilberman [1]', 'K. Ajay Kumar']","['[ISR] ', '[IND] ']","['21-7', '21-18']",MS ,20170615
-107,"['Sanyogita Ghorpade', 'Prajakta Sawant', 'Maisa Fathuhulla Ismail [2]', 'Nafha Nasrullah']","['[IND] ', '[IND] ', '[MDV] ', '[MDV] ']","['21-1', '21-5']",WD ,20170615
-108,"['Fabio Caponio', 'Giovanni Toti', 'Christopher Paul', 'Saheer Ramrakha']","['[ITA] ', '[ITA] ', '[MRI] ', '[MRI] ']","['24-22', '21-8']",MD ,20170615
-109,"['Jonathan Persson [2]', 'Kate Foo Kune', 'Sahir Abdool Edoo [4]', 'Aurelie Marie Elisa Allet']","['[GER] ', '[MRI] ', '[MRI] ', '[MRI] ']","['21-4', '21-10']",XD ,20170615
-110,"['Shikha Gautam', 'Anura Prabhudesai [3]']","['[IND] ', '[IND] ']","['21-8', '17-21', '21-19']",WS ,20170615
-111,"['Giap Chin Goh [3]', 'Misha Zilberman [1]']","['[MAS] ', '[ISR] ']","['21-19', '21-14']",MS ,20170615
-112,"['Lisa Kaminski [1]', 'Hannah Pohl', 'Sanyogita Ghorpade', 'Prajakta Sawant']","['[GER] ', '[GER] ', '[IND] ', '[IND] ']","['21-18', '22-20']",WD ,20170615
-113,"['Fabio Caponio', 'Giovanni Toti', 'Aatish Lubah [1]', 'Georges Julien Paul']","['[ITA] ', '[ITA] ', '[MRI] ', '[MRI] ']","['13-21', '23-21', '21-16']",MD ,20170615
-114,"['Yogendran Khrishnan [1]', 'Prajakta Sawant', 'Jonathan Persson [2]', 'Kate Foo Kune']","['[MAS] ', '[IND] ', '[GER] ', '[MRI] ']","['21-7', '21-17']",XD ,20170615
+,PLAYERS,COUNTRIES,SCORES,EVENT,match_week,match_location
+0,"['Randriamalala Julio Keman', 'Kamlesh Bhoyroo']","['[MAD] ', '[MRI] ']","['21-16', '21-15']",MS - Qualification,20170615,"Rose Hill, Mauritius"
+1,"['Mohamed Ajfan Rasheed', 'Abdul Zaheer Beebeejaun']","['[MDV] ', '[MRI] ']","['21-2', '21-3']",MS - Qualification,20170615,"Rose Hill, Mauritius"
+2,"['Hemraj Shibchurn', 'Narasimha Reddy Ramavathu']","['[MRI] ', '[IND] ']","['21-7', '21-9']",MS - Qualification,20170615,"Rose Hill, Mauritius"
+3,"['Giovanni Toti', 'Ved Callychurn']","['[ITA] ', '[MRI] ']","['21-2', '21-4']",MS - Qualification,20170615,"Rose Hill, Mauritius"
+4,"['Mevan Dewoo [1]', 'Helvin Arnachellum']","['[MRI] ', '[MRI] ']","['15-21', '21-13', '21-8']",MS - Qualification,20170615,"Rose Hill, Mauritius"
+5,"['David Lo Yuen Cheong', 'Sulaiman Essackjee']","['[MRI] ', '[MRI] ']","['21-15', '21-18']",MS - Qualification,20170615,"Rose Hill, Mauritius"
+6,"['Ahmed Nibal', 'Faadil Sayed [6]']","['[MDV] ', '[MRI] ']","['23-21', '21-19']",MS - Qualification,20170615,"Rose Hill, Mauritius"
+7,"['Nevin Lufor [3]', 'Suhaib Khodabocus']","['[MRI] ', '[MRI] ']","['21-4', '21-5']",MS - Qualification,20170615,"Rose Hill, Mauritius"
+8,"['Soobhan Ajmeer', 'Sadashayanand Dumree']","['[MRI] ', '[MRI] ']","['21-8', '21-13']",MS - Qualification,20170615,"Rose Hill, Mauritius"
+9,"['Soogun Z [8]', 'Mohamed Arsalaan Ali']","['[MRI] ', '[MDV] ']","['21-17', '21-17']",MS - Qualification,20170615,"Rose Hill, Mauritius"
+10,"['Eric Renel [5]', 'Janess Rujkoomar']","['[MRI] ', '[MRI] ']","['21-13', '21-14']",MS - Qualification,20170615,"Rose Hill, Mauritius"
+11,"['Andrew Seeruthun', 'Kesaven Veerapen']","['[MRI] ', '[MRI] ']","['21-10', '21-8']",MS - Qualification,20170615,"Rose Hill, Mauritius"
+12,"['Adrian George', 'Giresh Kumar Rampersand [4]']","['[IND] ', '[MRI] ']","['21-12', '21-19']",MS - Qualification,20170615,"Rose Hill, Mauritius"
+13,"['Terry Sebastien Amedee', 'Ranbir Choolun [7]']","['[REU] ', '[MRI] ']","['21-17', '21-8']",MS - Qualification,20170615,"Rose Hill, Mauritius"
+14,"['Daren Pachee', 'Kooshal Pursun']","['[MRI] ', '[MRI] ']","['21-7', '21-6']",MS - Qualification,20170615,"Rose Hill, Mauritius"
+15,"['Tamesh Dookhee [2]', 'Ravin Anthi-Iya']","['[MRI] ', '[MRI] ']","['21-19', '21-16']",MS - Qualification,20170615,"Rose Hill, Mauritius"
+16,"['Randriamalala Julio Keman', 'Robin Armoet']","['[MAD] ', '[REU] ']","['21-14', '21-16']",MS - Qualification,20170615,"Rose Hill, Mauritius"
+17,"['Mohamed Ajfan Rasheed', 'Dany Carver']","['[MDV] ', '[MRI] ']","['21-6', '21-8']",MS - Qualification,20170615,"Rose Hill, Mauritius"
+18,"['Hemraj Shibchurn', 'Abdul Zeeshan Beebeejaun']","['[MRI] ', '[MRI] ']","['21-7', '21-14']",MS - Qualification,20170615,"Rose Hill, Mauritius"
+19,"['Giovanni Toti', 'Kailash Choolun']","['[ITA] ', '[MRI] ']","['21-11', '21-9']",MS - Qualification,20170615,"Rose Hill, Mauritius"
+20,"['Daren Pachee', 'Tamesh Dookhee [2]']","['[MRI] ', '[MRI] ']","['21-18', '14-21', '21-14']",MS - Qualification,20170615,"Rose Hill, Mauritius"
+21,"['Adrian George', 'Andrew Seeruthun']","['[IND] ', '[MRI] ']","['21-11', '21-16']",MS - Qualification,20170615,"Rose Hill, Mauritius"
+22,"['Mevan Dewoo [1]', 'David Lo Yuen Cheong']","['[MRI] ', '[MRI] ']","['21-14', '21-16']",MS - Qualification,20170615,"Rose Hill, Mauritius"
+23,"['Soobhan Ajmeer', 'Nevin Lufor [3]']","['[MRI] ', '[MRI] ']","['21-15', '21-11']",MS - Qualification,20170615,"Rose Hill, Mauritius"
+24,"['Mohamed Ajfan Rasheed', 'Soogun Z [8]']","['[MDV] ', '[MRI] ']","['21-12', '21-9']",MS - Qualification,20170615,"Rose Hill, Mauritius"
+25,"['Ahmed Nibal', 'Randriamalala Julio Keman']","['[MDV] ', '[MAD] ']","['21-17', '21-19']",MS - Qualification,20170615,"Rose Hill, Mauritius"
+26,"['Eric Renel [5]', 'Hemraj Shibchurn']","['[MRI] ', '[MRI] ']","['21-14', '21-13']",MS - Qualification,20170615,"Rose Hill, Mauritius"
+27,"['Giovanni Toti', 'Terry Sebastien Amedee']","['[ITA] ', '[REU] ']","['21-10', '21-13']",MS - Qualification,20170615,"Rose Hill, Mauritius"
+28,"['Misha Zilberman [1]', 'Jean Bernard Bongout']","['[ISR] ', '[MRI] ']","['21-17', '21-6']",MS,20170615,"Rose Hill, Mauritius"
+29,"['Aljallad Ahmad [6]', 'Gilles Allet']","['[SYR] ', '[MRI] ']","['21-14', '21-18']",MS,20170615,"Rose Hill, Mauritius"
+30,"['Fabio Caponio', 'Georges Julien Paul [4]']","['[ITA] ', '[MRI] ']","['13-21', '21-17', '21-17']",MS,20170615,"Rose Hill, Mauritius"
+31,"['K. Ajay Kumar', 'Melvin Appiah']","['[IND] ', '[MRI] ']","['21-12', '21-14']",MS,20170615,"Rose Hill, Mauritius"
+32,"['Robert Mann [7]', 'Clifford Domingue']","['[LUX] ', '[MRI] ']","['21-10', '21-4']",MS,20170615,"Rose Hill, Mauritius"
+33,"['Giap Chin Goh [3]', 'Jatoonah Ashley']","['[MAS] ', '[MRI] ']","['21-2', '21-4']",MS,20170615,"Rose Hill, Mauritius"
+34,"['Jonathan Persson', 'Christopher Paul [8]']","['[GER] ', '[MRI] ']","['21-9', '21-15']",MS,20170615,"Rose Hill, Mauritius"
+35,"['Rosario Maddaloni [2]', 'Hussein Zayan Shaheed']","['[ITA] ', '[MDV] ']","['21-8', '21-8']",MS,20170615,"Rose Hill, Mauritius"
+36,"['Terry Sebastien Amedee', 'Isabelle Lai-Cheung Kit', 'Shailen Chuttoor', 'Luvyna Chuttoor']","['[REU] ', '[REU] ', '[MRI] ', '[MRI] ']","['21-9', '21-6']",XD,20170615,"Rose Hill, Mauritius"
+37,"['Stephan Beeharry', 'Mevan Dewoo']","['[MRI] ', '[MRI] ']","['21-13', '21-16']",MS,20170615,"Rose Hill, Mauritius"
+38,"['Tejraj Pultoo', 'Eric Renel']","['[MRI] ', '[MRI] ']","['21-19', '21-14']",MS,20170615,"Rose Hill, Mauritius"
+39,"['Mohamed Ajfan Rasheed', 'Thierry Bellepeau']","['[MDV] ', '[MRI] ']","['21-19', '21-9']",MS,20170615,"Rose Hill, Mauritius"
+40,"['Mayank Ahuja', 'Daren Pachee']","['[IND] ', '[MRI] ']","['21-5', '21-11']",MS,20170615,"Rose Hill, Mauritius"
+41,"['Adrian George', 'Aatish Lubah [5]']","['[IND] ', '[MRI] ']","['21-9', '17-21', '21-13']",MS,20170615,"Rose Hill, Mauritius"
+42,"['Khabir Teeluck', 'Soobhan Ajmeer']","['[MRI] ', '[MRI] ']","['22-20', '21-9']",MS,20170615,"Rose Hill, Mauritius"
+43,"['Giovanni Toti', 'Vishal Sawaram']","['[ITA] ', '[MRI] ']","['21-5', '21-12']",MS,20170615,"Rose Hill, Mauritius"
+44,"['Ahmed Nibal', 'Huzair Asraaf Ali Bhuttoo']","['[MDV] ', '[MRI] ']","['27-25', '21-13']",MS,20170615,"Rose Hill, Mauritius"
+45,"['Aminath Nabeeha Abdul Razzaq', 'Jemimah Leug For Sang']","['[MDV] ', '[MRI] ']","['22-20', '21-10']",WS,20170615,"Rose Hill, Mauritius"
+46,"['Aisha Nakiyemba', 'Jeisha Chiniah']","['[UGA] ', '[MRI] ']","['21-11', '21-8']",WS,20170615,"Rose Hill, Mauritius"
+47,"['Shikha Gautam', 'Bhavishasingh Canaye']","['[IND] ', '[MRI] ']","['21-6', '21-3']",WS,20170615,"Rose Hill, Mauritius"
+48,"['Hannah Pohl', 'Neela Najeeb']","['[GER] ', '[MDV] ']","['21-11', '21-18']",WS,20170615,"Rose Hill, Mauritius"
+49,"['Ganesha Mungrah', 'Marthe Guichard']","['[MRI] ', '[REU] ']","['23-21', '18-21', '21-8']",WS,20170615,"Rose Hill, Mauritius"
+50,"['Moosa Aminath Shahurunaz', 'Sendila Mourat']","['[MDV] ', '[MRI] ']","['21-18', '18-21', '22-20']",WS,20170615,"Rose Hill, Mauritius"
+51,"['Fathimath Nabaaha Abdul Razzaq', 'Shania Leung']","['[MDV] ', '[MRI] ']","['21-17', '22-24', '21-12']",WS,20170615,"Rose Hill, Mauritius"
+52,"['Kritisha Mungrah', 'Loise Law Kwai']","['[MRI] ', '[REU] ']","['19-21', '21-11', '21-17']",WS,20170615,"Rose Hill, Mauritius"
+53,"['Isabelle Lai-Cheung Kit', 'Vilina Appiah']","['[REU] ', '[MRI] ']","['21-5', '21-13']",WS,20170615,"Rose Hill, Mauritius"
+54,"['Nafha Nasrullah', 'Nawsheen Bahemia']","['[MDV] ', '[MRI] ']","['21-10', '21-6']",WS,20170615,"Rose Hill, Mauritius"
+55,"['Giresh Kumar Rampersand', 'Andrew Seeruthun', 'Kamlesh Bhoyroo', 'Kailash Choolun']","['[MRI] ', '[MRI] ', '[MRI] ', '[MRI] ']","['21-15', '21-12']",MD,20170615,"Rose Hill, Mauritius"
+56,"['Jean Bernard Bongout', 'Khabir Teeluck', 'Tamesh Dookhee', 'Eric Renel']","['[MRI] ', '[MRI] ', '[MRI] ', '[MRI] ']","['21-11', '21-11']",MD,20170615,"Rose Hill, Mauritius"
+57,"['Gilles Allet', 'Sahir Abdool Edoo', 'Helvin Arnachellum', 'Mevan Dewoo']","['[MRI] ', '[MRI] ', '[MRI] ', '[MRI] ']","['21-15', '21-13']",MD,20170615,"Rose Hill, Mauritius"
+58,"['Ved Callychurn', 'Sadashayanand Dumree', 'Shailen Chuttoor', 'Hansley Cunapudy']","['[MRI] ', '[MRI] ', '[MRI] ', '[MRI] ']","['19-21', '21-18', '21-13']",MD,20170615,"Rose Hill, Mauritius"
+59,"['Nevin Lufor', 'Kesaven Veerapen', 'Mohamed Arsalaan Ali', 'Ahmed Nibal']","['[MRI] ', '[MRI] ', '[MDV] ', '[MDV] ']","['21-23', '21-19', '30-29']",MD,20170615,"Rose Hill, Mauritius"
+60,"['Terry Sebastien Amedee', 'Olivier Harel', 'Janess Rujkoomar', 'Hemraj Shibchurn']","['[REU] ', '[MRI] ', '[MRI] ', '[MRI] ']","['21-7', '21-8']",MD,20170615,"Rose Hill, Mauritius"
+61,"['K. Ajay Kumar', 'Fabio Caponio']","['[IND] ', '[ITA] ']","['21-15', '21-8']",MS,20170615,"Rose Hill, Mauritius"
+62,"['Christopher Paul', 'Saheer Ramrakha', 'Sulaiman Essackjee', 'Walid Soyfoo']","['[MRI] ', '[MRI] ', '[MRI] ', '[MRI] ']","['21-5', '21-7']",MD,20170615,"Rose Hill, Mauritius"
+63,"['Ravin Anthi-Iya', 'David Lo Yuen Cheong', 'Faadil Sayed', 'Shakil Sayed']","['[MRI] ', '[MRI] ', '[MRI] ', '[MRI] ']","['21-19', '23-21']",MD,20170615,"Rose Hill, Mauritius"
+64,"['Marthe Guichard', 'Loise Law Kwai', 'Sendila Mourat', 'Ganesha Mungrah']","['[REU] ', '[REU] ', '[MRI] ', '[MRI] ']","['24-22', '21-18']",WD,20170615,"Rose Hill, Mauritius"
+65,"['Sanyogita Ghorpade', 'Prajakta Sawant', 'Neela Najeeb', 'Moosa Aminath Shahurunaz']","['[IND] ', '[IND] ', '[MDV] ', '[MDV] ']","['21-7', '21-7']",WD,20170615,"Rose Hill, Mauritius"
+66,"['Stéphanie Bilon', 'Isabelle Lai-Cheung Kit', 'Vilina Appiah', 'Kritisha Mungrah']","['[REU] ', '[REU] ', '[MRI] ', '[MRI] ']","['21-16', '21-11']",WD,20170615,"Rose Hill, Mauritius"
+67,"['Fabio Caponio', 'Giovanni Toti', 'Vishal Soobah', 'Gavin Veerasamy']","['[ITA] ', '[ITA] ', '[MRI] ', '[MRI] ']","['21-11', '21-10']",MD,20170615,"Rose Hill, Mauritius"
+68,"['Misha Zilberman [1]', 'Stephan Beeharry']","['[ISR] ', '[MRI] ']","['21-11', '21-5']",MS,20170615,"Rose Hill, Mauritius"
+69,"['Aljallad Ahmad [6]', 'Tejraj Pultoo']","['[SYR] ', '[MRI] ']","['21-7', '21-14']",MS,20170615,"Rose Hill, Mauritius"
+70,"['Robert Mann [7]', 'Mohamed Ajfan Rasheed']","['[LUX] ', '[MDV] ']","['18-21', '21-10', '21-6']",MS,20170615,"Rose Hill, Mauritius"
+71,"['Adrian George', 'Mayank Ahuja']","['[IND] ', '[IND] ']","['21-14', '21-16']",MS,20170615,"Rose Hill, Mauritius"
+72,"['Giap Chin Goh [3]', 'Khabir Teeluck']","['[MAS] ', '[MRI] ']","['21-7', '21-5']",MS,20170615,"Rose Hill, Mauritius"
+73,"['Jonathan Persson', 'Giovanni Toti']","['[GER] ', '[ITA] ']","['21-13', '21-9']",MS,20170615,"Rose Hill, Mauritius"
+74,"['Rosario Maddaloni [2]', 'Ahmed Nibal']","['[ITA] ', '[MDV] ']","['21-5', '21-9']",MS,20170615,"Rose Hill, Mauritius"
+75,"['Hari Kiran Chereddi', 'K. Ajay Kumar', 'Abdul Zaheer Beebeejaun', 'Abdul Zeeshan Beebeejaun']","['[IND] ', '[IND] ', '[MRI] ', '[MRI] ']","['21-5', '21-9']",MD,20170615,"Rose Hill, Mauritius"
+76,"['Kate Foo Kune [1]', 'Aminath Nabeeha Abdul Razzaq']","['[MRI] ', '[MDV] ']","['21-10', '21-3']",WS,20170615,"Rose Hill, Mauritius"
+77,"['Aisha Nakiyemba', 'Lorna Bodha']","['[UGA] ', '[MRI] ']","['21-18', '21-18']",WS,20170615,"Rose Hill, Mauritius"
+78,"['Shikha Gautam', 'Maisa Fathuhulla Ismail [4]']","['[IND] ', '[MDV] ']","['21-11', '21-8']",WS,20170615,"Rose Hill, Mauritius"
+79,"['Hannah Pohl', 'Ganesha Mungrah']","['[GER] ', '[MRI] ']","['21-6', '21-7']",WS,20170615,"Rose Hill, Mauritius"
+80,"['Fathimath Nabaaha Abdul Razzaq', 'Moosa Aminath Shahurunaz']","['[MDV] ', '[MDV] ']","['21-18', '21-14']",WS,20170615,"Rose Hill, Mauritius"
+81,"['Anura Prabhudesai [3]', 'Kritisha Mungrah']","['[IND] ', '[MRI] ']","['21-5', '21-8']",WS,20170615,"Rose Hill, Mauritius"
+82,"['Aurelie Marie Elisa Allet', 'Isabelle Lai-Cheung Kit']","['[MRI] ', '[REU] ']","['13-21', '21-11', '26-24']",WS,20170615,"Rose Hill, Mauritius"
+83,"['Grace King [2]', 'Nafha Nasrullah']","['[ENG] ', '[MDV] ']","['21-5', '21-6']",WS,20170615,"Rose Hill, Mauritius"
+84,"['Aatish Lubah [1]', 'Georges Julien Paul', 'Giresh Kumar Rampersand', 'Andrew Seeruthun']","['[MRI] ', '[MRI] ', '[MRI] ', '[MRI] ']","['21-6', '21-17']",MD,20170615,"Rose Hill, Mauritius"
+85,"['Jean Bernard Bongout', 'Khabir Teeluck', 'Ranbir Choolun', 'Daren Pachee']","['[MRI] ', '[MRI] ', '[MRI] ', '[MRI] ']","['21-12', '19-21', '21-18']",MD,20170615,"Rose Hill, Mauritius"
+86,"['Gilles Allet', 'Sahir Abdool Edoo', 'Huzair Asraaf Ali Bhuttoo [3]', 'Soogun Z']","['[MRI] ', '[MRI] ', '[MRI] ', '[MRI] ']","['21-13', '21-10']",MD,20170615,"Rose Hill, Mauritius"
+87,"['Nevin Lufor', 'Kesaven Veerapen', 'Ved Callychurn', 'Sadashayanand Dumree']","['[MRI] ', '[MRI] ', '[MRI] ', '[MRI] ']","['21-12', '13-21', '21-17']",MD,20170615,"Rose Hill, Mauritius"
+88,"['Christopher Paul', 'Saheer Ramrakha', 'Terry Sebastien Amedee', 'Olivier Harel']","['[MRI] ', '[MRI] ', '[REU] ', '[MRI] ']","['21-7', '21-16']",MD,20170615,"Rose Hill, Mauritius"
+89,"['Stephan Beeharry [4]', 'Vishal Sawaram', 'Ravin Anthi-Iya', 'David Lo Yuen Cheong']","['[MRI] ', '[MRI] ', '[MRI] ', '[MRI] ']","['21-19', '21-10']",MD,20170615,"Rose Hill, Mauritius"
+90,"['Hari Kiran Chereddi', 'K. Ajay Kumar', 'Soobhan Ajmeer', 'M Subdurally']","['[IND] ', '[IND] ', '[MRI] ', '[MRI] ']","['21-17', '16-21', '21-11']",MD,20170615,"Rose Hill, Mauritius"
+91,"['Fabio Caponio', 'Giovanni Toti', 'Melvin Appiah [2]', 'Tejraj Pultoo']","['[ITA] ', '[ITA] ', '[MRI] ', '[MRI] ']","['21-11', '21-12']",MD,20170615,"Rose Hill, Mauritius"
+92,"['Yogendran Khrishnan [1]', 'Prajakta Sawant', 'Ravin Anthi-Iya', 'Sharon Young Pak Kian']","['[MAS] ', '[IND] ', '[MRI] ', '[MRI] ']","['21-4', '21-1']",XD,20170615,"Rose Hill, Mauritius"
+93,"['Mohamed Ajfan Rasheed', 'Neela Najeeb', 'Olivier Harel', 'Marthe Guichard']","['[MDV] ', '[MDV] ', '[MRI] ', '[REU] ']","['21-17', '13-21', '21-13']",XD,20170615,"Rose Hill, Mauritius"
+94,"['Tejraj Pultoo [3]', 'Sendila Mourat', 'Robin Armoet', 'Loise Law Kwai']","['[MRI] ', '[MRI] ', '[REU] ', '[REU] ']","['21-10', '21-12']",XD,20170615,"Rose Hill, Mauritius"
+95,"['Hussein Zayan Shaheed', 'Fathimath Nabaaha Abdul Razzaq', 'Nevin Lufor', 'Nicola Wasserfall']","['[MDV] ', '[MDV] ', '[MRI] ', '[MRI] ']","['21-8', '21-2']",XD,20170615,"Rose Hill, Mauritius"
+96,"['Ahmed Nibal', 'Maisa Fathuhulla Ismail', 'Terry Sebastien Amedee', 'Isabelle Lai-Cheung Kit']","['[MDV] ', '[MDV] ', '[REU] ', '[REU] ']","['21-17', '18-21', '23-21']",XD,20170615,"Rose Hill, Mauritius"
+97,"['Sahir Abdool Edoo [4]', 'Aurelie Marie Elisa Allet', 'Khabir Teeluck', 'Shania Leung']","['[MRI] ', '[MRI] ', '[MRI] ', '[MRI] ']","['21-10', '21-14']",XD,20170615,"Rose Hill, Mauritius"
+98,"['Helvin Arnachellum', 'Jemimah Leug For Sang', 'Ved Callychurn', 'Bhavishasingh Canaye']","['[MRI] ', '[MRI] ', '[MRI] ', '[MRI] ']","['21-12', '21-10']",XD,20170615,"Rose Hill, Mauritius"
+99,"['Jonathan Persson [2]', 'Kate Foo Kune', 'Mohamed Arsalaan Ali', 'Aminath Nabeeha Abdul Razzaq']","['[GER] ', '[MRI] ', '[MDV] ', '[MDV] ']","['21-14', '21-8']",XD,20170615,"Rose Hill, Mauritius"
+100,"['Anura Prabhudesai [3]', 'Grace King [2]']","['[IND] ', '[ENG] ']","['21-10', '21-4']",WS ,20170615,"Rose Hill, Mauritius"
+101,"['Giap Chin Goh [3]', 'Rosario Maddaloni [2]']","['[MAS] ', '[ITA] ']","['21-11', '21-12']",MS ,20170615,"Rose Hill, Mauritius"
+102,"['Lisa Kaminski [1]', 'Hannah Pohl', 'Aminath Nabeeha Abdul Razzaq', 'Fathimath Nabaaha Abdul Razzaq']","['[GER] ', '[GER] ', '[MDV] ', '[MDV] ']","['21-10', '21-9']",WD ,20170615,"Rose Hill, Mauritius"
+103,"['Aatish Lubah [1]', 'Georges Julien Paul', 'Gilles Allet', 'Sahir Abdool Edoo']","['[MRI] ', '[MRI] ', '[MRI] ', '[MRI] ']","['21-12', '19-21', '21-17']",MD ,20170615,"Rose Hill, Mauritius"
+104,"['Yogendran Khrishnan [1]', 'Prajakta Sawant', 'Hussein Zayan Shaheed', 'Fathimath Nabaaha Abdul Razzaq']","['[MAS] ', '[IND] ', '[MDV] ', '[MDV] ']","['21-6', '21-4']",XD ,20170615,"Rose Hill, Mauritius"
+105,"['Shikha Gautam', 'Kate Foo Kune [1]']","['[IND] ', '[MRI] ']","['21-10', '17-21', '22-20']",WS ,20170615,"Rose Hill, Mauritius"
+106,"['Misha Zilberman [1]', 'K. Ajay Kumar']","['[ISR] ', '[IND] ']","['21-7', '21-18']",MS ,20170615,"Rose Hill, Mauritius"
+107,"['Sanyogita Ghorpade', 'Prajakta Sawant', 'Maisa Fathuhulla Ismail [2]', 'Nafha Nasrullah']","['[IND] ', '[IND] ', '[MDV] ', '[MDV] ']","['21-1', '21-5']",WD ,20170615,"Rose Hill, Mauritius"
+108,"['Fabio Caponio', 'Giovanni Toti', 'Christopher Paul', 'Saheer Ramrakha']","['[ITA] ', '[ITA] ', '[MRI] ', '[MRI] ']","['24-22', '21-8']",MD ,20170615,"Rose Hill, Mauritius"
+109,"['Jonathan Persson [2]', 'Kate Foo Kune', 'Sahir Abdool Edoo [4]', 'Aurelie Marie Elisa Allet']","['[GER] ', '[MRI] ', '[MRI] ', '[MRI] ']","['21-4', '21-10']",XD ,20170615,"Rose Hill, Mauritius"
+110,"['Shikha Gautam', 'Anura Prabhudesai [3]']","['[IND] ', '[IND] ']","['21-8', '17-21', '21-19']",WS ,20170615,"Rose Hill, Mauritius"
+111,"['Giap Chin Goh [3]', 'Misha Zilberman [1]']","['[MAS] ', '[ISR] ']","['21-19', '21-14']",MS ,20170615,"Rose Hill, Mauritius"
+112,"['Lisa Kaminski [1]', 'Hannah Pohl', 'Sanyogita Ghorpade', 'Prajakta Sawant']","['[GER] ', '[GER] ', '[IND] ', '[IND] ']","['21-18', '22-20']",WD ,20170615,"Rose Hill, Mauritius"
+113,"['Fabio Caponio', 'Giovanni Toti', 'Aatish Lubah [1]', 'Georges Julien Paul']","['[ITA] ', '[ITA] ', '[MRI] ', '[MRI] ']","['13-21', '23-21', '21-16']",MD ,20170615,"Rose Hill, Mauritius"
+114,"['Yogendran Khrishnan [1]', 'Prajakta Sawant', 'Jonathan Persson [2]', 'Kate Foo Kune']","['[MAS] ', '[IND] ', '[GER] ', '[MRI] ']","['21-7', '21-17']",XD ,20170615,"Rose Hill, Mauritius"

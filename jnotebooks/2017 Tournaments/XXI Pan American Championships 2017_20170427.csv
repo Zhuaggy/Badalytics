@@ -1,111 +1,111 @@
-,PLAYERS,COUNTRIES,SCORES,EVENT,match_week
-0,"['Jason Anthony Ho-Shue', 'Diego Mini']","['[CAN] ', '[PER] ']","['21-15', '21-10']",MS,20170427
-1,"['Haramara Gaitan', 'Paula La Torre Regal']","['[MEX] ', '[PER] ']","['23-21', '21-11']",WS,20170427
-2,"['Brittney Tam', 'Daniela Macias']","['[CAN] ', '[PER] ']","['21-14', '21-11']",WS,20170427
-3,"['Stephanie Pakenham', 'Adriana Artiz Ataury']","['[CAN] ', '[CUB] ']","['21-18', '21-14']",WS,20170427
-4,"['Alejandra Jose Paiz Quan', 'Noemi Almonte']","['[GUA] ', '[DOM] ']","['21-15', '21-18']",WS,20170427
-5,"['Tahimara Oropeza', 'Nikte Alejandra Sotomayor']","['[CUB] ', '[GUA] ']","['21-12', '21-14']",WS,20170427
-6,"['Jamie Subandhi', 'Maria Delia Zambrano']","['[USA] ', '[ECU] ']","['21-16', '21-8']",WS,20170427
-7,"['Cynthia Gonzalez', 'Camila Macaya']","['[MEX] ', '[CHI] ']","['21-9', '21-17']",WS,20170427
-8,"['Mariana Ugalde', 'Disha Gupta']","['[MEX] ', '[USA] ']","['21-17', '21-14']",WS,20170427
-9,"['Fernanda Saponara Rivva', 'Diana Corleto Soto']","['[PER] ', '[GUA] ']","['21-11', '21-12']",WS,20170427
-10,"['Yeily Mari Ortiz Rodriguez', 'Mariana Isabel Paiz Quan']","['[CUB] ', '[GUA] ']","['21-11', '21-6']",WS,20170427
-11,"['Sabrina Solis', 'Thalia Mengana Marrero']","['[MEX] ', '[CUB] ']","['21-9', '21-16']",WS,20170427
-12,"['Isabel Zhong', 'Daniela Zapata']","['[USA] ', '[PER] ']","['21-15', '21-9']",WS,20170427
-13,"['Ygor Coelho [1]', 'Nicolas Macias']","['[BRA] ', '[PER] ']","['21-13', '21-9']",MS,20170427
-14,"['Cristian Araya', 'Angel Herrera Rodríguez']","['[CHI] ', '[CUB] ']","['22-20', '16-21', '23-21']",MS,20170427
-15,"['Anibal Marroquin [7]', 'Yamit Gironza']","['[GUA] ', '[COL] ']",[],MS,20170427
-16,"['Paul-Antoine Dostie-Guindon', 'Mathew Fogarty']","['[CAN] ', '[USA] ']","['21-5', '21-9']",MS,20170427
-17,"['Howard Shu [3]', 'Luke Couture']","['[USA] ', '[CAN] ']","['21-12', '21-19']",MS,20170427
-18,"['Alonso Medel', 'Jose Guevara']","['[CHI] ', '[PER] ']","['21-19', '21-19']",MS,20170427
-19,"['Lino Munoz [6]', 'Daniel La Torre Regal']","['[MEX] ', '[PER] ']","['21-17', '21-11']",MS,20170427
-20,"['Leodannis Martinez', 'Cesar Adonis Brito Gonzalez']","['[CUB] ', '[DOM] ']","['21-15', '21-10']",MS,20170427
-21,"['Jason Anthony Ho-Shue', 'William Cabrera']","['[CAN] ', '[DOM] ']","['21-14', '21-10']",MS,20170427
-22,"['Ruben Castellanos [5]', 'Sebastian Andrade']","['[GUA] ', '[COL] ']",[],MS,20170427
-23,"['Rodolfo Ramirez', 'Francisco Rafael Trevino Buenrostro']","['[GUA] ', '[MEX] ']","['21-14', '21-17']",MS,20170427
-24,"['Osleni Guerrero [4]', 'Lucas Constant Da Silva']","['[CUB] ', '[BRA] ']","['21-13', '21-13']",MS,20170427
-25,"['Ivan Leon', 'Ailton Josue Correa Martinez']","['[CHI] ', '[MEX] ']",[],MS,20170427
-26,"['Job Castillo [8]', 'Lazaro Yovani Madera Padrino']","['[MEX] ', '[CUB] ']","['21-14', '21-15']",MS,20170427
-27,"['Nelson Javier', 'Angel Argenis Marinez Ulloa']","['[DOM] ', '[DOM] ']","['21-12', '15-21', '21-3']",MS,20170427
-28,"['Bjorn Seguin [2]', 'Andrew Zhuang']","['[USA] ', '[CAN] ']","['21-12', '21-12']",MS,20170427
-29,"['Michelle Li [1]', 'Haramara Gaitan']","['[CAN] ', '[MEX] ']","['21-12', '21-17']",WS,20170427
-30,"['Brittney Tam', 'Stephanie Pakenham']","['[CAN] ', '[CAN] ']","['21-14', '21-9']",WS,20170427
-31,"['Nairoby Abigail Jimenez [3]', 'Alejandra Jose Paiz Quan']","['[DOM] ', '[GUA] ']","['21-13', '21-6']",WS,20170427
-32,"['Jamie Subandhi', 'Tahimara Oropeza']","['[USA] ', '[CUB] ']","['21-15', '21-14']",WS,20170427
-33,"['Mariana Ugalde', 'Cynthia Gonzalez']","['[MEX] ', '[MEX] ']","['21-8', '21-5']",WS,20170427
-34,"['Bermary Altagracia Polanco Munoz [4]', 'Fernanda Saponara Rivva']","['[DOM] ', '[PER] ']","['21-14', '12-21', '24-22']",WS,20170427
-35,"['Sabrina Solis', 'Yeily Mari Ortiz Rodriguez']","['[MEX] ', '[CUB] ']","['27-25', '21-12']",WS,20170427
-36,"['Rachel Honderich [2]', 'Isabel Zhong']","['[CAN] ', '[USA] ']","['21-12', '21-12']",WS,20170427
-37,"['Osleni Guerrero', 'Leodannis Martinez', 'Sebastian Andrade', 'Yamit Gironza']","['[CUB] ', '[CUB] ', '[COL] ', '[COL] ']",[],MD,20170427
-38,"['Rodolfo Ramirez', 'Alejandra Jose Paiz Quan', 'Francisco Rafael Trevino Buenrostro', 'Mariana Ugalde']","['[GUA] ', '[GUA] ', '[MEX] ', '[MEX] ']","['14-21', '21-11', '21-13']",XD,20170427
-39,"['Ruben Castellanos', 'Nikte Alejandra Sotomayor', 'Lazaro Yovani Madera Padrino', 'Thalia Mengana Marrero']","['[GUA] ', '[GUA] ', '[CUB] ', '[CUB] ']","['21-12', '21-16']",XD,20170427
-40,"['Daniel La Torre Regal', 'Danica Nishimura', 'Cesar Adonis Brito Gonzalez', 'Nairoby Abigail Jimenez']","['[PER] ', '[PER] ', '[DOM] ', '[DOM] ']","['21-16', '21-10']",XD,20170427
-41,"['Ty Alexander Lindeman', 'Josephine Wu', 'Ernesto Reyes', 'Adriana Artiz Ataury']","['[CAN] ', '[CAN] ', '[CUB] ', '[CUB] ']","['19-21', '21-11', '21-11']",XD,20170427
-42,"['William Cabrera', 'Licelott Sanchez', 'Diego Mini', 'Paula La Torre Regal']","['[DOM] ', '[DOM] ', '[PER] ', '[PER] ']","['22-20', '22-20']",XD,20170427
-43,"['Mathew Fogarty', 'Isabel Zhong', 'Angel Argenis Marinez Ulloa', 'Bermary Altagracia Polanco Munoz']","['[USA] ', '[USA] ', '[DOM] ', '[DOM] ']","['18-21', '21-10', '21-18']",XD,20170427
-44,"['Lino Munoz', 'Cynthia Gonzalez', 'Anibal Marroquin', 'Diana Corleto Soto']","['[MEX] ', '[MEX] ', '[GUA] ', '[GUA] ']","['21-10', '23-21']",XD,20170427
-45,"['Leodannis Martinez', 'Tahimara Oropeza', 'Ivan Leon', 'Camila Macaya']","['[CUB] ', '[CUB] ', '[CHI] ', '[CHI] ']","['21-16', '21-11']",XD,20170427
-46,"['Solis Jonathan', 'Mariana Isabel Paiz Quan', 'Job Castillo', 'Haramara Gaitan']","['[GUA] ', '[GUA] ', '[MEX] ', '[MEX] ']","['24-22', '22-20']",XD,20170427
-47,"['Ygor Coelho [1]', 'Cristian Araya']","['[BRA] ', '[CHI] ']","['21-12', '21-10']",MS,20170427
-48,"['Paul-Antoine Dostie-Guindon', 'Anibal Marroquin [7]']","['[CAN] ', '[GUA] ']","['12-21', '22-20', '21-14']",MS,20170427
-49,"['Howard Shu [3]', 'Alonso Medel']","['[USA] ', '[CHI] ']","['21-14', '21-15']",MS,20170427
-50,"['Leodannis Martinez', 'Lino Munoz [6]']","['[CUB] ', '[MEX] ']","['21-19', '21-10']",MS,20170427
-51,"['Jason Anthony Ho-Shue', 'Ruben Castellanos [5]']","['[CAN] ', '[GUA] ']","['21-13', '21-8']",MS,20170427
-52,"['Osleni Guerrero [4]', 'Rodolfo Ramirez']","['[CUB] ', '[GUA] ']","['21-11', '17-21', '21-16']",MS,20170427
-53,"['Job Castillo [8]', 'Ivan Leon']","['[MEX] ', '[CHI] ']","['21-4', '21-9']",MS,20170427
-54,"['Bjorn Seguin [2]', 'Nelson Javier']","['[USA] ', '[DOM] ']","['21-10', '21-9']",MS,20170427
-55,"['Haramara Gaitan', 'Sabrina Solis', 'Noemi Almonte', 'Bermary Altagracia Polanco Munoz']","['[MEX] ', '[MEX] ', '[DOM] ', '[DOM] ']","['24-22', '21-18']",WD,20170427
-56,"['Alejandra Jose Paiz Quan', 'Nikte Alejandra Sotomayor', 'Thalia Mengana Marrero', 'Yeily Mari Ortiz Rodriguez']","['[GUA] ', '[GUA] ', '[CUB] ', '[CUB] ']","['12-21', '21-13', '21-10']",WD,20170427
-57,"['Anne-Julie Beaulieu', 'Stephanie Pakenham', 'Nairoby Abigail Jimenez', 'Licelott Sanchez']","['[CAN] ', '[CAN] ', '[DOM] ', '[DOM] ']","['21-10', '21-16']",WD,20170427
-58,"['Cynthia Gonzalez', 'Mariana Ugalde', 'Diana Corleto Soto', 'Mariana Isabel Paiz Quan']","['[MEX] ', '[MEX] ', '[GUA] ', '[GUA] ']","['21-23', '21-17', '21-8']",WD,20170427
-59,"['Ruben Castellanos [1]', 'Anibal Marroquin', 'Cristian Araya', 'Alonso Medel']","['[GUA] ', '[GUA] ', '[CHI] ', '[CHI] ']","['23-21', '21-9']",MD,20170427
-60,"['Jose Guevara', 'Daniel La Torre Regal', 'Ailton Josue Correa Martinez', 'Francisco Rafael Trevino Buenrostro']","['[PER] ', '[PER] ', '[MEX] ', '[MEX] ']",[],MD,20170427
-61,"['Lazaro Yovani Madera Padrino', 'Ernesto Reyes', 'William Cabrera [3]', 'Nelson Javier']","['[CUB] ', '[CUB] ', '[DOM] ', '[DOM] ']","['19-21', '21-15', '24-22']",MD,20170427
-62,"['Austin James Bauer', 'Ty Alexander Lindeman', 'Phillip Chew', 'Ryan Chew']","['[CAN] ', '[CAN] ', '[USA] ', '[USA] ']","['16-21', '26-24', '22-20']",MD,20170427
-63,"['Mario Cuba', 'Diego Mini', 'Osleni Guerrero', 'Leodannis Martinez']","['[PER] ', '[PER] ', '[CUB] ', '[CUB] ']","['20-22', '21-16', '21-18']",MD,20170427
-64,"['Solis Jonathan [4]', 'Rodolfo Ramirez', 'Cesar Adonis Brito Gonzalez', 'Angel Argenis Marinez Ulloa']","['[GUA] ', '[GUA] ', '[DOM] ', '[DOM] ']","['21-17', '21-12']",MD,20170427
-65,"['Jason Anthony Ho-Shue', 'Nyl Yakura', 'Ygor Coelho', 'Lucas Constant Da Silva']","['[CAN] ', '[CAN] ', '[BRA] ', '[BRA] ']","['21-7', '21-13']",MD,20170427
-66,"['Job Castillo [2]', 'Lino Munoz', 'Mathew Fogarty', 'Bjorn Seguin']","['[MEX] ', '[MEX] ', '[USA] ', '[USA] ']","['21-13', '21-18']",MD,20170427
-67,"['Toby Ng [1]', 'Rachel Honderich', 'Rodolfo Ramirez', 'Alejandra Jose Paiz Quan']","['[CAN] ', '[CAN] ', '[GUA] ', '[GUA] ']","['21-13', '21-11']",XD,20170427
-68,"['Ruben Castellanos', 'Nikte Alejandra Sotomayor', 'Ailton Josue Correa Martinez', 'Sabrina Solis']","['[GUA] ', '[GUA] ', '[MEX] ', '[MEX] ']",[],XD,20170427
-69,"['Howard Shu [3]', 'Jamie Subandhi', 'Daniel La Torre Regal', 'Danica Nishimura']","['[USA] ', '[USA] ', '[PER] ', '[PER] ']","['16-21', '21-16', '21-17']",XD,20170427
-70,"['Mario Cuba', 'Katherine Winder', 'Ty Alexander Lindeman', 'Josephine Wu']","['[PER] ', '[PER] ', '[CAN] ', '[CAN] ']","['21-18', '20-22', '21-17']",XD,20170427
-71,"['William Cabrera', 'Licelott Sanchez', 'Mathew Fogarty', 'Isabel Zhong']","['[DOM] ', '[DOM] ', '[USA] ', '[USA] ']","['20-22', '21-13', '21-9']",XD,20170427
-72,"['Lino Munoz', 'Cynthia Gonzalez', 'Gustavo Alfredo Salazar [4]', 'Fernanda Saponara Rivva']","['[MEX] ', '[MEX] ', '[PER] ', '[PER] ']","['21-7', '21-9']",XD,20170427
-73,"['Leodannis Martinez', 'Tahimara Oropeza', 'Angel Herrera Rodríguez', 'Yeily Mari Ortiz Rodriguez']","['[CUB] ', '[CUB] ', '[CUB] ', '[CUB] ']","['21-14', '21-12']",XD,20170427
-74,"['Nyl Yakura [2]', 'Brittney Tam', 'Solis Jonathan', 'Mariana Isabel Paiz Quan']","['[CAN] ', '[CAN] ', '[GUA] ', '[GUA] ']",[],XD,20170427
-75,"['Ygor Coelho [1]', 'Paul-Antoine Dostie-Guindon']","['[BRA] ', '[CAN] ']","['21-14', '21-17']",MS,20170427
-76,"['Leodannis Martinez', 'Howard Shu [3]']","['[CUB] ', '[USA] ']","['24-22', '19-21', '25-23']",MS,20170427
-77,"['Osleni Guerrero [4]', 'Jason Anthony Ho-Shue']","['[CUB] ', '[CAN] ']","['16-21', '21-18', '21-5']",MS,20170427
-78,"['Bjorn Seguin [2]', 'Job Castillo [8]']","['[USA] ', '[MEX] ']","['17-21', '21-14', '21-19']",MS,20170427
-79,"['Brittney Tam', 'Michelle Li [1]']","['[CAN] ', '[CAN] ']","['21-18', '21-15']",WS,20170427
-80,"['Jamie Subandhi', 'Nairoby Abigail Jimenez [3]']","['[USA] ', '[DOM] ']","['21-6', '21-8']",WS,20170427
-81,"['Mariana Ugalde', 'Bermary Altagracia Polanco Munoz [4]']","['[MEX] ', '[DOM] ']","['21-10', '21-9']",WS,20170427
-82,"['Rachel Honderich [2]', 'Sabrina Solis']","['[CAN] ', '[MEX] ']","['21-11', '21-13']",WS,20170427
-83,"['Ruben Castellanos [1]', 'Anibal Marroquin', 'Jose Guevara', 'Daniel La Torre Regal']","['[GUA] ', '[GUA] ', '[PER] ', '[PER] ']","['21-12', '21-12']",MD,20170427
-84,"['Austin James Bauer', 'Ty Alexander Lindeman', 'Lazaro Yovani Madera Padrino', 'Ernesto Reyes']","['[CAN] ', '[CAN] ', '[CUB] ', '[CUB] ']","['21-18', '21-18']",MD,20170427
-85,"['Mario Cuba', 'Diego Mini', 'Solis Jonathan [4]', 'Rodolfo Ramirez']","['[PER] ', '[PER] ', '[GUA] ', '[GUA] ']",[],MD,20170427
-86,"['Jason Anthony Ho-Shue', 'Nyl Yakura', 'Job Castillo [2]', 'Lino Munoz']","['[CAN] ', '[CAN] ', '[MEX] ', '[MEX] ']","['21-10', '21-17']",MD,20170427
-87,"['Michelle Tong [1]', 'Josephine Wu', 'Haramara Gaitan', 'Sabrina Solis']","['[CAN] ', '[CAN] ', '[MEX] ', '[MEX] ']","['21-15', '22-24', '21-12']",WD,20170427
-88,"['Paula La Torre Regal', 'Daniela Zapata', 'Alejandra Jose Paiz Quan', 'Nikte Alejandra Sotomayor']","['[PER] ', '[PER] ', '[GUA] ', '[GUA] ']","['15-21', '21-15', '21-17']",WD,20170427
-89,"['Anne-Julie Beaulieu', 'Stephanie Pakenham', 'Adriana Artiz Ataury', 'Tahimara Oropeza']","['[CAN] ', '[CAN] ', '[CUB] ', '[CUB] ']","['21-11', '21-11']",WD,20170427
-90,"['Daniela Macias [2]', 'Danica Nishimura', 'Cynthia Gonzalez', 'Mariana Ugalde']","['[PER] ', '[PER] ', '[MEX] ', '[MEX] ']","['21-11', '21-16']",WD,20170427
-91,"['Toby Ng [1]', 'Rachel Honderich', 'Ruben Castellanos', 'Nikte Alejandra Sotomayor']","['[CAN] ', '[CAN] ', '[GUA] ', '[GUA] ']","['21-9', '21-14']",XD,20170427
-92,"['Mario Cuba', 'Katherine Winder', 'Howard Shu [3]', 'Jamie Subandhi']","['[PER] ', '[PER] ', '[USA] ', '[USA] ']","['21-15', '21-14']",XD,20170427
-93,"['Lino Munoz', 'Cynthia Gonzalez', 'William Cabrera', 'Licelott Sanchez']","['[MEX] ', '[MEX] ', '[DOM] ', '[DOM] ']","['21-11', '18-21', '21-16']",XD,20170427
-94,"['Nyl Yakura [2]', 'Brittney Tam', 'Leodannis Martinez', 'Tahimara Oropeza']","['[CAN] ', '[CAN] ', '[CUB] ', '[CUB] ']","['21-15', '15-21', '21-15']",XD,20170427
-95,"['Rachel Honderich [2]', 'Mariana Ugalde']","['[CAN] ', '[MEX] ']","['21-14', '21-10']",WS ,20170427
-96,"['Jason Anthony Ho-Shue', 'Nyl Yakura', 'Mario Cuba', 'Diego Mini']","['[CAN] ', '[CAN] ', '[PER] ', '[PER] ']","['21-8', '21-14']",MD ,20170427
-97,"['Osleni Guerrero [4]', 'Bjorn Seguin [2]']","['[CUB] ', '[USA] ']","['21-14', '21-13']",MS ,20170427
-98,"['Michelle Tong [1]', 'Josephine Wu', 'Paula La Torre Regal', 'Daniela Zapata']","['[CAN] ', '[CAN] ', '[PER] ', '[PER] ']","['21-14', '21-13']",WD ,20170427
-99,"['Nyl Yakura [2]', 'Brittney Tam', 'Lino Munoz', 'Cynthia Gonzalez']","['[CAN] ', '[CAN] ', '[MEX] ', '[MEX] ']","['21-16', '21-16']",XD ,20170427
-100,"['Brittney Tam', 'Jamie Subandhi']","['[CAN] ', '[USA] ']","['21-15', '21-15']",WS ,20170427
-101,"['Austin James Bauer', 'Ty Alexander Lindeman', 'Ruben Castellanos [1]', 'Anibal Marroquin']","['[CAN] ', '[CAN] ', '[GUA] ', '[GUA] ']","['21-18', '21-12']",MD ,20170427
-102,"['Ygor Coelho [1]', 'Leodannis Martinez']","['[BRA] ', '[CUB] ']","['21-6', '21-18']",MS ,20170427
-103,"['Daniela Macias [2]', 'Danica Nishimura', 'Anne-Julie Beaulieu', 'Stephanie Pakenham']","['[PER] ', '[PER] ', '[CAN] ', '[CAN] ']","['19-21', '22-20', '21-15']",WD ,20170427
-104,"['Toby Ng [1]', 'Rachel Honderich', 'Mario Cuba', 'Katherine Winder']","['[CAN] ', '[CAN] ', '[PER] ', '[PER] ']","['21-13', '21-8']",XD ,20170427
-105,"['Rachel Honderich [2]', 'Brittney Tam']","['[CAN] ', '[CAN] ']","['21-8', '12-21', '21-7']",WS ,20170427
-106,"['Jason Anthony Ho-Shue', 'Nyl Yakura', 'Austin James Bauer', 'Ty Alexander Lindeman']","['[CAN] ', '[CAN] ', '[CAN] ', '[CAN] ']","['21-18', '21-6']",MD ,20170427
-107,"['Ygor Coelho [1]', 'Osleni Guerrero [4]']","['[BRA] ', '[CUB] ']","['12-21', '21-16', '21-10']",MS ,20170427
-108,"['Michelle Tong [1]', 'Josephine Wu', 'Daniela Macias [2]', 'Danica Nishimura']","['[CAN] ', '[CAN] ', '[PER] ', '[PER] ']","['21-11', '21-12']",WD ,20170427
-109,"['Toby Ng [1]', 'Rachel Honderich', 'Nyl Yakura [2]', 'Brittney Tam']","['[CAN] ', '[CAN] ', '[CAN] ', '[CAN] ']","['21-13', '21-14']",XD ,20170427
+,PLAYERS,COUNTRIES,SCORES,EVENT,match_week,match_location
+0,"['Jason Anthony Ho-Shue', 'Diego Mini']","['[CAN] ', '[PER] ']","['21-15', '21-10']",MS,20170427,"Havana , Cuba"
+1,"['Haramara Gaitan', 'Paula La Torre Regal']","['[MEX] ', '[PER] ']","['23-21', '21-11']",WS,20170427,"Havana , Cuba"
+2,"['Brittney Tam', 'Daniela Macias']","['[CAN] ', '[PER] ']","['21-14', '21-11']",WS,20170427,"Havana , Cuba"
+3,"['Stephanie Pakenham', 'Adriana Artiz Ataury']","['[CAN] ', '[CUB] ']","['21-18', '21-14']",WS,20170427,"Havana , Cuba"
+4,"['Alejandra Jose Paiz Quan', 'Noemi Almonte']","['[GUA] ', '[DOM] ']","['21-15', '21-18']",WS,20170427,"Havana , Cuba"
+5,"['Tahimara Oropeza', 'Nikte Alejandra Sotomayor']","['[CUB] ', '[GUA] ']","['21-12', '21-14']",WS,20170427,"Havana , Cuba"
+6,"['Jamie Subandhi', 'Maria Delia Zambrano']","['[USA] ', '[ECU] ']","['21-16', '21-8']",WS,20170427,"Havana , Cuba"
+7,"['Cynthia Gonzalez', 'Camila Macaya']","['[MEX] ', '[CHI] ']","['21-9', '21-17']",WS,20170427,"Havana , Cuba"
+8,"['Mariana Ugalde', 'Disha Gupta']","['[MEX] ', '[USA] ']","['21-17', '21-14']",WS,20170427,"Havana , Cuba"
+9,"['Fernanda Saponara Rivva', 'Diana Corleto Soto']","['[PER] ', '[GUA] ']","['21-11', '21-12']",WS,20170427,"Havana , Cuba"
+10,"['Yeily Mari Ortiz Rodriguez', 'Mariana Isabel Paiz Quan']","['[CUB] ', '[GUA] ']","['21-11', '21-6']",WS,20170427,"Havana , Cuba"
+11,"['Sabrina Solis', 'Thalia Mengana Marrero']","['[MEX] ', '[CUB] ']","['21-9', '21-16']",WS,20170427,"Havana , Cuba"
+12,"['Isabel Zhong', 'Daniela Zapata']","['[USA] ', '[PER] ']","['21-15', '21-9']",WS,20170427,"Havana , Cuba"
+13,"['Ygor Coelho [1]', 'Nicolas Macias']","['[BRA] ', '[PER] ']","['21-13', '21-9']",MS,20170427,"Havana , Cuba"
+14,"['Cristian Araya', 'Angel Herrera Rodríguez']","['[CHI] ', '[CUB] ']","['22-20', '16-21', '23-21']",MS,20170427,"Havana , Cuba"
+15,"['Anibal Marroquin [7]', 'Yamit Gironza']","['[GUA] ', '[COL] ']",[],MS,20170427,"Havana , Cuba"
+16,"['Paul-Antoine Dostie-Guindon', 'Mathew Fogarty']","['[CAN] ', '[USA] ']","['21-5', '21-9']",MS,20170427,"Havana , Cuba"
+17,"['Howard Shu [3]', 'Luke Couture']","['[USA] ', '[CAN] ']","['21-12', '21-19']",MS,20170427,"Havana , Cuba"
+18,"['Alonso Medel', 'Jose Guevara']","['[CHI] ', '[PER] ']","['21-19', '21-19']",MS,20170427,"Havana , Cuba"
+19,"['Lino Munoz [6]', 'Daniel La Torre Regal']","['[MEX] ', '[PER] ']","['21-17', '21-11']",MS,20170427,"Havana , Cuba"
+20,"['Leodannis Martinez', 'Cesar Adonis Brito Gonzalez']","['[CUB] ', '[DOM] ']","['21-15', '21-10']",MS,20170427,"Havana , Cuba"
+21,"['Jason Anthony Ho-Shue', 'William Cabrera']","['[CAN] ', '[DOM] ']","['21-14', '21-10']",MS,20170427,"Havana , Cuba"
+22,"['Ruben Castellanos [5]', 'Sebastian Andrade']","['[GUA] ', '[COL] ']",[],MS,20170427,"Havana , Cuba"
+23,"['Rodolfo Ramirez', 'Francisco Rafael Trevino Buenrostro']","['[GUA] ', '[MEX] ']","['21-14', '21-17']",MS,20170427,"Havana , Cuba"
+24,"['Osleni Guerrero [4]', 'Lucas Constant Da Silva']","['[CUB] ', '[BRA] ']","['21-13', '21-13']",MS,20170427,"Havana , Cuba"
+25,"['Ivan Leon', 'Ailton Josue Correa Martinez']","['[CHI] ', '[MEX] ']",[],MS,20170427,"Havana , Cuba"
+26,"['Job Castillo [8]', 'Lazaro Yovani Madera Padrino']","['[MEX] ', '[CUB] ']","['21-14', '21-15']",MS,20170427,"Havana , Cuba"
+27,"['Nelson Javier', 'Angel Argenis Marinez Ulloa']","['[DOM] ', '[DOM] ']","['21-12', '15-21', '21-3']",MS,20170427,"Havana , Cuba"
+28,"['Bjorn Seguin [2]', 'Andrew Zhuang']","['[USA] ', '[CAN] ']","['21-12', '21-12']",MS,20170427,"Havana , Cuba"
+29,"['Michelle Li [1]', 'Haramara Gaitan']","['[CAN] ', '[MEX] ']","['21-12', '21-17']",WS,20170427,"Havana , Cuba"
+30,"['Brittney Tam', 'Stephanie Pakenham']","['[CAN] ', '[CAN] ']","['21-14', '21-9']",WS,20170427,"Havana , Cuba"
+31,"['Nairoby Abigail Jimenez [3]', 'Alejandra Jose Paiz Quan']","['[DOM] ', '[GUA] ']","['21-13', '21-6']",WS,20170427,"Havana , Cuba"
+32,"['Jamie Subandhi', 'Tahimara Oropeza']","['[USA] ', '[CUB] ']","['21-15', '21-14']",WS,20170427,"Havana , Cuba"
+33,"['Mariana Ugalde', 'Cynthia Gonzalez']","['[MEX] ', '[MEX] ']","['21-8', '21-5']",WS,20170427,"Havana , Cuba"
+34,"['Bermary Altagracia Polanco Munoz [4]', 'Fernanda Saponara Rivva']","['[DOM] ', '[PER] ']","['21-14', '12-21', '24-22']",WS,20170427,"Havana , Cuba"
+35,"['Sabrina Solis', 'Yeily Mari Ortiz Rodriguez']","['[MEX] ', '[CUB] ']","['27-25', '21-12']",WS,20170427,"Havana , Cuba"
+36,"['Rachel Honderich [2]', 'Isabel Zhong']","['[CAN] ', '[USA] ']","['21-12', '21-12']",WS,20170427,"Havana , Cuba"
+37,"['Osleni Guerrero', 'Leodannis Martinez', 'Sebastian Andrade', 'Yamit Gironza']","['[CUB] ', '[CUB] ', '[COL] ', '[COL] ']",[],MD,20170427,"Havana , Cuba"
+38,"['Rodolfo Ramirez', 'Alejandra Jose Paiz Quan', 'Francisco Rafael Trevino Buenrostro', 'Mariana Ugalde']","['[GUA] ', '[GUA] ', '[MEX] ', '[MEX] ']","['14-21', '21-11', '21-13']",XD,20170427,"Havana , Cuba"
+39,"['Ruben Castellanos', 'Nikte Alejandra Sotomayor', 'Lazaro Yovani Madera Padrino', 'Thalia Mengana Marrero']","['[GUA] ', '[GUA] ', '[CUB] ', '[CUB] ']","['21-12', '21-16']",XD,20170427,"Havana , Cuba"
+40,"['Daniel La Torre Regal', 'Danica Nishimura', 'Cesar Adonis Brito Gonzalez', 'Nairoby Abigail Jimenez']","['[PER] ', '[PER] ', '[DOM] ', '[DOM] ']","['21-16', '21-10']",XD,20170427,"Havana , Cuba"
+41,"['Ty Alexander Lindeman', 'Josephine Wu', 'Ernesto Reyes', 'Adriana Artiz Ataury']","['[CAN] ', '[CAN] ', '[CUB] ', '[CUB] ']","['19-21', '21-11', '21-11']",XD,20170427,"Havana , Cuba"
+42,"['William Cabrera', 'Licelott Sanchez', 'Diego Mini', 'Paula La Torre Regal']","['[DOM] ', '[DOM] ', '[PER] ', '[PER] ']","['22-20', '22-20']",XD,20170427,"Havana , Cuba"
+43,"['Mathew Fogarty', 'Isabel Zhong', 'Angel Argenis Marinez Ulloa', 'Bermary Altagracia Polanco Munoz']","['[USA] ', '[USA] ', '[DOM] ', '[DOM] ']","['18-21', '21-10', '21-18']",XD,20170427,"Havana , Cuba"
+44,"['Lino Munoz', 'Cynthia Gonzalez', 'Anibal Marroquin', 'Diana Corleto Soto']","['[MEX] ', '[MEX] ', '[GUA] ', '[GUA] ']","['21-10', '23-21']",XD,20170427,"Havana , Cuba"
+45,"['Leodannis Martinez', 'Tahimara Oropeza', 'Ivan Leon', 'Camila Macaya']","['[CUB] ', '[CUB] ', '[CHI] ', '[CHI] ']","['21-16', '21-11']",XD,20170427,"Havana , Cuba"
+46,"['Solis Jonathan', 'Mariana Isabel Paiz Quan', 'Job Castillo', 'Haramara Gaitan']","['[GUA] ', '[GUA] ', '[MEX] ', '[MEX] ']","['24-22', '22-20']",XD,20170427,"Havana , Cuba"
+47,"['Ygor Coelho [1]', 'Cristian Araya']","['[BRA] ', '[CHI] ']","['21-12', '21-10']",MS,20170427,"Havana , Cuba"
+48,"['Paul-Antoine Dostie-Guindon', 'Anibal Marroquin [7]']","['[CAN] ', '[GUA] ']","['12-21', '22-20', '21-14']",MS,20170427,"Havana , Cuba"
+49,"['Howard Shu [3]', 'Alonso Medel']","['[USA] ', '[CHI] ']","['21-14', '21-15']",MS,20170427,"Havana , Cuba"
+50,"['Leodannis Martinez', 'Lino Munoz [6]']","['[CUB] ', '[MEX] ']","['21-19', '21-10']",MS,20170427,"Havana , Cuba"
+51,"['Jason Anthony Ho-Shue', 'Ruben Castellanos [5]']","['[CAN] ', '[GUA] ']","['21-13', '21-8']",MS,20170427,"Havana , Cuba"
+52,"['Osleni Guerrero [4]', 'Rodolfo Ramirez']","['[CUB] ', '[GUA] ']","['21-11', '17-21', '21-16']",MS,20170427,"Havana , Cuba"
+53,"['Job Castillo [8]', 'Ivan Leon']","['[MEX] ', '[CHI] ']","['21-4', '21-9']",MS,20170427,"Havana , Cuba"
+54,"['Bjorn Seguin [2]', 'Nelson Javier']","['[USA] ', '[DOM] ']","['21-10', '21-9']",MS,20170427,"Havana , Cuba"
+55,"['Haramara Gaitan', 'Sabrina Solis', 'Noemi Almonte', 'Bermary Altagracia Polanco Munoz']","['[MEX] ', '[MEX] ', '[DOM] ', '[DOM] ']","['24-22', '21-18']",WD,20170427,"Havana , Cuba"
+56,"['Alejandra Jose Paiz Quan', 'Nikte Alejandra Sotomayor', 'Thalia Mengana Marrero', 'Yeily Mari Ortiz Rodriguez']","['[GUA] ', '[GUA] ', '[CUB] ', '[CUB] ']","['12-21', '21-13', '21-10']",WD,20170427,"Havana , Cuba"
+57,"['Anne-Julie Beaulieu', 'Stephanie Pakenham', 'Nairoby Abigail Jimenez', 'Licelott Sanchez']","['[CAN] ', '[CAN] ', '[DOM] ', '[DOM] ']","['21-10', '21-16']",WD,20170427,"Havana , Cuba"
+58,"['Cynthia Gonzalez', 'Mariana Ugalde', 'Diana Corleto Soto', 'Mariana Isabel Paiz Quan']","['[MEX] ', '[MEX] ', '[GUA] ', '[GUA] ']","['21-23', '21-17', '21-8']",WD,20170427,"Havana , Cuba"
+59,"['Ruben Castellanos [1]', 'Anibal Marroquin', 'Cristian Araya', 'Alonso Medel']","['[GUA] ', '[GUA] ', '[CHI] ', '[CHI] ']","['23-21', '21-9']",MD,20170427,"Havana , Cuba"
+60,"['Jose Guevara', 'Daniel La Torre Regal', 'Ailton Josue Correa Martinez', 'Francisco Rafael Trevino Buenrostro']","['[PER] ', '[PER] ', '[MEX] ', '[MEX] ']",[],MD,20170427,"Havana , Cuba"
+61,"['Lazaro Yovani Madera Padrino', 'Ernesto Reyes', 'William Cabrera [3]', 'Nelson Javier']","['[CUB] ', '[CUB] ', '[DOM] ', '[DOM] ']","['19-21', '21-15', '24-22']",MD,20170427,"Havana , Cuba"
+62,"['Austin James Bauer', 'Ty Alexander Lindeman', 'Phillip Chew', 'Ryan Chew']","['[CAN] ', '[CAN] ', '[USA] ', '[USA] ']","['16-21', '26-24', '22-20']",MD,20170427,"Havana , Cuba"
+63,"['Mario Cuba', 'Diego Mini', 'Osleni Guerrero', 'Leodannis Martinez']","['[PER] ', '[PER] ', '[CUB] ', '[CUB] ']","['20-22', '21-16', '21-18']",MD,20170427,"Havana , Cuba"
+64,"['Solis Jonathan [4]', 'Rodolfo Ramirez', 'Cesar Adonis Brito Gonzalez', 'Angel Argenis Marinez Ulloa']","['[GUA] ', '[GUA] ', '[DOM] ', '[DOM] ']","['21-17', '21-12']",MD,20170427,"Havana , Cuba"
+65,"['Jason Anthony Ho-Shue', 'Nyl Yakura', 'Ygor Coelho', 'Lucas Constant Da Silva']","['[CAN] ', '[CAN] ', '[BRA] ', '[BRA] ']","['21-7', '21-13']",MD,20170427,"Havana , Cuba"
+66,"['Job Castillo [2]', 'Lino Munoz', 'Mathew Fogarty', 'Bjorn Seguin']","['[MEX] ', '[MEX] ', '[USA] ', '[USA] ']","['21-13', '21-18']",MD,20170427,"Havana , Cuba"
+67,"['Toby Ng [1]', 'Rachel Honderich', 'Rodolfo Ramirez', 'Alejandra Jose Paiz Quan']","['[CAN] ', '[CAN] ', '[GUA] ', '[GUA] ']","['21-13', '21-11']",XD,20170427,"Havana , Cuba"
+68,"['Ruben Castellanos', 'Nikte Alejandra Sotomayor', 'Ailton Josue Correa Martinez', 'Sabrina Solis']","['[GUA] ', '[GUA] ', '[MEX] ', '[MEX] ']",[],XD,20170427,"Havana , Cuba"
+69,"['Howard Shu [3]', 'Jamie Subandhi', 'Daniel La Torre Regal', 'Danica Nishimura']","['[USA] ', '[USA] ', '[PER] ', '[PER] ']","['16-21', '21-16', '21-17']",XD,20170427,"Havana , Cuba"
+70,"['Mario Cuba', 'Katherine Winder', 'Ty Alexander Lindeman', 'Josephine Wu']","['[PER] ', '[PER] ', '[CAN] ', '[CAN] ']","['21-18', '20-22', '21-17']",XD,20170427,"Havana , Cuba"
+71,"['William Cabrera', 'Licelott Sanchez', 'Mathew Fogarty', 'Isabel Zhong']","['[DOM] ', '[DOM] ', '[USA] ', '[USA] ']","['20-22', '21-13', '21-9']",XD,20170427,"Havana , Cuba"
+72,"['Lino Munoz', 'Cynthia Gonzalez', 'Gustavo Alfredo Salazar [4]', 'Fernanda Saponara Rivva']","['[MEX] ', '[MEX] ', '[PER] ', '[PER] ']","['21-7', '21-9']",XD,20170427,"Havana , Cuba"
+73,"['Leodannis Martinez', 'Tahimara Oropeza', 'Angel Herrera Rodríguez', 'Yeily Mari Ortiz Rodriguez']","['[CUB] ', '[CUB] ', '[CUB] ', '[CUB] ']","['21-14', '21-12']",XD,20170427,"Havana , Cuba"
+74,"['Nyl Yakura [2]', 'Brittney Tam', 'Solis Jonathan', 'Mariana Isabel Paiz Quan']","['[CAN] ', '[CAN] ', '[GUA] ', '[GUA] ']",[],XD,20170427,"Havana , Cuba"
+75,"['Ygor Coelho [1]', 'Paul-Antoine Dostie-Guindon']","['[BRA] ', '[CAN] ']","['21-14', '21-17']",MS,20170427,"Havana , Cuba"
+76,"['Leodannis Martinez', 'Howard Shu [3]']","['[CUB] ', '[USA] ']","['24-22', '19-21', '25-23']",MS,20170427,"Havana , Cuba"
+77,"['Osleni Guerrero [4]', 'Jason Anthony Ho-Shue']","['[CUB] ', '[CAN] ']","['16-21', '21-18', '21-5']",MS,20170427,"Havana , Cuba"
+78,"['Bjorn Seguin [2]', 'Job Castillo [8]']","['[USA] ', '[MEX] ']","['17-21', '21-14', '21-19']",MS,20170427,"Havana , Cuba"
+79,"['Brittney Tam', 'Michelle Li [1]']","['[CAN] ', '[CAN] ']","['21-18', '21-15']",WS,20170427,"Havana , Cuba"
+80,"['Jamie Subandhi', 'Nairoby Abigail Jimenez [3]']","['[USA] ', '[DOM] ']","['21-6', '21-8']",WS,20170427,"Havana , Cuba"
+81,"['Mariana Ugalde', 'Bermary Altagracia Polanco Munoz [4]']","['[MEX] ', '[DOM] ']","['21-10', '21-9']",WS,20170427,"Havana , Cuba"
+82,"['Rachel Honderich [2]', 'Sabrina Solis']","['[CAN] ', '[MEX] ']","['21-11', '21-13']",WS,20170427,"Havana , Cuba"
+83,"['Ruben Castellanos [1]', 'Anibal Marroquin', 'Jose Guevara', 'Daniel La Torre Regal']","['[GUA] ', '[GUA] ', '[PER] ', '[PER] ']","['21-12', '21-12']",MD,20170427,"Havana , Cuba"
+84,"['Austin James Bauer', 'Ty Alexander Lindeman', 'Lazaro Yovani Madera Padrino', 'Ernesto Reyes']","['[CAN] ', '[CAN] ', '[CUB] ', '[CUB] ']","['21-18', '21-18']",MD,20170427,"Havana , Cuba"
+85,"['Mario Cuba', 'Diego Mini', 'Solis Jonathan [4]', 'Rodolfo Ramirez']","['[PER] ', '[PER] ', '[GUA] ', '[GUA] ']",[],MD,20170427,"Havana , Cuba"
+86,"['Jason Anthony Ho-Shue', 'Nyl Yakura', 'Job Castillo [2]', 'Lino Munoz']","['[CAN] ', '[CAN] ', '[MEX] ', '[MEX] ']","['21-10', '21-17']",MD,20170427,"Havana , Cuba"
+87,"['Michelle Tong [1]', 'Josephine Wu', 'Haramara Gaitan', 'Sabrina Solis']","['[CAN] ', '[CAN] ', '[MEX] ', '[MEX] ']","['21-15', '22-24', '21-12']",WD,20170427,"Havana , Cuba"
+88,"['Paula La Torre Regal', 'Daniela Zapata', 'Alejandra Jose Paiz Quan', 'Nikte Alejandra Sotomayor']","['[PER] ', '[PER] ', '[GUA] ', '[GUA] ']","['15-21', '21-15', '21-17']",WD,20170427,"Havana , Cuba"
+89,"['Anne-Julie Beaulieu', 'Stephanie Pakenham', 'Adriana Artiz Ataury', 'Tahimara Oropeza']","['[CAN] ', '[CAN] ', '[CUB] ', '[CUB] ']","['21-11', '21-11']",WD,20170427,"Havana , Cuba"
+90,"['Daniela Macias [2]', 'Danica Nishimura', 'Cynthia Gonzalez', 'Mariana Ugalde']","['[PER] ', '[PER] ', '[MEX] ', '[MEX] ']","['21-11', '21-16']",WD,20170427,"Havana , Cuba"
+91,"['Toby Ng [1]', 'Rachel Honderich', 'Ruben Castellanos', 'Nikte Alejandra Sotomayor']","['[CAN] ', '[CAN] ', '[GUA] ', '[GUA] ']","['21-9', '21-14']",XD,20170427,"Havana , Cuba"
+92,"['Mario Cuba', 'Katherine Winder', 'Howard Shu [3]', 'Jamie Subandhi']","['[PER] ', '[PER] ', '[USA] ', '[USA] ']","['21-15', '21-14']",XD,20170427,"Havana , Cuba"
+93,"['Lino Munoz', 'Cynthia Gonzalez', 'William Cabrera', 'Licelott Sanchez']","['[MEX] ', '[MEX] ', '[DOM] ', '[DOM] ']","['21-11', '18-21', '21-16']",XD,20170427,"Havana , Cuba"
+94,"['Nyl Yakura [2]', 'Brittney Tam', 'Leodannis Martinez', 'Tahimara Oropeza']","['[CAN] ', '[CAN] ', '[CUB] ', '[CUB] ']","['21-15', '15-21', '21-15']",XD,20170427,"Havana , Cuba"
+95,"['Rachel Honderich [2]', 'Mariana Ugalde']","['[CAN] ', '[MEX] ']","['21-14', '21-10']",WS ,20170427,"Havana , Cuba"
+96,"['Jason Anthony Ho-Shue', 'Nyl Yakura', 'Mario Cuba', 'Diego Mini']","['[CAN] ', '[CAN] ', '[PER] ', '[PER] ']","['21-8', '21-14']",MD ,20170427,"Havana , Cuba"
+97,"['Osleni Guerrero [4]', 'Bjorn Seguin [2]']","['[CUB] ', '[USA] ']","['21-14', '21-13']",MS ,20170427,"Havana , Cuba"
+98,"['Michelle Tong [1]', 'Josephine Wu', 'Paula La Torre Regal', 'Daniela Zapata']","['[CAN] ', '[CAN] ', '[PER] ', '[PER] ']","['21-14', '21-13']",WD ,20170427,"Havana , Cuba"
+99,"['Nyl Yakura [2]', 'Brittney Tam', 'Lino Munoz', 'Cynthia Gonzalez']","['[CAN] ', '[CAN] ', '[MEX] ', '[MEX] ']","['21-16', '21-16']",XD ,20170427,"Havana , Cuba"
+100,"['Brittney Tam', 'Jamie Subandhi']","['[CAN] ', '[USA] ']","['21-15', '21-15']",WS ,20170427,"Havana , Cuba"
+101,"['Austin James Bauer', 'Ty Alexander Lindeman', 'Ruben Castellanos [1]', 'Anibal Marroquin']","['[CAN] ', '[CAN] ', '[GUA] ', '[GUA] ']","['21-18', '21-12']",MD ,20170427,"Havana , Cuba"
+102,"['Ygor Coelho [1]', 'Leodannis Martinez']","['[BRA] ', '[CUB] ']","['21-6', '21-18']",MS ,20170427,"Havana , Cuba"
+103,"['Daniela Macias [2]', 'Danica Nishimura', 'Anne-Julie Beaulieu', 'Stephanie Pakenham']","['[PER] ', '[PER] ', '[CAN] ', '[CAN] ']","['19-21', '22-20', '21-15']",WD ,20170427,"Havana , Cuba"
+104,"['Toby Ng [1]', 'Rachel Honderich', 'Mario Cuba', 'Katherine Winder']","['[CAN] ', '[CAN] ', '[PER] ', '[PER] ']","['21-13', '21-8']",XD ,20170427,"Havana , Cuba"
+105,"['Rachel Honderich [2]', 'Brittney Tam']","['[CAN] ', '[CAN] ']","['21-8', '12-21', '21-7']",WS ,20170427,"Havana , Cuba"
+106,"['Jason Anthony Ho-Shue', 'Nyl Yakura', 'Austin James Bauer', 'Ty Alexander Lindeman']","['[CAN] ', '[CAN] ', '[CAN] ', '[CAN] ']","['21-18', '21-6']",MD ,20170427,"Havana , Cuba"
+107,"['Ygor Coelho [1]', 'Osleni Guerrero [4]']","['[BRA] ', '[CUB] ']","['12-21', '21-16', '21-10']",MS ,20170427,"Havana , Cuba"
+108,"['Michelle Tong [1]', 'Josephine Wu', 'Daniela Macias [2]', 'Danica Nishimura']","['[CAN] ', '[CAN] ', '[PER] ', '[PER] ']","['21-11', '21-12']",WD ,20170427,"Havana , Cuba"
+109,"['Toby Ng [1]', 'Rachel Honderich', 'Nyl Yakura [2]', 'Brittney Tam']","['[CAN] ', '[CAN] ', '[CAN] ', '[CAN] ']","['21-13', '21-14']",XD ,20170427,"Havana , Cuba"

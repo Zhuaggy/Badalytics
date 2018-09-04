@@ -1,55 +1,55 @@
-,PLAYERS,COUNTRIES,SCORES,EVENT,match_week
-0,"['Ernesto Reyes', 'Luis Armando Montoya Navarro']","['[CUB] ', '[MEX] ']",[],MS,20180314
-1,"['Osvert Riveron', 'Yoel Rosales Macias']","['[USA] ', '[CUB] ']","['21-10', '21-12']",MS,20180314
-2,"['Raciel Verdecia Torres', 'Pedro Arturo Garcia-Flores']","['[CUB] ', '[USA] ']","['21-14', '14-21', '21-18']",MS,20180314
-3,"['Taymara Oropesa Pupo [1]', 'Camila Palacio Reyes']","['[CUB] ', '[CUB] ']","['21-7', '21-2']",WS,20180314
-4,"['Adaivis Robinson Garcia', 'Jacqueline Wendy Myers']","['[CUB] ', '[USA] ']","['21-14', '21-11']",WS,20180314
-5,"['Diana Corleto Soto [3]', 'Marianne Gonzalez Ortiz']","['[GUA] ', '[CUB] ']","['21-7', '21-15']",WS,20180314
-6,"['Yaqueline Duarte', 'Yudima Garcia Valdez']","['[MEX] ', '[CUB] ']","['23-21', '21-17']",WS,20180314
-7,"['Crystal Pan', 'Yeily Mari Ortiz Rodriguez']","['[USA] ', '[CUB] ']","['21-11', '21-3']",WS,20180314
-8,"['Thalia Mengana Marrero', 'Mariana Isabel Paiz Quan [4]']","['[CUB] ', '[GUA] ']","['21-13', '21-14']",WS,20180314
-9,"['Ana Lucia Albanes Cordon', 'Barbara Ines La Rosa Torres']","['[GUA] ', '[CUB] ']","['21-8', '21-18']",WS,20180314
-10,"['Alejandra Jose Paiz Quan [2]', 'Adriana Artiz Ataury']","['[GUA] ', '[CUB] ']","['23-21', '18-21', '21-18']",WS,20180314
-11,"['Angel Herrera Rodríguez [4]', 'Roberto Carlos Herrera Vazquez']","['[CUB] ', '[CUB] ']","['21-13', '21-10']",MS,20180314
-12,"['Daniel Ferrer Cepero', 'Enrique Iglesia Cordero']","['[CUB] ', '[CUB] ']","['21-14', '21-17']",MS,20180314
-13,"['Osvert Riveron', 'Daimel Roll']","['[USA] ', '[CUB] ']","['21-14', '22-20']",MS,20180314
-14,"['Xiaodong Sheng', 'Osleni Guerrero [1]']","['[CAN] ', '[CUB] ']","['21-17', '14-21', '21-17']",MS,20180314
-15,"['Kyle Alexander Munoz Seixas', 'Raciel Verdecia Torres']","['[PAN] ', '[CUB] ']","['21-9', '21-9']",MS,20180314
-16,"['Christopher Alexander Martinez Salvador [3]', 'Lazaro Yovani Madera Padrino']","['[GUA] ', '[CUB] ']","['21-14', '21-8']",MS,20180314
-17,"['Ernesto Reyes', 'Kevin Barkman']","['[CUB] ', '[CAN] ']","['21-18', '21-18']",MS,20180314
-18,"['Leodannis Martinez Palacio [2]', 'Manuel Del Rosario Pargas']","['[CUB] ', '[CUB] ']","['21-6', '21-5']",MS,20180314
-19,"['Ernesto Reyes', 'Yeily Mari Ortiz Rodriguez', 'Daniel Ferrer Cepero', 'Adaivis Robinson Garcia']","['[CUB] ', '[CUB] ', '[CUB] ', '[CUB] ']","['21-14', '21-6']",XD,20180314
-20,"['Osleni Guerrero', 'Adriana Artiz Ataury', 'Daimel Roll', 'Barbara Ines La Rosa Torres']","['[CUB] ', '[CUB] ', '[CUB] ', '[CUB] ']","['21-5', '21-9']",XD,20180314
-21,"['Xiaodong Sheng', 'Daniel Ferrer Cepero']","['[CAN] ', '[CUB] ']","['21-4', '21-10']",MS,20180314
-22,"['Angel Herrera Rodríguez [4]', 'Osvert Riveron']","['[CUB] ', '[USA] ']","['21-12', '14-21', '21-18']",MS,20180314
-23,"['Christopher Alexander Martinez Salvador [3]', 'Kyle Alexander Munoz Seixas']","['[GUA] ', '[PAN] ']","['21-10', '21-15']",MS,20180314
-24,"['Leodannis Martinez Palacio [2]', 'Ernesto Reyes']","['[CUB] ', '[CUB] ']","['21-10', '21-13']",MS,20180314
-25,"['Taymara Oropesa Pupo [1]', 'Adaivis Robinson Garcia']","['[CUB] ', '[CUB] ']","['21-4', '21-5']",WS,20180314
-26,"['Yaqueline Duarte', 'Diana Corleto Soto [3]']","['[MEX] ', '[GUA] ']","['21-13', '21-17']",WS,20180314
-27,"['Crystal Pan', 'Thalia Mengana Marrero']","['[USA] ', '[CUB] ']","['21-9', '21-10']",WS,20180314
-28,"['Alejandra Jose Paiz Quan [2]', 'Ana Lucia Albanes Cordon']","['[GUA] ', '[GUA] ']","['21-18', '21-13']",WS,20180314
-29,"['Stefan Cabrera Segura', 'Daniel Valdes Perez', 'Manuel Del Rosario Pargas', 'Enrique Iglesia Cordero']","['[CUB] ', '[CUB] ', '[CUB] ', '[CUB] ']","['16-21', '21-15', '21-13']",MD,20180314
-30,"['Angel Herrera Rodríguez', 'Daimel Roll', 'Yoel Rosales Macias', 'Raciel Verdecia Torres']","['[CUB] ', '[CUB] ', '[CUB] ', '[CUB] ']","['21-15', '21-14']",MD,20180314
-31,"['Lazaro Yovani Madera Padrino [2]', 'Ernesto Reyes', 'Daniel Ferrer Cepero', 'Roberto Carlos Herrera Vazquez']","['[CUB] ', '[CUB] ', '[CUB] ', '[CUB] ']","['21-17', '21-19']",MD,20180314
-32,"['Thalia Mengana Marrero', 'Taymara Oropesa Pupo', 'Marianne Gonzalez Ortiz', 'Barbara Ines La Rosa Torres']","['[CUB] ', '[CUB] ', '[CUB] ', '[CUB] ']","['21-7', '21-5']",WD,20180314
-33,"['Yudima Garcia Valdez', 'Camila Palacio Reyes', 'Melody Melendez Rodriguez', 'Adaivis Robinson Garcia']","['[CUB] ', '[CUB] ', '[CUB] ', '[CUB] ']","['21-14', '21-15']",WD,20180314
-34,"['Adriana Artiz Ataury', 'Yeily Mari Ortiz Rodriguez', 'Ana Lucia Albanes Cordon [2]', 'Alejandra Jose Paiz Quan']","['[CUB] ', '[CUB] ', '[GUA] ', '[GUA] ']","['21-5', '21-9']",WD,20180314
-35,"['Osleni Guerrero', 'Adriana Artiz Ataury', 'Lazaro Yovani Madera Padrino', 'Thalia Mengana Marrero']","['[CUB] ', '[CUB] ', '[CUB] ', '[CUB] ']","['21-19', '21-4']",XD,20180314
-36,"['Leodannis Martinez Palacio [1]', 'Taymara Oropesa Pupo', 'Angel Herrera Rodríguez', 'Marianne Gonzalez Ortiz']","['[CUB] ', '[CUB] ', '[CUB] ', '[CUB] ']","['21-10', '21-4']",XD,20180314
-37,"['Roberto Carlos Herrera Vazquez', 'Yudima Garcia Valdez', 'Pedro Arturo Garcia-Flores [2]', 'Jacqueline Wendy Myers']","['[CUB] ', '[CUB] ', '[USA] ', '[USA] ']","['21-10', '21-7']",XD,20180314
-38,"['Ernesto Reyes', 'Yeily Mari Ortiz Rodriguez', 'Yoel Rosales Macias', 'Camila Palacio Reyes']","['[CUB] ', '[CUB] ', '[CUB] ', '[CUB] ']","['21-9', '21-7']",XD,20180314
-39,"['Leodannis Martinez Palacio [2]', 'Christopher Alexander Martinez Salvador [3]']","['[CUB] ', '[GUA] ']","['21-11', '21-12']",MS ,20180314
-40,"['Taymara Oropesa Pupo [1]', 'Yaqueline Duarte']","['[CUB] ', '[MEX] ']","['21-8', '21-16']",WS ,20180314
-41,"['Lazaro Yovani Madera Padrino [2]', 'Ernesto Reyes', 'Angel Herrera Rodríguez', 'Daimel Roll']","['[CUB] ', '[CUB] ', '[CUB] ', '[CUB] ']","['21-12', '21-17']",MD ,20180314
-42,"['Thalia Mengana Marrero', 'Taymara Oropesa Pupo', 'Diana Corleto Soto [1]', 'Mariana Isabel Paiz Quan']","['[CUB] ', '[CUB] ', '[GUA] ', '[GUA] ']","['21-12', '21-15']",WD ,20180314
-43,"['Leodannis Martinez Palacio [1]', 'Taymara Oropesa Pupo', 'Ernesto Reyes', 'Yeily Mari Ortiz Rodriguez']","['[CUB] ', '[CUB] ', '[CUB] ', '[CUB] ']","['21-14', '21-14']",XD ,20180314
-44,"['Xiaodong Sheng', 'Angel Herrera Rodríguez [4]']","['[CAN] ', '[CUB] ']","['21-17', '21-6']",MS ,20180314
-45,"['Crystal Pan', 'Alejandra Jose Paiz Quan [2]']","['[USA] ', '[GUA] ']","['21-3', '21-10']",WS ,20180314
-46,"['Osleni Guerrero [1]', 'Leodannis Martinez Palacio', 'Stefan Cabrera Segura', 'Daniel Valdes Perez']","['[CUB] ', '[CUB] ', '[CUB] ', '[CUB] ']","['21-4', '21-9']",MD ,20180314
-47,"['Adriana Artiz Ataury', 'Yeily Mari Ortiz Rodriguez', 'Yudima Garcia Valdez', 'Camila Palacio Reyes']","['[CUB] ', '[CUB] ', '[CUB] ', '[CUB] ']","['21-9', '21-10']",WD ,20180314
-48,"['Osleni Guerrero', 'Adriana Artiz Ataury', 'Roberto Carlos Herrera Vazquez', 'Yudima Garcia Valdez']","['[CUB] ', '[CUB] ', '[CUB] ', '[CUB] ']","['21-8', '21-11']",XD ,20180314
-49,"['Xiaodong Sheng', 'Leodannis Martinez Palacio [2]']","['[CAN] ', '[CUB] ']","['21-17', '21-13']",MS ,20180314
-50,"['Crystal Pan', 'Taymara Oropesa Pupo [1]']","['[USA] ', '[CUB] ']","['21-6', '21-13']",WS ,20180314
-51,"['Osleni Guerrero [1]', 'Leodannis Martinez Palacio', 'Lazaro Yovani Madera Padrino [2]', 'Ernesto Reyes']","['[CUB] ', '[CUB] ', '[CUB] ', '[CUB] ']","['21-10', '21-16']",MD ,20180314
-52,"['Thalia Mengana Marrero', 'Taymara Oropesa Pupo', 'Adriana Artiz Ataury', 'Yeily Mari Ortiz Rodriguez']","['[CUB] ', '[CUB] ', '[CUB] ', '[CUB] ']","['21-19', '19-21', '21-19']",WD ,20180314
-53,"['Osleni Guerrero', 'Adriana Artiz Ataury', 'Leodannis Martinez Palacio [1]', 'Taymara Oropesa Pupo']","['[CUB] ', '[CUB] ', '[CUB] ', '[CUB] ']","['21-13', '13-21', '21-19']",XD ,20180314
+,PLAYERS,COUNTRIES,SCORES,EVENT,match_week,match_location
+0,"['Ernesto Reyes', 'Luis Armando Montoya Navarro']","['[CUB] ', '[MEX] ']",[],MS,20180314,"La Habana, Cuba"
+1,"['Osvert Riveron', 'Yoel Rosales Macias']","['[USA] ', '[CUB] ']","['21-10', '21-12']",MS,20180314,"La Habana, Cuba"
+2,"['Raciel Verdecia Torres', 'Pedro Arturo Garcia-Flores']","['[CUB] ', '[USA] ']","['21-14', '14-21', '21-18']",MS,20180314,"La Habana, Cuba"
+3,"['Taymara Oropesa Pupo [1]', 'Camila Palacio Reyes']","['[CUB] ', '[CUB] ']","['21-7', '21-2']",WS,20180314,"La Habana, Cuba"
+4,"['Adaivis Robinson Garcia', 'Jacqueline Wendy Myers']","['[CUB] ', '[USA] ']","['21-14', '21-11']",WS,20180314,"La Habana, Cuba"
+5,"['Diana Corleto Soto [3]', 'Marianne Gonzalez Ortiz']","['[GUA] ', '[CUB] ']","['21-7', '21-15']",WS,20180314,"La Habana, Cuba"
+6,"['Yaqueline Duarte', 'Yudima Garcia Valdez']","['[MEX] ', '[CUB] ']","['23-21', '21-17']",WS,20180314,"La Habana, Cuba"
+7,"['Crystal Pan', 'Yeily Mari Ortiz Rodriguez']","['[USA] ', '[CUB] ']","['21-11', '21-3']",WS,20180314,"La Habana, Cuba"
+8,"['Thalia Mengana Marrero', 'Mariana Isabel Paiz Quan [4]']","['[CUB] ', '[GUA] ']","['21-13', '21-14']",WS,20180314,"La Habana, Cuba"
+9,"['Ana Lucia Albanes Cordon', 'Barbara Ines La Rosa Torres']","['[GUA] ', '[CUB] ']","['21-8', '21-18']",WS,20180314,"La Habana, Cuba"
+10,"['Alejandra Jose Paiz Quan [2]', 'Adriana Artiz Ataury']","['[GUA] ', '[CUB] ']","['23-21', '18-21', '21-18']",WS,20180314,"La Habana, Cuba"
+11,"['Angel Herrera Rodríguez [4]', 'Roberto Carlos Herrera Vazquez']","['[CUB] ', '[CUB] ']","['21-13', '21-10']",MS,20180314,"La Habana, Cuba"
+12,"['Daniel Ferrer Cepero', 'Enrique Iglesia Cordero']","['[CUB] ', '[CUB] ']","['21-14', '21-17']",MS,20180314,"La Habana, Cuba"
+13,"['Osvert Riveron', 'Daimel Roll']","['[USA] ', '[CUB] ']","['21-14', '22-20']",MS,20180314,"La Habana, Cuba"
+14,"['Xiaodong Sheng', 'Osleni Guerrero [1]']","['[CAN] ', '[CUB] ']","['21-17', '14-21', '21-17']",MS,20180314,"La Habana, Cuba"
+15,"['Kyle Alexander Munoz Seixas', 'Raciel Verdecia Torres']","['[PAN] ', '[CUB] ']","['21-9', '21-9']",MS,20180314,"La Habana, Cuba"
+16,"['Christopher Alexander Martinez Salvador [3]', 'Lazaro Yovani Madera Padrino']","['[GUA] ', '[CUB] ']","['21-14', '21-8']",MS,20180314,"La Habana, Cuba"
+17,"['Ernesto Reyes', 'Kevin Barkman']","['[CUB] ', '[CAN] ']","['21-18', '21-18']",MS,20180314,"La Habana, Cuba"
+18,"['Leodannis Martinez Palacio [2]', 'Manuel Del Rosario Pargas']","['[CUB] ', '[CUB] ']","['21-6', '21-5']",MS,20180314,"La Habana, Cuba"
+19,"['Ernesto Reyes', 'Yeily Mari Ortiz Rodriguez', 'Daniel Ferrer Cepero', 'Adaivis Robinson Garcia']","['[CUB] ', '[CUB] ', '[CUB] ', '[CUB] ']","['21-14', '21-6']",XD,20180314,"La Habana, Cuba"
+20,"['Osleni Guerrero', 'Adriana Artiz Ataury', 'Daimel Roll', 'Barbara Ines La Rosa Torres']","['[CUB] ', '[CUB] ', '[CUB] ', '[CUB] ']","['21-5', '21-9']",XD,20180314,"La Habana, Cuba"
+21,"['Xiaodong Sheng', 'Daniel Ferrer Cepero']","['[CAN] ', '[CUB] ']","['21-4', '21-10']",MS,20180314,"La Habana, Cuba"
+22,"['Angel Herrera Rodríguez [4]', 'Osvert Riveron']","['[CUB] ', '[USA] ']","['21-12', '14-21', '21-18']",MS,20180314,"La Habana, Cuba"
+23,"['Christopher Alexander Martinez Salvador [3]', 'Kyle Alexander Munoz Seixas']","['[GUA] ', '[PAN] ']","['21-10', '21-15']",MS,20180314,"La Habana, Cuba"
+24,"['Leodannis Martinez Palacio [2]', 'Ernesto Reyes']","['[CUB] ', '[CUB] ']","['21-10', '21-13']",MS,20180314,"La Habana, Cuba"
+25,"['Taymara Oropesa Pupo [1]', 'Adaivis Robinson Garcia']","['[CUB] ', '[CUB] ']","['21-4', '21-5']",WS,20180314,"La Habana, Cuba"
+26,"['Yaqueline Duarte', 'Diana Corleto Soto [3]']","['[MEX] ', '[GUA] ']","['21-13', '21-17']",WS,20180314,"La Habana, Cuba"
+27,"['Crystal Pan', 'Thalia Mengana Marrero']","['[USA] ', '[CUB] ']","['21-9', '21-10']",WS,20180314,"La Habana, Cuba"
+28,"['Alejandra Jose Paiz Quan [2]', 'Ana Lucia Albanes Cordon']","['[GUA] ', '[GUA] ']","['21-18', '21-13']",WS,20180314,"La Habana, Cuba"
+29,"['Stefan Cabrera Segura', 'Daniel Valdes Perez', 'Manuel Del Rosario Pargas', 'Enrique Iglesia Cordero']","['[CUB] ', '[CUB] ', '[CUB] ', '[CUB] ']","['16-21', '21-15', '21-13']",MD,20180314,"La Habana, Cuba"
+30,"['Angel Herrera Rodríguez', 'Daimel Roll', 'Yoel Rosales Macias', 'Raciel Verdecia Torres']","['[CUB] ', '[CUB] ', '[CUB] ', '[CUB] ']","['21-15', '21-14']",MD,20180314,"La Habana, Cuba"
+31,"['Lazaro Yovani Madera Padrino [2]', 'Ernesto Reyes', 'Daniel Ferrer Cepero', 'Roberto Carlos Herrera Vazquez']","['[CUB] ', '[CUB] ', '[CUB] ', '[CUB] ']","['21-17', '21-19']",MD,20180314,"La Habana, Cuba"
+32,"['Thalia Mengana Marrero', 'Taymara Oropesa Pupo', 'Marianne Gonzalez Ortiz', 'Barbara Ines La Rosa Torres']","['[CUB] ', '[CUB] ', '[CUB] ', '[CUB] ']","['21-7', '21-5']",WD,20180314,"La Habana, Cuba"
+33,"['Yudima Garcia Valdez', 'Camila Palacio Reyes', 'Melody Melendez Rodriguez', 'Adaivis Robinson Garcia']","['[CUB] ', '[CUB] ', '[CUB] ', '[CUB] ']","['21-14', '21-15']",WD,20180314,"La Habana, Cuba"
+34,"['Adriana Artiz Ataury', 'Yeily Mari Ortiz Rodriguez', 'Ana Lucia Albanes Cordon [2]', 'Alejandra Jose Paiz Quan']","['[CUB] ', '[CUB] ', '[GUA] ', '[GUA] ']","['21-5', '21-9']",WD,20180314,"La Habana, Cuba"
+35,"['Osleni Guerrero', 'Adriana Artiz Ataury', 'Lazaro Yovani Madera Padrino', 'Thalia Mengana Marrero']","['[CUB] ', '[CUB] ', '[CUB] ', '[CUB] ']","['21-19', '21-4']",XD,20180314,"La Habana, Cuba"
+36,"['Leodannis Martinez Palacio [1]', 'Taymara Oropesa Pupo', 'Angel Herrera Rodríguez', 'Marianne Gonzalez Ortiz']","['[CUB] ', '[CUB] ', '[CUB] ', '[CUB] ']","['21-10', '21-4']",XD,20180314,"La Habana, Cuba"
+37,"['Roberto Carlos Herrera Vazquez', 'Yudima Garcia Valdez', 'Pedro Arturo Garcia-Flores [2]', 'Jacqueline Wendy Myers']","['[CUB] ', '[CUB] ', '[USA] ', '[USA] ']","['21-10', '21-7']",XD,20180314,"La Habana, Cuba"
+38,"['Ernesto Reyes', 'Yeily Mari Ortiz Rodriguez', 'Yoel Rosales Macias', 'Camila Palacio Reyes']","['[CUB] ', '[CUB] ', '[CUB] ', '[CUB] ']","['21-9', '21-7']",XD,20180314,"La Habana, Cuba"
+39,"['Leodannis Martinez Palacio [2]', 'Christopher Alexander Martinez Salvador [3]']","['[CUB] ', '[GUA] ']","['21-11', '21-12']",MS ,20180314,"La Habana, Cuba"
+40,"['Taymara Oropesa Pupo [1]', 'Yaqueline Duarte']","['[CUB] ', '[MEX] ']","['21-8', '21-16']",WS ,20180314,"La Habana, Cuba"
+41,"['Lazaro Yovani Madera Padrino [2]', 'Ernesto Reyes', 'Angel Herrera Rodríguez', 'Daimel Roll']","['[CUB] ', '[CUB] ', '[CUB] ', '[CUB] ']","['21-12', '21-17']",MD ,20180314,"La Habana, Cuba"
+42,"['Thalia Mengana Marrero', 'Taymara Oropesa Pupo', 'Diana Corleto Soto [1]', 'Mariana Isabel Paiz Quan']","['[CUB] ', '[CUB] ', '[GUA] ', '[GUA] ']","['21-12', '21-15']",WD ,20180314,"La Habana, Cuba"
+43,"['Leodannis Martinez Palacio [1]', 'Taymara Oropesa Pupo', 'Ernesto Reyes', 'Yeily Mari Ortiz Rodriguez']","['[CUB] ', '[CUB] ', '[CUB] ', '[CUB] ']","['21-14', '21-14']",XD ,20180314,"La Habana, Cuba"
+44,"['Xiaodong Sheng', 'Angel Herrera Rodríguez [4]']","['[CAN] ', '[CUB] ']","['21-17', '21-6']",MS ,20180314,"La Habana, Cuba"
+45,"['Crystal Pan', 'Alejandra Jose Paiz Quan [2]']","['[USA] ', '[GUA] ']","['21-3', '21-10']",WS ,20180314,"La Habana, Cuba"
+46,"['Osleni Guerrero [1]', 'Leodannis Martinez Palacio', 'Stefan Cabrera Segura', 'Daniel Valdes Perez']","['[CUB] ', '[CUB] ', '[CUB] ', '[CUB] ']","['21-4', '21-9']",MD ,20180314,"La Habana, Cuba"
+47,"['Adriana Artiz Ataury', 'Yeily Mari Ortiz Rodriguez', 'Yudima Garcia Valdez', 'Camila Palacio Reyes']","['[CUB] ', '[CUB] ', '[CUB] ', '[CUB] ']","['21-9', '21-10']",WD ,20180314,"La Habana, Cuba"
+48,"['Osleni Guerrero', 'Adriana Artiz Ataury', 'Roberto Carlos Herrera Vazquez', 'Yudima Garcia Valdez']","['[CUB] ', '[CUB] ', '[CUB] ', '[CUB] ']","['21-8', '21-11']",XD ,20180314,"La Habana, Cuba"
+49,"['Xiaodong Sheng', 'Leodannis Martinez Palacio [2]']","['[CAN] ', '[CUB] ']","['21-17', '21-13']",MS ,20180314,"La Habana, Cuba"
+50,"['Crystal Pan', 'Taymara Oropesa Pupo [1]']","['[USA] ', '[CUB] ']","['21-6', '21-13']",WS ,20180314,"La Habana, Cuba"
+51,"['Osleni Guerrero [1]', 'Leodannis Martinez Palacio', 'Lazaro Yovani Madera Padrino [2]', 'Ernesto Reyes']","['[CUB] ', '[CUB] ', '[CUB] ', '[CUB] ']","['21-10', '21-16']",MD ,20180314,"La Habana, Cuba"
+52,"['Thalia Mengana Marrero', 'Taymara Oropesa Pupo', 'Adriana Artiz Ataury', 'Yeily Mari Ortiz Rodriguez']","['[CUB] ', '[CUB] ', '[CUB] ', '[CUB] ']","['21-19', '19-21', '21-19']",WD ,20180314,"La Habana, Cuba"
+53,"['Osleni Guerrero', 'Adriana Artiz Ataury', 'Leodannis Martinez Palacio [1]', 'Taymara Oropesa Pupo']","['[CUB] ', '[CUB] ', '[CUB] ', '[CUB] ']","['21-13', '13-21', '21-19']",XD ,20180314,"La Habana, Cuba"

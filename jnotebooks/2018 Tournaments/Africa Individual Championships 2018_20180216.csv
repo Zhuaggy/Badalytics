@@ -1,155 +1,155 @@
-,PLAYERS,COUNTRIES,SCORES,EVENT,match_week
-0,"['Abraham Ayittey', 'Alex Patrick Zolobe']","['[GHA] ', '[CIV] ']","['21-2', '21-12']",MS,20180216
-1,"['Godwin Olofua', 'Ousmane Ouedraogo']","['[NGR] ', '[CIV] ']","['21-5', '21-3']",MS,20180216
-2,"['Adel Hamek', 'Roman Razaki']","['[ALG] ', '[BEN] ']","['21-5', '21-8']",MS,20180216
-3,"['Samy Khaldi', 'Ashel Dziva']","['[ALG] ', '[ZIM] ']","['21-7', '21-6']",MS,20180216
-4,"['Daniel Sam', 'Chongo Ezra Mulenga']","['[GHA] ', '[ZAM] ']","['21-14', '21-16']",MS,20180216
-5,"['Kervin Ghislain', 'Paul Kopolo']","['[SEY] ', '[ZIM] ']","['12-21', '21-15', '21-7']",MS,20180216
-6,"['Jean Bernard Bongout', 'Mark Banda']","['[MRI] ', '[ZAM] ']","['21-10', '21-15']",MS,20180216
-7,"['Anuoluwapo Juwon Opeyori', 'Tejraj Pultoo']","['[NGR] ', '[MRI] ']","['21-10', '21-7']",MS,20180216
-8,"['Mohamed Mostafa Kamel', 'Paul Henri Assembe Bloch']","['[EGY] ', '[CMR] ']","['21-10', '21-4']",MS,20180216
-9,"['Shady Mamdouh', 'Akpa Jerome Ibrahim Agnimel']","['[EGY] ', '[CIV] ']","['21-12', '21-12']",MS,20180216
-10,"['Melvin Appiah', 'Ahmed Amine Ksikes']","['[MRI] ', '[MAR] ']","['22-20', '21-13']",MS,20180216
-11,"['Paulin Nguele Biya', 'Osman Hassan Awad Mohamedkhair']","['[CMR] ', '[SUD] ']","['21-9', '21-10']",MS,20180216
-12,"['Kalombo Mulenga', 'Raffick Alfonso']","['[ZAM] ', '[ZIM] ']","['21-8', '21-11']",MS,20180216
-13,"['Christopher Paul', 'Koceila Mammeri']","['[MRI] ', '[ALG] ']","['21-14', '21-14']",MS,20180216
-14,"['Yassine El Mernissi', 'Franck Ahi']","['[MAR] ', '[CIV] ']","['21-10', '21-12']",MS,20180216
-15,"['Sifeddine Larbaoui', 'Mabo Donald']","['[ALG] ', '[ZAM] ']","['21-19', '21-9']",MS,20180216
-16,"['Enejoh Abah', 'Michael Opoku Baah']","['[NGR] ', '[GHA] ']","['21-16', '21-18']",MS,20180216
-17,"['Mohamed Abderrahime Belarbi', 'Jakim Renaud']","['[ALG] ', '[SEY] ']","['21-6', '21-8']",MS,20180216
-18,"['Majed Yacine Balahoune', 'Youssef Hafouz']","['[ALG] ', '[TUN] ']","['21-2', '21-0']",MS,20180216
-19,"['Bilal Elharab', 'Mamoudou Soudi']","['[MAR] ', '[CMR] ']","['21-4', '15-2']",MS,20180216
-20,"['Youcef Sabri Medel', 'Jie Luo']","['[ALG] ', '[SEY] ']","['21-10', '21-17']",MS,20180216
-21,"['Thabani Mathe', 'Yessine Vydelingum']","['[ZIM] ', '[TUN] ']","['21-6', '21-2']",MS,20180216
-22,"['Adam El Mernissi', 'Younes Hafouz']","['[MAR] ', '[TUN] ']","['21-8', '21-7']",MS,20180216
-23,"['Ines Ziani', 'Kuzivakwashe Tritania Mudzamiri']","['[ALG] ', '[ZIM] ']","['21-6', '21-12']",WS,20180216
-24,"['Salmeen Essam Elsaid Salem', 'Malak Ouchefoun']","['[EGY] ', '[ALG] ']","['21-13', '17-21', '21-14']",WS,20180216
-25,"['Eyram YAA Migbodzi', 'Louise Lisane Mbas']","['[GHA] ', '[CMR] ']","['21-10', '21-15']",WS,20180216
-26,"['Juliette Ah-Wan', 'Allisen Camille', 'Daisy Nakalyango', 'Mable Namakoye']","['[SEY] ', '[SEY] ', '[UGA] ', '[UGA] ']","['21-11', '21-7']",WD,20180216
-27,"['Georges Julien Paul', 'Aurelie Marie Elisa Allet', 'Ashel Dziva', 'Nyasha Kopolo']","['[MRI] ', '[MRI] ', '[ZIM] ', '[ZIM] ']","['21-6', '21-7']",XD,20180216
-28,"['Shady Mamdouh', 'Hana Tarek Mohamed', 'Paulin Nguele Biya', 'Stella Joel Ngadjui']","['[EGY] ', '[EGY] ', '[CMR] ', '[CMR] ']","['21-17', '21-14']",XD,20180216
-29,"['Samy Khaldi', 'Halla Bouksani', 'Paul Kopolo', 'Olga Matsanura']","['[ALG] ', '[ALG] ', '[ZIM] ', '[ZIM] ']","['21-12', '21-9']",XD,20180216
-30,"['Daniel Sam', 'Gifty Mensah', 'Jean Bernard Bongout', 'Ganesha Mungrah']","['[GHA] ', '[GHA] ', '[MRI] ', '[MRI] ']","['21-17', '21-11']",XD,20180216
-31,"['Antoine Eddy Owona Ndimako', 'Louise Lisane Mbas', 'Thabani Mathe', 'Kuzivakwashe Tritania Mudzamiri']","['[CMR] ', '[CMR] ', '[ZIM] ', '[ZIM] ']","['21-16', '18-21', '21-12']",XD,20180216
-32,"['Majed Yacine Balahoune', 'Imane Chekkal', 'Michael Opoku Baah', 'Grace ANNABEL Atipaka']","['[ALG] ', '[ALG] ', '[GHA] ', '[GHA] ']","['19-21', '22-20', '21-10']",XD,20180216
-33,"['Aatish Lubah', 'Kobita Dookhee', 'Mohamed Amine Guelmaoui', 'Ferd Houda']","['[MRI] ', '[MRI] ', '[ALG] ', '[ALG] ']","['21-15', '21-10']",XD,20180216
-34,"['Tejraj Pultoo', 'Sendila Mourat', 'Youssef Hafouz', 'Safa Jebali']","['[MRI] ', '[MRI] ', '[TUN] ', '[TUN] ']","['21-6', '21-6']",XD,20180216
-35,"['Clement Krobakpo', 'Dorcas Ajoke Adesokan', 'Mohamed Abdelaziz Ouchefoun', 'Malak Ouchefoun']","['[NGR] ', '[NGR] ', '[ALG] ', '[ALG] ']","['21-14', '21-8']",XD,20180216
-36,"['Abdelrahman Abdelhakim', 'Salmeen Essam Elsaid Salem', 'Raffick Alfonso', 'Audrey Matsanura']","['[EGY] ', '[EGY] ', '[ZIM] ', '[ZIM] ']","['21-13', '21-8']",XD,20180216
-37,"['Bilal Elharab', 'Rajae Rochdy', 'Abraham Ayittey', 'Eyram YAA Migbodzi']","['[MAR] ', '[MAR] ', '[GHA] ', '[GHA] ']","['21-14', '21-19']",XD,20180216
-38,"['Georges Julien Paul [1]', 'Abraham Ayittey']","['[MRI] ', '[GHA] ']","['21-10', '21-11']",MS,20180216
-39,"['Godwin Olofua', 'Antoine Eddy Owona Ndimako']","['[NGR] ', '[CMR] ']","['21-9', '21-10']",MS,20180216
-40,"['Emmanuel Yaw Donkor [7]', 'Adel Hamek']","['[GHA] ', '[ALG] ']","['21-15', '17-21', '21-5']",MS,20180216
-41,"['Daniel Sam', 'Samy Khaldi']","['[GHA] ', '[ALG] ']","['21-12', '21-18']",MS,20180216
-42,"['Adham Hatem Elgamal [3]', 'Kervin Ghislain']","['[EGY] ', '[SEY] ']","['21-19', '21-18']",MS,20180216
-43,"['Anuoluwapo Juwon Opeyori', 'Jean Bernard Bongout']","['[NGR] ', '[MRI] ']","['21-10', '21-11']",MS,20180216
-44,"['Clement Krobakpo [5]', 'Mohamed Mostafa Kamel']","['[NGR] ', '[EGY] ']","['21-15', '21-15']",MS,20180216
-45,"['Melvin Appiah', 'Shady Mamdouh']","['[MRI] ', '[EGY] ']","['21-18', '21-13']",MS,20180216
-46,"['Kalombo Mulenga', 'Paulin Nguele Biya']","['[ZAM] ', '[CMR] ']","['21-3', '21-6']",MS,20180216
-47,"['Abdelrahman Abdelhakim [6]', 'Christopher Paul']","['[EGY] ', '[MRI] ']","['14-21', '21-16', '21-18']",MS,20180216
-48,"['Sifeddine Larbaoui', 'Yassine El Mernissi']","['[ALG] ', '[MAR] ']","['21-9', '21-12']",MS,20180216
-49,"['Aatish Lubah [4]', 'Enejoh Abah']","['[MRI] ', '[NGR] ']","['19-21', '22-20', '21-18']",MS,20180216
-50,"['Mohamed Abderrahime Belarbi', 'Majed Yacine Balahoune']","['[ALG] ', '[ALG] ']","['21-9', '21-11']",MS,20180216
-51,"['Habeeb Temitope Bello [8]', 'Bilal Elharab']","['[NGR] ', '[MAR] ']","['16-21', '21-12', '21-19']",MS,20180216
-52,"['Youcef Sabri Medel', 'Thabani Mathe']","['[ALG] ', '[ZIM] ']","['21-12', '21-11']",MS,20180216
-53,"['Ahmed Salah [2]', 'Adam El Mernissi']","['[EGY] ', '[MAR] ']","['21-16', '21-9']",MS,20180216
-54,"['Kate Foo Kune [1]', 'Daisy Nakalyango']","['[MRI] ', '[UGA] ']","['21-12', '21-4']",WS,20180216
-55,"['Ganesha Mungrah', 'Stella Joel Ngadjui']","['[MRI] ', '[CMR] ']","['21-9', '21-12']",WS,20180216
-56,"['Halla Bouksani [7]', 'Gladys Mbabazi']","['[ALG] ', '[UGA] ']","['21-6', '21-10']",WS,20180216
-57,"['Gifty Mensah', 'Olga Matsanura']","['[GHA] ', '[ZIM] ']","['21-4', '21-12']",WS,20180216
-58,"['Hadia Hosny [3]', 'Grace ANNABEL Atipaka']","['[EGY] ', '[GHA] ']","['21-7', '21-11']",WS,20180216
-59,"['Dounia Naama', 'Mable Namakoye']","['[ALG] ', '[UGA] ']","['21-15', '15-21', '21-16']",WS,20180216
-60,"['Zainab Momoh [8]', 'Stella Koteikai Amasah']","['[NGR] ', '[GHA] ']","['12-21', '21-19', '21-12']",WS,20180216
-61,"['Ines Ziani', 'Safa Jebali']","['[ALG] ', '[TUN] ']","['21-4', '21-14']",WS,20180216
-62,"['Salmeen Essam Elsaid Salem', 'Kobita Dookhee']","['[EGY] ', '[MRI] ']","['21-19', '21-17']",WS,20180216
-63,"['Doha Hany [5]', 'Sendila Mourat']","['[EGY] ', '[MRI] ']","['21-5', '21-10']",WS,20180216
-64,"['Yasmina Chibah', 'Nyasha Kopolo']","['[ALG] ', '[ZIM] ']","['21-6', '21-9']",WS,20180216
-65,"['Aisha Nakiyemba [4]', 'Amrouni Kahina']","['[UGA] ', '[ALG] ']","['21-14', '21-9']",WS,20180216
-66,"['Uchechukwu Deborah Ukeh', 'Eyram YAA Migbodzi']","['[NGR] ', '[GHA] ']","['21-8', '21-4']",WS,20180216
-67,"['Linda Mazri [6]', 'Audrey Matsanura']","['[ALG] ', '[ZIM] ']",[],WS,20180216
-68,"['Hana Tarek Mohamed', 'Jana Ashraf']","['[EGY] ', '[EGY] ']","['20-22', '21-19', '21-13']",WS,20180216
-69,"['Dorcas Ajoke Adesokan [2]', 'Aurelie Marie Elisa Allet']","['[NGR] ', '[MRI] ']","['21-12', '21-12']",WS,20180216
-70,"['Godwin Olofua', 'Anuoluwapo Juwon Opeyori', 'Abraham Ayittey', 'Michael Opoku Baah']","['[NGR] ', '[NGR] ', '[GHA] ', '[GHA] ']","['21-18', '21-12']",MD,20180216
-71,"['Koceila Mammeri', 'Youcef Sabri Medel', 'Franck Ahi', 'Alex Patrick Zolobe']","['[ALG] ', '[ALG] ', '[CIV] ', '[CIV] ']","['21-7', '21-12']",MD,20180216
-72,"['Jean Bernard Bongout', 'Christopher Paul', 'Youssef Hafouz', 'Yessine Vydelingum']","['[MRI] ', '[MRI] ', '[TUN] ', '[TUN] ']","['21-1', '21-3']",MD,20180216
-73,"['Adham Hatem Elgamal', 'Shady Mamdouh', 'Paul Henri Assembe Bloch', 'Mamoudou Soudi']","['[EGY] ', '[EGY] ', '[CMR] ', '[CMR] ']",[],MD,20180216
-74,"['Majed Yacine Balahoune', 'Mohamed Amine Guelmaoui', 'Jie Luo', 'Jakim Renaud']","['[ALG] ', '[ALG] ', '[SEY] ', '[SEY] ']","['21-19', '21-16']",MD,20180216
-75,"['Daniel Sam', 'Emmanuel Yaw Donkor', 'Mark Banda', 'Mabo Donald']","['[GHA] ', '[GHA] ', '[ZAM] ', '[ZAM] ']","['21-16', '21-8']",MD,20180216
-76,"['Melvin Appiah', 'Tejraj Pultoo', 'Habeeb Temitope Bello', 'Usman , Ayo Isiaq']","['[MRI] ', '[MRI] ', '[NGR] ', '[NGR] ']","['18-21', '23-21', '27-25']",MD,20180216
-77,"['Bilal Elharab', 'Ahmed Amine Ksikes', 'Sifeddine Larbaoui', 'Mohamed Abdelaziz Ouchefoun']","['[MAR] ', '[MAR] ', '[ALG] ', '[ALG] ']","['21-12', '21-17']",MD,20180216
-78,"['Ashel Dziva', 'Thabani Mathe', 'Akpa Jerome Ibrahim Agnimel', 'Ousmane Ouedraogo']","['[ZIM] ', '[ZIM] ', '[CIV] ', '[CIV] ']","['18-21', '21-17', '21-17']",MD,20180216
-79,"['Georges Julien Paul [1]', 'Godwin Olofua']","['[MRI] ', '[NGR] ']","['21-13', '21-15']",MS,20180216
-80,"['Emmanuel Yaw Donkor [7]', 'Daniel Sam']","['[GHA] ', '[GHA] ']","['21-12', '21-10']",MS,20180216
-81,"['Anuoluwapo Juwon Opeyori', 'Adham Hatem Elgamal [3]']","['[NGR] ', '[EGY] ']","['21-18', '19-21', '21-18']",MS,20180216
-82,"['Clement Krobakpo [5]', 'Melvin Appiah']","['[NGR] ', '[MRI] ']","['21-13', '21-8']",MS,20180216
-83,"['Kalombo Mulenga', 'Abdelrahman Abdelhakim [6]']","['[ZAM] ', '[EGY] ']","['21-6', '21-13']",MS,20180216
-84,"['Aatish Lubah [4]', 'Sifeddine Larbaoui']","['[MRI] ', '[ALG] ']","['21-19', '21-10']",MS,20180216
-85,"['Habeeb Temitope Bello [8]', 'Mohamed Abderrahime Belarbi']","['[NGR] ', '[ALG] ']","['22-24', '21-13', '22-20']",MS,20180216
-86,"['Youcef Sabri Medel', 'Ahmed Salah [2]']","['[ALG] ', '[EGY] ']","['18-21', '21-18', '21-16']",MS,20180216
-87,"['Kate Foo Kune [1]', 'Ganesha Mungrah']","['[MRI] ', '[MRI] ']","['21-8', '21-9']",WS,20180216
-88,"['Halla Bouksani [7]', 'Gifty Mensah']","['[ALG] ', '[GHA] ']","['21-4', '21-4']",WS,20180216
-89,"['Hadia Hosny [3]', 'Dounia Naama']","['[EGY] ', '[ALG] ']","['21-15', '21-7']",WS,20180216
-90,"['Zainab Momoh [8]', 'Ines Ziani']","['[NGR] ', '[ALG] ']","['21-8', '21-8']",WS,20180216
-91,"['Doha Hany [5]', 'Salmeen Essam Elsaid Salem']","['[EGY] ', '[EGY] ']","['21-5', '21-1']",WS,20180216
-92,"['Aisha Nakiyemba [4]', 'Yasmina Chibah']","['[UGA] ', '[ALG] ']","['17-21', '21-12', '21-18']",WS,20180216
-93,"['Uchechukwu Deborah Ukeh', 'Linda Mazri [6]']","['[NGR] ', '[ALG] ']","['22-20', '16-21', '21-17']",WS,20180216
-94,"['Dorcas Ajoke Adesokan [2]', 'Hana Tarek Mohamed']","['[NGR] ', '[EGY] ']","['22-20', '21-11']",WS,20180216
-95,"['Godwin Olofua', 'Anuoluwapo Juwon Opeyori', 'Aatish Lubah [1]', 'Georges Julien Paul']","['[NGR] ', '[NGR] ', '[MRI] ', '[MRI] ']","['21-16', '18-21', '21-19']",MD,20180216
-96,"['Koceila Mammeri', 'Youcef Sabri Medel', 'Raffick Alfonso', 'Paul Kopolo']","['[ALG] ', '[ALG] ', '[ZIM] ', '[ZIM] ']","['21-9', '21-14']",MD,20180216
-97,"['Jean Bernard Bongout', 'Christopher Paul', 'Chongo Ezra Mulenga [3]', 'Kalombo Mulenga']","['[MRI] ', '[MRI] ', '[ZAM] ', '[ZAM] ']","['21-17', '21-19']",MD,20180216
-98,"['Adham Hatem Elgamal', 'Shady Mamdouh', 'Adam El Mernissi', 'Yassine El Mernissi']","['[EGY] ', '[EGY] ', '[MAR] ', '[MAR] ']","['21-16', '21-8']",MD,20180216
-99,"['Daniel Sam', 'Emmanuel Yaw Donkor', 'Majed Yacine Balahoune', 'Mohamed Amine Guelmaoui']","['[GHA] ', '[GHA] ', '[ALG] ', '[ALG] ']","['21-14', '21-12']",MD,20180216
-100,"['Mohamed Abderrahime Belarbi [4]', 'Adel Hamek', 'Melvin Appiah', 'Tejraj Pultoo']","['[ALG] ', '[ALG] ', '[MRI] ', '[MRI] ']","['16-21', '21-12', '21-10']",MD,20180216
-101,"['Bilal Elharab', 'Ahmed Amine Ksikes', 'Paulin Nguele Biya', 'Antoine Eddy Owona Ndimako']","['[MAR] ', '[MAR] ', '[CMR] ', '[CMR] ']","['21-17', '21-12']",MD,20180216
-102,"['Abdelrahman Abdelhakim [2]', 'Ahmed Salah', 'Ashel Dziva', 'Thabani Mathe']","['[EGY] ', '[EGY] ', '[ZIM] ', '[ZIM] ']","['21-12', '21-11']",MD,20180216
-103,"['Doha Hany [1]', 'Hadia Hosny', 'Sendila Mourat', 'Ganesha Mungrah']","['[EGY] ', '[EGY] ', '[MRI] ', '[MRI] ']","['21-13', '21-14']",WD,20180216
-104,"['Stella Koteikai Amasah', 'Eyram YAA Migbodzi', 'Imane Chekkal', 'Yasmina Chibah']","['[GHA] ', '[GHA] ', '[ALG] ', '[ALG] ']","['22-20', '21-14']",WD,20180216
-105,"['Zainab Momoh [4]', 'Peace Orji', 'Audrey Matsanura', 'Olga Matsanura']","['[NGR] ', '[NGR] ', '[ZIM] ', '[ZIM] ']",[],WD,20180216
-106,"['Gladys Mbabazi', 'Aisha Nakiyemba', 'Dounia Naama', 'Malak Ouchefoun']","['[UGA] ', '[UGA] ', '[ALG] ', '[ALG] ']","['23-21', '21-14']",WD,20180216
-107,"['Juliette Ah-Wan', 'Allisen Camille', 'Salmeen Essam Elsaid Salem', 'Hana Tarek Mohamed']","['[SEY] ', '[SEY] ', '[EGY] ', '[EGY] ']","['21-8', '21-14']",WD,20180216
-108,"['Aurelie Marie Elisa Allet [3]', 'Kobita Dookhee', 'Grace ANNABEL Atipaka', 'Gifty Mensah']","['[MRI] ', '[MRI] ', '[GHA] ', '[GHA] ']","['21-8', '21-9']",WD,20180216
-109,"['Ferd Houda', 'Amrouni Kahina', 'Louise Lisane Mbas', 'Stella Joel Ngadjui']","['[ALG] ', '[ALG] ', '[CMR] ', '[CMR] ']","['21-11', '21-10']",WD,20180216
-110,"['Halla Bouksani [2]', 'Linda Mazri', 'Nyasha Kopolo', 'Kuzivakwashe Tritania Mudzamiri']","['[ALG] ', '[ALG] ', '[ZIM] ', '[ZIM] ']","['21-9', '21-7']",WD,20180216
-111,"['Clement Krobakpo', 'Dorcas Ajoke Adesokan', 'Emmanuel Yaw Donkor [1]', 'Stella Koteikai Amasah']","['[NGR] ', '[NGR] ', '[GHA] ', '[GHA] ']","['21-14', '21-16']",XD,20180216
-112,"['Adham Hatem Elgamal [3]', 'Doha Hany', 'Majed Yacine Balahoune', 'Imane Chekkal']","['[EGY] ', '[EGY] ', '[ALG] ', '[ALG] ']","['21-11', '21-10']",XD,20180216
-113,"['Enejoh Abah [2]', 'Peace Orji', 'Tejraj Pultoo', 'Sendila Mourat']","['[NGR] ', '[NGR] ', '[MRI] ', '[MRI] ']","['21-11', '21-9']",XD,20180216
-114,"['Ahmed Salah', 'Hadia Hosny', 'Georges Julien Paul', 'Aurelie Marie Elisa Allet']","['[EGY] ', '[EGY] ', '[MRI] ', '[MRI] ']","['21-19', '21-19']",XD,20180216
-115,"['Koceila Mammeri [4]', 'Linda Mazri', 'Shady Mamdouh', 'Hana Tarek Mohamed']","['[ALG] ', '[ALG] ', '[EGY] ', '[EGY] ']","['21-15', '21-15']",XD,20180216
-116,"['Samy Khaldi', 'Halla Bouksani', 'Abdelrahman Abdelhakim', 'Salmeen Essam Elsaid Salem']","['[ALG] ', '[ALG] ', '[EGY] ', '[EGY] ']","['21-13', '18-21', '21-19']",XD,20180216
-117,"['Daniel Sam', 'Gifty Mensah', 'Antoine Eddy Owona Ndimako', 'Louise Lisane Mbas']","['[GHA] ', '[GHA] ', '[CMR] ', '[CMR] ']","['21-15', '21-9']",XD,20180216
-118,"['Bilal Elharab', 'Rajae Rochdy', 'Aatish Lubah', 'Kobita Dookhee']","['[MAR] ', '[MAR] ', '[MRI] ', '[MRI] ']","['21-10', '16-21', '21-19']",XD,20180216
-119,"['Georges Julien Paul [1]', 'Emmanuel Yaw Donkor [7]']","['[MRI] ', '[GHA] ']","['21-19', '21-16']",MS,20180216
-120,"['Clement Krobakpo [5]', 'Anuoluwapo Juwon Opeyori']","['[NGR] ', '[NGR] ']","['21-16', '21-19']",MS,20180216
-121,"['Aatish Lubah [4]', 'Kalombo Mulenga']","['[MRI] ', '[ZAM] ']","['21-23', '21-16', '21-13']",MS,20180216
-122,"['Habeeb Temitope Bello [8]', 'Youcef Sabri Medel']","['[NGR] ', '[ALG] ']","['21-13', '16-21', '21-10']",MS,20180216
-123,"['Kate Foo Kune [1]', 'Halla Bouksani [7]']","['[MRI] ', '[ALG] ']","['21-10', '21-17']",WS,20180216
-124,"['Hadia Hosny [3]', 'Zainab Momoh [8]']","['[EGY] ', '[NGR] ']","['21-10', '21-17']",WS,20180216
-125,"['Doha Hany [5]', 'Aisha Nakiyemba [4]']","['[EGY] ', '[UGA] ']","['21-14', '21-6']",WS,20180216
-126,"['Dorcas Ajoke Adesokan [2]', 'Uchechukwu Deborah Ukeh']","['[NGR] ', '[NGR] ']","['21-11', '21-15']",WS,20180216
-127,"['Koceila Mammeri', 'Youcef Sabri Medel', 'Godwin Olofua', 'Anuoluwapo Juwon Opeyori']","['[ALG] ', '[ALG] ', '[NGR] ', '[NGR] ']","['17-21', '21-13', '21-16']",MD,20180216
-128,"['Jean Bernard Bongout', 'Christopher Paul', 'Adham Hatem Elgamal', 'Shady Mamdouh']","['[MRI] ', '[MRI] ', '[EGY] ', '[EGY] ']","['21-18', '21-13']",MD,20180216
-129,"['Mohamed Abderrahime Belarbi [4]', 'Adel Hamek', 'Daniel Sam', 'Emmanuel Yaw Donkor']","['[ALG] ', '[ALG] ', '[GHA] ', '[GHA] ']","['21-15', '21-16']",MD,20180216
-130,"['Abdelrahman Abdelhakim [2]', 'Ahmed Salah', 'Bilal Elharab', 'Ahmed Amine Ksikes']","['[EGY] ', '[EGY] ', '[MAR] ', '[MAR] ']","['21-12', '21-7']",MD,20180216
-131,"['Doha Hany [1]', 'Hadia Hosny', 'Stella Koteikai Amasah', 'Eyram YAA Migbodzi']","['[EGY] ', '[EGY] ', '[GHA] ', '[GHA] ']","['21-9', '21-14']",WD,20180216
-132,"['Zainab Momoh [4]', 'Peace Orji', 'Gladys Mbabazi', 'Aisha Nakiyemba']","['[NGR] ', '[NGR] ', '[UGA] ', '[UGA] ']","['21-15', '21-9']",WD,20180216
-133,"['Juliette Ah-Wan', 'Allisen Camille', 'Aurelie Marie Elisa Allet [3]', 'Kobita Dookhee']","['[SEY] ', '[SEY] ', '[MRI] ', '[MRI] ']","['21-19', '21-15']",WD,20180216
-134,"['Halla Bouksani [2]', 'Linda Mazri', 'Ferd Houda', 'Amrouni Kahina']","['[ALG] ', '[ALG] ', '[ALG] ', '[ALG] ']","['21-5', '21-5']",WD,20180216
-135,"['Ahmed Salah', 'Hadia Hosny', 'Clement Krobakpo', 'Dorcas Ajoke Adesokan']","['[EGY] ', '[EGY] ', '[NGR] ', '[NGR] ']","['21-15', '21-15']",XD,20180216
-136,"['Koceila Mammeri [4]', 'Linda Mazri', 'Samy Khaldi', 'Halla Bouksani']","['[ALG] ', '[ALG] ', '[ALG] ', '[ALG] ']","['21-10', '21-16']",XD,20180216
-137,"['Adham Hatem Elgamal [3]', 'Doha Hany', 'Daniel Sam', 'Gifty Mensah']","['[EGY] ', '[EGY] ', '[GHA] ', '[GHA] ']","['21-19', '19-21', '21-15']",XD,20180216
-138,"['Enejoh Abah [2]', 'Peace Orji', 'Bilal Elharab', 'Rajae Rochdy']","['[NGR] ', '[NGR] ', '[MAR] ', '[MAR] ']","['15-21', '21-9', '21-8']",XD,20180216
-139,"['Dorcas Ajoke Adesokan [2]', 'Doha Hany [5]']","['[NGR] ', '[EGY] ']","['21-14', '21-15']",WS ,20180216
-140,"['Juliette Ah-Wan', 'Allisen Camille', 'Halla Bouksani [2]', 'Linda Mazri']","['[SEY] ', '[SEY] ', '[ALG] ', '[ALG] ']","['21-16', '21-19']",WD ,20180216
-141,"['Koceila Mammeri', 'Youcef Sabri Medel', 'Jean Bernard Bongout', 'Christopher Paul']","['[ALG] ', '[ALG] ', '[MRI] ', '[MRI] ']","['21-18', '21-19']",MD ,20180216
-142,"['Koceila Mammeri [4]', 'Linda Mazri', 'Ahmed Salah', 'Hadia Hosny']","['[ALG] ', '[ALG] ', '[EGY] ', '[EGY] ']","['19-21', '21-17', '21-15']",XD ,20180216
-143,"['Koceila Mammeri [4]', 'Linda Mazri', 'Enejoh Abah [2]', 'Peace Orji']","['[ALG] ', '[ALG] ', '[NGR] ', '[NGR] ']","['21-17', '15-21', '21-12']",XD ,20180216
-144,"['Kate Foo Kune [1]', 'Dorcas Ajoke Adesokan [2]']","['[MRI] ', '[NGR] ']","['21-16', '21-19']",WS ,20180216
-145,"['Mohamed Abderrahime Belarbi [4]', 'Adel Hamek', 'Koceila Mammeri', 'Youcef Sabri Medel']","['[ALG] ', '[ALG] ', '[ALG] ', '[ALG] ']","['21-18', '20-22', '21-18']",MD ,20180216
-146,"['Kate Foo Kune [1]', 'Hadia Hosny [3]']","['[MRI] ', '[EGY] ']","['21-13', '18-21', '21-11']",WS ,20180216
-147,"['Georges Julien Paul [1]', 'Clement Krobakpo [5]']","['[MRI] ', '[NGR] ']","['21-13', '21-13']",MS ,20180216
-148,"['Doha Hany [1]', 'Hadia Hosny', 'Zainab Momoh [4]', 'Peace Orji']","['[EGY] ', '[EGY] ', '[NGR] ', '[NGR] ']","['21-11', '21-11']",WD ,20180216
-149,"['Enejoh Abah [2]', 'Peace Orji', 'Adham Hatem Elgamal [3]', 'Doha Hany']","['[NGR] ', '[NGR] ', '[EGY] ', '[EGY] ']","['21-19', '23-21']",XD ,20180216
-150,"['Georges Julien Paul [1]', 'Habeeb Temitope Bello [8]']","['[MRI] ', '[NGR] ']","['21-16', '15-21', '21-13']",MS ,20180216
-151,"['Juliette Ah-Wan', 'Allisen Camille', 'Doha Hany [1]', 'Hadia Hosny']","['[SEY] ', '[SEY] ', '[EGY] ', '[EGY] ']","['21-18', '13-21', '21-18']",WD ,20180216
-152,"['Habeeb Temitope Bello [8]', 'Aatish Lubah [4]']","['[NGR] ', '[MRI] ']","['21-14', '26-24']",MS ,20180216
-153,"['Mohamed Abderrahime Belarbi [4]', 'Adel Hamek', 'Abdelrahman Abdelhakim [2]', 'Ahmed Salah']","['[ALG] ', '[ALG] ', '[EGY] ', '[EGY] ']","['21-16', '21-18']",MD ,20180216
+,PLAYERS,COUNTRIES,SCORES,EVENT,match_week,match_location
+0,"['Abraham Ayittey', 'Alex Patrick Zolobe']","['[GHA] ', '[CIV] ']","['21-2', '21-12']",MS,20180216,"Algiers Algeria, Algeria"
+1,"['Godwin Olofua', 'Ousmane Ouedraogo']","['[NGR] ', '[CIV] ']","['21-5', '21-3']",MS,20180216,"Algiers Algeria, Algeria"
+2,"['Adel Hamek', 'Roman Razaki']","['[ALG] ', '[BEN] ']","['21-5', '21-8']",MS,20180216,"Algiers Algeria, Algeria"
+3,"['Samy Khaldi', 'Ashel Dziva']","['[ALG] ', '[ZIM] ']","['21-7', '21-6']",MS,20180216,"Algiers Algeria, Algeria"
+4,"['Daniel Sam', 'Chongo Ezra Mulenga']","['[GHA] ', '[ZAM] ']","['21-14', '21-16']",MS,20180216,"Algiers Algeria, Algeria"
+5,"['Kervin Ghislain', 'Paul Kopolo']","['[SEY] ', '[ZIM] ']","['12-21', '21-15', '21-7']",MS,20180216,"Algiers Algeria, Algeria"
+6,"['Jean Bernard Bongout', 'Mark Banda']","['[MRI] ', '[ZAM] ']","['21-10', '21-15']",MS,20180216,"Algiers Algeria, Algeria"
+7,"['Anuoluwapo Juwon Opeyori', 'Tejraj Pultoo']","['[NGR] ', '[MRI] ']","['21-10', '21-7']",MS,20180216,"Algiers Algeria, Algeria"
+8,"['Mohamed Mostafa Kamel', 'Paul Henri Assembe Bloch']","['[EGY] ', '[CMR] ']","['21-10', '21-4']",MS,20180216,"Algiers Algeria, Algeria"
+9,"['Shady Mamdouh', 'Akpa Jerome Ibrahim Agnimel']","['[EGY] ', '[CIV] ']","['21-12', '21-12']",MS,20180216,"Algiers Algeria, Algeria"
+10,"['Melvin Appiah', 'Ahmed Amine Ksikes']","['[MRI] ', '[MAR] ']","['22-20', '21-13']",MS,20180216,"Algiers Algeria, Algeria"
+11,"['Paulin Nguele Biya', 'Osman Hassan Awad Mohamedkhair']","['[CMR] ', '[SUD] ']","['21-9', '21-10']",MS,20180216,"Algiers Algeria, Algeria"
+12,"['Kalombo Mulenga', 'Raffick Alfonso']","['[ZAM] ', '[ZIM] ']","['21-8', '21-11']",MS,20180216,"Algiers Algeria, Algeria"
+13,"['Christopher Paul', 'Koceila Mammeri']","['[MRI] ', '[ALG] ']","['21-14', '21-14']",MS,20180216,"Algiers Algeria, Algeria"
+14,"['Yassine El Mernissi', 'Franck Ahi']","['[MAR] ', '[CIV] ']","['21-10', '21-12']",MS,20180216,"Algiers Algeria, Algeria"
+15,"['Sifeddine Larbaoui', 'Mabo Donald']","['[ALG] ', '[ZAM] ']","['21-19', '21-9']",MS,20180216,"Algiers Algeria, Algeria"
+16,"['Enejoh Abah', 'Michael Opoku Baah']","['[NGR] ', '[GHA] ']","['21-16', '21-18']",MS,20180216,"Algiers Algeria, Algeria"
+17,"['Mohamed Abderrahime Belarbi', 'Jakim Renaud']","['[ALG] ', '[SEY] ']","['21-6', '21-8']",MS,20180216,"Algiers Algeria, Algeria"
+18,"['Majed Yacine Balahoune', 'Youssef Hafouz']","['[ALG] ', '[TUN] ']","['21-2', '21-0']",MS,20180216,"Algiers Algeria, Algeria"
+19,"['Bilal Elharab', 'Mamoudou Soudi']","['[MAR] ', '[CMR] ']","['21-4', '15-2']",MS,20180216,"Algiers Algeria, Algeria"
+20,"['Youcef Sabri Medel', 'Jie Luo']","['[ALG] ', '[SEY] ']","['21-10', '21-17']",MS,20180216,"Algiers Algeria, Algeria"
+21,"['Thabani Mathe', 'Yessine Vydelingum']","['[ZIM] ', '[TUN] ']","['21-6', '21-2']",MS,20180216,"Algiers Algeria, Algeria"
+22,"['Adam El Mernissi', 'Younes Hafouz']","['[MAR] ', '[TUN] ']","['21-8', '21-7']",MS,20180216,"Algiers Algeria, Algeria"
+23,"['Ines Ziani', 'Kuzivakwashe Tritania Mudzamiri']","['[ALG] ', '[ZIM] ']","['21-6', '21-12']",WS,20180216,"Algiers Algeria, Algeria"
+24,"['Salmeen Essam Elsaid Salem', 'Malak Ouchefoun']","['[EGY] ', '[ALG] ']","['21-13', '17-21', '21-14']",WS,20180216,"Algiers Algeria, Algeria"
+25,"['Eyram YAA Migbodzi', 'Louise Lisane Mbas']","['[GHA] ', '[CMR] ']","['21-10', '21-15']",WS,20180216,"Algiers Algeria, Algeria"
+26,"['Juliette Ah-Wan', 'Allisen Camille', 'Daisy Nakalyango', 'Mable Namakoye']","['[SEY] ', '[SEY] ', '[UGA] ', '[UGA] ']","['21-11', '21-7']",WD,20180216,"Algiers Algeria, Algeria"
+27,"['Georges Julien Paul', 'Aurelie Marie Elisa Allet', 'Ashel Dziva', 'Nyasha Kopolo']","['[MRI] ', '[MRI] ', '[ZIM] ', '[ZIM] ']","['21-6', '21-7']",XD,20180216,"Algiers Algeria, Algeria"
+28,"['Shady Mamdouh', 'Hana Tarek Mohamed', 'Paulin Nguele Biya', 'Stella Joel Ngadjui']","['[EGY] ', '[EGY] ', '[CMR] ', '[CMR] ']","['21-17', '21-14']",XD,20180216,"Algiers Algeria, Algeria"
+29,"['Samy Khaldi', 'Halla Bouksani', 'Paul Kopolo', 'Olga Matsanura']","['[ALG] ', '[ALG] ', '[ZIM] ', '[ZIM] ']","['21-12', '21-9']",XD,20180216,"Algiers Algeria, Algeria"
+30,"['Daniel Sam', 'Gifty Mensah', 'Jean Bernard Bongout', 'Ganesha Mungrah']","['[GHA] ', '[GHA] ', '[MRI] ', '[MRI] ']","['21-17', '21-11']",XD,20180216,"Algiers Algeria, Algeria"
+31,"['Antoine Eddy Owona Ndimako', 'Louise Lisane Mbas', 'Thabani Mathe', 'Kuzivakwashe Tritania Mudzamiri']","['[CMR] ', '[CMR] ', '[ZIM] ', '[ZIM] ']","['21-16', '18-21', '21-12']",XD,20180216,"Algiers Algeria, Algeria"
+32,"['Majed Yacine Balahoune', 'Imane Chekkal', 'Michael Opoku Baah', 'Grace ANNABEL Atipaka']","['[ALG] ', '[ALG] ', '[GHA] ', '[GHA] ']","['19-21', '22-20', '21-10']",XD,20180216,"Algiers Algeria, Algeria"
+33,"['Aatish Lubah', 'Kobita Dookhee', 'Mohamed Amine Guelmaoui', 'Ferd Houda']","['[MRI] ', '[MRI] ', '[ALG] ', '[ALG] ']","['21-15', '21-10']",XD,20180216,"Algiers Algeria, Algeria"
+34,"['Tejraj Pultoo', 'Sendila Mourat', 'Youssef Hafouz', 'Safa Jebali']","['[MRI] ', '[MRI] ', '[TUN] ', '[TUN] ']","['21-6', '21-6']",XD,20180216,"Algiers Algeria, Algeria"
+35,"['Clement Krobakpo', 'Dorcas Ajoke Adesokan', 'Mohamed Abdelaziz Ouchefoun', 'Malak Ouchefoun']","['[NGR] ', '[NGR] ', '[ALG] ', '[ALG] ']","['21-14', '21-8']",XD,20180216,"Algiers Algeria, Algeria"
+36,"['Abdelrahman Abdelhakim', 'Salmeen Essam Elsaid Salem', 'Raffick Alfonso', 'Audrey Matsanura']","['[EGY] ', '[EGY] ', '[ZIM] ', '[ZIM] ']","['21-13', '21-8']",XD,20180216,"Algiers Algeria, Algeria"
+37,"['Bilal Elharab', 'Rajae Rochdy', 'Abraham Ayittey', 'Eyram YAA Migbodzi']","['[MAR] ', '[MAR] ', '[GHA] ', '[GHA] ']","['21-14', '21-19']",XD,20180216,"Algiers Algeria, Algeria"
+38,"['Georges Julien Paul [1]', 'Abraham Ayittey']","['[MRI] ', '[GHA] ']","['21-10', '21-11']",MS,20180216,"Algiers Algeria, Algeria"
+39,"['Godwin Olofua', 'Antoine Eddy Owona Ndimako']","['[NGR] ', '[CMR] ']","['21-9', '21-10']",MS,20180216,"Algiers Algeria, Algeria"
+40,"['Emmanuel Yaw Donkor [7]', 'Adel Hamek']","['[GHA] ', '[ALG] ']","['21-15', '17-21', '21-5']",MS,20180216,"Algiers Algeria, Algeria"
+41,"['Daniel Sam', 'Samy Khaldi']","['[GHA] ', '[ALG] ']","['21-12', '21-18']",MS,20180216,"Algiers Algeria, Algeria"
+42,"['Adham Hatem Elgamal [3]', 'Kervin Ghislain']","['[EGY] ', '[SEY] ']","['21-19', '21-18']",MS,20180216,"Algiers Algeria, Algeria"
+43,"['Anuoluwapo Juwon Opeyori', 'Jean Bernard Bongout']","['[NGR] ', '[MRI] ']","['21-10', '21-11']",MS,20180216,"Algiers Algeria, Algeria"
+44,"['Clement Krobakpo [5]', 'Mohamed Mostafa Kamel']","['[NGR] ', '[EGY] ']","['21-15', '21-15']",MS,20180216,"Algiers Algeria, Algeria"
+45,"['Melvin Appiah', 'Shady Mamdouh']","['[MRI] ', '[EGY] ']","['21-18', '21-13']",MS,20180216,"Algiers Algeria, Algeria"
+46,"['Kalombo Mulenga', 'Paulin Nguele Biya']","['[ZAM] ', '[CMR] ']","['21-3', '21-6']",MS,20180216,"Algiers Algeria, Algeria"
+47,"['Abdelrahman Abdelhakim [6]', 'Christopher Paul']","['[EGY] ', '[MRI] ']","['14-21', '21-16', '21-18']",MS,20180216,"Algiers Algeria, Algeria"
+48,"['Sifeddine Larbaoui', 'Yassine El Mernissi']","['[ALG] ', '[MAR] ']","['21-9', '21-12']",MS,20180216,"Algiers Algeria, Algeria"
+49,"['Aatish Lubah [4]', 'Enejoh Abah']","['[MRI] ', '[NGR] ']","['19-21', '22-20', '21-18']",MS,20180216,"Algiers Algeria, Algeria"
+50,"['Mohamed Abderrahime Belarbi', 'Majed Yacine Balahoune']","['[ALG] ', '[ALG] ']","['21-9', '21-11']",MS,20180216,"Algiers Algeria, Algeria"
+51,"['Habeeb Temitope Bello [8]', 'Bilal Elharab']","['[NGR] ', '[MAR] ']","['16-21', '21-12', '21-19']",MS,20180216,"Algiers Algeria, Algeria"
+52,"['Youcef Sabri Medel', 'Thabani Mathe']","['[ALG] ', '[ZIM] ']","['21-12', '21-11']",MS,20180216,"Algiers Algeria, Algeria"
+53,"['Ahmed Salah [2]', 'Adam El Mernissi']","['[EGY] ', '[MAR] ']","['21-16', '21-9']",MS,20180216,"Algiers Algeria, Algeria"
+54,"['Kate Foo Kune [1]', 'Daisy Nakalyango']","['[MRI] ', '[UGA] ']","['21-12', '21-4']",WS,20180216,"Algiers Algeria, Algeria"
+55,"['Ganesha Mungrah', 'Stella Joel Ngadjui']","['[MRI] ', '[CMR] ']","['21-9', '21-12']",WS,20180216,"Algiers Algeria, Algeria"
+56,"['Halla Bouksani [7]', 'Gladys Mbabazi']","['[ALG] ', '[UGA] ']","['21-6', '21-10']",WS,20180216,"Algiers Algeria, Algeria"
+57,"['Gifty Mensah', 'Olga Matsanura']","['[GHA] ', '[ZIM] ']","['21-4', '21-12']",WS,20180216,"Algiers Algeria, Algeria"
+58,"['Hadia Hosny [3]', 'Grace ANNABEL Atipaka']","['[EGY] ', '[GHA] ']","['21-7', '21-11']",WS,20180216,"Algiers Algeria, Algeria"
+59,"['Dounia Naama', 'Mable Namakoye']","['[ALG] ', '[UGA] ']","['21-15', '15-21', '21-16']",WS,20180216,"Algiers Algeria, Algeria"
+60,"['Zainab Momoh [8]', 'Stella Koteikai Amasah']","['[NGR] ', '[GHA] ']","['12-21', '21-19', '21-12']",WS,20180216,"Algiers Algeria, Algeria"
+61,"['Ines Ziani', 'Safa Jebali']","['[ALG] ', '[TUN] ']","['21-4', '21-14']",WS,20180216,"Algiers Algeria, Algeria"
+62,"['Salmeen Essam Elsaid Salem', 'Kobita Dookhee']","['[EGY] ', '[MRI] ']","['21-19', '21-17']",WS,20180216,"Algiers Algeria, Algeria"
+63,"['Doha Hany [5]', 'Sendila Mourat']","['[EGY] ', '[MRI] ']","['21-5', '21-10']",WS,20180216,"Algiers Algeria, Algeria"
+64,"['Yasmina Chibah', 'Nyasha Kopolo']","['[ALG] ', '[ZIM] ']","['21-6', '21-9']",WS,20180216,"Algiers Algeria, Algeria"
+65,"['Aisha Nakiyemba [4]', 'Amrouni Kahina']","['[UGA] ', '[ALG] ']","['21-14', '21-9']",WS,20180216,"Algiers Algeria, Algeria"
+66,"['Uchechukwu Deborah Ukeh', 'Eyram YAA Migbodzi']","['[NGR] ', '[GHA] ']","['21-8', '21-4']",WS,20180216,"Algiers Algeria, Algeria"
+67,"['Linda Mazri [6]', 'Audrey Matsanura']","['[ALG] ', '[ZIM] ']",[],WS,20180216,"Algiers Algeria, Algeria"
+68,"['Hana Tarek Mohamed', 'Jana Ashraf']","['[EGY] ', '[EGY] ']","['20-22', '21-19', '21-13']",WS,20180216,"Algiers Algeria, Algeria"
+69,"['Dorcas Ajoke Adesokan [2]', 'Aurelie Marie Elisa Allet']","['[NGR] ', '[MRI] ']","['21-12', '21-12']",WS,20180216,"Algiers Algeria, Algeria"
+70,"['Godwin Olofua', 'Anuoluwapo Juwon Opeyori', 'Abraham Ayittey', 'Michael Opoku Baah']","['[NGR] ', '[NGR] ', '[GHA] ', '[GHA] ']","['21-18', '21-12']",MD,20180216,"Algiers Algeria, Algeria"
+71,"['Koceila Mammeri', 'Youcef Sabri Medel', 'Franck Ahi', 'Alex Patrick Zolobe']","['[ALG] ', '[ALG] ', '[CIV] ', '[CIV] ']","['21-7', '21-12']",MD,20180216,"Algiers Algeria, Algeria"
+72,"['Jean Bernard Bongout', 'Christopher Paul', 'Youssef Hafouz', 'Yessine Vydelingum']","['[MRI] ', '[MRI] ', '[TUN] ', '[TUN] ']","['21-1', '21-3']",MD,20180216,"Algiers Algeria, Algeria"
+73,"['Adham Hatem Elgamal', 'Shady Mamdouh', 'Paul Henri Assembe Bloch', 'Mamoudou Soudi']","['[EGY] ', '[EGY] ', '[CMR] ', '[CMR] ']",[],MD,20180216,"Algiers Algeria, Algeria"
+74,"['Majed Yacine Balahoune', 'Mohamed Amine Guelmaoui', 'Jie Luo', 'Jakim Renaud']","['[ALG] ', '[ALG] ', '[SEY] ', '[SEY] ']","['21-19', '21-16']",MD,20180216,"Algiers Algeria, Algeria"
+75,"['Daniel Sam', 'Emmanuel Yaw Donkor', 'Mark Banda', 'Mabo Donald']","['[GHA] ', '[GHA] ', '[ZAM] ', '[ZAM] ']","['21-16', '21-8']",MD,20180216,"Algiers Algeria, Algeria"
+76,"['Melvin Appiah', 'Tejraj Pultoo', 'Habeeb Temitope Bello', 'Usman , Ayo Isiaq']","['[MRI] ', '[MRI] ', '[NGR] ', '[NGR] ']","['18-21', '23-21', '27-25']",MD,20180216,"Algiers Algeria, Algeria"
+77,"['Bilal Elharab', 'Ahmed Amine Ksikes', 'Sifeddine Larbaoui', 'Mohamed Abdelaziz Ouchefoun']","['[MAR] ', '[MAR] ', '[ALG] ', '[ALG] ']","['21-12', '21-17']",MD,20180216,"Algiers Algeria, Algeria"
+78,"['Ashel Dziva', 'Thabani Mathe', 'Akpa Jerome Ibrahim Agnimel', 'Ousmane Ouedraogo']","['[ZIM] ', '[ZIM] ', '[CIV] ', '[CIV] ']","['18-21', '21-17', '21-17']",MD,20180216,"Algiers Algeria, Algeria"
+79,"['Georges Julien Paul [1]', 'Godwin Olofua']","['[MRI] ', '[NGR] ']","['21-13', '21-15']",MS,20180216,"Algiers Algeria, Algeria"
+80,"['Emmanuel Yaw Donkor [7]', 'Daniel Sam']","['[GHA] ', '[GHA] ']","['21-12', '21-10']",MS,20180216,"Algiers Algeria, Algeria"
+81,"['Anuoluwapo Juwon Opeyori', 'Adham Hatem Elgamal [3]']","['[NGR] ', '[EGY] ']","['21-18', '19-21', '21-18']",MS,20180216,"Algiers Algeria, Algeria"
+82,"['Clement Krobakpo [5]', 'Melvin Appiah']","['[NGR] ', '[MRI] ']","['21-13', '21-8']",MS,20180216,"Algiers Algeria, Algeria"
+83,"['Kalombo Mulenga', 'Abdelrahman Abdelhakim [6]']","['[ZAM] ', '[EGY] ']","['21-6', '21-13']",MS,20180216,"Algiers Algeria, Algeria"
+84,"['Aatish Lubah [4]', 'Sifeddine Larbaoui']","['[MRI] ', '[ALG] ']","['21-19', '21-10']",MS,20180216,"Algiers Algeria, Algeria"
+85,"['Habeeb Temitope Bello [8]', 'Mohamed Abderrahime Belarbi']","['[NGR] ', '[ALG] ']","['22-24', '21-13', '22-20']",MS,20180216,"Algiers Algeria, Algeria"
+86,"['Youcef Sabri Medel', 'Ahmed Salah [2]']","['[ALG] ', '[EGY] ']","['18-21', '21-18', '21-16']",MS,20180216,"Algiers Algeria, Algeria"
+87,"['Kate Foo Kune [1]', 'Ganesha Mungrah']","['[MRI] ', '[MRI] ']","['21-8', '21-9']",WS,20180216,"Algiers Algeria, Algeria"
+88,"['Halla Bouksani [7]', 'Gifty Mensah']","['[ALG] ', '[GHA] ']","['21-4', '21-4']",WS,20180216,"Algiers Algeria, Algeria"
+89,"['Hadia Hosny [3]', 'Dounia Naama']","['[EGY] ', '[ALG] ']","['21-15', '21-7']",WS,20180216,"Algiers Algeria, Algeria"
+90,"['Zainab Momoh [8]', 'Ines Ziani']","['[NGR] ', '[ALG] ']","['21-8', '21-8']",WS,20180216,"Algiers Algeria, Algeria"
+91,"['Doha Hany [5]', 'Salmeen Essam Elsaid Salem']","['[EGY] ', '[EGY] ']","['21-5', '21-1']",WS,20180216,"Algiers Algeria, Algeria"
+92,"['Aisha Nakiyemba [4]', 'Yasmina Chibah']","['[UGA] ', '[ALG] ']","['17-21', '21-12', '21-18']",WS,20180216,"Algiers Algeria, Algeria"
+93,"['Uchechukwu Deborah Ukeh', 'Linda Mazri [6]']","['[NGR] ', '[ALG] ']","['22-20', '16-21', '21-17']",WS,20180216,"Algiers Algeria, Algeria"
+94,"['Dorcas Ajoke Adesokan [2]', 'Hana Tarek Mohamed']","['[NGR] ', '[EGY] ']","['22-20', '21-11']",WS,20180216,"Algiers Algeria, Algeria"
+95,"['Godwin Olofua', 'Anuoluwapo Juwon Opeyori', 'Aatish Lubah [1]', 'Georges Julien Paul']","['[NGR] ', '[NGR] ', '[MRI] ', '[MRI] ']","['21-16', '18-21', '21-19']",MD,20180216,"Algiers Algeria, Algeria"
+96,"['Koceila Mammeri', 'Youcef Sabri Medel', 'Raffick Alfonso', 'Paul Kopolo']","['[ALG] ', '[ALG] ', '[ZIM] ', '[ZIM] ']","['21-9', '21-14']",MD,20180216,"Algiers Algeria, Algeria"
+97,"['Jean Bernard Bongout', 'Christopher Paul', 'Chongo Ezra Mulenga [3]', 'Kalombo Mulenga']","['[MRI] ', '[MRI] ', '[ZAM] ', '[ZAM] ']","['21-17', '21-19']",MD,20180216,"Algiers Algeria, Algeria"
+98,"['Adham Hatem Elgamal', 'Shady Mamdouh', 'Adam El Mernissi', 'Yassine El Mernissi']","['[EGY] ', '[EGY] ', '[MAR] ', '[MAR] ']","['21-16', '21-8']",MD,20180216,"Algiers Algeria, Algeria"
+99,"['Daniel Sam', 'Emmanuel Yaw Donkor', 'Majed Yacine Balahoune', 'Mohamed Amine Guelmaoui']","['[GHA] ', '[GHA] ', '[ALG] ', '[ALG] ']","['21-14', '21-12']",MD,20180216,"Algiers Algeria, Algeria"
+100,"['Mohamed Abderrahime Belarbi [4]', 'Adel Hamek', 'Melvin Appiah', 'Tejraj Pultoo']","['[ALG] ', '[ALG] ', '[MRI] ', '[MRI] ']","['16-21', '21-12', '21-10']",MD,20180216,"Algiers Algeria, Algeria"
+101,"['Bilal Elharab', 'Ahmed Amine Ksikes', 'Paulin Nguele Biya', 'Antoine Eddy Owona Ndimako']","['[MAR] ', '[MAR] ', '[CMR] ', '[CMR] ']","['21-17', '21-12']",MD,20180216,"Algiers Algeria, Algeria"
+102,"['Abdelrahman Abdelhakim [2]', 'Ahmed Salah', 'Ashel Dziva', 'Thabani Mathe']","['[EGY] ', '[EGY] ', '[ZIM] ', '[ZIM] ']","['21-12', '21-11']",MD,20180216,"Algiers Algeria, Algeria"
+103,"['Doha Hany [1]', 'Hadia Hosny', 'Sendila Mourat', 'Ganesha Mungrah']","['[EGY] ', '[EGY] ', '[MRI] ', '[MRI] ']","['21-13', '21-14']",WD,20180216,"Algiers Algeria, Algeria"
+104,"['Stella Koteikai Amasah', 'Eyram YAA Migbodzi', 'Imane Chekkal', 'Yasmina Chibah']","['[GHA] ', '[GHA] ', '[ALG] ', '[ALG] ']","['22-20', '21-14']",WD,20180216,"Algiers Algeria, Algeria"
+105,"['Zainab Momoh [4]', 'Peace Orji', 'Audrey Matsanura', 'Olga Matsanura']","['[NGR] ', '[NGR] ', '[ZIM] ', '[ZIM] ']",[],WD,20180216,"Algiers Algeria, Algeria"
+106,"['Gladys Mbabazi', 'Aisha Nakiyemba', 'Dounia Naama', 'Malak Ouchefoun']","['[UGA] ', '[UGA] ', '[ALG] ', '[ALG] ']","['23-21', '21-14']",WD,20180216,"Algiers Algeria, Algeria"
+107,"['Juliette Ah-Wan', 'Allisen Camille', 'Salmeen Essam Elsaid Salem', 'Hana Tarek Mohamed']","['[SEY] ', '[SEY] ', '[EGY] ', '[EGY] ']","['21-8', '21-14']",WD,20180216,"Algiers Algeria, Algeria"
+108,"['Aurelie Marie Elisa Allet [3]', 'Kobita Dookhee', 'Grace ANNABEL Atipaka', 'Gifty Mensah']","['[MRI] ', '[MRI] ', '[GHA] ', '[GHA] ']","['21-8', '21-9']",WD,20180216,"Algiers Algeria, Algeria"
+109,"['Ferd Houda', 'Amrouni Kahina', 'Louise Lisane Mbas', 'Stella Joel Ngadjui']","['[ALG] ', '[ALG] ', '[CMR] ', '[CMR] ']","['21-11', '21-10']",WD,20180216,"Algiers Algeria, Algeria"
+110,"['Halla Bouksani [2]', 'Linda Mazri', 'Nyasha Kopolo', 'Kuzivakwashe Tritania Mudzamiri']","['[ALG] ', '[ALG] ', '[ZIM] ', '[ZIM] ']","['21-9', '21-7']",WD,20180216,"Algiers Algeria, Algeria"
+111,"['Clement Krobakpo', 'Dorcas Ajoke Adesokan', 'Emmanuel Yaw Donkor [1]', 'Stella Koteikai Amasah']","['[NGR] ', '[NGR] ', '[GHA] ', '[GHA] ']","['21-14', '21-16']",XD,20180216,"Algiers Algeria, Algeria"
+112,"['Adham Hatem Elgamal [3]', 'Doha Hany', 'Majed Yacine Balahoune', 'Imane Chekkal']","['[EGY] ', '[EGY] ', '[ALG] ', '[ALG] ']","['21-11', '21-10']",XD,20180216,"Algiers Algeria, Algeria"
+113,"['Enejoh Abah [2]', 'Peace Orji', 'Tejraj Pultoo', 'Sendila Mourat']","['[NGR] ', '[NGR] ', '[MRI] ', '[MRI] ']","['21-11', '21-9']",XD,20180216,"Algiers Algeria, Algeria"
+114,"['Ahmed Salah', 'Hadia Hosny', 'Georges Julien Paul', 'Aurelie Marie Elisa Allet']","['[EGY] ', '[EGY] ', '[MRI] ', '[MRI] ']","['21-19', '21-19']",XD,20180216,"Algiers Algeria, Algeria"
+115,"['Koceila Mammeri [4]', 'Linda Mazri', 'Shady Mamdouh', 'Hana Tarek Mohamed']","['[ALG] ', '[ALG] ', '[EGY] ', '[EGY] ']","['21-15', '21-15']",XD,20180216,"Algiers Algeria, Algeria"
+116,"['Samy Khaldi', 'Halla Bouksani', 'Abdelrahman Abdelhakim', 'Salmeen Essam Elsaid Salem']","['[ALG] ', '[ALG] ', '[EGY] ', '[EGY] ']","['21-13', '18-21', '21-19']",XD,20180216,"Algiers Algeria, Algeria"
+117,"['Daniel Sam', 'Gifty Mensah', 'Antoine Eddy Owona Ndimako', 'Louise Lisane Mbas']","['[GHA] ', '[GHA] ', '[CMR] ', '[CMR] ']","['21-15', '21-9']",XD,20180216,"Algiers Algeria, Algeria"
+118,"['Bilal Elharab', 'Rajae Rochdy', 'Aatish Lubah', 'Kobita Dookhee']","['[MAR] ', '[MAR] ', '[MRI] ', '[MRI] ']","['21-10', '16-21', '21-19']",XD,20180216,"Algiers Algeria, Algeria"
+119,"['Georges Julien Paul [1]', 'Emmanuel Yaw Donkor [7]']","['[MRI] ', '[GHA] ']","['21-19', '21-16']",MS,20180216,"Algiers Algeria, Algeria"
+120,"['Clement Krobakpo [5]', 'Anuoluwapo Juwon Opeyori']","['[NGR] ', '[NGR] ']","['21-16', '21-19']",MS,20180216,"Algiers Algeria, Algeria"
+121,"['Aatish Lubah [4]', 'Kalombo Mulenga']","['[MRI] ', '[ZAM] ']","['21-23', '21-16', '21-13']",MS,20180216,"Algiers Algeria, Algeria"
+122,"['Habeeb Temitope Bello [8]', 'Youcef Sabri Medel']","['[NGR] ', '[ALG] ']","['21-13', '16-21', '21-10']",MS,20180216,"Algiers Algeria, Algeria"
+123,"['Kate Foo Kune [1]', 'Halla Bouksani [7]']","['[MRI] ', '[ALG] ']","['21-10', '21-17']",WS,20180216,"Algiers Algeria, Algeria"
+124,"['Hadia Hosny [3]', 'Zainab Momoh [8]']","['[EGY] ', '[NGR] ']","['21-10', '21-17']",WS,20180216,"Algiers Algeria, Algeria"
+125,"['Doha Hany [5]', 'Aisha Nakiyemba [4]']","['[EGY] ', '[UGA] ']","['21-14', '21-6']",WS,20180216,"Algiers Algeria, Algeria"
+126,"['Dorcas Ajoke Adesokan [2]', 'Uchechukwu Deborah Ukeh']","['[NGR] ', '[NGR] ']","['21-11', '21-15']",WS,20180216,"Algiers Algeria, Algeria"
+127,"['Koceila Mammeri', 'Youcef Sabri Medel', 'Godwin Olofua', 'Anuoluwapo Juwon Opeyori']","['[ALG] ', '[ALG] ', '[NGR] ', '[NGR] ']","['17-21', '21-13', '21-16']",MD,20180216,"Algiers Algeria, Algeria"
+128,"['Jean Bernard Bongout', 'Christopher Paul', 'Adham Hatem Elgamal', 'Shady Mamdouh']","['[MRI] ', '[MRI] ', '[EGY] ', '[EGY] ']","['21-18', '21-13']",MD,20180216,"Algiers Algeria, Algeria"
+129,"['Mohamed Abderrahime Belarbi [4]', 'Adel Hamek', 'Daniel Sam', 'Emmanuel Yaw Donkor']","['[ALG] ', '[ALG] ', '[GHA] ', '[GHA] ']","['21-15', '21-16']",MD,20180216,"Algiers Algeria, Algeria"
+130,"['Abdelrahman Abdelhakim [2]', 'Ahmed Salah', 'Bilal Elharab', 'Ahmed Amine Ksikes']","['[EGY] ', '[EGY] ', '[MAR] ', '[MAR] ']","['21-12', '21-7']",MD,20180216,"Algiers Algeria, Algeria"
+131,"['Doha Hany [1]', 'Hadia Hosny', 'Stella Koteikai Amasah', 'Eyram YAA Migbodzi']","['[EGY] ', '[EGY] ', '[GHA] ', '[GHA] ']","['21-9', '21-14']",WD,20180216,"Algiers Algeria, Algeria"
+132,"['Zainab Momoh [4]', 'Peace Orji', 'Gladys Mbabazi', 'Aisha Nakiyemba']","['[NGR] ', '[NGR] ', '[UGA] ', '[UGA] ']","['21-15', '21-9']",WD,20180216,"Algiers Algeria, Algeria"
+133,"['Juliette Ah-Wan', 'Allisen Camille', 'Aurelie Marie Elisa Allet [3]', 'Kobita Dookhee']","['[SEY] ', '[SEY] ', '[MRI] ', '[MRI] ']","['21-19', '21-15']",WD,20180216,"Algiers Algeria, Algeria"
+134,"['Halla Bouksani [2]', 'Linda Mazri', 'Ferd Houda', 'Amrouni Kahina']","['[ALG] ', '[ALG] ', '[ALG] ', '[ALG] ']","['21-5', '21-5']",WD,20180216,"Algiers Algeria, Algeria"
+135,"['Ahmed Salah', 'Hadia Hosny', 'Clement Krobakpo', 'Dorcas Ajoke Adesokan']","['[EGY] ', '[EGY] ', '[NGR] ', '[NGR] ']","['21-15', '21-15']",XD,20180216,"Algiers Algeria, Algeria"
+136,"['Koceila Mammeri [4]', 'Linda Mazri', 'Samy Khaldi', 'Halla Bouksani']","['[ALG] ', '[ALG] ', '[ALG] ', '[ALG] ']","['21-10', '21-16']",XD,20180216,"Algiers Algeria, Algeria"
+137,"['Adham Hatem Elgamal [3]', 'Doha Hany', 'Daniel Sam', 'Gifty Mensah']","['[EGY] ', '[EGY] ', '[GHA] ', '[GHA] ']","['21-19', '19-21', '21-15']",XD,20180216,"Algiers Algeria, Algeria"
+138,"['Enejoh Abah [2]', 'Peace Orji', 'Bilal Elharab', 'Rajae Rochdy']","['[NGR] ', '[NGR] ', '[MAR] ', '[MAR] ']","['15-21', '21-9', '21-8']",XD,20180216,"Algiers Algeria, Algeria"
+139,"['Dorcas Ajoke Adesokan [2]', 'Doha Hany [5]']","['[NGR] ', '[EGY] ']","['21-14', '21-15']",WS ,20180216,"Algiers Algeria, Algeria"
+140,"['Juliette Ah-Wan', 'Allisen Camille', 'Halla Bouksani [2]', 'Linda Mazri']","['[SEY] ', '[SEY] ', '[ALG] ', '[ALG] ']","['21-16', '21-19']",WD ,20180216,"Algiers Algeria, Algeria"
+141,"['Koceila Mammeri', 'Youcef Sabri Medel', 'Jean Bernard Bongout', 'Christopher Paul']","['[ALG] ', '[ALG] ', '[MRI] ', '[MRI] ']","['21-18', '21-19']",MD ,20180216,"Algiers Algeria, Algeria"
+142,"['Koceila Mammeri [4]', 'Linda Mazri', 'Ahmed Salah', 'Hadia Hosny']","['[ALG] ', '[ALG] ', '[EGY] ', '[EGY] ']","['19-21', '21-17', '21-15']",XD ,20180216,"Algiers Algeria, Algeria"
+143,"['Koceila Mammeri [4]', 'Linda Mazri', 'Enejoh Abah [2]', 'Peace Orji']","['[ALG] ', '[ALG] ', '[NGR] ', '[NGR] ']","['21-17', '15-21', '21-12']",XD ,20180216,"Algiers Algeria, Algeria"
+144,"['Kate Foo Kune [1]', 'Dorcas Ajoke Adesokan [2]']","['[MRI] ', '[NGR] ']","['21-16', '21-19']",WS ,20180216,"Algiers Algeria, Algeria"
+145,"['Mohamed Abderrahime Belarbi [4]', 'Adel Hamek', 'Koceila Mammeri', 'Youcef Sabri Medel']","['[ALG] ', '[ALG] ', '[ALG] ', '[ALG] ']","['21-18', '20-22', '21-18']",MD ,20180216,"Algiers Algeria, Algeria"
+146,"['Kate Foo Kune [1]', 'Hadia Hosny [3]']","['[MRI] ', '[EGY] ']","['21-13', '18-21', '21-11']",WS ,20180216,"Algiers Algeria, Algeria"
+147,"['Georges Julien Paul [1]', 'Clement Krobakpo [5]']","['[MRI] ', '[NGR] ']","['21-13', '21-13']",MS ,20180216,"Algiers Algeria, Algeria"
+148,"['Doha Hany [1]', 'Hadia Hosny', 'Zainab Momoh [4]', 'Peace Orji']","['[EGY] ', '[EGY] ', '[NGR] ', '[NGR] ']","['21-11', '21-11']",WD ,20180216,"Algiers Algeria, Algeria"
+149,"['Enejoh Abah [2]', 'Peace Orji', 'Adham Hatem Elgamal [3]', 'Doha Hany']","['[NGR] ', '[NGR] ', '[EGY] ', '[EGY] ']","['21-19', '23-21']",XD ,20180216,"Algiers Algeria, Algeria"
+150,"['Georges Julien Paul [1]', 'Habeeb Temitope Bello [8]']","['[MRI] ', '[NGR] ']","['21-16', '15-21', '21-13']",MS ,20180216,"Algiers Algeria, Algeria"
+151,"['Juliette Ah-Wan', 'Allisen Camille', 'Doha Hany [1]', 'Hadia Hosny']","['[SEY] ', '[SEY] ', '[EGY] ', '[EGY] ']","['21-18', '13-21', '21-18']",WD ,20180216,"Algiers Algeria, Algeria"
+152,"['Habeeb Temitope Bello [8]', 'Aatish Lubah [4]']","['[NGR] ', '[MRI] ']","['21-14', '26-24']",MS ,20180216,"Algiers Algeria, Algeria"
+153,"['Mohamed Abderrahime Belarbi [4]', 'Adel Hamek', 'Abdelrahman Abdelhakim [2]', 'Ahmed Salah']","['[ALG] ', '[ALG] ', '[EGY] ', '[EGY] ']","['21-16', '21-18']",MD ,20180216,"Algiers Algeria, Algeria"

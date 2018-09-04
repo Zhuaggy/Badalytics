@@ -1,209 +1,209 @@
-,PLAYERS,COUNTRIES,SCORES,EVENT,match_week
-0,"['Marcus Ellis', 'Lauren Smith', 'Trikusuma Wardhana', 'Dian Fitriani']","['[ENG] ', '[ENG] ', '[INA] ', '[INA] ']","['21-11', '21-9']",XD - Qualification,20170404
-1,"['Reddy B. Sumeeth', 'Ashwini Ponnappa', 'Afiat Yuris Wirawan', 'Nadya Melati']","['[IND] ', '[IND] ', '[INA] ', '[INA] ']","['23-21', '21-5']",XD - Qualification,20170404
-2,"['Lukhi Apri Nugroho', 'Ririn Amelia', 'Yang Lee [3]', 'Hsu Ya Ching']","['[INA] ', '[INA] ', '[TPE] ', '[TPE] ']","['18-21', '21-18', '21-15']",XD - Qualification,20170404
-3,"['Pang Ron Hoo', 'Yen Wei Peck', 'Satwiksairaj Rankireddy', 'Maneesha K']","['[MAS] ', '[MAS] ', '[IND] ', '[IND] ']","['21-19', '19-21', '21-14']",XD - Qualification,20170404
-4,"['Hang Yee Low', 'Yee See Cheah', 'Yohanes Rendy Sugiarto', 'Keshya Nurvita Hanadia']","['[MAS] ', '[MAS] ', '[INA] ', '[INA] ']","['22-20', '11-5']",XD - Qualification,20170404
-5,"['Ben Lane', 'Jessica Pugh', 'Soren Gravholt [4]', 'Maiken Fruergaard']","['[ENG] ', '[ENG] ', '[DEN] ', '[DEN] ']","['23-21', '22-20']",XD - Qualification,20170404
-6,"['Chi-Lin Wang', 'Chia Hsin Lee', 'Yehezkiel Fritz Mainaky', 'Lyanny Alessandra Mainaky']","['[TPE] ', '[TPE] ', '[INA] ', '[INA] ']","['21-19', '21-16']",XD - Qualification,20170404
-7,"['Yogendran Khrishnan', 'Prajakta Sawant', 'Chirag Shetty', 'Mahima Aggarwal']","['[MAS] ', '[IND] ', '[IND] ', '[IND] ']","['21-12', '21-15']",XD - Qualification,20170404
-8,"['Mia Mawarti', 'Zahra Mahria Rossedy Permata']","['[INA] ', '[INA] ']","['21-7', '21-5']",WS - Qualification,20170404
-9,"['Jesica Muljati', 'Rusydina Antardayu Riodingin']","['[INA] ', '[INA] ']","['16-21', '21-19', '22-20']",WS - Qualification,20170404
-10,"['P. C. Thulasi', 'Purwaningtyas Elyzabeth']","['[IND] ', '[INA] ']",['18-1'],WS - Qualification,20170404
-11,"['Febby Angguni', 'Wan Yi Tang']","['[INA] ', '[TPE] ']","['16-21', '21-17', '21-15']",WS - Qualification,20170404
-12,"['Daren Liew', 'Teck Zhi Soo']","['[MAS] ', '[MAS] ']","['21-15', '21-10']",MS - Qualification,20170404
-13,"['Zhao Junpeng', 'Firman Abdul Kholik']","['[CHN] ', '[INA] ']","['14-21', '21-19', '21-10']",MS - Qualification,20170404
-14,"['Wei Feng Chong', 'Chun Seang Tan']","['[MAS] ', '[MAS] ']","['11-21', '21-15', '21-16']",MS - Qualification,20170404
-15,"['Takuma Ueda', 'Lin Yu Hsien']","['[JPN] ', '[TPE] ']","['21-13', '21-17']",MS - Qualification,20170404
-16,"['Brice Leverdez', 'Kazumasa Sakai']","['[FRA] ', '[JPN] ']","['21-19', '25-23']",MS - Qualification,20170404
-17,"['June Wei Cheam', 'Kwang Hee Heo']","['[MAS] ', '[KOR] ']","['18-21', '24-22', '21-17']",MS - Qualification,20170404
-18,"['Kenta Nishimoto', 'Emil Holst']","['[JPN] ', '[DEN] ']","['19-21', '21-13', '21-13']",MS - Qualification,20170404
-19,"['Jeon Hyeok Jin', 'Yee Han Chong']","['[KOR] ', '[MAS] ']","['21-12', '19-21', '21-16']",MS - Qualification,20170404
-20,"['Xiao Min Lin', 'Wu Fang Chien', 'Aghisna Fathkul Laili', 'Athiatun Rahimah']","['[TPE] ', '[TPE] ', '[INA] ', '[INA] ']","['21-10', '21-9']",WD - Qualification,20170404
-21,"['Bao Yixin', 'Yu Xiaohan', 'Jakkampudi Meghana [4]', 'Poorvisha S Ram']","['[CHN] ', '[CHN] ', '[IND] ', '[IND] ']","['21-7', '21-9']",WD - Qualification,20170404
-22,"['Dian Fitriani [3]', 'Nadya Melati', 'Ririn Amelia', 'Anna Ching Yik Cheong']","['[INA] ', '[INA] ', '[INA] ', '[MAS] ']","['21-11', '19-21', '21-11']",WD - Qualification,20170404
-23,"['Chee Tean Tan', 'Wee Gieen Tan', 'Altof Barriq', 'Reinard Dhanriano']","['[MAS] ', '[MAS] ', '[INA] ', '[INA] ']","['23-25', '21-15', '21-13']",MD - Qualification,20170404
-24,"['Aparna Balan', 'Prajakta Sawant', 'Rofahadah Supriadi Putri', 'Ganis Nur Rahmadani']","['[IND] ', '[IND] ', '[INA] ', '[INA] ']","['21-8', '21-5']",WD - Qualification,20170404
-25,"['Joyce Choong', 'Jing Yi Tee', 'Mahima Aggarwal', 'Maneesha K']","['[MAS] ', '[MAS] ', '[IND] ', '[IND] ']","['21-13', '21-14']",WD - Qualification,20170404
-26,"['Or Chin Chung [1]', 'Tang Chun Man', 'Ben Lane', 'Sean Vendy']","['[HKG] ', '[HKG] ', '[ENG] ', '[ENG] ']","['21-18', '21-19']",MD - Qualification,20170404
-27,"['Jian Yi Lee', 'Zhen Ting Lim', 'Mohd Razif Abdul Latif', 'Muhammad Hafiz Hashim']","['[MAS] ', '[MAS] ', '[MAS] ', '[MAS] ']","['21-15', '21-15']",MD - Qualification,20170404
-28,"['Peiy Yee, Payee Lim', 'Peiy Zhean Lim', 'Mia Mawarti', 'Zahra Mahria Rossedy Permata']","['[MAS] ', '[MAS] ', '[INA] ', '[INA] ']","['21-11', '21-14']",WD - Qualification,20170404
-29,"['Johanna Goliszewski [2]', 'Lara Kaepplein', 'Su Yu Chen', 'Wan Yi Tang']","['[GER] ', '[GER] ', '[TPE] ', '[TPE] ']","['21-8', '21-19']",WD - Qualification,20170404
-30,"['Hendra Setiawan', 'Boon Heong Tan', 'Jae Hwan Kim', 'Yoo Yeon Seong']","['[INA] ', '[MAS] ', '[KOR] ', '[KOR] ']","['21-14', '21-17']",MD - Qualification,20170404
-31,"['Satwiksairaj Rankireddy', 'Chirag Shetty', 'Lukhi Apri Nugroho', 'Tedi Supriadi']","['[IND] ', '[IND] ', '[INA] ', '[INA] ']","['21-10', '18-21', '21-13']",MD - Qualification,20170404
-32,"['Liao Kuan Hao [3]', 'Lu Chia Pin', 'Sze Fei Goh', 'Nur Izzuddin']","['[TPE] ', '[TPE] ', '[MAS] ', '[MAS] ']","['21-18', '21-17']",MD - Qualification,20170404
-33,"['Nur Mohd Azriyn Ayub', 'Jagdish Singh', 'Arjun M.R.', 'Ramchandran Shlok']","['[MAS] ', '[MAS] ', '[IND] ', '[IND] ']","['21-19', '21-15']",MD - Qualification,20170404
-34,"['Hiroyuki Endo [2]', 'Yuta Watanabe', 'Solgyu Choi', 'Kim Gi Jung']","['[JPN] ', '[JPN] ', '[KOR] ', '[KOR] ']","['21-18', '21-14']",MD - Qualification,20170404
-35,"['Marcus Ellis', 'Lauren Smith', 'Reddy B. Sumeeth', 'Ashwini Ponnappa']","['[ENG] ', '[ENG] ', '[IND] ', '[IND] ']","['19-21', '21-17', '21-17']",XD - Qualification,20170404
-36,"['Ben Lane', 'Jessica Pugh', 'Hang Yee Low', 'Yee See Cheah']","['[ENG] ', '[ENG] ', '[MAS] ', '[MAS] ']","['21-14', '21-17']",XD - Qualification,20170404
-37,"['Yin Fun Lim [3]', 'Jesica Muljati']","['[MAS] ', '[INA] ']","['21-10', '16-21', '16-11']",WS - Qualification,20170404
-38,"['Susanto Yulia Yosephin [4]', 'P. C. Thulasi']","['[INA] ', '[IND] ']","['21-11', '21-16']",WS - Qualification,20170404
-39,"['Pang Ron Hoo', 'Yen Wei Peck', 'Lukhi Apri Nugroho', 'Ririn Amelia']","['[MAS] ', '[MAS] ', '[INA] ', '[INA] ']","['21-17', '15-21', '21-8']",XD - Qualification,20170404
-40,"['Chi-Lin Wang', 'Chia Hsin Lee', 'Yogendran Khrishnan', 'Prajakta Sawant']","['[TPE] ', '[TPE] ', '[MAS] ', '[IND] ']","['19-21', '21-19', '21-13']",XD - Qualification,20170404
-41,"['Su Yu Chen [2]', 'Febby Angguni']","['[TPE] ', '[INA] ']","['14-21', '21-16', '21-10']",WS - Qualification,20170404
-42,"['Daren Liew', 'Zhao Junpeng']","['[MAS] ', '[CHN] ']","['17-21', '21-15', '21-18']",MS - Qualification,20170404
-43,"['Takuma Ueda', 'Wei Feng Chong']","['[JPN] ', '[MAS] ']","['21-19', '21-11']",MS - Qualification,20170404
-44,"['Brice Leverdez', 'June Wei Cheam']","['[FRA] ', '[MAS] ']","['21-12', '21-19']",MS - Qualification,20170404
-45,"['Jeon Hyeok Jin', 'Kenta Nishimoto']","['[KOR] ', '[JPN] ']","['14-21', '21-17', '21-15']",MS - Qualification,20170404
-46,"['Hendra Setiawan', 'Boon Heong Tan', 'Jian Yi Lee', 'Zhen Ting Lim']","['[INA] ', '[MAS] ', '[MAS] ', '[MAS] ']","['21-15', '21-17']",MD - Qualification,20170404
-47,"['Or Chin Chung [1]', 'Tang Chun Man', 'Chee Tean Tan', 'Wee Gieen Tan']","['[HKG] ', '[HKG] ', '[MAS] ', '[MAS] ']","['21-15', '21-18']",MD - Qualification,20170404
-48,"['Hiroyuki Endo [2]', 'Yuta Watanabe', 'Nur Mohd Azriyn Ayub', 'Jagdish Singh']","['[JPN] ', '[JPN] ', '[MAS] ', '[MAS] ']","['21-18', '21-16']",MD - Qualification,20170404
-49,"['Bao Yixin', 'Yu Xiaohan', 'Aparna Balan', 'Prajakta Sawant']","['[CHN] ', '[CHN] ', '[IND] ', '[IND] ']","['21-13', '21-17']",WD - Qualification,20170404
-50,"['Dian Fitriani [3]', 'Nadya Melati', 'Peiy Yee, Payee Lim', 'Peiy Zhean Lim']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['21-12', '21-12']",WD - Qualification,20170404
-51,"['Joyce Choong', 'Jing Yi Tee', 'Johanna Goliszewski [2]', 'Lara Kaepplein']","['[MAS] ', '[MAS] ', '[GER] ', '[GER] ']","['22-20', '21-19']",WD - Qualification,20170404
-52,"['Liao Kuan Hao [3]', 'Lu Chia Pin', 'Satwiksairaj Rankireddy', 'Chirag Shetty']","['[TPE] ', '[TPE] ', '[IND] ', '[IND] ']","['21-18', '21-16']",MD - Qualification,20170404
-53,"['Misaki Matsutomo [1]', 'Ayaka Takahashi', 'Ashwini Ponnappa', 'Reddy N. Sikki']","['[JPN] ', '[JPN] ', '[IND] ', '[IND] ']","['21-19', '21-15']",WD,20170404
-54,"['Anggia Shitta Awanda', 'Ni Ketut Mahadewi Istarani', 'Yin Loo Lim', 'Yap Cheng Wen']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['21-23', '21-11', '21-17']",WD,20170404
-55,"['Huang Dongping [8]', 'Li Yinhui', 'Poon Lok Yan', 'Tse Ying Suet']","['[CHN] ', '[CHN] ', '[HKG] ', '[HKG] ']","['21-17', '18-21', '21-14']",WD,20170404
-56,"['Shiho Tanaka', 'Koharu Yonemoto', 'Jongkolphan Kititharakul', 'Rawinda Prajongjai']","['[JPN] ', '[JPN] ', '[THA] ', '[THA] ']","['16-21', '21-15', '22-20']",WD,20170404
-57,"['Naoko Fukuman [7]', 'Kurumi Yonao', 'Hsu Ya Ching', 'Wu Ti Jung']","['[JPN] ', '[JPN] ', '[TPE] ', '[TPE] ']","['14-21', '21-14', '21-19']",WD,20170404
-58,"['Chen Qingchen [4]', 'Jia Yifan', 'Lauren Smith', 'Sarah Walker']","['[CHN] ', '[CHN] ', '[ENG] ', '[ENG] ']","['21-13', '21-14']",WD,20170404
-59,"['Yuki Fukushima', 'Sayaka Hirota', 'Chae Yoo Jung', 'Kim Ha Na']","['[JPN] ', '[JPN] ', '[KOR] ', '[KOR] ']","['21-13', '21-14']",WD,20170404
-60,"['Huang Yaqiong', 'Tang Jinhua', 'Chiang Kai Hsin', 'Hung Shih Han']","['[CHN] ', '[CHN] ', '[TPE] ', '[TPE] ']","['21-12', '21-13']",WD,20170404
-61,"['Jung Kyung Eun [3]', 'Shin Seung Chan', 'Sanjana Santosh', 'Arathi Sara Sunil']","['[KOR] ', '[KOR] ', '[IND] ', '[IND] ']","['21-12', '21-8']",WD,20170404
-62,"['Gabriela Stoeva', 'Stefani Stoeva', 'Keshya Nurvita Hanadia', 'Devi Tika Permatasari']","['[BUL] ', '[BUL] ', '[INA] ', '[INA] ']","['21-10', '21-16']",WD,20170404
-63,"['Chang Ye Na [5]', 'Lee So Hee', 'Puttita Supajirakul', 'Sapsiree Taerattanachai']","['[KOR] ', '[KOR] ', '[THA] ', '[THA] ']","['21-14', '21-8']",WD,20170404
-64,"['Della Destiara Haris', 'Rosyita Eka Putri Sari', 'Maiken Fruergaard', 'Sara Thygesen']","['[INA] ', '[INA] ', '[DEN] ', '[DEN] ']","['18-21', '21-10', '21-12']",WD,20170404
-65,"['Sung Ji Hyun [3]', 'Minatsu Mitani']","['[KOR] ', '[JPN] ']","['21-18', '21-15']",WS,20170404
-66,"['Chris Adcock [7]', 'Gabrielle Adcock', 'Lin Chia Yu', 'Wu Ti Jung']","['[ENG] ', '[ENG] ', '[TPE] ', '[TPE] ']","['21-16', '21-15']",XD,20170404
-67,"['Chia Hsin Lee', 'Kim Hyo Min']","['[TPE] ', '[KOR] ']","['21-16', '16-21', '21-16']",WS,20170404
-68,"['Fu Haifeng', 'Zheng Siwei', 'Vladimir Ivanov', 'Ivan Sozonov']","['[CHN] ', '[CHN] ', '[RUS] ', '[RUS] ']","['22-20', '17-21', '21-14']",MD,20170404
-69,"['Yew Sin Ong', 'Ee Yi Teo', 'Mads Conrad-Petersen [6]', 'Mads Pieler Kolding']","['[MAS] ', '[MAS] ', '[DEN] ', '[DEN] ']","['21-19', '16-21', '21-10']",MD,20170404
-70,"['Dechapol Puavaranukroh', 'Sapsiree Taerattanachai', 'Mathias Christiansen', 'Sara Thygesen']","['[THA] ', '[THA] ', '[DEN] ', '[DEN] ']","['21-19', '18-21', '21-14']",XD,20170404
-71,"['Nitchaon Jindapol', 'Chiang Mei Hui']","['[THA] ', '[TPE] ']","['21-15', '22-20']",WS,20170404
-72,"['Chou Tien Chen', 'Hans-Kristian Solberg Vittinghus']","['[TPE] ', '[DEN] ']","['22-20', '21-12']",MS,20170404
-73,"['Luo Ying [6]', 'Luo Yu', 'Joyce Choong', 'Jing Yi Tee']","['[CHN] ', '[CHN] ', '[MAS] ', '[MAS] ']","['21-14', '21-18']",WD,20170404
-74,"['Mei Kuan Chow', 'Lee Meng Yean', 'Dian Fitriani', 'Nadya Melati']","['[MAS] ', '[MAS] ', '[INA] ', '[INA] ']","['21-18', '21-14']",WD,20170404
-75,"['Carolina Marin [2]', 'Yip Pui Yin']","['[ESP] ', '[HKG] ']","['21-16', '21-11']",WS,20170404
-76,"['Jonatan Christie', 'Anthony Sinisuka Ginting']","['[INA] ', '[INA] ']","['21-17', '21-12']",MS,20170404
-77,"['Lu Ching Yao', 'Yang Po Han', 'Marcus Ellis', 'Chris Langridge']","['[TPE] ', '[TPE] ', '[ENG] ', '[ENG] ']","['24-22', '14-21', '21-14']",MD,20170404
-78,"['Bao Yixin', 'Yu Xiaohan', 'Vivian Hoo', 'Khe Wei Woon']","['[CHN] ', '[CHN] ', '[MAS] ', '[MAS] ']","['13-21', '21-17', '28-26']",WD,20170404
-79,"['Liu Cheng', 'Zhang Nan', 'Lee Sheng Mu', 'Tsai Chia Hsin']","['[CHN] ', '[CHN] ', '[TPE] ', '[TPE] ']","['21-15', '21-14']",MD,20170404
-80,"['Bodin Isara', 'Nipitphon Phuangphuapet', 'Ricky Karandasuwardi [7]', 'Angga Pratama']","['[THA] ', '[THA] ', '[INA] ', '[INA] ']","['21-18', '16-21', '21-16']",MD,20170404
-81,"['Kamilla Rytter Juhl [2]', 'Christinna Pedersen', 'Xiao Min Lin', 'Wu Fang Chien']","['[DEN] ', '[DEN] ', '[TPE] ', '[TPE] ']","['21-8', '21-14']",WD,20170404
-82,"['Tommy Sugiarto', 'Marc Zwiebler']","['[INA] ', '[GER] ']","['21-13', '21-9']",MS,20170404
-83,"['Son Wan Ho [5]', 'Takuma Ueda']","['[KOR] ', '[JPN] ']","['21-12', '21-17']",MS,20170404
-84,"['Brice Leverdez', 'Tian Houwei [6]']","['[FRA] ', '[CHN] ']","['21-17', '21-16']",MS,20170404
-85,"['Marcus Fernaldi Gideon [4]', 'Kevin Sanjaya Sukamuljo', 'Takuro Hoki', 'Yugo Kobayashi']","['[INA] ', '[INA] ', '[JPN] ', '[JPN] ']","['21-9', '21-19']",MD,20170404
-86,"['Busanan Ongbamrungphan', 'Hsu Ya Ching']","['[THA] ', '[TPE] ']","['21-10', '21-7']",WS,20170404
-87,"['Jeon Hyeok Jin', 'Lee Dong Keun']","['[KOR] ', '[KOR] ']","['22-20', '25-23']",MS,20170404
-88,"['Ratchanok Intanon [7]', 'Sayaka Sato']","['[THA] ', '[JPN] ']","['21-18', '21-10']",WS,20170404
-89,"['Kim Astrup [8]', 'Anders Skaarup Rasmussen', 'Chen Hung Ling', 'Chi-Lin Wang']","['[DEN] ', '[DEN] ', '[TPE] ', '[TPE] ']","['17-21', '21-17', '21-18']",MD,20170404
-90,"['Fajar Alfian', 'Muhammad Rian Ardianto', 'Hiroyuki Endo', 'Yuta Watanabe']","['[INA] ', '[INA] ', '[JPN] ', '[JPN] ']","['19-21', '21-15', '21-19']",MD,20170404
-91,"['Takeshi Kamura [2]', 'Keigo Sonoda', 'Huang Kaixiang', 'Wang Yilyu']","['[JPN] ', '[JPN] ', '[CHN] ', '[CHN] ']","['21-13', '21-12']",MD,20170404
-92,"['Liao Kuan Hao', 'Lu Chia Pin', 'Manu Attri', 'Reddy B. Sumeeth']","['[TPE] ', '[TPE] ', '[IND] ', '[IND] ']","['18-21', '21-18', '21-17']",MD,20170404
-93,"['Sun Yu [5]', 'Soniia Cheah']","['[CHN] ', '[MAS] ']","['21-11', '22-20']",WS,20170404
-94,"['Beiwen Zhang', 'Ksenia Polikarpova']","['[USA] ', '[RUS] ']","['21-14', '21-12']",WS,20170404
-95,"['Li Junhui [5]', 'Liu Yuchen', 'Law Cheuk Him', 'Lee Chun Hei Reginald']","['[CHN] ', '[CHN] ', '[HKG] ', '[HKG] ']","['21-11', '21-10']",MD,20170404
-96,"['Viktor Axelsen [4]', 'Daren Liew']","['[DEN] ', '[MAS] ']","['21-12', '21-13']",MS,20170404
-97,"['Kittinupong Kedren', 'Dechapol Puavaranukroh', 'Mathias Christiansen', 'David Daugaard']","['[THA] ', '[THA] ', '[DEN] ', '[DEN] ']","['25-27', '21-14', '21-10']",MD,20170404
-98,"['Ajay Jayaram', 'Qiao Bin']","['[IND] ', '[CHN] ']","['21-11', '21-8']",MS,20170404
-99,"['Tang Chun Man', 'Tse Ying Suet', 'Ben Lane', 'Jessica Pugh']","['[HKG] ', '[HKG] ', '[ENG] ', '[ENG] ']","['21-17', '21-13']",XD,20170404
-100,"['Zhang Nan [5]', 'Li Yinhui', 'Alfian Eko Prasetya', 'Annisa Saufika']","['[CHN] ', '[CHN] ', '[INA] ', '[INA] ']","['21-14', '21-18']",XD,20170404
-101,"['Pai Yu Po', 'Yin Fun Lim']","['[TPE] ', '[MAS] ']","['16-21', '21-16', '21-16']",WS,20170404
-102,"['Akane Yamaguchi [4]', 'Saina Nehwal']","['[JPN] ', '[IND] ']","['19-21', '21-13', '21-15']",WS,20170404
-103,"['Praveen Jordan [6]', 'Debby Susanto', 'Nipitphon Phuangphuapet', 'Jongkolphan Kititharakul']","['[INA] ', '[INA] ', '[THA] ', '[THA] ']","['22-24', '21-12', '21-12']",XD,20170404
-104,"['Su Yu Chen', 'Line Kjaersfeldt']","['[TPE] ', '[DEN] ']","['16-21', '21-19', '22-20']",WS,20170404
-105,"['Tai Tzu Ying [1]', 'Lyanny Alessandra Mainaky']","['[TPE] ', '[INA] ']","['21-12', '21-10']",WS,20170404
-106,"['Chen Yufei', 'Pusarla V. Sindhu [6]']","['[CHN] ', '[IND] ']","['18-21', '21-19', '21-17']",WS,20170404
-107,"['Ng Ka Long Angus [8]', 'Tzu Wei Wang']","['[HKG] ', '[TPE] ']","['20-22', '21-17', '21-19']",MS,20170404
-108,"['Jin Wei Goh', 'Susanto Yulia Yosephin']","['[MAS] ', '[INA] ']","['21-15', '20-22', '21-17']",WS,20170404
-109,"['Zheng Siwei [1]', 'Chen Qingchen', 'Yuta Watanabe', 'Arisa Higashino']","['[CHN] ', '[CHN] ', '[JPN] ', '[JPN] ']","['21-17', '21-15']",XD,20170404
-110,"['Wang Yilyu', 'Huang Dongping', 'Goh Soon Huat', 'Shevon Jemie Lai']","['[CHN] ', '[CHN] ', '[MAS] ', '[MAS] ']",[],XD,20170404
-111,"['Cheung Ngan Yi', 'He Bingjiao [8]']","['[HKG] ', '[CHN] ']","['21-13', '21-12']",WS,20170404
-112,"['Wong Wing Ki Vincent', 'Shi Yuqi']","['[HKG] ', '[CHN] ']","['22-20', '10-21', '21-18']",MS,20170404
-113,"['Nozomi Okuhara', 'Mia Mawarti']","['[JPN] ', '[INA] ']","['21-9', '21-4']",WS,20170404
-114,"['Huang Yuxiang', 'Sony Dwi Kuncoro']","['[CHN] ', '[INA] ']","['21-17', '21-9']",MS,20170404
-115,"['Solgyu Choi', 'Chae Yoo Jung', 'Pang Ron Hoo', 'Yen Wei Peck']","['[KOR] ', '[KOR] ', '[MAS] ', '[MAS] ']","['22-20', '21-16']",XD,20170404
-116,"['Bodin Isara', 'Savitree Amitrapai', 'Hafiz Faizal', 'Shela Devi Aulia']","['[THA] ', '[THA] ', '[INA] ', '[INA] ']","['21-8', '21-15']",XD,20170404
-117,"['Mohammad Ahsan', 'Rian Agung Saputro', 'Hendra Setiawan', 'Boon Heong Tan']","['[INA] ', '[INA] ', '[INA] ', '[MAS] ']","['21-10', '15-21', '21-19']",MD,20170404
-118,"['Chen Long [3]', 'Wei Nan']","['[CHN] ', '[HKG] ']","['21-4', '21-9']",MS,20170404
-119,"['Or Chin Chung', 'Tang Chun Man', 'V Shem Goh [1]', 'Wee Kiong Tan']","['[HKG] ', '[HKG] ', '[MAS] ', '[MAS] ']","['21-17', '23-21']",MD,20170404
-120,"['Kah Ming Chooi', 'Low Juan Shen', 'Jhe-Huei Lee', 'Yang Lee']","['[MAS] ', '[MAS] ', '[TPE] ', '[TPE] ']","['22-20', '21-16']",MD,20170404
-121,"['Lu Kai [4]', 'Huang Yaqiong', 'Chi-Lin Wang', 'Chia Hsin Lee']","['[CHN] ', '[CHN] ', '[TPE] ', '[TPE] ']","['21-18', '21-14']",XD,20170404
-122,"['Lee Chong Wei [1]', 'Rajiv Ouseph']","['[MAS] ', '[ENG] ']","['21-16', '21-18']",MS,20170404
-123,"['Hu Yun', 'Anders Antonsen']","['[HKG] ', '[DEN] ']","['21-17', '19-21', '21-10']",MS,20170404
-124,"['Tontowi Ahmad [2]', 'Liliyana Natsir', 'Marcus Ellis', 'Lauren Smith']","['[INA] ', '[INA] ', '[ENG] ', '[ENG] ']","['21-12', '21-14']",XD,20170404
-125,"['Tanongsak Saensomboonsuk', 'Hsu Jen Hao']","['[THA] ', '[TPE] ']","['21-19', '21-14']",MS,20170404
-126,"['Chai Biao [3]', 'Hong Wei', 'Danny Bawa Chrisnanta', 'Hendra Wijaya']","['[CHN] ', '[CHN] ', '[SGP] ', '[SGP] ']","['21-15', '21-13']",MD,20170404
-127,"['Edi Subaktiar', 'Gloria Emanuelle Widjaja', 'Peng Soon Chan [8]', 'Liu Ying Goh']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['18-21', '21-19', '21-17']",XD,20170404
-128,"['Joachim Fischer Nielsen [3]', 'Christinna Pedersen', 'Lu Ching Yao', 'Chiang Kai Hsin']","['[DEN] ', '[DEN] ', '[TPE] ', '[TPE] ']","['21-13', '21-15']",XD,20170404
-129,"['Lin Dan [7]', 'Sai Praneeth B.']","['[CHN] ', '[IND] ']","['18-21', '21-19', '21-18']",MS,20170404
-130,"['Lee Chun Hei Reginald', 'Chau Hoi Wah', 'Kim Gi Jung', 'Shin Seung Chan']","['[HKG] ', '[HKG] ', '[KOR] ', '[KOR] ']","['17-21', '21-19', '21-17']",XD,20170404
-131,"['Kim Astrup', 'Line Kjaersfeldt', 'Pranaav Jerry Chopra', 'Reddy N. Sikki']","['[DEN] ', '[DEN] ', '[IND] ', '[IND] ']","['21-19', '19-21', '23-21']",XD,20170404
-132,"['Kenta Kazuno', 'Ayane Kurihara', 'Kian Meng Tan', 'Pei Jing Lai']","['[JPN] ', '[JPN] ', '[MAS] ', '[MAS] ']","['6-21', '21-19', '21-13']",XD,20170404
-133,"['Sung Ji Hyun [3]', 'Chia Hsin Lee']","['[KOR] ', '[TPE] ']","['21-7', '23-21']",WS ,20170404
-134,"['Jonatan Christie', 'Chou Tien Chen']","['[INA] ', '[TPE] ']","['21-23', '21-17', '21-19']",MS ,20170404
-135,"['Kamilla Rytter Juhl [2]', 'Christinna Pedersen', 'Della Destiara Haris', 'Rosyita Eka Putri Sari']","['[DEN] ', '[DEN] ', '[INA] ', '[INA] ']","['21-17', '21-13']",WD ,20170404
-136,"['Chai Biao [3]', 'Hong Wei', 'Kah Ming Chooi', 'Low Juan Shen']","['[CHN] ', '[CHN] ', '[MAS] ', '[MAS] ']","['21-6', '21-19']",MD ,20170404
-137,"['Misaki Matsutomo [1]', 'Ayaka Takahashi', 'Anggia Shitta Awanda', 'Ni Ketut Mahadewi Istarani']","['[JPN] ', '[JPN] ', '[INA] ', '[INA] ']","['21-17', '24-22']",WD ,20170404
-138,"['Lee Chun Hei Reginald', 'Chau Hoi Wah', 'Edi Subaktiar', 'Gloria Emanuelle Widjaja']","['[HKG] ', '[HKG] ', '[INA] ', '[INA] ']","['16-21', '21-17', '21-14']",XD ,20170404
-139,"['Carolina Marin [2]', 'Nitchaon Jindapol']","['[ESP] ', '[THA] ']","['21-14', '21-18']",WS ,20170404
-140,"['Joachim Fischer Nielsen [3]', 'Christinna Pedersen', 'Kenta Kazuno', 'Ayane Kurihara']","['[DEN] ', '[DEN] ', '[JPN] ', '[JPN] ']","['21-13', '21-19']",XD ,20170404
-141,"['Lee Chong Wei [1]', 'Hu Yun']","['[MAS] ', '[HKG] ']","['21-8', '21-6']",MS ,20170404
-142,"['Chen Yufei', 'Jin Wei Goh']","['[CHN] ', '[MAS] ']","['21-14', '21-12']",WS ,20170404
-143,"['Marcus Fernaldi Gideon [4]', 'Kevin Sanjaya Sukamuljo', 'Liu Cheng', 'Zhang Nan']","['[INA] ', '[INA] ', '[CHN] ', '[CHN] ']","['23-21', '21-16']",MD ,20170404
-144,"['Fu Haifeng', 'Zheng Siwei', 'Yew Sin Ong', 'Ee Yi Teo']","['[CHN] ', '[CHN] ', '[MAS] ', '[MAS] ']","['21-12', '21-11']",MD ,20170404
-145,"['Huang Dongping [8]', 'Li Yinhui', 'Shiho Tanaka', 'Koharu Yonemoto']","['[CHN] ', '[CHN] ', '[JPN] ', '[JPN] ']","['21-10', '16-21', '21-14']",WD ,20170404
-146,"['Kittinupong Kedren', 'Dechapol Puavaranukroh', 'Kim Astrup [8]', 'Anders Skaarup Rasmussen']","['[THA] ', '[THA] ', '[DEN] ', '[DEN] ']","['21-19', '20-22', '21-18']",MD ,20170404
-147,"['Son Wan Ho [5]', 'Tommy Sugiarto']","['[KOR] ', '[INA] ']","['21-15', '21-15']",MS ,20170404
-148,"['Akane Yamaguchi [4]', 'Su Yu Chen']","['[JPN] ', '[TPE] ']","['21-16', '21-14']",WS ,20170404
-149,"['Lin Dan [7]', 'Tanongsak Saensomboonsuk']","['[CHN] ', '[THA] ']","['21-8', '21-13']",MS ,20170404
-150,"['Zhang Nan [5]', 'Li Yinhui', 'Tang Chun Man', 'Tse Ying Suet']","['[CHN] ', '[CHN] ', '[HKG] ', '[HKG] ']","['21-15', '21-15']",XD ,20170404
-151,"['Solgyu Choi', 'Chae Yoo Jung', 'Praveen Jordan [6]', 'Debby Susanto']","['[KOR] ', '[KOR] ', '[INA] ', '[INA] ']","['21-12', '14-21', '21-19']",XD ,20170404
-152,"['Tai Tzu Ying [1]', 'Pai Yu Po']","['[TPE] ', '[TPE] ']","['21-6', '21-8']",WS ,20170404
-153,"['Jeon Hyeok Jin', 'Brice Leverdez']","['[KOR] ', '[FRA] ']","['21-13', '21-10']",MS ,20170404
-154,"['Tontowi Ahmad [2]', 'Liliyana Natsir', 'Kim Astrup', 'Line Kjaersfeldt']","['[INA] ', '[INA] ', '[DEN] ', '[DEN] ']",[],XD ,20170404
-155,"['Yuki Fukushima', 'Sayaka Hirota', 'Naoko Fukuman [7]', 'Kurumi Yonao']","['[JPN] ', '[JPN] ', '[JPN] ', '[JPN] ']","['22-20', '21-12']",WD ,20170404
-156,"['Chen Long [3]', 'Huang Yuxiang']","['[CHN] ', '[CHN] ']","['16-21', '21-18', '21-10']",MS ,20170404
-157,"['Chen Qingchen [4]', 'Jia Yifan', 'Mei Kuan Chow', 'Lee Meng Yean']","['[CHN] ', '[CHN] ', '[MAS] ', '[MAS] ']","['21-17', '18-21', '25-23']",WD ,20170404
-158,"['Wong Wing Ki Vincent', 'Ng Ka Long Angus [8]']","['[HKG] ', '[HKG] ']","['21-10', '15-21', '21-17']",MS ,20170404
-159,"['Bodin Isara', 'Nipitphon Phuangphuapet', 'Lu Ching Yao', 'Yang Po Han']","['[THA] ', '[THA] ', '[TPE] ', '[TPE] ']","['21-11', '21-14']",MD ,20170404
-160,"['Huang Yaqiong', 'Tang Jinhua', 'Luo Ying [6]', 'Luo Yu']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['21-17', '21-12']",WD ,20170404
-161,"['Takeshi Kamura [2]', 'Keigo Sonoda', 'Liao Kuan Hao', 'Lu Chia Pin']","['[JPN] ', '[JPN] ', '[TPE] ', '[TPE] ']","['21-12', '21-15']",MD ,20170404
-162,"['Sun Yu [5]', 'Beiwen Zhang']","['[CHN] ', '[USA] ']","['16-21', '21-15', '21-14']",WS ,20170404
-163,"['Ratchanok Intanon [7]', 'Busanan Ongbamrungphan']","['[THA] ', '[THA] ']","['23-21', '21-18']",WS ,20170404
-164,"['Nozomi Okuhara', 'Cheung Ngan Yi']","['[JPN] ', '[HKG] ']","['21-8', '21-19']",WS ,20170404
-165,"['Zheng Siwei [1]', 'Chen Qingchen', 'Bodin Isara', 'Savitree Amitrapai']","['[CHN] ', '[CHN] ', '[THA] ', '[THA] ']","['26-24', '21-19']",XD ,20170404
-166,"['Ajay Jayaram', 'Viktor Axelsen [4]']","['[IND] ', '[DEN] ']","['9-21', '21-14', '21-19']",MS ,20170404
-167,"['Chang Ye Na [5]', 'Lee So Hee', 'Gabriela Stoeva', 'Stefani Stoeva']","['[KOR] ', '[KOR] ', '[BUL] ', '[BUL] ']","['21-9', '21-9']",WD ,20170404
-168,"['Dechapol Puavaranukroh', 'Sapsiree Taerattanachai', 'Chris Adcock [7]', 'Gabrielle Adcock']","['[THA] ', '[THA] ', '[ENG] ', '[ENG] ']","['21-16', '21-19']",XD ,20170404
-169,"['Li Junhui [5]', 'Liu Yuchen', 'Fajar Alfian', 'Muhammad Rian Ardianto']","['[CHN] ', '[CHN] ', '[INA] ', '[INA] ']","['15-21', '21-17', '21-11']",MD ,20170404
-170,"['Lu Kai [4]', 'Huang Yaqiong', 'Wang Yilyu', 'Huang Dongping']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['21-16', '22-20']",XD ,20170404
-171,"['Bao Yixin', 'Yu Xiaohan', 'Jung Kyung Eun [3]', 'Shin Seung Chan']","['[CHN] ', '[CHN] ', '[KOR] ', '[KOR] ']","['21-13', '21-13']",WD ,20170404
-172,"['Or Chin Chung', 'Tang Chun Man', 'Mohammad Ahsan', 'Rian Agung Saputro']","['[HKG] ', '[HKG] ', '[INA] ', '[INA] ']","['21-18', '16-21', '21-18']",MD ,20170404
-173,"['Zheng Siwei [1]', 'Chen Qingchen', 'Lee Chun Hei Reginald', 'Chau Hoi Wah']","['[CHN] ', '[CHN] ', '[HKG] ', '[HKG] ']","['21-16', '21-9']",XD ,20170404
-174,"['Chang Ye Na [5]', 'Lee So Hee', 'Kamilla Rytter Juhl [2]', 'Christinna Pedersen']","['[KOR] ', '[KOR] ', '[DEN] ', '[DEN] ']","['12-21', '21-15', '21-14']",WD ,20170404
-175,"['Marcus Fernaldi Gideon [4]', 'Kevin Sanjaya Sukamuljo', 'Li Junhui [5]', 'Liu Yuchen']","['[INA] ', '[INA] ', '[CHN] ', '[CHN] ']","['7-21', '21-17', '21-17']",MD ,20170404
-176,"['Carolina Marin [2]', 'Ratchanok Intanon [7]']","['[ESP] ', '[THA] ']","['21-8', '18-21', '21-12']",WS ,20170404
-177,"['Tontowi Ahmad [2]', 'Liliyana Natsir', 'Solgyu Choi', 'Chae Yoo Jung']","['[INA] ', '[INA] ', '[KOR] ', '[KOR] ']","['16-21', '23-21', '22-20']",XD ,20170404
-178,"['Lin Dan [7]', 'Jonatan Christie']","['[CHN] ', '[INA] ']","['21-15', '14-21', '21-9']",MS ,20170404
-179,"['Misaki Matsutomo [1]', 'Ayaka Takahashi', 'Huang Dongping [8]', 'Li Yinhui']","['[JPN] ', '[JPN] ', '[CHN] ', '[CHN] ']","['18-21', '21-14', '21-17']",WD ,20170404
-180,"['Tai Tzu Ying [1]', 'Chen Yufei']","['[TPE] ', '[CHN] ']","['21-17', '20-22', '24-22']",WS ,20170404
-181,"['Takeshi Kamura [2]', 'Keigo Sonoda', 'Bodin Isara', 'Nipitphon Phuangphuapet']","['[JPN] ', '[JPN] ', '[THA] ', '[THA] ']","['21-16', '21-19']",MD ,20170404
-182,"['Nozomi Okuhara', 'Akane Yamaguchi [4]']","['[JPN] ', '[JPN] ']","['21-18', '22-20']",WS ,20170404
-183,"['Fu Haifeng', 'Zheng Siwei', 'Or Chin Chung', 'Tang Chun Man']","['[CHN] ', '[CHN] ', '[HKG] ', '[HKG] ']","['21-18', '21-18']",MD ,20170404
-184,"['Yuki Fukushima', 'Sayaka Hirota', 'Chen Qingchen [4]', 'Jia Yifan']","['[JPN] ', '[JPN] ', '[CHN] ', '[CHN] ']","['21-18', '25-23']",WD ,20170404
-185,"['Lee Chong Wei [1]', 'Jeon Hyeok Jin']","['[MAS] ', '[KOR] ']","['21-11', '21-14']",MS ,20170404
-186,"['Lu Kai [4]', 'Huang Yaqiong', 'Dechapol Puavaranukroh', 'Sapsiree Taerattanachai']","['[CHN] ', '[CHN] ', '[THA] ', '[THA] ']","['21-16', '21-17']",XD ,20170404
-187,"['Son Wan Ho [5]', 'Ajay Jayaram']","['[KOR] ', '[IND] ']","['21-18', '21-14']",MS ,20170404
-188,"['Sung Ji Hyun [3]', 'Sun Yu [5]']","['[KOR] ', '[CHN] ']","['21-11', '21-15']",WS ,20170404
-189,"['Wong Wing Ki Vincent', 'Chen Long [3]']","['[HKG] ', '[CHN] ']",[],MS ,20170404
-190,"['Huang Yaqiong', 'Tang Jinhua', 'Bao Yixin', 'Yu Xiaohan']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['21-17', '21-14']",WD ,20170404
-191,"['Chai Biao [3]', 'Hong Wei', 'Kittinupong Kedren', 'Dechapol Puavaranukroh']","['[CHN] ', '[CHN] ', '[THA] ', '[THA] ']","['21-19', '20-22', '21-16']",MD ,20170404
-192,"['Zhang Nan [5]', 'Li Yinhui', 'Joachim Fischer Nielsen [3]', 'Christinna Pedersen']","['[CHN] ', '[CHN] ', '[DEN] ', '[DEN] ']","['23-21', '21-19']",XD ,20170404
-193,"['Zheng Siwei [1]', 'Chen Qingchen', 'Zhang Nan [5]', 'Li Yinhui']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['21-19', '21-14']",XD ,20170404
-194,"['Yuki Fukushima', 'Sayaka Hirota', 'Misaki Matsutomo [1]', 'Ayaka Takahashi']","['[JPN] ', '[JPN] ', '[JPN] ', '[JPN] ']","['21-18', '21-19']",WD ,20170404
-195,"['Lu Kai [4]', 'Huang Yaqiong', 'Tontowi Ahmad [2]', 'Liliyana Natsir']","['[CHN] ', '[CHN] ', '[INA] ', '[INA] ']","['21-8', '21-16']",XD ,20170404
-196,"['Lin Dan [7]', 'Son Wan Ho [5]']","['[CHN] ', '[KOR] ']","['27-25', '19-21', '21-16']",MS ,20170404
-197,"['Fu Haifeng', 'Zheng Siwei', 'Chai Biao [3]', 'Hong Wei']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['17-21', '21-14', '21-19']",MD ,20170404
-198,"['Tai Tzu Ying [1]', 'Sung Ji Hyun [3]']","['[TPE] ', '[KOR] ']","['20-22', '21-13', '21-12']",WS ,20170404
-199,"['Huang Yaqiong', 'Tang Jinhua', 'Chang Ye Na [5]', 'Lee So Hee']","['[CHN] ', '[CHN] ', '[KOR] ', '[KOR] ']","['22-20', '18-21', '21-16']",WD ,20170404
-200,"['Lee Chong Wei [1]', 'Wong Wing Ki Vincent']","['[MAS] ', '[HKG] ']","['21-12', '21-9']",MS ,20170404
-201,"['Carolina Marin [2]', 'Nozomi Okuhara']","['[ESP] ', '[JPN] ']","['23-21', '21-19']",WS ,20170404
-202,"['Marcus Fernaldi Gideon [4]', 'Kevin Sanjaya Sukamuljo', 'Takeshi Kamura [2]', 'Keigo Sonoda']","['[INA] ', '[INA] ', '[JPN] ', '[JPN] ']","['21-16', '21-13']",MD ,20170404
-203,"['Zheng Siwei [1]', 'Chen Qingchen', 'Lu Kai [4]', 'Huang Yaqiong']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['21-15', '21-18']",XD ,20170404
-204,"['Tai Tzu Ying [1]', 'Carolina Marin [2]']","['[TPE] ', '[ESP] ']","['23-25', '22-20', '21-13']",WS ,20170404
-205,"['Lin Dan [7]', 'Lee Chong Wei [1]']","['[CHN] ', '[MAS] ']","['21-19', '21-14']",MS ,20170404
-206,"['Yuki Fukushima', 'Sayaka Hirota', 'Huang Yaqiong', 'Tang Jinhua']","['[JPN] ', '[JPN] ', '[CHN] ', '[CHN] ']","['21-17', '18-21', '21-12']",WD ,20170404
-207,"['Marcus Fernaldi Gideon [4]', 'Kevin Sanjaya Sukamuljo', 'Fu Haifeng', 'Zheng Siwei']","['[INA] ', '[INA] ', '[CHN] ', '[CHN] ']","['21-14', '14-21', '21-12']",MD ,20170404
+,PLAYERS,COUNTRIES,SCORES,EVENT,match_week,match_location
+0,"['Marcus Ellis', 'Lauren Smith', 'Trikusuma Wardhana', 'Dian Fitriani']","['[ENG] ', '[ENG] ', '[INA] ', '[INA] ']","['21-11', '21-9']",XD - Qualification,20170404,"Kuching, Malaysia"
+1,"['Reddy B. Sumeeth', 'Ashwini Ponnappa', 'Afiat Yuris Wirawan', 'Nadya Melati']","['[IND] ', '[IND] ', '[INA] ', '[INA] ']","['23-21', '21-5']",XD - Qualification,20170404,"Kuching, Malaysia"
+2,"['Lukhi Apri Nugroho', 'Ririn Amelia', 'Yang Lee [3]', 'Hsu Ya Ching']","['[INA] ', '[INA] ', '[TPE] ', '[TPE] ']","['18-21', '21-18', '21-15']",XD - Qualification,20170404,"Kuching, Malaysia"
+3,"['Pang Ron Hoo', 'Yen Wei Peck', 'Satwiksairaj Rankireddy', 'Maneesha K']","['[MAS] ', '[MAS] ', '[IND] ', '[IND] ']","['21-19', '19-21', '21-14']",XD - Qualification,20170404,"Kuching, Malaysia"
+4,"['Hang Yee Low', 'Yee See Cheah', 'Yohanes Rendy Sugiarto', 'Keshya Nurvita Hanadia']","['[MAS] ', '[MAS] ', '[INA] ', '[INA] ']","['22-20', '11-5']",XD - Qualification,20170404,"Kuching, Malaysia"
+5,"['Ben Lane', 'Jessica Pugh', 'Soren Gravholt [4]', 'Maiken Fruergaard']","['[ENG] ', '[ENG] ', '[DEN] ', '[DEN] ']","['23-21', '22-20']",XD - Qualification,20170404,"Kuching, Malaysia"
+6,"['Chi-Lin Wang', 'Chia Hsin Lee', 'Yehezkiel Fritz Mainaky', 'Lyanny Alessandra Mainaky']","['[TPE] ', '[TPE] ', '[INA] ', '[INA] ']","['21-19', '21-16']",XD - Qualification,20170404,"Kuching, Malaysia"
+7,"['Yogendran Khrishnan', 'Prajakta Sawant', 'Chirag Shetty', 'Mahima Aggarwal']","['[MAS] ', '[IND] ', '[IND] ', '[IND] ']","['21-12', '21-15']",XD - Qualification,20170404,"Kuching, Malaysia"
+8,"['Mia Mawarti', 'Zahra Mahria Rossedy Permata']","['[INA] ', '[INA] ']","['21-7', '21-5']",WS - Qualification,20170404,"Kuching, Malaysia"
+9,"['Jesica Muljati', 'Rusydina Antardayu Riodingin']","['[INA] ', '[INA] ']","['16-21', '21-19', '22-20']",WS - Qualification,20170404,"Kuching, Malaysia"
+10,"['P. C. Thulasi', 'Purwaningtyas Elyzabeth']","['[IND] ', '[INA] ']",['18-1'],WS - Qualification,20170404,"Kuching, Malaysia"
+11,"['Febby Angguni', 'Wan Yi Tang']","['[INA] ', '[TPE] ']","['16-21', '21-17', '21-15']",WS - Qualification,20170404,"Kuching, Malaysia"
+12,"['Daren Liew', 'Teck Zhi Soo']","['[MAS] ', '[MAS] ']","['21-15', '21-10']",MS - Qualification,20170404,"Kuching, Malaysia"
+13,"['Zhao Junpeng', 'Firman Abdul Kholik']","['[CHN] ', '[INA] ']","['14-21', '21-19', '21-10']",MS - Qualification,20170404,"Kuching, Malaysia"
+14,"['Wei Feng Chong', 'Chun Seang Tan']","['[MAS] ', '[MAS] ']","['11-21', '21-15', '21-16']",MS - Qualification,20170404,"Kuching, Malaysia"
+15,"['Takuma Ueda', 'Lin Yu Hsien']","['[JPN] ', '[TPE] ']","['21-13', '21-17']",MS - Qualification,20170404,"Kuching, Malaysia"
+16,"['Brice Leverdez', 'Kazumasa Sakai']","['[FRA] ', '[JPN] ']","['21-19', '25-23']",MS - Qualification,20170404,"Kuching, Malaysia"
+17,"['June Wei Cheam', 'Kwang Hee Heo']","['[MAS] ', '[KOR] ']","['18-21', '24-22', '21-17']",MS - Qualification,20170404,"Kuching, Malaysia"
+18,"['Kenta Nishimoto', 'Emil Holst']","['[JPN] ', '[DEN] ']","['19-21', '21-13', '21-13']",MS - Qualification,20170404,"Kuching, Malaysia"
+19,"['Jeon Hyeok Jin', 'Yee Han Chong']","['[KOR] ', '[MAS] ']","['21-12', '19-21', '21-16']",MS - Qualification,20170404,"Kuching, Malaysia"
+20,"['Xiao Min Lin', 'Wu Fang Chien', 'Aghisna Fathkul Laili', 'Athiatun Rahimah']","['[TPE] ', '[TPE] ', '[INA] ', '[INA] ']","['21-10', '21-9']",WD - Qualification,20170404,"Kuching, Malaysia"
+21,"['Bao Yixin', 'Yu Xiaohan', 'Jakkampudi Meghana [4]', 'Poorvisha S Ram']","['[CHN] ', '[CHN] ', '[IND] ', '[IND] ']","['21-7', '21-9']",WD - Qualification,20170404,"Kuching, Malaysia"
+22,"['Dian Fitriani [3]', 'Nadya Melati', 'Ririn Amelia', 'Anna Ching Yik Cheong']","['[INA] ', '[INA] ', '[INA] ', '[MAS] ']","['21-11', '19-21', '21-11']",WD - Qualification,20170404,"Kuching, Malaysia"
+23,"['Chee Tean Tan', 'Wee Gieen Tan', 'Altof Barriq', 'Reinard Dhanriano']","['[MAS] ', '[MAS] ', '[INA] ', '[INA] ']","['23-25', '21-15', '21-13']",MD - Qualification,20170404,"Kuching, Malaysia"
+24,"['Aparna Balan', 'Prajakta Sawant', 'Rofahadah Supriadi Putri', 'Ganis Nur Rahmadani']","['[IND] ', '[IND] ', '[INA] ', '[INA] ']","['21-8', '21-5']",WD - Qualification,20170404,"Kuching, Malaysia"
+25,"['Joyce Choong', 'Jing Yi Tee', 'Mahima Aggarwal', 'Maneesha K']","['[MAS] ', '[MAS] ', '[IND] ', '[IND] ']","['21-13', '21-14']",WD - Qualification,20170404,"Kuching, Malaysia"
+26,"['Or Chin Chung [1]', 'Tang Chun Man', 'Ben Lane', 'Sean Vendy']","['[HKG] ', '[HKG] ', '[ENG] ', '[ENG] ']","['21-18', '21-19']",MD - Qualification,20170404,"Kuching, Malaysia"
+27,"['Jian Yi Lee', 'Zhen Ting Lim', 'Mohd Razif Abdul Latif', 'Muhammad Hafiz Hashim']","['[MAS] ', '[MAS] ', '[MAS] ', '[MAS] ']","['21-15', '21-15']",MD - Qualification,20170404,"Kuching, Malaysia"
+28,"['Peiy Yee, Payee Lim', 'Peiy Zhean Lim', 'Mia Mawarti', 'Zahra Mahria Rossedy Permata']","['[MAS] ', '[MAS] ', '[INA] ', '[INA] ']","['21-11', '21-14']",WD - Qualification,20170404,"Kuching, Malaysia"
+29,"['Johanna Goliszewski [2]', 'Lara Kaepplein', 'Su Yu Chen', 'Wan Yi Tang']","['[GER] ', '[GER] ', '[TPE] ', '[TPE] ']","['21-8', '21-19']",WD - Qualification,20170404,"Kuching, Malaysia"
+30,"['Hendra Setiawan', 'Boon Heong Tan', 'Jae Hwan Kim', 'Yoo Yeon Seong']","['[INA] ', '[MAS] ', '[KOR] ', '[KOR] ']","['21-14', '21-17']",MD - Qualification,20170404,"Kuching, Malaysia"
+31,"['Satwiksairaj Rankireddy', 'Chirag Shetty', 'Lukhi Apri Nugroho', 'Tedi Supriadi']","['[IND] ', '[IND] ', '[INA] ', '[INA] ']","['21-10', '18-21', '21-13']",MD - Qualification,20170404,"Kuching, Malaysia"
+32,"['Liao Kuan Hao [3]', 'Lu Chia Pin', 'Sze Fei Goh', 'Nur Izzuddin']","['[TPE] ', '[TPE] ', '[MAS] ', '[MAS] ']","['21-18', '21-17']",MD - Qualification,20170404,"Kuching, Malaysia"
+33,"['Nur Mohd Azriyn Ayub', 'Jagdish Singh', 'Arjun M.R.', 'Ramchandran Shlok']","['[MAS] ', '[MAS] ', '[IND] ', '[IND] ']","['21-19', '21-15']",MD - Qualification,20170404,"Kuching, Malaysia"
+34,"['Hiroyuki Endo [2]', 'Yuta Watanabe', 'Solgyu Choi', 'Kim Gi Jung']","['[JPN] ', '[JPN] ', '[KOR] ', '[KOR] ']","['21-18', '21-14']",MD - Qualification,20170404,"Kuching, Malaysia"
+35,"['Marcus Ellis', 'Lauren Smith', 'Reddy B. Sumeeth', 'Ashwini Ponnappa']","['[ENG] ', '[ENG] ', '[IND] ', '[IND] ']","['19-21', '21-17', '21-17']",XD - Qualification,20170404,"Kuching, Malaysia"
+36,"['Ben Lane', 'Jessica Pugh', 'Hang Yee Low', 'Yee See Cheah']","['[ENG] ', '[ENG] ', '[MAS] ', '[MAS] ']","['21-14', '21-17']",XD - Qualification,20170404,"Kuching, Malaysia"
+37,"['Yin Fun Lim [3]', 'Jesica Muljati']","['[MAS] ', '[INA] ']","['21-10', '16-21', '16-11']",WS - Qualification,20170404,"Kuching, Malaysia"
+38,"['Susanto Yulia Yosephin [4]', 'P. C. Thulasi']","['[INA] ', '[IND] ']","['21-11', '21-16']",WS - Qualification,20170404,"Kuching, Malaysia"
+39,"['Pang Ron Hoo', 'Yen Wei Peck', 'Lukhi Apri Nugroho', 'Ririn Amelia']","['[MAS] ', '[MAS] ', '[INA] ', '[INA] ']","['21-17', '15-21', '21-8']",XD - Qualification,20170404,"Kuching, Malaysia"
+40,"['Chi-Lin Wang', 'Chia Hsin Lee', 'Yogendran Khrishnan', 'Prajakta Sawant']","['[TPE] ', '[TPE] ', '[MAS] ', '[IND] ']","['19-21', '21-19', '21-13']",XD - Qualification,20170404,"Kuching, Malaysia"
+41,"['Su Yu Chen [2]', 'Febby Angguni']","['[TPE] ', '[INA] ']","['14-21', '21-16', '21-10']",WS - Qualification,20170404,"Kuching, Malaysia"
+42,"['Daren Liew', 'Zhao Junpeng']","['[MAS] ', '[CHN] ']","['17-21', '21-15', '21-18']",MS - Qualification,20170404,"Kuching, Malaysia"
+43,"['Takuma Ueda', 'Wei Feng Chong']","['[JPN] ', '[MAS] ']","['21-19', '21-11']",MS - Qualification,20170404,"Kuching, Malaysia"
+44,"['Brice Leverdez', 'June Wei Cheam']","['[FRA] ', '[MAS] ']","['21-12', '21-19']",MS - Qualification,20170404,"Kuching, Malaysia"
+45,"['Jeon Hyeok Jin', 'Kenta Nishimoto']","['[KOR] ', '[JPN] ']","['14-21', '21-17', '21-15']",MS - Qualification,20170404,"Kuching, Malaysia"
+46,"['Hendra Setiawan', 'Boon Heong Tan', 'Jian Yi Lee', 'Zhen Ting Lim']","['[INA] ', '[MAS] ', '[MAS] ', '[MAS] ']","['21-15', '21-17']",MD - Qualification,20170404,"Kuching, Malaysia"
+47,"['Or Chin Chung [1]', 'Tang Chun Man', 'Chee Tean Tan', 'Wee Gieen Tan']","['[HKG] ', '[HKG] ', '[MAS] ', '[MAS] ']","['21-15', '21-18']",MD - Qualification,20170404,"Kuching, Malaysia"
+48,"['Hiroyuki Endo [2]', 'Yuta Watanabe', 'Nur Mohd Azriyn Ayub', 'Jagdish Singh']","['[JPN] ', '[JPN] ', '[MAS] ', '[MAS] ']","['21-18', '21-16']",MD - Qualification,20170404,"Kuching, Malaysia"
+49,"['Bao Yixin', 'Yu Xiaohan', 'Aparna Balan', 'Prajakta Sawant']","['[CHN] ', '[CHN] ', '[IND] ', '[IND] ']","['21-13', '21-17']",WD - Qualification,20170404,"Kuching, Malaysia"
+50,"['Dian Fitriani [3]', 'Nadya Melati', 'Peiy Yee, Payee Lim', 'Peiy Zhean Lim']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['21-12', '21-12']",WD - Qualification,20170404,"Kuching, Malaysia"
+51,"['Joyce Choong', 'Jing Yi Tee', 'Johanna Goliszewski [2]', 'Lara Kaepplein']","['[MAS] ', '[MAS] ', '[GER] ', '[GER] ']","['22-20', '21-19']",WD - Qualification,20170404,"Kuching, Malaysia"
+52,"['Liao Kuan Hao [3]', 'Lu Chia Pin', 'Satwiksairaj Rankireddy', 'Chirag Shetty']","['[TPE] ', '[TPE] ', '[IND] ', '[IND] ']","['21-18', '21-16']",MD - Qualification,20170404,"Kuching, Malaysia"
+53,"['Misaki Matsutomo [1]', 'Ayaka Takahashi', 'Ashwini Ponnappa', 'Reddy N. Sikki']","['[JPN] ', '[JPN] ', '[IND] ', '[IND] ']","['21-19', '21-15']",WD,20170404,"Kuching, Malaysia"
+54,"['Anggia Shitta Awanda', 'Ni Ketut Mahadewi Istarani', 'Yin Loo Lim', 'Yap Cheng Wen']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['21-23', '21-11', '21-17']",WD,20170404,"Kuching, Malaysia"
+55,"['Huang Dongping [8]', 'Li Yinhui', 'Poon Lok Yan', 'Tse Ying Suet']","['[CHN] ', '[CHN] ', '[HKG] ', '[HKG] ']","['21-17', '18-21', '21-14']",WD,20170404,"Kuching, Malaysia"
+56,"['Shiho Tanaka', 'Koharu Yonemoto', 'Jongkolphan Kititharakul', 'Rawinda Prajongjai']","['[JPN] ', '[JPN] ', '[THA] ', '[THA] ']","['16-21', '21-15', '22-20']",WD,20170404,"Kuching, Malaysia"
+57,"['Naoko Fukuman [7]', 'Kurumi Yonao', 'Hsu Ya Ching', 'Wu Ti Jung']","['[JPN] ', '[JPN] ', '[TPE] ', '[TPE] ']","['14-21', '21-14', '21-19']",WD,20170404,"Kuching, Malaysia"
+58,"['Chen Qingchen [4]', 'Jia Yifan', 'Lauren Smith', 'Sarah Walker']","['[CHN] ', '[CHN] ', '[ENG] ', '[ENG] ']","['21-13', '21-14']",WD,20170404,"Kuching, Malaysia"
+59,"['Yuki Fukushima', 'Sayaka Hirota', 'Chae Yoo Jung', 'Kim Ha Na']","['[JPN] ', '[JPN] ', '[KOR] ', '[KOR] ']","['21-13', '21-14']",WD,20170404,"Kuching, Malaysia"
+60,"['Huang Yaqiong', 'Tang Jinhua', 'Chiang Kai Hsin', 'Hung Shih Han']","['[CHN] ', '[CHN] ', '[TPE] ', '[TPE] ']","['21-12', '21-13']",WD,20170404,"Kuching, Malaysia"
+61,"['Jung Kyung Eun [3]', 'Shin Seung Chan', 'Sanjana Santosh', 'Arathi Sara Sunil']","['[KOR] ', '[KOR] ', '[IND] ', '[IND] ']","['21-12', '21-8']",WD,20170404,"Kuching, Malaysia"
+62,"['Gabriela Stoeva', 'Stefani Stoeva', 'Keshya Nurvita Hanadia', 'Devi Tika Permatasari']","['[BUL] ', '[BUL] ', '[INA] ', '[INA] ']","['21-10', '21-16']",WD,20170404,"Kuching, Malaysia"
+63,"['Chang Ye Na [5]', 'Lee So Hee', 'Puttita Supajirakul', 'Sapsiree Taerattanachai']","['[KOR] ', '[KOR] ', '[THA] ', '[THA] ']","['21-14', '21-8']",WD,20170404,"Kuching, Malaysia"
+64,"['Della Destiara Haris', 'Rosyita Eka Putri Sari', 'Maiken Fruergaard', 'Sara Thygesen']","['[INA] ', '[INA] ', '[DEN] ', '[DEN] ']","['18-21', '21-10', '21-12']",WD,20170404,"Kuching, Malaysia"
+65,"['Sung Ji Hyun [3]', 'Minatsu Mitani']","['[KOR] ', '[JPN] ']","['21-18', '21-15']",WS,20170404,"Kuching, Malaysia"
+66,"['Chris Adcock [7]', 'Gabrielle Adcock', 'Lin Chia Yu', 'Wu Ti Jung']","['[ENG] ', '[ENG] ', '[TPE] ', '[TPE] ']","['21-16', '21-15']",XD,20170404,"Kuching, Malaysia"
+67,"['Chia Hsin Lee', 'Kim Hyo Min']","['[TPE] ', '[KOR] ']","['21-16', '16-21', '21-16']",WS,20170404,"Kuching, Malaysia"
+68,"['Fu Haifeng', 'Zheng Siwei', 'Vladimir Ivanov', 'Ivan Sozonov']","['[CHN] ', '[CHN] ', '[RUS] ', '[RUS] ']","['22-20', '17-21', '21-14']",MD,20170404,"Kuching, Malaysia"
+69,"['Yew Sin Ong', 'Ee Yi Teo', 'Mads Conrad-Petersen [6]', 'Mads Pieler Kolding']","['[MAS] ', '[MAS] ', '[DEN] ', '[DEN] ']","['21-19', '16-21', '21-10']",MD,20170404,"Kuching, Malaysia"
+70,"['Dechapol Puavaranukroh', 'Sapsiree Taerattanachai', 'Mathias Christiansen', 'Sara Thygesen']","['[THA] ', '[THA] ', '[DEN] ', '[DEN] ']","['21-19', '18-21', '21-14']",XD,20170404,"Kuching, Malaysia"
+71,"['Nitchaon Jindapol', 'Chiang Mei Hui']","['[THA] ', '[TPE] ']","['21-15', '22-20']",WS,20170404,"Kuching, Malaysia"
+72,"['Chou Tien Chen', 'Hans-Kristian Solberg Vittinghus']","['[TPE] ', '[DEN] ']","['22-20', '21-12']",MS,20170404,"Kuching, Malaysia"
+73,"['Luo Ying [6]', 'Luo Yu', 'Joyce Choong', 'Jing Yi Tee']","['[CHN] ', '[CHN] ', '[MAS] ', '[MAS] ']","['21-14', '21-18']",WD,20170404,"Kuching, Malaysia"
+74,"['Mei Kuan Chow', 'Lee Meng Yean', 'Dian Fitriani', 'Nadya Melati']","['[MAS] ', '[MAS] ', '[INA] ', '[INA] ']","['21-18', '21-14']",WD,20170404,"Kuching, Malaysia"
+75,"['Carolina Marin [2]', 'Yip Pui Yin']","['[ESP] ', '[HKG] ']","['21-16', '21-11']",WS,20170404,"Kuching, Malaysia"
+76,"['Jonatan Christie', 'Anthony Sinisuka Ginting']","['[INA] ', '[INA] ']","['21-17', '21-12']",MS,20170404,"Kuching, Malaysia"
+77,"['Lu Ching Yao', 'Yang Po Han', 'Marcus Ellis', 'Chris Langridge']","['[TPE] ', '[TPE] ', '[ENG] ', '[ENG] ']","['24-22', '14-21', '21-14']",MD,20170404,"Kuching, Malaysia"
+78,"['Bao Yixin', 'Yu Xiaohan', 'Vivian Hoo', 'Khe Wei Woon']","['[CHN] ', '[CHN] ', '[MAS] ', '[MAS] ']","['13-21', '21-17', '28-26']",WD,20170404,"Kuching, Malaysia"
+79,"['Liu Cheng', 'Zhang Nan', 'Lee Sheng Mu', 'Tsai Chia Hsin']","['[CHN] ', '[CHN] ', '[TPE] ', '[TPE] ']","['21-15', '21-14']",MD,20170404,"Kuching, Malaysia"
+80,"['Bodin Isara', 'Nipitphon Phuangphuapet', 'Ricky Karandasuwardi [7]', 'Angga Pratama']","['[THA] ', '[THA] ', '[INA] ', '[INA] ']","['21-18', '16-21', '21-16']",MD,20170404,"Kuching, Malaysia"
+81,"['Kamilla Rytter Juhl [2]', 'Christinna Pedersen', 'Xiao Min Lin', 'Wu Fang Chien']","['[DEN] ', '[DEN] ', '[TPE] ', '[TPE] ']","['21-8', '21-14']",WD,20170404,"Kuching, Malaysia"
+82,"['Tommy Sugiarto', 'Marc Zwiebler']","['[INA] ', '[GER] ']","['21-13', '21-9']",MS,20170404,"Kuching, Malaysia"
+83,"['Son Wan Ho [5]', 'Takuma Ueda']","['[KOR] ', '[JPN] ']","['21-12', '21-17']",MS,20170404,"Kuching, Malaysia"
+84,"['Brice Leverdez', 'Tian Houwei [6]']","['[FRA] ', '[CHN] ']","['21-17', '21-16']",MS,20170404,"Kuching, Malaysia"
+85,"['Marcus Fernaldi Gideon [4]', 'Kevin Sanjaya Sukamuljo', 'Takuro Hoki', 'Yugo Kobayashi']","['[INA] ', '[INA] ', '[JPN] ', '[JPN] ']","['21-9', '21-19']",MD,20170404,"Kuching, Malaysia"
+86,"['Busanan Ongbamrungphan', 'Hsu Ya Ching']","['[THA] ', '[TPE] ']","['21-10', '21-7']",WS,20170404,"Kuching, Malaysia"
+87,"['Jeon Hyeok Jin', 'Lee Dong Keun']","['[KOR] ', '[KOR] ']","['22-20', '25-23']",MS,20170404,"Kuching, Malaysia"
+88,"['Ratchanok Intanon [7]', 'Sayaka Sato']","['[THA] ', '[JPN] ']","['21-18', '21-10']",WS,20170404,"Kuching, Malaysia"
+89,"['Kim Astrup [8]', 'Anders Skaarup Rasmussen', 'Chen Hung Ling', 'Chi-Lin Wang']","['[DEN] ', '[DEN] ', '[TPE] ', '[TPE] ']","['17-21', '21-17', '21-18']",MD,20170404,"Kuching, Malaysia"
+90,"['Fajar Alfian', 'Muhammad Rian Ardianto', 'Hiroyuki Endo', 'Yuta Watanabe']","['[INA] ', '[INA] ', '[JPN] ', '[JPN] ']","['19-21', '21-15', '21-19']",MD,20170404,"Kuching, Malaysia"
+91,"['Takeshi Kamura [2]', 'Keigo Sonoda', 'Huang Kaixiang', 'Wang Yilyu']","['[JPN] ', '[JPN] ', '[CHN] ', '[CHN] ']","['21-13', '21-12']",MD,20170404,"Kuching, Malaysia"
+92,"['Liao Kuan Hao', 'Lu Chia Pin', 'Manu Attri', 'Reddy B. Sumeeth']","['[TPE] ', '[TPE] ', '[IND] ', '[IND] ']","['18-21', '21-18', '21-17']",MD,20170404,"Kuching, Malaysia"
+93,"['Sun Yu [5]', 'Soniia Cheah']","['[CHN] ', '[MAS] ']","['21-11', '22-20']",WS,20170404,"Kuching, Malaysia"
+94,"['Beiwen Zhang', 'Ksenia Polikarpova']","['[USA] ', '[RUS] ']","['21-14', '21-12']",WS,20170404,"Kuching, Malaysia"
+95,"['Li Junhui [5]', 'Liu Yuchen', 'Law Cheuk Him', 'Lee Chun Hei Reginald']","['[CHN] ', '[CHN] ', '[HKG] ', '[HKG] ']","['21-11', '21-10']",MD,20170404,"Kuching, Malaysia"
+96,"['Viktor Axelsen [4]', 'Daren Liew']","['[DEN] ', '[MAS] ']","['21-12', '21-13']",MS,20170404,"Kuching, Malaysia"
+97,"['Kittinupong Kedren', 'Dechapol Puavaranukroh', 'Mathias Christiansen', 'David Daugaard']","['[THA] ', '[THA] ', '[DEN] ', '[DEN] ']","['25-27', '21-14', '21-10']",MD,20170404,"Kuching, Malaysia"
+98,"['Ajay Jayaram', 'Qiao Bin']","['[IND] ', '[CHN] ']","['21-11', '21-8']",MS,20170404,"Kuching, Malaysia"
+99,"['Tang Chun Man', 'Tse Ying Suet', 'Ben Lane', 'Jessica Pugh']","['[HKG] ', '[HKG] ', '[ENG] ', '[ENG] ']","['21-17', '21-13']",XD,20170404,"Kuching, Malaysia"
+100,"['Zhang Nan [5]', 'Li Yinhui', 'Alfian Eko Prasetya', 'Annisa Saufika']","['[CHN] ', '[CHN] ', '[INA] ', '[INA] ']","['21-14', '21-18']",XD,20170404,"Kuching, Malaysia"
+101,"['Pai Yu Po', 'Yin Fun Lim']","['[TPE] ', '[MAS] ']","['16-21', '21-16', '21-16']",WS,20170404,"Kuching, Malaysia"
+102,"['Akane Yamaguchi [4]', 'Saina Nehwal']","['[JPN] ', '[IND] ']","['19-21', '21-13', '21-15']",WS,20170404,"Kuching, Malaysia"
+103,"['Praveen Jordan [6]', 'Debby Susanto', 'Nipitphon Phuangphuapet', 'Jongkolphan Kititharakul']","['[INA] ', '[INA] ', '[THA] ', '[THA] ']","['22-24', '21-12', '21-12']",XD,20170404,"Kuching, Malaysia"
+104,"['Su Yu Chen', 'Line Kjaersfeldt']","['[TPE] ', '[DEN] ']","['16-21', '21-19', '22-20']",WS,20170404,"Kuching, Malaysia"
+105,"['Tai Tzu Ying [1]', 'Lyanny Alessandra Mainaky']","['[TPE] ', '[INA] ']","['21-12', '21-10']",WS,20170404,"Kuching, Malaysia"
+106,"['Chen Yufei', 'Pusarla V. Sindhu [6]']","['[CHN] ', '[IND] ']","['18-21', '21-19', '21-17']",WS,20170404,"Kuching, Malaysia"
+107,"['Ng Ka Long Angus [8]', 'Tzu Wei Wang']","['[HKG] ', '[TPE] ']","['20-22', '21-17', '21-19']",MS,20170404,"Kuching, Malaysia"
+108,"['Jin Wei Goh', 'Susanto Yulia Yosephin']","['[MAS] ', '[INA] ']","['21-15', '20-22', '21-17']",WS,20170404,"Kuching, Malaysia"
+109,"['Zheng Siwei [1]', 'Chen Qingchen', 'Yuta Watanabe', 'Arisa Higashino']","['[CHN] ', '[CHN] ', '[JPN] ', '[JPN] ']","['21-17', '21-15']",XD,20170404,"Kuching, Malaysia"
+110,"['Wang Yilyu', 'Huang Dongping', 'Goh Soon Huat', 'Shevon Jemie Lai']","['[CHN] ', '[CHN] ', '[MAS] ', '[MAS] ']",[],XD,20170404,"Kuching, Malaysia"
+111,"['Cheung Ngan Yi', 'He Bingjiao [8]']","['[HKG] ', '[CHN] ']","['21-13', '21-12']",WS,20170404,"Kuching, Malaysia"
+112,"['Wong Wing Ki Vincent', 'Shi Yuqi']","['[HKG] ', '[CHN] ']","['22-20', '10-21', '21-18']",MS,20170404,"Kuching, Malaysia"
+113,"['Nozomi Okuhara', 'Mia Mawarti']","['[JPN] ', '[INA] ']","['21-9', '21-4']",WS,20170404,"Kuching, Malaysia"
+114,"['Huang Yuxiang', 'Sony Dwi Kuncoro']","['[CHN] ', '[INA] ']","['21-17', '21-9']",MS,20170404,"Kuching, Malaysia"
+115,"['Solgyu Choi', 'Chae Yoo Jung', 'Pang Ron Hoo', 'Yen Wei Peck']","['[KOR] ', '[KOR] ', '[MAS] ', '[MAS] ']","['22-20', '21-16']",XD,20170404,"Kuching, Malaysia"
+116,"['Bodin Isara', 'Savitree Amitrapai', 'Hafiz Faizal', 'Shela Devi Aulia']","['[THA] ', '[THA] ', '[INA] ', '[INA] ']","['21-8', '21-15']",XD,20170404,"Kuching, Malaysia"
+117,"['Mohammad Ahsan', 'Rian Agung Saputro', 'Hendra Setiawan', 'Boon Heong Tan']","['[INA] ', '[INA] ', '[INA] ', '[MAS] ']","['21-10', '15-21', '21-19']",MD,20170404,"Kuching, Malaysia"
+118,"['Chen Long [3]', 'Wei Nan']","['[CHN] ', '[HKG] ']","['21-4', '21-9']",MS,20170404,"Kuching, Malaysia"
+119,"['Or Chin Chung', 'Tang Chun Man', 'V Shem Goh [1]', 'Wee Kiong Tan']","['[HKG] ', '[HKG] ', '[MAS] ', '[MAS] ']","['21-17', '23-21']",MD,20170404,"Kuching, Malaysia"
+120,"['Kah Ming Chooi', 'Low Juan Shen', 'Jhe-Huei Lee', 'Yang Lee']","['[MAS] ', '[MAS] ', '[TPE] ', '[TPE] ']","['22-20', '21-16']",MD,20170404,"Kuching, Malaysia"
+121,"['Lu Kai [4]', 'Huang Yaqiong', 'Chi-Lin Wang', 'Chia Hsin Lee']","['[CHN] ', '[CHN] ', '[TPE] ', '[TPE] ']","['21-18', '21-14']",XD,20170404,"Kuching, Malaysia"
+122,"['Lee Chong Wei [1]', 'Rajiv Ouseph']","['[MAS] ', '[ENG] ']","['21-16', '21-18']",MS,20170404,"Kuching, Malaysia"
+123,"['Hu Yun', 'Anders Antonsen']","['[HKG] ', '[DEN] ']","['21-17', '19-21', '21-10']",MS,20170404,"Kuching, Malaysia"
+124,"['Tontowi Ahmad [2]', 'Liliyana Natsir', 'Marcus Ellis', 'Lauren Smith']","['[INA] ', '[INA] ', '[ENG] ', '[ENG] ']","['21-12', '21-14']",XD,20170404,"Kuching, Malaysia"
+125,"['Tanongsak Saensomboonsuk', 'Hsu Jen Hao']","['[THA] ', '[TPE] ']","['21-19', '21-14']",MS,20170404,"Kuching, Malaysia"
+126,"['Chai Biao [3]', 'Hong Wei', 'Danny Bawa Chrisnanta', 'Hendra Wijaya']","['[CHN] ', '[CHN] ', '[SGP] ', '[SGP] ']","['21-15', '21-13']",MD,20170404,"Kuching, Malaysia"
+127,"['Edi Subaktiar', 'Gloria Emanuelle Widjaja', 'Peng Soon Chan [8]', 'Liu Ying Goh']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['18-21', '21-19', '21-17']",XD,20170404,"Kuching, Malaysia"
+128,"['Joachim Fischer Nielsen [3]', 'Christinna Pedersen', 'Lu Ching Yao', 'Chiang Kai Hsin']","['[DEN] ', '[DEN] ', '[TPE] ', '[TPE] ']","['21-13', '21-15']",XD,20170404,"Kuching, Malaysia"
+129,"['Lin Dan [7]', 'Sai Praneeth B.']","['[CHN] ', '[IND] ']","['18-21', '21-19', '21-18']",MS,20170404,"Kuching, Malaysia"
+130,"['Lee Chun Hei Reginald', 'Chau Hoi Wah', 'Kim Gi Jung', 'Shin Seung Chan']","['[HKG] ', '[HKG] ', '[KOR] ', '[KOR] ']","['17-21', '21-19', '21-17']",XD,20170404,"Kuching, Malaysia"
+131,"['Kim Astrup', 'Line Kjaersfeldt', 'Pranaav Jerry Chopra', 'Reddy N. Sikki']","['[DEN] ', '[DEN] ', '[IND] ', '[IND] ']","['21-19', '19-21', '23-21']",XD,20170404,"Kuching, Malaysia"
+132,"['Kenta Kazuno', 'Ayane Kurihara', 'Kian Meng Tan', 'Pei Jing Lai']","['[JPN] ', '[JPN] ', '[MAS] ', '[MAS] ']","['6-21', '21-19', '21-13']",XD,20170404,"Kuching, Malaysia"
+133,"['Sung Ji Hyun [3]', 'Chia Hsin Lee']","['[KOR] ', '[TPE] ']","['21-7', '23-21']",WS ,20170404,"Kuching, Malaysia"
+134,"['Jonatan Christie', 'Chou Tien Chen']","['[INA] ', '[TPE] ']","['21-23', '21-17', '21-19']",MS ,20170404,"Kuching, Malaysia"
+135,"['Kamilla Rytter Juhl [2]', 'Christinna Pedersen', 'Della Destiara Haris', 'Rosyita Eka Putri Sari']","['[DEN] ', '[DEN] ', '[INA] ', '[INA] ']","['21-17', '21-13']",WD ,20170404,"Kuching, Malaysia"
+136,"['Chai Biao [3]', 'Hong Wei', 'Kah Ming Chooi', 'Low Juan Shen']","['[CHN] ', '[CHN] ', '[MAS] ', '[MAS] ']","['21-6', '21-19']",MD ,20170404,"Kuching, Malaysia"
+137,"['Misaki Matsutomo [1]', 'Ayaka Takahashi', 'Anggia Shitta Awanda', 'Ni Ketut Mahadewi Istarani']","['[JPN] ', '[JPN] ', '[INA] ', '[INA] ']","['21-17', '24-22']",WD ,20170404,"Kuching, Malaysia"
+138,"['Lee Chun Hei Reginald', 'Chau Hoi Wah', 'Edi Subaktiar', 'Gloria Emanuelle Widjaja']","['[HKG] ', '[HKG] ', '[INA] ', '[INA] ']","['16-21', '21-17', '21-14']",XD ,20170404,"Kuching, Malaysia"
+139,"['Carolina Marin [2]', 'Nitchaon Jindapol']","['[ESP] ', '[THA] ']","['21-14', '21-18']",WS ,20170404,"Kuching, Malaysia"
+140,"['Joachim Fischer Nielsen [3]', 'Christinna Pedersen', 'Kenta Kazuno', 'Ayane Kurihara']","['[DEN] ', '[DEN] ', '[JPN] ', '[JPN] ']","['21-13', '21-19']",XD ,20170404,"Kuching, Malaysia"
+141,"['Lee Chong Wei [1]', 'Hu Yun']","['[MAS] ', '[HKG] ']","['21-8', '21-6']",MS ,20170404,"Kuching, Malaysia"
+142,"['Chen Yufei', 'Jin Wei Goh']","['[CHN] ', '[MAS] ']","['21-14', '21-12']",WS ,20170404,"Kuching, Malaysia"
+143,"['Marcus Fernaldi Gideon [4]', 'Kevin Sanjaya Sukamuljo', 'Liu Cheng', 'Zhang Nan']","['[INA] ', '[INA] ', '[CHN] ', '[CHN] ']","['23-21', '21-16']",MD ,20170404,"Kuching, Malaysia"
+144,"['Fu Haifeng', 'Zheng Siwei', 'Yew Sin Ong', 'Ee Yi Teo']","['[CHN] ', '[CHN] ', '[MAS] ', '[MAS] ']","['21-12', '21-11']",MD ,20170404,"Kuching, Malaysia"
+145,"['Huang Dongping [8]', 'Li Yinhui', 'Shiho Tanaka', 'Koharu Yonemoto']","['[CHN] ', '[CHN] ', '[JPN] ', '[JPN] ']","['21-10', '16-21', '21-14']",WD ,20170404,"Kuching, Malaysia"
+146,"['Kittinupong Kedren', 'Dechapol Puavaranukroh', 'Kim Astrup [8]', 'Anders Skaarup Rasmussen']","['[THA] ', '[THA] ', '[DEN] ', '[DEN] ']","['21-19', '20-22', '21-18']",MD ,20170404,"Kuching, Malaysia"
+147,"['Son Wan Ho [5]', 'Tommy Sugiarto']","['[KOR] ', '[INA] ']","['21-15', '21-15']",MS ,20170404,"Kuching, Malaysia"
+148,"['Akane Yamaguchi [4]', 'Su Yu Chen']","['[JPN] ', '[TPE] ']","['21-16', '21-14']",WS ,20170404,"Kuching, Malaysia"
+149,"['Lin Dan [7]', 'Tanongsak Saensomboonsuk']","['[CHN] ', '[THA] ']","['21-8', '21-13']",MS ,20170404,"Kuching, Malaysia"
+150,"['Zhang Nan [5]', 'Li Yinhui', 'Tang Chun Man', 'Tse Ying Suet']","['[CHN] ', '[CHN] ', '[HKG] ', '[HKG] ']","['21-15', '21-15']",XD ,20170404,"Kuching, Malaysia"
+151,"['Solgyu Choi', 'Chae Yoo Jung', 'Praveen Jordan [6]', 'Debby Susanto']","['[KOR] ', '[KOR] ', '[INA] ', '[INA] ']","['21-12', '14-21', '21-19']",XD ,20170404,"Kuching, Malaysia"
+152,"['Tai Tzu Ying [1]', 'Pai Yu Po']","['[TPE] ', '[TPE] ']","['21-6', '21-8']",WS ,20170404,"Kuching, Malaysia"
+153,"['Jeon Hyeok Jin', 'Brice Leverdez']","['[KOR] ', '[FRA] ']","['21-13', '21-10']",MS ,20170404,"Kuching, Malaysia"
+154,"['Tontowi Ahmad [2]', 'Liliyana Natsir', 'Kim Astrup', 'Line Kjaersfeldt']","['[INA] ', '[INA] ', '[DEN] ', '[DEN] ']",[],XD ,20170404,"Kuching, Malaysia"
+155,"['Yuki Fukushima', 'Sayaka Hirota', 'Naoko Fukuman [7]', 'Kurumi Yonao']","['[JPN] ', '[JPN] ', '[JPN] ', '[JPN] ']","['22-20', '21-12']",WD ,20170404,"Kuching, Malaysia"
+156,"['Chen Long [3]', 'Huang Yuxiang']","['[CHN] ', '[CHN] ']","['16-21', '21-18', '21-10']",MS ,20170404,"Kuching, Malaysia"
+157,"['Chen Qingchen [4]', 'Jia Yifan', 'Mei Kuan Chow', 'Lee Meng Yean']","['[CHN] ', '[CHN] ', '[MAS] ', '[MAS] ']","['21-17', '18-21', '25-23']",WD ,20170404,"Kuching, Malaysia"
+158,"['Wong Wing Ki Vincent', 'Ng Ka Long Angus [8]']","['[HKG] ', '[HKG] ']","['21-10', '15-21', '21-17']",MS ,20170404,"Kuching, Malaysia"
+159,"['Bodin Isara', 'Nipitphon Phuangphuapet', 'Lu Ching Yao', 'Yang Po Han']","['[THA] ', '[THA] ', '[TPE] ', '[TPE] ']","['21-11', '21-14']",MD ,20170404,"Kuching, Malaysia"
+160,"['Huang Yaqiong', 'Tang Jinhua', 'Luo Ying [6]', 'Luo Yu']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['21-17', '21-12']",WD ,20170404,"Kuching, Malaysia"
+161,"['Takeshi Kamura [2]', 'Keigo Sonoda', 'Liao Kuan Hao', 'Lu Chia Pin']","['[JPN] ', '[JPN] ', '[TPE] ', '[TPE] ']","['21-12', '21-15']",MD ,20170404,"Kuching, Malaysia"
+162,"['Sun Yu [5]', 'Beiwen Zhang']","['[CHN] ', '[USA] ']","['16-21', '21-15', '21-14']",WS ,20170404,"Kuching, Malaysia"
+163,"['Ratchanok Intanon [7]', 'Busanan Ongbamrungphan']","['[THA] ', '[THA] ']","['23-21', '21-18']",WS ,20170404,"Kuching, Malaysia"
+164,"['Nozomi Okuhara', 'Cheung Ngan Yi']","['[JPN] ', '[HKG] ']","['21-8', '21-19']",WS ,20170404,"Kuching, Malaysia"
+165,"['Zheng Siwei [1]', 'Chen Qingchen', 'Bodin Isara', 'Savitree Amitrapai']","['[CHN] ', '[CHN] ', '[THA] ', '[THA] ']","['26-24', '21-19']",XD ,20170404,"Kuching, Malaysia"
+166,"['Ajay Jayaram', 'Viktor Axelsen [4]']","['[IND] ', '[DEN] ']","['9-21', '21-14', '21-19']",MS ,20170404,"Kuching, Malaysia"
+167,"['Chang Ye Na [5]', 'Lee So Hee', 'Gabriela Stoeva', 'Stefani Stoeva']","['[KOR] ', '[KOR] ', '[BUL] ', '[BUL] ']","['21-9', '21-9']",WD ,20170404,"Kuching, Malaysia"
+168,"['Dechapol Puavaranukroh', 'Sapsiree Taerattanachai', 'Chris Adcock [7]', 'Gabrielle Adcock']","['[THA] ', '[THA] ', '[ENG] ', '[ENG] ']","['21-16', '21-19']",XD ,20170404,"Kuching, Malaysia"
+169,"['Li Junhui [5]', 'Liu Yuchen', 'Fajar Alfian', 'Muhammad Rian Ardianto']","['[CHN] ', '[CHN] ', '[INA] ', '[INA] ']","['15-21', '21-17', '21-11']",MD ,20170404,"Kuching, Malaysia"
+170,"['Lu Kai [4]', 'Huang Yaqiong', 'Wang Yilyu', 'Huang Dongping']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['21-16', '22-20']",XD ,20170404,"Kuching, Malaysia"
+171,"['Bao Yixin', 'Yu Xiaohan', 'Jung Kyung Eun [3]', 'Shin Seung Chan']","['[CHN] ', '[CHN] ', '[KOR] ', '[KOR] ']","['21-13', '21-13']",WD ,20170404,"Kuching, Malaysia"
+172,"['Or Chin Chung', 'Tang Chun Man', 'Mohammad Ahsan', 'Rian Agung Saputro']","['[HKG] ', '[HKG] ', '[INA] ', '[INA] ']","['21-18', '16-21', '21-18']",MD ,20170404,"Kuching, Malaysia"
+173,"['Zheng Siwei [1]', 'Chen Qingchen', 'Lee Chun Hei Reginald', 'Chau Hoi Wah']","['[CHN] ', '[CHN] ', '[HKG] ', '[HKG] ']","['21-16', '21-9']",XD ,20170404,"Kuching, Malaysia"
+174,"['Chang Ye Na [5]', 'Lee So Hee', 'Kamilla Rytter Juhl [2]', 'Christinna Pedersen']","['[KOR] ', '[KOR] ', '[DEN] ', '[DEN] ']","['12-21', '21-15', '21-14']",WD ,20170404,"Kuching, Malaysia"
+175,"['Marcus Fernaldi Gideon [4]', 'Kevin Sanjaya Sukamuljo', 'Li Junhui [5]', 'Liu Yuchen']","['[INA] ', '[INA] ', '[CHN] ', '[CHN] ']","['7-21', '21-17', '21-17']",MD ,20170404,"Kuching, Malaysia"
+176,"['Carolina Marin [2]', 'Ratchanok Intanon [7]']","['[ESP] ', '[THA] ']","['21-8', '18-21', '21-12']",WS ,20170404,"Kuching, Malaysia"
+177,"['Tontowi Ahmad [2]', 'Liliyana Natsir', 'Solgyu Choi', 'Chae Yoo Jung']","['[INA] ', '[INA] ', '[KOR] ', '[KOR] ']","['16-21', '23-21', '22-20']",XD ,20170404,"Kuching, Malaysia"
+178,"['Lin Dan [7]', 'Jonatan Christie']","['[CHN] ', '[INA] ']","['21-15', '14-21', '21-9']",MS ,20170404,"Kuching, Malaysia"
+179,"['Misaki Matsutomo [1]', 'Ayaka Takahashi', 'Huang Dongping [8]', 'Li Yinhui']","['[JPN] ', '[JPN] ', '[CHN] ', '[CHN] ']","['18-21', '21-14', '21-17']",WD ,20170404,"Kuching, Malaysia"
+180,"['Tai Tzu Ying [1]', 'Chen Yufei']","['[TPE] ', '[CHN] ']","['21-17', '20-22', '24-22']",WS ,20170404,"Kuching, Malaysia"
+181,"['Takeshi Kamura [2]', 'Keigo Sonoda', 'Bodin Isara', 'Nipitphon Phuangphuapet']","['[JPN] ', '[JPN] ', '[THA] ', '[THA] ']","['21-16', '21-19']",MD ,20170404,"Kuching, Malaysia"
+182,"['Nozomi Okuhara', 'Akane Yamaguchi [4]']","['[JPN] ', '[JPN] ']","['21-18', '22-20']",WS ,20170404,"Kuching, Malaysia"
+183,"['Fu Haifeng', 'Zheng Siwei', 'Or Chin Chung', 'Tang Chun Man']","['[CHN] ', '[CHN] ', '[HKG] ', '[HKG] ']","['21-18', '21-18']",MD ,20170404,"Kuching, Malaysia"
+184,"['Yuki Fukushima', 'Sayaka Hirota', 'Chen Qingchen [4]', 'Jia Yifan']","['[JPN] ', '[JPN] ', '[CHN] ', '[CHN] ']","['21-18', '25-23']",WD ,20170404,"Kuching, Malaysia"
+185,"['Lee Chong Wei [1]', 'Jeon Hyeok Jin']","['[MAS] ', '[KOR] ']","['21-11', '21-14']",MS ,20170404,"Kuching, Malaysia"
+186,"['Lu Kai [4]', 'Huang Yaqiong', 'Dechapol Puavaranukroh', 'Sapsiree Taerattanachai']","['[CHN] ', '[CHN] ', '[THA] ', '[THA] ']","['21-16', '21-17']",XD ,20170404,"Kuching, Malaysia"
+187,"['Son Wan Ho [5]', 'Ajay Jayaram']","['[KOR] ', '[IND] ']","['21-18', '21-14']",MS ,20170404,"Kuching, Malaysia"
+188,"['Sung Ji Hyun [3]', 'Sun Yu [5]']","['[KOR] ', '[CHN] ']","['21-11', '21-15']",WS ,20170404,"Kuching, Malaysia"
+189,"['Wong Wing Ki Vincent', 'Chen Long [3]']","['[HKG] ', '[CHN] ']",[],MS ,20170404,"Kuching, Malaysia"
+190,"['Huang Yaqiong', 'Tang Jinhua', 'Bao Yixin', 'Yu Xiaohan']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['21-17', '21-14']",WD ,20170404,"Kuching, Malaysia"
+191,"['Chai Biao [3]', 'Hong Wei', 'Kittinupong Kedren', 'Dechapol Puavaranukroh']","['[CHN] ', '[CHN] ', '[THA] ', '[THA] ']","['21-19', '20-22', '21-16']",MD ,20170404,"Kuching, Malaysia"
+192,"['Zhang Nan [5]', 'Li Yinhui', 'Joachim Fischer Nielsen [3]', 'Christinna Pedersen']","['[CHN] ', '[CHN] ', '[DEN] ', '[DEN] ']","['23-21', '21-19']",XD ,20170404,"Kuching, Malaysia"
+193,"['Zheng Siwei [1]', 'Chen Qingchen', 'Zhang Nan [5]', 'Li Yinhui']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['21-19', '21-14']",XD ,20170404,"Kuching, Malaysia"
+194,"['Yuki Fukushima', 'Sayaka Hirota', 'Misaki Matsutomo [1]', 'Ayaka Takahashi']","['[JPN] ', '[JPN] ', '[JPN] ', '[JPN] ']","['21-18', '21-19']",WD ,20170404,"Kuching, Malaysia"
+195,"['Lu Kai [4]', 'Huang Yaqiong', 'Tontowi Ahmad [2]', 'Liliyana Natsir']","['[CHN] ', '[CHN] ', '[INA] ', '[INA] ']","['21-8', '21-16']",XD ,20170404,"Kuching, Malaysia"
+196,"['Lin Dan [7]', 'Son Wan Ho [5]']","['[CHN] ', '[KOR] ']","['27-25', '19-21', '21-16']",MS ,20170404,"Kuching, Malaysia"
+197,"['Fu Haifeng', 'Zheng Siwei', 'Chai Biao [3]', 'Hong Wei']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['17-21', '21-14', '21-19']",MD ,20170404,"Kuching, Malaysia"
+198,"['Tai Tzu Ying [1]', 'Sung Ji Hyun [3]']","['[TPE] ', '[KOR] ']","['20-22', '21-13', '21-12']",WS ,20170404,"Kuching, Malaysia"
+199,"['Huang Yaqiong', 'Tang Jinhua', 'Chang Ye Na [5]', 'Lee So Hee']","['[CHN] ', '[CHN] ', '[KOR] ', '[KOR] ']","['22-20', '18-21', '21-16']",WD ,20170404,"Kuching, Malaysia"
+200,"['Lee Chong Wei [1]', 'Wong Wing Ki Vincent']","['[MAS] ', '[HKG] ']","['21-12', '21-9']",MS ,20170404,"Kuching, Malaysia"
+201,"['Carolina Marin [2]', 'Nozomi Okuhara']","['[ESP] ', '[JPN] ']","['23-21', '21-19']",WS ,20170404,"Kuching, Malaysia"
+202,"['Marcus Fernaldi Gideon [4]', 'Kevin Sanjaya Sukamuljo', 'Takeshi Kamura [2]', 'Keigo Sonoda']","['[INA] ', '[INA] ', '[JPN] ', '[JPN] ']","['21-16', '21-13']",MD ,20170404,"Kuching, Malaysia"
+203,"['Zheng Siwei [1]', 'Chen Qingchen', 'Lu Kai [4]', 'Huang Yaqiong']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['21-15', '21-18']",XD ,20170404,"Kuching, Malaysia"
+204,"['Tai Tzu Ying [1]', 'Carolina Marin [2]']","['[TPE] ', '[ESP] ']","['23-25', '22-20', '21-13']",WS ,20170404,"Kuching, Malaysia"
+205,"['Lin Dan [7]', 'Lee Chong Wei [1]']","['[CHN] ', '[MAS] ']","['21-19', '21-14']",MS ,20170404,"Kuching, Malaysia"
+206,"['Yuki Fukushima', 'Sayaka Hirota', 'Huang Yaqiong', 'Tang Jinhua']","['[JPN] ', '[JPN] ', '[CHN] ', '[CHN] ']","['21-17', '18-21', '21-12']",WD ,20170404,"Kuching, Malaysia"
+207,"['Marcus Fernaldi Gideon [4]', 'Kevin Sanjaya Sukamuljo', 'Fu Haifeng', 'Zheng Siwei']","['[INA] ', '[INA] ', '[CHN] ', '[CHN] ']","['21-14', '14-21', '21-12']",MD ,20170404,"Kuching, Malaysia"

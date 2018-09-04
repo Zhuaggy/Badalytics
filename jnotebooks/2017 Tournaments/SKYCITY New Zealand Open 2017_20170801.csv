@@ -1,222 +1,222 @@
-,PLAYERS,COUNTRIES,SCORES,EVENT,match_week
-0,"['Chan Alan Yun Lung', 'Soomi Lina Lee', 'Christopher Steeghs', 'Ella Smith']","['[NZL] ', '[NZL] ', '[NZL] ', '[NZL] ']","['21-10', '21-15']",XD - Qualification,20170801
-1,"['Abhinav Manota', 'Justine Villegas', 'Toby Wong [4]', 'Ruwindi Serasinghe']","['[NZL] ', '[NZL] ', '[AUS] ', '[AUS] ']","['18-21', '21-10', '21-18']",XD - Qualification,20170801
-2,"['Riky Widianto', 'Richi Puspita Dili', 'Evan Wong', 'Jacqueline Yu']","['[INA] ', '[INA] ', '[NZL] ', '[NZL] ']","['21-8', '21-3']",XD - Qualification,20170801
-3,"['Jason Seto', 'Rebecca Hayley Fong', 'Ryan Tong', 'Janice Jiang']","['[NZL] ', '[NZL] ', '[NZL] ', '[NZL] ']","['21-16', '21-18']",XD - Qualification,20170801
-4,"['Valens Sulaiman', 'Fransisca Angelica Rahardja', 'Chee Foong Lim', 'Kelly Stern']","['[NZL] ', '[INA] ', '[NZL] ', '[NZL] ']","['21-7', '21-14']",XD - Qualification,20170801
-5,"['Maika Phillips', 'Anona Pak', 'Thomas Ellis', 'Xie Yongshi']","['[NZL] ', '[NZL] ', '[NZL] ', '[NZL] ']","['21-12', '21-15']",XD - Qualification,20170801
-6,"['Komandani Maytri Sugiarto', 'Khaeriah Rosmini', 'Oscar Guo', 'Tamara Otene']","['[INA] ', '[INA] ', '[NZL] ', '[NZL] ']","['21-15', '14-21', '21-15']",XD - Qualification,20170801
-7,"['Sanyogita Ghorpade', 'Jahvaya Wheki']","['[IND] ', '[NZL] ']","['21-14', '21-9']",WS - Qualification,20170801
-8,"['Tony Fang', 'Jack Boyle']","['[NZL] ', '[NZL] ']","['21-19', '22-20']",MS - Qualification,20170801
-9,"['Emily Beach [4]', 'Jenny Zhu']","['[ENG] ', '[NZL] ']","['21-13', '14-21', '21-17']",WS - Qualification,20170801
-10,"['Abhinav Manota', 'Matthew Graham']","['[NZL] ', '[NZL] ']","['21-6', '21-11']",MS - Qualification,20170801
-11,"['Christopher Steeghs', 'Ryan Tong']","['[NZL] ', '[NZL] ']","['21-11', '12-21', '21-16']",MS - Qualification,20170801
-12,"['Khaeriah Rosmini', 'Justine Villegas']","['[INA] ', '[NZL] ']","['23-21', '8-21', '21-7']",WS - Qualification,20170801
-13,"['Yingzi Jiang', 'Rebecca Hayley Fong']","['[AUS] ', '[NZL] ']","['21-10', '21-16']",WS - Qualification,20170801
-14,"['Chan Alan Yun Lung', 'Thomas Ellis']","['[NZL] ', '[NZL] ']","['21-8', '21-12']",MS - Qualification,20170801
-15,"['Ella Smith', 'Rachel Li']","['[NZL] ', '[NZL] ']","['21-17', '18-21', '21-10']",WS - Qualification,20170801
-16,"['Chee Foong Lim', 'Callum Harfield']","['[NZL] ', '[NZL] ']","['21-13', '14-21', '21-17']",MS - Qualification,20170801
-17,"['Vincent Harris', 'Ricky Cheng']","['[NZL] ', '[NZL] ']","['21-18', '21-17']",MS - Qualification,20170801
-18,"['Manula Peires', 'Srijan Konchada']","['[NZL] ', '[NZL] ']","['21-19', '20-22', '21-17']",MS - Qualification,20170801
-19,"['Komandani Maytri Sugiarto', 'Khaeriah Rosmini', 'Abhinav Manota', 'Justine Villegas']","['[INA] ', '[INA] ', '[NZL] ', '[NZL] ']","['13-21', '21-15', '21-15']",XD - Qualification,20170801
-20,"['Riky Widianto', 'Richi Puspita Dili', 'Jason Seto', 'Rebecca Hayley Fong']","['[INA] ', '[INA] ', '[NZL] ', '[NZL] ']","['21-15', '21-2']",XD - Qualification,20170801
-21,"['Maika Phillips', 'Anona Pak', 'Jack Boyle', 'Jahvaya Wheki']","['[NZL] ', '[NZL] ', '[NZL] ', '[NZL] ']","['21-13', '21-11']",XD - Qualification,20170801
-22,"['Chan Alan Yun Lung', 'Soomi Lina Lee', 'Valens Sulaiman', 'Fransisca Angelica Rahardja']","['[NZL] ', '[NZL] ', '[NZL] ', '[INA] ']","['21-15', '21-18']",XD - Qualification,20170801
-23,"['Joshua Feng', 'Kai Yi Lim']","['[NZL] ', '[NZL] ']","['21-9', '21-7']",MS - Qualification,20170801
-24,"['Emily Beach [4]', 'Khaeriah Rosmini']","['[ENG] ', '[INA] ']","['21-13', '21-14']",WS - Qualification,20170801
-25,"['Ricky Cheng', 'Evan Wong', 'Nathaniel Ernestan Sulistyo', 'Daxxon Vong']","['[NZL] ', '[NZL] ', '[INA] ', '[NZL] ']","['21-17', '21-18']",MD - Qualification,20170801
-26,"['Rizky Kurniawan', 'Komandani Maytri Sugiarto', 'Matthew Graham', 'Vincent Harris']","['[INA] ', '[INA] ', '[NZL] ', '[NZL] ']","['21-12', '21-12']",MD - Qualification,20170801
-27,"['Jack Boyle', 'Jason Seto', 'Jason Hu', 'Sharan Susil']","['[NZL] ', '[NZL] ', '[NZL] ', '[NZL] ']","['21-8', '16-21', '21-15']",MD - Qualification,20170801
-28,"['Joshua Curry', 'Thomas Ellis', 'Manula Peires', 'Vincent Tong']","['[NZL] ', '[NZL] ', '[NZL] ', '[NZL] ']","['21-8', '21-8']",MD - Qualification,20170801
-29,"['Maika Phillips', 'Christopher Steeghs', 'Maftuki Muhammad', 'Habibi Zulfauzi']","['[NZL] ', '[NZL] ', '[INA] ', '[INA] ']","['21-14', '15-21', '21-18']",MD - Qualification,20170801
-30,"['Callum Harfield', 'Valens Sulaiman', 'Srijan Konchada', 'Tzu Chen Wang']","['[NZL] ', '[NZL] ', '[NZL] ', '[NZL] ']","['21-16', '22-20']",MD - Qualification,20170801
-31,"['Christine Zhang', 'Ella Smith']","['[NZL] ', '[NZL] ']","['21-9', '21-16']",WS - Qualification,20170801
-32,"['Xie Yongshi', 'Sanyogita Ghorpade']","['[NZL] ', '[IND] ']","['21-11', '22-24', '21-19']",WS - Qualification,20170801
-33,"['Yingzi Jiang', 'Caragh Alley']","['[AUS] ', '[NZL] ']","['21-5', '21-13']",WS - Qualification,20170801
-34,"['Ricky Cheng', 'Evan Wong', 'Benjamin Feng', 'Joshua Feng']","['[NZL] ', '[NZL] ', '[NZL] ', '[NZL] ']","['15-21', '21-13', '23-21']",MD - Qualification,20170801
-35,"['Abhinav Manota', 'Dylan Soedjasa', 'Joshua Curry', 'Thomas Ellis']","['[NZL] ', '[NZL] ', '[NZL] ', '[NZL] ']","['21-10', '21-15']",MD - Qualification,20170801
-36,"['Maika Phillips', 'Christopher Steeghs', 'Jack Boyle', 'Jason Seto']","['[NZL] ', '[NZL] ', '[NZL] ', '[NZL] ']","['21-13', '21-14']",MD - Qualification,20170801
-37,"['Rizky Kurniawan', 'Komandani Maytri Sugiarto', 'Callum Harfield', 'Valens Sulaiman']","['[INA] ', '[INA] ', '[NZL] ', '[NZL] ']","['21-17', '21-16']",MD - Qualification,20170801
-38,"['Neeraj Vashist', 'Androw Yunanto']","['[IND] ', '[INA] ']","['21-8', '21-9']",MS,20170801
-39,"['Giap Chin Goh', 'Sachin Rawat']","['[MAS] ', '[IND] ']","['21-12', '21-8']",MS,20170801
-40,"['Wang Yuehang', 'Edward Lau']","['[ENG] ', '[NZL] ']","['21-12', '21-16']",MS,20170801
-41,"['Jia Wei Tan', 'Pit Seng Low']","['[MAS] ', '[AUS] ']","['21-15', '21-13']",MS,20170801
-42,"['Lee Cheuk Yiu', 'Siddharath Thakur']","['[HKG] ', '[IND] ']","['23-21', '21-14']",MS,20170801
-43,"['Henrikho Kho Wibowo', 'Peter Yan']","['[INA] ', '[AUS] ']","['21-10', '21-14']",MS,20170801
-44,"['Zhou Zeqi', 'Alexander Roovers']","['[CHN] ', '[GER] ']","['21-15', '21-16']",MS,20170801
-45,"['Lee Zii Jia', 'Cham Chen']","['[MAS] ', '[AUS] ']","['21-7', '21-7']",MS,20170801
-46,"['Hsu Jen Hao [6]', 'Nathaniel Ernestan Sulistyo']","['[TPE] ', '[INA] ']","['21-8', '21-9']",MS,20170801
-47,"['Anthony Joe', 'Andrew Rouse']","['[AUS] ', '[NZL] ']","['21-15', '21-18']",MS,20170801
-48,"['Chia Hung Lu', 'Ajay Jayaram [2]']","['[TPE] ', '[IND] ']","['21-19', '21-13']",MS,20170801
-49,"['Siril Verma [16]', 'Riyanto Subagja']","['[IND] ', '[INA] ']","['21-13', '21-12']",MS,20170801
-50,"['Wei Feng Chong [9]', 'Yupeng Bai']","['[MAS] ', '[CHN] ']","['21-11', '21-10']",MS,20170801
-51,"['Saputra Vicky Angga', 'Arun Kumar Ashok Kumar']","['[INA] ', '[IND] ']","['21-16', '21-12']",MS,20170801
-52,"['Prannoy H. S. [4]', 'Shesar Hiren Rhustavito']","['[IND] ', '[INA] ']","['21-14', '21-16']",MS,20170801
-53,"['Oscar Guo', 'Ashwant Gobinathan']","['[NZL] ', '[AUS] ']","['21-7', '21-11']",MS,20170801
-54,"['Wei Nan [10]', 'Chun-Wei Chen']","['[HKG] ', '[TPE] ']","['19-21', '21-14', '21-16']",MS,20170801
-55,"['Lin Yu Hsien [11]', 'Guangzu Lu']","['[TPE] ', '[CHN] ']","['21-16', '21-14']",MS,20170801
-56,"['Daren Liew [14]', 'Dylan Soedjasa']","['[MAS] ', '[NZL] ']","['21-16', '21-18']",MS,20170801
-57,"['Parupalli Kashyap [15]', 'Dionysius Hayom Rumbaka']","['[IND] ', '[INA] ']","['21-5', '21-10']",MS,20170801
-58,"['Jonatan Christie [3]', 'Vincent Harris']","['[INA] ', '[NZL] ']","['21-7', '21-6']",MS,20170801
-59,"['Tzu Wei Wang [1]', 'Manula Peires']","['[TPE] ', '[NZL] ']","['21-5', '21-12']",MS,20170801
-60,"['Dacmen Vong', 'Rizky Kurniawan']","['[NZL] ', '[INA] ']","['9-21', '21-10', '22-20']",MS,20170801
-61,"['Wooi Yik Soh', 'Abhinav Manota']","['[MAS] ', '[NZL] ']","['21-23', '21-17', '24-22']",MS,20170801
-62,"['Firman Abdul Kholik', 'Christopher Steeghs']","['[INA] ', '[NZL] ']","['21-9', '21-12']",MS,20170801
-63,"['Pratul Joshi', 'Daxxon Vong']","['[IND] ', '[NZL] ']","['21-10', '21-13']",MS,20170801
-64,"['Erik Meijs', 'Raymond Sing']","['[NED] ', '[AUS] ']","['21-11', '21-5']",MS,20170801
-65,"['Sahil Sipani', 'Joshua Feng']","['[IND] ', '[NZL] ']","['21-10', '21-10']",MS,20170801
-66,"['Sourabh Verma [7]', 'Nathan Tang']","['[IND] ', '[AUS] ']","['21-17', '21-15']",MS,20170801
-67,"['Misha Zilberman [13]', 'Chan Alan Yun Lung']","['[ISR] ', '[NZL] ']","['21-10', '21-10']",MS,20170801
-68,"['Tony Fang', 'Komandani Maytri Sugiarto']","['[NZL] ', '[INA] ']","['17-21', '21-12', '21-18']",MS,20170801
-69,"['Jacob Schueler', 'Chee Foong Lim']","['[AUS] ', '[NZL] ']","['21-5', '21-6']",MS,20170801
-70,"['Simon Wing Hang Leung', 'Tiffany Ho', 'Edward Lau', 'Alyssa Tagle']","['[AUS] ', '[AUS] ', '[NZL] ', '[NZL] ']","['21-18', '21-14']",XD,20170801
-71,"['Christine Zhang', 'Kelly Stern']","['[NZL] ', '[NZL] ']","['21-13', '21-11']",WS,20170801
-72,"['Chen Sihang', 'Yuting Xia', 'Alvin Morada', 'Alyssa Yasbel Leonardo']","['[CHN] ', '[CHN] ', '[PHI] ', '[PHI] ']","['19-21', '21-13', '21-19']",XD,20170801
-73,"['Edi Subaktiar [6]', 'Gloria Emanuelle Widjaja', 'Jonathan Curtin', 'Erena Calder -Hawkins']","['[INA] ', '[INA] ', '[NZL] ', '[NZL] ']","['21-5', '21-9']",XD,20170801
-74,"['Tseng Min Hao [3]', 'Ling Fang Hu', 'Komandani Maytri Sugiarto', 'Khaeriah Rosmini']","['[TPE] ', '[TPE] ', '[INA] ', '[INA] ']","['21-10', '21-10']",XD,20170801
-75,"['Tan Qiang', 'Shijun Qiao', 'Maika Phillips', 'Anona Pak']","['[CHN] ', '[CHN] ', '[NZL] ', '[NZL] ']","['21-10', '21-13']",XD,20170801
-76,"['Chia Hung Lu', 'Yu Chieh Cheng', 'Hendra Tandjaya', 'Sekartaji Putri']","['[TPE] ', '[TPE] ', '[INA] ', '[INA] ']","['21-8', '21-12']",XD,20170801
-77,"['Yaxin Wei', 'Mia Mawarti']","['[CHN] ', '[INA] ']","['21-12', '21-13']",WS,20170801
-78,"['Mayu Matsumoto', 'Wakana Nagahara', 'Ni Ketut Mahadewi Istarani', 'Rosyita Eka Putri Sari']","['[JPN] ', '[JPN] ', '[INA] ', '[INA] ']","['19-21', '21-19', '21-9']",WD,20170801
-79,"['Rei Nagata', 'Cai Yanyan']","['[JPN] ', '[CHN] ']","['21-17', '21-18']",WS,20170801
-80,"['Sawan Serasinghe [8]', 'Setyana Mapasa', 'Han Chengkai', 'Zhang Shuxian']","['[AUS] ', '[AUS] ', '[CHN] ', '[CHN] ']","['21-13', '21-17']",XD,20170801
-81,"['Siril Verma [16]', 'Saputra Vicky Angga']","['[IND] ', '[INA] ']","['21-14', '21-16']",MS,20170801
-82,"['Lin Yu Hsien [11]', 'Sahil Sipani']","['[TPE] ', '[IND] ']","['21-9', '21-8']",MS,20170801
-83,"['Fan Qiuyue', 'Xuanxuan Liu', 'Yogendran Khrishnan [4]', 'Prajakta Sawant']","['[CHN] ', '[CHN] ', '[MAS] ', '[IND] ']","['21-13', '21-13']",XD,20170801
-84,"['Erik Meijs', 'Jia Wei Tan']","['[NED] ', '[MAS] ']","['21-18', '21-15']",MS,20170801
-85,"['Zhou Haodong', 'Xu Ya', 'Dylan Soedjasa', 'Susannah Leydon-Davis']","['[CHN] ', '[CHN] ', '[NZL] ', '[NZL] ']","['21-9', '21-12']",XD,20170801
-86,"['Wahyu Nayaka Arya Pangkaryanira', 'Ade Yusuf Santoso', 'Ching Weng Chua', 'Agripinna Prima Rahmanto Putra']","['[INA] ', '[INA] ', '[MAS] ', '[INA] ']","['22-20', '21-18']",MD,20170801
-87,"['Riky Widianto', 'Richi Puspita Dili', 'Dhanny Oud', 'Jasmin Chung Man Ng']","['[INA] ', '[INA] ', '[NZL] ', '[NZL] ']","['21-19', '21-17']",XD,20170801
-88,"['Pai Yu Po', 'Ying Ying Lee [7]']","['[TPE] ', '[MAS] ']","['17-21', '21-13', '22-20']",WS,20170801
-89,"['Brittney Tam', 'Sally Fu']","['[CAN] ', '[NZL] ']","['21-13', '21-4']",WS,20170801
-90,"['Wang Chi-Lin', 'Hsuan-Yu Wendy Chen', 'Chan Alan Yun Lung', 'Soomi Lina Lee']","['[TPE] ', '[AUS] ', '[NZL] ', '[NZL] ']","['21-10', '21-15']",XD,20170801
-91,"['Maftuki Muhammad', 'Keshya Nurvita Hanadia', 'Kevin Dennerly-Minturn', 'Danielle Tahuri']","['[INA] ', '[INA] ', '[NZL] ', '[NZL] ']","['21-15', '21-13']",XD,20170801
-92,"['Hsu Jen Hao [6]', 'Lee Zii Jia']","['[TPE] ', '[MAS] ']","['21-18', '19-21', '21-16']",MS,20170801
-93,"['Wooi Yik Soh', 'Dacmen Vong']","['[MAS] ', '[NZL] ']","['21-15', '21-13']",MS,20170801
-94,"['Hanna Ramadini [4]', 'Emily Beach']","['[INA] ', '[ENG] ']","['21-4', '21-4']",WS,20170801
-95,"['Kenas Adi Haryanto', 'Moh Reza Pahlevi Isfahani', 'Wei Chen Liu', 'Tseng Min Hao']","['[INA] ', '[INA] ', '[TPE] ', '[TPE] ']","['21-15', '21-19']",MD,20170801
-96,"['Liao Min Chun [5]', 'Chen Hsiao Huan', 'Androw Yunanto', 'Mia Mawarti']","['[TPE] ', '[TPE] ', '[INA] ', '[INA] ']",[],XD,20170801
-97,"['Saena Kawakami [5]', 'Xie Yongshi']","['[JPN] ', '[NZL] ']","['21-12', '21-3']",WS,20170801
-98,"['He Jiting [7]', 'Du Yue', 'Tang Jie Chen', 'Jia Jia Tew']","['[CHN] ', '[CHN] ', '[MAS] ', '[MAS] ']","['21-9', '21-6']",XD,20170801
-99,"['Ong Yew Sin [2]', 'Teo Ee Yi', 'Peter Gabriel Magnaye', 'Alvin Morada']","['[MAS] ', '[MAS] ', '[PHI] ', '[PHI] ']","['21-12', '19-21', '21-16']",MD,20170801
-100,"['Sekartaji Putri', 'Gaea Galvez']","['[INA] ', '[NZL] ']","['21-18', '21-14']",WS,20170801
-101,"['Sourabh Verma [7]', 'Henrikho Kho Wibowo']","['[IND] ', '[INA] ']","['21-16', '21-16']",MS,20170801
-102,"['Ronald Ronald', 'Annisa Saufika', 'Habibi Zulfauzi', 'Devi Tika Permatasari']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-6', '21-9']",XD,20170801
-103,"['Fitriani Fitriani [2]', 'Tiffany Ho']","['[INA] ', '[AUS] ']","['21-14', '21-4']",WS,20170801
-104,"['Yulfira Barkah', 'Meirisa Cindy Sahputri', 'Janice Jiang', 'Rachel Li']","['[INA] ', '[INA] ', '[NZL] ', '[NZL] ']","['21-11', '21-6']",WD,20170801
-105,"['Zhou Zeqi', 'Daren Liew [14]']","['[CHN] ', '[MAS] ']","['21-19', '16-10']",MS,20170801
-106,"['Yingzi Jiang', 'Jennifer Tam']","['[AUS] ', '[AUS] ']","['21-14', '21-23', '21-15']",WS,20170801
-107,"['Yumi Murayama', 'Natsumi Uratani', 'Sally Fu', 'Tamara Otene']","['[JPN] ', '[JPN] ', '[NZL] ', '[NZL] ']","['21-5', '21-9']",WD,20170801
-108,"['Yulia Yosephin Susanto [8]', 'Lauren Lim']","['[INA] ', '[AUS] ']","['21-11', '21-6']",WS,20170801
-109,"['Wei Feng Chong [9]', 'Jacob Schueler']","['[MAS] ', '[AUS] ']","['21-14', '21-15']",MS,20170801
-110,"['Yu Chieh Cheng', 'Ling Fang Hu', 'Soomi Lina Lee', 'Christine Zhang']","['[TPE] ', '[TPE] ', '[NZL] ', '[NZL] ']","['21-12', '21-6']",WD,20170801
-111,"['Dinar Dyah Ayustine [6]', 'Hsuan-Yu Wendy Chen']","['[INA] ', '[AUS] ']","['21-10', '21-14']",WS,20170801
-112,"['Wei Nan [10]', 'Giap Chin Goh']","['[HKG] ', '[MAS] ']","['20-22', '21-8', '21-15']",MS,20170801
-113,"['Han Yue', 'Chen Hsiao Huan']","['[CHN] ', '[TPE] ']","['24-22', '21-16']",WS,20170801
-114,"['Ayako Sakuramoto [4]', 'Yukiko Takahata', 'Sanyogita Ghorpade', 'Prajakta Sawant']","['[JPN] ', '[JPN] ', '[IND] ', '[IND] ']","['21-15', '21-18']",WD,20170801
-115,"['Anthony Joe', 'Neeraj Vashist']","['[AUS] ', '[IND] ']","['21-16', '21-13']",MS,20170801
-116,"['Zhiyi Wang', 'Ruwindi Serasinghe']","['[CHN] ', '[AUS] ']","['21-9', '21-8']",WS,20170801
-117,"['Parupalli Kashyap [15]', 'Oscar Guo']","['[IND] ', '[NZL] ']","['21-9', '21-8']",MS,20170801
-118,"['Ratchanok Intanon [1]', 'Jesica Muljati']","['[THA] ', '[INA] ']","['21-17', '21-13']",WS,20170801
-119,"['Greysia Polii', 'Apriyani Rahayu', 'Du Yue', 'Xu Ya']","['[INA] ', '[INA] ', '[CHN] ', '[CHN] ']","['21-17', '22-20']",WD,20170801
-120,"['Matthew Chau [5]', 'Sawan Serasinghe', 'Jonathan Curtin', 'Dhanny Oud']","['[AUS] ', '[AUS] ', '[NZL] ', '[NZL] ']","['21-16', '21-10']",MD,20170801
-121,"['Misha Zilberman [13]', 'Wang Yuehang']","['[ISR] ', '[ENG] ']","['21-14', '21-13']",MS,20170801
-122,"['Keshya Nurvita Hanadia', 'Devi Tika Permatasari', 'Erena Calder -Hawkins', 'Jasmin Chung Man Ng']","['[INA] ', '[INA] ', '[NZL] ', '[NZL] ']","['21-16', '13-21', '21-16']",WD,20170801
-123,"['Chan Peng Soon', 'Cheah Yee See', 'Hafiz Faizal [2]', 'Shela Devi Aulia']","['[MAS] ', '[MAS] ', '[INA] ', '[INA] ']","['21-10', '21-19']",XD,20170801
-124,"['Chia Hung Lu', 'Tony Fang']","['[TPE] ', '[NZL] ']","['21-9', '21-4']",MS,20170801
-125,"['Tzu Wei Wang [1]', 'Pratul Joshi']","['[TPE] ', '[IND] ']","['21-13', '24-22']",MS,20170801
-126,"['Lee Cheuk Yiu', 'Jonatan Christie [3]']","['[HKG] ', '[INA] ']","['21-17', '21-13']",MS,20170801
-127,"['Jien Sern Ian Wong', 'Riky Widianto', 'Cham Chen', 'Toby Wong']","['[MAS] ', '[INA] ', '[AUS] ', '[AUS] ']","['21-16', '21-17']",MD,20170801
-128,"['Prannoy H. S. [4]', 'Firman Abdul Kholik']","['[IND] ', '[INA] ']","['23-21', '21-18']",MS,20170801
-129,"['Chen Sihang', 'Fan Qiuyue', 'Sze Fei Goh [6]', 'Nur Izzuddin']","['[CHN] ', '[CHN] ', '[MAS] ', '[MAS] ']","['21-14', '21-19']",MD,20170801
-130,"['He Jiting', 'Tan Qiang', 'Jacob Schueler', 'Nathan Tang']","['[CHN] ', '[CHN] ', '[AUS] ', '[AUS] ']","['21-5', '21-4']",MD,20170801
-131,"['Yen Mei Ho', 'Li Wenmei']","['[MAS] ', '[CHN] ']","['21-18', '21-14']",WS,20170801
-132,"['Danielle Tahuri', 'Xie Yongshi', 'Mia Mawarti', 'Sekartaji Putri']","['[NZL] ', '[NZL] ', '[INA] ', '[INA] ']",['21-5'],WD,20170801
-133,"['Carlos Antonie Cayanan', 'Philip Joper Escueta', 'Wei Feng Chong', 'Khim Wah Lim']","['[PHI] ', '[PHI] ', '[MAS] ', '[MAS] ']","['18-21', '21-15', '21-11']",MD,20170801
-134,"['Ruethaichanok Laisuan', 'Supamart Mingchua', 'Tiffany Ho', 'Jennifer Tam']","['[THA] ', '[THA] ', '[AUS] ', '[AUS] ']","['22-20', '21-14']",WD,20170801
-135,"['Hsu Jen Hao', 'Lu Chia Pin', 'Simon Wing Hang Leung', 'Mitchell Wheller']","['[TPE] ', '[TPE] ', '[AUS] ', '[AUS] ']","['21-10', '21-14']",MD,20170801
-136,"['Liao Min Chun [7]', 'Cheng Heng Su', 'Tang Jie Chen', 'Wooi Yik Soh']","['[TPE] ', '[TPE] ', '[MAS] ', '[MAS] ']","['21-18', '21-17']",MD,20170801
-137,"['Shijun Qiao', 'Zhang Shuxian', 'Caragh Alley', 'Kelly Stern']","['[CHN] ', '[CHN] ', '[NZL] ', '[NZL] ']","['21-14', '21-15']",WD,20170801
-138,"['Joyce Choong', 'Yea Ching Goh', 'Jesica Muljati', 'Yulia Yosephin Susanto']","['[MAS] ', '[MAS] ', '[INA] ', '[INA] ']","['21-12', '21-10']",WD,20170801
-139,"['Chen Hung Ling [1]', 'Wang Chi-Lin', 'Abhinav Manota', 'Dylan Soedjasa']","['[TPE] ', '[TPE] ', '[NZL] ', '[NZL] ']","['21-9', '21-13']",MD,20170801
-140,"['Oscar Guo', 'Dacmen Vong', 'Rizky Kurniawan', 'Komandani Maytri Sugiarto']","['[NZL] ', '[NZL] ', '[INA] ', '[INA] ']","['12-21', '21-9', '19-15']",MD,20170801
-141,"['Han Chengkai', 'Zhou Haodong', 'Chan Alan Yun Lung', 'Chance Cheng']","['[CHN] ', '[CHN] ', '[NZL] ', '[NZL] ']","['21-9', '21-18']",MD,20170801
-142,"['Nur Mohd Azriyn Ayub', 'Zi Heng Ooi', 'Sahil Sipani', 'Jagadish Yadav']","['[MAS] ', '[MAS] ', '[IND] ', '[IND] ']","['21-12', '21-16']",MD,20170801
-143,"['Erik Meijs', 'Alexander Roovers', 'Maika Phillips', 'Christopher Steeghs']","['[NED] ', '[GER] ', '[NZL] ', '[NZL] ']","['21-12', '21-12']",MD,20170801
-144,"['Xuanxuan Liu', 'Yuting Xia', 'Anona Pak', 'Fransisca Angelica Rahardja']","['[CHN] ', '[CHN] ', '[NZL] ', '[INA] ']","['21-12', '21-13']",WD,20170801
-145,"['Kevin Dennerly-Minturn', 'Samuel Ho', 'Ricky Cheng', 'Evan Wong']","['[NZL] ', '[NZL] ', '[NZL] ', '[NZL] ']","['21-12', '21-15']",MD,20170801
-146,"['Pai Yu Po', 'Rei Nagata']","['[TPE] ', '[JPN] ']","['21-11', '21-12']",WS,20170801
-147,"['Wang Chi-Lin', 'Hsuan-Yu Wendy Chen', 'Tseng Min Hao [3]', 'Ling Fang Hu']","['[TPE] ', '[AUS] ', '[TPE] ', '[TPE] ']","['21-19', '21-17']",XD,20170801
-148,"['Sawan Serasinghe [8]', 'Setyana Mapasa', 'Maftuki Muhammad', 'Keshya Nurvita Hanadia']","['[AUS] ', '[AUS] ', '[INA] ', '[INA] ']","['21-9', '21-15']",XD,20170801
-149,"['Fitriani Fitriani [2]', 'Brittney Tam']","['[INA] ', '[CAN] ']","['21-7', '21-15']",WS,20170801
-150,"['Ronald Ronald', 'Annisa Saufika', 'Simon Wing Hang Leung', 'Tiffany Ho']","['[INA] ', '[INA] ', '[AUS] ', '[AUS] ']","['21-7', '21-6']",XD,20170801
-151,"['Tan Qiang', 'Shijun Qiao', 'Fan Qiuyue', 'Xuanxuan Liu']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['12-21', '28-26', '21-13']",XD,20170801
-152,"['Lin Yu Hsien [11]', 'Erik Meijs']","['[TPE] ', '[NED] ']","['21-16', '21-12']",MS,20170801
-153,"['Yaxin Wei', 'Sekartaji Putri']","['[CHN] ', '[INA] ']","['21-8', '15-7']",WS,20170801
-154,"['Edi Subaktiar [6]', 'Gloria Emanuelle Widjaja', 'Chen Sihang', 'Yuting Xia']","['[INA] ', '[INA] ', '[CHN] ', '[CHN] ']","['21-14', '21-10']",XD,20170801
-155,"['Zhou Haodong', 'Xu Ya', 'Liao Min Chun [5]', 'Chen Hsiao Huan']","['[CHN] ', '[CHN] ', '[TPE] ', '[TPE] ']","['22-24', '21-18', '21-18']",XD,20170801
-156,"['He Jiting [7]', 'Du Yue', 'Chia Hung Lu', 'Yu Chieh Cheng']","['[CHN] ', '[CHN] ', '[TPE] ', '[TPE] ']","['21-7', '21-17']",XD,20170801
-157,"['Riky Widianto', 'Richi Puspita Dili', 'Chan Peng Soon', 'Cheah Yee See']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['12-21', '21-15', '21-19']",XD,20170801
-158,"['Hanna Ramadini [4]', 'Zhiyi Wang']","['[INA] ', '[CHN] ']","['21-18', '21-10']",WS,20170801
-159,"['Anthony Joe', 'Wooi Yik Soh']","['[AUS] ', '[MAS] ']","['21-17', '18-21', '21-14']",MS,20170801
-160,"['Yen Mei Ho', 'Yulia Yosephin Susanto [8]']","['[MAS] ', '[INA] ']","['21-13', '21-16']",WS,20170801
-161,"['Tzu Wei Wang [1]', 'Wei Feng Chong [9]']","['[TPE] ', '[MAS] ']","['21-15', '21-10']",MS,20170801
-162,"['Hsu Jen Hao [6]', 'Zhou Zeqi']","['[TPE] ', '[CHN] ']","['21-13', '21-7']",MS,20170801
-163,"['Yulfira Barkah', 'Meirisa Cindy Sahputri', 'Ella Smith', 'Jahvaya Wheki']","['[INA] ', '[INA] ', '[NZL] ', '[NZL] ']","['21-9', '21-10']",WD,20170801
-164,"['Dinar Dyah Ayustine [6]', 'Christine Zhang']","['[INA] ', '[NZL] ']","['21-14', '21-7']",WS,20170801
-165,"['Sourabh Verma [7]', 'Parupalli Kashyap [15]']","['[IND] ', '[IND] ']","['21-18', '13-21', '21-16']",MS,20170801
-166,"['Ayako Sakuramoto [4]', 'Yukiko Takahata', 'Keshya Nurvita Hanadia', 'Devi Tika Permatasari']","['[JPN] ', '[JPN] ', '[INA] ', '[INA] ']","['21-9', '21-14']",WD,20170801
-167,"['Prannoy H. S. [4]', 'Wei Nan [10]']","['[IND] ', '[HKG] ']","['21-18', '21-19']",MS,20170801
-168,"['Ratchanok Intanon [1]', 'Yingzi Jiang']","['[THA] ', '[AUS] ']","['21-2', '21-8']",WS,20170801
-169,"['Ong Yew Sin [2]', 'Teo Ee Yi', 'Kevin Dennerly-Minturn', 'Samuel Ho']","['[MAS] ', '[MAS] ', '[NZL] ', '[NZL] ']","['21-13', '21-6']",MD,20170801
-170,"['Wahyu Nayaka Arya Pangkaryanira', 'Ade Yusuf Santoso', 'Oscar Guo', 'Dacmen Vong']","['[INA] ', '[INA] ', '[NZL] ', '[NZL] ']","['21-12', '21-11']",MD,20170801
-171,"['Kenas Adi Haryanto', 'Moh Reza Pahlevi Isfahani', 'Erik Meijs', 'Alexander Roovers']","['[INA] ', '[INA] ', '[NED] ', '[GER] ']",[],MD,20170801
-172,"['Vivian Hoo [1]', 'Woon Khe Wei', 'Danielle Tahuri', 'Xie Yongshi']","['[MAS] ', '[MAS] ', '[NZL] ', '[NZL] ']","['21-12', '21-10']",WD,20170801
-173,"['Lee Cheuk Yiu', 'Misha Zilberman [13]']","['[HKG] ', '[ISR] ']","['21-10', '21-12']",MS,20170801
-174,"['Chen Hung Ling [1]', 'Wang Chi-Lin', 'Han Chengkai', 'Zhou Haodong']","['[TPE] ', '[TPE] ', '[CHN] ', '[CHN] ']","['21-10', '21-14']",MD,20170801
-175,"['He Jiting', 'Tan Qiang', 'Nur Mohd Azriyn Ayub', 'Zi Heng Ooi']","['[CHN] ', '[CHN] ', '[MAS] ', '[MAS] ']","['21-16', '15-11']",MD,20170801
-176,"['Shijun Qiao', 'Zhang Shuxian', 'Ruethaichanok Laisuan', 'Supamart Mingchua']","['[CHN] ', '[CHN] ', '[THA] ', '[THA] ']","['21-14', '13-21', '21-12']",WD,20170801
-177,"['Chia Hung Lu', 'Siril Verma [16]']","['[TPE] ', '[IND] ']","['21-13', '21-14']",MS,20170801
-178,"['Joyce Choong', 'Yea Ching Goh', 'Alyssa Tagle', 'Jacqueline Yu']","['[MAS] ', '[MAS] ', '[NZL] ', '[NZL] ']","['21-4', '21-5']",WD,20170801
-179,"['Yu Chieh Cheng', 'Ling Fang Hu', 'Mayu Matsumoto', 'Wakana Nagahara']","['[TPE] ', '[TPE] ', '[JPN] ', '[JPN] ']","['22-20', '21-14']",WD,20170801
-180,"['Saena Kawakami [5]', 'Han Yue']","['[JPN] ', '[CHN] ']","['21-14', '21-11']",WS,20170801
-181,"['Chen Sihang', 'Fan Qiuyue', 'Carlos Antonie Cayanan', 'Philip Joper Escueta']","['[CHN] ', '[CHN] ', '[PHI] ', '[PHI] ']","['21-14', '21-15']",MD,20170801
-182,"['Greysia Polii', 'Apriyani Rahayu', 'Nami Matsuyama', 'Chiharu Shida']","['[INA] ', '[INA] ', '[JPN] ', '[JPN] ']","['21-13', '16-21', '21-19']",WD,20170801
-183,"['Xuanxuan Liu', 'Yuting Xia', 'Yumi Murayama', 'Natsumi Uratani']","['[CHN] ', '[CHN] ', '[JPN] ', '[JPN] ']","['21-17', '21-15']",WD,20170801
-184,"['Liao Min Chun [7]', 'Cheng Heng Su', 'Jien Sern Ian Wong', 'Riky Widianto']","['[TPE] ', '[TPE] ', '[MAS] ', '[INA] ']","['21-11', '21-13']",MD,20170801
-185,"['Hsu Jen Hao', 'Lu Chia Pin', 'Matthew Chau [5]', 'Sawan Serasinghe']","['[TPE] ', '[TPE] ', '[AUS] ', '[AUS] ']","['16-21', '21-13', '21-12']",MD,20170801
-186,"['Sawan Serasinghe [8]', 'Setyana Mapasa', 'Tan Qiang', 'Shijun Qiao']","['[AUS] ', '[AUS] ', '[CHN] ', '[CHN] ']","['21-15', '21-16']",XD,20170801
-187,"['Wang Chi-Lin', 'Hsuan-Yu Wendy Chen', 'He Jiting [7]', 'Du Yue']","['[TPE] ', '[AUS] ', '[CHN] ', '[CHN] ']","['21-13', '21-4']",XD,20170801
-188,"['Zhou Haodong', 'Xu Ya', 'Riky Widianto', 'Richi Puspita Dili']","['[CHN] ', '[CHN] ', '[INA] ', '[INA] ']","['21-18', '9-21', '22-20']",XD,20170801
-189,"['Greysia Polii', 'Apriyani Rahayu', 'Yu Chieh Cheng', 'Ling Fang Hu']","['[INA] ', '[INA] ', '[TPE] ', '[TPE] ']","['21-11', '21-10']",WD,20170801
-190,"['Xuanxuan Liu', 'Yuting Xia', 'Yulfira Barkah', 'Meirisa Cindy Sahputri']","['[CHN] ', '[CHN] ', '[INA] ', '[INA] ']","['21-16', '14-21', '21-14']",WD,20170801
-191,"['Hsu Jen Hao [6]', 'Chia Hung Lu']","['[TPE] ', '[TPE] ']","['22-20', '23-21']",MS,20170801
-192,"['Ronald Ronald', 'Annisa Saufika', 'Edi Subaktiar [6]', 'Gloria Emanuelle Widjaja']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['18-21', '21-17', '23-21']",XD,20170801
-193,"['Hanna Ramadini [4]', 'Pai Yu Po']","['[INA] ', '[TPE] ']","['21-12', '21-19']",WS,20170801
-194,"['Tzu Wei Wang [1]', 'Anthony Joe']","['[TPE] ', '[AUS] ']","['21-7', '21-7']",MS,20170801
-195,"['Fitriani Fitriani [2]', 'Yen Mei Ho']","['[INA] ', '[MAS] ']","['9-21', '21-10', '21-13']",WS,20170801
-196,"['Lee Cheuk Yiu', 'Sourabh Verma [7]']","['[HKG] ', '[IND] ']","['21-19', '21-16']",MS,20170801
-197,"['Ratchanok Intanon [1]', 'Dinar Dyah Ayustine [6]']","['[THA] ', '[INA] ']","['19-21', '21-10', '21-11']",WS,20170801
-198,"['Saena Kawakami [5]', 'Yaxin Wei']","['[JPN] ', '[CHN] ']","['22-20', '21-15']",WS,20170801
-199,"['Ayako Sakuramoto [4]', 'Yukiko Takahata', 'Joyce Choong', 'Yea Ching Goh']","['[JPN] ', '[JPN] ', '[MAS] ', '[MAS] ']","['28-30', '21-11', '22-20']",WD,20170801
-200,"['Chen Hung Ling [1]', 'Wang Chi-Lin', 'Chen Sihang', 'Fan Qiuyue']","['[TPE] ', '[TPE] ', '[CHN] ', '[CHN] ']","['21-10', '21-12']",MD,20170801
-201,"['Vivian Hoo [1]', 'Woon Khe Wei', 'Shijun Qiao', 'Zhang Shuxian']","['[MAS] ', '[MAS] ', '[CHN] ', '[CHN] ']","['21-7', '21-16']",WD,20170801
-202,"['Lin Yu Hsien [11]', 'Prannoy H. S. [4]']","['[TPE] ', '[IND] ']","['21-10', '20-22', '23-21']",MS,20170801
-203,"['He Jiting', 'Tan Qiang', 'Wahyu Nayaka Arya Pangkaryanira', 'Ade Yusuf Santoso']","['[CHN] ', '[CHN] ', '[INA] ', '[INA] ']","['21-19', '21-13']",MD,20170801
-204,"['Kenas Adi Haryanto', 'Moh Reza Pahlevi Isfahani', 'Hsu Jen Hao', 'Lu Chia Pin']","['[INA] ', '[INA] ', '[TPE] ', '[TPE] ']","['20-22', '21-12', '21-18']",MD,20170801
-205,"['Ong Yew Sin [2]', 'Teo Ee Yi', 'Liao Min Chun [7]', 'Cheng Heng Su']","['[MAS] ', '[MAS] ', '[TPE] ', '[TPE] ']","['19-21', '21-14', '21-16']",MD,20170801
-206,"['Lee Cheuk Yiu', 'Hsu Jen Hao [6]']","['[HKG] ', '[TPE] ']","['21-12', '21-19']",MS ,20170801
-207,"['Sawan Serasinghe [8]', 'Setyana Mapasa', 'Zhou Haodong', 'Xu Ya']","['[AUS] ', '[AUS] ', '[CHN] ', '[CHN] ']","['25-23', '21-18']",XD ,20170801
-208,"['Vivian Hoo [1]', 'Woon Khe Wei', 'Greysia Polii', 'Apriyani Rahayu']","['[MAS] ', '[MAS] ', '[INA] ', '[INA] ']","['21-18', '13-21', '21-13']",WD ,20170801
-209,"['Ratchanok Intanon [1]', 'Hanna Ramadini [4]']","['[THA] ', '[INA] ']","['21-13', '21-17']",WS ,20170801
-210,"['Ong Yew Sin [2]', 'Teo Ee Yi', 'He Jiting', 'Tan Qiang']","['[MAS] ', '[MAS] ', '[CHN] ', '[CHN] ']","['21-19', '21-11']",MD ,20170801
-211,"['Ronald Ronald', 'Annisa Saufika', 'Wang Chi-Lin', 'Hsuan-Yu Wendy Chen']","['[INA] ', '[INA] ', '[TPE] ', '[AUS] ']","['21-9', '19-21', '21-6']",XD ,20170801
-212,"['Saena Kawakami [5]', 'Fitriani Fitriani [2]']","['[JPN] ', '[INA] ']","['21-12', '17-21', '21-17']",WS ,20170801
-213,"['Tzu Wei Wang [1]', 'Lin Yu Hsien [11]']","['[TPE] ', '[TPE] ']","['21-11', '21-12']",MS ,20170801
-214,"['Ayako Sakuramoto [4]', 'Yukiko Takahata', 'Xuanxuan Liu', 'Yuting Xia']","['[JPN] ', '[JPN] ', '[CHN] ', '[CHN] ']","['23-21', '21-13']",WD ,20170801
-215,"['Chen Hung Ling [1]', 'Wang Chi-Lin', 'Kenas Adi Haryanto', 'Moh Reza Pahlevi Isfahani']","['[TPE] ', '[TPE] ', '[INA] ', '[INA] ']","['21-13', '21-15']",MD ,20170801
-216,"['Ronald Ronald', 'Annisa Saufika', 'Sawan Serasinghe [8]', 'Setyana Mapasa']","['[INA] ', '[INA] ', '[AUS] ', '[AUS] ']","['21-19', '21-14']",XD ,20170801
-217,"['Vivian Hoo [1]', 'Woon Khe Wei', 'Ayako Sakuramoto [4]', 'Yukiko Takahata']","['[MAS] ', '[MAS] ', '[JPN] ', '[JPN] ']","['18-21', '21-16', '21-19']",WD ,20170801
-218,"['Lee Cheuk Yiu', 'Tzu Wei Wang [1]']","['[HKG] ', '[TPE] ']","['11-21', '21-15', '22-20']",MS ,20170801
-219,"['Ratchanok Intanon [1]', 'Saena Kawakami [5]']","['[THA] ', '[JPN] ']","['21-14', '16-21', '21-15']",WS ,20170801
-220,"['Chen Hung Ling [1]', 'Wang Chi-Lin', 'Ong Yew Sin [2]', 'Teo Ee Yi']","['[TPE] ', '[TPE] ', '[MAS] ', '[MAS] ']","['21-16', '21-18']",MD ,20170801
+,PLAYERS,COUNTRIES,SCORES,EVENT,match_week,match_location
+0,"['Chan Alan Yun Lung', 'Soomi Lina Lee', 'Christopher Steeghs', 'Ella Smith']","['[NZL] ', '[NZL] ', '[NZL] ', '[NZL] ']","['21-10', '21-15']",XD - Qualification,20170801,"Auckland, New Zealand"
+1,"['Abhinav Manota', 'Justine Villegas', 'Toby Wong [4]', 'Ruwindi Serasinghe']","['[NZL] ', '[NZL] ', '[AUS] ', '[AUS] ']","['18-21', '21-10', '21-18']",XD - Qualification,20170801,"Auckland, New Zealand"
+2,"['Riky Widianto', 'Richi Puspita Dili', 'Evan Wong', 'Jacqueline Yu']","['[INA] ', '[INA] ', '[NZL] ', '[NZL] ']","['21-8', '21-3']",XD - Qualification,20170801,"Auckland, New Zealand"
+3,"['Jason Seto', 'Rebecca Hayley Fong', 'Ryan Tong', 'Janice Jiang']","['[NZL] ', '[NZL] ', '[NZL] ', '[NZL] ']","['21-16', '21-18']",XD - Qualification,20170801,"Auckland, New Zealand"
+4,"['Valens Sulaiman', 'Fransisca Angelica Rahardja', 'Chee Foong Lim', 'Kelly Stern']","['[NZL] ', '[INA] ', '[NZL] ', '[NZL] ']","['21-7', '21-14']",XD - Qualification,20170801,"Auckland, New Zealand"
+5,"['Maika Phillips', 'Anona Pak', 'Thomas Ellis', 'Xie Yongshi']","['[NZL] ', '[NZL] ', '[NZL] ', '[NZL] ']","['21-12', '21-15']",XD - Qualification,20170801,"Auckland, New Zealand"
+6,"['Komandani Maytri Sugiarto', 'Khaeriah Rosmini', 'Oscar Guo', 'Tamara Otene']","['[INA] ', '[INA] ', '[NZL] ', '[NZL] ']","['21-15', '14-21', '21-15']",XD - Qualification,20170801,"Auckland, New Zealand"
+7,"['Sanyogita Ghorpade', 'Jahvaya Wheki']","['[IND] ', '[NZL] ']","['21-14', '21-9']",WS - Qualification,20170801,"Auckland, New Zealand"
+8,"['Tony Fang', 'Jack Boyle']","['[NZL] ', '[NZL] ']","['21-19', '22-20']",MS - Qualification,20170801,"Auckland, New Zealand"
+9,"['Emily Beach [4]', 'Jenny Zhu']","['[ENG] ', '[NZL] ']","['21-13', '14-21', '21-17']",WS - Qualification,20170801,"Auckland, New Zealand"
+10,"['Abhinav Manota', 'Matthew Graham']","['[NZL] ', '[NZL] ']","['21-6', '21-11']",MS - Qualification,20170801,"Auckland, New Zealand"
+11,"['Christopher Steeghs', 'Ryan Tong']","['[NZL] ', '[NZL] ']","['21-11', '12-21', '21-16']",MS - Qualification,20170801,"Auckland, New Zealand"
+12,"['Khaeriah Rosmini', 'Justine Villegas']","['[INA] ', '[NZL] ']","['23-21', '8-21', '21-7']",WS - Qualification,20170801,"Auckland, New Zealand"
+13,"['Yingzi Jiang', 'Rebecca Hayley Fong']","['[AUS] ', '[NZL] ']","['21-10', '21-16']",WS - Qualification,20170801,"Auckland, New Zealand"
+14,"['Chan Alan Yun Lung', 'Thomas Ellis']","['[NZL] ', '[NZL] ']","['21-8', '21-12']",MS - Qualification,20170801,"Auckland, New Zealand"
+15,"['Ella Smith', 'Rachel Li']","['[NZL] ', '[NZL] ']","['21-17', '18-21', '21-10']",WS - Qualification,20170801,"Auckland, New Zealand"
+16,"['Chee Foong Lim', 'Callum Harfield']","['[NZL] ', '[NZL] ']","['21-13', '14-21', '21-17']",MS - Qualification,20170801,"Auckland, New Zealand"
+17,"['Vincent Harris', 'Ricky Cheng']","['[NZL] ', '[NZL] ']","['21-18', '21-17']",MS - Qualification,20170801,"Auckland, New Zealand"
+18,"['Manula Peires', 'Srijan Konchada']","['[NZL] ', '[NZL] ']","['21-19', '20-22', '21-17']",MS - Qualification,20170801,"Auckland, New Zealand"
+19,"['Komandani Maytri Sugiarto', 'Khaeriah Rosmini', 'Abhinav Manota', 'Justine Villegas']","['[INA] ', '[INA] ', '[NZL] ', '[NZL] ']","['13-21', '21-15', '21-15']",XD - Qualification,20170801,"Auckland, New Zealand"
+20,"['Riky Widianto', 'Richi Puspita Dili', 'Jason Seto', 'Rebecca Hayley Fong']","['[INA] ', '[INA] ', '[NZL] ', '[NZL] ']","['21-15', '21-2']",XD - Qualification,20170801,"Auckland, New Zealand"
+21,"['Maika Phillips', 'Anona Pak', 'Jack Boyle', 'Jahvaya Wheki']","['[NZL] ', '[NZL] ', '[NZL] ', '[NZL] ']","['21-13', '21-11']",XD - Qualification,20170801,"Auckland, New Zealand"
+22,"['Chan Alan Yun Lung', 'Soomi Lina Lee', 'Valens Sulaiman', 'Fransisca Angelica Rahardja']","['[NZL] ', '[NZL] ', '[NZL] ', '[INA] ']","['21-15', '21-18']",XD - Qualification,20170801,"Auckland, New Zealand"
+23,"['Joshua Feng', 'Kai Yi Lim']","['[NZL] ', '[NZL] ']","['21-9', '21-7']",MS - Qualification,20170801,"Auckland, New Zealand"
+24,"['Emily Beach [4]', 'Khaeriah Rosmini']","['[ENG] ', '[INA] ']","['21-13', '21-14']",WS - Qualification,20170801,"Auckland, New Zealand"
+25,"['Ricky Cheng', 'Evan Wong', 'Nathaniel Ernestan Sulistyo', 'Daxxon Vong']","['[NZL] ', '[NZL] ', '[INA] ', '[NZL] ']","['21-17', '21-18']",MD - Qualification,20170801,"Auckland, New Zealand"
+26,"['Rizky Kurniawan', 'Komandani Maytri Sugiarto', 'Matthew Graham', 'Vincent Harris']","['[INA] ', '[INA] ', '[NZL] ', '[NZL] ']","['21-12', '21-12']",MD - Qualification,20170801,"Auckland, New Zealand"
+27,"['Jack Boyle', 'Jason Seto', 'Jason Hu', 'Sharan Susil']","['[NZL] ', '[NZL] ', '[NZL] ', '[NZL] ']","['21-8', '16-21', '21-15']",MD - Qualification,20170801,"Auckland, New Zealand"
+28,"['Joshua Curry', 'Thomas Ellis', 'Manula Peires', 'Vincent Tong']","['[NZL] ', '[NZL] ', '[NZL] ', '[NZL] ']","['21-8', '21-8']",MD - Qualification,20170801,"Auckland, New Zealand"
+29,"['Maika Phillips', 'Christopher Steeghs', 'Maftuki Muhammad', 'Habibi Zulfauzi']","['[NZL] ', '[NZL] ', '[INA] ', '[INA] ']","['21-14', '15-21', '21-18']",MD - Qualification,20170801,"Auckland, New Zealand"
+30,"['Callum Harfield', 'Valens Sulaiman', 'Srijan Konchada', 'Tzu Chen Wang']","['[NZL] ', '[NZL] ', '[NZL] ', '[NZL] ']","['21-16', '22-20']",MD - Qualification,20170801,"Auckland, New Zealand"
+31,"['Christine Zhang', 'Ella Smith']","['[NZL] ', '[NZL] ']","['21-9', '21-16']",WS - Qualification,20170801,"Auckland, New Zealand"
+32,"['Xie Yongshi', 'Sanyogita Ghorpade']","['[NZL] ', '[IND] ']","['21-11', '22-24', '21-19']",WS - Qualification,20170801,"Auckland, New Zealand"
+33,"['Yingzi Jiang', 'Caragh Alley']","['[AUS] ', '[NZL] ']","['21-5', '21-13']",WS - Qualification,20170801,"Auckland, New Zealand"
+34,"['Ricky Cheng', 'Evan Wong', 'Benjamin Feng', 'Joshua Feng']","['[NZL] ', '[NZL] ', '[NZL] ', '[NZL] ']","['15-21', '21-13', '23-21']",MD - Qualification,20170801,"Auckland, New Zealand"
+35,"['Abhinav Manota', 'Dylan Soedjasa', 'Joshua Curry', 'Thomas Ellis']","['[NZL] ', '[NZL] ', '[NZL] ', '[NZL] ']","['21-10', '21-15']",MD - Qualification,20170801,"Auckland, New Zealand"
+36,"['Maika Phillips', 'Christopher Steeghs', 'Jack Boyle', 'Jason Seto']","['[NZL] ', '[NZL] ', '[NZL] ', '[NZL] ']","['21-13', '21-14']",MD - Qualification,20170801,"Auckland, New Zealand"
+37,"['Rizky Kurniawan', 'Komandani Maytri Sugiarto', 'Callum Harfield', 'Valens Sulaiman']","['[INA] ', '[INA] ', '[NZL] ', '[NZL] ']","['21-17', '21-16']",MD - Qualification,20170801,"Auckland, New Zealand"
+38,"['Neeraj Vashist', 'Androw Yunanto']","['[IND] ', '[INA] ']","['21-8', '21-9']",MS,20170801,"Auckland, New Zealand"
+39,"['Giap Chin Goh', 'Sachin Rawat']","['[MAS] ', '[IND] ']","['21-12', '21-8']",MS,20170801,"Auckland, New Zealand"
+40,"['Wang Yuehang', 'Edward Lau']","['[ENG] ', '[NZL] ']","['21-12', '21-16']",MS,20170801,"Auckland, New Zealand"
+41,"['Jia Wei Tan', 'Pit Seng Low']","['[MAS] ', '[AUS] ']","['21-15', '21-13']",MS,20170801,"Auckland, New Zealand"
+42,"['Lee Cheuk Yiu', 'Siddharath Thakur']","['[HKG] ', '[IND] ']","['23-21', '21-14']",MS,20170801,"Auckland, New Zealand"
+43,"['Henrikho Kho Wibowo', 'Peter Yan']","['[INA] ', '[AUS] ']","['21-10', '21-14']",MS,20170801,"Auckland, New Zealand"
+44,"['Zhou Zeqi', 'Alexander Roovers']","['[CHN] ', '[GER] ']","['21-15', '21-16']",MS,20170801,"Auckland, New Zealand"
+45,"['Lee Zii Jia', 'Cham Chen']","['[MAS] ', '[AUS] ']","['21-7', '21-7']",MS,20170801,"Auckland, New Zealand"
+46,"['Hsu Jen Hao [6]', 'Nathaniel Ernestan Sulistyo']","['[TPE] ', '[INA] ']","['21-8', '21-9']",MS,20170801,"Auckland, New Zealand"
+47,"['Anthony Joe', 'Andrew Rouse']","['[AUS] ', '[NZL] ']","['21-15', '21-18']",MS,20170801,"Auckland, New Zealand"
+48,"['Chia Hung Lu', 'Ajay Jayaram [2]']","['[TPE] ', '[IND] ']","['21-19', '21-13']",MS,20170801,"Auckland, New Zealand"
+49,"['Siril Verma [16]', 'Riyanto Subagja']","['[IND] ', '[INA] ']","['21-13', '21-12']",MS,20170801,"Auckland, New Zealand"
+50,"['Wei Feng Chong [9]', 'Yupeng Bai']","['[MAS] ', '[CHN] ']","['21-11', '21-10']",MS,20170801,"Auckland, New Zealand"
+51,"['Saputra Vicky Angga', 'Arun Kumar Ashok Kumar']","['[INA] ', '[IND] ']","['21-16', '21-12']",MS,20170801,"Auckland, New Zealand"
+52,"['Prannoy H. S. [4]', 'Shesar Hiren Rhustavito']","['[IND] ', '[INA] ']","['21-14', '21-16']",MS,20170801,"Auckland, New Zealand"
+53,"['Oscar Guo', 'Ashwant Gobinathan']","['[NZL] ', '[AUS] ']","['21-7', '21-11']",MS,20170801,"Auckland, New Zealand"
+54,"['Wei Nan [10]', 'Chun-Wei Chen']","['[HKG] ', '[TPE] ']","['19-21', '21-14', '21-16']",MS,20170801,"Auckland, New Zealand"
+55,"['Lin Yu Hsien [11]', 'Guangzu Lu']","['[TPE] ', '[CHN] ']","['21-16', '21-14']",MS,20170801,"Auckland, New Zealand"
+56,"['Daren Liew [14]', 'Dylan Soedjasa']","['[MAS] ', '[NZL] ']","['21-16', '21-18']",MS,20170801,"Auckland, New Zealand"
+57,"['Parupalli Kashyap [15]', 'Dionysius Hayom Rumbaka']","['[IND] ', '[INA] ']","['21-5', '21-10']",MS,20170801,"Auckland, New Zealand"
+58,"['Jonatan Christie [3]', 'Vincent Harris']","['[INA] ', '[NZL] ']","['21-7', '21-6']",MS,20170801,"Auckland, New Zealand"
+59,"['Tzu Wei Wang [1]', 'Manula Peires']","['[TPE] ', '[NZL] ']","['21-5', '21-12']",MS,20170801,"Auckland, New Zealand"
+60,"['Dacmen Vong', 'Rizky Kurniawan']","['[NZL] ', '[INA] ']","['9-21', '21-10', '22-20']",MS,20170801,"Auckland, New Zealand"
+61,"['Wooi Yik Soh', 'Abhinav Manota']","['[MAS] ', '[NZL] ']","['21-23', '21-17', '24-22']",MS,20170801,"Auckland, New Zealand"
+62,"['Firman Abdul Kholik', 'Christopher Steeghs']","['[INA] ', '[NZL] ']","['21-9', '21-12']",MS,20170801,"Auckland, New Zealand"
+63,"['Pratul Joshi', 'Daxxon Vong']","['[IND] ', '[NZL] ']","['21-10', '21-13']",MS,20170801,"Auckland, New Zealand"
+64,"['Erik Meijs', 'Raymond Sing']","['[NED] ', '[AUS] ']","['21-11', '21-5']",MS,20170801,"Auckland, New Zealand"
+65,"['Sahil Sipani', 'Joshua Feng']","['[IND] ', '[NZL] ']","['21-10', '21-10']",MS,20170801,"Auckland, New Zealand"
+66,"['Sourabh Verma [7]', 'Nathan Tang']","['[IND] ', '[AUS] ']","['21-17', '21-15']",MS,20170801,"Auckland, New Zealand"
+67,"['Misha Zilberman [13]', 'Chan Alan Yun Lung']","['[ISR] ', '[NZL] ']","['21-10', '21-10']",MS,20170801,"Auckland, New Zealand"
+68,"['Tony Fang', 'Komandani Maytri Sugiarto']","['[NZL] ', '[INA] ']","['17-21', '21-12', '21-18']",MS,20170801,"Auckland, New Zealand"
+69,"['Jacob Schueler', 'Chee Foong Lim']","['[AUS] ', '[NZL] ']","['21-5', '21-6']",MS,20170801,"Auckland, New Zealand"
+70,"['Simon Wing Hang Leung', 'Tiffany Ho', 'Edward Lau', 'Alyssa Tagle']","['[AUS] ', '[AUS] ', '[NZL] ', '[NZL] ']","['21-18', '21-14']",XD,20170801,"Auckland, New Zealand"
+71,"['Christine Zhang', 'Kelly Stern']","['[NZL] ', '[NZL] ']","['21-13', '21-11']",WS,20170801,"Auckland, New Zealand"
+72,"['Chen Sihang', 'Yuting Xia', 'Alvin Morada', 'Alyssa Yasbel Leonardo']","['[CHN] ', '[CHN] ', '[PHI] ', '[PHI] ']","['19-21', '21-13', '21-19']",XD,20170801,"Auckland, New Zealand"
+73,"['Edi Subaktiar [6]', 'Gloria Emanuelle Widjaja', 'Jonathan Curtin', 'Erena Calder -Hawkins']","['[INA] ', '[INA] ', '[NZL] ', '[NZL] ']","['21-5', '21-9']",XD,20170801,"Auckland, New Zealand"
+74,"['Tseng Min Hao [3]', 'Ling Fang Hu', 'Komandani Maytri Sugiarto', 'Khaeriah Rosmini']","['[TPE] ', '[TPE] ', '[INA] ', '[INA] ']","['21-10', '21-10']",XD,20170801,"Auckland, New Zealand"
+75,"['Tan Qiang', 'Shijun Qiao', 'Maika Phillips', 'Anona Pak']","['[CHN] ', '[CHN] ', '[NZL] ', '[NZL] ']","['21-10', '21-13']",XD,20170801,"Auckland, New Zealand"
+76,"['Chia Hung Lu', 'Yu Chieh Cheng', 'Hendra Tandjaya', 'Sekartaji Putri']","['[TPE] ', '[TPE] ', '[INA] ', '[INA] ']","['21-8', '21-12']",XD,20170801,"Auckland, New Zealand"
+77,"['Yaxin Wei', 'Mia Mawarti']","['[CHN] ', '[INA] ']","['21-12', '21-13']",WS,20170801,"Auckland, New Zealand"
+78,"['Mayu Matsumoto', 'Wakana Nagahara', 'Ni Ketut Mahadewi Istarani', 'Rosyita Eka Putri Sari']","['[JPN] ', '[JPN] ', '[INA] ', '[INA] ']","['19-21', '21-19', '21-9']",WD,20170801,"Auckland, New Zealand"
+79,"['Rei Nagata', 'Cai Yanyan']","['[JPN] ', '[CHN] ']","['21-17', '21-18']",WS,20170801,"Auckland, New Zealand"
+80,"['Sawan Serasinghe [8]', 'Setyana Mapasa', 'Han Chengkai', 'Zhang Shuxian']","['[AUS] ', '[AUS] ', '[CHN] ', '[CHN] ']","['21-13', '21-17']",XD,20170801,"Auckland, New Zealand"
+81,"['Siril Verma [16]', 'Saputra Vicky Angga']","['[IND] ', '[INA] ']","['21-14', '21-16']",MS,20170801,"Auckland, New Zealand"
+82,"['Lin Yu Hsien [11]', 'Sahil Sipani']","['[TPE] ', '[IND] ']","['21-9', '21-8']",MS,20170801,"Auckland, New Zealand"
+83,"['Fan Qiuyue', 'Xuanxuan Liu', 'Yogendran Khrishnan [4]', 'Prajakta Sawant']","['[CHN] ', '[CHN] ', '[MAS] ', '[IND] ']","['21-13', '21-13']",XD,20170801,"Auckland, New Zealand"
+84,"['Erik Meijs', 'Jia Wei Tan']","['[NED] ', '[MAS] ']","['21-18', '21-15']",MS,20170801,"Auckland, New Zealand"
+85,"['Zhou Haodong', 'Xu Ya', 'Dylan Soedjasa', 'Susannah Leydon-Davis']","['[CHN] ', '[CHN] ', '[NZL] ', '[NZL] ']","['21-9', '21-12']",XD,20170801,"Auckland, New Zealand"
+86,"['Wahyu Nayaka Arya Pangkaryanira', 'Ade Yusuf Santoso', 'Ching Weng Chua', 'Agripinna Prima Rahmanto Putra']","['[INA] ', '[INA] ', '[MAS] ', '[INA] ']","['22-20', '21-18']",MD,20170801,"Auckland, New Zealand"
+87,"['Riky Widianto', 'Richi Puspita Dili', 'Dhanny Oud', 'Jasmin Chung Man Ng']","['[INA] ', '[INA] ', '[NZL] ', '[NZL] ']","['21-19', '21-17']",XD,20170801,"Auckland, New Zealand"
+88,"['Pai Yu Po', 'Ying Ying Lee [7]']","['[TPE] ', '[MAS] ']","['17-21', '21-13', '22-20']",WS,20170801,"Auckland, New Zealand"
+89,"['Brittney Tam', 'Sally Fu']","['[CAN] ', '[NZL] ']","['21-13', '21-4']",WS,20170801,"Auckland, New Zealand"
+90,"['Wang Chi-Lin', 'Hsuan-Yu Wendy Chen', 'Chan Alan Yun Lung', 'Soomi Lina Lee']","['[TPE] ', '[AUS] ', '[NZL] ', '[NZL] ']","['21-10', '21-15']",XD,20170801,"Auckland, New Zealand"
+91,"['Maftuki Muhammad', 'Keshya Nurvita Hanadia', 'Kevin Dennerly-Minturn', 'Danielle Tahuri']","['[INA] ', '[INA] ', '[NZL] ', '[NZL] ']","['21-15', '21-13']",XD,20170801,"Auckland, New Zealand"
+92,"['Hsu Jen Hao [6]', 'Lee Zii Jia']","['[TPE] ', '[MAS] ']","['21-18', '19-21', '21-16']",MS,20170801,"Auckland, New Zealand"
+93,"['Wooi Yik Soh', 'Dacmen Vong']","['[MAS] ', '[NZL] ']","['21-15', '21-13']",MS,20170801,"Auckland, New Zealand"
+94,"['Hanna Ramadini [4]', 'Emily Beach']","['[INA] ', '[ENG] ']","['21-4', '21-4']",WS,20170801,"Auckland, New Zealand"
+95,"['Kenas Adi Haryanto', 'Moh Reza Pahlevi Isfahani', 'Wei Chen Liu', 'Tseng Min Hao']","['[INA] ', '[INA] ', '[TPE] ', '[TPE] ']","['21-15', '21-19']",MD,20170801,"Auckland, New Zealand"
+96,"['Liao Min Chun [5]', 'Chen Hsiao Huan', 'Androw Yunanto', 'Mia Mawarti']","['[TPE] ', '[TPE] ', '[INA] ', '[INA] ']",[],XD,20170801,"Auckland, New Zealand"
+97,"['Saena Kawakami [5]', 'Xie Yongshi']","['[JPN] ', '[NZL] ']","['21-12', '21-3']",WS,20170801,"Auckland, New Zealand"
+98,"['He Jiting [7]', 'Du Yue', 'Tang Jie Chen', 'Jia Jia Tew']","['[CHN] ', '[CHN] ', '[MAS] ', '[MAS] ']","['21-9', '21-6']",XD,20170801,"Auckland, New Zealand"
+99,"['Ong Yew Sin [2]', 'Teo Ee Yi', 'Peter Gabriel Magnaye', 'Alvin Morada']","['[MAS] ', '[MAS] ', '[PHI] ', '[PHI] ']","['21-12', '19-21', '21-16']",MD,20170801,"Auckland, New Zealand"
+100,"['Sekartaji Putri', 'Gaea Galvez']","['[INA] ', '[NZL] ']","['21-18', '21-14']",WS,20170801,"Auckland, New Zealand"
+101,"['Sourabh Verma [7]', 'Henrikho Kho Wibowo']","['[IND] ', '[INA] ']","['21-16', '21-16']",MS,20170801,"Auckland, New Zealand"
+102,"['Ronald Ronald', 'Annisa Saufika', 'Habibi Zulfauzi', 'Devi Tika Permatasari']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['21-6', '21-9']",XD,20170801,"Auckland, New Zealand"
+103,"['Fitriani Fitriani [2]', 'Tiffany Ho']","['[INA] ', '[AUS] ']","['21-14', '21-4']",WS,20170801,"Auckland, New Zealand"
+104,"['Yulfira Barkah', 'Meirisa Cindy Sahputri', 'Janice Jiang', 'Rachel Li']","['[INA] ', '[INA] ', '[NZL] ', '[NZL] ']","['21-11', '21-6']",WD,20170801,"Auckland, New Zealand"
+105,"['Zhou Zeqi', 'Daren Liew [14]']","['[CHN] ', '[MAS] ']","['21-19', '16-10']",MS,20170801,"Auckland, New Zealand"
+106,"['Yingzi Jiang', 'Jennifer Tam']","['[AUS] ', '[AUS] ']","['21-14', '21-23', '21-15']",WS,20170801,"Auckland, New Zealand"
+107,"['Yumi Murayama', 'Natsumi Uratani', 'Sally Fu', 'Tamara Otene']","['[JPN] ', '[JPN] ', '[NZL] ', '[NZL] ']","['21-5', '21-9']",WD,20170801,"Auckland, New Zealand"
+108,"['Yulia Yosephin Susanto [8]', 'Lauren Lim']","['[INA] ', '[AUS] ']","['21-11', '21-6']",WS,20170801,"Auckland, New Zealand"
+109,"['Wei Feng Chong [9]', 'Jacob Schueler']","['[MAS] ', '[AUS] ']","['21-14', '21-15']",MS,20170801,"Auckland, New Zealand"
+110,"['Yu Chieh Cheng', 'Ling Fang Hu', 'Soomi Lina Lee', 'Christine Zhang']","['[TPE] ', '[TPE] ', '[NZL] ', '[NZL] ']","['21-12', '21-6']",WD,20170801,"Auckland, New Zealand"
+111,"['Dinar Dyah Ayustine [6]', 'Hsuan-Yu Wendy Chen']","['[INA] ', '[AUS] ']","['21-10', '21-14']",WS,20170801,"Auckland, New Zealand"
+112,"['Wei Nan [10]', 'Giap Chin Goh']","['[HKG] ', '[MAS] ']","['20-22', '21-8', '21-15']",MS,20170801,"Auckland, New Zealand"
+113,"['Han Yue', 'Chen Hsiao Huan']","['[CHN] ', '[TPE] ']","['24-22', '21-16']",WS,20170801,"Auckland, New Zealand"
+114,"['Ayako Sakuramoto [4]', 'Yukiko Takahata', 'Sanyogita Ghorpade', 'Prajakta Sawant']","['[JPN] ', '[JPN] ', '[IND] ', '[IND] ']","['21-15', '21-18']",WD,20170801,"Auckland, New Zealand"
+115,"['Anthony Joe', 'Neeraj Vashist']","['[AUS] ', '[IND] ']","['21-16', '21-13']",MS,20170801,"Auckland, New Zealand"
+116,"['Zhiyi Wang', 'Ruwindi Serasinghe']","['[CHN] ', '[AUS] ']","['21-9', '21-8']",WS,20170801,"Auckland, New Zealand"
+117,"['Parupalli Kashyap [15]', 'Oscar Guo']","['[IND] ', '[NZL] ']","['21-9', '21-8']",MS,20170801,"Auckland, New Zealand"
+118,"['Ratchanok Intanon [1]', 'Jesica Muljati']","['[THA] ', '[INA] ']","['21-17', '21-13']",WS,20170801,"Auckland, New Zealand"
+119,"['Greysia Polii', 'Apriyani Rahayu', 'Du Yue', 'Xu Ya']","['[INA] ', '[INA] ', '[CHN] ', '[CHN] ']","['21-17', '22-20']",WD,20170801,"Auckland, New Zealand"
+120,"['Matthew Chau [5]', 'Sawan Serasinghe', 'Jonathan Curtin', 'Dhanny Oud']","['[AUS] ', '[AUS] ', '[NZL] ', '[NZL] ']","['21-16', '21-10']",MD,20170801,"Auckland, New Zealand"
+121,"['Misha Zilberman [13]', 'Wang Yuehang']","['[ISR] ', '[ENG] ']","['21-14', '21-13']",MS,20170801,"Auckland, New Zealand"
+122,"['Keshya Nurvita Hanadia', 'Devi Tika Permatasari', 'Erena Calder -Hawkins', 'Jasmin Chung Man Ng']","['[INA] ', '[INA] ', '[NZL] ', '[NZL] ']","['21-16', '13-21', '21-16']",WD,20170801,"Auckland, New Zealand"
+123,"['Chan Peng Soon', 'Cheah Yee See', 'Hafiz Faizal [2]', 'Shela Devi Aulia']","['[MAS] ', '[MAS] ', '[INA] ', '[INA] ']","['21-10', '21-19']",XD,20170801,"Auckland, New Zealand"
+124,"['Chia Hung Lu', 'Tony Fang']","['[TPE] ', '[NZL] ']","['21-9', '21-4']",MS,20170801,"Auckland, New Zealand"
+125,"['Tzu Wei Wang [1]', 'Pratul Joshi']","['[TPE] ', '[IND] ']","['21-13', '24-22']",MS,20170801,"Auckland, New Zealand"
+126,"['Lee Cheuk Yiu', 'Jonatan Christie [3]']","['[HKG] ', '[INA] ']","['21-17', '21-13']",MS,20170801,"Auckland, New Zealand"
+127,"['Jien Sern Ian Wong', 'Riky Widianto', 'Cham Chen', 'Toby Wong']","['[MAS] ', '[INA] ', '[AUS] ', '[AUS] ']","['21-16', '21-17']",MD,20170801,"Auckland, New Zealand"
+128,"['Prannoy H. S. [4]', 'Firman Abdul Kholik']","['[IND] ', '[INA] ']","['23-21', '21-18']",MS,20170801,"Auckland, New Zealand"
+129,"['Chen Sihang', 'Fan Qiuyue', 'Sze Fei Goh [6]', 'Nur Izzuddin']","['[CHN] ', '[CHN] ', '[MAS] ', '[MAS] ']","['21-14', '21-19']",MD,20170801,"Auckland, New Zealand"
+130,"['He Jiting', 'Tan Qiang', 'Jacob Schueler', 'Nathan Tang']","['[CHN] ', '[CHN] ', '[AUS] ', '[AUS] ']","['21-5', '21-4']",MD,20170801,"Auckland, New Zealand"
+131,"['Yen Mei Ho', 'Li Wenmei']","['[MAS] ', '[CHN] ']","['21-18', '21-14']",WS,20170801,"Auckland, New Zealand"
+132,"['Danielle Tahuri', 'Xie Yongshi', 'Mia Mawarti', 'Sekartaji Putri']","['[NZL] ', '[NZL] ', '[INA] ', '[INA] ']",['21-5'],WD,20170801,"Auckland, New Zealand"
+133,"['Carlos Antonie Cayanan', 'Philip Joper Escueta', 'Wei Feng Chong', 'Khim Wah Lim']","['[PHI] ', '[PHI] ', '[MAS] ', '[MAS] ']","['18-21', '21-15', '21-11']",MD,20170801,"Auckland, New Zealand"
+134,"['Ruethaichanok Laisuan', 'Supamart Mingchua', 'Tiffany Ho', 'Jennifer Tam']","['[THA] ', '[THA] ', '[AUS] ', '[AUS] ']","['22-20', '21-14']",WD,20170801,"Auckland, New Zealand"
+135,"['Hsu Jen Hao', 'Lu Chia Pin', 'Simon Wing Hang Leung', 'Mitchell Wheller']","['[TPE] ', '[TPE] ', '[AUS] ', '[AUS] ']","['21-10', '21-14']",MD,20170801,"Auckland, New Zealand"
+136,"['Liao Min Chun [7]', 'Cheng Heng Su', 'Tang Jie Chen', 'Wooi Yik Soh']","['[TPE] ', '[TPE] ', '[MAS] ', '[MAS] ']","['21-18', '21-17']",MD,20170801,"Auckland, New Zealand"
+137,"['Shijun Qiao', 'Zhang Shuxian', 'Caragh Alley', 'Kelly Stern']","['[CHN] ', '[CHN] ', '[NZL] ', '[NZL] ']","['21-14', '21-15']",WD,20170801,"Auckland, New Zealand"
+138,"['Joyce Choong', 'Yea Ching Goh', 'Jesica Muljati', 'Yulia Yosephin Susanto']","['[MAS] ', '[MAS] ', '[INA] ', '[INA] ']","['21-12', '21-10']",WD,20170801,"Auckland, New Zealand"
+139,"['Chen Hung Ling [1]', 'Wang Chi-Lin', 'Abhinav Manota', 'Dylan Soedjasa']","['[TPE] ', '[TPE] ', '[NZL] ', '[NZL] ']","['21-9', '21-13']",MD,20170801,"Auckland, New Zealand"
+140,"['Oscar Guo', 'Dacmen Vong', 'Rizky Kurniawan', 'Komandani Maytri Sugiarto']","['[NZL] ', '[NZL] ', '[INA] ', '[INA] ']","['12-21', '21-9', '19-15']",MD,20170801,"Auckland, New Zealand"
+141,"['Han Chengkai', 'Zhou Haodong', 'Chan Alan Yun Lung', 'Chance Cheng']","['[CHN] ', '[CHN] ', '[NZL] ', '[NZL] ']","['21-9', '21-18']",MD,20170801,"Auckland, New Zealand"
+142,"['Nur Mohd Azriyn Ayub', 'Zi Heng Ooi', 'Sahil Sipani', 'Jagadish Yadav']","['[MAS] ', '[MAS] ', '[IND] ', '[IND] ']","['21-12', '21-16']",MD,20170801,"Auckland, New Zealand"
+143,"['Erik Meijs', 'Alexander Roovers', 'Maika Phillips', 'Christopher Steeghs']","['[NED] ', '[GER] ', '[NZL] ', '[NZL] ']","['21-12', '21-12']",MD,20170801,"Auckland, New Zealand"
+144,"['Xuanxuan Liu', 'Yuting Xia', 'Anona Pak', 'Fransisca Angelica Rahardja']","['[CHN] ', '[CHN] ', '[NZL] ', '[INA] ']","['21-12', '21-13']",WD,20170801,"Auckland, New Zealand"
+145,"['Kevin Dennerly-Minturn', 'Samuel Ho', 'Ricky Cheng', 'Evan Wong']","['[NZL] ', '[NZL] ', '[NZL] ', '[NZL] ']","['21-12', '21-15']",MD,20170801,"Auckland, New Zealand"
+146,"['Pai Yu Po', 'Rei Nagata']","['[TPE] ', '[JPN] ']","['21-11', '21-12']",WS,20170801,"Auckland, New Zealand"
+147,"['Wang Chi-Lin', 'Hsuan-Yu Wendy Chen', 'Tseng Min Hao [3]', 'Ling Fang Hu']","['[TPE] ', '[AUS] ', '[TPE] ', '[TPE] ']","['21-19', '21-17']",XD,20170801,"Auckland, New Zealand"
+148,"['Sawan Serasinghe [8]', 'Setyana Mapasa', 'Maftuki Muhammad', 'Keshya Nurvita Hanadia']","['[AUS] ', '[AUS] ', '[INA] ', '[INA] ']","['21-9', '21-15']",XD,20170801,"Auckland, New Zealand"
+149,"['Fitriani Fitriani [2]', 'Brittney Tam']","['[INA] ', '[CAN] ']","['21-7', '21-15']",WS,20170801,"Auckland, New Zealand"
+150,"['Ronald Ronald', 'Annisa Saufika', 'Simon Wing Hang Leung', 'Tiffany Ho']","['[INA] ', '[INA] ', '[AUS] ', '[AUS] ']","['21-7', '21-6']",XD,20170801,"Auckland, New Zealand"
+151,"['Tan Qiang', 'Shijun Qiao', 'Fan Qiuyue', 'Xuanxuan Liu']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['12-21', '28-26', '21-13']",XD,20170801,"Auckland, New Zealand"
+152,"['Lin Yu Hsien [11]', 'Erik Meijs']","['[TPE] ', '[NED] ']","['21-16', '21-12']",MS,20170801,"Auckland, New Zealand"
+153,"['Yaxin Wei', 'Sekartaji Putri']","['[CHN] ', '[INA] ']","['21-8', '15-7']",WS,20170801,"Auckland, New Zealand"
+154,"['Edi Subaktiar [6]', 'Gloria Emanuelle Widjaja', 'Chen Sihang', 'Yuting Xia']","['[INA] ', '[INA] ', '[CHN] ', '[CHN] ']","['21-14', '21-10']",XD,20170801,"Auckland, New Zealand"
+155,"['Zhou Haodong', 'Xu Ya', 'Liao Min Chun [5]', 'Chen Hsiao Huan']","['[CHN] ', '[CHN] ', '[TPE] ', '[TPE] ']","['22-24', '21-18', '21-18']",XD,20170801,"Auckland, New Zealand"
+156,"['He Jiting [7]', 'Du Yue', 'Chia Hung Lu', 'Yu Chieh Cheng']","['[CHN] ', '[CHN] ', '[TPE] ', '[TPE] ']","['21-7', '21-17']",XD,20170801,"Auckland, New Zealand"
+157,"['Riky Widianto', 'Richi Puspita Dili', 'Chan Peng Soon', 'Cheah Yee See']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['12-21', '21-15', '21-19']",XD,20170801,"Auckland, New Zealand"
+158,"['Hanna Ramadini [4]', 'Zhiyi Wang']","['[INA] ', '[CHN] ']","['21-18', '21-10']",WS,20170801,"Auckland, New Zealand"
+159,"['Anthony Joe', 'Wooi Yik Soh']","['[AUS] ', '[MAS] ']","['21-17', '18-21', '21-14']",MS,20170801,"Auckland, New Zealand"
+160,"['Yen Mei Ho', 'Yulia Yosephin Susanto [8]']","['[MAS] ', '[INA] ']","['21-13', '21-16']",WS,20170801,"Auckland, New Zealand"
+161,"['Tzu Wei Wang [1]', 'Wei Feng Chong [9]']","['[TPE] ', '[MAS] ']","['21-15', '21-10']",MS,20170801,"Auckland, New Zealand"
+162,"['Hsu Jen Hao [6]', 'Zhou Zeqi']","['[TPE] ', '[CHN] ']","['21-13', '21-7']",MS,20170801,"Auckland, New Zealand"
+163,"['Yulfira Barkah', 'Meirisa Cindy Sahputri', 'Ella Smith', 'Jahvaya Wheki']","['[INA] ', '[INA] ', '[NZL] ', '[NZL] ']","['21-9', '21-10']",WD,20170801,"Auckland, New Zealand"
+164,"['Dinar Dyah Ayustine [6]', 'Christine Zhang']","['[INA] ', '[NZL] ']","['21-14', '21-7']",WS,20170801,"Auckland, New Zealand"
+165,"['Sourabh Verma [7]', 'Parupalli Kashyap [15]']","['[IND] ', '[IND] ']","['21-18', '13-21', '21-16']",MS,20170801,"Auckland, New Zealand"
+166,"['Ayako Sakuramoto [4]', 'Yukiko Takahata', 'Keshya Nurvita Hanadia', 'Devi Tika Permatasari']","['[JPN] ', '[JPN] ', '[INA] ', '[INA] ']","['21-9', '21-14']",WD,20170801,"Auckland, New Zealand"
+167,"['Prannoy H. S. [4]', 'Wei Nan [10]']","['[IND] ', '[HKG] ']","['21-18', '21-19']",MS,20170801,"Auckland, New Zealand"
+168,"['Ratchanok Intanon [1]', 'Yingzi Jiang']","['[THA] ', '[AUS] ']","['21-2', '21-8']",WS,20170801,"Auckland, New Zealand"
+169,"['Ong Yew Sin [2]', 'Teo Ee Yi', 'Kevin Dennerly-Minturn', 'Samuel Ho']","['[MAS] ', '[MAS] ', '[NZL] ', '[NZL] ']","['21-13', '21-6']",MD,20170801,"Auckland, New Zealand"
+170,"['Wahyu Nayaka Arya Pangkaryanira', 'Ade Yusuf Santoso', 'Oscar Guo', 'Dacmen Vong']","['[INA] ', '[INA] ', '[NZL] ', '[NZL] ']","['21-12', '21-11']",MD,20170801,"Auckland, New Zealand"
+171,"['Kenas Adi Haryanto', 'Moh Reza Pahlevi Isfahani', 'Erik Meijs', 'Alexander Roovers']","['[INA] ', '[INA] ', '[NED] ', '[GER] ']",[],MD,20170801,"Auckland, New Zealand"
+172,"['Vivian Hoo [1]', 'Woon Khe Wei', 'Danielle Tahuri', 'Xie Yongshi']","['[MAS] ', '[MAS] ', '[NZL] ', '[NZL] ']","['21-12', '21-10']",WD,20170801,"Auckland, New Zealand"
+173,"['Lee Cheuk Yiu', 'Misha Zilberman [13]']","['[HKG] ', '[ISR] ']","['21-10', '21-12']",MS,20170801,"Auckland, New Zealand"
+174,"['Chen Hung Ling [1]', 'Wang Chi-Lin', 'Han Chengkai', 'Zhou Haodong']","['[TPE] ', '[TPE] ', '[CHN] ', '[CHN] ']","['21-10', '21-14']",MD,20170801,"Auckland, New Zealand"
+175,"['He Jiting', 'Tan Qiang', 'Nur Mohd Azriyn Ayub', 'Zi Heng Ooi']","['[CHN] ', '[CHN] ', '[MAS] ', '[MAS] ']","['21-16', '15-11']",MD,20170801,"Auckland, New Zealand"
+176,"['Shijun Qiao', 'Zhang Shuxian', 'Ruethaichanok Laisuan', 'Supamart Mingchua']","['[CHN] ', '[CHN] ', '[THA] ', '[THA] ']","['21-14', '13-21', '21-12']",WD,20170801,"Auckland, New Zealand"
+177,"['Chia Hung Lu', 'Siril Verma [16]']","['[TPE] ', '[IND] ']","['21-13', '21-14']",MS,20170801,"Auckland, New Zealand"
+178,"['Joyce Choong', 'Yea Ching Goh', 'Alyssa Tagle', 'Jacqueline Yu']","['[MAS] ', '[MAS] ', '[NZL] ', '[NZL] ']","['21-4', '21-5']",WD,20170801,"Auckland, New Zealand"
+179,"['Yu Chieh Cheng', 'Ling Fang Hu', 'Mayu Matsumoto', 'Wakana Nagahara']","['[TPE] ', '[TPE] ', '[JPN] ', '[JPN] ']","['22-20', '21-14']",WD,20170801,"Auckland, New Zealand"
+180,"['Saena Kawakami [5]', 'Han Yue']","['[JPN] ', '[CHN] ']","['21-14', '21-11']",WS,20170801,"Auckland, New Zealand"
+181,"['Chen Sihang', 'Fan Qiuyue', 'Carlos Antonie Cayanan', 'Philip Joper Escueta']","['[CHN] ', '[CHN] ', '[PHI] ', '[PHI] ']","['21-14', '21-15']",MD,20170801,"Auckland, New Zealand"
+182,"['Greysia Polii', 'Apriyani Rahayu', 'Nami Matsuyama', 'Chiharu Shida']","['[INA] ', '[INA] ', '[JPN] ', '[JPN] ']","['21-13', '16-21', '21-19']",WD,20170801,"Auckland, New Zealand"
+183,"['Xuanxuan Liu', 'Yuting Xia', 'Yumi Murayama', 'Natsumi Uratani']","['[CHN] ', '[CHN] ', '[JPN] ', '[JPN] ']","['21-17', '21-15']",WD,20170801,"Auckland, New Zealand"
+184,"['Liao Min Chun [7]', 'Cheng Heng Su', 'Jien Sern Ian Wong', 'Riky Widianto']","['[TPE] ', '[TPE] ', '[MAS] ', '[INA] ']","['21-11', '21-13']",MD,20170801,"Auckland, New Zealand"
+185,"['Hsu Jen Hao', 'Lu Chia Pin', 'Matthew Chau [5]', 'Sawan Serasinghe']","['[TPE] ', '[TPE] ', '[AUS] ', '[AUS] ']","['16-21', '21-13', '21-12']",MD,20170801,"Auckland, New Zealand"
+186,"['Sawan Serasinghe [8]', 'Setyana Mapasa', 'Tan Qiang', 'Shijun Qiao']","['[AUS] ', '[AUS] ', '[CHN] ', '[CHN] ']","['21-15', '21-16']",XD,20170801,"Auckland, New Zealand"
+187,"['Wang Chi-Lin', 'Hsuan-Yu Wendy Chen', 'He Jiting [7]', 'Du Yue']","['[TPE] ', '[AUS] ', '[CHN] ', '[CHN] ']","['21-13', '21-4']",XD,20170801,"Auckland, New Zealand"
+188,"['Zhou Haodong', 'Xu Ya', 'Riky Widianto', 'Richi Puspita Dili']","['[CHN] ', '[CHN] ', '[INA] ', '[INA] ']","['21-18', '9-21', '22-20']",XD,20170801,"Auckland, New Zealand"
+189,"['Greysia Polii', 'Apriyani Rahayu', 'Yu Chieh Cheng', 'Ling Fang Hu']","['[INA] ', '[INA] ', '[TPE] ', '[TPE] ']","['21-11', '21-10']",WD,20170801,"Auckland, New Zealand"
+190,"['Xuanxuan Liu', 'Yuting Xia', 'Yulfira Barkah', 'Meirisa Cindy Sahputri']","['[CHN] ', '[CHN] ', '[INA] ', '[INA] ']","['21-16', '14-21', '21-14']",WD,20170801,"Auckland, New Zealand"
+191,"['Hsu Jen Hao [6]', 'Chia Hung Lu']","['[TPE] ', '[TPE] ']","['22-20', '23-21']",MS,20170801,"Auckland, New Zealand"
+192,"['Ronald Ronald', 'Annisa Saufika', 'Edi Subaktiar [6]', 'Gloria Emanuelle Widjaja']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['18-21', '21-17', '23-21']",XD,20170801,"Auckland, New Zealand"
+193,"['Hanna Ramadini [4]', 'Pai Yu Po']","['[INA] ', '[TPE] ']","['21-12', '21-19']",WS,20170801,"Auckland, New Zealand"
+194,"['Tzu Wei Wang [1]', 'Anthony Joe']","['[TPE] ', '[AUS] ']","['21-7', '21-7']",MS,20170801,"Auckland, New Zealand"
+195,"['Fitriani Fitriani [2]', 'Yen Mei Ho']","['[INA] ', '[MAS] ']","['9-21', '21-10', '21-13']",WS,20170801,"Auckland, New Zealand"
+196,"['Lee Cheuk Yiu', 'Sourabh Verma [7]']","['[HKG] ', '[IND] ']","['21-19', '21-16']",MS,20170801,"Auckland, New Zealand"
+197,"['Ratchanok Intanon [1]', 'Dinar Dyah Ayustine [6]']","['[THA] ', '[INA] ']","['19-21', '21-10', '21-11']",WS,20170801,"Auckland, New Zealand"
+198,"['Saena Kawakami [5]', 'Yaxin Wei']","['[JPN] ', '[CHN] ']","['22-20', '21-15']",WS,20170801,"Auckland, New Zealand"
+199,"['Ayako Sakuramoto [4]', 'Yukiko Takahata', 'Joyce Choong', 'Yea Ching Goh']","['[JPN] ', '[JPN] ', '[MAS] ', '[MAS] ']","['28-30', '21-11', '22-20']",WD,20170801,"Auckland, New Zealand"
+200,"['Chen Hung Ling [1]', 'Wang Chi-Lin', 'Chen Sihang', 'Fan Qiuyue']","['[TPE] ', '[TPE] ', '[CHN] ', '[CHN] ']","['21-10', '21-12']",MD,20170801,"Auckland, New Zealand"
+201,"['Vivian Hoo [1]', 'Woon Khe Wei', 'Shijun Qiao', 'Zhang Shuxian']","['[MAS] ', '[MAS] ', '[CHN] ', '[CHN] ']","['21-7', '21-16']",WD,20170801,"Auckland, New Zealand"
+202,"['Lin Yu Hsien [11]', 'Prannoy H. S. [4]']","['[TPE] ', '[IND] ']","['21-10', '20-22', '23-21']",MS,20170801,"Auckland, New Zealand"
+203,"['He Jiting', 'Tan Qiang', 'Wahyu Nayaka Arya Pangkaryanira', 'Ade Yusuf Santoso']","['[CHN] ', '[CHN] ', '[INA] ', '[INA] ']","['21-19', '21-13']",MD,20170801,"Auckland, New Zealand"
+204,"['Kenas Adi Haryanto', 'Moh Reza Pahlevi Isfahani', 'Hsu Jen Hao', 'Lu Chia Pin']","['[INA] ', '[INA] ', '[TPE] ', '[TPE] ']","['20-22', '21-12', '21-18']",MD,20170801,"Auckland, New Zealand"
+205,"['Ong Yew Sin [2]', 'Teo Ee Yi', 'Liao Min Chun [7]', 'Cheng Heng Su']","['[MAS] ', '[MAS] ', '[TPE] ', '[TPE] ']","['19-21', '21-14', '21-16']",MD,20170801,"Auckland, New Zealand"
+206,"['Lee Cheuk Yiu', 'Hsu Jen Hao [6]']","['[HKG] ', '[TPE] ']","['21-12', '21-19']",MS ,20170801,"Auckland, New Zealand"
+207,"['Sawan Serasinghe [8]', 'Setyana Mapasa', 'Zhou Haodong', 'Xu Ya']","['[AUS] ', '[AUS] ', '[CHN] ', '[CHN] ']","['25-23', '21-18']",XD ,20170801,"Auckland, New Zealand"
+208,"['Vivian Hoo [1]', 'Woon Khe Wei', 'Greysia Polii', 'Apriyani Rahayu']","['[MAS] ', '[MAS] ', '[INA] ', '[INA] ']","['21-18', '13-21', '21-13']",WD ,20170801,"Auckland, New Zealand"
+209,"['Ratchanok Intanon [1]', 'Hanna Ramadini [4]']","['[THA] ', '[INA] ']","['21-13', '21-17']",WS ,20170801,"Auckland, New Zealand"
+210,"['Ong Yew Sin [2]', 'Teo Ee Yi', 'He Jiting', 'Tan Qiang']","['[MAS] ', '[MAS] ', '[CHN] ', '[CHN] ']","['21-19', '21-11']",MD ,20170801,"Auckland, New Zealand"
+211,"['Ronald Ronald', 'Annisa Saufika', 'Wang Chi-Lin', 'Hsuan-Yu Wendy Chen']","['[INA] ', '[INA] ', '[TPE] ', '[AUS] ']","['21-9', '19-21', '21-6']",XD ,20170801,"Auckland, New Zealand"
+212,"['Saena Kawakami [5]', 'Fitriani Fitriani [2]']","['[JPN] ', '[INA] ']","['21-12', '17-21', '21-17']",WS ,20170801,"Auckland, New Zealand"
+213,"['Tzu Wei Wang [1]', 'Lin Yu Hsien [11]']","['[TPE] ', '[TPE] ']","['21-11', '21-12']",MS ,20170801,"Auckland, New Zealand"
+214,"['Ayako Sakuramoto [4]', 'Yukiko Takahata', 'Xuanxuan Liu', 'Yuting Xia']","['[JPN] ', '[JPN] ', '[CHN] ', '[CHN] ']","['23-21', '21-13']",WD ,20170801,"Auckland, New Zealand"
+215,"['Chen Hung Ling [1]', 'Wang Chi-Lin', 'Kenas Adi Haryanto', 'Moh Reza Pahlevi Isfahani']","['[TPE] ', '[TPE] ', '[INA] ', '[INA] ']","['21-13', '21-15']",MD ,20170801,"Auckland, New Zealand"
+216,"['Ronald Ronald', 'Annisa Saufika', 'Sawan Serasinghe [8]', 'Setyana Mapasa']","['[INA] ', '[INA] ', '[AUS] ', '[AUS] ']","['21-19', '21-14']",XD ,20170801,"Auckland, New Zealand"
+217,"['Vivian Hoo [1]', 'Woon Khe Wei', 'Ayako Sakuramoto [4]', 'Yukiko Takahata']","['[MAS] ', '[MAS] ', '[JPN] ', '[JPN] ']","['18-21', '21-16', '21-19']",WD ,20170801,"Auckland, New Zealand"
+218,"['Lee Cheuk Yiu', 'Tzu Wei Wang [1]']","['[HKG] ', '[TPE] ']","['11-21', '21-15', '22-20']",MS ,20170801,"Auckland, New Zealand"
+219,"['Ratchanok Intanon [1]', 'Saena Kawakami [5]']","['[THA] ', '[JPN] ']","['21-14', '16-21', '21-15']",WS ,20170801,"Auckland, New Zealand"
+220,"['Chen Hung Ling [1]', 'Wang Chi-Lin', 'Ong Yew Sin [2]', 'Teo Ee Yi']","['[TPE] ', '[TPE] ', '[MAS] ', '[MAS] ']","['21-16', '21-18']",MD ,20170801,"Auckland, New Zealand"

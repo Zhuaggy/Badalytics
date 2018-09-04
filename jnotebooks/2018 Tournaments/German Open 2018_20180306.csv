@@ -1,184 +1,184 @@
-,PLAYERS,COUNTRIES,SCORES,EVENT,match_week
-0,"['Kalle Koljonen', 'Rüdiger Gnedt']","['[FIN] ', '[AUT] ']","['21-8', '21-5']",MS - Qualification,20180306
-1,"['Alex Vlaar', 'Birger Abts']","['[BUL] ', '[BEL] ']","['21-19', '21-18']",MS - Qualification,20180306
-2,"['Yuki Kaneko', 'Koharu Yonemoto', 'Yang Ming-Tse', 'Sung Shuo Yun']","['[JPN] ', '[JPN] ', '[TPE] ', '[TPE] ']","['21-12', '16-21', '21-16']",XD - Qualification,20180306
-3,"['Kim Bruun', 'Søren Toft']","['[DEN] ', '[DEN] ']","['21-14', '21-18']",MS - Qualification,20180306
-4,"['Wolfgang Gnedt', 'David Peng']","['[AUT] ', '[GER] ']","['18-21', '25-23', '21-17']",MS - Qualification,20180306
-5,"['Dmytro Zavadsky', 'Thomas Rouxel']","['[UKR] ', '[FRA] ']","['20-22', '21-16', '21-19']",MS - Qualification,20180306
-6,"['Kan Chao Yu', 'Lucas Claerbout']","['[TPE] ', '[FRA] ']","['21-17', '11-21', '21-18']",MS - Qualification,20180306
-7,"['Zvonimir Durkinjak', 'Valeriy Atrashchenkov']","['[CRO] ', '[UKR] ']","['21-16', '17-21', '21-18']",MS - Qualification,20180306
-8,"['Zhao Junpeng', 'Alexander Roovers']","['[CHN] ', '[GER] ']","['18-21', '21-15', '21-15']",MS - Qualification,20180306
-9,"['Praveen Jordan', 'Melati Daeva Oktavianti', 'Kristoffer Knudsen', 'Isabella Nielsen']","['[INA] ', '[INA] ', '[DEN] ', '[DEN] ']","['21-14', '21-11']",XD - Qualification,20180306
-10,"['Thom Gicquel', 'Delphine Delrue', 'Jones Ralfy Jansen', 'Carla Nelte']","['[FRA] ', '[FRA] ', '[GER] ', '[GER] ']","['21-19', '16-21', '21-15']",XD - Qualification,20180306
-11,"['Lyanny Alessandra Mainaky', 'Gayle Mahulette']","['[INA] ', '[NED] ']","['21-11', '21-18']",WS - Qualification,20180306
-12,"['Gao Fangjie [2]', 'Sung Shuo Yun']","['[CHN] ', '[TPE] ']","['19-21', '21-6', '21-11']",WS - Qualification,20180306
-13,"['Chang Ko-Chi', 'Cheng Chi Ya', 'Alex Vlaar', 'Iris Tabeling']","['[TPE] ', '[TPE] ', '[BUL] ', '[NED] ']","['21-19', '21-17']",XD - Qualification,20180306
-14,"['Kasper Antonsen', 'Niclas Nohr', 'Po Li-Wei', 'Yang Ming-Tse']","['[DEN] ', '[DEN] ', '[TPE] ', '[TPE] ']","['11-21', '22-20', '21-18']",MD - Qualification,20180306
-15,"['Luise Heim', 'Chloe Birch']","['[GER] ', '[ENG] ']","['21-17', '23-21']",WS - Qualification,20180306
-16,"['Raphael Beck', 'Sam Magee', 'Bastian Kersaudy', 'Julien Maio']","['[GER] ', '[IRL] ', '[FRA] ', '[FRA] ']",[],MD - Qualification,20180306
-17,"['Arjun M.R. [2]', 'Ramchandran Shlok', 'Inkarat Apisuk', 'Tanupat Viriyangkura']","['[IND] ', '[IND] ', '[THA] ', '[THA] ']","['21-15', '21-16']",MD - Qualification,20180306
-18,"['Pakin Kuna-Anuvit', 'Natthapat Trinkajee', 'Konstantin Abramov', 'Alexandr Zinchenko']","['[THA] ', '[THA] ', '[RUS] ', '[RUS] ']","['23-21', '21-15']",MD - Qualification,20180306
-19,"['Zhao Junpeng', 'Dmytro Zavadsky']","['[CHN] ', '[UKR] ']","['21-16', '22-24', '21-17']",MS - Qualification,20180306
-20,"['Kim Bruun', 'Wolfgang Gnedt']","['[DEN] ', '[AUT] ']","['23-21', '21-12']",MS - Qualification,20180306
-21,"['Lisa Kaminski', 'Hannah Pohl', 'Delphine Delrue [2]', 'Lea Palermo']","['[GER] ', '[GER] ', '[FRA] ', '[FRA] ']",[],WD - Qualification,20180306
-22,"['Tang Jinhua', 'Yu Xiaohan', 'Jenny Nystrom', 'Sonja Pekkola']","['[CHN] ', '[CHN] ', '[FIN] ', '[FIN] ']","['21-7', '21-10']",WD - Qualification,20180306
-23,"['Alexandra Bøje', 'Sara Lundgaard', 'Debora Jille', 'Imke Van Der Aar']","['[DEN] ', '[DEN] ', '[NED] ', '[NED] ']",[],WD - Qualification,20180306
-24,"['Neslihan Yigit', 'Fabienne Deprez']","['[TUR] ', '[GER] ']","['21-13', '21-18']",WS - Qualification,20180306
-25,"['Kan Chao Yu', 'Zvonimir Durkinjak']","['[TPE] ', '[CRO] ']","['21-15', '21-16']",MS - Qualification,20180306
-26,"['Kalle Koljonen', 'Alex Vlaar']","['[FIN] ', '[BUL] ']","['21-9', '21-15']",MS - Qualification,20180306
-27,"['Huang Dongping', 'Yu Zheng', 'Cheng Chi Ya', 'Sung Shuo Yun']","['[CHN] ', '[CHN] ', '[TPE] ', '[TPE] ']","['21-13', '21-6']",WD - Qualification,20180306
-28,"['Jacco Arends', 'Selena Piek', 'Joachim Fischer Nielsen', 'Alexandra Bøje']","['[NED] ', '[NED] ', '[DEN] ', '[DEN] ']","['21-19', '25-23']",XD,20180306
-29,"['Wang Chi-Lin', 'Lee Chia Hsin', 'Hafiz Faizal', 'Gloria Emanuelle Widjaja']","['[TPE] ', '[TPE] ', '[INA] ', '[INA] ']","['21-17', '21-19']",XD,20180306
-30,"['Tinn Isriyanet', 'Pacharapun Chochuwong', 'Lee Chun Hei Reginald [7]', 'Chau Hoi Wah']","['[THA] ', '[THA] ', '[HKG] ', '[HKG] ']","['21-17', '19-21', '21-17']",XD,20180306
-31,"['Dechapol Puavaranukroh [5]', 'Sapsiree Taerattanachai', 'Mikkel Mikkelsen', 'Mai Surrow']","['[THA] ', '[THA] ', '[DEN] ', '[DEN] ']","['23-21', '15-21', '21-14']",XD,20180306
-32,"['Lee Yang', 'Hsu Ya Ching', 'Robin Tabeling', 'Cheryl Seinen']","['[TPE] ', '[TPE] ', '[NED] ', '[NED] ']","['21-13', '18-21', '21-15']",XD,20180306
-33,"['Goh Soon Huat [3]', 'Shevon Jemie Lai', 'Sam Magee', 'Chloe Magee']","['[MAS] ', '[MAS] ', '[IRL] ', '[IRL] ']","['15-21', '21-17', '21-17']",XD,20180306
-34,"['Niclas Nohr', 'Sara Thygesen', 'Tan Kian Meng [4]', 'Lai Pei Jing']","['[DEN] ', '[DEN] ', '[MAS] ', '[MAS] ']","['21-17', '21-13']",XD,20180306
-35,"['Marcus Ellis', 'Lauren Smith', 'Marvin Emil Seidel', 'Linda Efler']","['[ENG] ', '[ENG] ', '[GER] ', '[GER] ']","['21-17', '21-5']",XD,20180306
-36,"['Seung Jae Seo [2]', 'Kim Ha Na', 'Lu Ching Yao', 'Chiang Kai Hsin']","['[KOR] ', '[KOR] ', '[TPE] ', '[TPE] ']","['21-19', '12-21', '21-17']",XD,20180306
-37,"['He Jiting', 'Du Yue', 'Anton Kaisti', 'Jenny Nystrom']","['[CHN] ', '[CHN] ', '[FIN] ', '[FIN] ']","['21-14', '21-13']",XD,20180306
-38,"['Jelle Maas', 'Imke Van Der Aar', 'Takuro Hoki', 'Mayu Matsumoto']","['[NED] ', '[NED] ', '[JPN] ', '[JPN] ']","['21-19', '14-21', '21-16']",XD,20180306
-39,"['Tang Chun Man [1]', 'Tse Ying Suet', 'Mark Lamsfuss', 'Isabel Herttrich']","['[HKG] ', '[HKG] ', '[GER] ', '[GER] ']","['19-21', '21-10', '21-18']",XD,20180306
-40,"['Pranaav Jerry Chopra', 'Reddy N. Sikki', 'Chang Ko-Chi', 'Cheng Chi Ya']","['[IND] ', '[IND] ', '[TPE] ', '[TPE] ']","['24-22', '17-21', '21-19']",XD,20180306
-41,"['Chen Qingchen [1]', 'Jia Yifan', 'Supissara Paewsampran', 'Puttita Supajirakul']","['[CHN] ', '[CHN] ', '[THA] ', '[THA] ']","['21-14', '21-18']",WD,20180306
-42,"['Sung Ji Hyun [2]', 'Fitriani Fitriani']","['[KOR] ', '[INA] ']","['21-12', '21-16']",WS,20180306
-43,"['Della Destiara Haris [8]', 'Rizki Amelia Pradipta', 'Anastasia Chervyakova', 'Olga Morozova']","['[INA] ', '[INA] ', '[RUS] ', '[RUS] ']","['21-19', '21-16']",WD,20180306
-44,"['Kento Momota', 'Wang Tzu Wei [7]']","['[JPN] ', '[TPE] ']","['21-18', '21-15']",MS,20180306
-45,"['Kim Hyo Min', 'Pornpawee Chochuwong']","['[KOR] ', '[THA] ']","['21-8', '21-19']",WS,20180306
-46,"['Kim So Yeong', 'Hee Yong Kong', 'Julie Finne-Ipsen', 'Rikke Søby']","['[KOR] ', '[KOR] ', '[DEN] ', '[DEN] ']","['21-14', '21-11']",WD,20180306
-47,"['Choi Solgyu [8]', 'Chae Yoo Jung', 'Thom Gicquel', 'Delphine Delrue']","['[KOR] ', '[KOR] ', '[FRA] ', '[FRA] ']","['21-12', '22-20']",XD,20180306
-48,"['Suppanyu Avihingsanon', 'Hsu Jen Hao']","['[THA] ', '[TPE] ']","['21-15', '22-20']",MS,20180306
-49,"['Chang Ye Na [7]', 'Hye Rin Kim', 'Chayanit Chaladchalam', 'Phataimas Muenwong']","['[KOR] ', '[KOR] ', '[THA] ', '[THA] ']","['21-17', '21-16']",WD,20180306
-50,"['Yuta Watanabe', 'Arisa Higashino', 'Yuki Kaneko', 'Koharu Yonemoto']","['[JPN] ', '[JPN] ', '[JPN] ', '[JPN] ']","['21-13', '21-15']",XD,20180306
-51,"['Nitchaon Jindapol [6]', 'Lyanny Alessandra Mainaky']","['[THA] ', '[INA] ']","['21-8', '21-12']",WS,20180306
-52,"['Chen Xiaoxin', 'Lee Jang Mi']","['[CHN] ', '[KOR] ']","['21-16', '22-20']",WS,20180306
-53,"['Gabriela Stoeva', 'Stefani Stoeva', 'Hsu Ya Ching', 'Wu Ti Jung']","['[BUL] ', '[BUL] ', '[TPE] ', '[TPE] ']","['21-23', '21-13', '21-11']",WD,20180306
-54,"['Kantaphon Wangcharoen', 'Tanongsak Saensomboonsuk']","['[THA] ', '[THA] ']","['21-18', '21-12']",MS,20180306
-55,"['Praveen Jordan', 'Melati Daeva Oktavianti', 'Chan Peng Soon [6]', 'Liu Ying Goh']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['21-19', '21-18']",XD,20180306
-56,"['Chen Yufei [4]', 'Soniia Cheah']","['[CHN] ', '[MAS] ']","['21-11', '21-13']",WS,20180306
-57,"['Takeshi Kamura [1]', 'Keigo Sonoda', 'Arjun M.R.', 'Ramchandran Shlok']","['[JPN] ', '[JPN] ', '[IND] ', '[IND] ']","['21-13', '21-18']",MD,20180306
-58,"['Shi Yuqi [3]', 'Zhao Junpeng']","['[CHN] ', '[CHN] ']","['21-17', '16-21', '21-19']",MS,20180306
-59,"['Jongkolphan Kititharakul [6]', 'Rawinda Prajongjai', 'Amanda Hogstrom', 'Clara Nistad']","['[THA] ', '[THA] ', '[SWE] ', '[SWE] ']","['21-11', '21-7']",WD,20180306
-60,"['Neslihan Yigit', 'Mette Poulsen']","['[TUR] ', '[DEN] ']","['21-15', '14-21', '21-19']",WS,20180306
-61,"['Lee Jhe-Huei [4]', 'Lee Yang', 'Ong Yew Sin', 'Teo Ee Yi']","['[TPE] ', '[TPE] ', '[MAS] ', '[MAS] ']","['17-21', '21-15', '22-20']",MD,20180306
-62,"['Anthony Sinisuka Ginting [5]', 'Kim Bruun']","['[INA] ', '[DEN] ']","['14-21', '1-2']",MS,20180306
-63,"['Isabel Herttrich', 'Carla Nelte', 'Selena Piek', 'Cheryl Seinen']","['[GER] ', '[GER] ', '[NED] ', '[NED] ']","['22-20', '21-14']",WD,20180306
-64,"['Huang Yuxiang', 'Kan Chao Yu']","['[CHN] ', '[TPE] ']","['21-17', '22-20']",MS,20180306
-65,"['Mads Conrad-Petersen [2]', 'Mads Pieler Kolding', 'Kittinupong Kedren', 'Dechapol Puavaranukroh']","['[DEN] ', '[DEN] ', '[THA] ', '[THA] ']","['21-19', '21-13']",MD,20180306
-66,"['Brittney Tam', 'Kirsty Gilmour [8]']","['[CAN] ', '[SCO] ']","['21-13', '13-21', '21-17']",WS,20180306
-67,"['Angga Pratama', 'Rian Agung Saputro', 'Chung Eui Seok', 'Kim Dukyoung']","['[INA] ', '[INA] ', '[KOR] ', '[KOR] ']","['21-10', '18-21', '21-10']",MD,20180306
-68,"['Subhankar Dey', 'Wong Wing Ki Vincent']","['[IND] ', '[HKG] ']","['21-12', '19-11']",MS,20180306
-69,"['Chiang Mei Hui', 'Evgeniya Kosetskaya']","['[TPE] ', '[RUS] ']","['21-8', '21-15']",WS,20180306
-70,"['Han Chengkai', 'Zhou Haodong', 'Jones Ralfy Jansen', 'Josche Zurwonne']","['[CHN] ', '[CHN] ', '[GER] ', '[GER] ']","['21-15', '21-17']",MD,20180306
-71,"['Huang Dongping', 'Yu Zheng', 'Lee So Hee [5]', 'Shin Seung Chan']","['[CHN] ', '[CHN] ', '[KOR] ', '[KOR] ']","['21-19', '15-21', '21-15']",WD,20180306
-72,"['Chou Tien Chen [4]', 'Jeon Hyeok Jin']","['[TPE] ', '[KOR] ']","['21-18', '21-11']",MS,20180306
-73,"['Saena Kawakami', 'Luise Heim']","['[JPN] ', '[GER] ']","['21-16', '21-13']",WS,20180306
-74,"['Chiang Kai Hsin', 'Hung Shih Han', 'Delphine Delrue', 'Lea Palermo']","['[TPE] ', '[TPE] ', '[FRA] ', '[FRA] ']","['21-13', '23-21']",WD,20180306
-75,"['Kasper Antonsen', 'Niclas Nohr', 'Manu Attri', 'Reddy B. Sumeeth']","['[DEN] ', '[DEN] ', '[IND] ', '[IND] ']","['21-16', '21-16']",MD,20180306
-76,"['Anggia Shitta Awanda', 'Ni Ketut Mahadewi Istarani', 'Chloe Birch', 'Jessica Pugh']","['[INA] ', '[INA] ', '[ENG] ', '[ENG] ']","['19-21', '28-26', '21-7']",WD,20180306
-77,"['Jelle Maas', 'Robin Tabeling', 'Chen Hung Ling [3]', 'Wang Chi-Lin']","['[NED] ', '[NED] ', '[TPE] ', '[TPE] ']","['21-19', '17-21', '22-20']",MD,20180306
-78,"['Jonatan Christie [8]', 'Lucas Corvee']","['[INA] ', '[FRA] ']","['21-13', '21-18']",MS,20180306
-79,"['Sayaka Sato [7]', 'Goh Jin Wei']","['[JPN] ', '[MAS] ']","['21-15', '21-10']",WS,20180306
-80,"['Gao Fangjie', 'Beatriz Corrales']","['[CHN] ', '[ESP] ']","['21-11', '21-14']",WS,20180306
-81,"['Du Yue', 'Li Yinhui', 'Lauren Smith', 'Sarah Walker']","['[CHN] ', '[CHN] ', '[ENG] ', '[ENG] ']","['21-15', '21-11']",WD,20180306
-82,"['Pablo Abian', 'Brice Leverdez']","['[ESP] ', '[FRA] ']","['21-19', '21-17']",MS,20180306
-83,"['Maiken Fruergaard', 'Sara Thygesen', 'Lisa Kaminski', 'Hannah Pohl']","['[DEN] ', '[DEN] ', '[GER] ', '[GER] ']","['21-10', '21-11']",WD,20180306
-84,"['Lee Hyun Il', 'Khosit Phetpradab']","['[KOR] ', '[THA] ']","['15-21', '21-14', '21-8']",MS,20180306
-85,"['Takuto Inoue [6]', 'Yuki Kaneko', 'Jacco Arends', 'Ruben Jille']","['[JPN] ', '[JPN] ', '[NED] ', '[NED] ']","['21-16', '21-12']",MD,20180306
-86,"['Aya Ohori', 'Michelle Li']","['[JPN] ', '[CAN] ']","['21-19', '21-14']",WS,20180306
-87,"['Shiho Tanaka [4]', 'Koharu Yonemoto', 'Alexandra Bøje', 'Sara Lundgaard']","['[JPN] ', '[JPN] ', '[DEN] ', '[DEN] ']","['21-10', '21-9']",WD,20180306
-88,"['Kenta Nishimoto', 'Son Wan Ho [1]']","['[JPN] ', '[KOR] ']","['21-19', '11-21', '21-13']",MS,20180306
-89,"['Yuki Fukushima [3]', 'Sayaka Hirota', 'Savitree Amitrapai', 'Pacharapun Chochuwong']","['[JPN] ', '[JPN] ', '[THA] ', '[THA] ']","['21-16', '21-15']",WD,20180306
-90,"['Liao Min Chun', 'Su Ching Heng', 'Mark Lamsfuss', 'Marvin Emil Seidel']","['[TPE] ', '[TPE] ', '[GER] ', '[GER] ']","['21-17', '21-17']",MD,20180306
-91,"['Nozomi Okuhara [3]', 'Cheung Ngan Yi']","['[JPN] ', '[HKG] ']","['22-24', '21-13', '21-15']",WS,20180306
-92,"['Lin Dan [2]', 'Vladimir Malkov']","['[CHN] ', '[RUS] ']","['21-11', '23-21']",MS,20180306
-93,"['Kim Won Ho', 'Seung Jae Seo', 'Pakin Kuna-Anuvit', 'Natthapat Trinkajee']","['[KOR] ', '[KOR] ', '[THA] ', '[THA] ']","['21-15', '21-10']",MD,20180306
-94,"['Beiwen Zhang [5]', 'Lee Chia Hsin']","['[USA] ', '[TPE] ']","['21-14', '21-16']",WS,20180306
-95,"['Mayu Matsumoto', 'Wakana Nagahara', 'Tang Jinhua', 'Yu Xiaohan']","['[JPN] ', '[JPN] ', '[CHN] ', '[CHN] ']","['21-18', '21-14']",WD,20180306
-96,"['Kanta Tsuneyama', 'Lee Dong Keun']","['[JPN] ', '[KOR] ']","['23-21', '21-19']",MS,20180306
-97,"['Mohammad Ahsan', 'Hendra Setiawan', 'Marcus Ellis', 'Chris Langridge']","['[INA] ', '[INA] ', '[ENG] ', '[ENG] ']","['21-16', '21-14']",MD,20180306
-98,"['Pai Yu Po', 'Line Højmark Kjaersfeldt']","['[TPE] ', '[DEN] ']","['24-22', '21-13']",WS,20180306
-99,"['Fajar Alfian [7]', 'Muhammad Rian Ardianto', 'He Jiting', 'Tan Qiang']","['[INA] ', '[INA] ', '[CHN] ', '[CHN] ']","['21-18', '19-21', '21-16']",MD,20180306
-100,"['Ng Ka Long Angus [6]', 'Emil Holst']","['[HKG] ', '[DEN] ']","['21-18', '21-11']",MS,20180306
-101,"['Raphael Beck', 'Sam Magee', 'Peter Briggs', 'Tom Wolfenden']","['[GER] ', '[IRL] ', '[ENG] ', '[ENG] ']","['21-19', '18-21', '21-17']",MD,20180306
-102,"['Akane Yamaguchi [1]', 'Mia Blichfeldt']","['[JPN] ', '[DEN] ']","['21-10', '21-13']",WS,20180306
-103,"['Kim Astrup [5]', 'Anders Skaarup Rasmussen', 'Takuro Hoki', 'Yugo Kobayashi']","['[DEN] ', '[DEN] ', '[JPN] ', '[JPN] ']",[],MD,20180306
-104,"['Chae Yoo Jung', 'Jung Kyung Eun', 'Debora Jille', 'Imke Van Der Aar']","['[KOR] ', '[KOR] ', '[NED] ', '[NED] ']","['21-13', '21-13']",WD,20180306
-105,"['Goh V Shem', 'Tan Wee Kiong', 'Hiroyuki Endo', 'Yuta Watanabe']","['[MAS] ', '[MAS] ', '[JPN] ', '[JPN] ']","['21-16', '17-21', '21-16']",MD,20180306
-106,"['Mark Caljouw', 'Kalle Koljonen']","['[NED] ', '[FIN] ']","['21-13', '21-12']",MS,20180306
-107,"['Tinn Isriyanet', 'Kittisak Namdash', 'Lu Ching Yao [8]', 'Yang Po Han']","['[THA] ', '[THA] ', '[TPE] ', '[TPE] ']","['16-21', '21-19', '21-19']",MD,20180306
-108,"['Niclas Nohr', 'Sara Thygesen', 'Wang Chi-Lin', 'Lee Chia Hsin']","['[DEN] ', '[DEN] ', '[TPE] ', '[TPE] ']","['21-23', '21-15', '21-14']",XD,20180306
-109,"['Gabriela Stoeva', 'Stefani Stoeva', 'Du Yue', 'Li Yinhui']","['[BUL] ', '[BUL] ', '[CHN] ', '[CHN] ']","['20-22', '21-9', '21-12']",WD,20180306
-110,"['Dechapol Puavaranukroh [5]', 'Sapsiree Taerattanachai', 'Jelle Maas', 'Imke Van Der Aar']","['[THA] ', '[THA] ', '[NED] ', '[NED] ']","['21-19', '21-16']",XD,20180306
-111,"['Huang Dongping', 'Yu Zheng', 'Chiang Kai Hsin', 'Hung Shih Han']","['[CHN] ', '[CHN] ', '[TPE] ', '[TPE] ']","['21-11', '21-9']",WD,20180306
-112,"['Goh Soon Huat [3]', 'Shevon Jemie Lai', 'Lee Yang', 'Hsu Ya Ching']","['[MAS] ', '[MAS] ', '[TPE] ', '[TPE] ']","['21-16', '21-15']",XD,20180306
-113,"['Kento Momota', 'Suppanyu Avihingsanon']","['[JPN] ', '[THA] ']","['21-16', '21-13']",MS,20180306
-114,"['Chae Yoo Jung', 'Jung Kyung Eun', 'Shiho Tanaka [4]', 'Koharu Yonemoto']","['[KOR] ', '[KOR] ', '[JPN] ', '[JPN] ']","['21-9', '21-15']",WD,20180306
-115,"['Nozomi Okuhara [3]', 'Gao Fangjie']","['[JPN] ', '[CHN] ']","['20-22', '21-11', '21-18']",WS,20180306
-116,"['Chou Tien Chen [4]', 'Subhankar Dey']","['[TPE] ', '[IND] ']","['21-7', '21-6']",MS,20180306
-117,"['Marcus Ellis', 'Lauren Smith', 'Seung Jae Seo [2]', 'Kim Ha Na']","['[ENG] ', '[ENG] ', '[KOR] ', '[KOR] ']","['25-23', '21-19']",XD,20180306
-118,"['Yuki Fukushima [3]', 'Sayaka Hirota', 'Mayu Matsumoto', 'Wakana Nagahara']","['[JPN] ', '[JPN] ', '[JPN] ', '[JPN] ']","['21-15', '21-12']",WD,20180306
-119,"['Chiang Mei Hui', 'Brittney Tam']","['[TPE] ', '[CAN] ']","['21-7', '14-21', '21-13']",WS,20180306
-120,"['Praveen Jordan', 'Melati Daeva Oktavianti', 'Jacco Arends', 'Selena Piek']","['[INA] ', '[INA] ', '[NED] ', '[NED] ']","['25-23', '14-21', '21-10']",XD,20180306
-121,"['Chen Yufei [4]', 'Neslihan Yigit']","['[CHN] ', '[TUR] ']","['21-14', '21-17']",WS,20180306
-122,"['Goh V Shem', 'Tan Wee Kiong', 'Tinn Isriyanet', 'Kittisak Namdash']","['[MAS] ', '[MAS] ', '[THA] ', '[THA] ']","['21-15', '21-16']",MD,20180306
-123,"['Ng Ka Long Angus [6]', 'Mark Caljouw']","['[HKG] ', '[NED] ']","['21-18', '21-14']",MS,20180306
-124,"['Jongkolphan Kititharakul [6]', 'Rawinda Prajongjai', 'Anggia Shitta Awanda', 'Ni Ketut Mahadewi Istarani']","['[THA] ', '[THA] ', '[INA] ', '[INA] ']","['21-6', '21-19']",WD,20180306
-125,"['Anthony Sinisuka Ginting [5]', 'Huang Yuxiang']","['[INA] ', '[CHN] ']","['21-15', '5-3']",MS,20180306
-126,"['Nitchaon Jindapol [6]', 'Chen Xiaoxin']","['[THA] ', '[CHN] ']","['21-14', '21-16']",WS,20180306
-127,"['Shi Yuqi [3]', 'Kantaphon Wangcharoen']","['[CHN] ', '[THA] ']","['21-11', '21-5']",MS,20180306
-128,"['Chang Ye Na [7]', 'Hye Rin Kim', 'Isabel Herttrich', 'Carla Nelte']","['[KOR] ', '[KOR] ', '[GER] ', '[GER] ']","['17-21', '21-18', '26-24']",WD,20180306
-129,"['Fajar Alfian [7]', 'Muhammad Rian Ardianto', 'Raphael Beck', 'Sam Magee']","['[INA] ', '[INA] ', '[GER] ', '[IRL] ']","['21-14', '21-17']",MD,20180306
-130,"['Beiwen Zhang [5]', 'Aya Ohori']","['[USA] ', '[JPN] ']","['21-17', '8-21', '21-10']",WS,20180306
-131,"['Jonatan Christie [8]', 'Pablo Abian']","['[INA] ', '[ESP] ']","['21-14', '21-9']",MS,20180306
-132,"['Liao Min Chun', 'Su Ching Heng', 'Jelle Maas', 'Robin Tabeling']","['[TPE] ', '[TPE] ', '[NED] ', '[NED] ']","['21-15', '18-21', '21-17']",MD,20180306
-133,"['Mohammad Ahsan', 'Hendra Setiawan', 'Kim Astrup [5]', 'Anders Skaarup Rasmussen']","['[INA] ', '[INA] ', '[DEN] ', '[DEN] ']","['21-17', '11-21', '21-16']",MD,20180306
-134,"['Maiken Fruergaard', 'Sara Thygesen', 'Della Destiara Haris [8]', 'Rizki Amelia Pradipta']","['[DEN] ', '[DEN] ', '[INA] ', '[INA] ']","['21-8', '14-21', '21-11']",WD,20180306
-135,"['Mads Conrad-Petersen [2]', 'Mads Pieler Kolding', 'Kasper Antonsen', 'Niclas Nohr']","['[DEN] ', '[DEN] ', '[DEN] ', '[DEN] ']","['21-16', '21-12']",MD,20180306
-136,"['Akane Yamaguchi [1]', 'Pai Yu Po']","['[JPN] ', '[TPE] ']","['21-17', '19-21', '24-22']",WS,20180306
-137,"['Kenta Nishimoto', 'Lee Hyun Il']","['[JPN] ', '[KOR] ']","['21-13', '21-13']",MS,20180306
-138,"['Takuto Inoue [6]', 'Yuki Kaneko', 'Han Chengkai', 'Zhou Haodong']","['[JPN] ', '[JPN] ', '[CHN] ', '[CHN] ']","['21-9', '22-20']",MD,20180306
-139,"['Sung Ji Hyun [2]', 'Kim Hyo Min']","['[KOR] ', '[KOR] ']","['21-14', '21-14']",WS,20180306
-140,"['Chen Qingchen [1]', 'Jia Yifan', 'Kim So Yeong', 'Hee Yong Kong']","['[CHN] ', '[CHN] ', '[KOR] ', '[KOR] ']","['25-23', '16-21', '21-18']",WD,20180306
-141,"['Lin Dan [2]', 'Kanta Tsuneyama']","['[CHN] ', '[JPN] ']","['20-22', '21-14', '21-18']",MS,20180306
-142,"['Saena Kawakami', 'Sayaka Sato [7]']","['[JPN] ', '[JPN] ']","['21-17', '21-17']",WS,20180306
-143,"['Tinn Isriyanet', 'Pacharapun Chochuwong', 'Pranaav Jerry Chopra', 'Reddy N. Sikki']","['[THA] ', '[THA] ', '[IND] ', '[IND] ']","['21-18', '21-19']",XD,20180306
-144,"['Choi Solgyu [8]', 'Chae Yoo Jung', 'Yuta Watanabe', 'Arisa Higashino']","['[KOR] ', '[KOR] ', '[JPN] ', '[JPN] ']","['21-19', '21-18']",XD,20180306
-145,"['Lee Jhe-Huei [4]', 'Lee Yang', 'Angga Pratama', 'Rian Agung Saputro']","['[TPE] ', '[TPE] ', '[INA] ', '[INA] ']","['21-19', '21-15']",MD,20180306
-146,"['He Jiting', 'Du Yue', 'Tang Chun Man [1]', 'Tse Ying Suet']","['[CHN] ', '[CHN] ', '[HKG] ', '[HKG] ']","['16-21', '21-18', '21-19']",XD,20180306
-147,"['Kim Won Ho', 'Seung Jae Seo', 'Takeshi Kamura [1]', 'Keigo Sonoda']","['[KOR] ', '[KOR] ', '[JPN] ', '[JPN] ']","['21-17', '21-19']",MD,20180306
-148,"['Niclas Nohr', 'Sara Thygesen', 'Praveen Jordan', 'Melati Daeva Oktavianti']","['[DEN] ', '[DEN] ', '[INA] ', '[INA] ']","['17-21', '24-22', '21-16']",XD ,20180306
-149,"['Chen Yufei [4]', 'Chiang Mei Hui']","['[CHN] ', '[TPE] ']","['21-13', '21-16']",WS ,20180306
-150,"['Mohammad Ahsan', 'Hendra Setiawan', 'Lee Jhe-Huei [4]', 'Lee Yang']","['[INA] ', '[INA] ', '[TPE] ', '[TPE] ']","['21-13', '22-20']",MD ,20180306
-151,"['Goh Soon Huat [3]', 'Shevon Jemie Lai', 'Dechapol Puavaranukroh [5]', 'Sapsiree Taerattanachai']","['[MAS] ', '[MAS] ', '[THA] ', '[THA] ']","['21-14', '18-21', '23-21']",XD ,20180306
-152,"['Takuto Inoue [6]', 'Yuki Kaneko', 'Liao Min Chun', 'Su Ching Heng']","['[JPN] ', '[JPN] ', '[TPE] ', '[TPE] ']","['21-19', '21-19']",MD ,20180306
-153,"['Nozomi Okuhara [3]', 'Saena Kawakami']","['[JPN] ', '[JPN] ']","['18-21', '21-16', '21-11']",WS ,20180306
-154,"['Kenta Nishimoto', 'Jonatan Christie [8]']","['[JPN] ', '[INA] ']","['21-10', '22-20']",MS ,20180306
-155,"['He Jiting', 'Du Yue', 'Tinn Isriyanet', 'Pacharapun Chochuwong']","['[CHN] ', '[CHN] ', '[THA] ', '[THA] ']","['21-13', '21-10']",XD ,20180306
-156,"['Chang Ye Na [7]', 'Hye Rin Kim', 'Chen Qingchen [1]', 'Jia Yifan']","['[KOR] ', '[KOR] ', '[CHN] ', '[CHN] ']","['21-19', '21-13']",WD ,20180306
-157,"['Nitchaon Jindapol [6]', 'Sung Ji Hyun [2]']","['[THA] ', '[KOR] ']","['21-12', '21-17']",WS ,20180306
-158,"['Shi Yuqi [3]', 'Anthony Sinisuka Ginting [5]']","['[CHN] ', '[INA] ']","['21-17', '18-21', '21-18']",MS ,20180306
-159,"['Choi Solgyu [8]', 'Chae Yoo Jung', 'Marcus Ellis', 'Lauren Smith']","['[KOR] ', '[KOR] ', '[ENG] ', '[ENG] ']","['21-13', '21-15']",XD ,20180306
-160,"['Ng Ka Long Angus [6]', 'Lin Dan [2]']","['[HKG] ', '[CHN] ']","['21-16', '22-20']",MS ,20180306
-161,"['Huang Dongping', 'Yu Zheng', 'Chae Yoo Jung', 'Jung Kyung Eun']","['[CHN] ', '[CHN] ', '[KOR] ', '[KOR] ']","['21-19', '21-12']",WD ,20180306
-162,"['Fajar Alfian [7]', 'Muhammad Rian Ardianto', 'Kim Won Ho', 'Seung Jae Seo']","['[INA] ', '[INA] ', '[KOR] ', '[KOR] ']","['21-16', '21-16']",MD ,20180306
-163,"['Chou Tien Chen [4]', 'Kento Momota']","['[TPE] ', '[JPN] ']","['21-15', '14-21', '21-10']",MS Match of the Day,20180306
-164,"['Gabriela Stoeva', 'Stefani Stoeva', 'Jongkolphan Kititharakul [6]', 'Rawinda Prajongjai']","['[BUL] ', '[BUL] ', '[THA] ', '[THA] ']","['21-11', '21-9']",WD ,20180306
-165,"['Akane Yamaguchi [1]', 'Beiwen Zhang [5]']","['[JPN] ', '[USA] ']","['21-17', '21-13']",WS ,20180306
-166,"['Yuki Fukushima [3]', 'Sayaka Hirota', 'Maiken Fruergaard', 'Sara Thygesen']","['[JPN] ', '[JPN] ', '[DEN] ', '[DEN] ']","['21-11', '21-14']",WD ,20180306
-167,"['Goh V Shem', 'Tan Wee Kiong', 'Mads Conrad-Petersen [2]', 'Mads Pieler Kolding']","['[MAS] ', '[MAS] ', '[DEN] ', '[DEN] ']","['21-19', '13-7']",MD ,20180306
-168,"['Chen Yufei [4]', 'Nitchaon Jindapol [6]']","['[CHN] ', '[THA] ']","['21-19', '13-21', '21-14']",WS ,20180306
-169,"['Niclas Nohr', 'Sara Thygesen', 'He Jiting', 'Du Yue']","['[DEN] ', '[DEN] ', '[CHN] ', '[CHN] ']","['21-19', '19-21', '21-17']",XD ,20180306
-170,"['Yuki Fukushima [3]', 'Sayaka Hirota', 'Gabriela Stoeva', 'Stefani Stoeva']","['[JPN] ', '[JPN] ', '[BUL] ', '[BUL] ']","['21-18', '21-11']",WD Match of the Day,20180306
-171,"['Chou Tien Chen [4]', 'Kenta Nishimoto']","['[TPE] ', '[JPN] ']","['21-11', '14-21', '21-13']",MS ,20180306
-172,"['Takuto Inoue [6]', 'Yuki Kaneko', 'Goh V Shem', 'Tan Wee Kiong']","['[JPN] ', '[JPN] ', '[MAS] ', '[MAS] ']","['21-17', '18-21', '21-19']",MD ,20180306
-173,"['Ng Ka Long Angus [6]', 'Shi Yuqi [3]']","['[HKG] ', '[CHN] ']","['21-18', '18-21', '21-17']",MS ,20180306
-174,"['Huang Dongping', 'Yu Zheng', 'Chang Ye Na [7]', 'Hye Rin Kim']","['[CHN] ', '[CHN] ', '[KOR] ', '[KOR] ']","['29-27', '21-18']",WD ,20180306
-175,"['Akane Yamaguchi [1]', 'Nozomi Okuhara [3]']","['[JPN] ', '[JPN] ']","['23-21', '21-12']",WS ,20180306
-176,"['Goh Soon Huat [3]', 'Shevon Jemie Lai', 'Choi Solgyu [8]', 'Chae Yoo Jung']","['[MAS] ', '[MAS] ', '[KOR] ', '[KOR] ']","['23-21', '23-25', '21-13']",XD ,20180306
-177,"['Fajar Alfian [7]', 'Muhammad Rian Ardianto', 'Mohammad Ahsan', 'Hendra Setiawan']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['22-20', '22-20']",MD ,20180306
-178,"['Yuki Fukushima [3]', 'Sayaka Hirota', 'Huang Dongping', 'Yu Zheng']","['[JPN] ', '[JPN] ', '[CHN] ', '[CHN] ']","['18-21', '21-14', '21-6']",WD ,20180306
-179,"['Goh Soon Huat [3]', 'Shevon Jemie Lai', 'Niclas Nohr', 'Sara Thygesen']","['[MAS] ', '[MAS] ', '[DEN] ', '[DEN] ']","['21-14', '22-20']",XD ,20180306
-180,"['Akane Yamaguchi [1]', 'Chen Yufei [4]']","['[JPN] ', '[CHN] ']","['21-19', '6-21', '21-12']",WS ,20180306
-181,"['Chou Tien Chen [4]', 'Ng Ka Long Angus [6]']","['[TPE] ', '[HKG] ']","['21-19', '18-21', '21-18']",MS ,20180306
-182,"['Takuto Inoue [6]', 'Yuki Kaneko', 'Fajar Alfian [7]', 'Muhammad Rian Ardianto']","['[JPN] ', '[JPN] ', '[INA] ', '[INA] ']","['21-16', '21-18']",MD ,20180306
+,PLAYERS,COUNTRIES,SCORES,EVENT,match_week,match_location
+0,"['Kalle Koljonen', 'Rüdiger Gnedt']","['[FIN] ', '[AUT] ']","['21-8', '21-5']",MS - Qualification,20180306,"Mülheim an der Ruhr, Germany"
+1,"['Alex Vlaar', 'Birger Abts']","['[BUL] ', '[BEL] ']","['21-19', '21-18']",MS - Qualification,20180306,"Mülheim an der Ruhr, Germany"
+2,"['Yuki Kaneko', 'Koharu Yonemoto', 'Yang Ming-Tse', 'Sung Shuo Yun']","['[JPN] ', '[JPN] ', '[TPE] ', '[TPE] ']","['21-12', '16-21', '21-16']",XD - Qualification,20180306,"Mülheim an der Ruhr, Germany"
+3,"['Kim Bruun', 'Søren Toft']","['[DEN] ', '[DEN] ']","['21-14', '21-18']",MS - Qualification,20180306,"Mülheim an der Ruhr, Germany"
+4,"['Wolfgang Gnedt', 'David Peng']","['[AUT] ', '[GER] ']","['18-21', '25-23', '21-17']",MS - Qualification,20180306,"Mülheim an der Ruhr, Germany"
+5,"['Dmytro Zavadsky', 'Thomas Rouxel']","['[UKR] ', '[FRA] ']","['20-22', '21-16', '21-19']",MS - Qualification,20180306,"Mülheim an der Ruhr, Germany"
+6,"['Kan Chao Yu', 'Lucas Claerbout']","['[TPE] ', '[FRA] ']","['21-17', '11-21', '21-18']",MS - Qualification,20180306,"Mülheim an der Ruhr, Germany"
+7,"['Zvonimir Durkinjak', 'Valeriy Atrashchenkov']","['[CRO] ', '[UKR] ']","['21-16', '17-21', '21-18']",MS - Qualification,20180306,"Mülheim an der Ruhr, Germany"
+8,"['Zhao Junpeng', 'Alexander Roovers']","['[CHN] ', '[GER] ']","['18-21', '21-15', '21-15']",MS - Qualification,20180306,"Mülheim an der Ruhr, Germany"
+9,"['Praveen Jordan', 'Melati Daeva Oktavianti', 'Kristoffer Knudsen', 'Isabella Nielsen']","['[INA] ', '[INA] ', '[DEN] ', '[DEN] ']","['21-14', '21-11']",XD - Qualification,20180306,"Mülheim an der Ruhr, Germany"
+10,"['Thom Gicquel', 'Delphine Delrue', 'Jones Ralfy Jansen', 'Carla Nelte']","['[FRA] ', '[FRA] ', '[GER] ', '[GER] ']","['21-19', '16-21', '21-15']",XD - Qualification,20180306,"Mülheim an der Ruhr, Germany"
+11,"['Lyanny Alessandra Mainaky', 'Gayle Mahulette']","['[INA] ', '[NED] ']","['21-11', '21-18']",WS - Qualification,20180306,"Mülheim an der Ruhr, Germany"
+12,"['Gao Fangjie [2]', 'Sung Shuo Yun']","['[CHN] ', '[TPE] ']","['19-21', '21-6', '21-11']",WS - Qualification,20180306,"Mülheim an der Ruhr, Germany"
+13,"['Chang Ko-Chi', 'Cheng Chi Ya', 'Alex Vlaar', 'Iris Tabeling']","['[TPE] ', '[TPE] ', '[BUL] ', '[NED] ']","['21-19', '21-17']",XD - Qualification,20180306,"Mülheim an der Ruhr, Germany"
+14,"['Kasper Antonsen', 'Niclas Nohr', 'Po Li-Wei', 'Yang Ming-Tse']","['[DEN] ', '[DEN] ', '[TPE] ', '[TPE] ']","['11-21', '22-20', '21-18']",MD - Qualification,20180306,"Mülheim an der Ruhr, Germany"
+15,"['Luise Heim', 'Chloe Birch']","['[GER] ', '[ENG] ']","['21-17', '23-21']",WS - Qualification,20180306,"Mülheim an der Ruhr, Germany"
+16,"['Raphael Beck', 'Sam Magee', 'Bastian Kersaudy', 'Julien Maio']","['[GER] ', '[IRL] ', '[FRA] ', '[FRA] ']",[],MD - Qualification,20180306,"Mülheim an der Ruhr, Germany"
+17,"['Arjun M.R. [2]', 'Ramchandran Shlok', 'Inkarat Apisuk', 'Tanupat Viriyangkura']","['[IND] ', '[IND] ', '[THA] ', '[THA] ']","['21-15', '21-16']",MD - Qualification,20180306,"Mülheim an der Ruhr, Germany"
+18,"['Pakin Kuna-Anuvit', 'Natthapat Trinkajee', 'Konstantin Abramov', 'Alexandr Zinchenko']","['[THA] ', '[THA] ', '[RUS] ', '[RUS] ']","['23-21', '21-15']",MD - Qualification,20180306,"Mülheim an der Ruhr, Germany"
+19,"['Zhao Junpeng', 'Dmytro Zavadsky']","['[CHN] ', '[UKR] ']","['21-16', '22-24', '21-17']",MS - Qualification,20180306,"Mülheim an der Ruhr, Germany"
+20,"['Kim Bruun', 'Wolfgang Gnedt']","['[DEN] ', '[AUT] ']","['23-21', '21-12']",MS - Qualification,20180306,"Mülheim an der Ruhr, Germany"
+21,"['Lisa Kaminski', 'Hannah Pohl', 'Delphine Delrue [2]', 'Lea Palermo']","['[GER] ', '[GER] ', '[FRA] ', '[FRA] ']",[],WD - Qualification,20180306,"Mülheim an der Ruhr, Germany"
+22,"['Tang Jinhua', 'Yu Xiaohan', 'Jenny Nystrom', 'Sonja Pekkola']","['[CHN] ', '[CHN] ', '[FIN] ', '[FIN] ']","['21-7', '21-10']",WD - Qualification,20180306,"Mülheim an der Ruhr, Germany"
+23,"['Alexandra Bøje', 'Sara Lundgaard', 'Debora Jille', 'Imke Van Der Aar']","['[DEN] ', '[DEN] ', '[NED] ', '[NED] ']",[],WD - Qualification,20180306,"Mülheim an der Ruhr, Germany"
+24,"['Neslihan Yigit', 'Fabienne Deprez']","['[TUR] ', '[GER] ']","['21-13', '21-18']",WS - Qualification,20180306,"Mülheim an der Ruhr, Germany"
+25,"['Kan Chao Yu', 'Zvonimir Durkinjak']","['[TPE] ', '[CRO] ']","['21-15', '21-16']",MS - Qualification,20180306,"Mülheim an der Ruhr, Germany"
+26,"['Kalle Koljonen', 'Alex Vlaar']","['[FIN] ', '[BUL] ']","['21-9', '21-15']",MS - Qualification,20180306,"Mülheim an der Ruhr, Germany"
+27,"['Huang Dongping', 'Yu Zheng', 'Cheng Chi Ya', 'Sung Shuo Yun']","['[CHN] ', '[CHN] ', '[TPE] ', '[TPE] ']","['21-13', '21-6']",WD - Qualification,20180306,"Mülheim an der Ruhr, Germany"
+28,"['Jacco Arends', 'Selena Piek', 'Joachim Fischer Nielsen', 'Alexandra Bøje']","['[NED] ', '[NED] ', '[DEN] ', '[DEN] ']","['21-19', '25-23']",XD,20180306,"Mülheim an der Ruhr, Germany"
+29,"['Wang Chi-Lin', 'Lee Chia Hsin', 'Hafiz Faizal', 'Gloria Emanuelle Widjaja']","['[TPE] ', '[TPE] ', '[INA] ', '[INA] ']","['21-17', '21-19']",XD,20180306,"Mülheim an der Ruhr, Germany"
+30,"['Tinn Isriyanet', 'Pacharapun Chochuwong', 'Lee Chun Hei Reginald [7]', 'Chau Hoi Wah']","['[THA] ', '[THA] ', '[HKG] ', '[HKG] ']","['21-17', '19-21', '21-17']",XD,20180306,"Mülheim an der Ruhr, Germany"
+31,"['Dechapol Puavaranukroh [5]', 'Sapsiree Taerattanachai', 'Mikkel Mikkelsen', 'Mai Surrow']","['[THA] ', '[THA] ', '[DEN] ', '[DEN] ']","['23-21', '15-21', '21-14']",XD,20180306,"Mülheim an der Ruhr, Germany"
+32,"['Lee Yang', 'Hsu Ya Ching', 'Robin Tabeling', 'Cheryl Seinen']","['[TPE] ', '[TPE] ', '[NED] ', '[NED] ']","['21-13', '18-21', '21-15']",XD,20180306,"Mülheim an der Ruhr, Germany"
+33,"['Goh Soon Huat [3]', 'Shevon Jemie Lai', 'Sam Magee', 'Chloe Magee']","['[MAS] ', '[MAS] ', '[IRL] ', '[IRL] ']","['15-21', '21-17', '21-17']",XD,20180306,"Mülheim an der Ruhr, Germany"
+34,"['Niclas Nohr', 'Sara Thygesen', 'Tan Kian Meng [4]', 'Lai Pei Jing']","['[DEN] ', '[DEN] ', '[MAS] ', '[MAS] ']","['21-17', '21-13']",XD,20180306,"Mülheim an der Ruhr, Germany"
+35,"['Marcus Ellis', 'Lauren Smith', 'Marvin Emil Seidel', 'Linda Efler']","['[ENG] ', '[ENG] ', '[GER] ', '[GER] ']","['21-17', '21-5']",XD,20180306,"Mülheim an der Ruhr, Germany"
+36,"['Seung Jae Seo [2]', 'Kim Ha Na', 'Lu Ching Yao', 'Chiang Kai Hsin']","['[KOR] ', '[KOR] ', '[TPE] ', '[TPE] ']","['21-19', '12-21', '21-17']",XD,20180306,"Mülheim an der Ruhr, Germany"
+37,"['He Jiting', 'Du Yue', 'Anton Kaisti', 'Jenny Nystrom']","['[CHN] ', '[CHN] ', '[FIN] ', '[FIN] ']","['21-14', '21-13']",XD,20180306,"Mülheim an der Ruhr, Germany"
+38,"['Jelle Maas', 'Imke Van Der Aar', 'Takuro Hoki', 'Mayu Matsumoto']","['[NED] ', '[NED] ', '[JPN] ', '[JPN] ']","['21-19', '14-21', '21-16']",XD,20180306,"Mülheim an der Ruhr, Germany"
+39,"['Tang Chun Man [1]', 'Tse Ying Suet', 'Mark Lamsfuss', 'Isabel Herttrich']","['[HKG] ', '[HKG] ', '[GER] ', '[GER] ']","['19-21', '21-10', '21-18']",XD,20180306,"Mülheim an der Ruhr, Germany"
+40,"['Pranaav Jerry Chopra', 'Reddy N. Sikki', 'Chang Ko-Chi', 'Cheng Chi Ya']","['[IND] ', '[IND] ', '[TPE] ', '[TPE] ']","['24-22', '17-21', '21-19']",XD,20180306,"Mülheim an der Ruhr, Germany"
+41,"['Chen Qingchen [1]', 'Jia Yifan', 'Supissara Paewsampran', 'Puttita Supajirakul']","['[CHN] ', '[CHN] ', '[THA] ', '[THA] ']","['21-14', '21-18']",WD,20180306,"Mülheim an der Ruhr, Germany"
+42,"['Sung Ji Hyun [2]', 'Fitriani Fitriani']","['[KOR] ', '[INA] ']","['21-12', '21-16']",WS,20180306,"Mülheim an der Ruhr, Germany"
+43,"['Della Destiara Haris [8]', 'Rizki Amelia Pradipta', 'Anastasia Chervyakova', 'Olga Morozova']","['[INA] ', '[INA] ', '[RUS] ', '[RUS] ']","['21-19', '21-16']",WD,20180306,"Mülheim an der Ruhr, Germany"
+44,"['Kento Momota', 'Wang Tzu Wei [7]']","['[JPN] ', '[TPE] ']","['21-18', '21-15']",MS,20180306,"Mülheim an der Ruhr, Germany"
+45,"['Kim Hyo Min', 'Pornpawee Chochuwong']","['[KOR] ', '[THA] ']","['21-8', '21-19']",WS,20180306,"Mülheim an der Ruhr, Germany"
+46,"['Kim So Yeong', 'Hee Yong Kong', 'Julie Finne-Ipsen', 'Rikke Søby']","['[KOR] ', '[KOR] ', '[DEN] ', '[DEN] ']","['21-14', '21-11']",WD,20180306,"Mülheim an der Ruhr, Germany"
+47,"['Choi Solgyu [8]', 'Chae Yoo Jung', 'Thom Gicquel', 'Delphine Delrue']","['[KOR] ', '[KOR] ', '[FRA] ', '[FRA] ']","['21-12', '22-20']",XD,20180306,"Mülheim an der Ruhr, Germany"
+48,"['Suppanyu Avihingsanon', 'Hsu Jen Hao']","['[THA] ', '[TPE] ']","['21-15', '22-20']",MS,20180306,"Mülheim an der Ruhr, Germany"
+49,"['Chang Ye Na [7]', 'Hye Rin Kim', 'Chayanit Chaladchalam', 'Phataimas Muenwong']","['[KOR] ', '[KOR] ', '[THA] ', '[THA] ']","['21-17', '21-16']",WD,20180306,"Mülheim an der Ruhr, Germany"
+50,"['Yuta Watanabe', 'Arisa Higashino', 'Yuki Kaneko', 'Koharu Yonemoto']","['[JPN] ', '[JPN] ', '[JPN] ', '[JPN] ']","['21-13', '21-15']",XD,20180306,"Mülheim an der Ruhr, Germany"
+51,"['Nitchaon Jindapol [6]', 'Lyanny Alessandra Mainaky']","['[THA] ', '[INA] ']","['21-8', '21-12']",WS,20180306,"Mülheim an der Ruhr, Germany"
+52,"['Chen Xiaoxin', 'Lee Jang Mi']","['[CHN] ', '[KOR] ']","['21-16', '22-20']",WS,20180306,"Mülheim an der Ruhr, Germany"
+53,"['Gabriela Stoeva', 'Stefani Stoeva', 'Hsu Ya Ching', 'Wu Ti Jung']","['[BUL] ', '[BUL] ', '[TPE] ', '[TPE] ']","['21-23', '21-13', '21-11']",WD,20180306,"Mülheim an der Ruhr, Germany"
+54,"['Kantaphon Wangcharoen', 'Tanongsak Saensomboonsuk']","['[THA] ', '[THA] ']","['21-18', '21-12']",MS,20180306,"Mülheim an der Ruhr, Germany"
+55,"['Praveen Jordan', 'Melati Daeva Oktavianti', 'Chan Peng Soon [6]', 'Liu Ying Goh']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['21-19', '21-18']",XD,20180306,"Mülheim an der Ruhr, Germany"
+56,"['Chen Yufei [4]', 'Soniia Cheah']","['[CHN] ', '[MAS] ']","['21-11', '21-13']",WS,20180306,"Mülheim an der Ruhr, Germany"
+57,"['Takeshi Kamura [1]', 'Keigo Sonoda', 'Arjun M.R.', 'Ramchandran Shlok']","['[JPN] ', '[JPN] ', '[IND] ', '[IND] ']","['21-13', '21-18']",MD,20180306,"Mülheim an der Ruhr, Germany"
+58,"['Shi Yuqi [3]', 'Zhao Junpeng']","['[CHN] ', '[CHN] ']","['21-17', '16-21', '21-19']",MS,20180306,"Mülheim an der Ruhr, Germany"
+59,"['Jongkolphan Kititharakul [6]', 'Rawinda Prajongjai', 'Amanda Hogstrom', 'Clara Nistad']","['[THA] ', '[THA] ', '[SWE] ', '[SWE] ']","['21-11', '21-7']",WD,20180306,"Mülheim an der Ruhr, Germany"
+60,"['Neslihan Yigit', 'Mette Poulsen']","['[TUR] ', '[DEN] ']","['21-15', '14-21', '21-19']",WS,20180306,"Mülheim an der Ruhr, Germany"
+61,"['Lee Jhe-Huei [4]', 'Lee Yang', 'Ong Yew Sin', 'Teo Ee Yi']","['[TPE] ', '[TPE] ', '[MAS] ', '[MAS] ']","['17-21', '21-15', '22-20']",MD,20180306,"Mülheim an der Ruhr, Germany"
+62,"['Anthony Sinisuka Ginting [5]', 'Kim Bruun']","['[INA] ', '[DEN] ']","['14-21', '1-2']",MS,20180306,"Mülheim an der Ruhr, Germany"
+63,"['Isabel Herttrich', 'Carla Nelte', 'Selena Piek', 'Cheryl Seinen']","['[GER] ', '[GER] ', '[NED] ', '[NED] ']","['22-20', '21-14']",WD,20180306,"Mülheim an der Ruhr, Germany"
+64,"['Huang Yuxiang', 'Kan Chao Yu']","['[CHN] ', '[TPE] ']","['21-17', '22-20']",MS,20180306,"Mülheim an der Ruhr, Germany"
+65,"['Mads Conrad-Petersen [2]', 'Mads Pieler Kolding', 'Kittinupong Kedren', 'Dechapol Puavaranukroh']","['[DEN] ', '[DEN] ', '[THA] ', '[THA] ']","['21-19', '21-13']",MD,20180306,"Mülheim an der Ruhr, Germany"
+66,"['Brittney Tam', 'Kirsty Gilmour [8]']","['[CAN] ', '[SCO] ']","['21-13', '13-21', '21-17']",WS,20180306,"Mülheim an der Ruhr, Germany"
+67,"['Angga Pratama', 'Rian Agung Saputro', 'Chung Eui Seok', 'Kim Dukyoung']","['[INA] ', '[INA] ', '[KOR] ', '[KOR] ']","['21-10', '18-21', '21-10']",MD,20180306,"Mülheim an der Ruhr, Germany"
+68,"['Subhankar Dey', 'Wong Wing Ki Vincent']","['[IND] ', '[HKG] ']","['21-12', '19-11']",MS,20180306,"Mülheim an der Ruhr, Germany"
+69,"['Chiang Mei Hui', 'Evgeniya Kosetskaya']","['[TPE] ', '[RUS] ']","['21-8', '21-15']",WS,20180306,"Mülheim an der Ruhr, Germany"
+70,"['Han Chengkai', 'Zhou Haodong', 'Jones Ralfy Jansen', 'Josche Zurwonne']","['[CHN] ', '[CHN] ', '[GER] ', '[GER] ']","['21-15', '21-17']",MD,20180306,"Mülheim an der Ruhr, Germany"
+71,"['Huang Dongping', 'Yu Zheng', 'Lee So Hee [5]', 'Shin Seung Chan']","['[CHN] ', '[CHN] ', '[KOR] ', '[KOR] ']","['21-19', '15-21', '21-15']",WD,20180306,"Mülheim an der Ruhr, Germany"
+72,"['Chou Tien Chen [4]', 'Jeon Hyeok Jin']","['[TPE] ', '[KOR] ']","['21-18', '21-11']",MS,20180306,"Mülheim an der Ruhr, Germany"
+73,"['Saena Kawakami', 'Luise Heim']","['[JPN] ', '[GER] ']","['21-16', '21-13']",WS,20180306,"Mülheim an der Ruhr, Germany"
+74,"['Chiang Kai Hsin', 'Hung Shih Han', 'Delphine Delrue', 'Lea Palermo']","['[TPE] ', '[TPE] ', '[FRA] ', '[FRA] ']","['21-13', '23-21']",WD,20180306,"Mülheim an der Ruhr, Germany"
+75,"['Kasper Antonsen', 'Niclas Nohr', 'Manu Attri', 'Reddy B. Sumeeth']","['[DEN] ', '[DEN] ', '[IND] ', '[IND] ']","['21-16', '21-16']",MD,20180306,"Mülheim an der Ruhr, Germany"
+76,"['Anggia Shitta Awanda', 'Ni Ketut Mahadewi Istarani', 'Chloe Birch', 'Jessica Pugh']","['[INA] ', '[INA] ', '[ENG] ', '[ENG] ']","['19-21', '28-26', '21-7']",WD,20180306,"Mülheim an der Ruhr, Germany"
+77,"['Jelle Maas', 'Robin Tabeling', 'Chen Hung Ling [3]', 'Wang Chi-Lin']","['[NED] ', '[NED] ', '[TPE] ', '[TPE] ']","['21-19', '17-21', '22-20']",MD,20180306,"Mülheim an der Ruhr, Germany"
+78,"['Jonatan Christie [8]', 'Lucas Corvee']","['[INA] ', '[FRA] ']","['21-13', '21-18']",MS,20180306,"Mülheim an der Ruhr, Germany"
+79,"['Sayaka Sato [7]', 'Goh Jin Wei']","['[JPN] ', '[MAS] ']","['21-15', '21-10']",WS,20180306,"Mülheim an der Ruhr, Germany"
+80,"['Gao Fangjie', 'Beatriz Corrales']","['[CHN] ', '[ESP] ']","['21-11', '21-14']",WS,20180306,"Mülheim an der Ruhr, Germany"
+81,"['Du Yue', 'Li Yinhui', 'Lauren Smith', 'Sarah Walker']","['[CHN] ', '[CHN] ', '[ENG] ', '[ENG] ']","['21-15', '21-11']",WD,20180306,"Mülheim an der Ruhr, Germany"
+82,"['Pablo Abian', 'Brice Leverdez']","['[ESP] ', '[FRA] ']","['21-19', '21-17']",MS,20180306,"Mülheim an der Ruhr, Germany"
+83,"['Maiken Fruergaard', 'Sara Thygesen', 'Lisa Kaminski', 'Hannah Pohl']","['[DEN] ', '[DEN] ', '[GER] ', '[GER] ']","['21-10', '21-11']",WD,20180306,"Mülheim an der Ruhr, Germany"
+84,"['Lee Hyun Il', 'Khosit Phetpradab']","['[KOR] ', '[THA] ']","['15-21', '21-14', '21-8']",MS,20180306,"Mülheim an der Ruhr, Germany"
+85,"['Takuto Inoue [6]', 'Yuki Kaneko', 'Jacco Arends', 'Ruben Jille']","['[JPN] ', '[JPN] ', '[NED] ', '[NED] ']","['21-16', '21-12']",MD,20180306,"Mülheim an der Ruhr, Germany"
+86,"['Aya Ohori', 'Michelle Li']","['[JPN] ', '[CAN] ']","['21-19', '21-14']",WS,20180306,"Mülheim an der Ruhr, Germany"
+87,"['Shiho Tanaka [4]', 'Koharu Yonemoto', 'Alexandra Bøje', 'Sara Lundgaard']","['[JPN] ', '[JPN] ', '[DEN] ', '[DEN] ']","['21-10', '21-9']",WD,20180306,"Mülheim an der Ruhr, Germany"
+88,"['Kenta Nishimoto', 'Son Wan Ho [1]']","['[JPN] ', '[KOR] ']","['21-19', '11-21', '21-13']",MS,20180306,"Mülheim an der Ruhr, Germany"
+89,"['Yuki Fukushima [3]', 'Sayaka Hirota', 'Savitree Amitrapai', 'Pacharapun Chochuwong']","['[JPN] ', '[JPN] ', '[THA] ', '[THA] ']","['21-16', '21-15']",WD,20180306,"Mülheim an der Ruhr, Germany"
+90,"['Liao Min Chun', 'Su Ching Heng', 'Mark Lamsfuss', 'Marvin Emil Seidel']","['[TPE] ', '[TPE] ', '[GER] ', '[GER] ']","['21-17', '21-17']",MD,20180306,"Mülheim an der Ruhr, Germany"
+91,"['Nozomi Okuhara [3]', 'Cheung Ngan Yi']","['[JPN] ', '[HKG] ']","['22-24', '21-13', '21-15']",WS,20180306,"Mülheim an der Ruhr, Germany"
+92,"['Lin Dan [2]', 'Vladimir Malkov']","['[CHN] ', '[RUS] ']","['21-11', '23-21']",MS,20180306,"Mülheim an der Ruhr, Germany"
+93,"['Kim Won Ho', 'Seung Jae Seo', 'Pakin Kuna-Anuvit', 'Natthapat Trinkajee']","['[KOR] ', '[KOR] ', '[THA] ', '[THA] ']","['21-15', '21-10']",MD,20180306,"Mülheim an der Ruhr, Germany"
+94,"['Beiwen Zhang [5]', 'Lee Chia Hsin']","['[USA] ', '[TPE] ']","['21-14', '21-16']",WS,20180306,"Mülheim an der Ruhr, Germany"
+95,"['Mayu Matsumoto', 'Wakana Nagahara', 'Tang Jinhua', 'Yu Xiaohan']","['[JPN] ', '[JPN] ', '[CHN] ', '[CHN] ']","['21-18', '21-14']",WD,20180306,"Mülheim an der Ruhr, Germany"
+96,"['Kanta Tsuneyama', 'Lee Dong Keun']","['[JPN] ', '[KOR] ']","['23-21', '21-19']",MS,20180306,"Mülheim an der Ruhr, Germany"
+97,"['Mohammad Ahsan', 'Hendra Setiawan', 'Marcus Ellis', 'Chris Langridge']","['[INA] ', '[INA] ', '[ENG] ', '[ENG] ']","['21-16', '21-14']",MD,20180306,"Mülheim an der Ruhr, Germany"
+98,"['Pai Yu Po', 'Line Højmark Kjaersfeldt']","['[TPE] ', '[DEN] ']","['24-22', '21-13']",WS,20180306,"Mülheim an der Ruhr, Germany"
+99,"['Fajar Alfian [7]', 'Muhammad Rian Ardianto', 'He Jiting', 'Tan Qiang']","['[INA] ', '[INA] ', '[CHN] ', '[CHN] ']","['21-18', '19-21', '21-16']",MD,20180306,"Mülheim an der Ruhr, Germany"
+100,"['Ng Ka Long Angus [6]', 'Emil Holst']","['[HKG] ', '[DEN] ']","['21-18', '21-11']",MS,20180306,"Mülheim an der Ruhr, Germany"
+101,"['Raphael Beck', 'Sam Magee', 'Peter Briggs', 'Tom Wolfenden']","['[GER] ', '[IRL] ', '[ENG] ', '[ENG] ']","['21-19', '18-21', '21-17']",MD,20180306,"Mülheim an der Ruhr, Germany"
+102,"['Akane Yamaguchi [1]', 'Mia Blichfeldt']","['[JPN] ', '[DEN] ']","['21-10', '21-13']",WS,20180306,"Mülheim an der Ruhr, Germany"
+103,"['Kim Astrup [5]', 'Anders Skaarup Rasmussen', 'Takuro Hoki', 'Yugo Kobayashi']","['[DEN] ', '[DEN] ', '[JPN] ', '[JPN] ']",[],MD,20180306,"Mülheim an der Ruhr, Germany"
+104,"['Chae Yoo Jung', 'Jung Kyung Eun', 'Debora Jille', 'Imke Van Der Aar']","['[KOR] ', '[KOR] ', '[NED] ', '[NED] ']","['21-13', '21-13']",WD,20180306,"Mülheim an der Ruhr, Germany"
+105,"['Goh V Shem', 'Tan Wee Kiong', 'Hiroyuki Endo', 'Yuta Watanabe']","['[MAS] ', '[MAS] ', '[JPN] ', '[JPN] ']","['21-16', '17-21', '21-16']",MD,20180306,"Mülheim an der Ruhr, Germany"
+106,"['Mark Caljouw', 'Kalle Koljonen']","['[NED] ', '[FIN] ']","['21-13', '21-12']",MS,20180306,"Mülheim an der Ruhr, Germany"
+107,"['Tinn Isriyanet', 'Kittisak Namdash', 'Lu Ching Yao [8]', 'Yang Po Han']","['[THA] ', '[THA] ', '[TPE] ', '[TPE] ']","['16-21', '21-19', '21-19']",MD,20180306,"Mülheim an der Ruhr, Germany"
+108,"['Niclas Nohr', 'Sara Thygesen', 'Wang Chi-Lin', 'Lee Chia Hsin']","['[DEN] ', '[DEN] ', '[TPE] ', '[TPE] ']","['21-23', '21-15', '21-14']",XD,20180306,"Mülheim an der Ruhr, Germany"
+109,"['Gabriela Stoeva', 'Stefani Stoeva', 'Du Yue', 'Li Yinhui']","['[BUL] ', '[BUL] ', '[CHN] ', '[CHN] ']","['20-22', '21-9', '21-12']",WD,20180306,"Mülheim an der Ruhr, Germany"
+110,"['Dechapol Puavaranukroh [5]', 'Sapsiree Taerattanachai', 'Jelle Maas', 'Imke Van Der Aar']","['[THA] ', '[THA] ', '[NED] ', '[NED] ']","['21-19', '21-16']",XD,20180306,"Mülheim an der Ruhr, Germany"
+111,"['Huang Dongping', 'Yu Zheng', 'Chiang Kai Hsin', 'Hung Shih Han']","['[CHN] ', '[CHN] ', '[TPE] ', '[TPE] ']","['21-11', '21-9']",WD,20180306,"Mülheim an der Ruhr, Germany"
+112,"['Goh Soon Huat [3]', 'Shevon Jemie Lai', 'Lee Yang', 'Hsu Ya Ching']","['[MAS] ', '[MAS] ', '[TPE] ', '[TPE] ']","['21-16', '21-15']",XD,20180306,"Mülheim an der Ruhr, Germany"
+113,"['Kento Momota', 'Suppanyu Avihingsanon']","['[JPN] ', '[THA] ']","['21-16', '21-13']",MS,20180306,"Mülheim an der Ruhr, Germany"
+114,"['Chae Yoo Jung', 'Jung Kyung Eun', 'Shiho Tanaka [4]', 'Koharu Yonemoto']","['[KOR] ', '[KOR] ', '[JPN] ', '[JPN] ']","['21-9', '21-15']",WD,20180306,"Mülheim an der Ruhr, Germany"
+115,"['Nozomi Okuhara [3]', 'Gao Fangjie']","['[JPN] ', '[CHN] ']","['20-22', '21-11', '21-18']",WS,20180306,"Mülheim an der Ruhr, Germany"
+116,"['Chou Tien Chen [4]', 'Subhankar Dey']","['[TPE] ', '[IND] ']","['21-7', '21-6']",MS,20180306,"Mülheim an der Ruhr, Germany"
+117,"['Marcus Ellis', 'Lauren Smith', 'Seung Jae Seo [2]', 'Kim Ha Na']","['[ENG] ', '[ENG] ', '[KOR] ', '[KOR] ']","['25-23', '21-19']",XD,20180306,"Mülheim an der Ruhr, Germany"
+118,"['Yuki Fukushima [3]', 'Sayaka Hirota', 'Mayu Matsumoto', 'Wakana Nagahara']","['[JPN] ', '[JPN] ', '[JPN] ', '[JPN] ']","['21-15', '21-12']",WD,20180306,"Mülheim an der Ruhr, Germany"
+119,"['Chiang Mei Hui', 'Brittney Tam']","['[TPE] ', '[CAN] ']","['21-7', '14-21', '21-13']",WS,20180306,"Mülheim an der Ruhr, Germany"
+120,"['Praveen Jordan', 'Melati Daeva Oktavianti', 'Jacco Arends', 'Selena Piek']","['[INA] ', '[INA] ', '[NED] ', '[NED] ']","['25-23', '14-21', '21-10']",XD,20180306,"Mülheim an der Ruhr, Germany"
+121,"['Chen Yufei [4]', 'Neslihan Yigit']","['[CHN] ', '[TUR] ']","['21-14', '21-17']",WS,20180306,"Mülheim an der Ruhr, Germany"
+122,"['Goh V Shem', 'Tan Wee Kiong', 'Tinn Isriyanet', 'Kittisak Namdash']","['[MAS] ', '[MAS] ', '[THA] ', '[THA] ']","['21-15', '21-16']",MD,20180306,"Mülheim an der Ruhr, Germany"
+123,"['Ng Ka Long Angus [6]', 'Mark Caljouw']","['[HKG] ', '[NED] ']","['21-18', '21-14']",MS,20180306,"Mülheim an der Ruhr, Germany"
+124,"['Jongkolphan Kititharakul [6]', 'Rawinda Prajongjai', 'Anggia Shitta Awanda', 'Ni Ketut Mahadewi Istarani']","['[THA] ', '[THA] ', '[INA] ', '[INA] ']","['21-6', '21-19']",WD,20180306,"Mülheim an der Ruhr, Germany"
+125,"['Anthony Sinisuka Ginting [5]', 'Huang Yuxiang']","['[INA] ', '[CHN] ']","['21-15', '5-3']",MS,20180306,"Mülheim an der Ruhr, Germany"
+126,"['Nitchaon Jindapol [6]', 'Chen Xiaoxin']","['[THA] ', '[CHN] ']","['21-14', '21-16']",WS,20180306,"Mülheim an der Ruhr, Germany"
+127,"['Shi Yuqi [3]', 'Kantaphon Wangcharoen']","['[CHN] ', '[THA] ']","['21-11', '21-5']",MS,20180306,"Mülheim an der Ruhr, Germany"
+128,"['Chang Ye Na [7]', 'Hye Rin Kim', 'Isabel Herttrich', 'Carla Nelte']","['[KOR] ', '[KOR] ', '[GER] ', '[GER] ']","['17-21', '21-18', '26-24']",WD,20180306,"Mülheim an der Ruhr, Germany"
+129,"['Fajar Alfian [7]', 'Muhammad Rian Ardianto', 'Raphael Beck', 'Sam Magee']","['[INA] ', '[INA] ', '[GER] ', '[IRL] ']","['21-14', '21-17']",MD,20180306,"Mülheim an der Ruhr, Germany"
+130,"['Beiwen Zhang [5]', 'Aya Ohori']","['[USA] ', '[JPN] ']","['21-17', '8-21', '21-10']",WS,20180306,"Mülheim an der Ruhr, Germany"
+131,"['Jonatan Christie [8]', 'Pablo Abian']","['[INA] ', '[ESP] ']","['21-14', '21-9']",MS,20180306,"Mülheim an der Ruhr, Germany"
+132,"['Liao Min Chun', 'Su Ching Heng', 'Jelle Maas', 'Robin Tabeling']","['[TPE] ', '[TPE] ', '[NED] ', '[NED] ']","['21-15', '18-21', '21-17']",MD,20180306,"Mülheim an der Ruhr, Germany"
+133,"['Mohammad Ahsan', 'Hendra Setiawan', 'Kim Astrup [5]', 'Anders Skaarup Rasmussen']","['[INA] ', '[INA] ', '[DEN] ', '[DEN] ']","['21-17', '11-21', '21-16']",MD,20180306,"Mülheim an der Ruhr, Germany"
+134,"['Maiken Fruergaard', 'Sara Thygesen', 'Della Destiara Haris [8]', 'Rizki Amelia Pradipta']","['[DEN] ', '[DEN] ', '[INA] ', '[INA] ']","['21-8', '14-21', '21-11']",WD,20180306,"Mülheim an der Ruhr, Germany"
+135,"['Mads Conrad-Petersen [2]', 'Mads Pieler Kolding', 'Kasper Antonsen', 'Niclas Nohr']","['[DEN] ', '[DEN] ', '[DEN] ', '[DEN] ']","['21-16', '21-12']",MD,20180306,"Mülheim an der Ruhr, Germany"
+136,"['Akane Yamaguchi [1]', 'Pai Yu Po']","['[JPN] ', '[TPE] ']","['21-17', '19-21', '24-22']",WS,20180306,"Mülheim an der Ruhr, Germany"
+137,"['Kenta Nishimoto', 'Lee Hyun Il']","['[JPN] ', '[KOR] ']","['21-13', '21-13']",MS,20180306,"Mülheim an der Ruhr, Germany"
+138,"['Takuto Inoue [6]', 'Yuki Kaneko', 'Han Chengkai', 'Zhou Haodong']","['[JPN] ', '[JPN] ', '[CHN] ', '[CHN] ']","['21-9', '22-20']",MD,20180306,"Mülheim an der Ruhr, Germany"
+139,"['Sung Ji Hyun [2]', 'Kim Hyo Min']","['[KOR] ', '[KOR] ']","['21-14', '21-14']",WS,20180306,"Mülheim an der Ruhr, Germany"
+140,"['Chen Qingchen [1]', 'Jia Yifan', 'Kim So Yeong', 'Hee Yong Kong']","['[CHN] ', '[CHN] ', '[KOR] ', '[KOR] ']","['25-23', '16-21', '21-18']",WD,20180306,"Mülheim an der Ruhr, Germany"
+141,"['Lin Dan [2]', 'Kanta Tsuneyama']","['[CHN] ', '[JPN] ']","['20-22', '21-14', '21-18']",MS,20180306,"Mülheim an der Ruhr, Germany"
+142,"['Saena Kawakami', 'Sayaka Sato [7]']","['[JPN] ', '[JPN] ']","['21-17', '21-17']",WS,20180306,"Mülheim an der Ruhr, Germany"
+143,"['Tinn Isriyanet', 'Pacharapun Chochuwong', 'Pranaav Jerry Chopra', 'Reddy N. Sikki']","['[THA] ', '[THA] ', '[IND] ', '[IND] ']","['21-18', '21-19']",XD,20180306,"Mülheim an der Ruhr, Germany"
+144,"['Choi Solgyu [8]', 'Chae Yoo Jung', 'Yuta Watanabe', 'Arisa Higashino']","['[KOR] ', '[KOR] ', '[JPN] ', '[JPN] ']","['21-19', '21-18']",XD,20180306,"Mülheim an der Ruhr, Germany"
+145,"['Lee Jhe-Huei [4]', 'Lee Yang', 'Angga Pratama', 'Rian Agung Saputro']","['[TPE] ', '[TPE] ', '[INA] ', '[INA] ']","['21-19', '21-15']",MD,20180306,"Mülheim an der Ruhr, Germany"
+146,"['He Jiting', 'Du Yue', 'Tang Chun Man [1]', 'Tse Ying Suet']","['[CHN] ', '[CHN] ', '[HKG] ', '[HKG] ']","['16-21', '21-18', '21-19']",XD,20180306,"Mülheim an der Ruhr, Germany"
+147,"['Kim Won Ho', 'Seung Jae Seo', 'Takeshi Kamura [1]', 'Keigo Sonoda']","['[KOR] ', '[KOR] ', '[JPN] ', '[JPN] ']","['21-17', '21-19']",MD,20180306,"Mülheim an der Ruhr, Germany"
+148,"['Niclas Nohr', 'Sara Thygesen', 'Praveen Jordan', 'Melati Daeva Oktavianti']","['[DEN] ', '[DEN] ', '[INA] ', '[INA] ']","['17-21', '24-22', '21-16']",XD ,20180306,"Mülheim an der Ruhr, Germany"
+149,"['Chen Yufei [4]', 'Chiang Mei Hui']","['[CHN] ', '[TPE] ']","['21-13', '21-16']",WS ,20180306,"Mülheim an der Ruhr, Germany"
+150,"['Mohammad Ahsan', 'Hendra Setiawan', 'Lee Jhe-Huei [4]', 'Lee Yang']","['[INA] ', '[INA] ', '[TPE] ', '[TPE] ']","['21-13', '22-20']",MD ,20180306,"Mülheim an der Ruhr, Germany"
+151,"['Goh Soon Huat [3]', 'Shevon Jemie Lai', 'Dechapol Puavaranukroh [5]', 'Sapsiree Taerattanachai']","['[MAS] ', '[MAS] ', '[THA] ', '[THA] ']","['21-14', '18-21', '23-21']",XD ,20180306,"Mülheim an der Ruhr, Germany"
+152,"['Takuto Inoue [6]', 'Yuki Kaneko', 'Liao Min Chun', 'Su Ching Heng']","['[JPN] ', '[JPN] ', '[TPE] ', '[TPE] ']","['21-19', '21-19']",MD ,20180306,"Mülheim an der Ruhr, Germany"
+153,"['Nozomi Okuhara [3]', 'Saena Kawakami']","['[JPN] ', '[JPN] ']","['18-21', '21-16', '21-11']",WS ,20180306,"Mülheim an der Ruhr, Germany"
+154,"['Kenta Nishimoto', 'Jonatan Christie [8]']","['[JPN] ', '[INA] ']","['21-10', '22-20']",MS ,20180306,"Mülheim an der Ruhr, Germany"
+155,"['He Jiting', 'Du Yue', 'Tinn Isriyanet', 'Pacharapun Chochuwong']","['[CHN] ', '[CHN] ', '[THA] ', '[THA] ']","['21-13', '21-10']",XD ,20180306,"Mülheim an der Ruhr, Germany"
+156,"['Chang Ye Na [7]', 'Hye Rin Kim', 'Chen Qingchen [1]', 'Jia Yifan']","['[KOR] ', '[KOR] ', '[CHN] ', '[CHN] ']","['21-19', '21-13']",WD ,20180306,"Mülheim an der Ruhr, Germany"
+157,"['Nitchaon Jindapol [6]', 'Sung Ji Hyun [2]']","['[THA] ', '[KOR] ']","['21-12', '21-17']",WS ,20180306,"Mülheim an der Ruhr, Germany"
+158,"['Shi Yuqi [3]', 'Anthony Sinisuka Ginting [5]']","['[CHN] ', '[INA] ']","['21-17', '18-21', '21-18']",MS ,20180306,"Mülheim an der Ruhr, Germany"
+159,"['Choi Solgyu [8]', 'Chae Yoo Jung', 'Marcus Ellis', 'Lauren Smith']","['[KOR] ', '[KOR] ', '[ENG] ', '[ENG] ']","['21-13', '21-15']",XD ,20180306,"Mülheim an der Ruhr, Germany"
+160,"['Ng Ka Long Angus [6]', 'Lin Dan [2]']","['[HKG] ', '[CHN] ']","['21-16', '22-20']",MS ,20180306,"Mülheim an der Ruhr, Germany"
+161,"['Huang Dongping', 'Yu Zheng', 'Chae Yoo Jung', 'Jung Kyung Eun']","['[CHN] ', '[CHN] ', '[KOR] ', '[KOR] ']","['21-19', '21-12']",WD ,20180306,"Mülheim an der Ruhr, Germany"
+162,"['Fajar Alfian [7]', 'Muhammad Rian Ardianto', 'Kim Won Ho', 'Seung Jae Seo']","['[INA] ', '[INA] ', '[KOR] ', '[KOR] ']","['21-16', '21-16']",MD ,20180306,"Mülheim an der Ruhr, Germany"
+163,"['Chou Tien Chen [4]', 'Kento Momota']","['[TPE] ', '[JPN] ']","['21-15', '14-21', '21-10']",MS Match of the Day,20180306,"Mülheim an der Ruhr, Germany"
+164,"['Gabriela Stoeva', 'Stefani Stoeva', 'Jongkolphan Kititharakul [6]', 'Rawinda Prajongjai']","['[BUL] ', '[BUL] ', '[THA] ', '[THA] ']","['21-11', '21-9']",WD ,20180306,"Mülheim an der Ruhr, Germany"
+165,"['Akane Yamaguchi [1]', 'Beiwen Zhang [5]']","['[JPN] ', '[USA] ']","['21-17', '21-13']",WS ,20180306,"Mülheim an der Ruhr, Germany"
+166,"['Yuki Fukushima [3]', 'Sayaka Hirota', 'Maiken Fruergaard', 'Sara Thygesen']","['[JPN] ', '[JPN] ', '[DEN] ', '[DEN] ']","['21-11', '21-14']",WD ,20180306,"Mülheim an der Ruhr, Germany"
+167,"['Goh V Shem', 'Tan Wee Kiong', 'Mads Conrad-Petersen [2]', 'Mads Pieler Kolding']","['[MAS] ', '[MAS] ', '[DEN] ', '[DEN] ']","['21-19', '13-7']",MD ,20180306,"Mülheim an der Ruhr, Germany"
+168,"['Chen Yufei [4]', 'Nitchaon Jindapol [6]']","['[CHN] ', '[THA] ']","['21-19', '13-21', '21-14']",WS ,20180306,"Mülheim an der Ruhr, Germany"
+169,"['Niclas Nohr', 'Sara Thygesen', 'He Jiting', 'Du Yue']","['[DEN] ', '[DEN] ', '[CHN] ', '[CHN] ']","['21-19', '19-21', '21-17']",XD ,20180306,"Mülheim an der Ruhr, Germany"
+170,"['Yuki Fukushima [3]', 'Sayaka Hirota', 'Gabriela Stoeva', 'Stefani Stoeva']","['[JPN] ', '[JPN] ', '[BUL] ', '[BUL] ']","['21-18', '21-11']",WD Match of the Day,20180306,"Mülheim an der Ruhr, Germany"
+171,"['Chou Tien Chen [4]', 'Kenta Nishimoto']","['[TPE] ', '[JPN] ']","['21-11', '14-21', '21-13']",MS ,20180306,"Mülheim an der Ruhr, Germany"
+172,"['Takuto Inoue [6]', 'Yuki Kaneko', 'Goh V Shem', 'Tan Wee Kiong']","['[JPN] ', '[JPN] ', '[MAS] ', '[MAS] ']","['21-17', '18-21', '21-19']",MD ,20180306,"Mülheim an der Ruhr, Germany"
+173,"['Ng Ka Long Angus [6]', 'Shi Yuqi [3]']","['[HKG] ', '[CHN] ']","['21-18', '18-21', '21-17']",MS ,20180306,"Mülheim an der Ruhr, Germany"
+174,"['Huang Dongping', 'Yu Zheng', 'Chang Ye Na [7]', 'Hye Rin Kim']","['[CHN] ', '[CHN] ', '[KOR] ', '[KOR] ']","['29-27', '21-18']",WD ,20180306,"Mülheim an der Ruhr, Germany"
+175,"['Akane Yamaguchi [1]', 'Nozomi Okuhara [3]']","['[JPN] ', '[JPN] ']","['23-21', '21-12']",WS ,20180306,"Mülheim an der Ruhr, Germany"
+176,"['Goh Soon Huat [3]', 'Shevon Jemie Lai', 'Choi Solgyu [8]', 'Chae Yoo Jung']","['[MAS] ', '[MAS] ', '[KOR] ', '[KOR] ']","['23-21', '23-25', '21-13']",XD ,20180306,"Mülheim an der Ruhr, Germany"
+177,"['Fajar Alfian [7]', 'Muhammad Rian Ardianto', 'Mohammad Ahsan', 'Hendra Setiawan']","['[INA] ', '[INA] ', '[INA] ', '[INA] ']","['22-20', '22-20']",MD ,20180306,"Mülheim an der Ruhr, Germany"
+178,"['Yuki Fukushima [3]', 'Sayaka Hirota', 'Huang Dongping', 'Yu Zheng']","['[JPN] ', '[JPN] ', '[CHN] ', '[CHN] ']","['18-21', '21-14', '21-6']",WD ,20180306,"Mülheim an der Ruhr, Germany"
+179,"['Goh Soon Huat [3]', 'Shevon Jemie Lai', 'Niclas Nohr', 'Sara Thygesen']","['[MAS] ', '[MAS] ', '[DEN] ', '[DEN] ']","['21-14', '22-20']",XD ,20180306,"Mülheim an der Ruhr, Germany"
+180,"['Akane Yamaguchi [1]', 'Chen Yufei [4]']","['[JPN] ', '[CHN] ']","['21-19', '6-21', '21-12']",WS ,20180306,"Mülheim an der Ruhr, Germany"
+181,"['Chou Tien Chen [4]', 'Ng Ka Long Angus [6]']","['[TPE] ', '[HKG] ']","['21-19', '18-21', '21-18']",MS ,20180306,"Mülheim an der Ruhr, Germany"
+182,"['Takuto Inoue [6]', 'Yuki Kaneko', 'Fajar Alfian [7]', 'Muhammad Rian Ardianto']","['[JPN] ', '[JPN] ', '[INA] ', '[INA] ']","['21-16', '21-18']",MD ,20180306,"Mülheim an der Ruhr, Germany"

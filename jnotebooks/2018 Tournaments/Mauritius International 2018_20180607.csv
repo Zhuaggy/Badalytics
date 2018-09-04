@@ -1,120 +1,120 @@
-,PLAYERS,COUNTRIES,SCORES,EVENT,match_week
-0,"['Bertrand MARIMOUTOU', 'Kaviraj SOOKURAM']","['[REU] ', '[MRI] ']","['21-18', '21-17']",MS - Qualification,20180607
-1,"['Ved CALLYCHURN', 'Anish TAUCKOORY']","['[MRI] ', '[MRI] ']","['21-7', '21-16']",MS - Qualification,20180607
-2,"['Abhay Chandra RUSSOM', 'Raul TEELUCK']","['[MRI] ', '[MRI] ']","['21-19', '21-16']",MS - Qualification,20180607
-3,"['Thoif Ahmed MOHAMED', 'Sadashayanand DUMREE']","['[MDV] ', '[MRI] ']","['21-14', '21-12']",MS - Qualification,20180607
-4,"['Kaustubh RAWAT', 'Vincent KOO']","['[IND] ', '[MRI] ']","['21-2', '21-15']",MS - Qualification,20180607
-5,"['Jibran AUBEELUCK', 'Mutombo TSHIZANGA']","['[MRI] ', '[COD] ']",[],MS - Qualification,20180607
-6,"['Kai Wun TEE', 'Vimal CHOOLUN']","['[MAS] ', '[MRI] ']","['21-7', '21-8']",MS - Qualification,20180607
-7,"['Yi Xin CHEW', 'Bhavish DUTTOO']","['[MAS] ', '[MRI] ']","['21-2', '21-3']",MS - Qualification,20180607
-8,"['Kesaven VEERAPEN', 'Abdul Zaheer BEEBEEJAUN [7]']","['[MRI] ', '[MRI] ']","['21-13', '21-17']",MS - Qualification,20180607
-9,"['Janess RUJKOOMAR', 'Abdul Zeeshan BEEBEEJAUN [4]']","['[MRI] ', '[MRI] ']","['21-7', '21-8']",MS - Qualification,20180607
-10,"['Giresh Kumar RAMPERSAND [6]', 'M SUBDURALLY']","['[MRI] ', '[MRI] ']","['21-13', '21-10']",MS - Qualification,20180607
-11,"['Khemtish NUNDAH', 'Faadil SAYED [5]']","['[MRI] ', '[MRI] ']","['22-20', '17-21', '21-15']",MS - Qualification,20180607
-12,"['Wee Peng SIM [3]', 'Gary-Clark LIM HING TENG']","['[MAS] ', '[MRI] ']","['21-10', '21-6']",MS - Qualification,20180607
-13,"['Girish Roy HEERAMUN', 'Ravin ANTHI-IYA [8]']","['[MRI] ', '[MRI] ']","['21-12', '21-16']",MS - Qualification,20180607
-14,"['Tamesh DOOKHEE [2]', 'Yajnesh Anand CHANGEA']","['[MRI] ', '[MRI] ']","['21-8', '21-18']",MS - Qualification,20180607
-15,"['Nevin LUFOR [1]', 'Dharish GYANDIN']","['[MRI] ', '[MRI] ']","['21-10', '21-11']",MS - Qualification,20180607
-16,"['Sandesh GONDARY', 'Bertrand MARIMOUTOU']","['[MRI] ', '[REU] ']","['9-21', '21-18', '21-14']",MS - Qualification,20180607
-17,"['Jason FRANCOIS', 'Ved CALLYCHURN']","['[MRI] ', '[MRI] ']","['21-7', '20-22', '21-16']",MS - Qualification,20180607
-18,"['Darel SOPHIE', 'Abhay Chandra RUSSOM']","['[MRI] ', '[MRI] ']","['20-22', '21-18', '21-16']",MS - Qualification,20180607
-19,"['Thoif Ahmed MOHAMED', 'Jamsheed BROCHIER']","['[MDV] ', '[MRI] ']","['21-9', '18-21', '21-9']",MS - Qualification,20180607
-20,"['Kaustubh RAWAT', 'Ashneel DABEE']","['[IND] ', '[MRI] ']","['21-2', '21-5']",MS - Qualification,20180607
-21,"['Reetesh Chandrakanth DOOLEEA', 'Jibran AUBEELUCK']","['[MRI] ', '[MRI] ']","['21-8', '21-6']",MS - Qualification,20180607
-22,"['Kai Wun TEE', 'Jean-Luc JAFARALLY']","['[MAS] ', '[MRI] ']","['21-10', '21-11']",MS - Qualification,20180607
-23,"['Yi Xin CHEW', 'Harshil GOBIN']","['[MAS] ', '[MRI] ']","['21-6', '21-6']",MS - Qualification,20180607
-24,"['Georges Julien PAUL [1]', 'Mohamed Ajfan RASHEED']","['[MRI] ', '[MDV] ']","['21-17', '21-18']",MS,20180607
-25,"['Collins Valentine FILIMON [5]', 'Tejraj PULTOO']","['[ROU] ', '[MRI] ']","['21-11', '21-11']",MS,20180607
-26,"['AUNG MYO Htoo', 'Mevan DEWOO']","['[MYA] ', '[MRI] ']","['21-9', '21-13']",MS,20180607
-27,"['Ahmed NIBAL', 'Soobhan AJMEER']","['[MDV] ', '[MRI] ']","['21-10', '21-13']",MS,20180607
-28,"['SAI WUU PHET @ Sai Lin Tun Aung', 'Thierry BELLEPEAU']","['[MYA] ', '[MRI] ']","['21-12', '21-10']",MS,20180607
-29,"['Niels VEENSTRA', 'Melvin APPIAH [8]']","['[NED] ', '[MRI] ']","['22-20', '21-18']",MS,20180607
-30,"['Khabir TEELUCK', 'Sarim MOHAMED']","['[MRI] ', '[MDV] ']","['21-11', '21-15']",MS,20180607
-31,"['Mathias PEDERSEN', 'Bahaedeen Ahmad ALSHANNIK [3]']","['[DEN] ', '[JOR] ']",[],MS,20180607
-32,"['Sandesh GONDARY', 'Nevin LUFOR [1]']","['[MRI] ', '[MRI] ']","['21-15', '21-17']",MS - Qualification,20180607
-33,"['Jason FRANCOIS', 'Kesaven VEERAPEN']","['[MRI] ', '[MRI] ']","['24-22', '21-9']",MS - Qualification,20180607
-34,"['Darel SOPHIE', 'Janess RUJKOOMAR']","['[MRI] ', '[MRI] ']","['21-15', '15-21', '21-14']",MS - Qualification,20180607
-35,"['Thoif Ahmed MOHAMED', 'Giresh Kumar RAMPERSAND [6]']","['[MDV] ', '[MRI] ']","['22-20', '11-21', '21-13']",MS - Qualification,20180607
-36,"['Kaustubh RAWAT', 'Khemtish NUNDAH']","['[IND] ', '[MRI] ']","['21-13', '21-7']",MS - Qualification,20180607
-37,"['Wee Peng SIM [3]', 'Reetesh Chandrakanth DOOLEEA']","['[MAS] ', '[MRI] ']","['21-13', '21-14']",MS - Qualification,20180607
-38,"['Kai Wun TEE', 'Girish Roy HEERAMUN']","['[MAS] ', '[MRI] ']","['21-8', '21-13']",MS - Qualification,20180607
-39,"['Yi Xin CHEW', 'Tamesh DOOKHEE [2]']","['[MAS] ', '[MRI] ']","['21-9', '21-8']",MS - Qualification,20180607
-40,"['Jhotiswaran KARUPATHEVAN', 'Mathias PEDERSEN', 'Soobhan AJMEER', 'M SUBDURALLY']","['[MAS] ', '[DEN] ', '[MRI] ', '[MRI] ']","['21-11', '21-8']",MD,20180607
-41,"['Yong Chai NG', 'Kai Wun TEE', 'Ashneel DABEE', 'Dharish GYANDIN']","['[MAS] ', '[MAS] ', '[MRI] ', '[MRI] ']","['21-5', '21-10']",MD,20180607
-42,"['Thoif Ahmed MOHAMED', 'Mohamed Ajfan RASHEED', 'Yudish Yogeshwar HEERAMUN', 'Gary-Clark LIM HING TENG']","['[MDV] ', '[MDV] ', '[MRI] ', '[MRI] ']","['21-17', '21-9']",MD,20180607
-43,"['Jibran AUBEELUCK', 'Ved CALLYCHURN', 'Dimand Ja OKITO', 'Mutombo TSHIZANGA']","['[MRI] ', '[MRI] ', '[COD] ', '[COD] ']",[],MD,20180607
-44,"['Swarnaraj BORA', 'Kaustubh RAWAT', 'Jason FRANCOIS', 'Khemtish NUNDAH']","['[IND] ', '[IND] ', '[MRI] ', '[MRI] ']","['21-11', '21-5']",MD,20180607
-45,"['Sahir Abdool EDOO', 'Saheer RAMRAKHA', 'Reetesh Chandrakanth DOOLEEA', 'Kaviraj SOOKURAM']","['[MRI] ', '[MRI] ', '[MRI] ', '[MRI] ']","['21-14', '25-23']",MD,20180607
-46,"['Mevan DEWOO', 'Darel SOPHIE', 'Harshil GOBIN', 'Sandesh GONDARY']","['[MRI] ', '[MRI] ', '[MRI] ', '[MRI] ']","['21-15', '21-12']",MD,20180607
-47,"['Sarim MOHAMED', 'Ahmed NIBAL', 'Ravin ANTHI-IYA', 'Faadil SAYED']","['[MDV] ', '[MDV] ', '[MRI] ', '[MRI] ']","['21-11', '21-16']",MD,20180607
-48,"['Tamesh DOOKHEE', 'Giresh Kumar RAMPERSAND', 'Jamsheed BROCHIER', 'Sadashayanand DUMREE']","['[MRI] ', '[MRI] ', '[MRI] ', '[MRI] ']","['21-12', '12-21', '23-21']",MD,20180607
-49,"['Darel SOPHIE', 'Huzair Asraaf Ali BHUTTOO']","['[MRI] ', '[MRI] ']","['21-16', '21-18']",MS,20180607
-50,"['Jason FRANCOIS', 'Soogun Z']","['[MRI] ', '[MRI] ']","['21-19', '12-21', '21-8']",MS,20180607
-51,"['Wee Peng SIM', 'Christopher PAUL [6]']","['[MAS] ', '[MRI] ']","['21-16', '21-9']",MS,20180607
-52,"['Jhotiswaran KARUPATHEVAN', 'Thoif Ahmed MOHAMED']","['[MAS] ', '[MDV] ']","['21-6', '21-14']",MS,20180607
-53,"['Kai Wun TEE', 'Swarnaraj BORA [7]']","['[MAS] ', '[IND] ']","['15-21', '24-22', '21-15']",MS,20180607
-54,"['Sandesh GONDARY', 'Aatish LUBAH [4]']","['[MRI] ', '[MRI] ']",[],MS,20180607
-55,"['Yi Xin CHEW', 'Jean Bernard BONGOUT']","['[MAS] ', '[MRI] ']","['21-17', '21-16']",MS,20180607
-56,"['Giap Chin GOH [2]', 'Kaustubh RAWAT']","['[MAS] ', '[IND] ']","['21-9', '21-12']",MS,20180607
-57,"['Ritika THAKER', 'Sendila MOURAT']","['[IND] ', '[MRI] ']","['21-9', '21-5']",WS,20180607
-58,"['Moosa Aminath SHAHURUNAZ', 'Poshita LUCHOOMUN']","['[MDV] ', '[MRI] ']","['21-4', '21-5']",WS,20180607
-59,"['Letshanaa A. KARUPATHEVAN', 'Dorothy ROUSSEAU']","['[MAS] ', '[MRI] ']","['21-5', '21-3']",WS,20180607
-60,"['Georges Julien PAUL [1]', 'Darel SOPHIE']","['[MRI] ', '[MRI] ']","['21-11', '21-10']",MS,20180607
-61,"['Collins Valentine FILIMON [5]', 'Jason FRANCOIS']","['[ROU] ', '[MRI] ']","['21-5', '21-3']",MS,20180607
-62,"['AUNG MYO Htoo', 'Mathias PEDERSEN']","['[MYA] ', '[DEN] ']","['21-14', '21-11']",MS,20180607
-63,"['Jhotiswaran KARUPATHEVAN', 'Wee Peng SIM']","['[MAS] ', '[MAS] ']","['21-16', '21-17']",MS,20180607
-64,"['Kai Wun TEE', 'Ahmed NIBAL']","['[MAS] ', '[MDV] ']","['21-10', '21-9']",MS,20180607
-65,"['SAI WUU PHET @ Sai Lin Tun Aung', 'Sandesh GONDARY']","['[MYA] ', '[MRI] ']","['21-2', '21-11']",MS,20180607
-66,"['Yi Xin CHEW', 'Niels VEENSTRA']","['[MAS] ', '[NED] ']","['21-11', '21-13']",MS,20180607
-67,"['Giap Chin GOH [2]', 'Khabir TEELUCK']","['[MAS] ', '[MRI] ']","['21-1', '21-4']",MS,20180607
-68,"['Katerina TOMALOVA [1]', 'Jemimah LEUG FOR SANG']","['[CZE] ', '[MRI] ']","['21-4', '21-2']",WS,20180607
-69,"['Ritika THAKER', 'Vilina APPIAH']","['[IND] ', '[MRI] ']","['21-7', '21-11']",WS,20180607
-70,"['Aurelie Marie Elisa ALLET [3]', 'Katambua ODIA']","['[MRI] ', '[COD] ']",[],WS,20180607
-71,"['Moosa Aminath SHAHURUNAZ', 'Jeisha CHINIAH']","['[MDV] ', '[MRI] ']","['21-10', '21-5']",WS,20180607
-72,"['Letshanaa A. KARUPATHEVAN', 'Mandira LUBAH']","['[MAS] ', '[MRI] ']","['21-3', '21-6']",WS,20180607
-73,"['Ganesha MUNGRAH', 'Fathimath Nabaaha ABDUL RAZZAQ [4]']","['[MRI] ', '[MDV] ']","['22-20', '17-21', '21-19']",WS,20180607
-74,"['Simran SINGHI', 'Aminath Nabeeha ABDUL RAZZAQ']","['[IND] ', '[MDV] ']","['21-10', '21-10']",WS,20180607
-75,"['THET HTAR Thuzar [2]', 'Kritisha MUNGRAH']","['[MYA] ', '[MRI] ']","['21-2', '21-4']",WS,20180607
-76,"['Jhotiswaran KARUPATHEVAN', 'Mathias PEDERSEN', 'Melvin APPIAH [1]', 'Tejraj PULTOO']","['[MAS] ', '[DEN] ', '[MRI] ', '[MRI] ']","['21-16', '17-21', '21-18']",MD,20180607
-77,"['Yong Chai NG', 'Kai Wun TEE', 'Thierry BELLEPEAU', 'Vimal CHOOLUN']","['[MAS] ', '[MAS] ', '[MRI] ', '[MRI] ']","['21-13', '21-12']",MD,20180607
-78,"['Thoif Ahmed MOHAMED', 'Mohamed Ajfan RASHEED', 'Nevin LUFOR [3]', 'Kesaven VEERAPEN']","['[MDV] ', '[MDV] ', '[MRI] ', '[MRI] ']","['21-12', '21-8']",MD,20180607
-79,"['Jibran AUBEELUCK', 'Ved CALLYCHURN', 'Aatish LUBAH', 'Christopher PAUL']","['[MRI] ', '[MRI] ', '[MRI] ', '[MRI] ']",[],MD,20180607
-80,"['Swarnaraj BORA', 'Kaustubh RAWAT', 'Sahir Abdool EDOO', 'Saheer RAMRAKHA']","['[IND] ', '[IND] ', '[MRI] ', '[MRI] ']","['21-16', '21-15']",MD,20180607
-81,"['Jean Bernard BONGOUT [3]', 'Khabir TEELUCK', 'Mevan DEWOO', 'Darel SOPHIE']","['[MRI] ', '[MRI] ', '[MRI] ', '[MRI] ']","['21-14', '18-21', '21-11']",MD,20180607
-82,"['Sarim MOHAMED', 'Ahmed NIBAL', 'Huzair Asraaf Ali BHUTTOO', 'Soogun Z']","['[MDV] ', '[MDV] ', '[MRI] ', '[MRI] ']","['21-17', '21-12']",MD,20180607
-83,"['Daniel GRASSMUCK [2]', 'Roman ZIRNWALD', 'Tamesh DOOKHEE', 'Giresh Kumar RAMPERSAND']","['[AUT] ', '[AUT] ', '[MRI] ', '[MRI] ']","['21-17', '21-8']",MD,20180607
-84,"['Abhay Chandra RUSSOM', 'Sendila MOURAT', 'Mutombo TSHIZANGA', 'Mbuyi Bernice BOKOTSHA']","['[MRI] ', '[MRI] ', '[COD] ', '[COD] ']",[],XD,20180607
-85,"['Thoif Ahmed MOHAMED', 'Aminath Nabeeha ABDUL RAZZAQ', 'Sandesh GONDARY', 'Mandira LUBAH']","['[MDV] ', '[MDV] ', '[MRI] ', '[MRI] ']","['21-13', '21-10']",XD,20180607
-86,"['Khabir TEELUCK', 'Ganesha MUNGRAH', 'Ravin ANTHI-IYA', 'Dorothy ROUSSEAU']","['[MRI] ', '[MRI] ', '[MRI] ', '[MRI] ']","['21-9', '21-14']",XD,20180607
-87,"['Sarim MOHAMED', 'Moosa Aminath SHAHURUNAZ', 'Melvin APPIAH', 'Vilina APPIAH']","['[MDV] ', '[MDV] ', '[MRI] ', '[MRI] ']","['27-25', '21-17']",XD,20180607
-88,"['Letshanaa A. KARUPATHEVAN', 'Ganesha MUNGRAH']","['[MAS] ', '[MRI] ']","['21-9', '21-5']",WS ,20180607
-89,"['AUNG MYO Htoo', 'Jhotiswaran KARUPATHEVAN']","['[MYA] ', '[MAS] ']","['22-20', '21-11']",MS ,20180607
-90,"['Khabir TEELUCK', 'Ganesha MUNGRAH', 'Ashneel DABEE', 'Cindy SOOBRAMANIEN']","['[MRI] ', '[MRI] ', '[MRI] ', '[MRI] ']","['21-10', '21-10']",XD ,20180607
-91,"['Thoif Ahmed MOHAMED', 'Mohamed Ajfan RASHEED', 'Jibran AUBEELUCK', 'Ved CALLYCHURN']","['[MDV] ', '[MDV] ', '[MRI] ', '[MRI] ']","['21-11', '21-9']",MD ,20180607
-92,"['Aurelie Marie Elisa ALLET [3]', 'Moosa Aminath SHAHURUNAZ']","['[MRI] ', '[MDV] ']","['21-12', '21-13']",WS ,20180607
-93,"['THET HTAR Thuzar [2]', 'Simran SINGHI']","['[MYA] ', '[IND] ']","['14-21', '21-11', '21-15']",WS ,20180607
-94,"['Sarim MOHAMED', 'Moosa Aminath SHAHURUNAZ', 'Jean Bernard BONGOUT [2]', 'Jemimah LEUG FOR SANG']","['[MDV] ', '[MDV] ', '[MRI] ', '[MRI] ']","['21-17', '23-21']",XD ,20180607
-95,"['Georges Julien PAUL [1]', 'Aurelie Marie Elisa ALLET', 'Abhay Chandra RUSSOM', 'Sendila MOURAT']","['[MRI] ', '[MRI] ', '[MRI] ', '[MRI] ']","['21-8', '21-14']",XD ,20180607
-96,"['Swarnaraj BORA', 'Kaustubh RAWAT', 'Jean Bernard BONGOUT [3]', 'Khabir TEELUCK']","['[IND] ', '[IND] ', '[MRI] ', '[MRI] ']","['21-14', '21-7']",MD ,20180607
-97,"['Giap Chin GOH [2]', 'Kai Wun TEE']","['[MAS] ', '[MAS] ']","['21-18', '21-11']",MS ,20180607
-98,"['Katerina TOMALOVA [1]', 'Aurelie Marie Elisa ALLET [3]']","['[CZE] ', '[MRI] ']","['21-8', '21-7']",WS ,20180607
-99,"['Yong Chai NG', 'Kai Wun TEE', 'Thoif Ahmed MOHAMED', 'Mohamed Ajfan RASHEED']","['[MAS] ', '[MAS] ', '[MDV] ', '[MDV] ']","['21-11', '21-16']",MD ,20180607
-100,"['Aminath Nabeeha ABDUL RAZZAQ [1]', 'Fathimath Nabaaha ABDUL RAZZAQ', 'Jemimah LEUG FOR SANG', 'Ganesha MUNGRAH']","['[MDV] ', '[MDV] ', '[MRI] ', '[MRI] ']","['21-18', '14-21', '21-8']",WD ,20180607
-101,"['Sarim MOHAMED', 'Moosa Aminath SHAHURUNAZ', 'Khabir TEELUCK', 'Ganesha MUNGRAH']","['[MDV] ', '[MDV] ', '[MRI] ', '[MRI] ']","['21-14', '21-16']",XD ,20180607
-102,"['Georges Julien PAUL [1]', 'Collins Valentine FILIMON [5]']","['[MRI] ', '[ROU] ']","['21-13', '21-12']",MS ,20180607
-103,"['Thoif Ahmed MOHAMED', 'Aminath Nabeeha ABDUL RAZZAQ', 'Tejraj PULTOO', 'Kritisha MUNGRAH']","['[MDV] ', '[MDV] ', '[MRI] ', '[MRI] ']","['15-21', '21-18', '21-15']",XD ,20180607
-104,"['Katerina TOMALOVA [1]', 'Ritika THAKER']","['[CZE] ', '[IND] ']","['15-21', '21-18', '21-16']",WS ,20180607
-105,"['Yong Chai NG', 'Kai Wun TEE', 'Jhotiswaran KARUPATHEVAN', 'Mathias PEDERSEN']","['[MAS] ', '[MAS] ', '[MAS] ', '[DEN] ']","['21-15', '21-13']",MD ,20180607
-106,"['Daniel GRASSMUCK [2]', 'Roman ZIRNWALD', 'Sarim MOHAMED', 'Ahmed NIBAL']","['[AUT] ', '[AUT] ', '[MDV] ', '[MDV] ']","['21-8', '21-11']",MD ,20180607
-107,"['AUNG MYO Htoo', 'Georges Julien PAUL [1]']","['[MYA] ', '[MRI] ']","['21-16', '18-21', '21-15']",MS ,20180607
-108,"['Letshanaa A. KARUPATHEVAN', 'THET HTAR Thuzar [2]']","['[MAS] ', '[MYA] ']","['21-13', '21-23', '21-12']",WS ,20180607
-109,"['Daniel GRASSMUCK [2]', 'Roman ZIRNWALD', 'Swarnaraj BORA', 'Kaustubh RAWAT']","['[AUT] ', '[AUT] ', '[IND] ', '[IND] ']","['14-21', '21-16', '21-14']",MD ,20180607
-110,"['Simran SINGHI [2]', 'Ritika THAKER', 'Vilina APPIAH', 'Mandira LUBAH']","['[IND] ', '[IND] ', '[MRI] ', '[MRI] ']","['21-11', '21-4']",WD ,20180607
-111,"['Georges Julien PAUL [1]', 'Aurelie Marie Elisa ALLET', 'Thoif Ahmed MOHAMED', 'Aminath Nabeeha ABDUL RAZZAQ']","['[MRI] ', '[MRI] ', '[MDV] ', '[MDV] ']","['21-14', '21-18']",XD ,20180607
-112,"['Kai Wun TEE', 'SAI WUU PHET @ Sai Lin Tun Aung']","['[MAS] ', '[MYA] ']","['21-13', '21-15']",MS ,20180607
-113,"['Giap Chin GOH [2]', 'Yi Xin CHEW']","['[MAS] ', '[MAS] ']","['21-14', '21-13']",MS ,20180607
-114,"['Simran SINGHI [2]', 'Ritika THAKER', 'Aminath Nabeeha ABDUL RAZZAQ [1]', 'Fathimath Nabaaha ABDUL RAZZAQ']","['[IND] ', '[IND] ', '[MDV] ', '[MDV] ']","['21-17', '21-12']",WD ,20180607
-115,"['Giap Chin GOH [2]', 'AUNG MYO Htoo']","['[MAS] ', '[MYA] ']","['21-15', '21-12']",MS ,20180607
-116,"['Letshanaa A. KARUPATHEVAN', 'Katerina TOMALOVA [1]']","['[MAS] ', '[CZE] ']","['21-15', '21-10']",WS ,20180607
-117,"['Daniel GRASSMUCK [2]', 'Roman ZIRNWALD', 'Yong Chai NG', 'Kai Wun TEE']","['[AUT] ', '[AUT] ', '[MAS] ', '[MAS] ']","['21-16', '12-21', '21-14']",MD ,20180607
-118,"['Georges Julien PAUL [1]', 'Aurelie Marie Elisa ALLET', 'Sarim MOHAMED', 'Moosa Aminath SHAHURUNAZ']","['[MRI] ', '[MRI] ', '[MDV] ', '[MDV] ']","['21-14', '21-6']",XD ,20180607
+,PLAYERS,COUNTRIES,SCORES,EVENT,match_week,match_location
+0,"['Bertrand Marimoutou', 'Kaviraj Sookuram']","['[REU] ', '[MRI] ']","['21-18', '21-17']",MS - Qualification,20180607,"Rose Hill, Mauritius"
+1,"['Ved Callychurn', 'Anish Tauckoory']","['[MRI] ', '[MRI] ']","['21-7', '21-16']",MS - Qualification,20180607,"Rose Hill, Mauritius"
+2,"['Abhay Chandra Russom', 'Raul Teeluck']","['[MRI] ', '[MRI] ']","['21-19', '21-16']",MS - Qualification,20180607,"Rose Hill, Mauritius"
+3,"['Thoif Ahmed Mohamed', 'Sadashayanand Dumree']","['[MDV] ', '[MRI] ']","['21-14', '21-12']",MS - Qualification,20180607,"Rose Hill, Mauritius"
+4,"['Kaustubh Rawat', 'Vincent Koo']","['[IND] ', '[MRI] ']","['21-2', '21-15']",MS - Qualification,20180607,"Rose Hill, Mauritius"
+5,"['Jibran Aubeeluck', 'Mutombo Tshizanga']","['[MRI] ', '[COD] ']",[],MS - Qualification,20180607,"Rose Hill, Mauritius"
+6,"['Kai Wun Tee', 'Vimal Choolun']","['[MAS] ', '[MRI] ']","['21-7', '21-8']",MS - Qualification,20180607,"Rose Hill, Mauritius"
+7,"['Yi Xin Chew', 'Bhavish Duttoo']","['[MAS] ', '[MRI] ']","['21-2', '21-3']",MS - Qualification,20180607,"Rose Hill, Mauritius"
+8,"['Kesaven Veerapen', 'Abdul Zaheer Beebeejaun [7]']","['[MRI] ', '[MRI] ']","['21-13', '21-17']",MS - Qualification,20180607,"Rose Hill, Mauritius"
+9,"['Janess Rujkoomar', 'Abdul Zeeshan Beebeejaun [4]']","['[MRI] ', '[MRI] ']","['21-7', '21-8']",MS - Qualification,20180607,"Rose Hill, Mauritius"
+10,"['Giresh Kumar Rampersand [6]', 'M Subdurally']","['[MRI] ', '[MRI] ']","['21-13', '21-10']",MS - Qualification,20180607,"Rose Hill, Mauritius"
+11,"['Khemtish Nundah', 'Faadil Sayed [5]']","['[MRI] ', '[MRI] ']","['22-20', '17-21', '21-15']",MS - Qualification,20180607,"Rose Hill, Mauritius"
+12,"['Wee Peng Sim [3]', 'Gary-Clark Lim Hing Teng']","['[MAS] ', '[MRI] ']","['21-10', '21-6']",MS - Qualification,20180607,"Rose Hill, Mauritius"
+13,"['Girish Roy Heeramun', 'Ravin Anthi-Iya [8]']","['[MRI] ', '[MRI] ']","['21-12', '21-16']",MS - Qualification,20180607,"Rose Hill, Mauritius"
+14,"['Tamesh Dookhee [2]', 'Yajnesh Anand Changea']","['[MRI] ', '[MRI] ']","['21-8', '21-18']",MS - Qualification,20180607,"Rose Hill, Mauritius"
+15,"['Nevin Lufor [1]', 'Dharish Gyandin']","['[MRI] ', '[MRI] ']","['21-10', '21-11']",MS - Qualification,20180607,"Rose Hill, Mauritius"
+16,"['Sandesh Gondary', 'Bertrand Marimoutou']","['[MRI] ', '[REU] ']","['9-21', '21-18', '21-14']",MS - Qualification,20180607,"Rose Hill, Mauritius"
+17,"['Jason Francois', 'Ved Callychurn']","['[MRI] ', '[MRI] ']","['21-7', '20-22', '21-16']",MS - Qualification,20180607,"Rose Hill, Mauritius"
+18,"['Darel Sophie', 'Abhay Chandra Russom']","['[MRI] ', '[MRI] ']","['20-22', '21-18', '21-16']",MS - Qualification,20180607,"Rose Hill, Mauritius"
+19,"['Thoif Ahmed Mohamed', 'Jamsheed Brochier']","['[MDV] ', '[MRI] ']","['21-9', '18-21', '21-9']",MS - Qualification,20180607,"Rose Hill, Mauritius"
+20,"['Kaustubh Rawat', 'Ashneel Dabee']","['[IND] ', '[MRI] ']","['21-2', '21-5']",MS - Qualification,20180607,"Rose Hill, Mauritius"
+21,"['Reetesh Chandrakanth Dooleea', 'Jibran Aubeeluck']","['[MRI] ', '[MRI] ']","['21-8', '21-6']",MS - Qualification,20180607,"Rose Hill, Mauritius"
+22,"['Kai Wun Tee', 'Jean-Luc Jafarally']","['[MAS] ', '[MRI] ']","['21-10', '21-11']",MS - Qualification,20180607,"Rose Hill, Mauritius"
+23,"['Yi Xin Chew', 'Harshil Gobin']","['[MAS] ', '[MRI] ']","['21-6', '21-6']",MS - Qualification,20180607,"Rose Hill, Mauritius"
+24,"['Georges Julien Paul [1]', 'Mohamed Ajfan Rasheed']","['[MRI] ', '[MDV] ']","['21-17', '21-18']",MS,20180607,"Rose Hill, Mauritius"
+25,"['Collins Valentine Filimon [5]', 'Tejraj Pultoo']","['[ROU] ', '[MRI] ']","['21-11', '21-11']",MS,20180607,"Rose Hill, Mauritius"
+26,"['Aung Myo Htoo', 'Mevan Dewoo']","['[MYA] ', '[MRI] ']","['21-9', '21-13']",MS,20180607,"Rose Hill, Mauritius"
+27,"['Ahmed Nibal', 'Soobhan Ajmeer']","['[MDV] ', '[MRI] ']","['21-10', '21-13']",MS,20180607,"Rose Hill, Mauritius"
+28,"['Sai Wuu Phet @ Sai Lin Tun Aung', 'Thierry Bellepeau']","['[MYA] ', '[MRI] ']","['21-12', '21-10']",MS,20180607,"Rose Hill, Mauritius"
+29,"['Niels Veenstra', 'Melvin Appiah [8]']","['[NED] ', '[MRI] ']","['22-20', '21-18']",MS,20180607,"Rose Hill, Mauritius"
+30,"['Khabir Teeluck', 'Sarim Mohamed']","['[MRI] ', '[MDV] ']","['21-11', '21-15']",MS,20180607,"Rose Hill, Mauritius"
+31,"['Mathias Pedersen', 'Bahaedeen Ahmad Alshannik [3]']","['[DEN] ', '[JOR] ']",[],MS,20180607,"Rose Hill, Mauritius"
+32,"['Sandesh Gondary', 'Nevin Lufor [1]']","['[MRI] ', '[MRI] ']","['21-15', '21-17']",MS - Qualification,20180607,"Rose Hill, Mauritius"
+33,"['Jason Francois', 'Kesaven Veerapen']","['[MRI] ', '[MRI] ']","['24-22', '21-9']",MS - Qualification,20180607,"Rose Hill, Mauritius"
+34,"['Darel Sophie', 'Janess Rujkoomar']","['[MRI] ', '[MRI] ']","['21-15', '15-21', '21-14']",MS - Qualification,20180607,"Rose Hill, Mauritius"
+35,"['Thoif Ahmed Mohamed', 'Giresh Kumar Rampersand [6]']","['[MDV] ', '[MRI] ']","['22-20', '11-21', '21-13']",MS - Qualification,20180607,"Rose Hill, Mauritius"
+36,"['Kaustubh Rawat', 'Khemtish Nundah']","['[IND] ', '[MRI] ']","['21-13', '21-7']",MS - Qualification,20180607,"Rose Hill, Mauritius"
+37,"['Wee Peng Sim [3]', 'Reetesh Chandrakanth Dooleea']","['[MAS] ', '[MRI] ']","['21-13', '21-14']",MS - Qualification,20180607,"Rose Hill, Mauritius"
+38,"['Kai Wun Tee', 'Girish Roy Heeramun']","['[MAS] ', '[MRI] ']","['21-8', '21-13']",MS - Qualification,20180607,"Rose Hill, Mauritius"
+39,"['Yi Xin Chew', 'Tamesh Dookhee [2]']","['[MAS] ', '[MRI] ']","['21-9', '21-8']",MS - Qualification,20180607,"Rose Hill, Mauritius"
+40,"['Jhotiswaran Karupathevan', 'Mathias Pedersen', 'Soobhan Ajmeer', 'M Subdurally']","['[MAS] ', '[DEN] ', '[MRI] ', '[MRI] ']","['21-11', '21-8']",MD,20180607,"Rose Hill, Mauritius"
+41,"['Yong Chai Ng', 'Kai Wun Tee', 'Ashneel Dabee', 'Dharish Gyandin']","['[MAS] ', '[MAS] ', '[MRI] ', '[MRI] ']","['21-5', '21-10']",MD,20180607,"Rose Hill, Mauritius"
+42,"['Thoif Ahmed Mohamed', 'Mohamed Ajfan Rasheed', 'Yudish Yogeshwar Heeramun', 'Gary-Clark Lim Hing Teng']","['[MDV] ', '[MDV] ', '[MRI] ', '[MRI] ']","['21-17', '21-9']",MD,20180607,"Rose Hill, Mauritius"
+43,"['Jibran Aubeeluck', 'Ved Callychurn', 'Dimand Ja Okito', 'Mutombo Tshizanga']","['[MRI] ', '[MRI] ', '[COD] ', '[COD] ']",[],MD,20180607,"Rose Hill, Mauritius"
+44,"['Swarnaraj Bora', 'Kaustubh Rawat', 'Jason Francois', 'Khemtish Nundah']","['[IND] ', '[IND] ', '[MRI] ', '[MRI] ']","['21-11', '21-5']",MD,20180607,"Rose Hill, Mauritius"
+45,"['Sahir Abdool Edoo', 'Saheer Ramrakha', 'Reetesh Chandrakanth Dooleea', 'Kaviraj Sookuram']","['[MRI] ', '[MRI] ', '[MRI] ', '[MRI] ']","['21-14', '25-23']",MD,20180607,"Rose Hill, Mauritius"
+46,"['Mevan Dewoo', 'Darel Sophie', 'Harshil Gobin', 'Sandesh Gondary']","['[MRI] ', '[MRI] ', '[MRI] ', '[MRI] ']","['21-15', '21-12']",MD,20180607,"Rose Hill, Mauritius"
+47,"['Sarim Mohamed', 'Ahmed Nibal', 'Ravin Anthi-Iya', 'Faadil Sayed']","['[MDV] ', '[MDV] ', '[MRI] ', '[MRI] ']","['21-11', '21-16']",MD,20180607,"Rose Hill, Mauritius"
+48,"['Tamesh Dookhee', 'Giresh Kumar Rampersand', 'Jamsheed Brochier', 'Sadashayanand Dumree']","['[MRI] ', '[MRI] ', '[MRI] ', '[MRI] ']","['21-12', '12-21', '23-21']",MD,20180607,"Rose Hill, Mauritius"
+49,"['Darel Sophie', 'Huzair Asraaf Ali Bhuttoo']","['[MRI] ', '[MRI] ']","['21-16', '21-18']",MS,20180607,"Rose Hill, Mauritius"
+50,"['Jason Francois', 'Soogun Z']","['[MRI] ', '[MRI] ']","['21-19', '12-21', '21-8']",MS,20180607,"Rose Hill, Mauritius"
+51,"['Wee Peng Sim', 'Christopher Paul [6]']","['[MAS] ', '[MRI] ']","['21-16', '21-9']",MS,20180607,"Rose Hill, Mauritius"
+52,"['Jhotiswaran Karupathevan', 'Thoif Ahmed Mohamed']","['[MAS] ', '[MDV] ']","['21-6', '21-14']",MS,20180607,"Rose Hill, Mauritius"
+53,"['Kai Wun Tee', 'Swarnaraj Bora [7]']","['[MAS] ', '[IND] ']","['15-21', '24-22', '21-15']",MS,20180607,"Rose Hill, Mauritius"
+54,"['Sandesh Gondary', 'Aatish Lubah [4]']","['[MRI] ', '[MRI] ']",[],MS,20180607,"Rose Hill, Mauritius"
+55,"['Yi Xin Chew', 'Jean Bernard Bongout']","['[MAS] ', '[MRI] ']","['21-17', '21-16']",MS,20180607,"Rose Hill, Mauritius"
+56,"['Giap Chin Goh [2]', 'Kaustubh Rawat']","['[MAS] ', '[IND] ']","['21-9', '21-12']",MS,20180607,"Rose Hill, Mauritius"
+57,"['Ritika Thaker', 'Sendila Mourat']","['[IND] ', '[MRI] ']","['21-9', '21-5']",WS,20180607,"Rose Hill, Mauritius"
+58,"['Moosa Aminath Shahurunaz', 'Poshita Luchoomun']","['[MDV] ', '[MRI] ']","['21-4', '21-5']",WS,20180607,"Rose Hill, Mauritius"
+59,"['Letshanaa A. Karupathevan', 'Dorothy Rousseau']","['[MAS] ', '[MRI] ']","['21-5', '21-3']",WS,20180607,"Rose Hill, Mauritius"
+60,"['Georges Julien Paul [1]', 'Darel Sophie']","['[MRI] ', '[MRI] ']","['21-11', '21-10']",MS,20180607,"Rose Hill, Mauritius"
+61,"['Collins Valentine Filimon [5]', 'Jason Francois']","['[ROU] ', '[MRI] ']","['21-5', '21-3']",MS,20180607,"Rose Hill, Mauritius"
+62,"['Aung Myo Htoo', 'Mathias Pedersen']","['[MYA] ', '[DEN] ']","['21-14', '21-11']",MS,20180607,"Rose Hill, Mauritius"
+63,"['Jhotiswaran Karupathevan', 'Wee Peng Sim']","['[MAS] ', '[MAS] ']","['21-16', '21-17']",MS,20180607,"Rose Hill, Mauritius"
+64,"['Kai Wun Tee', 'Ahmed Nibal']","['[MAS] ', '[MDV] ']","['21-10', '21-9']",MS,20180607,"Rose Hill, Mauritius"
+65,"['Sai Wuu Phet @ Sai Lin Tun Aung', 'Sandesh Gondary']","['[MYA] ', '[MRI] ']","['21-2', '21-11']",MS,20180607,"Rose Hill, Mauritius"
+66,"['Yi Xin Chew', 'Niels Veenstra']","['[MAS] ', '[NED] ']","['21-11', '21-13']",MS,20180607,"Rose Hill, Mauritius"
+67,"['Giap Chin Goh [2]', 'Khabir Teeluck']","['[MAS] ', '[MRI] ']","['21-1', '21-4']",MS,20180607,"Rose Hill, Mauritius"
+68,"['Katerina Tomalova [1]', 'Jemimah Leug For Sang']","['[CZE] ', '[MRI] ']","['21-4', '21-2']",WS,20180607,"Rose Hill, Mauritius"
+69,"['Ritika Thaker', 'Vilina Appiah']","['[IND] ', '[MRI] ']","['21-7', '21-11']",WS,20180607,"Rose Hill, Mauritius"
+70,"['Aurelie Marie Elisa Allet [3]', 'Katambua Odia']","['[MRI] ', '[COD] ']",[],WS,20180607,"Rose Hill, Mauritius"
+71,"['Moosa Aminath Shahurunaz', 'Jeisha Chiniah']","['[MDV] ', '[MRI] ']","['21-10', '21-5']",WS,20180607,"Rose Hill, Mauritius"
+72,"['Letshanaa A. Karupathevan', 'Mandira Lubah']","['[MAS] ', '[MRI] ']","['21-3', '21-6']",WS,20180607,"Rose Hill, Mauritius"
+73,"['Ganesha Mungrah', 'Fathimath Nabaaha Abdul Razzaq [4]']","['[MRI] ', '[MDV] ']","['22-20', '17-21', '21-19']",WS,20180607,"Rose Hill, Mauritius"
+74,"['Simran Singhi', 'Aminath Nabeeha Abdul Razzaq']","['[IND] ', '[MDV] ']","['21-10', '21-10']",WS,20180607,"Rose Hill, Mauritius"
+75,"['Thet Htar Thuzar [2]', 'Kritisha Mungrah']","['[MYA] ', '[MRI] ']","['21-2', '21-4']",WS,20180607,"Rose Hill, Mauritius"
+76,"['Jhotiswaran Karupathevan', 'Mathias Pedersen', 'Melvin Appiah [1]', 'Tejraj Pultoo']","['[MAS] ', '[DEN] ', '[MRI] ', '[MRI] ']","['21-16', '17-21', '21-18']",MD,20180607,"Rose Hill, Mauritius"
+77,"['Yong Chai Ng', 'Kai Wun Tee', 'Thierry Bellepeau', 'Vimal Choolun']","['[MAS] ', '[MAS] ', '[MRI] ', '[MRI] ']","['21-13', '21-12']",MD,20180607,"Rose Hill, Mauritius"
+78,"['Thoif Ahmed Mohamed', 'Mohamed Ajfan Rasheed', 'Nevin Lufor [3]', 'Kesaven Veerapen']","['[MDV] ', '[MDV] ', '[MRI] ', '[MRI] ']","['21-12', '21-8']",MD,20180607,"Rose Hill, Mauritius"
+79,"['Jibran Aubeeluck', 'Ved Callychurn', 'Aatish Lubah', 'Christopher Paul']","['[MRI] ', '[MRI] ', '[MRI] ', '[MRI] ']",[],MD,20180607,"Rose Hill, Mauritius"
+80,"['Swarnaraj Bora', 'Kaustubh Rawat', 'Sahir Abdool Edoo', 'Saheer Ramrakha']","['[IND] ', '[IND] ', '[MRI] ', '[MRI] ']","['21-16', '21-15']",MD,20180607,"Rose Hill, Mauritius"
+81,"['Jean Bernard Bongout [3]', 'Khabir Teeluck', 'Mevan Dewoo', 'Darel Sophie']","['[MRI] ', '[MRI] ', '[MRI] ', '[MRI] ']","['21-14', '18-21', '21-11']",MD,20180607,"Rose Hill, Mauritius"
+82,"['Sarim Mohamed', 'Ahmed Nibal', 'Huzair Asraaf Ali Bhuttoo', 'Soogun Z']","['[MDV] ', '[MDV] ', '[MRI] ', '[MRI] ']","['21-17', '21-12']",MD,20180607,"Rose Hill, Mauritius"
+83,"['Daniel Grassmuck [2]', 'Roman Zirnwald', 'Tamesh Dookhee', 'Giresh Kumar Rampersand']","['[AUT] ', '[AUT] ', '[MRI] ', '[MRI] ']","['21-17', '21-8']",MD,20180607,"Rose Hill, Mauritius"
+84,"['Abhay Chandra Russom', 'Sendila Mourat', 'Mutombo Tshizanga', 'Mbuyi Bernice Bokotsha']","['[MRI] ', '[MRI] ', '[COD] ', '[COD] ']",[],XD,20180607,"Rose Hill, Mauritius"
+85,"['Thoif Ahmed Mohamed', 'Aminath Nabeeha Abdul Razzaq', 'Sandesh Gondary', 'Mandira Lubah']","['[MDV] ', '[MDV] ', '[MRI] ', '[MRI] ']","['21-13', '21-10']",XD,20180607,"Rose Hill, Mauritius"
+86,"['Khabir Teeluck', 'Ganesha Mungrah', 'Ravin Anthi-Iya', 'Dorothy Rousseau']","['[MRI] ', '[MRI] ', '[MRI] ', '[MRI] ']","['21-9', '21-14']",XD,20180607,"Rose Hill, Mauritius"
+87,"['Sarim Mohamed', 'Moosa Aminath Shahurunaz', 'Melvin Appiah', 'Vilina Appiah']","['[MDV] ', '[MDV] ', '[MRI] ', '[MRI] ']","['27-25', '21-17']",XD,20180607,"Rose Hill, Mauritius"
+88,"['Letshanaa A. Karupathevan', 'Ganesha Mungrah']","['[MAS] ', '[MRI] ']","['21-9', '21-5']",WS ,20180607,"Rose Hill, Mauritius"
+89,"['Aung Myo Htoo', 'Jhotiswaran Karupathevan']","['[MYA] ', '[MAS] ']","['22-20', '21-11']",MS ,20180607,"Rose Hill, Mauritius"
+90,"['Khabir Teeluck', 'Ganesha Mungrah', 'Ashneel Dabee', 'Cindy Soobramanien']","['[MRI] ', '[MRI] ', '[MRI] ', '[MRI] ']","['21-10', '21-10']",XD ,20180607,"Rose Hill, Mauritius"
+91,"['Thoif Ahmed Mohamed', 'Mohamed Ajfan Rasheed', 'Jibran Aubeeluck', 'Ved Callychurn']","['[MDV] ', '[MDV] ', '[MRI] ', '[MRI] ']","['21-11', '21-9']",MD ,20180607,"Rose Hill, Mauritius"
+92,"['Aurelie Marie Elisa Allet [3]', 'Moosa Aminath Shahurunaz']","['[MRI] ', '[MDV] ']","['21-12', '21-13']",WS ,20180607,"Rose Hill, Mauritius"
+93,"['Thet Htar Thuzar [2]', 'Simran Singhi']","['[MYA] ', '[IND] ']","['14-21', '21-11', '21-15']",WS ,20180607,"Rose Hill, Mauritius"
+94,"['Sarim Mohamed', 'Moosa Aminath Shahurunaz', 'Jean Bernard Bongout [2]', 'Jemimah Leug For Sang']","['[MDV] ', '[MDV] ', '[MRI] ', '[MRI] ']","['21-17', '23-21']",XD ,20180607,"Rose Hill, Mauritius"
+95,"['Georges Julien Paul [1]', 'Aurelie Marie Elisa Allet', 'Abhay Chandra Russom', 'Sendila Mourat']","['[MRI] ', '[MRI] ', '[MRI] ', '[MRI] ']","['21-8', '21-14']",XD ,20180607,"Rose Hill, Mauritius"
+96,"['Swarnaraj Bora', 'Kaustubh Rawat', 'Jean Bernard Bongout [3]', 'Khabir Teeluck']","['[IND] ', '[IND] ', '[MRI] ', '[MRI] ']","['21-14', '21-7']",MD ,20180607,"Rose Hill, Mauritius"
+97,"['Giap Chin Goh [2]', 'Kai Wun Tee']","['[MAS] ', '[MAS] ']","['21-18', '21-11']",MS ,20180607,"Rose Hill, Mauritius"
+98,"['Katerina Tomalova [1]', 'Aurelie Marie Elisa Allet [3]']","['[CZE] ', '[MRI] ']","['21-8', '21-7']",WS ,20180607,"Rose Hill, Mauritius"
+99,"['Yong Chai Ng', 'Kai Wun Tee', 'Thoif Ahmed Mohamed', 'Mohamed Ajfan Rasheed']","['[MAS] ', '[MAS] ', '[MDV] ', '[MDV] ']","['21-11', '21-16']",MD ,20180607,"Rose Hill, Mauritius"
+100,"['Aminath Nabeeha Abdul Razzaq [1]', 'Fathimath Nabaaha Abdul Razzaq', 'Jemimah Leug For Sang', 'Ganesha Mungrah']","['[MDV] ', '[MDV] ', '[MRI] ', '[MRI] ']","['21-18', '14-21', '21-8']",WD ,20180607,"Rose Hill, Mauritius"
+101,"['Sarim Mohamed', 'Moosa Aminath Shahurunaz', 'Khabir Teeluck', 'Ganesha Mungrah']","['[MDV] ', '[MDV] ', '[MRI] ', '[MRI] ']","['21-14', '21-16']",XD ,20180607,"Rose Hill, Mauritius"
+102,"['Georges Julien Paul [1]', 'Collins Valentine Filimon [5]']","['[MRI] ', '[ROU] ']","['21-13', '21-12']",MS ,20180607,"Rose Hill, Mauritius"
+103,"['Thoif Ahmed Mohamed', 'Aminath Nabeeha Abdul Razzaq', 'Tejraj Pultoo', 'Kritisha Mungrah']","['[MDV] ', '[MDV] ', '[MRI] ', '[MRI] ']","['15-21', '21-18', '21-15']",XD ,20180607,"Rose Hill, Mauritius"
+104,"['Katerina Tomalova [1]', 'Ritika Thaker']","['[CZE] ', '[IND] ']","['15-21', '21-18', '21-16']",WS ,20180607,"Rose Hill, Mauritius"
+105,"['Yong Chai Ng', 'Kai Wun Tee', 'Jhotiswaran Karupathevan', 'Mathias Pedersen']","['[MAS] ', '[MAS] ', '[MAS] ', '[DEN] ']","['21-15', '21-13']",MD ,20180607,"Rose Hill, Mauritius"
+106,"['Daniel Grassmuck [2]', 'Roman Zirnwald', 'Sarim Mohamed', 'Ahmed Nibal']","['[AUT] ', '[AUT] ', '[MDV] ', '[MDV] ']","['21-8', '21-11']",MD ,20180607,"Rose Hill, Mauritius"
+107,"['Aung Myo Htoo', 'Georges Julien Paul [1]']","['[MYA] ', '[MRI] ']","['21-16', '18-21', '21-15']",MS ,20180607,"Rose Hill, Mauritius"
+108,"['Letshanaa A. Karupathevan', 'Thet Htar Thuzar [2]']","['[MAS] ', '[MYA] ']","['21-13', '21-23', '21-12']",WS ,20180607,"Rose Hill, Mauritius"
+109,"['Daniel Grassmuck [2]', 'Roman Zirnwald', 'Swarnaraj Bora', 'Kaustubh Rawat']","['[AUT] ', '[AUT] ', '[IND] ', '[IND] ']","['14-21', '21-16', '21-14']",MD ,20180607,"Rose Hill, Mauritius"
+110,"['Simran Singhi [2]', 'Ritika Thaker', 'Vilina Appiah', 'Mandira Lubah']","['[IND] ', '[IND] ', '[MRI] ', '[MRI] ']","['21-11', '21-4']",WD ,20180607,"Rose Hill, Mauritius"
+111,"['Georges Julien Paul [1]', 'Aurelie Marie Elisa Allet', 'Thoif Ahmed Mohamed', 'Aminath Nabeeha Abdul Razzaq']","['[MRI] ', '[MRI] ', '[MDV] ', '[MDV] ']","['21-14', '21-18']",XD ,20180607,"Rose Hill, Mauritius"
+112,"['Kai Wun Tee', 'Sai Wuu Phet @ Sai Lin Tun Aung']","['[MAS] ', '[MYA] ']","['21-13', '21-15']",MS ,20180607,"Rose Hill, Mauritius"
+113,"['Giap Chin Goh [2]', 'Yi Xin Chew']","['[MAS] ', '[MAS] ']","['21-14', '21-13']",MS ,20180607,"Rose Hill, Mauritius"
+114,"['Simran Singhi [2]', 'Ritika Thaker', 'Aminath Nabeeha Abdul Razzaq [1]', 'Fathimath Nabaaha Abdul Razzaq']","['[IND] ', '[IND] ', '[MDV] ', '[MDV] ']","['21-17', '21-12']",WD ,20180607,"Rose Hill, Mauritius"
+115,"['Giap Chin Goh [2]', 'Aung Myo Htoo']","['[MAS] ', '[MYA] ']","['21-15', '21-12']",MS ,20180607,"Rose Hill, Mauritius"
+116,"['Letshanaa A. Karupathevan', 'Katerina Tomalova [1]']","['[MAS] ', '[CZE] ']","['21-15', '21-10']",WS ,20180607,"Rose Hill, Mauritius"
+117,"['Daniel Grassmuck [2]', 'Roman Zirnwald', 'Yong Chai Ng', 'Kai Wun Tee']","['[AUT] ', '[AUT] ', '[MAS] ', '[MAS] ']","['21-16', '12-21', '21-14']",MD ,20180607,"Rose Hill, Mauritius"
+118,"['Georges Julien Paul [1]', 'Aurelie Marie Elisa Allet', 'Sarim Mohamed', 'Moosa Aminath Shahurunaz']","['[MRI] ', '[MRI] ', '[MDV] ', '[MDV] ']","['21-14', '21-6']",XD ,20180607,"Rose Hill, Mauritius"

@@ -1,229 +1,229 @@
-,PLAYERS,COUNTRIES,SCORES,EVENT,match_week
-0,"['Brittney Tam [1]', 'Jamie Hsu']","['[CAN] ', '[USA] ']","['19-21', '21-15', '21-15']",WS - Qualification,20170711
-1,"['Bao Thien Vo', 'Phillipe Charron']","['[CAN] ', '[CAN] ']","['21-11', '21-16']",MS - Qualification,20170711
-2,"['Kento Momota', 'Graydon Robb']","['[JPN] ', '[CAN] ']","['21-12', '21-8']",MS - Qualification,20170711
-3,"['Redy Perdana', 'Joshua Liu']","['[INA] ', '[CAN] ']","['21-14', '21-10']",MS - Qualification,20170711
-4,"['Sean Vendy', 'Sarah Walker', 'Ty Alexander Lindeman', 'Josephine Wu']","['[ENG] ', '[ENG] ', '[CAN] ', '[CAN] ']","['21-14', '21-11']",XD - Qualification,20170711
-5,"['Brian Yang', '. Siswanto']","['[CAN] ', '[INA] ']","['21-18', '9-21', '21-15']",MS - Qualification,20170711
-6,"['Samia Lima', 'Disha Gupta [3]']","['[BRA] ', '[USA] ']","['10-21', '21-13', '21-12']",WS - Qualification,20170711
-7,"['Johnathan Akin-Mulrooney', 'Grimaldy Navirio Gunawan']","['[CAN] ', '[USA] ']","['21-12', '21-5']",MS - Qualification,20170711
-8,"['Ines Castillo', 'Paula La Torre Regal']","['[PER] ', '[PER] ']","['21-17', '23-21']",WS - Qualification,20170711
-9,"['Sarita Suwannakitborihan', 'Thu Huyen Le']","['[THA] ', '[VIE] ']","['21-16', '21-11']",WS - Qualification,20170711
-10,"['Ronja Stern [4]', 'Mariana Ugalde']","['[SUI] ', '[MEX] ']","['17-21', '21-15', '21-19']",WS - Qualification,20170711
-11,"['Joo I Jeon', 'Olivia (Li) Lei']","['[KOR] ', '[CAN] ']","['15-21', '21-15', '21-19']",WS - Qualification,20170711
-12,"['Alexander Dunn', ""Eleanor O'Donnell"", 'Adrian Liu', 'Kristen Tsai']","['[SCO] ', '[SCO] ', '[CAN] ', '[CAN] ']","['21-18', '21-19']",XD - Qualification,20170711
-13,"['Kohei Gondo', 'Wakana Nagahara', 'B. R. Sankeerth [4]', 'Chloe Rowe']","['[JPN] ', '[JPN] ', '[CAN] ', '[CAN] ']","['21-10', '21-11']",XD - Qualification,20170711
-14,"['Rachel Honderich', 'Michelle Li', 'Kuei-Ya Chen', 'Jamie Hsu']","['[CAN] ', '[CAN] ', '[USA] ', '[USA] ']","['21-15', '21-8']",WD - Qualification,20170711
-15,"['Rira Kawashima', 'Jaqueline Lima']","['[JPN] ', '[BRA] ']","['21-15', '21-14']",WS - Qualification,20170711
-16,"['Job Castillo', 'Lino Munoz', 'Graydon Robb', 'Imran Wadia']","['[MEX] ', '[MEX] ', '[CAN] ', '[CAN] ']","['21-12', '21-13']",MD - Qualification,20170711
-17,"['Hyuk Gyun Choi', 'Park Kyung Hoon', 'Joshua Liu', 'Bao Thien Vo']","['[KOR] ', '[KOR] ', '[CAN] ', '[CAN] ']","['21-12', '21-16']",MD - Qualification,20170711
-18,"['Richard Eidestedt', 'Clara Nistad', '. Siswanto', 'Maria Febe Kusumastuti']","['[SWE] ', '[SWE] ', '[INA] ', '[INA] ']","['21-15', '21-13']",XD - Qualification,20170711
-19,"['Zvonimir Durkinjak', 'Beiwen Zhang', 'Jonathan Bing Tsan Lai', 'Michelle Tong']","['[CRO] ', '[USA] ', '[CAN] ', '[CAN] ']","['21-7', '24-22']",XD - Qualification,20170711
-20,"['Cara Debelle', 'Sarah Gale', 'Maya Chen', 'Disha Gupta']","['[CAN] ', '[CAN] ', '[USA] ', '[USA] ']","['21-14', '14-21', '21-11']",WD - Qualification,20170711
-21,"['Putra Eka Rhoma', 'Brian Yang', 'Dong Adam (Xingyu) [2]', 'David (Bonan) Wu']","['[INA] ', '[CAN] ', '[CAN] ', '[CAN] ']","['17-21', '21-11', '21-19']",MD - Qualification,20170711
-22,"['Brian Yang', 'Sattawat Pongnairat [3]']","['[CAN] ', '[USA] ']",[],MS - Qualification,20170711
-23,"['Sattawat Pongnairat', 'Kuei-Ya Chen', 'Duc Phat Le', 'Thi Sen Nguyen']","['[USA] ', '[USA] ', '[VIE] ', '[VIE] ']","['21-19', '21-13']",XD - Qualification,20170711
-24,"['Kento Momota', 'Ty Alexander Lindeman']","['[JPN] ', '[CAN] ']","['21-7', '21-13']",MS - Qualification,20170711
-25,"['Daniela Macias', 'Maya Chen [2]']","['[PER] ', '[USA] ']","['21-17', '18-21', '21-19']",WS - Qualification,20170711
-26,"['Brittney Tam [1]', 'Ines Castillo']","['[CAN] ', '[PER] ']","['21-6', '21-6']",WS - Qualification,20170711
-27,"['Austin James Bauer', 'Cara Debelle', 'Grimaldy Navirio Gunawan', 'Carissa Chung']","['[CAN] ', '[CAN] ', '[USA] ', '[USA] ']","['21-14', '21-6']",XD - Qualification,20170711
-28,"['Sarita Suwannakitborihan', 'Samia Lima']","['[THA] ', '[BRA] ']","['21-12', '21-12']",WS - Qualification,20170711
-29,"['Rohan Kapoor', 'Kuhoo Garg', 'David (Bonan) Wu', 'Kay Xiaoxuan Shi']","['[IND] ', '[IND] ', '[CAN] ', '[CAN] ']","['21-13', '21-13']",XD - Qualification,20170711
-30,"['Ronja Stern [4]', 'Rira Kawashima']","['[SUI] ', '[JPN] ']","['12-21', '23-21', '21-17']",WS - Qualification,20170711
-31,"['Bao Thien Vo', 'Kyle Golding']","['[CAN] ', '[CAN] ']","['21-19', '21-17']",MS - Qualification,20170711
-32,"['Job Castillo', 'Lino Munoz', 'Musashi Cohn', 'Dean Schoppe']","['[MEX] ', '[MEX] ', '[USA] ', '[USA] ']","['21-3', '21-7']",MD - Qualification,20170711
-33,"['Jessie (Jie) Chen', 'Kay Xiaoxuan Shi', 'Cara Debelle', 'Sarah Gale']","['[CAN] ', '[CAN] ', '[CAN] ', '[CAN] ']","['21-8', '21-9']",WD - Qualification,20170711
-34,"['Rachel Honderich', 'Michelle Li', 'Maria Febe Kusumastuti', 'Chloe Rowe']","['[CAN] ', '[CAN] ', '[INA] ', '[CAN] ']","['21-15', '21-14']",WD - Qualification,20170711
-35,"['Zvonimir Durkinjak', 'Beiwen Zhang', 'Sean Vendy', 'Sarah Walker']","['[CRO] ', '[USA] ', '[ENG] ', '[ENG] ']","['21-16', '21-13']",XD - Qualification,20170711
-36,"['Hyuk Gyun Choi', 'Park Kyung Hoon', 'Phillipe Charron', 'Duncan Yao']","['[KOR] ', '[KOR] ', '[CAN] ', '[CAN] ']","['21-14', '21-15']",MD - Qualification,20170711
-37,"['Alexander Dunn', ""Eleanor O'Donnell"", 'Sattawat Pongnairat', 'Kuei-Ya Chen']","['[SCO] ', '[SCO] ', '[USA] ', '[USA] ']","['24-22', '21-17']",XD - Qualification,20170711
-38,"['Richard Eidestedt', 'Clara Nistad', 'Austin James Bauer', 'Cara Debelle']","['[SWE] ', '[SWE] ', '[CAN] ', '[CAN] ']","['21-14', '21-15']",XD - Qualification,20170711
-39,"['Joo I Jeon', 'Daniela Macias']","['[KOR] ', '[PER] ']","['21-5', '21-10']",WS - Qualification,20170711
-40,"['Kohei Gondo', 'Wakana Nagahara', 'Rohan Kapoor', 'Kuhoo Garg']","['[JPN] ', '[JPN] ', '[IND] ', '[IND] ']","['21-19', '21-7']",XD - Qualification,20170711
-41,"['Lee Hyun Il [1]', 'Hashiru Shimono']","['[KOR] ', '[JPN] ']","['21-9', '21-11']",MS,20170711
-42,"['Lakhanee Sarang', 'Eugene Chan']","['[IND] ', '[CAN] ']","['21-9', '17-21', '21-7']",MS,20170711
-43,"['Lucas Corvee [11]', 'Harsheel Dani']","['[FRA] ', '[IND] ']","['21-11', '21-7']",MS,20170711
-44,"['Huang Guoxing', 'Luka Wraber']","['[CAN] ', '[AUT] ']","['14-21', '21-16', '21-14']",MS,20170711
-45,"['Ygor Coelho [7]', 'Sattawat Pongnairat']","['[BRA] ', '[USA] ']","['21-11', '21-19']",MS,20170711
-46,"['Karan Rajan Rajarajan', 'Zvonimir Durkinjak']","['[IND] ', '[CRO] ']","['13-21', '21-10', '21-13']",MS,20170711
-47,"['Sam Parsons', 'Kevin Lee']","['[ENG] ', '[CAN] ']","['21-17', '21-10']",MS,20170711
-48,"['Joshua Magee', 'Luke Couture']","['[IRL] ', '[CAN] ']","['21-11', '21-13']",MS,20170711
-49,"['Parupalli Kashyap [16]', 'Daniel La Torre Regal']","['[IND] ', '[PER] ']","['21-11', '21-9']",MS,20170711
-50,"['Koki Watanabe', 'Arturo Hernandez']","['[JPN] ', '[MEX] ']","['21-12', '21-9']",MS,20170711
-51,"['Gergely Krausz', 'Bruno Barrueto Deza']","['[HUN] ', '[PER] ']","['21-12', '21-14']",MS,20170711
-52,"['Niluka Karunaratne [15]', 'Brian Yang']","['[SRI] ', '[CAN] ']","['21-17', '21-11']",MS,20170711
-53,"['Kanta Tsuneyama [6]', 'Timothy Chiu']","['[JPN] ', '[CAN] ']","['21-7', '21-8']",MS,20170711
-54,"['Rüdiger Gnedt', 'Isaac Su']","['[AUT] ', '[CAN] ']","['21-12', '21-18']",MS,20170711
-55,"['Kevin Cordon', 'Tien Minh Nguyen [13]']","['[GUA] ', '[VIE] ']","['21-16', '21-17']",MS,20170711
-56,"['Jonathan Bing Tsan Lai', 'Scott Evans']","['[CAN] ', '[IRL] ']","['8-21', '21-12', '21-19']",MS,20170711
-57,"['Howard Shu', 'Imran Wadia']","['[USA] ', '[CAN] ']","['21-10', '18-21', '21-7']",MS,20170711
-58,"['Abhishek Yelegar', 'Hoang Nam Nguyen']","['[IND] ', '[VIE] ']","['21-15', '21-5']",MS,20170711
-59,"['Sachin Dias', 'Diego Mini']","['[SRI] ', '[PER] ']","['21-15', '21-9']",MS,20170711
-60,"['Pablo Abian [5]', 'Vilson Vattanirappel']","['[ESP] ', '[AUT] ']","['21-16', '21-11']",MS,20170711
-61,"['Kenta Nishimoto', 'Lucas Claerbout [14]']","['[JPN] ', '[FRA] ']","['21-14', '13-21', '21-16']",MS,20170711
-62,"['Cao Cuong Pham', 'Johnathan Akin-Mulrooney']","['[VIE] ', '[CAN] ']","['21-12', '21-12']",MS,20170711
-63,"['B. R. Sankeerth', 'Duc Phat Le']","['[CAN] ', '[VIE] ']","['21-14', '21-17']",MS,20170711
-64,"['Buwaneka Goonethilleka', 'Nicholas Bonkowsky']","['[SRI] ', '[TTO] ']","['21-10', '21-14']",MS,20170711
-65,"['Redy Perdana', 'Wolfgang Gnedt']","['[INA] ', '[AUT] ']","['21-11', '22-20']",MS,20170711
-66,"['Mark Caljouw [12]', 'Kwang Hee Heo']","['[NED] ', '[KOR] ']","['21-13', '10-21', '21-15']",MS,20170711
-67,"['Kento Momota', 'Bao Thien Vo']","['[JPN] ', '[CAN] ']","['21-13', '21-13']",MS,20170711
-68,"['Toby Penty', 'Kazumasa Sakai [8]']","['[ENG] ', '[JPN] ']","['16-21', '21-18', '21-17']",MS,20170711
-69,"['Lino Munoz', 'Jose Guevara']","['[MEX] ', '[PER] ']","['21-10', '21-15']",MS,20170711
-70,"['Jeon Hyeok Jin [9]', 'Jason Anthony Ho-Shue']","['[KOR] ', '[CAN] ']","['19-21', '21-16', '21-14']",MS,20170711
-71,"['Kieran Merrilees', 'Fabricio Farias']","['[SCO] ', '[BRA] ']","['21-6', '21-13']",MS,20170711
-72,"['Prannoy H. S. [2]', 'Job Castillo']","['[IND] ', '[MEX] ']","['21-13', '21-15']",MS,20170711
-73,"['Choi Solgyu [1]', 'Chae Yoo Jung', 'Jelle Maas', 'Imke Van Der Aar']","['[KOR] ', '[KOR] ', '[NED] ', '[NED] ']","['18-21', '21-10', '21-13']",XD,20170711
-74,"['Mayu Matsumoto [6]', 'Wakana Nagahara', 'Rachel Honderich', 'Michelle Li']","['[JPN] ', '[JPN] ', '[CAN] ', '[CAN] ']","['21-14', '21-7']",WD,20170711
-75,"['Ygor Coelho [7]', 'Gergely Krausz']","['[BRA] ', '[HUN] ']","['21-18', '22-20']",MS,20170711
-76,"['Brittney Tam', 'Chloe Birch']","['[CAN] ', '[ENG] ']","['21-13', '21-10']",WS,20170711
-77,"['Austin James Bauer', 'Ty Alexander Lindeman', 'Sachin Dias', 'Buwaneka Goonethilleka']","['[CAN] ', '[CAN] ', '[SRI] ', '[SRI] ']","['21-18', '14-21', '21-15']",MD,20170711
-78,"['Ronan Labar [5]', 'Audrey Fontaine', 'Andreas Heinz', 'Annika Horbach']","['[FRA] ', '[FRA] ', '[GER] ', '[GER] ']","['19-21', '21-12', '21-14']",XD,20170711
-79,"['Emilie Lefel', 'Anne Tran', 'Graceline Gunawan', 'Natalie Jackie Leung']","['[FRA] ', '[FRA] ', '[USA] ', '[USA] ']","['21-11', '21-9']",WD,20170711
-80,"['Karan Rajan Rajarajan', 'Sam Parsons']","['[IND] ', '[ENG] ']","['21-16', '21-14']",MS,20170711
-81,"['Hye Rin Kim [4]', 'Yoo Hae Won', 'Ines Castillo', 'Paula La Torre Regal']","['[KOR] ', '[KOR] ', '[PER] ', '[PER] ']","['21-4', '21-5']",WD,20170711
-82,"['Manu Attri [3]', 'Reddy B. Sumeeth', 'Kohei Gondo', 'Tatsuya Watanabe']","['[IND] ', '[IND] ', '[JPN] ', '[JPN] ']","['21-15', '21-19']",MD,20170711
-83,"['Jacco Arends [7]', 'Selena Piek', 'Matthew Chau', 'Leanne Choo']","['[NED] ', '[NED] ', '[AUS] ', '[AUS] ']","['21-13', '21-9']",XD,20170711
-84,"['Niluka Karunaratne [15]', 'B. R. Sankeerth']","['[SRI] ', '[CAN] ']","['21-18', '21-16']",MS,20170711
-85,"['Kirsty Gilmour', 'Jang Mi Lee [7]']","['[SCO] ', '[KOR] ']","['21-19', '21-10']",WS,20170711
-86,"['Clara Nistad', 'Emma Wengberg', 'Jessie (Jie) Chen', 'Kay Xiaoxuan Shi']","['[SWE] ', '[SWE] ', '[CAN] ', '[CAN] ']","['21-15', '21-19']",WD,20170711
-87,"['Martin Campbell', 'Patrick Machugh', 'Nicholas Bonkowsky', 'Mathew Fogarty']","['[SCO] ', '[SCO] ', '[TTO] ', '[USA] ']","['21-6', '21-6']",MD,20170711
-88,"['Nico Ruponen [3]', 'Amanda Hogstrom', 'Fabricio Farias', 'Samia Lima']","['[SWE] ', '[SWE] ', '[BRA] ', '[BRA] ']","['21-11', '21-17']",XD,20170711
-89,"['Sarita Suwannakitborihan', 'Linda Zetchiri [4]']","['[THA] ', '[BUL] ']","['21-17', '21-15']",WS,20170711
-90,"['Lucas Corvee [11]', 'Huang Guoxing']","['[FRA] ', '[CAN] ']","['21-17', '16-21', '21-8']",MS,20170711
-91,"['Misato Aratama', 'Akane Watanabe', 'Lauren Smith', 'Sarah Walker']","['[JPN] ', '[JPN] ', '[ENG] ', '[ENG] ']","['21-16', '21-16']",WD,20170711
-92,"['Minh Bao', 'Bao Duc Duong', 'Job Castillo', 'Lino Munoz']","['[VIE] ', '[VIE] ', '[MEX] ', '[MEX] ']","['12-21', '26-24', '21-15']",MD,20170711
-93,"['Ben Lane', 'Jessica Pugh', 'Hong Nam Pham', 'Thu Huyen Le']","['[ENG] ', '[ENG] ', '[VIE] ', '[VIE] ']","['21-12', '21-18']",XD,20170711
-94,"['Saena Kawakami', 'Gayle Mahulette']","['[JPN] ', '[NED] ']","['21-12', '21-11']",WS,20170711
-95,"['Arisa Higashino', 'Kie Nakanishi', 'Jakkampudi Meghana [8]', 'Poorvisha S Ram']","['[JPN] ', '[JPN] ', '[IND] ', '[IND] ']","['21-12', '21-6']",WD,20170711
-96,"['Peter Briggs [8]', 'Tom Wolfenden', 'Jason Anthony Ho-Shue', 'Nyl Yakura']","['[ENG] ', '[ENG] ', '[CAN] ', '[CAN] ']","['14-21', '21-17', '21-15']",MD,20170711
-97,"['Sawan Serasinghe [6]', 'Setyana Mapasa', 'Oliver Schaller', 'Celine Burkart']","['[AUS] ', '[AUS] ', '[SUI] ', '[SUI] ']","['21-18', '21-10']",XD,20170711
-98,"['Sayaka Takahashi', 'Thi Trang (B) Vu [6]']","['[JPN] ', '[VIE] ']","['21-10', '21-10']",WS,20170711
-99,"['Koki Watanabe', 'Parupalli Kashyap [16]']","['[JPN] ', '[IND] ']","['21-10', '10-21', '21-15']",MS,20170711
-100,"['Gabriela Stoeva [1]', 'Stefani Stoeva', 'Kuhoo Garg', 'Ningshi Block Hazarika']","['[BUL] ', '[BUL] ', '[IND] ', '[IND] ']","['21-7', '21-3']",WD,20170711
-101,"['Takuto Inoue [2]', 'Yuki Kaneko', 'Alexander Dunn', 'Adam Hall']","['[JPN] ', '[JPN] ', '[SCO] ', '[SCO] ']","['21-15', '21-17']",MD,20170711
-102,"['Robin Tabeling', 'Cheryl Seinen', 'Jae Hwan Kim', 'Lee So Hee']","['[NED] ', '[NED] ', '[KOR] ', '[KOR] ']","['11-21', '21-18', '21-13']",XD,20170711
-103,"['Beiwen Zhang [1]', 'Na Yeong Kim']","['[USA] ', '[KOR] ']","['21-14', '21-19']",WS,20170711
-104,"['Kanta Tsuneyama [6]', 'Rüdiger Gnedt']","['[JPN] ', '[AUT] ']",[],MS,20170711
-105,"['Rira Kawashima', 'Saori Ozaki', 'Brittney Tam', 'Kristen Tsai']","['[JPN] ', '[JPN] ', '[CAN] ', '[CAN] ']","['21-12', '21-18']",WD,20170711
-106,"['Hyuk Gyun Choi', 'Park Kyung Hoon', 'Jordan Corvee', 'Ronan Labar']","['[KOR] ', '[KOR] ', '[FRA] ', '[FRA] ']","['21-13', '21-11']",MD,20170711
-107,"['Dong Adam (Xingyu)', 'Olivia (Li) Lei', 'Bruno Barrueto Deza', 'Ines Castillo']","['[CAN] ', '[CAN] ', '[PER] ', '[PER] ']","['21-13', '21-7']",XD,20170711
-108,"['Sofie Holmboe Dahl', 'Agnes Korosi']","['[DEN] ', '[HUN] ']","['21-11', '21-16']",WS,20170711
-109,"['Lee Hyun Il [1]', 'Lakhanee Sarang']","['[KOR] ', '[IND] ']","['21-12', '21-6']",MS,20170711
-110,"['Lorraine Baumann', 'Audrey Fontaine', 'Leanne Choo', 'Tiffany Ho']","['[FRA] ', '[FRA] ', '[AUS] ', '[AUS] ']","['21-17', '17-21', '21-15']",WD,20170711
-111,"['Jacco Arends', 'Ruben Jille', 'Joshua Magee [7]', 'Sam Magee']","['[NED] ', '[NED] ', '[IRL] ', '[IRL] ']","['23-21', '21-9']",MD,20170711
-112,"['Tuan Duc Do', 'Nhu Thao Pham', 'Diego Mini', 'Paula La Torre Regal']","['[VIE] ', '[VIE] ', '[PER] ', '[PER] ']","['21-13', '21-14']",XD,20170711
-113,"['Ronja Stern', 'Reshma Karthik']","['[SUI] ', '[IND] ']","['21-11', '21-7']",WS,20170711
-114,"['Mark Caljouw [12]', 'Redy Perdana']","['[NED] ', '[INA] ']","['21-13', '21-9']",MS,20170711
-115,"['Chisato Hoshi', 'Naru Shinoya', 'Julie Macpherson', ""Eleanor O'Donnell""]","['[JPN] ', '[JPN] ', '[SCO] ', '[SCO] ']","['21-16', '14-21', '21-12']",WD,20170711
-116,"['Daniel Benz', 'Andreas Heinz', 'Francis Alwin', 'Kona Tarun']","['[GER] ', '[GER] ', '[IND] ', '[IND] ']","['11-21', '21-17', '21-8']",MD,20170711
-117,"['Kohei Gondo', 'Wakana Nagahara', 'Nicholas Bonkowsky', 'Yuko Kawasaki']","['[JPN] ', '[JPN] ', '[TTO] ', '[USA] ']","['21-6', '21-5']",XD,20170711
-118,"['Kento Momota', 'Toby Penty']","['[JPN] ', '[ENG] ']","['21-10', '21-9']",MS,20170711
-119,"['Sarita Suwannakitborihan', 'Chanisa Teachavorasinskun', 'Celine Burkart', 'Judith Meulendijks']","['[THA] ', '[THA] ', '[SUI] ', '[NED] ']","['21-16', '16-21', '21-19']",WD,20170711
-120,"['Choi Solgyu', 'Jae Hwan Kim', 'Jonathan Bing Tsan Lai', 'Kevin Lee']","['[KOR] ', '[KOR] ', '[CAN] ', '[CAN] ']","['21-11', '21-12']",MD,20170711
-121,"['Seung Jae Seo', 'Kim Ha Na', 'Richard Eidestedt', 'Clara Nistad']","['[KOR] ', '[KOR] ', '[SWE] ', '[SWE] ']","['21-17', '18-21', '21-17']",XD,20170711
-122,"['Beatriz Corrales [3]', 'Fontaine Mica Chapman']","['[ESP] ', '[ENG] ']","['20-22', '21-19', '21-17']",WS,20170711
-123,"['Chloe Birch', 'Jessica Pugh', 'Michelle Tong', 'Josephine Wu']","['[ENG] ', '[ENG] ', '[CAN] ', '[CAN] ']","['21-8', '19-21', '21-17']",WD,20170711
-124,"['Ben Lane', 'Sean Vendy', 'Putra Eka Rhoma', 'Brian Yang']","['[ENG] ', '[ENG] ', '[INA] ', '[CAN] ']","['21-14', '17-21', '21-17']",MD,20170711
-125,"['Pranaav Jerry Chopra [2]', 'Reddy N. Sikki', 'Daniel La Torre Regal', 'Danica Nishimura']","['[IND] ', '[IND] ', '[PER] ', '[PER] ']","['21-10', '21-19']",XD,20170711
-126,"['Kim Won Ho', 'Shin Seung Chan', 'Zvonimir Durkinjak', 'Beiwen Zhang']","['[KOR] ', '[KOR] ', '[CRO] ', '[USA] ']","['21-17', '21-18']",XD,20170711
-127,"['Joo I Jeon', 'Sri Krishna Priya Kudaravalli']","['[KOR] ', '[IND] ']","['21-9', '21-13']",WS,20170711
-128,"['Abhishek Yelegar', 'Howard Shu']","['[IND] ', '[USA] ']","['21-10', '19-21', '21-17']",MS,20170711
-129,"['Thi Sen Nguyen', 'Thi Trang (B) Vu', 'Jaqueline Lima', 'Samia Lima']","['[VIE] ', '[VIE] ', '[BRA] ', '[BRA] ']","['21-9', '21-14']",WD,20170711
-130,"['Jelle Maas', 'Robin Tabeling', 'Hiroki Okamura [6]', 'Masayuki Onodera']","['[NED] ', '[NED] ', '[JPN] ', '[JPN] ']","['21-16', '26-24']",MD,20170711
-131,"['Toby Ng', 'Rachel Honderich', 'Alexander Dunn', ""Eleanor O'Donnell""]","['[CAN] ', '[CAN] ', '[SCO] ', '[SCO] ']","['15-21', '21-18', '21-15']",XD,20170711
-132,"['Jeon Hyeok Jin [9]', 'Lino Munoz']","['[KOR] ', '[MEX] ']","['21-14', '21-18']",MS,20170711
-133,"['Yui Hashimoto', 'Michelle Li [8]']","['[JPN] ', '[CAN] ']","['17-21', '23-21', '21-12']",WS,20170711
-134,"['Natalia Koch Rohde [5]', 'Jamie Subandhi']","['[DEN] ', '[USA] ']","['21-9', '22-20']",WS,20170711
-135,"['Pablo Abian [5]', 'Sachin Dias']","['[ESP] ', '[SRI] ']","['21-18', '21-9']",MS,20170711
-136,"['Chae Yoo Jung [5]', 'Kim So Yeong', 'Miki Kashihara', 'Miyuki Kato']","['[KOR] ', '[KOR] ', '[JPN] ', '[JPN] ']","['21-17', '21-17']",WD,20170711
-137,"['Lu Ching Yao [1]', 'Yang Po Han', 'Tuan Duc Do', 'Hong Nam Pham']","['[TPE] ', '[TPE] ', '[VIE] ', '[VIE] ']","['21-16', '21-11']",MD,20170711
-138,"['Cao Cuong Pham', 'Buwaneka Goonethilleka']","['[VIE] ', '[SRI] ']","['21-16', '21-15']",MS,20170711
-139,"['Kona Tarun', 'Jakkampudi Meghana', 'Nyl Yakura [8]', 'Brittney Tam']","['[IND] ', '[IND] ', '[CAN] ', '[CAN] ']","['21-13', '22-20']",XD,20170711
-140,"['Haruko Suzuki', 'Rituparna Das']","['[JPN] ', '[IND] ']","['9-21', '21-18', '21-16']",WS,20170711
-141,"['Aya Ohori [2]', 'Tiffany Ho']","['[JPN] ', '[AUS] ']","['21-6', '21-9']",WS,20170711
-142,"['Anastasia Chervyakova [3]', 'Olga Morozova', 'Cheryl Seinen', 'Imke Van Der Aar']","['[RUS] ', '[RUS] ', '[NED] ', '[NED] ']","['26-24', '17-21', '21-12']",WD,20170711
-143,"['Sam Magee [4]', 'Chloe Magee', 'Jordan Corvee', 'Anne Tran']","['[IRL] ', '[IRL] ', '[FRA] ', '[FRA] ']","['21-14', '22-20']",XD,20170711
-144,"['Gadde Ruthvika Shivani', 'Ga Eun Kim']","['[IND] ', '[KOR] ']","['6-21', '21-19', '21-13']",WS,20170711
-145,"['Kenta Nishimoto', 'Joshua Magee']","['[JPN] ', '[IRL] ']","['21-15', '21-10']",MS,20170711
-146,"['Prannoy H. S. [2]', 'Kieran Merrilees']","['[IND] ', '[SCO] ']","['21-17', '16-21', '21-15']",MS,20170711
-147,"['Lee So Hee', 'Shin Seung Chan', 'Daniela Macias', 'Danica Nishimura']","['[KOR] ', '[KOR] ', '[PER] ', '[PER] ']","['21-8', '21-11']",WD,20170711
-148,"['Dominik Stipsits', 'Roman Zirnwald', 'Jose Guevara', 'Daniel La Torre Regal']","['[AUT] ', '[AUT] ', '[PER] ', '[PER] ']","['21-16', '21-14']",MD,20170711
-149,"['Kevin Cordon', 'Jonathan Bing Tsan Lai']","['[GUA] ', '[CAN] ']","['21-17', '21-11']",MS,20170711
-150,"['Kim Won Ho', 'Seung Jae Seo', 'Matthew Chau [5]', 'Sawan Serasinghe']","['[KOR] ', '[KOR] ', '[AUS] ', '[AUS] ']","['21-6', '21-16']",MD,20170711
-151,"['Richard Eidestedt [4]', 'Nico Ruponen', 'B. R. Sankeerth', 'Redy Perdana']","['[SWE] ', '[SWE] ', '[CAN] ', '[INA] ']","['21-16', '21-12']",MD,20170711
-152,"['Rachel Honderich', 'Sai Uttejitha Rao Chukka']","['[CAN] ', '[IND] ']","['23-21', '21-4']",WS,20170711
-153,"['Nico Ruponen [3]', 'Amanda Hogstrom', 'Ben Lane', 'Jessica Pugh']","['[SWE] ', '[SWE] ', '[ENG] ', '[ENG] ']","['21-15', '22-20']",XD,20170711
-154,"['Ygor Coelho [7]', 'Niluka Karunaratne [15]']","['[BRA] ', '[SRI] ']","['21-15', '21-17']",MS,20170711
-155,"['Brittney Tam', 'Sarita Suwannakitborihan']","['[CAN] ', '[THA] ']","['21-17', '21-16']",WS,20170711
-156,"['Choi Solgyu [1]', 'Chae Yoo Jung', 'Dong Adam (Xingyu)', 'Olivia (Li) Lei']","['[KOR] ', '[KOR] ', '[CAN] ', '[CAN] ']","['14-21', '21-14', '21-13']",XD,20170711
-157,"['Sayaka Takahashi', 'Sofie Holmboe Dahl']","['[JPN] ', '[DEN] ']","['21-11', '21-18']",WS,20170711
-158,"['Mayu Matsumoto [6]', 'Wakana Nagahara', 'Clara Nistad', 'Emma Wengberg']","['[JPN] ', '[JPN] ', '[SWE] ', '[SWE] ']",[],WD,20170711
-159,"['Lu Ching Yao [1]', 'Yang Po Han', 'Austin James Bauer', 'Ty Alexander Lindeman']","['[TPE] ', '[TPE] ', '[CAN] ', '[CAN] ']","['21-13', '21-12']",MD,20170711
-160,"['Koki Watanabe', 'Karan Rajan Rajarajan']","['[JPN] ', '[IND] ']","['21-18', '21-14']",MS,20170711
-161,"['Saena Kawakami', 'Beiwen Zhang [1]']","['[JPN] ', '[USA] ']","['16-21', '24-22', '21-11']",WS,20170711
-162,"['Arisa Higashino', 'Kie Nakanishi', 'Thi Sen Nguyen', 'Thi Trang (B) Vu']","['[JPN] ', '[JPN] ', '[VIE] ', '[VIE] ']","['19-21', '21-15', '21-11']",WD,20170711
-163,"['Kirsty Gilmour', 'Rachel Honderich']","['[SCO] ', '[CAN] ']","['21-18', '21-17']",WS,20170711
-164,"['Joo I Jeon', 'Beatriz Corrales [3]']","['[KOR] ', '[ESP] ']","['21-14', '21-13']",WS,20170711
-165,"['Pablo Abian [5]', 'Abhishek Yelegar']","['[ESP] ', '[IND] ']","['21-15', '21-23', '21-14']",MS,20170711
-166,"['Peter Briggs [8]', 'Tom Wolfenden', 'Daniel Benz', 'Andreas Heinz']","['[ENG] ', '[ENG] ', '[GER] ', '[GER] ']","['21-18', '16-21', '21-17']",MD,20170711
-167,"['Pranaav Jerry Chopra [2]', 'Reddy N. Sikki', 'Robin Tabeling', 'Cheryl Seinen']","['[IND] ', '[IND] ', '[NED] ', '[NED] ']","['21-11', '21-17']",XD,20170711
-168,"['Kenta Nishimoto', 'Cao Cuong Pham']","['[JPN] ', '[VIE] ']","['21-14', '21-9']",MS,20170711
-169,"['Jeon Hyeok Jin [9]', 'Prannoy H. S. [2]']","['[KOR] ', '[IND] ']","['17-21', '21-14', '21-13']",MS,20170711
-170,"['Kanta Tsuneyama [6]', 'Kevin Cordon']","['[JPN] ', '[GUA] ']","['21-18', '21-10']",MS,20170711
-171,"['Jacco Arends', 'Ruben Jille', 'Minh Bao', 'Bao Duc Duong']","['[NED] ', '[NED] ', '[VIE] ', '[VIE] ']","['21-12', '21-12']",MD,20170711
-172,"['Seung Jae Seo', 'Kim Ha Na', 'Ronan Labar [5]', 'Audrey Fontaine']","['[KOR] ', '[KOR] ', '[FRA] ', '[FRA] ']","['13-21', '21-19', '21-15']",XD,20170711
-173,"['Manu Attri [3]', 'Reddy B. Sumeeth', 'Choi Solgyu', 'Jae Hwan Kim']","['[IND] ', '[IND] ', '[KOR] ', '[KOR] ']","['21-17', '17-21', '21-13']",MD,20170711
-174,"['Chae Yoo Jung [5]', 'Kim So Yeong', 'Emilie Lefel', 'Anne Tran']","['[KOR] ', '[KOR] ', '[FRA] ', '[FRA] ']","['21-14', '21-17']",WD,20170711
-175,"['Aya Ohori [2]', 'Gadde Ruthvika Shivani']","['[JPN] ', '[IND] ']","['21-13', '17-21', '21-19']",WS,20170711
-176,"['Kim Won Ho', 'Shin Seung Chan', 'Sawan Serasinghe [6]', 'Setyana Mapasa']","['[KOR] ', '[KOR] ', '[AUS] ', '[AUS] ']","['21-18', '21-12']",XD,20170711
-177,"['Misato Aratama', 'Akane Watanabe', 'Sarita Suwannakitborihan', 'Chanisa Teachavorasinskun']","['[JPN] ', '[JPN] ', '[THA] ', '[THA] ']","['21-13', '21-15']",WD,20170711
-178,"['Kohei Gondo', 'Wakana Nagahara', 'Kona Tarun', 'Jakkampudi Meghana']","['[JPN] ', '[JPN] ', '[IND] ', '[IND] ']","['21-9', '21-8']",XD,20170711
-179,"['Ronja Stern', 'Natalia Koch Rohde [5]']","['[SUI] ', '[DEN] ']","['21-11', '22-24', '21-18']",WS,20170711
-180,"['Rira Kawashima', 'Saori Ozaki', 'Gabriela Stoeva [1]', 'Stefani Stoeva']","['[JPN] ', '[JPN] ', '[BUL] ', '[BUL] ']","['21-16', '21-15']",WD,20170711
-181,"['Anastasia Chervyakova [3]', 'Olga Morozova', 'Chloe Birch', 'Jessica Pugh']","['[RUS] ', '[RUS] ', '[ENG] ', '[ENG] ']","['21-12', '21-10']",WD,20170711
-182,"['Kento Momota', 'Mark Caljouw [12]']","['[JPN] ', '[NED] ']","['21-17', '21-18']",MS,20170711
-183,"['Hyuk Gyun Choi', 'Park Kyung Hoon', 'Richard Eidestedt [4]', 'Nico Ruponen']","['[KOR] ', '[KOR] ', '[SWE] ', '[SWE] ']","['19-21', '21-14', '21-8']",MD,20170711
-184,"['Hye Rin Kim [4]', 'Yoo Hae Won', 'Lorraine Baumann', 'Audrey Fontaine']","['[KOR] ', '[KOR] ', '[FRA] ', '[FRA] ']","['21-10', '21-11']",WD,20170711
-185,"['Haruko Suzuki', 'Yui Hashimoto']","['[JPN] ', '[JPN] ']","['21-13', '21-14']",WS,20170711
-186,"['Takuto Inoue [2]', 'Yuki Kaneko', 'Dominik Stipsits', 'Roman Zirnwald']","['[JPN] ', '[JPN] ', '[AUT] ', '[AUT] ']","['21-7', '21-18']",MD,20170711
-187,"['Lee Hyun Il [1]', 'Lucas Corvee [11]']","['[KOR] ', '[FRA] ']","['22-24', '21-18', '21-12']",MS,20170711
-188,"['Jelle Maas', 'Robin Tabeling', 'Martin Campbell', 'Patrick Machugh']","['[NED] ', '[NED] ', '[SCO] ', '[SCO] ']","['21-17', '21-18']",MD,20170711
-189,"['Chisato Hoshi', 'Naru Shinoya', 'Lee So Hee', 'Shin Seung Chan']","['[JPN] ', '[JPN] ', '[KOR] ', '[KOR] ']","['22-20', '21-17']",WD,20170711
-190,"['Kim Won Ho', 'Seung Jae Seo', 'Ben Lane', 'Sean Vendy']","['[KOR] ', '[KOR] ', '[ENG] ', '[ENG] ']","['22-20', '21-17']",MD,20170711
-191,"['Jacco Arends [7]', 'Selena Piek', 'Toby Ng', 'Rachel Honderich']","['[NED] ', '[NED] ', '[CAN] ', '[CAN] ']","['21-15', '21-16']",XD,20170711
-192,"['Tuan Duc Do', 'Nhu Thao Pham', 'Sam Magee [4]', 'Chloe Magee']","['[VIE] ', '[VIE] ', '[IRL] ', '[IRL] ']","['22-20', '18-21', '21-17']",XD,20170711
-193,"['Mayu Matsumoto [6]', 'Wakana Nagahara', 'Rira Kawashima', 'Saori Ozaki']","['[JPN] ', '[JPN] ', '[JPN] ', '[JPN] ']","['21-12', '21-12']",WD ,20170711
-194,"['Kirsty Gilmour', 'Aya Ohori [2]']","['[SCO] ', '[JPN] ']","['21-14', '21-15']",WS ,20170711
-195,"['Lee Hyun Il [1]', 'Ygor Coelho [7]']","['[KOR] ', '[BRA] ']","['21-9', '21-9']",MS ,20170711
-196,"['Sayaka Takahashi', 'Brittney Tam']","['[JPN] ', '[CAN] ']","['21-12', '21-14']",WS ,20170711
-197,"['Kento Momota', 'Jeon Hyeok Jin [9]']","['[JPN] ', '[KOR] ']","['21-13', '21-18']",MS ,20170711
-198,"['Lu Ching Yao [1]', 'Yang Po Han', 'Jelle Maas', 'Robin Tabeling']","['[TPE] ', '[TPE] ', '[NED] ', '[NED] ']","['21-11', '20-22', '21-17']",MD ,20170711
-199,"['Chae Yoo Jung [5]', 'Kim So Yeong', 'Anastasia Chervyakova [3]', 'Olga Morozova']","['[KOR] ', '[KOR] ', '[RUS] ', '[RUS] ']","['21-16', '21-14']",WD ,20170711
-200,"['Misato Aratama', 'Akane Watanabe', 'Hye Rin Kim [4]', 'Yoo Hae Won']","['[JPN] ', '[JPN] ', '[KOR] ', '[KOR] ']","['21-11', '19-21', '24-22']",WD ,20170711
-201,"['Saena Kawakami', 'Haruko Suzuki']","['[JPN] ', '[JPN] ']","['21-18', '15-21', '21-14']",WS ,20170711
-202,"['Peter Briggs [8]', 'Tom Wolfenden', 'Takuto Inoue [2]', 'Yuki Kaneko']","['[ENG] ', '[ENG] ', '[JPN] ', '[JPN] ']","['8-21', '21-16', '21-15']",MD ,20170711
-203,"['Joo I Jeon', 'Ronja Stern']","['[KOR] ', '[SUI] ']","['21-9', '21-14']",WS ,20170711
-204,"['Kenta Nishimoto', 'Pablo Abian [5]']","['[JPN] ', '[ESP] ']","['21-12', '21-11']",MS ,20170711
-205,"['Kohei Gondo', 'Wakana Nagahara', 'Tuan Duc Do', 'Nhu Thao Pham']","['[JPN] ', '[JPN] ', '[VIE] ', '[VIE] ']","['21-17', '21-18']",XD ,20170711
-206,"['Kim Won Ho', 'Seung Jae Seo', 'Manu Attri [3]', 'Reddy B. Sumeeth']","['[KOR] ', '[KOR] ', '[IND] ', '[IND] ']","['21-12', '21-15']",MD ,20170711
-207,"['Choi Solgyu [1]', 'Chae Yoo Jung', 'Jacco Arends [7]', 'Selena Piek']","['[KOR] ', '[KOR] ', '[NED] ', '[NED] ']","['21-15', '16-21', '21-10']",XD ,20170711
-208,"['Kim Won Ho', 'Shin Seung Chan', 'Pranaav Jerry Chopra [2]', 'Reddy N. Sikki']","['[KOR] ', '[KOR] ', '[IND] ', '[IND] ']","['21-17', '20-22', '21-18']",XD ,20170711
-209,"['Seung Jae Seo', 'Kim Ha Na', 'Nico Ruponen [3]', 'Amanda Hogstrom']","['[KOR] ', '[KOR] ', '[SWE] ', '[SWE] ']","['21-12', '21-15']",XD ,20170711
-210,"['Kanta Tsuneyama [6]', 'Koki Watanabe']","['[JPN] ', '[JPN] ']","['21-11', '21-17']",MS ,20170711
-211,"['Chisato Hoshi', 'Naru Shinoya', 'Arisa Higashino', 'Kie Nakanishi']","['[JPN] ', '[JPN] ', '[JPN] ', '[JPN] ']","['19-21', '21-19', '21-16']",WD ,20170711
-212,"['Hyuk Gyun Choi', 'Park Kyung Hoon', 'Jacco Arends', 'Ruben Jille']","['[KOR] ', '[KOR] ', '[NED] ', '[NED] ']","['15-21', '21-18', '21-14']",MD ,20170711
-213,"['Kim Won Ho', 'Shin Seung Chan', 'Kohei Gondo', 'Wakana Nagahara']","['[KOR] ', '[KOR] ', '[JPN] ', '[JPN] ']","['15-21', '21-10', '21-10']",XD ,20170711
-214,"['Kanta Tsuneyama [6]', 'Lee Hyun Il [1]']","['[JPN] ', '[KOR] ']","['17-21', '21-8', '21-12']",MS ,20170711
-215,"['Kirsty Gilmour', 'Joo I Jeon']","['[SCO] ', '[KOR] ']","['21-14', '21-8']",WS ,20170711
-216,"['Kim Won Ho', 'Seung Jae Seo', 'Lu Ching Yao [1]', 'Yang Po Han']","['[KOR] ', '[KOR] ', '[TPE] ', '[TPE] ']","['21-13', '22-20']",MD ,20170711
-217,"['Kento Momota', 'Kenta Nishimoto']","['[JPN] ', '[JPN] ']","['21-11', '21-13']",MS ,20170711
-218,"['Choi Solgyu [1]', 'Chae Yoo Jung', 'Seung Jae Seo', 'Kim Ha Na']","['[KOR] ', '[KOR] ', '[KOR] ', '[KOR] ']","['21-14', '16-21', '21-18']",XD ,20170711
-219,"['Saena Kawakami', 'Sayaka Takahashi']","['[JPN] ', '[JPN] ']","['21-14', '21-10']",WS ,20170711
-220,"['Peter Briggs [8]', 'Tom Wolfenden', 'Hyuk Gyun Choi', 'Park Kyung Hoon']","['[ENG] ', '[ENG] ', '[KOR] ', '[KOR] ']","['17-21', '21-17', '21-18']",MD ,20170711
-221,"['Mayu Matsumoto [6]', 'Wakana Nagahara', 'Misato Aratama', 'Akane Watanabe']","['[JPN] ', '[JPN] ', '[JPN] ', '[JPN] ']","['21-15', '12-21', '24-22']",WD ,20170711
-222,"['Chisato Hoshi', 'Naru Shinoya', 'Chae Yoo Jung [5]', 'Kim So Yeong']","['[JPN] ', '[JPN] ', '[KOR] ', '[KOR] ']","['21-15', '21-19']",WD ,20170711
-223,"['Kim Won Ho', 'Shin Seung Chan', 'Choi Solgyu [1]', 'Chae Yoo Jung']","['[KOR] ', '[KOR] ', '[KOR] ', '[KOR] ']","['21-19', '21-16']",XD ,20170711
-224,"['Mayu Matsumoto [6]', 'Wakana Nagahara', 'Chisato Hoshi', 'Naru Shinoya']","['[JPN] ', '[JPN] ', '[JPN] ', '[JPN] ']","['21-16', '16-21', '21-18']",WD ,20170711
-225,"['Saena Kawakami', 'Kirsty Gilmour']","['[JPN] ', '[SCO] ']","['19-21', '21-19', '21-18']",WS ,20170711
-226,"['Kanta Tsuneyama [6]', 'Kento Momota']","['[JPN] ', '[JPN] ']","['22-20', '14-21', '21-14']",MS ,20170711
-227,"['Peter Briggs [8]', 'Tom Wolfenden', 'Kim Won Ho', 'Seung Jae Seo']","['[ENG] ', '[ENG] ', '[KOR] ', '[KOR] ']","['22-20', '16-21', '21-19']",MD ,20170711
+,PLAYERS,COUNTRIES,SCORES,EVENT,match_week,match_location
+0,"['Brittney Tam [1]', 'Jamie Hsu']","['[CAN] ', '[USA] ']","['19-21', '21-15', '21-15']",WS - Qualification,20170711,"Calagry, Canada"
+1,"['Bao Thien Vo', 'Phillipe Charron']","['[CAN] ', '[CAN] ']","['21-11', '21-16']",MS - Qualification,20170711,"Calagry, Canada"
+2,"['Kento Momota', 'Graydon Robb']","['[JPN] ', '[CAN] ']","['21-12', '21-8']",MS - Qualification,20170711,"Calagry, Canada"
+3,"['Redy Perdana', 'Joshua Liu']","['[INA] ', '[CAN] ']","['21-14', '21-10']",MS - Qualification,20170711,"Calagry, Canada"
+4,"['Sean Vendy', 'Sarah Walker', 'Ty Alexander Lindeman', 'Josephine Wu']","['[ENG] ', '[ENG] ', '[CAN] ', '[CAN] ']","['21-14', '21-11']",XD - Qualification,20170711,"Calagry, Canada"
+5,"['Brian Yang', '. Siswanto']","['[CAN] ', '[INA] ']","['21-18', '9-21', '21-15']",MS - Qualification,20170711,"Calagry, Canada"
+6,"['Samia Lima', 'Disha Gupta [3]']","['[BRA] ', '[USA] ']","['10-21', '21-13', '21-12']",WS - Qualification,20170711,"Calagry, Canada"
+7,"['Johnathan Akin-Mulrooney', 'Grimaldy Navirio Gunawan']","['[CAN] ', '[USA] ']","['21-12', '21-5']",MS - Qualification,20170711,"Calagry, Canada"
+8,"['Ines Castillo', 'Paula La Torre Regal']","['[PER] ', '[PER] ']","['21-17', '23-21']",WS - Qualification,20170711,"Calagry, Canada"
+9,"['Sarita Suwannakitborihan', 'Thu Huyen Le']","['[THA] ', '[VIE] ']","['21-16', '21-11']",WS - Qualification,20170711,"Calagry, Canada"
+10,"['Ronja Stern [4]', 'Mariana Ugalde']","['[SUI] ', '[MEX] ']","['17-21', '21-15', '21-19']",WS - Qualification,20170711,"Calagry, Canada"
+11,"['Joo I Jeon', 'Olivia (Li) Lei']","['[KOR] ', '[CAN] ']","['15-21', '21-15', '21-19']",WS - Qualification,20170711,"Calagry, Canada"
+12,"['Alexander Dunn', ""Eleanor O'Donnell"", 'Adrian Liu', 'Kristen Tsai']","['[SCO] ', '[SCO] ', '[CAN] ', '[CAN] ']","['21-18', '21-19']",XD - Qualification,20170711,"Calagry, Canada"
+13,"['Kohei Gondo', 'Wakana Nagahara', 'B. R. Sankeerth [4]', 'Chloe Rowe']","['[JPN] ', '[JPN] ', '[CAN] ', '[CAN] ']","['21-10', '21-11']",XD - Qualification,20170711,"Calagry, Canada"
+14,"['Rachel Honderich', 'Michelle Li', 'Kuei-Ya Chen', 'Jamie Hsu']","['[CAN] ', '[CAN] ', '[USA] ', '[USA] ']","['21-15', '21-8']",WD - Qualification,20170711,"Calagry, Canada"
+15,"['Rira Kawashima', 'Jaqueline Lima']","['[JPN] ', '[BRA] ']","['21-15', '21-14']",WS - Qualification,20170711,"Calagry, Canada"
+16,"['Job Castillo', 'Lino Munoz', 'Graydon Robb', 'Imran Wadia']","['[MEX] ', '[MEX] ', '[CAN] ', '[CAN] ']","['21-12', '21-13']",MD - Qualification,20170711,"Calagry, Canada"
+17,"['Hyuk Gyun Choi', 'Park Kyung Hoon', 'Joshua Liu', 'Bao Thien Vo']","['[KOR] ', '[KOR] ', '[CAN] ', '[CAN] ']","['21-12', '21-16']",MD - Qualification,20170711,"Calagry, Canada"
+18,"['Richard Eidestedt', 'Clara Nistad', '. Siswanto', 'Maria Febe Kusumastuti']","['[SWE] ', '[SWE] ', '[INA] ', '[INA] ']","['21-15', '21-13']",XD - Qualification,20170711,"Calagry, Canada"
+19,"['Zvonimir Durkinjak', 'Beiwen Zhang', 'Jonathan Bing Tsan Lai', 'Michelle Tong']","['[CRO] ', '[USA] ', '[CAN] ', '[CAN] ']","['21-7', '24-22']",XD - Qualification,20170711,"Calagry, Canada"
+20,"['Cara Debelle', 'Sarah Gale', 'Maya Chen', 'Disha Gupta']","['[CAN] ', '[CAN] ', '[USA] ', '[USA] ']","['21-14', '14-21', '21-11']",WD - Qualification,20170711,"Calagry, Canada"
+21,"['Putra Eka Rhoma', 'Brian Yang', 'Dong Adam (Xingyu) [2]', 'David (Bonan) Wu']","['[INA] ', '[CAN] ', '[CAN] ', '[CAN] ']","['17-21', '21-11', '21-19']",MD - Qualification,20170711,"Calagry, Canada"
+22,"['Brian Yang', 'Sattawat Pongnairat [3]']","['[CAN] ', '[USA] ']",[],MS - Qualification,20170711,"Calagry, Canada"
+23,"['Sattawat Pongnairat', 'Kuei-Ya Chen', 'Duc Phat Le', 'Thi Sen Nguyen']","['[USA] ', '[USA] ', '[VIE] ', '[VIE] ']","['21-19', '21-13']",XD - Qualification,20170711,"Calagry, Canada"
+24,"['Kento Momota', 'Ty Alexander Lindeman']","['[JPN] ', '[CAN] ']","['21-7', '21-13']",MS - Qualification,20170711,"Calagry, Canada"
+25,"['Daniela Macias', 'Maya Chen [2]']","['[PER] ', '[USA] ']","['21-17', '18-21', '21-19']",WS - Qualification,20170711,"Calagry, Canada"
+26,"['Brittney Tam [1]', 'Ines Castillo']","['[CAN] ', '[PER] ']","['21-6', '21-6']",WS - Qualification,20170711,"Calagry, Canada"
+27,"['Austin James Bauer', 'Cara Debelle', 'Grimaldy Navirio Gunawan', 'Carissa Chung']","['[CAN] ', '[CAN] ', '[USA] ', '[USA] ']","['21-14', '21-6']",XD - Qualification,20170711,"Calagry, Canada"
+28,"['Sarita Suwannakitborihan', 'Samia Lima']","['[THA] ', '[BRA] ']","['21-12', '21-12']",WS - Qualification,20170711,"Calagry, Canada"
+29,"['Rohan Kapoor', 'Kuhoo Garg', 'David (Bonan) Wu', 'Kay Xiaoxuan Shi']","['[IND] ', '[IND] ', '[CAN] ', '[CAN] ']","['21-13', '21-13']",XD - Qualification,20170711,"Calagry, Canada"
+30,"['Ronja Stern [4]', 'Rira Kawashima']","['[SUI] ', '[JPN] ']","['12-21', '23-21', '21-17']",WS - Qualification,20170711,"Calagry, Canada"
+31,"['Bao Thien Vo', 'Kyle Golding']","['[CAN] ', '[CAN] ']","['21-19', '21-17']",MS - Qualification,20170711,"Calagry, Canada"
+32,"['Job Castillo', 'Lino Munoz', 'Musashi Cohn', 'Dean Schoppe']","['[MEX] ', '[MEX] ', '[USA] ', '[USA] ']","['21-3', '21-7']",MD - Qualification,20170711,"Calagry, Canada"
+33,"['Jessie (Jie) Chen', 'Kay Xiaoxuan Shi', 'Cara Debelle', 'Sarah Gale']","['[CAN] ', '[CAN] ', '[CAN] ', '[CAN] ']","['21-8', '21-9']",WD - Qualification,20170711,"Calagry, Canada"
+34,"['Rachel Honderich', 'Michelle Li', 'Maria Febe Kusumastuti', 'Chloe Rowe']","['[CAN] ', '[CAN] ', '[INA] ', '[CAN] ']","['21-15', '21-14']",WD - Qualification,20170711,"Calagry, Canada"
+35,"['Zvonimir Durkinjak', 'Beiwen Zhang', 'Sean Vendy', 'Sarah Walker']","['[CRO] ', '[USA] ', '[ENG] ', '[ENG] ']","['21-16', '21-13']",XD - Qualification,20170711,"Calagry, Canada"
+36,"['Hyuk Gyun Choi', 'Park Kyung Hoon', 'Phillipe Charron', 'Duncan Yao']","['[KOR] ', '[KOR] ', '[CAN] ', '[CAN] ']","['21-14', '21-15']",MD - Qualification,20170711,"Calagry, Canada"
+37,"['Alexander Dunn', ""Eleanor O'Donnell"", 'Sattawat Pongnairat', 'Kuei-Ya Chen']","['[SCO] ', '[SCO] ', '[USA] ', '[USA] ']","['24-22', '21-17']",XD - Qualification,20170711,"Calagry, Canada"
+38,"['Richard Eidestedt', 'Clara Nistad', 'Austin James Bauer', 'Cara Debelle']","['[SWE] ', '[SWE] ', '[CAN] ', '[CAN] ']","['21-14', '21-15']",XD - Qualification,20170711,"Calagry, Canada"
+39,"['Joo I Jeon', 'Daniela Macias']","['[KOR] ', '[PER] ']","['21-5', '21-10']",WS - Qualification,20170711,"Calagry, Canada"
+40,"['Kohei Gondo', 'Wakana Nagahara', 'Rohan Kapoor', 'Kuhoo Garg']","['[JPN] ', '[JPN] ', '[IND] ', '[IND] ']","['21-19', '21-7']",XD - Qualification,20170711,"Calagry, Canada"
+41,"['Lee Hyun Il [1]', 'Hashiru Shimono']","['[KOR] ', '[JPN] ']","['21-9', '21-11']",MS,20170711,"Calagry, Canada"
+42,"['Lakhanee Sarang', 'Eugene Chan']","['[IND] ', '[CAN] ']","['21-9', '17-21', '21-7']",MS,20170711,"Calagry, Canada"
+43,"['Lucas Corvee [11]', 'Harsheel Dani']","['[FRA] ', '[IND] ']","['21-11', '21-7']",MS,20170711,"Calagry, Canada"
+44,"['Huang Guoxing', 'Luka Wraber']","['[CAN] ', '[AUT] ']","['14-21', '21-16', '21-14']",MS,20170711,"Calagry, Canada"
+45,"['Ygor Coelho [7]', 'Sattawat Pongnairat']","['[BRA] ', '[USA] ']","['21-11', '21-19']",MS,20170711,"Calagry, Canada"
+46,"['Karan Rajan Rajarajan', 'Zvonimir Durkinjak']","['[IND] ', '[CRO] ']","['13-21', '21-10', '21-13']",MS,20170711,"Calagry, Canada"
+47,"['Sam Parsons', 'Kevin Lee']","['[ENG] ', '[CAN] ']","['21-17', '21-10']",MS,20170711,"Calagry, Canada"
+48,"['Joshua Magee', 'Luke Couture']","['[IRL] ', '[CAN] ']","['21-11', '21-13']",MS,20170711,"Calagry, Canada"
+49,"['Parupalli Kashyap [16]', 'Daniel La Torre Regal']","['[IND] ', '[PER] ']","['21-11', '21-9']",MS,20170711,"Calagry, Canada"
+50,"['Koki Watanabe', 'Arturo Hernandez']","['[JPN] ', '[MEX] ']","['21-12', '21-9']",MS,20170711,"Calagry, Canada"
+51,"['Gergely Krausz', 'Bruno Barrueto Deza']","['[HUN] ', '[PER] ']","['21-12', '21-14']",MS,20170711,"Calagry, Canada"
+52,"['Niluka Karunaratne [15]', 'Brian Yang']","['[SRI] ', '[CAN] ']","['21-17', '21-11']",MS,20170711,"Calagry, Canada"
+53,"['Kanta Tsuneyama [6]', 'Timothy Chiu']","['[JPN] ', '[CAN] ']","['21-7', '21-8']",MS,20170711,"Calagry, Canada"
+54,"['Rüdiger Gnedt', 'Isaac Su']","['[AUT] ', '[CAN] ']","['21-12', '21-18']",MS,20170711,"Calagry, Canada"
+55,"['Kevin Cordon', 'Tien Minh Nguyen [13]']","['[GUA] ', '[VIE] ']","['21-16', '21-17']",MS,20170711,"Calagry, Canada"
+56,"['Jonathan Bing Tsan Lai', 'Scott Evans']","['[CAN] ', '[IRL] ']","['8-21', '21-12', '21-19']",MS,20170711,"Calagry, Canada"
+57,"['Howard Shu', 'Imran Wadia']","['[USA] ', '[CAN] ']","['21-10', '18-21', '21-7']",MS,20170711,"Calagry, Canada"
+58,"['Abhishek Yelegar', 'Hoang Nam Nguyen']","['[IND] ', '[VIE] ']","['21-15', '21-5']",MS,20170711,"Calagry, Canada"
+59,"['Sachin Dias', 'Diego Mini']","['[SRI] ', '[PER] ']","['21-15', '21-9']",MS,20170711,"Calagry, Canada"
+60,"['Pablo Abian [5]', 'Vilson Vattanirappel']","['[ESP] ', '[AUT] ']","['21-16', '21-11']",MS,20170711,"Calagry, Canada"
+61,"['Kenta Nishimoto', 'Lucas Claerbout [14]']","['[JPN] ', '[FRA] ']","['21-14', '13-21', '21-16']",MS,20170711,"Calagry, Canada"
+62,"['Cao Cuong Pham', 'Johnathan Akin-Mulrooney']","['[VIE] ', '[CAN] ']","['21-12', '21-12']",MS,20170711,"Calagry, Canada"
+63,"['B. R. Sankeerth', 'Duc Phat Le']","['[CAN] ', '[VIE] ']","['21-14', '21-17']",MS,20170711,"Calagry, Canada"
+64,"['Buwaneka Goonethilleka', 'Nicholas Bonkowsky']","['[SRI] ', '[TTO] ']","['21-10', '21-14']",MS,20170711,"Calagry, Canada"
+65,"['Redy Perdana', 'Wolfgang Gnedt']","['[INA] ', '[AUT] ']","['21-11', '22-20']",MS,20170711,"Calagry, Canada"
+66,"['Mark Caljouw [12]', 'Kwang Hee Heo']","['[NED] ', '[KOR] ']","['21-13', '10-21', '21-15']",MS,20170711,"Calagry, Canada"
+67,"['Kento Momota', 'Bao Thien Vo']","['[JPN] ', '[CAN] ']","['21-13', '21-13']",MS,20170711,"Calagry, Canada"
+68,"['Toby Penty', 'Kazumasa Sakai [8]']","['[ENG] ', '[JPN] ']","['16-21', '21-18', '21-17']",MS,20170711,"Calagry, Canada"
+69,"['Lino Munoz', 'Jose Guevara']","['[MEX] ', '[PER] ']","['21-10', '21-15']",MS,20170711,"Calagry, Canada"
+70,"['Jeon Hyeok Jin [9]', 'Jason Anthony Ho-Shue']","['[KOR] ', '[CAN] ']","['19-21', '21-16', '21-14']",MS,20170711,"Calagry, Canada"
+71,"['Kieran Merrilees', 'Fabricio Farias']","['[SCO] ', '[BRA] ']","['21-6', '21-13']",MS,20170711,"Calagry, Canada"
+72,"['Prannoy H. S. [2]', 'Job Castillo']","['[IND] ', '[MEX] ']","['21-13', '21-15']",MS,20170711,"Calagry, Canada"
+73,"['Choi Solgyu [1]', 'Chae Yoo Jung', 'Jelle Maas', 'Imke Van Der Aar']","['[KOR] ', '[KOR] ', '[NED] ', '[NED] ']","['18-21', '21-10', '21-13']",XD,20170711,"Calagry, Canada"
+74,"['Mayu Matsumoto [6]', 'Wakana Nagahara', 'Rachel Honderich', 'Michelle Li']","['[JPN] ', '[JPN] ', '[CAN] ', '[CAN] ']","['21-14', '21-7']",WD,20170711,"Calagry, Canada"
+75,"['Ygor Coelho [7]', 'Gergely Krausz']","['[BRA] ', '[HUN] ']","['21-18', '22-20']",MS,20170711,"Calagry, Canada"
+76,"['Brittney Tam', 'Chloe Birch']","['[CAN] ', '[ENG] ']","['21-13', '21-10']",WS,20170711,"Calagry, Canada"
+77,"['Austin James Bauer', 'Ty Alexander Lindeman', 'Sachin Dias', 'Buwaneka Goonethilleka']","['[CAN] ', '[CAN] ', '[SRI] ', '[SRI] ']","['21-18', '14-21', '21-15']",MD,20170711,"Calagry, Canada"
+78,"['Ronan Labar [5]', 'Audrey Fontaine', 'Andreas Heinz', 'Annika Horbach']","['[FRA] ', '[FRA] ', '[GER] ', '[GER] ']","['19-21', '21-12', '21-14']",XD,20170711,"Calagry, Canada"
+79,"['Emilie Lefel', 'Anne Tran', 'Graceline Gunawan', 'Natalie Jackie Leung']","['[FRA] ', '[FRA] ', '[USA] ', '[USA] ']","['21-11', '21-9']",WD,20170711,"Calagry, Canada"
+80,"['Karan Rajan Rajarajan', 'Sam Parsons']","['[IND] ', '[ENG] ']","['21-16', '21-14']",MS,20170711,"Calagry, Canada"
+81,"['Hye Rin Kim [4]', 'Yoo Hae Won', 'Ines Castillo', 'Paula La Torre Regal']","['[KOR] ', '[KOR] ', '[PER] ', '[PER] ']","['21-4', '21-5']",WD,20170711,"Calagry, Canada"
+82,"['Manu Attri [3]', 'Reddy B. Sumeeth', 'Kohei Gondo', 'Tatsuya Watanabe']","['[IND] ', '[IND] ', '[JPN] ', '[JPN] ']","['21-15', '21-19']",MD,20170711,"Calagry, Canada"
+83,"['Jacco Arends [7]', 'Selena Piek', 'Matthew Chau', 'Leanne Choo']","['[NED] ', '[NED] ', '[AUS] ', '[AUS] ']","['21-13', '21-9']",XD,20170711,"Calagry, Canada"
+84,"['Niluka Karunaratne [15]', 'B. R. Sankeerth']","['[SRI] ', '[CAN] ']","['21-18', '21-16']",MS,20170711,"Calagry, Canada"
+85,"['Kirsty Gilmour', 'Jang Mi Lee [7]']","['[SCO] ', '[KOR] ']","['21-19', '21-10']",WS,20170711,"Calagry, Canada"
+86,"['Clara Nistad', 'Emma Wengberg', 'Jessie (Jie) Chen', 'Kay Xiaoxuan Shi']","['[SWE] ', '[SWE] ', '[CAN] ', '[CAN] ']","['21-15', '21-19']",WD,20170711,"Calagry, Canada"
+87,"['Martin Campbell', 'Patrick Machugh', 'Nicholas Bonkowsky', 'Mathew Fogarty']","['[SCO] ', '[SCO] ', '[TTO] ', '[USA] ']","['21-6', '21-6']",MD,20170711,"Calagry, Canada"
+88,"['Nico Ruponen [3]', 'Amanda Hogstrom', 'Fabricio Farias', 'Samia Lima']","['[SWE] ', '[SWE] ', '[BRA] ', '[BRA] ']","['21-11', '21-17']",XD,20170711,"Calagry, Canada"
+89,"['Sarita Suwannakitborihan', 'Linda Zetchiri [4]']","['[THA] ', '[BUL] ']","['21-17', '21-15']",WS,20170711,"Calagry, Canada"
+90,"['Lucas Corvee [11]', 'Huang Guoxing']","['[FRA] ', '[CAN] ']","['21-17', '16-21', '21-8']",MS,20170711,"Calagry, Canada"
+91,"['Misato Aratama', 'Akane Watanabe', 'Lauren Smith', 'Sarah Walker']","['[JPN] ', '[JPN] ', '[ENG] ', '[ENG] ']","['21-16', '21-16']",WD,20170711,"Calagry, Canada"
+92,"['Minh Bao', 'Bao Duc Duong', 'Job Castillo', 'Lino Munoz']","['[VIE] ', '[VIE] ', '[MEX] ', '[MEX] ']","['12-21', '26-24', '21-15']",MD,20170711,"Calagry, Canada"
+93,"['Ben Lane', 'Jessica Pugh', 'Hong Nam Pham', 'Thu Huyen Le']","['[ENG] ', '[ENG] ', '[VIE] ', '[VIE] ']","['21-12', '21-18']",XD,20170711,"Calagry, Canada"
+94,"['Saena Kawakami', 'Gayle Mahulette']","['[JPN] ', '[NED] ']","['21-12', '21-11']",WS,20170711,"Calagry, Canada"
+95,"['Arisa Higashino', 'Kie Nakanishi', 'Jakkampudi Meghana [8]', 'Poorvisha S Ram']","['[JPN] ', '[JPN] ', '[IND] ', '[IND] ']","['21-12', '21-6']",WD,20170711,"Calagry, Canada"
+96,"['Peter Briggs [8]', 'Tom Wolfenden', 'Jason Anthony Ho-Shue', 'Nyl Yakura']","['[ENG] ', '[ENG] ', '[CAN] ', '[CAN] ']","['14-21', '21-17', '21-15']",MD,20170711,"Calagry, Canada"
+97,"['Sawan Serasinghe [6]', 'Setyana Mapasa', 'Oliver Schaller', 'Celine Burkart']","['[AUS] ', '[AUS] ', '[SUI] ', '[SUI] ']","['21-18', '21-10']",XD,20170711,"Calagry, Canada"
+98,"['Sayaka Takahashi', 'Thi Trang (B) Vu [6]']","['[JPN] ', '[VIE] ']","['21-10', '21-10']",WS,20170711,"Calagry, Canada"
+99,"['Koki Watanabe', 'Parupalli Kashyap [16]']","['[JPN] ', '[IND] ']","['21-10', '10-21', '21-15']",MS,20170711,"Calagry, Canada"
+100,"['Gabriela Stoeva [1]', 'Stefani Stoeva', 'Kuhoo Garg', 'Ningshi Block Hazarika']","['[BUL] ', '[BUL] ', '[IND] ', '[IND] ']","['21-7', '21-3']",WD,20170711,"Calagry, Canada"
+101,"['Takuto Inoue [2]', 'Yuki Kaneko', 'Alexander Dunn', 'Adam Hall']","['[JPN] ', '[JPN] ', '[SCO] ', '[SCO] ']","['21-15', '21-17']",MD,20170711,"Calagry, Canada"
+102,"['Robin Tabeling', 'Cheryl Seinen', 'Jae Hwan Kim', 'Lee So Hee']","['[NED] ', '[NED] ', '[KOR] ', '[KOR] ']","['11-21', '21-18', '21-13']",XD,20170711,"Calagry, Canada"
+103,"['Beiwen Zhang [1]', 'Na Yeong Kim']","['[USA] ', '[KOR] ']","['21-14', '21-19']",WS,20170711,"Calagry, Canada"
+104,"['Kanta Tsuneyama [6]', 'Rüdiger Gnedt']","['[JPN] ', '[AUT] ']",[],MS,20170711,"Calagry, Canada"
+105,"['Rira Kawashima', 'Saori Ozaki', 'Brittney Tam', 'Kristen Tsai']","['[JPN] ', '[JPN] ', '[CAN] ', '[CAN] ']","['21-12', '21-18']",WD,20170711,"Calagry, Canada"
+106,"['Hyuk Gyun Choi', 'Park Kyung Hoon', 'Jordan Corvee', 'Ronan Labar']","['[KOR] ', '[KOR] ', '[FRA] ', '[FRA] ']","['21-13', '21-11']",MD,20170711,"Calagry, Canada"
+107,"['Dong Adam (Xingyu)', 'Olivia (Li) Lei', 'Bruno Barrueto Deza', 'Ines Castillo']","['[CAN] ', '[CAN] ', '[PER] ', '[PER] ']","['21-13', '21-7']",XD,20170711,"Calagry, Canada"
+108,"['Sofie Holmboe Dahl', 'Agnes Korosi']","['[DEN] ', '[HUN] ']","['21-11', '21-16']",WS,20170711,"Calagry, Canada"
+109,"['Lee Hyun Il [1]', 'Lakhanee Sarang']","['[KOR] ', '[IND] ']","['21-12', '21-6']",MS,20170711,"Calagry, Canada"
+110,"['Lorraine Baumann', 'Audrey Fontaine', 'Leanne Choo', 'Tiffany Ho']","['[FRA] ', '[FRA] ', '[AUS] ', '[AUS] ']","['21-17', '17-21', '21-15']",WD,20170711,"Calagry, Canada"
+111,"['Jacco Arends', 'Ruben Jille', 'Joshua Magee [7]', 'Sam Magee']","['[NED] ', '[NED] ', '[IRL] ', '[IRL] ']","['23-21', '21-9']",MD,20170711,"Calagry, Canada"
+112,"['Tuan Duc Do', 'Nhu Thao Pham', 'Diego Mini', 'Paula La Torre Regal']","['[VIE] ', '[VIE] ', '[PER] ', '[PER] ']","['21-13', '21-14']",XD,20170711,"Calagry, Canada"
+113,"['Ronja Stern', 'Reshma Karthik']","['[SUI] ', '[IND] ']","['21-11', '21-7']",WS,20170711,"Calagry, Canada"
+114,"['Mark Caljouw [12]', 'Redy Perdana']","['[NED] ', '[INA] ']","['21-13', '21-9']",MS,20170711,"Calagry, Canada"
+115,"['Chisato Hoshi', 'Naru Shinoya', 'Julie Macpherson', ""Eleanor O'Donnell""]","['[JPN] ', '[JPN] ', '[SCO] ', '[SCO] ']","['21-16', '14-21', '21-12']",WD,20170711,"Calagry, Canada"
+116,"['Daniel Benz', 'Andreas Heinz', 'Francis Alwin', 'Kona Tarun']","['[GER] ', '[GER] ', '[IND] ', '[IND] ']","['11-21', '21-17', '21-8']",MD,20170711,"Calagry, Canada"
+117,"['Kohei Gondo', 'Wakana Nagahara', 'Nicholas Bonkowsky', 'Yuko Kawasaki']","['[JPN] ', '[JPN] ', '[TTO] ', '[USA] ']","['21-6', '21-5']",XD,20170711,"Calagry, Canada"
+118,"['Kento Momota', 'Toby Penty']","['[JPN] ', '[ENG] ']","['21-10', '21-9']",MS,20170711,"Calagry, Canada"
+119,"['Sarita Suwannakitborihan', 'Chanisa Teachavorasinskun', 'Celine Burkart', 'Judith Meulendijks']","['[THA] ', '[THA] ', '[SUI] ', '[NED] ']","['21-16', '16-21', '21-19']",WD,20170711,"Calagry, Canada"
+120,"['Choi Solgyu', 'Jae Hwan Kim', 'Jonathan Bing Tsan Lai', 'Kevin Lee']","['[KOR] ', '[KOR] ', '[CAN] ', '[CAN] ']","['21-11', '21-12']",MD,20170711,"Calagry, Canada"
+121,"['Seung Jae Seo', 'Kim Ha Na', 'Richard Eidestedt', 'Clara Nistad']","['[KOR] ', '[KOR] ', '[SWE] ', '[SWE] ']","['21-17', '18-21', '21-17']",XD,20170711,"Calagry, Canada"
+122,"['Beatriz Corrales [3]', 'Fontaine Mica Chapman']","['[ESP] ', '[ENG] ']","['20-22', '21-19', '21-17']",WS,20170711,"Calagry, Canada"
+123,"['Chloe Birch', 'Jessica Pugh', 'Michelle Tong', 'Josephine Wu']","['[ENG] ', '[ENG] ', '[CAN] ', '[CAN] ']","['21-8', '19-21', '21-17']",WD,20170711,"Calagry, Canada"
+124,"['Ben Lane', 'Sean Vendy', 'Putra Eka Rhoma', 'Brian Yang']","['[ENG] ', '[ENG] ', '[INA] ', '[CAN] ']","['21-14', '17-21', '21-17']",MD,20170711,"Calagry, Canada"
+125,"['Pranaav Jerry Chopra [2]', 'Reddy N. Sikki', 'Daniel La Torre Regal', 'Danica Nishimura']","['[IND] ', '[IND] ', '[PER] ', '[PER] ']","['21-10', '21-19']",XD,20170711,"Calagry, Canada"
+126,"['Kim Won Ho', 'Shin Seung Chan', 'Zvonimir Durkinjak', 'Beiwen Zhang']","['[KOR] ', '[KOR] ', '[CRO] ', '[USA] ']","['21-17', '21-18']",XD,20170711,"Calagry, Canada"
+127,"['Joo I Jeon', 'Sri Krishna Priya Kudaravalli']","['[KOR] ', '[IND] ']","['21-9', '21-13']",WS,20170711,"Calagry, Canada"
+128,"['Abhishek Yelegar', 'Howard Shu']","['[IND] ', '[USA] ']","['21-10', '19-21', '21-17']",MS,20170711,"Calagry, Canada"
+129,"['Thi Sen Nguyen', 'Thi Trang (B) Vu', 'Jaqueline Lima', 'Samia Lima']","['[VIE] ', '[VIE] ', '[BRA] ', '[BRA] ']","['21-9', '21-14']",WD,20170711,"Calagry, Canada"
+130,"['Jelle Maas', 'Robin Tabeling', 'Hiroki Okamura [6]', 'Masayuki Onodera']","['[NED] ', '[NED] ', '[JPN] ', '[JPN] ']","['21-16', '26-24']",MD,20170711,"Calagry, Canada"
+131,"['Toby Ng', 'Rachel Honderich', 'Alexander Dunn', ""Eleanor O'Donnell""]","['[CAN] ', '[CAN] ', '[SCO] ', '[SCO] ']","['15-21', '21-18', '21-15']",XD,20170711,"Calagry, Canada"
+132,"['Jeon Hyeok Jin [9]', 'Lino Munoz']","['[KOR] ', '[MEX] ']","['21-14', '21-18']",MS,20170711,"Calagry, Canada"
+133,"['Yui Hashimoto', 'Michelle Li [8]']","['[JPN] ', '[CAN] ']","['17-21', '23-21', '21-12']",WS,20170711,"Calagry, Canada"
+134,"['Natalia Koch Rohde [5]', 'Jamie Subandhi']","['[DEN] ', '[USA] ']","['21-9', '22-20']",WS,20170711,"Calagry, Canada"
+135,"['Pablo Abian [5]', 'Sachin Dias']","['[ESP] ', '[SRI] ']","['21-18', '21-9']",MS,20170711,"Calagry, Canada"
+136,"['Chae Yoo Jung [5]', 'Kim So Yeong', 'Miki Kashihara', 'Miyuki Kato']","['[KOR] ', '[KOR] ', '[JPN] ', '[JPN] ']","['21-17', '21-17']",WD,20170711,"Calagry, Canada"
+137,"['Lu Ching Yao [1]', 'Yang Po Han', 'Tuan Duc Do', 'Hong Nam Pham']","['[TPE] ', '[TPE] ', '[VIE] ', '[VIE] ']","['21-16', '21-11']",MD,20170711,"Calagry, Canada"
+138,"['Cao Cuong Pham', 'Buwaneka Goonethilleka']","['[VIE] ', '[SRI] ']","['21-16', '21-15']",MS,20170711,"Calagry, Canada"
+139,"['Kona Tarun', 'Jakkampudi Meghana', 'Nyl Yakura [8]', 'Brittney Tam']","['[IND] ', '[IND] ', '[CAN] ', '[CAN] ']","['21-13', '22-20']",XD,20170711,"Calagry, Canada"
+140,"['Haruko Suzuki', 'Rituparna Das']","['[JPN] ', '[IND] ']","['9-21', '21-18', '21-16']",WS,20170711,"Calagry, Canada"
+141,"['Aya Ohori [2]', 'Tiffany Ho']","['[JPN] ', '[AUS] ']","['21-6', '21-9']",WS,20170711,"Calagry, Canada"
+142,"['Anastasia Chervyakova [3]', 'Olga Morozova', 'Cheryl Seinen', 'Imke Van Der Aar']","['[RUS] ', '[RUS] ', '[NED] ', '[NED] ']","['26-24', '17-21', '21-12']",WD,20170711,"Calagry, Canada"
+143,"['Sam Magee [4]', 'Chloe Magee', 'Jordan Corvee', 'Anne Tran']","['[IRL] ', '[IRL] ', '[FRA] ', '[FRA] ']","['21-14', '22-20']",XD,20170711,"Calagry, Canada"
+144,"['Gadde Ruthvika Shivani', 'Ga Eun Kim']","['[IND] ', '[KOR] ']","['6-21', '21-19', '21-13']",WS,20170711,"Calagry, Canada"
+145,"['Kenta Nishimoto', 'Joshua Magee']","['[JPN] ', '[IRL] ']","['21-15', '21-10']",MS,20170711,"Calagry, Canada"
+146,"['Prannoy H. S. [2]', 'Kieran Merrilees']","['[IND] ', '[SCO] ']","['21-17', '16-21', '21-15']",MS,20170711,"Calagry, Canada"
+147,"['Lee So Hee', 'Shin Seung Chan', 'Daniela Macias', 'Danica Nishimura']","['[KOR] ', '[KOR] ', '[PER] ', '[PER] ']","['21-8', '21-11']",WD,20170711,"Calagry, Canada"
+148,"['Dominik Stipsits', 'Roman Zirnwald', 'Jose Guevara', 'Daniel La Torre Regal']","['[AUT] ', '[AUT] ', '[PER] ', '[PER] ']","['21-16', '21-14']",MD,20170711,"Calagry, Canada"
+149,"['Kevin Cordon', 'Jonathan Bing Tsan Lai']","['[GUA] ', '[CAN] ']","['21-17', '21-11']",MS,20170711,"Calagry, Canada"
+150,"['Kim Won Ho', 'Seung Jae Seo', 'Matthew Chau [5]', 'Sawan Serasinghe']","['[KOR] ', '[KOR] ', '[AUS] ', '[AUS] ']","['21-6', '21-16']",MD,20170711,"Calagry, Canada"
+151,"['Richard Eidestedt [4]', 'Nico Ruponen', 'B. R. Sankeerth', 'Redy Perdana']","['[SWE] ', '[SWE] ', '[CAN] ', '[INA] ']","['21-16', '21-12']",MD,20170711,"Calagry, Canada"
+152,"['Rachel Honderich', 'Sai Uttejitha Rao Chukka']","['[CAN] ', '[IND] ']","['23-21', '21-4']",WS,20170711,"Calagry, Canada"
+153,"['Nico Ruponen [3]', 'Amanda Hogstrom', 'Ben Lane', 'Jessica Pugh']","['[SWE] ', '[SWE] ', '[ENG] ', '[ENG] ']","['21-15', '22-20']",XD,20170711,"Calagry, Canada"
+154,"['Ygor Coelho [7]', 'Niluka Karunaratne [15]']","['[BRA] ', '[SRI] ']","['21-15', '21-17']",MS,20170711,"Calagry, Canada"
+155,"['Brittney Tam', 'Sarita Suwannakitborihan']","['[CAN] ', '[THA] ']","['21-17', '21-16']",WS,20170711,"Calagry, Canada"
+156,"['Choi Solgyu [1]', 'Chae Yoo Jung', 'Dong Adam (Xingyu)', 'Olivia (Li) Lei']","['[KOR] ', '[KOR] ', '[CAN] ', '[CAN] ']","['14-21', '21-14', '21-13']",XD,20170711,"Calagry, Canada"
+157,"['Sayaka Takahashi', 'Sofie Holmboe Dahl']","['[JPN] ', '[DEN] ']","['21-11', '21-18']",WS,20170711,"Calagry, Canada"
+158,"['Mayu Matsumoto [6]', 'Wakana Nagahara', 'Clara Nistad', 'Emma Wengberg']","['[JPN] ', '[JPN] ', '[SWE] ', '[SWE] ']",[],WD,20170711,"Calagry, Canada"
+159,"['Lu Ching Yao [1]', 'Yang Po Han', 'Austin James Bauer', 'Ty Alexander Lindeman']","['[TPE] ', '[TPE] ', '[CAN] ', '[CAN] ']","['21-13', '21-12']",MD,20170711,"Calagry, Canada"
+160,"['Koki Watanabe', 'Karan Rajan Rajarajan']","['[JPN] ', '[IND] ']","['21-18', '21-14']",MS,20170711,"Calagry, Canada"
+161,"['Saena Kawakami', 'Beiwen Zhang [1]']","['[JPN] ', '[USA] ']","['16-21', '24-22', '21-11']",WS,20170711,"Calagry, Canada"
+162,"['Arisa Higashino', 'Kie Nakanishi', 'Thi Sen Nguyen', 'Thi Trang (B) Vu']","['[JPN] ', '[JPN] ', '[VIE] ', '[VIE] ']","['19-21', '21-15', '21-11']",WD,20170711,"Calagry, Canada"
+163,"['Kirsty Gilmour', 'Rachel Honderich']","['[SCO] ', '[CAN] ']","['21-18', '21-17']",WS,20170711,"Calagry, Canada"
+164,"['Joo I Jeon', 'Beatriz Corrales [3]']","['[KOR] ', '[ESP] ']","['21-14', '21-13']",WS,20170711,"Calagry, Canada"
+165,"['Pablo Abian [5]', 'Abhishek Yelegar']","['[ESP] ', '[IND] ']","['21-15', '21-23', '21-14']",MS,20170711,"Calagry, Canada"
+166,"['Peter Briggs [8]', 'Tom Wolfenden', 'Daniel Benz', 'Andreas Heinz']","['[ENG] ', '[ENG] ', '[GER] ', '[GER] ']","['21-18', '16-21', '21-17']",MD,20170711,"Calagry, Canada"
+167,"['Pranaav Jerry Chopra [2]', 'Reddy N. Sikki', 'Robin Tabeling', 'Cheryl Seinen']","['[IND] ', '[IND] ', '[NED] ', '[NED] ']","['21-11', '21-17']",XD,20170711,"Calagry, Canada"
+168,"['Kenta Nishimoto', 'Cao Cuong Pham']","['[JPN] ', '[VIE] ']","['21-14', '21-9']",MS,20170711,"Calagry, Canada"
+169,"['Jeon Hyeok Jin [9]', 'Prannoy H. S. [2]']","['[KOR] ', '[IND] ']","['17-21', '21-14', '21-13']",MS,20170711,"Calagry, Canada"
+170,"['Kanta Tsuneyama [6]', 'Kevin Cordon']","['[JPN] ', '[GUA] ']","['21-18', '21-10']",MS,20170711,"Calagry, Canada"
+171,"['Jacco Arends', 'Ruben Jille', 'Minh Bao', 'Bao Duc Duong']","['[NED] ', '[NED] ', '[VIE] ', '[VIE] ']","['21-12', '21-12']",MD,20170711,"Calagry, Canada"
+172,"['Seung Jae Seo', 'Kim Ha Na', 'Ronan Labar [5]', 'Audrey Fontaine']","['[KOR] ', '[KOR] ', '[FRA] ', '[FRA] ']","['13-21', '21-19', '21-15']",XD,20170711,"Calagry, Canada"
+173,"['Manu Attri [3]', 'Reddy B. Sumeeth', 'Choi Solgyu', 'Jae Hwan Kim']","['[IND] ', '[IND] ', '[KOR] ', '[KOR] ']","['21-17', '17-21', '21-13']",MD,20170711,"Calagry, Canada"
+174,"['Chae Yoo Jung [5]', 'Kim So Yeong', 'Emilie Lefel', 'Anne Tran']","['[KOR] ', '[KOR] ', '[FRA] ', '[FRA] ']","['21-14', '21-17']",WD,20170711,"Calagry, Canada"
+175,"['Aya Ohori [2]', 'Gadde Ruthvika Shivani']","['[JPN] ', '[IND] ']","['21-13', '17-21', '21-19']",WS,20170711,"Calagry, Canada"
+176,"['Kim Won Ho', 'Shin Seung Chan', 'Sawan Serasinghe [6]', 'Setyana Mapasa']","['[KOR] ', '[KOR] ', '[AUS] ', '[AUS] ']","['21-18', '21-12']",XD,20170711,"Calagry, Canada"
+177,"['Misato Aratama', 'Akane Watanabe', 'Sarita Suwannakitborihan', 'Chanisa Teachavorasinskun']","['[JPN] ', '[JPN] ', '[THA] ', '[THA] ']","['21-13', '21-15']",WD,20170711,"Calagry, Canada"
+178,"['Kohei Gondo', 'Wakana Nagahara', 'Kona Tarun', 'Jakkampudi Meghana']","['[JPN] ', '[JPN] ', '[IND] ', '[IND] ']","['21-9', '21-8']",XD,20170711,"Calagry, Canada"
+179,"['Ronja Stern', 'Natalia Koch Rohde [5]']","['[SUI] ', '[DEN] ']","['21-11', '22-24', '21-18']",WS,20170711,"Calagry, Canada"
+180,"['Rira Kawashima', 'Saori Ozaki', 'Gabriela Stoeva [1]', 'Stefani Stoeva']","['[JPN] ', '[JPN] ', '[BUL] ', '[BUL] ']","['21-16', '21-15']",WD,20170711,"Calagry, Canada"
+181,"['Anastasia Chervyakova [3]', 'Olga Morozova', 'Chloe Birch', 'Jessica Pugh']","['[RUS] ', '[RUS] ', '[ENG] ', '[ENG] ']","['21-12', '21-10']",WD,20170711,"Calagry, Canada"
+182,"['Kento Momota', 'Mark Caljouw [12]']","['[JPN] ', '[NED] ']","['21-17', '21-18']",MS,20170711,"Calagry, Canada"
+183,"['Hyuk Gyun Choi', 'Park Kyung Hoon', 'Richard Eidestedt [4]', 'Nico Ruponen']","['[KOR] ', '[KOR] ', '[SWE] ', '[SWE] ']","['19-21', '21-14', '21-8']",MD,20170711,"Calagry, Canada"
+184,"['Hye Rin Kim [4]', 'Yoo Hae Won', 'Lorraine Baumann', 'Audrey Fontaine']","['[KOR] ', '[KOR] ', '[FRA] ', '[FRA] ']","['21-10', '21-11']",WD,20170711,"Calagry, Canada"
+185,"['Haruko Suzuki', 'Yui Hashimoto']","['[JPN] ', '[JPN] ']","['21-13', '21-14']",WS,20170711,"Calagry, Canada"
+186,"['Takuto Inoue [2]', 'Yuki Kaneko', 'Dominik Stipsits', 'Roman Zirnwald']","['[JPN] ', '[JPN] ', '[AUT] ', '[AUT] ']","['21-7', '21-18']",MD,20170711,"Calagry, Canada"
+187,"['Lee Hyun Il [1]', 'Lucas Corvee [11]']","['[KOR] ', '[FRA] ']","['22-24', '21-18', '21-12']",MS,20170711,"Calagry, Canada"
+188,"['Jelle Maas', 'Robin Tabeling', 'Martin Campbell', 'Patrick Machugh']","['[NED] ', '[NED] ', '[SCO] ', '[SCO] ']","['21-17', '21-18']",MD,20170711,"Calagry, Canada"
+189,"['Chisato Hoshi', 'Naru Shinoya', 'Lee So Hee', 'Shin Seung Chan']","['[JPN] ', '[JPN] ', '[KOR] ', '[KOR] ']","['22-20', '21-17']",WD,20170711,"Calagry, Canada"
+190,"['Kim Won Ho', 'Seung Jae Seo', 'Ben Lane', 'Sean Vendy']","['[KOR] ', '[KOR] ', '[ENG] ', '[ENG] ']","['22-20', '21-17']",MD,20170711,"Calagry, Canada"
+191,"['Jacco Arends [7]', 'Selena Piek', 'Toby Ng', 'Rachel Honderich']","['[NED] ', '[NED] ', '[CAN] ', '[CAN] ']","['21-15', '21-16']",XD,20170711,"Calagry, Canada"
+192,"['Tuan Duc Do', 'Nhu Thao Pham', 'Sam Magee [4]', 'Chloe Magee']","['[VIE] ', '[VIE] ', '[IRL] ', '[IRL] ']","['22-20', '18-21', '21-17']",XD,20170711,"Calagry, Canada"
+193,"['Mayu Matsumoto [6]', 'Wakana Nagahara', 'Rira Kawashima', 'Saori Ozaki']","['[JPN] ', '[JPN] ', '[JPN] ', '[JPN] ']","['21-12', '21-12']",WD ,20170711,"Calagry, Canada"
+194,"['Kirsty Gilmour', 'Aya Ohori [2]']","['[SCO] ', '[JPN] ']","['21-14', '21-15']",WS ,20170711,"Calagry, Canada"
+195,"['Lee Hyun Il [1]', 'Ygor Coelho [7]']","['[KOR] ', '[BRA] ']","['21-9', '21-9']",MS ,20170711,"Calagry, Canada"
+196,"['Sayaka Takahashi', 'Brittney Tam']","['[JPN] ', '[CAN] ']","['21-12', '21-14']",WS ,20170711,"Calagry, Canada"
+197,"['Kento Momota', 'Jeon Hyeok Jin [9]']","['[JPN] ', '[KOR] ']","['21-13', '21-18']",MS ,20170711,"Calagry, Canada"
+198,"['Lu Ching Yao [1]', 'Yang Po Han', 'Jelle Maas', 'Robin Tabeling']","['[TPE] ', '[TPE] ', '[NED] ', '[NED] ']","['21-11', '20-22', '21-17']",MD ,20170711,"Calagry, Canada"
+199,"['Chae Yoo Jung [5]', 'Kim So Yeong', 'Anastasia Chervyakova [3]', 'Olga Morozova']","['[KOR] ', '[KOR] ', '[RUS] ', '[RUS] ']","['21-16', '21-14']",WD ,20170711,"Calagry, Canada"
+200,"['Misato Aratama', 'Akane Watanabe', 'Hye Rin Kim [4]', 'Yoo Hae Won']","['[JPN] ', '[JPN] ', '[KOR] ', '[KOR] ']","['21-11', '19-21', '24-22']",WD ,20170711,"Calagry, Canada"
+201,"['Saena Kawakami', 'Haruko Suzuki']","['[JPN] ', '[JPN] ']","['21-18', '15-21', '21-14']",WS ,20170711,"Calagry, Canada"
+202,"['Peter Briggs [8]', 'Tom Wolfenden', 'Takuto Inoue [2]', 'Yuki Kaneko']","['[ENG] ', '[ENG] ', '[JPN] ', '[JPN] ']","['8-21', '21-16', '21-15']",MD ,20170711,"Calagry, Canada"
+203,"['Joo I Jeon', 'Ronja Stern']","['[KOR] ', '[SUI] ']","['21-9', '21-14']",WS ,20170711,"Calagry, Canada"
+204,"['Kenta Nishimoto', 'Pablo Abian [5]']","['[JPN] ', '[ESP] ']","['21-12', '21-11']",MS ,20170711,"Calagry, Canada"
+205,"['Kohei Gondo', 'Wakana Nagahara', 'Tuan Duc Do', 'Nhu Thao Pham']","['[JPN] ', '[JPN] ', '[VIE] ', '[VIE] ']","['21-17', '21-18']",XD ,20170711,"Calagry, Canada"
+206,"['Kim Won Ho', 'Seung Jae Seo', 'Manu Attri [3]', 'Reddy B. Sumeeth']","['[KOR] ', '[KOR] ', '[IND] ', '[IND] ']","['21-12', '21-15']",MD ,20170711,"Calagry, Canada"
+207,"['Choi Solgyu [1]', 'Chae Yoo Jung', 'Jacco Arends [7]', 'Selena Piek']","['[KOR] ', '[KOR] ', '[NED] ', '[NED] ']","['21-15', '16-21', '21-10']",XD ,20170711,"Calagry, Canada"
+208,"['Kim Won Ho', 'Shin Seung Chan', 'Pranaav Jerry Chopra [2]', 'Reddy N. Sikki']","['[KOR] ', '[KOR] ', '[IND] ', '[IND] ']","['21-17', '20-22', '21-18']",XD ,20170711,"Calagry, Canada"
+209,"['Seung Jae Seo', 'Kim Ha Na', 'Nico Ruponen [3]', 'Amanda Hogstrom']","['[KOR] ', '[KOR] ', '[SWE] ', '[SWE] ']","['21-12', '21-15']",XD ,20170711,"Calagry, Canada"
+210,"['Kanta Tsuneyama [6]', 'Koki Watanabe']","['[JPN] ', '[JPN] ']","['21-11', '21-17']",MS ,20170711,"Calagry, Canada"
+211,"['Chisato Hoshi', 'Naru Shinoya', 'Arisa Higashino', 'Kie Nakanishi']","['[JPN] ', '[JPN] ', '[JPN] ', '[JPN] ']","['19-21', '21-19', '21-16']",WD ,20170711,"Calagry, Canada"
+212,"['Hyuk Gyun Choi', 'Park Kyung Hoon', 'Jacco Arends', 'Ruben Jille']","['[KOR] ', '[KOR] ', '[NED] ', '[NED] ']","['15-21', '21-18', '21-14']",MD ,20170711,"Calagry, Canada"
+213,"['Kim Won Ho', 'Shin Seung Chan', 'Kohei Gondo', 'Wakana Nagahara']","['[KOR] ', '[KOR] ', '[JPN] ', '[JPN] ']","['15-21', '21-10', '21-10']",XD ,20170711,"Calagry, Canada"
+214,"['Kanta Tsuneyama [6]', 'Lee Hyun Il [1]']","['[JPN] ', '[KOR] ']","['17-21', '21-8', '21-12']",MS ,20170711,"Calagry, Canada"
+215,"['Kirsty Gilmour', 'Joo I Jeon']","['[SCO] ', '[KOR] ']","['21-14', '21-8']",WS ,20170711,"Calagry, Canada"
+216,"['Kim Won Ho', 'Seung Jae Seo', 'Lu Ching Yao [1]', 'Yang Po Han']","['[KOR] ', '[KOR] ', '[TPE] ', '[TPE] ']","['21-13', '22-20']",MD ,20170711,"Calagry, Canada"
+217,"['Kento Momota', 'Kenta Nishimoto']","['[JPN] ', '[JPN] ']","['21-11', '21-13']",MS ,20170711,"Calagry, Canada"
+218,"['Choi Solgyu [1]', 'Chae Yoo Jung', 'Seung Jae Seo', 'Kim Ha Na']","['[KOR] ', '[KOR] ', '[KOR] ', '[KOR] ']","['21-14', '16-21', '21-18']",XD ,20170711,"Calagry, Canada"
+219,"['Saena Kawakami', 'Sayaka Takahashi']","['[JPN] ', '[JPN] ']","['21-14', '21-10']",WS ,20170711,"Calagry, Canada"
+220,"['Peter Briggs [8]', 'Tom Wolfenden', 'Hyuk Gyun Choi', 'Park Kyung Hoon']","['[ENG] ', '[ENG] ', '[KOR] ', '[KOR] ']","['17-21', '21-17', '21-18']",MD ,20170711,"Calagry, Canada"
+221,"['Mayu Matsumoto [6]', 'Wakana Nagahara', 'Misato Aratama', 'Akane Watanabe']","['[JPN] ', '[JPN] ', '[JPN] ', '[JPN] ']","['21-15', '12-21', '24-22']",WD ,20170711,"Calagry, Canada"
+222,"['Chisato Hoshi', 'Naru Shinoya', 'Chae Yoo Jung [5]', 'Kim So Yeong']","['[JPN] ', '[JPN] ', '[KOR] ', '[KOR] ']","['21-15', '21-19']",WD ,20170711,"Calagry, Canada"
+223,"['Kim Won Ho', 'Shin Seung Chan', 'Choi Solgyu [1]', 'Chae Yoo Jung']","['[KOR] ', '[KOR] ', '[KOR] ', '[KOR] ']","['21-19', '21-16']",XD ,20170711,"Calagry, Canada"
+224,"['Mayu Matsumoto [6]', 'Wakana Nagahara', 'Chisato Hoshi', 'Naru Shinoya']","['[JPN] ', '[JPN] ', '[JPN] ', '[JPN] ']","['21-16', '16-21', '21-18']",WD ,20170711,"Calagry, Canada"
+225,"['Saena Kawakami', 'Kirsty Gilmour']","['[JPN] ', '[SCO] ']","['19-21', '21-19', '21-18']",WS ,20170711,"Calagry, Canada"
+226,"['Kanta Tsuneyama [6]', 'Kento Momota']","['[JPN] ', '[JPN] ']","['22-20', '14-21', '21-14']",MS ,20170711,"Calagry, Canada"
+227,"['Peter Briggs [8]', 'Tom Wolfenden', 'Kim Won Ho', 'Seung Jae Seo']","['[ENG] ', '[ENG] ', '[KOR] ', '[KOR] ']","['22-20', '16-21', '21-19']",MD ,20170711,"Calagry, Canada"

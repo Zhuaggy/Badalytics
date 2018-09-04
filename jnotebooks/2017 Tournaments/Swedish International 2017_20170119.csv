@@ -1,111 +1,111 @@
-,PLAYERS,COUNTRIES,SCORES,EVENT,match_week
-0,"['Mikkel Stoffersen', 'Susan Ekelund', 'Filip Michael Duwall Myhren [4]', 'Johanna Magnusson']","['[DEN] ', '[DEN] ', '[SWE] ', '[SWE] ']","['21-17', '21-13']",XD - Qualification ,20170119
-1,"['Arnaud Merkle [12]', 'David Kim Kristensen']","['[FRA] ', '[DEN] ']","['21-19', '19-21', '21-17']",MS - Qualification ,20170119
-2,"['Felix Nandin', 'Dmitrii Riabov']","['[SWE] ', '[RUS] ']","['24-26', '21-13', '22-20']",MS - Qualification ,20170119
-3,"['Mikkel Mikkelsen [5]', 'Andy Tsai']","['[DEN] ', '[SWE] ']","['21-13', '22-20']",MS - Qualification ,20170119
-4,"['Mikkel Stoffersen', 'Susan Ekelund', 'Søren Toft', 'Line Fleischer']","['[DEN] ', '[DEN] ', '[DEN] ', '[DEN] ']","['21-13', '21-17']",XD - Qualification ,20170119
-5,"['. Hermansyah [14]', 'Shaun Ekengren']","['[INA] ', '[SWE] ']","['21-14', '21-11']",MS - Qualification ,20170119
-6,"['Rasmus Kæseler', 'Fabio Caponio [10]']","['[DEN] ', '[ITA] ']","['21-17', '13-21', '21-17']",MS - Qualification ,20170119
-7,"['Noora Ahola', 'Linda Marie Danielsson']","['[FIN] ', '[SWE] ']","['21-12', '21-19']",WS - Qualification ,20170119
-8,"['Marc Laporte', 'Daniel Ojaaar [2]']","['[FRA] ', '[SWE] ']","['21-16', '21-23', '21-13']",MS - Qualification ,20170119
-9,"['Rebecka Kuhl [4]', 'Emilie Aalestrup']","['[SWE] ', '[DEN] ']","['21-19', '21-19']",WS - Qualification ,20170119
-10,"['Emil Hybel Kristensen', 'Rasmus Kæseler', 'Viktor Aglinder', 'Oskar Johansson']","['[DEN] ', '[DEN] ', '[SWE] ', '[SWE] ']","['21-14', '21-12']",MD - Qualification ,20170119
-11,"['Jeppe Bruun Christensen', 'Tobias Holst-Christensen', 'Felix Nandin [4]', 'Oskar Westerlund']","['[DEN] ', '[DEN] ', '[SWE] ', '[SWE] ']","['21-16', '21-10']",MD - Qualification ,20170119
-12,"['Arnaud Merkle [12]', 'Douglas Lidman']","['[FRA] ', '[SWE] ']","['21-17', '21-16']",MS - Qualification ,20170119
-13,"['Mikkel Mikkelsen [5]', 'Jeppe Bruun Christensen']","['[DEN] ', '[DEN] ']","['21-11', '21-14']",MS - Qualification ,20170119
-14,"['Mattias Wigardt', 'Mads Christophersen [7]']","['[SWE] ', '[DEN] ']","['23-21', '21-14']",MS - Qualification ,20170119
-15,"['Søren Toft [8]', 'Mads Thøgersen']","['[DEN] ', '[DEN] ']","['21-9', '21-15']",MS - Qualification ,20170119
-16,"['. Hermansyah [14]', 'Rudolf Dellenbach [1]']","['[INA] ', '[ITA] ']","['21-11', '21-15']",MS - Qualification ,20170119
-17,"['Vincent Medina', 'Søren Toft [8]']","['[FRA] ', '[DEN] ']","['18-21', '21-17', '21-11']",MS - Qualification ,20170119
-18,"['Eloi Adam', 'Samy Corvee', 'Adam Gozzi', 'Carl Harrbacka']","['[FRA] ', '[FRA] ', '[SWE] ', '[SWE] ']","['21-14', '21-19']",MD - Qualification ,20170119
-19,"['Søren Toft', 'Line Fleischer', 'Martin Forssberg', 'Madeleine Persson']","['[DEN] ', '[DEN] ', '[SWE] ', '[SWE] ']","['21-14', '21-11']",XD - Qualification ,20170119
-20,"['Douglas Lidman', 'Giovanni Greco']","['[SWE] ', '[ITA] ']","['21-15', '18-21', '21-13']",MS - Qualification ,20170119
-21,"['Morgan Lidman', 'Mika Kongas']","['[SWE] ', '[FIN] ']","['21-18', '21-15']",MS - Qualification ,20170119
-22,"['Leo Rossi', 'Maciej Poulakowski [16]']","['[FRA] ', '[POL] ']","['13-21', '21-17', '21-12']",MS - Qualification ,20170119
-23,"['Andreas Hoffmann', 'Louise Eriksson', 'Tobias Holst-Christensen', 'Mathilde Bjergen']","['[DEN] ', '[SWE] ', '[DEN] ', '[DEN] ']","['21-16', '21-14']",XD - Qualification ,20170119
-24,"['Mads Thøgersen', 'Victor Zuhr']","['[DEN] ', '[SWE] ']","['21-15', '21-10']",MS - Qualification ,20170119
-25,"['Mattias Wigardt', 'Mads Emil Kristensen']","['[SWE] ', '[DEN] ']","['21-8', '21-13']",MS - Qualification ,20170119
-26,"['Sofie Zacho Vestergaard', 'Lovisa Johansson [7]']","['[DEN] ', '[SWE] ']","['19-21', '22-20', '21-18']",WS - Qualification ,20170119
-27,"['Frida Lindstrom', 'Mari Ann Karjus']","['[SWE] ', '[EST] ']","['21-16', '21-7']",WS - Qualification ,20170119
-28,"['Emma Karlsson', 'Kati-Kreet Marran [6]']","['[SWE] ', '[EST] ']","['21-13', '22-20']",WS - Qualification ,20170119
-29,"['Paw Eriksen', 'Mads Thøgersen', 'Martin Forssberg', 'Nils Ihse']","['[DEN] ', '[DEN] ', '[SWE] ', '[SWE] ']","['21-12', '21-12']",MD - Qualification ,20170119
-30,"['Line Christophersen', 'Malena Norrman']","['[DEN] ', '[SWE] ']","['21-4', '21-10']",WS - Qualification ,20170119
-31,"['Frida Lindstrom', 'Vytaute Fomkinaite [8]']","['[SWE] ', '[LTU] ']","['8-21', '21-11', '21-14']",WS - Qualification ,20170119
-32,"['Mark Mohr Laursen Damgaard', 'Leo Rossi']","['[DEN] ', '[FRA] ']","['21-17', '21-16']",MS - Qualification ,20170119
-33,"['Peter Correll', 'Philip Busch Andreasen']","['[DEN] ', '[DEN] ']","['21-19', '21-17']",MS - Qualification ,20170119
-34,"['Mikkel Enghøj [15]', 'Felix Nandin']","['[DEN] ', '[SWE] ']","['21-11', '21-14']",MS - Qualification ,20170119
-35,"['Alexander Roovers [11]', 'Oskar Westerlund']","['[GER] ', '[SWE] ']","['21-11', '21-7']",MS - Qualification ,20170119
-36,"['Wibowo Setyaldi Putra', 'Mikkel Enghøj [15]']","['[INA] ', '[DEN] ']","['21-10', '21-14']",MS - Qualification ,20170119
-37,"['Alexander Roovers [11]', 'Peter Correll']","['[GER] ', '[DEN] ']","['21-13', '21-15']",MS - Qualification ,20170119
-38,"['Filip Michael Duwall Myhren', 'Jacob Nilsson', 'Emil Hybel Kristensen', 'Rasmus Kæseler']","['[SWE] ', '[SWE] ', '[DEN] ', '[DEN] ']","['18-21', '21-11', '21-19']",MD - Qualification ,20170119
-39,"['Philip Seerup', 'Irina Amalie Andersen', 'Dmitrii Riabov', 'Maria Shegurova']","['[DEN] ', '[DEN] ', '[RUS] ', '[RUS] ']","['18-21', '21-15', '21-14']",XD ,20170119
-40,"['Daniel Lundgaard', 'Amalie Magelund', 'Richard Eidestedt', 'Clara Nistad']","['[DEN] ', '[DEN] ', '[SWE] ', '[SWE] ']","['13-21', '21-10', '21-19']",XD ,20170119
-41,"['Clara Azurmendi', 'Anastasiia Semenova']","['[ESP] ', '[RUS] ']","['21-19', '21-16']",WS ,20170119
-42,"['Saili Rane [8]', 'Yaelle Hoyaux']","['[IND] ', '[FRA] ']","['21-12', '21-14']",WS ,20170119
-43,"['Henri Hurskainen [1]', 'Steffen Rasmussen']","['[SWE] ', '[DEN] ']","['21-12', '21-15']",MS ,20170119
-44,"['Kalle Koljonen [4]', 'Mikael Westerback']","['[FIN] ', '[SWE] ']","['21-10', '19-21', '21-17']",MS ,20170119
-45,"['Victor Svendsen [8]', 'Marius Myhre']","['[DEN] ', '[NOR] ']","['21-16', '22-20']",MS ,20170119
-46,"['Verlaine Faulmann', 'Vimala Heriau', 'Line Fleischer', 'Amanda Madsen']","['[FRA] ', '[FRA] ', '[DEN] ', '[DEN] ']","['21-17', '21-17']",WD ,20170119
-47,"['Amalie Magelund', 'Freja Ravn', 'Berfin Aslan', 'Amanda Wallin']","['[DEN] ', '[DEN] ', '[SWE] ', '[SWE] ']","['21-18', '21-18']",WD ,20170119
-48,"['Filip Michael Duwall Myhren', 'Jacob Nilsson', 'Giovanni Greco', 'Rosario Maddaloni']","['[SWE] ', '[SWE] ', '[ITA] ', '[ITA] ']","['21-13', '21-10']",MD ,20170119
-49,"['Bastian Kersaudy [2]', 'Lea Palermo', 'Daniel Lundgaard', 'Amalie Magelund']","['[FRA] ', '[FRA] ', '[DEN] ', '[DEN] ']","['21-15', '21-12']",XD ,20170119
-50,"['Iben Bergstein', 'Saili Rane [8]']","['[DEN] ', '[IND] ']","['21-16', '8-1']",WS ,20170119
-51,"['Kim Bruun [2]', 'Arnaud Merkle']","['[DEN] ', '[FRA] ']","['21-7', '18-21', '21-14']",MS ,20170119
-52,"['Jordan Corvee [3]', 'Anne Tran', 'Andreas Hoffmann', 'Louise Eriksson']","['[FRA] ', '[FRA] ', '[DEN] ', '[SWE] ']","['21-19', '21-16']",XD ,20170119
-53,"['Rasmus Gemke', 'Henri Hurskainen [1]']","['[DEN] ', '[SWE] ']","['12-21', '22-20', '21-18']",MS ,20170119
-54,"['Emma Karlsson', 'Johanna Magnusson', 'Madeleine Persson', 'Stina Runesson']","['[SWE] ', '[SWE] ', '[SWE] ', '[SWE] ']","['21-8', '21-9']",WD ,20170119
-55,"['Alexandra Bøje', 'Lena Grebak', 'Elisa Melgaard', 'Maja Rindshoej']","['[DEN] ', '[DEN] ', '[DEN] ', '[DEN] ']","['21-13', '21-18']",WD ,20170119
-56,"['Mikkel Elbjorn', 'Kristoffer Knudsen', 'Wirawan Ihsan Adam', 'Wibowo Setyaldi Putra']","['[DEN] ', '[DEN] ', '[INA] ', '[INA] ']","['23-21', '21-16']",MD ,20170119
-57,"['Paw Eriksen', 'Mads Thøgersen', 'Robert Golding', 'Phone Pyae Naing Phone Pyae Naing']","['[DEN] ', '[DEN] ', '[ENG] ', '[MYA] ']","['21-15', '23-21']",MD ,20170119
-58,"['Emil Lauritzen', 'Elisa Melgaard', 'Mika Kongas', 'Elina Niiranen']","['[DEN] ', '[DEN] ', '[FIN] ', '[FIN] ']","['21-9', '21-10']",XD ,20170119
-59,"['Agnes Korosi', 'Manon Krieger']","['[HUN] ', '[FRA] ']","['21-17', '21-12']",WS ,20170119
-60,"['Kate Foo Kune [7]', 'Ayla Huser']","['[MRI] ', '[SUI] ']","['14-21', '26-24', '24-22']",WS ,20170119
-61,"['Panuga Riou', 'Camilla Martens']","['[ENG] ', '[DEN] ']","['13-21', '21-11', '21-16']",WS ,20170119
-62,"['Ksenia Polikarpova [2]', 'Amalie Hertz Hansen']","['[RUS] ', '[DEN] ']","['21-14', '21-11']",WS ,20170119
-63,"['Gergely Krausz', 'Pierrick Cajot']","['[HUN] ', '[FRA] ']","['21-18', '21-19']",MS ,20170119
-64,"['Sam Parsons', 'Kasper Lehikoinen']","['[ENG] ', '[FIN] ']","['21-18', '13-21', '21-17']",MS ,20170119
-65,"['Yu Igarashi', 'Sergey Sirant [3]']","['[JPN] ', '[RUS] ']","['21-19', '21-14']",MS ,20170119
-66,"['Mari Ann Karjus', 'Kati-Kreet Marran', 'Vytaute Fomkinaite', 'Gerda Voitechovskaja']","['[EST] ', '[EST] ', '[LTU] ', '[LTU] ']","['21-10', '26-24']",WD ,20170119
-67,"['Jordan Corvee', 'Thom Gicquel', 'Philip Brandt', 'Christoffer Holm Voldsgaard']","['[FRA] ', '[FRA] ', '[DEN] ', '[DEN] ']","['21-15', '21-11']",MD ,20170119
-68,"['Patrick Lundqvist', 'Jonatan Nordh', 'Mads Emil Christensen', 'Rasmus Rylander']","['[SWE] ', '[SWE] ', '[DEN] ', '[DEN] ']","['21-18', '21-19']",MD ,20170119
-69,"['Ksenia Polikarpova [2]', 'Panuga Riou']","['[RUS] ', '[ENG] ']","['21-14', '18-21', '21-14']",WS ,20170119
-70,"['Victor Svendsen [8]', 'Sam Parsons']","['[DEN] ', '[ENG] ']","['14-21', '21-13', '21-15']",MS ,20170119
-71,"['Mikkel Mikkelsen [4]', 'Mai Surrow', 'Jeppe Bay', 'Cecilie Finne-Ipsen']","['[DEN] ', '[DEN] ', '[DEN] ', '[DEN] ']","['21-12', '21-8']",XD ,20170119
-72,"['Mattias Borg [7]', 'Toma Junior Popov']","['[SWE] ', '[FRA] ']","['22-20', '21-17']",MS ,20170119
-73,"['Richard Eidestedt [1]', 'Nico Ruponen', 'Jordan Corvee', 'Thom Gicquel']","['[SWE] ', '[SWE] ', '[FRA] ', '[FRA] ']","['22-24', '21-16', '21-10']",MD ,20170119
-74,"['Kristin Kuuba [3]', 'Helina Rüütel', 'Verlaine Faulmann', 'Vimala Heriau']","['[EST] ', '[EST] ', '[FRA] ', '[FRA] ']","['21-11', '19-21', '21-11']",WD ,20170119
-75,"['Mikkel Mikkelsen [4]', 'Mai Surrow', 'Eloi Adam', 'Vimala Heriau']","['[DEN] ', '[DEN] ', '[FRA] ', '[FRA] ']","['21-13', '21-15']",XD ,20170119
-76,"['Clara Azurmendi', 'Iben Bergstein']","['[ESP] ', '[DEN] ']","['21-13', '21-19']",WS ,20170119
-77,"['Mia Blichfeldt [1]', 'Lydia Jane Powell']","['[DEN] ', '[ENG] ']","['21-18', '21-6']",WS ,20170119
-78,"['Clara Nistad [1]', 'Emma Wengberg', 'Gabriella Bøje', 'Cecilie Sentow']","['[SWE] ', '[SWE] ', '[DEN] ', '[DEN] ']","['21-10', '21-12']",WD ,20170119
-79,"['Delphine Delrue [4]', 'Lea Palermo', 'Ksenia Evgenova', 'Maria Shegurova']","['[FRA] ', '[FRA] ', '[RUS] ', '[RUS] ']","['21-17', '21-15']",WD ,20170119
-80,"['Mathias Bay-Smidt', 'Alexandra Bøje', 'Nico Ruponen [1]', 'Amanda Hogstrom']","['[DEN] ', '[DEN] ', '[SWE] ', '[SWE] ']","['21-19', '21-18']",XD ,20170119
-81,"['Wibowo Setyaldi Putra', 'Victor Svendsen [8]']","['[INA] ', '[DEN] ']","['21-14', '17-21', '21-11']",MS ,20170119
-82,"['Sofie Holmboe Dahl [6]', 'Ksenia Polikarpova [2]']","['[DEN] ', '[RUS] ']","['19-21', '24-22', '21-13']",WS ,20170119
-83,"['Alexandra Bøje', 'Lena Grebak', 'Kristin Kuuba [3]', 'Helina Rüütel']","['[DEN] ', '[DEN] ', '[EST] ', '[EST] ']","['22-20', '21-18']",WD ,20170119
-84,"['Filip Michael Duwall Myhren', 'Jacob Nilsson', 'Philip Seerup', 'Mikkel Stoffersen']","['[SWE] ', '[SWE] ', '[DEN] ', '[DEN] ']","['21-19', '21-18']",MD ,20170119
-85,"['Mikkel Mikkelsen [4]', 'Mai Surrow', 'Bastian Kersaudy [2]', 'Lea Palermo']","['[DEN] ', '[DEN] ', '[FRA] ', '[FRA] ']","['21-13', '21-7']",XD ,20170119
-86,"['Wibowo Setyaldi Putra', 'Rasmus Gemke']","['[INA] ', '[DEN] ']","['21-15', '12-21', '21-14']",MS ,20170119
-87,"['Mia Blichfeldt [1]', 'Clara Azurmendi']","['[DEN] ', '[ESP] ']","['21-6', '21-18']",WS ,20170119
-88,"['Alexandra Bøje', 'Lena Grebak', 'Julie Finne-Ipsen [2]', 'Rikke Søby']","['[DEN] ', '[DEN] ', '[DEN] ', '[DEN] ']","['21-18', '21-12']",WD ,20170119
-89,"['Konstantin Abramov [2]', 'Alexandr Zinchenko', 'Thomas Baures', 'Leo Rossi']","['[RUS] ', '[RUS] ', '[FRA] ', '[FRA] ']","['21-7', '18-21', '21-16']",MD ,20170119
-90,"['Thom Gicquel', 'Delphine Delrue', 'Jordan Corvee [3]', 'Anne Tran']","['[FRA] ', '[FRA] ', '[FRA] ', '[FRA] ']","['21-15', '21-14']",XD ,20170119
-91,"['Mattias Borg [7]', '. Hermansyah']","['[SWE] ', '[INA] ']","['17-21', '21-16', '21-17']",MS ,20170119
-92,"['Toby Penty [6]', 'Kim Bruun [2]']","['[ENG] ', '[DEN] ']","['21-17', '18-21', '21-15']",MS ,20170119
-93,"['Rasmus Gemke', 'Mikkel Mikkelsen']","['[DEN] ', '[DEN] ']","['21-14', '21-11']",MS ,20170119
-94,"['Richard Eidestedt [1]', 'Nico Ruponen', 'Mikkel Elbjorn', 'Kristoffer Knudsen']","['[SWE] ', '[SWE] ', '[DEN] ', '[DEN] ']","['16-21', '21-19', '21-13']",MD ,20170119
-95,"['Mathias Bay-Smidt', 'Alexandra Bøje', 'Thom Gicquel', 'Delphine Delrue']","['[DEN] ', '[DEN] ', '[FRA] ', '[FRA] ']","['21-13', '21-11']",XD ,20170119
-96,"['Sofie Holmboe Dahl [6]', 'Line Christophersen']","['[DEN] ', '[DEN] ']","['21-18', '21-13']",WS ,20170119
-97,"['Toby Penty [6]', 'Mattias Borg [7]']","['[ENG] ', '[SWE] ']","['21-17', '21-7']",MS ,20170119
-98,"['Richard Eidestedt [1]', 'Nico Ruponen', 'Filip Michael Duwall Myhren', 'Jacob Nilsson']","['[SWE] ', '[SWE] ', '[SWE] ', '[SWE] ']","['21-16', '21-23', '21-13']",MD ,20170119
-99,"['Clara Nistad [1]', 'Emma Wengberg', 'Delphine Delrue [4]', 'Lea Palermo']","['[SWE] ', '[SWE] ', '[FRA] ', '[FRA] ']","['21-15', '21-19']",WD ,20170119
-100,"['Bastian Kersaudy [2]', 'Lea Palermo', 'Nicklas Mathiasen', 'Gabriella Bøje']","['[FRA] ', '[FRA] ', '[DEN] ', '[DEN] ']","['21-18', '21-19']",XD ,20170119
-101,"['Line Christophersen', 'Julie Dawall Jakobsen [5]']","['[DEN] ', '[DEN] ']","['20-22', '21-17', '23-21']",WS ,20170119
-102,"['Konstantin Abramov [2]', 'Alexandr Zinchenko', 'Patrick Lundqvist', 'Jonatan Nordh']","['[RUS] ', '[RUS] ', '[SWE] ', '[SWE] ']","['21-12', '21-14']",MD ,20170119
-103,"['Thomas Baures', 'Leo Rossi', 'Paw Eriksen', 'Mads Thøgersen']","['[FRA] ', '[FRA] ', '[DEN] ', '[DEN] ']","['21-18', '10-21', '21-19']",MD ,20170119
-104,"['Julie Finne-Ipsen [2]', 'Rikke Søby', 'Emma Karlsson', 'Johanna Magnusson']","['[DEN] ', '[DEN] ', '[SWE] ', '[SWE] ']","['16-21', '21-5', '21-15']",WD ,20170119
-105,"['Mikkel Mikkelsen [4]', 'Mai Surrow', 'Mathias Bay-Smidt', 'Alexandra Bøje']","['[DEN] ', '[DEN] ', '[DEN] ', '[DEN] ']","['21-18', '21-14']",XD ,20170119
-106,"['Mia Blichfeldt [1]', 'Sofie Holmboe Dahl [6]']","['[DEN] ', '[DEN] ']","['21-19', '21-16']",WS (after prize giving ceremony),20170119
-107,"['Toby Penty [6]', 'Wibowo Setyaldi Putra']","['[ENG] ', '[INA] ']","['21-12', '21-11']",MS (after prize giving ceremony),20170119
-108,"['Clara Nistad [1]', 'Emma Wengberg', 'Alexandra Bøje', 'Lena Grebak']","['[SWE] ', '[SWE] ', '[DEN] ', '[DEN] ']","['21-17', '24-22']",WD (after prize giving ceremony),20170119
-109,"['Konstantin Abramov [2]', 'Alexandr Zinchenko', 'Richard Eidestedt [1]', 'Nico Ruponen']","['[RUS] ', '[RUS] ', '[SWE] ', '[SWE] ']","['21-17', '22-20']",MD (after prize giving ceremony),20170119
+,PLAYERS,COUNTRIES,SCORES,EVENT,match_week,match_location
+0,"['Mikkel Stoffersen', 'Susan Ekelund', 'Filip Michael Duwall Myhren [4]', 'Johanna Magnusson']","['[DEN] ', '[DEN] ', '[SWE] ', '[SWE] ']","['21-17', '21-13']",XD - Qualification ,20170119,"Lund, Sweden"
+1,"['Arnaud Merkle [12]', 'David Kim Kristensen']","['[FRA] ', '[DEN] ']","['21-19', '19-21', '21-17']",MS - Qualification ,20170119,"Lund, Sweden"
+2,"['Felix Nandin', 'Dmitrii Riabov']","['[SWE] ', '[RUS] ']","['24-26', '21-13', '22-20']",MS - Qualification ,20170119,"Lund, Sweden"
+3,"['Mikkel Mikkelsen [5]', 'Andy Tsai']","['[DEN] ', '[SWE] ']","['21-13', '22-20']",MS - Qualification ,20170119,"Lund, Sweden"
+4,"['Mikkel Stoffersen', 'Susan Ekelund', 'Søren Toft', 'Line Fleischer']","['[DEN] ', '[DEN] ', '[DEN] ', '[DEN] ']","['21-13', '21-17']",XD - Qualification ,20170119,"Lund, Sweden"
+5,"['. Hermansyah [14]', 'Shaun Ekengren']","['[INA] ', '[SWE] ']","['21-14', '21-11']",MS - Qualification ,20170119,"Lund, Sweden"
+6,"['Rasmus Kæseler', 'Fabio Caponio [10]']","['[DEN] ', '[ITA] ']","['21-17', '13-21', '21-17']",MS - Qualification ,20170119,"Lund, Sweden"
+7,"['Noora Ahola', 'Linda Marie Danielsson']","['[FIN] ', '[SWE] ']","['21-12', '21-19']",WS - Qualification ,20170119,"Lund, Sweden"
+8,"['Marc Laporte', 'Daniel Ojaaar [2]']","['[FRA] ', '[SWE] ']","['21-16', '21-23', '21-13']",MS - Qualification ,20170119,"Lund, Sweden"
+9,"['Rebecka Kuhl [4]', 'Emilie Aalestrup']","['[SWE] ', '[DEN] ']","['21-19', '21-19']",WS - Qualification ,20170119,"Lund, Sweden"
+10,"['Emil Hybel Kristensen', 'Rasmus Kæseler', 'Viktor Aglinder', 'Oskar Johansson']","['[DEN] ', '[DEN] ', '[SWE] ', '[SWE] ']","['21-14', '21-12']",MD - Qualification ,20170119,"Lund, Sweden"
+11,"['Jeppe Bruun Christensen', 'Tobias Holst-Christensen', 'Felix Nandin [4]', 'Oskar Westerlund']","['[DEN] ', '[DEN] ', '[SWE] ', '[SWE] ']","['21-16', '21-10']",MD - Qualification ,20170119,"Lund, Sweden"
+12,"['Arnaud Merkle [12]', 'Douglas Lidman']","['[FRA] ', '[SWE] ']","['21-17', '21-16']",MS - Qualification ,20170119,"Lund, Sweden"
+13,"['Mikkel Mikkelsen [5]', 'Jeppe Bruun Christensen']","['[DEN] ', '[DEN] ']","['21-11', '21-14']",MS - Qualification ,20170119,"Lund, Sweden"
+14,"['Mattias Wigardt', 'Mads Christophersen [7]']","['[SWE] ', '[DEN] ']","['23-21', '21-14']",MS - Qualification ,20170119,"Lund, Sweden"
+15,"['Søren Toft [8]', 'Mads Thøgersen']","['[DEN] ', '[DEN] ']","['21-9', '21-15']",MS - Qualification ,20170119,"Lund, Sweden"
+16,"['. Hermansyah [14]', 'Rudolf Dellenbach [1]']","['[INA] ', '[ITA] ']","['21-11', '21-15']",MS - Qualification ,20170119,"Lund, Sweden"
+17,"['Vincent Medina', 'Søren Toft [8]']","['[FRA] ', '[DEN] ']","['18-21', '21-17', '21-11']",MS - Qualification ,20170119,"Lund, Sweden"
+18,"['Eloi Adam', 'Samy Corvee', 'Adam Gozzi', 'Carl Harrbacka']","['[FRA] ', '[FRA] ', '[SWE] ', '[SWE] ']","['21-14', '21-19']",MD - Qualification ,20170119,"Lund, Sweden"
+19,"['Søren Toft', 'Line Fleischer', 'Martin Forssberg', 'Madeleine Persson']","['[DEN] ', '[DEN] ', '[SWE] ', '[SWE] ']","['21-14', '21-11']",XD - Qualification ,20170119,"Lund, Sweden"
+20,"['Douglas Lidman', 'Giovanni Greco']","['[SWE] ', '[ITA] ']","['21-15', '18-21', '21-13']",MS - Qualification ,20170119,"Lund, Sweden"
+21,"['Morgan Lidman', 'Mika Kongas']","['[SWE] ', '[FIN] ']","['21-18', '21-15']",MS - Qualification ,20170119,"Lund, Sweden"
+22,"['Leo Rossi', 'Maciej Poulakowski [16]']","['[FRA] ', '[POL] ']","['13-21', '21-17', '21-12']",MS - Qualification ,20170119,"Lund, Sweden"
+23,"['Andreas Hoffmann', 'Louise Eriksson', 'Tobias Holst-Christensen', 'Mathilde Bjergen']","['[DEN] ', '[SWE] ', '[DEN] ', '[DEN] ']","['21-16', '21-14']",XD - Qualification ,20170119,"Lund, Sweden"
+24,"['Mads Thøgersen', 'Victor Zuhr']","['[DEN] ', '[SWE] ']","['21-15', '21-10']",MS - Qualification ,20170119,"Lund, Sweden"
+25,"['Mattias Wigardt', 'Mads Emil Kristensen']","['[SWE] ', '[DEN] ']","['21-8', '21-13']",MS - Qualification ,20170119,"Lund, Sweden"
+26,"['Sofie Zacho Vestergaard', 'Lovisa Johansson [7]']","['[DEN] ', '[SWE] ']","['19-21', '22-20', '21-18']",WS - Qualification ,20170119,"Lund, Sweden"
+27,"['Frida Lindstrom', 'Mari Ann Karjus']","['[SWE] ', '[EST] ']","['21-16', '21-7']",WS - Qualification ,20170119,"Lund, Sweden"
+28,"['Emma Karlsson', 'Kati-Kreet Marran [6]']","['[SWE] ', '[EST] ']","['21-13', '22-20']",WS - Qualification ,20170119,"Lund, Sweden"
+29,"['Paw Eriksen', 'Mads Thøgersen', 'Martin Forssberg', 'Nils Ihse']","['[DEN] ', '[DEN] ', '[SWE] ', '[SWE] ']","['21-12', '21-12']",MD - Qualification ,20170119,"Lund, Sweden"
+30,"['Line Christophersen', 'Malena Norrman']","['[DEN] ', '[SWE] ']","['21-4', '21-10']",WS - Qualification ,20170119,"Lund, Sweden"
+31,"['Frida Lindstrom', 'Vytaute Fomkinaite [8]']","['[SWE] ', '[LTU] ']","['8-21', '21-11', '21-14']",WS - Qualification ,20170119,"Lund, Sweden"
+32,"['Mark Mohr Laursen Damgaard', 'Leo Rossi']","['[DEN] ', '[FRA] ']","['21-17', '21-16']",MS - Qualification ,20170119,"Lund, Sweden"
+33,"['Peter Correll', 'Philip Busch Andreasen']","['[DEN] ', '[DEN] ']","['21-19', '21-17']",MS - Qualification ,20170119,"Lund, Sweden"
+34,"['Mikkel Enghøj [15]', 'Felix Nandin']","['[DEN] ', '[SWE] ']","['21-11', '21-14']",MS - Qualification ,20170119,"Lund, Sweden"
+35,"['Alexander Roovers [11]', 'Oskar Westerlund']","['[GER] ', '[SWE] ']","['21-11', '21-7']",MS - Qualification ,20170119,"Lund, Sweden"
+36,"['Wibowo Setyaldi Putra', 'Mikkel Enghøj [15]']","['[INA] ', '[DEN] ']","['21-10', '21-14']",MS - Qualification ,20170119,"Lund, Sweden"
+37,"['Alexander Roovers [11]', 'Peter Correll']","['[GER] ', '[DEN] ']","['21-13', '21-15']",MS - Qualification ,20170119,"Lund, Sweden"
+38,"['Filip Michael Duwall Myhren', 'Jacob Nilsson', 'Emil Hybel Kristensen', 'Rasmus Kæseler']","['[SWE] ', '[SWE] ', '[DEN] ', '[DEN] ']","['18-21', '21-11', '21-19']",MD - Qualification ,20170119,"Lund, Sweden"
+39,"['Philip Seerup', 'Irina Amalie Andersen', 'Dmitrii Riabov', 'Maria Shegurova']","['[DEN] ', '[DEN] ', '[RUS] ', '[RUS] ']","['18-21', '21-15', '21-14']",XD ,20170119,"Lund, Sweden"
+40,"['Daniel Lundgaard', 'Amalie Magelund', 'Richard Eidestedt', 'Clara Nistad']","['[DEN] ', '[DEN] ', '[SWE] ', '[SWE] ']","['13-21', '21-10', '21-19']",XD ,20170119,"Lund, Sweden"
+41,"['Clara Azurmendi', 'Anastasiia Semenova']","['[ESP] ', '[RUS] ']","['21-19', '21-16']",WS ,20170119,"Lund, Sweden"
+42,"['Saili Rane [8]', 'Yaelle Hoyaux']","['[IND] ', '[FRA] ']","['21-12', '21-14']",WS ,20170119,"Lund, Sweden"
+43,"['Henri Hurskainen [1]', 'Steffen Rasmussen']","['[SWE] ', '[DEN] ']","['21-12', '21-15']",MS ,20170119,"Lund, Sweden"
+44,"['Kalle Koljonen [4]', 'Mikael Westerback']","['[FIN] ', '[SWE] ']","['21-10', '19-21', '21-17']",MS ,20170119,"Lund, Sweden"
+45,"['Victor Svendsen [8]', 'Marius Myhre']","['[DEN] ', '[NOR] ']","['21-16', '22-20']",MS ,20170119,"Lund, Sweden"
+46,"['Verlaine Faulmann', 'Vimala Heriau', 'Line Fleischer', 'Amanda Madsen']","['[FRA] ', '[FRA] ', '[DEN] ', '[DEN] ']","['21-17', '21-17']",WD ,20170119,"Lund, Sweden"
+47,"['Amalie Magelund', 'Freja Ravn', 'Berfin Aslan', 'Amanda Wallin']","['[DEN] ', '[DEN] ', '[SWE] ', '[SWE] ']","['21-18', '21-18']",WD ,20170119,"Lund, Sweden"
+48,"['Filip Michael Duwall Myhren', 'Jacob Nilsson', 'Giovanni Greco', 'Rosario Maddaloni']","['[SWE] ', '[SWE] ', '[ITA] ', '[ITA] ']","['21-13', '21-10']",MD ,20170119,"Lund, Sweden"
+49,"['Bastian Kersaudy [2]', 'Lea Palermo', 'Daniel Lundgaard', 'Amalie Magelund']","['[FRA] ', '[FRA] ', '[DEN] ', '[DEN] ']","['21-15', '21-12']",XD ,20170119,"Lund, Sweden"
+50,"['Iben Bergstein', 'Saili Rane [8]']","['[DEN] ', '[IND] ']","['21-16', '8-1']",WS ,20170119,"Lund, Sweden"
+51,"['Kim Bruun [2]', 'Arnaud Merkle']","['[DEN] ', '[FRA] ']","['21-7', '18-21', '21-14']",MS ,20170119,"Lund, Sweden"
+52,"['Jordan Corvee [3]', 'Anne Tran', 'Andreas Hoffmann', 'Louise Eriksson']","['[FRA] ', '[FRA] ', '[DEN] ', '[SWE] ']","['21-19', '21-16']",XD ,20170119,"Lund, Sweden"
+53,"['Rasmus Gemke', 'Henri Hurskainen [1]']","['[DEN] ', '[SWE] ']","['12-21', '22-20', '21-18']",MS ,20170119,"Lund, Sweden"
+54,"['Emma Karlsson', 'Johanna Magnusson', 'Madeleine Persson', 'Stina Runesson']","['[SWE] ', '[SWE] ', '[SWE] ', '[SWE] ']","['21-8', '21-9']",WD ,20170119,"Lund, Sweden"
+55,"['Alexandra Bøje', 'Lena Grebak', 'Elisa Melgaard', 'Maja Rindshoej']","['[DEN] ', '[DEN] ', '[DEN] ', '[DEN] ']","['21-13', '21-18']",WD ,20170119,"Lund, Sweden"
+56,"['Mikkel Elbjorn', 'Kristoffer Knudsen', 'Wirawan Ihsan Adam', 'Wibowo Setyaldi Putra']","['[DEN] ', '[DEN] ', '[INA] ', '[INA] ']","['23-21', '21-16']",MD ,20170119,"Lund, Sweden"
+57,"['Paw Eriksen', 'Mads Thøgersen', 'Robert Golding', 'Phone Pyae Naing Phone Pyae Naing']","['[DEN] ', '[DEN] ', '[ENG] ', '[MYA] ']","['21-15', '23-21']",MD ,20170119,"Lund, Sweden"
+58,"['Emil Lauritzen', 'Elisa Melgaard', 'Mika Kongas', 'Elina Niiranen']","['[DEN] ', '[DEN] ', '[FIN] ', '[FIN] ']","['21-9', '21-10']",XD ,20170119,"Lund, Sweden"
+59,"['Agnes Korosi', 'Manon Krieger']","['[HUN] ', '[FRA] ']","['21-17', '21-12']",WS ,20170119,"Lund, Sweden"
+60,"['Kate Foo Kune [7]', 'Ayla Huser']","['[MRI] ', '[SUI] ']","['14-21', '26-24', '24-22']",WS ,20170119,"Lund, Sweden"
+61,"['Panuga Riou', 'Camilla Martens']","['[ENG] ', '[DEN] ']","['13-21', '21-11', '21-16']",WS ,20170119,"Lund, Sweden"
+62,"['Ksenia Polikarpova [2]', 'Amalie Hertz Hansen']","['[RUS] ', '[DEN] ']","['21-14', '21-11']",WS ,20170119,"Lund, Sweden"
+63,"['Gergely Krausz', 'Pierrick Cajot']","['[HUN] ', '[FRA] ']","['21-18', '21-19']",MS ,20170119,"Lund, Sweden"
+64,"['Sam Parsons', 'Kasper Lehikoinen']","['[ENG] ', '[FIN] ']","['21-18', '13-21', '21-17']",MS ,20170119,"Lund, Sweden"
+65,"['Yu Igarashi', 'Sergey Sirant [3]']","['[JPN] ', '[RUS] ']","['21-19', '21-14']",MS ,20170119,"Lund, Sweden"
+66,"['Mari Ann Karjus', 'Kati-Kreet Marran', 'Vytaute Fomkinaite', 'Gerda Voitechovskaja']","['[EST] ', '[EST] ', '[LTU] ', '[LTU] ']","['21-10', '26-24']",WD ,20170119,"Lund, Sweden"
+67,"['Jordan Corvee', 'Thom Gicquel', 'Philip Brandt', 'Christoffer Holm Voldsgaard']","['[FRA] ', '[FRA] ', '[DEN] ', '[DEN] ']","['21-15', '21-11']",MD ,20170119,"Lund, Sweden"
+68,"['Patrick Lundqvist', 'Jonatan Nordh', 'Mads Emil Christensen', 'Rasmus Rylander']","['[SWE] ', '[SWE] ', '[DEN] ', '[DEN] ']","['21-18', '21-19']",MD ,20170119,"Lund, Sweden"
+69,"['Ksenia Polikarpova [2]', 'Panuga Riou']","['[RUS] ', '[ENG] ']","['21-14', '18-21', '21-14']",WS ,20170119,"Lund, Sweden"
+70,"['Victor Svendsen [8]', 'Sam Parsons']","['[DEN] ', '[ENG] ']","['14-21', '21-13', '21-15']",MS ,20170119,"Lund, Sweden"
+71,"['Mikkel Mikkelsen [4]', 'Mai Surrow', 'Jeppe Bay', 'Cecilie Finne-Ipsen']","['[DEN] ', '[DEN] ', '[DEN] ', '[DEN] ']","['21-12', '21-8']",XD ,20170119,"Lund, Sweden"
+72,"['Mattias Borg [7]', 'Toma Junior Popov']","['[SWE] ', '[FRA] ']","['22-20', '21-17']",MS ,20170119,"Lund, Sweden"
+73,"['Richard Eidestedt [1]', 'Nico Ruponen', 'Jordan Corvee', 'Thom Gicquel']","['[SWE] ', '[SWE] ', '[FRA] ', '[FRA] ']","['22-24', '21-16', '21-10']",MD ,20170119,"Lund, Sweden"
+74,"['Kristin Kuuba [3]', 'Helina Rüütel', 'Verlaine Faulmann', 'Vimala Heriau']","['[EST] ', '[EST] ', '[FRA] ', '[FRA] ']","['21-11', '19-21', '21-11']",WD ,20170119,"Lund, Sweden"
+75,"['Mikkel Mikkelsen [4]', 'Mai Surrow', 'Eloi Adam', 'Vimala Heriau']","['[DEN] ', '[DEN] ', '[FRA] ', '[FRA] ']","['21-13', '21-15']",XD ,20170119,"Lund, Sweden"
+76,"['Clara Azurmendi', 'Iben Bergstein']","['[ESP] ', '[DEN] ']","['21-13', '21-19']",WS ,20170119,"Lund, Sweden"
+77,"['Mia Blichfeldt [1]', 'Lydia Jane Powell']","['[DEN] ', '[ENG] ']","['21-18', '21-6']",WS ,20170119,"Lund, Sweden"
+78,"['Clara Nistad [1]', 'Emma Wengberg', 'Gabriella Bøje', 'Cecilie Sentow']","['[SWE] ', '[SWE] ', '[DEN] ', '[DEN] ']","['21-10', '21-12']",WD ,20170119,"Lund, Sweden"
+79,"['Delphine Delrue [4]', 'Lea Palermo', 'Ksenia Evgenova', 'Maria Shegurova']","['[FRA] ', '[FRA] ', '[RUS] ', '[RUS] ']","['21-17', '21-15']",WD ,20170119,"Lund, Sweden"
+80,"['Mathias Bay-Smidt', 'Alexandra Bøje', 'Nico Ruponen [1]', 'Amanda Hogstrom']","['[DEN] ', '[DEN] ', '[SWE] ', '[SWE] ']","['21-19', '21-18']",XD ,20170119,"Lund, Sweden"
+81,"['Wibowo Setyaldi Putra', 'Victor Svendsen [8]']","['[INA] ', '[DEN] ']","['21-14', '17-21', '21-11']",MS ,20170119,"Lund, Sweden"
+82,"['Sofie Holmboe Dahl [6]', 'Ksenia Polikarpova [2]']","['[DEN] ', '[RUS] ']","['19-21', '24-22', '21-13']",WS ,20170119,"Lund, Sweden"
+83,"['Alexandra Bøje', 'Lena Grebak', 'Kristin Kuuba [3]', 'Helina Rüütel']","['[DEN] ', '[DEN] ', '[EST] ', '[EST] ']","['22-20', '21-18']",WD ,20170119,"Lund, Sweden"
+84,"['Filip Michael Duwall Myhren', 'Jacob Nilsson', 'Philip Seerup', 'Mikkel Stoffersen']","['[SWE] ', '[SWE] ', '[DEN] ', '[DEN] ']","['21-19', '21-18']",MD ,20170119,"Lund, Sweden"
+85,"['Mikkel Mikkelsen [4]', 'Mai Surrow', 'Bastian Kersaudy [2]', 'Lea Palermo']","['[DEN] ', '[DEN] ', '[FRA] ', '[FRA] ']","['21-13', '21-7']",XD ,20170119,"Lund, Sweden"
+86,"['Wibowo Setyaldi Putra', 'Rasmus Gemke']","['[INA] ', '[DEN] ']","['21-15', '12-21', '21-14']",MS ,20170119,"Lund, Sweden"
+87,"['Mia Blichfeldt [1]', 'Clara Azurmendi']","['[DEN] ', '[ESP] ']","['21-6', '21-18']",WS ,20170119,"Lund, Sweden"
+88,"['Alexandra Bøje', 'Lena Grebak', 'Julie Finne-Ipsen [2]', 'Rikke Søby']","['[DEN] ', '[DEN] ', '[DEN] ', '[DEN] ']","['21-18', '21-12']",WD ,20170119,"Lund, Sweden"
+89,"['Konstantin Abramov [2]', 'Alexandr Zinchenko', 'Thomas Baures', 'Leo Rossi']","['[RUS] ', '[RUS] ', '[FRA] ', '[FRA] ']","['21-7', '18-21', '21-16']",MD ,20170119,"Lund, Sweden"
+90,"['Thom Gicquel', 'Delphine Delrue', 'Jordan Corvee [3]', 'Anne Tran']","['[FRA] ', '[FRA] ', '[FRA] ', '[FRA] ']","['21-15', '21-14']",XD ,20170119,"Lund, Sweden"
+91,"['Mattias Borg [7]', '. Hermansyah']","['[SWE] ', '[INA] ']","['17-21', '21-16', '21-17']",MS ,20170119,"Lund, Sweden"
+92,"['Toby Penty [6]', 'Kim Bruun [2]']","['[ENG] ', '[DEN] ']","['21-17', '18-21', '21-15']",MS ,20170119,"Lund, Sweden"
+93,"['Rasmus Gemke', 'Mikkel Mikkelsen']","['[DEN] ', '[DEN] ']","['21-14', '21-11']",MS ,20170119,"Lund, Sweden"
+94,"['Richard Eidestedt [1]', 'Nico Ruponen', 'Mikkel Elbjorn', 'Kristoffer Knudsen']","['[SWE] ', '[SWE] ', '[DEN] ', '[DEN] ']","['16-21', '21-19', '21-13']",MD ,20170119,"Lund, Sweden"
+95,"['Mathias Bay-Smidt', 'Alexandra Bøje', 'Thom Gicquel', 'Delphine Delrue']","['[DEN] ', '[DEN] ', '[FRA] ', '[FRA] ']","['21-13', '21-11']",XD ,20170119,"Lund, Sweden"
+96,"['Sofie Holmboe Dahl [6]', 'Line Christophersen']","['[DEN] ', '[DEN] ']","['21-18', '21-13']",WS ,20170119,"Lund, Sweden"
+97,"['Toby Penty [6]', 'Mattias Borg [7]']","['[ENG] ', '[SWE] ']","['21-17', '21-7']",MS ,20170119,"Lund, Sweden"
+98,"['Richard Eidestedt [1]', 'Nico Ruponen', 'Filip Michael Duwall Myhren', 'Jacob Nilsson']","['[SWE] ', '[SWE] ', '[SWE] ', '[SWE] ']","['21-16', '21-23', '21-13']",MD ,20170119,"Lund, Sweden"
+99,"['Clara Nistad [1]', 'Emma Wengberg', 'Delphine Delrue [4]', 'Lea Palermo']","['[SWE] ', '[SWE] ', '[FRA] ', '[FRA] ']","['21-15', '21-19']",WD ,20170119,"Lund, Sweden"
+100,"['Bastian Kersaudy [2]', 'Lea Palermo', 'Nicklas Mathiasen', 'Gabriella Bøje']","['[FRA] ', '[FRA] ', '[DEN] ', '[DEN] ']","['21-18', '21-19']",XD ,20170119,"Lund, Sweden"
+101,"['Line Christophersen', 'Julie Dawall Jakobsen [5]']","['[DEN] ', '[DEN] ']","['20-22', '21-17', '23-21']",WS ,20170119,"Lund, Sweden"
+102,"['Konstantin Abramov [2]', 'Alexandr Zinchenko', 'Patrick Lundqvist', 'Jonatan Nordh']","['[RUS] ', '[RUS] ', '[SWE] ', '[SWE] ']","['21-12', '21-14']",MD ,20170119,"Lund, Sweden"
+103,"['Thomas Baures', 'Leo Rossi', 'Paw Eriksen', 'Mads Thøgersen']","['[FRA] ', '[FRA] ', '[DEN] ', '[DEN] ']","['21-18', '10-21', '21-19']",MD ,20170119,"Lund, Sweden"
+104,"['Julie Finne-Ipsen [2]', 'Rikke Søby', 'Emma Karlsson', 'Johanna Magnusson']","['[DEN] ', '[DEN] ', '[SWE] ', '[SWE] ']","['16-21', '21-5', '21-15']",WD ,20170119,"Lund, Sweden"
+105,"['Mikkel Mikkelsen [4]', 'Mai Surrow', 'Mathias Bay-Smidt', 'Alexandra Bøje']","['[DEN] ', '[DEN] ', '[DEN] ', '[DEN] ']","['21-18', '21-14']",XD ,20170119,"Lund, Sweden"
+106,"['Mia Blichfeldt [1]', 'Sofie Holmboe Dahl [6]']","['[DEN] ', '[DEN] ']","['21-19', '21-16']",WS (after prize giving ceremony),20170119,"Lund, Sweden"
+107,"['Toby Penty [6]', 'Wibowo Setyaldi Putra']","['[ENG] ', '[INA] ']","['21-12', '21-11']",MS (after prize giving ceremony),20170119,"Lund, Sweden"
+108,"['Clara Nistad [1]', 'Emma Wengberg', 'Alexandra Bøje', 'Lena Grebak']","['[SWE] ', '[SWE] ', '[DEN] ', '[DEN] ']","['21-17', '24-22']",WD (after prize giving ceremony),20170119,"Lund, Sweden"
+109,"['Konstantin Abramov [2]', 'Alexandr Zinchenko', 'Richard Eidestedt [1]', 'Nico Ruponen']","['[RUS] ', '[RUS] ', '[SWE] ', '[SWE] ']","['21-17', '22-20']",MD (after prize giving ceremony),20170119,"Lund, Sweden"

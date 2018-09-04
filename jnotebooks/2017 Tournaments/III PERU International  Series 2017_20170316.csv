@@ -1,78 +1,78 @@
-,PLAYERS,COUNTRIES,SCORES,EVENT,match_week
-0,"['Micaela Castillo Salazar', 'Vendula Štroblová']","['[PER] ', '[CZE] ']","['21-16', '22-20']",WS,20170316
-1,"['Camila Macaya', 'Ines Mendoza Rosell']","['[CHI] ', '[PER] ']","['21-10', '11-21', '21-17']",WS,20170316
-2,"['Stefany Ying Chie Chen Chen', 'Johanna Breyne']","['[PER] ', '[BEL] ']","['21-8', '21-3']",WS,20170316
-3,"['Ines Castillo', 'Diana Corleto Soto']","['[PER] ', '[GUA] ']","['22-20', '16-21', '21-12']",WS,20170316
-4,"['Adriana Bernales Pinillos', 'Sara Michele Barrios Chiong']","['[PER] ', '[GUA] ']",[],WS,20170316
-5,"['Ingrid Valeria Salas Huamani', 'Belen Troncoso']","['[PER] ', '[CHI] ']","['21-9', '21-11']",WS,20170316
-6,"['Renzo Camogliano Telge', 'Tomas Abraham']","['[PER] ', '[CZE] ']","['21-14', '21-10']",MS - Qualification,20170316
-7,"['Daniel La Torre Regal', 'Rodrigo Camogliano Telge']","['[PER] ', '[PER] ']","['21-9', '21-10']",MS - Qualification,20170316
-8,"['Ikhsan Leonardo Imanuel Rumbay', 'Gabriel Urteaga Hammond']","['[INA] ', '[PER] ']","['21-5', '21-5']",MS - Qualification,20170316
-9,"['Ruben Castellanos', 'Anibal Marroquin', 'Nicolas Macias', 'Gustavo Alfredo Salazar']","['[GUA] ', '[GUA] ', '[PER] ', '[PER] ']","['21-12', '21-15']",MD,20170316
-10,"['Diego Castillo', 'Alonso Medel', 'Renzo Camogliano Telge', 'Mariano Novoa']","['[CHI] ', '[CHI] ', '[PER] ', '[PER] ']","['23-21', '21-11']",MD,20170316
-11,"['Bruno Barrueto Deza', 'Diego Subauste Tokumura', 'Alfonso Garcia-Rosell', 'Matias Zamorano Ramos']","['[PER] ', '[PER] ', '[PER] ', '[PER] ']","['21-17', '21-16']",MD,20170316
-12,"['Ivan Leon', 'Bastian Lizama', 'Rodrigo Camogliano Telge', 'Santiago De La Oliva Alzamora']","['[CHI] ', '[CHI] ', '[PER] ', '[PER] ']",[],MD,20170316
-13,"['Luka Wraber [1]', 'Diego Castillo']","['[AUT] ', '[CHI] ']","['21-9', '21-2']",MS,20170316
-14,"['Ikhsan Leonardo Imanuel Rumbay', 'Matias Zamorano Ramos']","['[INA] ', '[PER] ']","['21-7', '21-2']",MS,20170316
-15,"['Daniel La Torre Regal', 'Bastian Lizama [8]']","['[PER] ', '[CHI] ']","['21-13', '21-12']",MS,20170316
-16,"['Nicolas Macias', 'Adam Twardzik']","['[PER] ', '[CZE] ']","['21-11', '21-9']",MS,20170316
-17,"['Ruben Castellanos [4]', 'Bruno Barrueto Deza']","['[GUA] ', '[PER] ']","['21-16', '21-19']",MS,20170316
-18,"['Bedrich Valenta', 'Alonso Medel']","['[CZE] ', '[CHI] ']","['21-11', '21-15']",MS,20170316
-19,"['Alberto Alvin Yulianto', 'Diego Subauste Tokumura']","['[INA] ', '[PER] ']","['21-8', '21-13']",MS,20170316
-20,"['Ivan Leon', 'Renzo Camogliano Telge']","['[CHI] ', '[PER] ']","['21-8', '21-10']",MS,20170316
-21,"['Christopher Alexander Martinez Salvador', 'Alfonso Garcia-Rosell']","['[GUA] ', '[PER] ']","['21-9', '21-11']",MS,20170316
-22,"['Duarte Nuno Anjo [6]', 'Mariano Novoa']","['[POR] ', '[PER] ']","['21-14', '21-15']",MS,20170316
-23,"['Jose Guevara', 'Daniel Grassmuck']","['[PER] ', '[AUT] ']","['21-12', '21-15']",MS,20170316
-24,"['Luis Ramon Garrido [3]', 'Mario Cuba']","['[MEX] ', '[PER] ']","['21-9', '21-11']",MS,20170316
-25,"['Anibal Marroquin [7]', 'Bryan Rodrigo Roque Caycho']","['[GUA] ', '[PER] ']","['21-8', '21-8']",MS,20170316
-26,"['Diego Mini', 'Leonardo Isa']","['[PER] ', '[PER] ']","['21-7', '21-9']",MS,20170316
-27,"['Kevin Cordon [2]', 'Gustavo Alfredo Salazar']","['[GUA] ', '[PER] ']","['21-15', '21-11']",MS,20170316
-28,"['Pawel Pradzinski [5]', 'Raul Blondet Martinez']","['[POL] ', '[PER] ']","['21-9', '21-11']",MS,20170316
-29,"['Nicolas Macias', 'Yue Yang Cao', 'Adam Twardzik', 'Veronika Brožkovcová']","['[PER] ', '[PER] ', '[CZE] ', '[CZE] ']","['21-12', '21-13']",XD,20170316
-30,"['Daniel La Torre Regal', 'Danica Nishimura', 'Ivan Leon', 'Camila Macaya']","['[PER] ', '[PER] ', '[CHI] ', '[CHI] ']","['21-15', '21-18']",XD,20170316
-31,"['Diego Subauste Tokumura', 'Ingrid Valeria Salas Huamani', 'Diego Castillo', 'Belen Troncoso']","['[PER] ', '[PER] ', '[CHI] ', '[CHI] ']","['21-19', '21-19']",XD,20170316
-32,"['Rodrigo Camogliano Telge', 'Micaela Flores Vasquez De Velasco', 'Tomas Abraham', 'Vendula Štroblová']","['[PER] ', '[PER] ', '[CZE] ', '[CZE] ']","['21-9', '21-12']",XD,20170316
-33,"['Mario Cuba', 'Katherine Winder', 'Anibal Marroquin', 'Alejandra Jose Paiz Quan']","['[PER] ', '[PER] ', '[GUA] ', '[GUA] ']","['21-10', '21-13']",XD,20170316
-34,"['Daniela Macias [1]', 'Micaela Flores Vasquez De Velasco']","['[PER] ', '[PER] ']","['21-9', '21-8']",WS,20170316
-35,"['Paula La Torre Regal', 'Micaela Castillo Salazar']","['[PER] ', '[PER] ']","['21-3', '21-17']",WS,20170316
-36,"['Alejandra Jose Paiz Quan [3]', 'Camila Macaya']","['[GUA] ', '[CHI] ']","['21-18', '16-21', '21-19']",WS,20170316
-37,"['Fernanda Saponara Rivva', 'Stefany Ying Chie Chen Chen']","['[PER] ', '[PER] ']","['21-19', '21-12']",WS,20170316
-38,"['Veronika Dobiášová', 'Ines Castillo']","['[CZE] ', '[PER] ']","['21-9', '21-15']",WS,20170316
-39,"['Mariana Isabel Paiz Quan [4]', 'Adriana Bernales Pinillos']","['[GUA] ', '[PER] ']","['23-21', '21-9']",WS,20170316
-40,"['Yue Yang Cao', 'Ingrid Valeria Salas Huamani']","['[PER] ', '[PER] ']","['21-15', '21-15']",WS,20170316
-41,"['Daniela Zapata [2]', 'Thaina Bellido Garcia']","['[PER] ', '[PER] ']","['21-9', '21-11']",WS,20170316
-42,"['Ikhsan Leonardo Imanuel Rumbay', 'Luka Wraber [1]']","['[INA] ', '[AUT] ']","['21-15', '21-9']",MS,20170316
-43,"['Daniel La Torre Regal', 'Nicolas Macias']","['[PER] ', '[PER] ']","['21-17', '25-23']",MS,20170316
-44,"['Ruben Castellanos [4]', 'Bedrich Valenta']","['[GUA] ', '[CZE] ']","['15-21', '21-19', '21-8']",MS,20170316
-45,"['Alberto Alvin Yulianto', 'Pawel Pradzinski [5]']","['[INA] ', '[POL] ']","['21-9', '18-21', '21-8']",MS,20170316
-46,"['Duarte Nuno Anjo [6]', 'Christopher Alexander Martinez Salvador']","['[POR] ', '[GUA] ']","['21-16', '21-16']",MS,20170316
-47,"['Luis Ramon Garrido [3]', 'Jose Guevara']","['[MEX] ', '[PER] ']","['21-8', '21-19']",MS,20170316
-48,"['Anibal Marroquin [7]', 'Ivan Leon']","['[GUA] ', '[CHI] ']","['25-23', '21-12']",MS,20170316
-49,"['Diego Mini', 'Kevin Cordon [2]']","['[PER] ', '[GUA] ']","['14-21', '8-6']",MS,20170316
-50,"['Daniel Grassmuck', 'Luka Wraber', 'Raul Blondet Martinez', 'Gabriel Urteaga Hammond']","['[AUT] ', '[AUT] ', '[PER] ', '[PER] ']","['21-9', '21-5']",MD,20170316
-51,"['Jose Guevara', 'Daniel La Torre Regal', 'Tomas Abraham', 'Adam Twardzik']","['[PER] ', '[PER] ', '[CZE] ', '[CZE] ']","['21-7', '21-7']",MD,20170316
-52,"['Veronika Brožkovcová', 'Vendula Štroblová', 'Sara Michele Barrios Chiong', 'Alejandra Jose Paiz Quan']","['[CZE] ', '[CZE] ', '[GUA] ', '[GUA] ']",[],WD,20170316
-53,"['Ines Castillo', 'Paula La Torre Regal', 'Veronika Dobiášová', 'Martina Krocová']","['[PER] ', '[PER] ', '[CZE] ', '[CZE] ']","['21-19', '21-16']",WD,20170316
-54,"['Gustavo Alfredo Salazar [1]', 'Fernanda Saponara Rivva', 'Renzo Camogliano Telge', 'Ines Mendoza Rosell']","['[PER] ', '[PER] ', '[PER] ', '[PER] ']","['21-15', '21-13']",XD,20170316
-55,"['Diego Mini', 'Paula La Torre Regal', 'Nicolas Macias', 'Yue Yang Cao']","['[PER] ', '[PER] ', '[PER] ', '[PER] ']","['21-14', '21-18']",XD,20170316
-56,"['Christopher Alexander Martinez Salvador [3]', 'Diana Corleto Soto', 'Santiago De La Oliva Alzamora', 'Stefany Ying Chie Chen Chen']","['[GUA] ', '[GUA] ', '[PER] ', '[PER] ']",[],XD,20170316
-57,"['Daniel La Torre Regal', 'Danica Nishimura', 'Bryan Rodrigo Roque Caycho', 'Adriana Bernales Pinillos']","['[PER] ', '[PER] ', '[PER] ', '[PER] ']",[],XD,20170316
-58,"['Diego Subauste Tokumura', 'Ingrid Valeria Salas Huamani', 'Mariano Novoa', 'Micaela Castillo Salazar']","['[PER] ', '[PER] ', '[PER] ', '[PER] ']","['21-19', '18-21', '23-21']",XD,20170316
-59,"['Bruno Barrueto Deza [4]', 'Ines Castillo', 'Rodrigo Camogliano Telge', 'Micaela Flores Vasquez De Velasco']","['[PER] ', '[PER] ', '[PER] ', '[PER] ']","['21-18', '21-15']",XD,20170316
-60,"['Mario Cuba', 'Katherine Winder', 'Alfonso Garcia-Rosell', 'Thaina Bellido Garcia']","['[PER] ', '[PER] ', '[PER] ', '[PER] ']","['21-7', '21-5']",XD,20170316
-61,"['Bedrich Valenta', 'Martina Krocová', 'Ruben Castellanos [2]', 'Sara Michele Barrios Chiong']","['[CZE] ', '[CZE] ', '[GUA] ', '[GUA] ']",[],XD,20170316
-62,"['Daniel La Torre Regal', 'Danica Nishimura', 'Diego Mini', 'Paula La Torre Regal']","['[PER] ', '[PER] ', '[PER] ', '[PER] ']","['21-16', '21-10']",XD ,20170316
-63,"['Ikhsan Leonardo Imanuel Rumbay', 'Alberto Alvin Yulianto']","['[INA] ', '[INA] ']","['21-17', '21-7']",MS ,20170316
-64,"['Daniela Zapata [2]', 'Veronika Dobiášová']","['[PER] ', '[CZE] ']","['21-12', '21-19']",WS ,20170316
-65,"['Dominik Stipsits [1]', 'Roman Zirnwald', 'Jose Guevara', 'Daniel La Torre Regal']","['[AUT] ', '[AUT] ', '[PER] ', '[PER] ']","['21-12', '21-17']",MD ,20170316
-66,"['Ines Castillo', 'Paula La Torre Regal', 'Micaela Flores Vasquez De Velasco [2]', 'Fernanda Saponara Rivva']","['[PER] ', '[PER] ', '[PER] ', '[PER] ']","['21-12', '21-19']",WD ,20170316
-67,"['Mario Cuba', 'Katherine Winder', 'Bruno Barrueto Deza [4]', 'Ines Castillo']","['[PER] ', '[PER] ', '[PER] ', '[PER] ']","['21-6', '21-15']",XD ,20170316
-68,"['Luis Ramon Garrido [3]', 'Anibal Marroquin [7]']","['[MEX] ', '[GUA] ']","['21-11', '21-16']",MS ,20170316
-69,"['Daniela Macias [1]', 'Fernanda Saponara Rivva']","['[PER] ', '[PER] ']","['21-17', '21-10']",WS ,20170316
-70,"['Daniel Grassmuck', 'Luka Wraber', 'Pawel Pradzinski [2]', 'Jan Rudzinski']","['[AUT] ', '[AUT] ', '[POL] ', '[POL] ']","['24-22', '21-15']",MD ,20170316
-71,"['Daniela Macias [1]', 'Danica Nishimura', 'Micaela Castillo Salazar', 'Ines Mendoza Rosell']","['[PER] ', '[PER] ', '[PER] ', '[PER] ']","['21-10', '21-11']",WD ,20170316
-72,"['Daniela Macias [1]', 'Daniela Zapata [2]']","['[PER] ', '[PER] ']","['21-12', '21-7']",WS ,20170316
-73,"['Luis Ramon Garrido [3]', 'Ikhsan Leonardo Imanuel Rumbay']","['[MEX] ', '[INA] ']","['21-18', '21-14']",MS ,20170316
-74,"['Daniela Macias [1]', 'Danica Nishimura', 'Ines Castillo', 'Paula La Torre Regal']","['[PER] ', '[PER] ', '[PER] ', '[PER] ']","['21-12', '21-10']",WD ,20170316
-75,"['Daniel Grassmuck', 'Luka Wraber', 'Dominik Stipsits [1]', 'Roman Zirnwald']","['[AUT] ', '[AUT] ', '[AUT] ', '[AUT] ']","['14-21', '21-15', '21-15']",MD ,20170316
-76,"['Mario Cuba', 'Katherine Winder', 'Daniel La Torre Regal', 'Danica Nishimura']","['[PER] ', '[PER] ', '[PER] ', '[PER] ']","['21-18', '21-18']",XD ,20170316
+,PLAYERS,COUNTRIES,SCORES,EVENT,match_week,match_location
+0,"['Micaela Castillo Salazar', 'Vendula Štroblová']","['[PER] ', '[CZE] ']","['21-16', '22-20']",WS,20170316,"Lima, Peru"
+1,"['Camila Macaya', 'Ines Mendoza Rosell']","['[CHI] ', '[PER] ']","['21-10', '11-21', '21-17']",WS,20170316,"Lima, Peru"
+2,"['Stefany Ying Chie Chen Chen', 'Johanna Breyne']","['[PER] ', '[BEL] ']","['21-8', '21-3']",WS,20170316,"Lima, Peru"
+3,"['Ines Castillo', 'Diana Corleto Soto']","['[PER] ', '[GUA] ']","['22-20', '16-21', '21-12']",WS,20170316,"Lima, Peru"
+4,"['Adriana Bernales Pinillos', 'Sara Michele Barrios Chiong']","['[PER] ', '[GUA] ']",[],WS,20170316,"Lima, Peru"
+5,"['Ingrid Valeria Salas Huamani', 'Belen Troncoso']","['[PER] ', '[CHI] ']","['21-9', '21-11']",WS,20170316,"Lima, Peru"
+6,"['Renzo Camogliano Telge', 'Tomas Abraham']","['[PER] ', '[CZE] ']","['21-14', '21-10']",MS - Qualification,20170316,"Lima, Peru"
+7,"['Daniel La Torre Regal', 'Rodrigo Camogliano Telge']","['[PER] ', '[PER] ']","['21-9', '21-10']",MS - Qualification,20170316,"Lima, Peru"
+8,"['Ikhsan Leonardo Imanuel Rumbay', 'Gabriel Urteaga Hammond']","['[INA] ', '[PER] ']","['21-5', '21-5']",MS - Qualification,20170316,"Lima, Peru"
+9,"['Ruben Castellanos', 'Anibal Marroquin', 'Nicolas Macias', 'Gustavo Alfredo Salazar']","['[GUA] ', '[GUA] ', '[PER] ', '[PER] ']","['21-12', '21-15']",MD,20170316,"Lima, Peru"
+10,"['Diego Castillo', 'Alonso Medel', 'Renzo Camogliano Telge', 'Mariano Novoa']","['[CHI] ', '[CHI] ', '[PER] ', '[PER] ']","['23-21', '21-11']",MD,20170316,"Lima, Peru"
+11,"['Bruno Barrueto Deza', 'Diego Subauste Tokumura', 'Alfonso Garcia-Rosell', 'Matias Zamorano Ramos']","['[PER] ', '[PER] ', '[PER] ', '[PER] ']","['21-17', '21-16']",MD,20170316,"Lima, Peru"
+12,"['Ivan Leon', 'Bastian Lizama', 'Rodrigo Camogliano Telge', 'Santiago De La Oliva Alzamora']","['[CHI] ', '[CHI] ', '[PER] ', '[PER] ']",[],MD,20170316,"Lima, Peru"
+13,"['Luka Wraber [1]', 'Diego Castillo']","['[AUT] ', '[CHI] ']","['21-9', '21-2']",MS,20170316,"Lima, Peru"
+14,"['Ikhsan Leonardo Imanuel Rumbay', 'Matias Zamorano Ramos']","['[INA] ', '[PER] ']","['21-7', '21-2']",MS,20170316,"Lima, Peru"
+15,"['Daniel La Torre Regal', 'Bastian Lizama [8]']","['[PER] ', '[CHI] ']","['21-13', '21-12']",MS,20170316,"Lima, Peru"
+16,"['Nicolas Macias', 'Adam Twardzik']","['[PER] ', '[CZE] ']","['21-11', '21-9']",MS,20170316,"Lima, Peru"
+17,"['Ruben Castellanos [4]', 'Bruno Barrueto Deza']","['[GUA] ', '[PER] ']","['21-16', '21-19']",MS,20170316,"Lima, Peru"
+18,"['Bedrich Valenta', 'Alonso Medel']","['[CZE] ', '[CHI] ']","['21-11', '21-15']",MS,20170316,"Lima, Peru"
+19,"['Alberto Alvin Yulianto', 'Diego Subauste Tokumura']","['[INA] ', '[PER] ']","['21-8', '21-13']",MS,20170316,"Lima, Peru"
+20,"['Ivan Leon', 'Renzo Camogliano Telge']","['[CHI] ', '[PER] ']","['21-8', '21-10']",MS,20170316,"Lima, Peru"
+21,"['Christopher Alexander Martinez Salvador', 'Alfonso Garcia-Rosell']","['[GUA] ', '[PER] ']","['21-9', '21-11']",MS,20170316,"Lima, Peru"
+22,"['Duarte Nuno Anjo [6]', 'Mariano Novoa']","['[POR] ', '[PER] ']","['21-14', '21-15']",MS,20170316,"Lima, Peru"
+23,"['Jose Guevara', 'Daniel Grassmuck']","['[PER] ', '[AUT] ']","['21-12', '21-15']",MS,20170316,"Lima, Peru"
+24,"['Luis Ramon Garrido [3]', 'Mario Cuba']","['[MEX] ', '[PER] ']","['21-9', '21-11']",MS,20170316,"Lima, Peru"
+25,"['Anibal Marroquin [7]', 'Bryan Rodrigo Roque Caycho']","['[GUA] ', '[PER] ']","['21-8', '21-8']",MS,20170316,"Lima, Peru"
+26,"['Diego Mini', 'Leonardo Isa']","['[PER] ', '[PER] ']","['21-7', '21-9']",MS,20170316,"Lima, Peru"
+27,"['Kevin Cordon [2]', 'Gustavo Alfredo Salazar']","['[GUA] ', '[PER] ']","['21-15', '21-11']",MS,20170316,"Lima, Peru"
+28,"['Pawel Pradzinski [5]', 'Raul Blondet Martinez']","['[POL] ', '[PER] ']","['21-9', '21-11']",MS,20170316,"Lima, Peru"
+29,"['Nicolas Macias', 'Yue Yang Cao', 'Adam Twardzik', 'Veronika Brožkovcová']","['[PER] ', '[PER] ', '[CZE] ', '[CZE] ']","['21-12', '21-13']",XD,20170316,"Lima, Peru"
+30,"['Daniel La Torre Regal', 'Danica Nishimura', 'Ivan Leon', 'Camila Macaya']","['[PER] ', '[PER] ', '[CHI] ', '[CHI] ']","['21-15', '21-18']",XD,20170316,"Lima, Peru"
+31,"['Diego Subauste Tokumura', 'Ingrid Valeria Salas Huamani', 'Diego Castillo', 'Belen Troncoso']","['[PER] ', '[PER] ', '[CHI] ', '[CHI] ']","['21-19', '21-19']",XD,20170316,"Lima, Peru"
+32,"['Rodrigo Camogliano Telge', 'Micaela Flores Vasquez De Velasco', 'Tomas Abraham', 'Vendula Štroblová']","['[PER] ', '[PER] ', '[CZE] ', '[CZE] ']","['21-9', '21-12']",XD,20170316,"Lima, Peru"
+33,"['Mario Cuba', 'Katherine Winder', 'Anibal Marroquin', 'Alejandra Jose Paiz Quan']","['[PER] ', '[PER] ', '[GUA] ', '[GUA] ']","['21-10', '21-13']",XD,20170316,"Lima, Peru"
+34,"['Daniela Macias [1]', 'Micaela Flores Vasquez De Velasco']","['[PER] ', '[PER] ']","['21-9', '21-8']",WS,20170316,"Lima, Peru"
+35,"['Paula La Torre Regal', 'Micaela Castillo Salazar']","['[PER] ', '[PER] ']","['21-3', '21-17']",WS,20170316,"Lima, Peru"
+36,"['Alejandra Jose Paiz Quan [3]', 'Camila Macaya']","['[GUA] ', '[CHI] ']","['21-18', '16-21', '21-19']",WS,20170316,"Lima, Peru"
+37,"['Fernanda Saponara Rivva', 'Stefany Ying Chie Chen Chen']","['[PER] ', '[PER] ']","['21-19', '21-12']",WS,20170316,"Lima, Peru"
+38,"['Veronika Dobiášová', 'Ines Castillo']","['[CZE] ', '[PER] ']","['21-9', '21-15']",WS,20170316,"Lima, Peru"
+39,"['Mariana Isabel Paiz Quan [4]', 'Adriana Bernales Pinillos']","['[GUA] ', '[PER] ']","['23-21', '21-9']",WS,20170316,"Lima, Peru"
+40,"['Yue Yang Cao', 'Ingrid Valeria Salas Huamani']","['[PER] ', '[PER] ']","['21-15', '21-15']",WS,20170316,"Lima, Peru"
+41,"['Daniela Zapata [2]', 'Thaina Bellido Garcia']","['[PER] ', '[PER] ']","['21-9', '21-11']",WS,20170316,"Lima, Peru"
+42,"['Ikhsan Leonardo Imanuel Rumbay', 'Luka Wraber [1]']","['[INA] ', '[AUT] ']","['21-15', '21-9']",MS,20170316,"Lima, Peru"
+43,"['Daniel La Torre Regal', 'Nicolas Macias']","['[PER] ', '[PER] ']","['21-17', '25-23']",MS,20170316,"Lima, Peru"
+44,"['Ruben Castellanos [4]', 'Bedrich Valenta']","['[GUA] ', '[CZE] ']","['15-21', '21-19', '21-8']",MS,20170316,"Lima, Peru"
+45,"['Alberto Alvin Yulianto', 'Pawel Pradzinski [5]']","['[INA] ', '[POL] ']","['21-9', '18-21', '21-8']",MS,20170316,"Lima, Peru"
+46,"['Duarte Nuno Anjo [6]', 'Christopher Alexander Martinez Salvador']","['[POR] ', '[GUA] ']","['21-16', '21-16']",MS,20170316,"Lima, Peru"
+47,"['Luis Ramon Garrido [3]', 'Jose Guevara']","['[MEX] ', '[PER] ']","['21-8', '21-19']",MS,20170316,"Lima, Peru"
+48,"['Anibal Marroquin [7]', 'Ivan Leon']","['[GUA] ', '[CHI] ']","['25-23', '21-12']",MS,20170316,"Lima, Peru"
+49,"['Diego Mini', 'Kevin Cordon [2]']","['[PER] ', '[GUA] ']","['14-21', '8-6']",MS,20170316,"Lima, Peru"
+50,"['Daniel Grassmuck', 'Luka Wraber', 'Raul Blondet Martinez', 'Gabriel Urteaga Hammond']","['[AUT] ', '[AUT] ', '[PER] ', '[PER] ']","['21-9', '21-5']",MD,20170316,"Lima, Peru"
+51,"['Jose Guevara', 'Daniel La Torre Regal', 'Tomas Abraham', 'Adam Twardzik']","['[PER] ', '[PER] ', '[CZE] ', '[CZE] ']","['21-7', '21-7']",MD,20170316,"Lima, Peru"
+52,"['Veronika Brožkovcová', 'Vendula Štroblová', 'Sara Michele Barrios Chiong', 'Alejandra Jose Paiz Quan']","['[CZE] ', '[CZE] ', '[GUA] ', '[GUA] ']",[],WD,20170316,"Lima, Peru"
+53,"['Ines Castillo', 'Paula La Torre Regal', 'Veronika Dobiášová', 'Martina Krocová']","['[PER] ', '[PER] ', '[CZE] ', '[CZE] ']","['21-19', '21-16']",WD,20170316,"Lima, Peru"
+54,"['Gustavo Alfredo Salazar [1]', 'Fernanda Saponara Rivva', 'Renzo Camogliano Telge', 'Ines Mendoza Rosell']","['[PER] ', '[PER] ', '[PER] ', '[PER] ']","['21-15', '21-13']",XD,20170316,"Lima, Peru"
+55,"['Diego Mini', 'Paula La Torre Regal', 'Nicolas Macias', 'Yue Yang Cao']","['[PER] ', '[PER] ', '[PER] ', '[PER] ']","['21-14', '21-18']",XD,20170316,"Lima, Peru"
+56,"['Christopher Alexander Martinez Salvador [3]', 'Diana Corleto Soto', 'Santiago De La Oliva Alzamora', 'Stefany Ying Chie Chen Chen']","['[GUA] ', '[GUA] ', '[PER] ', '[PER] ']",[],XD,20170316,"Lima, Peru"
+57,"['Daniel La Torre Regal', 'Danica Nishimura', 'Bryan Rodrigo Roque Caycho', 'Adriana Bernales Pinillos']","['[PER] ', '[PER] ', '[PER] ', '[PER] ']",[],XD,20170316,"Lima, Peru"
+58,"['Diego Subauste Tokumura', 'Ingrid Valeria Salas Huamani', 'Mariano Novoa', 'Micaela Castillo Salazar']","['[PER] ', '[PER] ', '[PER] ', '[PER] ']","['21-19', '18-21', '23-21']",XD,20170316,"Lima, Peru"
+59,"['Bruno Barrueto Deza [4]', 'Ines Castillo', 'Rodrigo Camogliano Telge', 'Micaela Flores Vasquez De Velasco']","['[PER] ', '[PER] ', '[PER] ', '[PER] ']","['21-18', '21-15']",XD,20170316,"Lima, Peru"
+60,"['Mario Cuba', 'Katherine Winder', 'Alfonso Garcia-Rosell', 'Thaina Bellido Garcia']","['[PER] ', '[PER] ', '[PER] ', '[PER] ']","['21-7', '21-5']",XD,20170316,"Lima, Peru"
+61,"['Bedrich Valenta', 'Martina Krocová', 'Ruben Castellanos [2]', 'Sara Michele Barrios Chiong']","['[CZE] ', '[CZE] ', '[GUA] ', '[GUA] ']",[],XD,20170316,"Lima, Peru"
+62,"['Daniel La Torre Regal', 'Danica Nishimura', 'Diego Mini', 'Paula La Torre Regal']","['[PER] ', '[PER] ', '[PER] ', '[PER] ']","['21-16', '21-10']",XD ,20170316,"Lima, Peru"
+63,"['Ikhsan Leonardo Imanuel Rumbay', 'Alberto Alvin Yulianto']","['[INA] ', '[INA] ']","['21-17', '21-7']",MS ,20170316,"Lima, Peru"
+64,"['Daniela Zapata [2]', 'Veronika Dobiášová']","['[PER] ', '[CZE] ']","['21-12', '21-19']",WS ,20170316,"Lima, Peru"
+65,"['Dominik Stipsits [1]', 'Roman Zirnwald', 'Jose Guevara', 'Daniel La Torre Regal']","['[AUT] ', '[AUT] ', '[PER] ', '[PER] ']","['21-12', '21-17']",MD ,20170316,"Lima, Peru"
+66,"['Ines Castillo', 'Paula La Torre Regal', 'Micaela Flores Vasquez De Velasco [2]', 'Fernanda Saponara Rivva']","['[PER] ', '[PER] ', '[PER] ', '[PER] ']","['21-12', '21-19']",WD ,20170316,"Lima, Peru"
+67,"['Mario Cuba', 'Katherine Winder', 'Bruno Barrueto Deza [4]', 'Ines Castillo']","['[PER] ', '[PER] ', '[PER] ', '[PER] ']","['21-6', '21-15']",XD ,20170316,"Lima, Peru"
+68,"['Luis Ramon Garrido [3]', 'Anibal Marroquin [7]']","['[MEX] ', '[GUA] ']","['21-11', '21-16']",MS ,20170316,"Lima, Peru"
+69,"['Daniela Macias [1]', 'Fernanda Saponara Rivva']","['[PER] ', '[PER] ']","['21-17', '21-10']",WS ,20170316,"Lima, Peru"
+70,"['Daniel Grassmuck', 'Luka Wraber', 'Pawel Pradzinski [2]', 'Jan Rudzinski']","['[AUT] ', '[AUT] ', '[POL] ', '[POL] ']","['24-22', '21-15']",MD ,20170316,"Lima, Peru"
+71,"['Daniela Macias [1]', 'Danica Nishimura', 'Micaela Castillo Salazar', 'Ines Mendoza Rosell']","['[PER] ', '[PER] ', '[PER] ', '[PER] ']","['21-10', '21-11']",WD ,20170316,"Lima, Peru"
+72,"['Daniela Macias [1]', 'Daniela Zapata [2]']","['[PER] ', '[PER] ']","['21-12', '21-7']",WS ,20170316,"Lima, Peru"
+73,"['Luis Ramon Garrido [3]', 'Ikhsan Leonardo Imanuel Rumbay']","['[MEX] ', '[INA] ']","['21-18', '21-14']",MS ,20170316,"Lima, Peru"
+74,"['Daniela Macias [1]', 'Danica Nishimura', 'Ines Castillo', 'Paula La Torre Regal']","['[PER] ', '[PER] ', '[PER] ', '[PER] ']","['21-12', '21-10']",WD ,20170316,"Lima, Peru"
+75,"['Daniel Grassmuck', 'Luka Wraber', 'Dominik Stipsits [1]', 'Roman Zirnwald']","['[AUT] ', '[AUT] ', '[AUT] ', '[AUT] ']","['14-21', '21-15', '21-15']",MD ,20170316,"Lima, Peru"
+76,"['Mario Cuba', 'Katherine Winder', 'Daniel La Torre Regal', 'Danica Nishimura']","['[PER] ', '[PER] ', '[PER] ', '[PER] ']","['21-18', '21-18']",XD ,20170316,"Lima, Peru"

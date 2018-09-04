@@ -1,108 +1,108 @@
-,PLAYERS,COUNTRIES,SCORES,EVENT,match_week
-0,"['Pei Tianyi', 'Wu Qianqian', 'Oliver Leydon-Davis', 'Marie Louise Steffensen']","['[CHN] ', '[CHN] ', '[NZL] ', '[DEN] ']","['21-15', '14-21', '21-10']",XD - Qualification ,20170222
-1,"['Petra Polanc', 'Busra Yalçinkaya']","['[SLO] ', '[TUR] ']","['21-16', '19-21', '21-19']",WS - Qualification ,20170222
-2,"['Brittney Tam', 'Nadia Fankhauser']","['[CAN] ', '[SUI] ']","['21-14', '21-11']",WS - Qualification ,20170222
-3,"['Busra Unlu', 'Kaja Stankovic']","['[TUR] ', '[SLO] ']","['21-11', '17-21', '21-17']",WS - Qualification ,20170222
-4,"['Manlin Yang', 'Tereza Švábíková']","['[CHN] ', '[CZE] ']","['21-17', '21-10']",WS - Qualification ,20170222
-5,"['Lin Xingyu', 'Tovannakasem Samatcha']","['[CHN] ', '[THA] ']","['21-15', '22-20']",MS - Qualification ,20170222
-6,"['Martin Cerkovnik', 'Artem Karpov']","['[SLO] ', '[RUS] ']","['21-10', '21-14']",MS - Qualification ,20170222
-7,"['Anton Kaisti [7]', 'Joyireh Avi Manasye']","['[FIN] ', '[INA] ']","['21-13', '21-15']",MS - Qualification ,20170222
-8,"['Wibowo Setyaldi Putra', 'Vilson Vattanirappel [8]']","['[INA] ', '[AUT] ']","['29-27', '21-10']",MS - Qualification ,20170222
-9,"['Helina Rüütel', 'Ana Marija Setina [7]']","['[EST] ', '[SLO] ']","['21-10', '15-21', '21-19']",WS - Qualification ,20170222
-10,"['Busra Unlu', 'Ayla Huser [4]']","['[TUR] ', '[SUI] ']","['20-22', '21-18', '21-17']",WS - Qualification ,20170222
-11,"['Yu Igarashi [15]', 'Mikkel Mikkelsen']","['[JPN] ', '[DEN] ']","['21-16', '21-16']",MS - Qualification ,20170222
-12,"['Pierrick Cajot [9]', 'Miha Ivancic']","['[FRA] ', '[SLO] ']","['21-17', '21-18']",MS - Qualification ,20170222
-13,"['Xu Wei', 'Manlin Yang', 'Theresea Isenberg', 'Brid Stepper']","['[CHN] ', '[CHN] ', '[GER] ', '[GER] ']","['21-18', '21-16']",WD - Qualification ,20170222
-14,"['Andras Nemeth', 'Reka Sarosi', 'Josip Uglesic', 'Katarina Galenic']","['[HUN] ', '[HUN] ', '[CRO] ', '[CRO] ']","['21-19', '24-22']",XD - Qualification ,20170222
-15,"['Camilla Martens', 'Sonja Pekkola']","['[DEN] ', '[FIN] ']","['21-15', '21-11']",WS - Qualification ,20170222
-16,"['Marie Batomene', 'Carina Meinke']","['[FRA] ', '[AUT] ']","['21-10', '21-17']",WS - Qualification ,20170222
-17,"['Anastasiia Semenova', 'Theresa Wurm']","['[RUS] ', '[GER] ']","['11-21', '21-9', '25-23']",WS - Qualification ,20170222
-18,"['Katarina Galenic', 'Nika Arih']","['[CRO] ', '[SLO] ']","['21-18', '21-12']",WS - Qualification ,20170222
-19,"['Harshit Aggarwal', 'Andraz Krapez']","['[IND] ', '[SLO] ']","['21-15', '21-11']",MS - Qualification ,20170222
-20,"['Piotr Wasiluk', 'Lukas Zevl']","['[POL] ', '[CZE] ']","['13-21', '21-17', '21-17']",MS - Qualification ,20170222
-21,"['Luís Enrique Peñalver', 'Patrick Scheiel']","['[ESP] ', '[GER] ']","['21-13', '21-16']",MS - Qualification ,20170222
-22,"['Gao Xiangfu', 'Giovanni Greco']","['[CHN] ', '[ITA] ']","['21-11', '21-16']",MS - Qualification ,20170222
-23,"['Marie Batomene', 'Maja Pavlinic']","['[FRA] ', '[CRO] ']","['21-15', '21-9']",WS - Qualification ,20170222
-24,"['Vaidehi Choudhari', 'Victoria Slobodyanyuk [6]']","['[IND] ', '[RUS] ']","['15-21', '22-20', '21-8']",WS - Qualification ,20170222
-25,"['Adi Pratama', 'Wang Yuehang']","['[INA] ', '[ENG] ']","['20-22', '21-16', '21-16']",MS - Qualification ,20170222
-26,"['Jacob Nilsson', 'Rahul Yadav Chittaboina [10]']","['[SWE] ', '[IND] ']","['21-19', '21-15']",MS - Qualification ,20170222
-27,"['Shohei Hoshino', 'Taichi Saito', 'Deng Xuedi', 'Pei Tianyi']","['[JPN] ', '[JPN] ', '[CHN] ', '[CHN] ']","['21-13', '19-21', '21-12']",MD - Qualification ,20170222
-28,"['Vaidehi Choudhari', 'Zhang Shuxian']","['[IND] ', '[CHN] ']","['21-12', '12-21', '22-20']",WS - Qualification ,20170222
-29,"['Anastasiia Semenova', 'Marie Batomene']","['[RUS] ', '[FRA] ']","['24-22', '21-14']",WS - Qualification ,20170222
-30,"['Adi Pratama', 'Piotr Wasiluk']","['[INA] ', '[POL] ']","['21-16', '21-9']",MS - Qualification ,20170222
-31,"['Aleksander Jablonski', 'Pawel Smilowski', 'Lukáš Holub', 'Jan Hubáček']","['[POL] ', '[POL] ', '[CZE] ', '[CZE] ']","['21-12', '21-16']",MD - Qualification ,20170222
-32,"['Vilson Vattanirappel', 'Lukas Weissenbäck', 'Philip Birker', 'Jakob Sorger']","['[AUT] ', '[AUT] ', '[AUT] ', '[AUT] ']","['21-16', '21-16']",MD - Qualification ,20170222
-33,"['Gregory Mairs [1]', 'Jenny Moore', 'Nicklas Mathiasen', 'Gabriella Bøje']","['[ENG] ', '[ENG] ', '[DEN] ', '[DEN] ']","['21-13', '21-15']",XD ,20170222
-34,"['Yuan Ao', 'Yang Yiling', 'Jakub Bitman [3]', 'Alzbeta Basova']","['[CHN] ', '[CHN] ', '[CZE] ', '[CZE] ']","['21-16', '21-17']",XD ,20170222
-35,"['Miha Ivancic', 'Petra Polanc', 'Pawel Smilowski', 'Magdalena Swierczynska']","['[SLO] ', '[SLO] ', '[POL] ', '[POL] ']","['18-21', '21-15', '21-16']",XD ,20170222
-36,"['Yvonne Li', 'Mariya Mitsova']","['[GER] ', '[BUL] ']","['21-19', '21-12']",WS ,20170222
-37,"['Julie Dawall Jakobsen', 'Luise Heim']","['[DEN] ', '[GER] ']","['18-21', '21-11', '22-20']",WS ,20170222
-38,"['Subhankar Dey', 'Kieran Merrilees [4]']","['[IND] ', '[SCO] ']","['10-21', '21-19', '21-18']",MS ,20170222
-39,"['Raul Must [3]', 'Bjorn Seguin']","['[EST] ', '[USA] ']","['22-20', '21-17']",MS ,20170222
-40,"['Rira Kawashima', 'Saori Ozaki', 'Mariya Mitsova [1]', 'Petya Nedelcheva']","['[JPN] ', '[JPN] ', '[BUL] ', '[BUL] ']","['19-21', '21-13', '21-14']",WD ,20170222
-41,"['Emilie Juul Moller', 'Mai Surrow', 'Janine Lais', 'Antonia Meinke']","['[DEN] ', '[DEN] ', '[AUT] ', '[AUT] ']","['21-9', '21-11']",WD ,20170222
-42,"['Konstantin Abramov [7]', 'Alexandr Zinchenko', 'Dominik Stipsits', 'Roman Zirnwald']","['[RUS] ', '[RUS] ', '[AUT] ', '[AUT] ']","['21-17', '21-15']",MD ,20170222
-43,"['Rasmus Gemke [11]', 'Christopher Skrzeba']","['[DEN] ', '[GER] ']","['21-6', '23-21']",MS - Qualification ,20170222
-44,"['Brittney Tam', 'Jordan Hart [8]']","['[CAN] ', '[WAL] ']","['10-21', '21-11', '21-18']",WS - Qualification ,20170222
-45,"['Yu Chen', 'Anton Kaisti [7]']","['[CHN] ', '[FIN] ']","['22-24', '21-18', '21-18']",MS - Qualification ,20170222
-46,"['Yu Igarashi [15]', 'Yusuke Onodera [6]']","['[JPN] ', '[JPN] ']","['13-21', '21-19', '21-18']",MS - Qualification ,20170222
-47,"['Hiroki Okamura', 'Masayuki Onodera', 'Gao Xiangcheng', 'Zhou Bowei']","['[JPN] ', '[JPN] ', '[CHN] ', '[CHN] ']","['21-13', '21-15']",MD - Qualification ,20170222
-48,"['Jones Ralfy Jansen', 'Franziska Volkmann', 'Oliver Schaller [2]', 'Celine Burkart']","['[GER] ', '[GER] ', '[SUI] ', '[SUI] ']","['19-21', '21-12', '23-21']",XD ,20170222
-49,"['Anton Kaisti [7]', 'Jenny Nystrom', 'Lasse Mølhede', 'Maria Helsbol']","['[FIN] ', '[FIN] ', '[DEN] ', '[DEN] ']","['15-21', '21-14', '21-18']",XD ,20170222
-50,"['Yui Hashimoto [1]', 'Agnes Korosi']","['[JPN] ', '[HUN] ']","['21-14', '21-16']",WS ,20170222
-51,"['Irina Amalie Andersen', 'Evgeniya Kosetskaya']","['[DEN] ', '[RUS] ']","['11-21', '21-15', '21-18']",WS ,20170222
-52,"['Pablo Abian [1]', 'Kalle Koljonen']","['[ESP] ', '[FIN] ']","['21-14', '21-8']",MS ,20170222
-53,"['Victor Svendsen', 'Thomas Rouxel']","['[DEN] ', '[FRA] ']","['18-21', '21-18', '21-18']",MS ,20170222
-54,"['Yu Chen', 'Luka Wraber']","['[CHN] ', '[AUT] ']","['21-11', '22-24', '21-11']",MS ,20170222
-55,"['Wei Yawen', 'Yang Yiling', 'Jenny Nystrom', 'Sonja Pekkola']","['[CHN] ', '[CHN] ', '[FIN] ', '[FIN] ']","['21-14', '21-17']",WD ,20170222
-56,"['Wu Qianqian', 'Xia Chunyu', 'Camilla Martens', 'Josephine Van Zaane']","['[CHN] ', '[CHN] ', '[DEN] ', '[DEN] ']","['21-18', '21-11']",WD ,20170222
-57,"['Peter Briggs [8]', 'Tom Wolfenden', 'Daniel Benz', 'Andreas Heinz']","['[ENG] ', '[ENG] ', '[GER] ', '[GER] ']","['21-16', '21-10']",MD ,20170222
-58,"['Gao Xiangcheng', 'Xia Chunyu', 'Matthew Clare', 'Victoria Williams']","['[CHN] ', '[CHN] ', '[ENG] ', '[ENG] ']","['21-15', '21-7']",XD ,20170222
-59,"['Rira Kawashima', 'Irina Amalie Andersen']","['[JPN] ', '[DEN] ']","['21-16', '21-19']",WS ,20170222
-60,"['Pablo Abian [1]', 'Luis Ramon Garrido']","['[ESP] ', '[MEX] ']","['21-16', '13-21', '21-17']",MS ,20170222
-61,"['Takuto Inoue [1]', 'Yuki Kaneko', 'Daniel Grassmuck', 'Adi Pratama']","['[JPN] ', '[JPN] ', '[AUT] ', '[INA] ']","['21-8', '21-12']",MD ,20170222
-62,"['Rira Kawashima', 'Saori Ozaki', 'Maria Helsbol', 'Amanda Madsen']","['[JPN] ', '[JPN] ', '[DEN] ', '[DEN] ']","['21-9', '21-11']",WD ,20170222
-63,"['Gao Xiangcheng', 'Xia Chunyu', 'Anton Kaisti [7]', 'Jenny Nystrom']","['[CHN] ', '[CHN] ', '[FIN] ', '[FIN] ']","['21-16', '21-18']",XD ,20170222
-64,"['Kirsty Gilmour [6]', 'Julie Dawall Jakobsen']","['[SCO] ', '[DEN] ']","['25-23', '21-9']",WS ,20170222
-65,"['Mia Blichfeldt [2]', 'Yvonne Li']","['[DEN] ', '[GER] ']","['21-10', '20-22', '21-16']",WS ,20170222
-66,"['Victor Svendsen', 'Subhankar Dey']","['[DEN] ', '[IND] ']","['21-17', '21-19']",MS ,20170222
-67,"['Rebekka Findlay [4]', 'Caitlin Pringle', 'Xu Wei', 'Manlin Yang']","['[SCO] ', '[SCO] ', '[CHN] ', '[CHN] ']","['21-16', '21-17']",WD ,20170222
-68,"['Wu Qianqian', 'Xia Chunyu', 'Alexandra Bøje [7]', 'Line Nørgaard']","['[CHN] ', '[CHN] ', '[DEN] ', '[DEN] ']","['21-16', '21-12']",WD ,20170222
-69,"['Frederik Colberg [5]', 'Rasmus Fladberg', 'Hiroki Okamura', 'Masayuki Onodera']","['[DEN] ', '[DEN] ', '[JPN] ', '[JPN] ']","['21-15', '21-17']",MD ,20170222
-70,"['Gregory Mairs [1]', 'Jenny Moore', 'Rodion Alimov [6]', 'Alina Davletova']","['[ENG] ', '[ENG] ', '[RUS] ', '[RUS] ']","['18-21', '24-22', '21-14']",XD ,20170222
-71,"['Kirsty Gilmour [6]', 'Yui Hashimoto [1]']","['[SCO] ', '[JPN] ']","['21-18', '9-21', '21-18']",WS ,20170222
-72,"['Fabienne Deprez', 'Brittney Tam']","['[GER] ', '[CAN] ']","['22-20', '21-14']",WS ,20170222
-73,"['Nick Fransman', 'Victor Svendsen']","['[NED] ', '[DEN] ']","['21-19', '21-19']",MS ,20170222
-74,"['Frederik Colberg [5]', 'Rasmus Fladberg', 'Jones Ralfy Jansen [3]', 'Josche Zurwonne']","['[DEN] ', '[DEN] ', '[GER] ', '[GER] ']","['21-14', '21-8']",MD ,20170222
-75,"['Pei Tianyi', 'Wu Qianqian', 'Mathias Bay-Smidt [5]', 'Alexandra Bøje']","['[CHN] ', '[CHN] ', '[DEN] ', '[DEN] ']","['21-18', '21-17']",XD ,20170222
-76,"['Neslihan Yigit [5]', 'Shuo Yun Sung']","['[TUR] ', '[TPE] ']","['21-12', '21-16']",WS ,20170222
-77,"['Pablo Abian [1]', 'Siril Verma']","['[ESP] ', '[IND] ']","['21-14', '21-13']",MS ,20170222
-78,"['Nick Fransman', 'Lucas Corvee [5]']","['[NED] ', '[FRA] ']","['21-18', '15-21', '21-18']",MS ,20170222
-79,"['Raul Must [3]', 'Erik Meijs']","['[EST] ', '[NED] ']","['21-18', '21-10']",MS ,20170222
-80,"['Martin Campbell [4]', 'Patrick Machugh', 'Alexander Bond', 'Nikolaj Overgaard']","['[SCO] ', '[SCO] ', '[DEN] ', '[DEN] ']","['21-15', '21-11']",MD ,20170222
-81,"['Matijs Dierickx [2]', 'Freek Golinski', 'David Kramer', 'Christopher Skrzeba']","['[BEL] ', '[BEL] ', '[GER] ', '[GER] ']","['21-11', '21-12']",MD ,20170222
-82,"['Mikkel Mikkelsen [4]', 'Mai Surrow', 'Zhou Bowei', 'Wei Yawen']","['[DEN] ', '[DEN] ', '[CHN] ', '[CHN] ']","['21-15', '21-15']",XD ,20170222
-83,"['Raul Must [3]', 'Rasmus Gemke']","['[EST] ', '[DEN] ']","['21-18', '21-13']",MS ,20170222
-84,"['Mia Blichfeldt [2]', 'Neslihan Yigit [5]']","['[DEN] ', '[TUR] ']","['21-18', '21-19']",WS ,20170222
-85,"['Peter Briggs [8]', 'Tom Wolfenden', 'Martin Campbell [4]', 'Patrick Machugh']","['[ENG] ', '[ENG] ', '[SCO] ', '[SCO] ']","['24-22', '21-17']",MD ,20170222
-86,"['Shohei Hoshino', 'Taichi Saito', 'Matijs Dierickx [2]', 'Freek Golinski']","['[JPN] ', '[JPN] ', '[BEL] ', '[BEL] ']","['19-21', '21-17', '21-12']",MD ,20170222
-87,"['Pei Tianyi', 'Wu Qianqian', 'Jones Ralfy Jansen', 'Franziska Volkmann']","['[CHN] ', '[CHN] ', '[GER] ', '[GER] ']","['21-10', '21-18']",XD ,20170222
-88,"['Kanta Tsuneyama [2]', 'Zvonimir Durkinjak']","['[JPN] ', '[CRO] ']","['21-19', '21-18']",MS ,20170222
-89,"['Anne Katrine Hansen', 'Marie Louise Steffensen', 'Ozge Bayrak [8]', 'Cemre Fere']","['[DEN] ', '[DEN] ', '[TUR] ', '[TUR] ']","['21-16', '9-21', '21-19']",WD ,20170222
-90,"['Ching Hui Chang', 'Yang Ching Tun', 'Rebekka Findlay [4]', 'Caitlin Pringle']","['[TPE] ', '[TPE] ', '[SCO] ', '[SCO] ']","['21-11', '21-10']",WD ,20170222
-91,"['Wu Qianqian', 'Xia Chunyu', 'Nadia Fankhauser [2]', 'Sannatasah Saniru']","['[CHN] ', '[CHN] ', '[SUI] ', '[MAS] ']","['21-16', '21-13']",WD ,20170222
-92,"['Kirsty Gilmour [6]', 'Rira Kawashima']","['[SCO] ', '[JPN] ']","['21-12', '21-18']",WS ,20170222
-93,"['Mikkel Mikkelsen [4]', 'Mai Surrow', 'Gregory Mairs [1]', 'Jenny Moore']","['[DEN] ', '[DEN] ', '[ENG] ', '[ENG] ']","['21-14', '21-17']",XD ,20170222
-94,"['Pablo Abian [1]', 'Nick Fransman']","['[ESP] ', '[NED] ']","['15-21', '21-15', '21-10']",MS ,20170222
-95,"['Wu Qianqian', 'Xia Chunyu', 'Ching Hui Chang', 'Yang Ching Tun']","['[CHN] ', '[CHN] ', '[TPE] ', '[TPE] ']","['21-8', '21-14']",WD ,20170222
-96,"['Frederik Colberg [5]', 'Rasmus Fladberg', 'Shohei Hoshino', 'Taichi Saito']","['[DEN] ', '[DEN] ', '[JPN] ', '[JPN] ']","['21-13', '21-18']",MD ,20170222
-97,"['Rira Kawashima', 'Saori Ozaki', 'Wu Qianqian', 'Xia Chunyu']","['[JPN] ', '[JPN] ', '[CHN] ', '[CHN] ']","['18-21', '22-20', '21-11']",WD ,20170222
-98,"['Kirsty Gilmour [6]', 'Fabienne Deprez']","['[SCO] ', '[GER] ']","['21-17', '21-9']",WS ,20170222
-99,"['Kanta Tsuneyama [2]', 'Pablo Abian [1]']","['[JPN] ', '[ESP] ']","['21-10', '12-21', '21-11']",MS ,20170222
-100,"['Mikkel Mikkelsen [4]', 'Mai Surrow', 'Gao Xiangcheng', 'Xia Chunyu']","['[DEN] ', '[DEN] ', '[CHN] ', '[CHN] ']","['21-19', '17-21', '21-14']",XD After a break of app. 20 min.,20170222
-101,"['Takuto Inoue [1]', 'Yuki Kaneko', 'Frederik Colberg [5]', 'Rasmus Fladberg']","['[JPN] ', '[JPN] ', '[DEN] ', '[DEN] ']","['21-19', '21-17']",MD ,20170222
-102,"['Gao Xiangcheng', 'Xia Chunyu', 'Pei Tianyi', 'Wu Qianqian']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['18-21', '21-18', '21-18']",XD ,20170222
-103,"['Kanta Tsuneyama [2]', 'Raul Must [3]']","['[JPN] ', '[EST] ']","['21-19', '21-17']",MS ,20170222
-104,"['Fabienne Deprez', 'Mia Blichfeldt [2]']","['[GER] ', '[DEN] ']","['21-17', '21-18']",WS ,20170222
-105,"['Takuto Inoue [1]', 'Yuki Kaneko', 'Peter Briggs [8]', 'Tom Wolfenden']","['[JPN] ', '[JPN] ', '[ENG] ', '[ENG] ']","['21-16', '21-17']",MD ,20170222
-106,"['Rira Kawashima', 'Saori Ozaki', 'Anne Katrine Hansen', 'Marie Louise Steffensen']","['[JPN] ', '[JPN] ', '[DEN] ', '[DEN] ']","['21-7', '21-9']",WD ,20170222
+,PLAYERS,COUNTRIES,SCORES,EVENT,match_week,match_location
+0,"['Pei Tianyi', 'Wu Qianqian', 'Oliver Leydon-Davis', 'Marie Louise Steffensen']","['[CHN] ', '[CHN] ', '[NZL] ', '[DEN] ']","['21-15', '14-21', '21-10']",XD - Qualification ,20170222,"Vienna, Austria"
+1,"['Petra Polanc', 'Busra Yalçinkaya']","['[SLO] ', '[TUR] ']","['21-16', '19-21', '21-19']",WS - Qualification ,20170222,"Vienna, Austria"
+2,"['Brittney Tam', 'Nadia Fankhauser']","['[CAN] ', '[SUI] ']","['21-14', '21-11']",WS - Qualification ,20170222,"Vienna, Austria"
+3,"['Busra Unlu', 'Kaja Stankovic']","['[TUR] ', '[SLO] ']","['21-11', '17-21', '21-17']",WS - Qualification ,20170222,"Vienna, Austria"
+4,"['Manlin Yang', 'Tereza Švábíková']","['[CHN] ', '[CZE] ']","['21-17', '21-10']",WS - Qualification ,20170222,"Vienna, Austria"
+5,"['Lin Xingyu', 'Tovannakasem Samatcha']","['[CHN] ', '[THA] ']","['21-15', '22-20']",MS - Qualification ,20170222,"Vienna, Austria"
+6,"['Martin Cerkovnik', 'Artem Karpov']","['[SLO] ', '[RUS] ']","['21-10', '21-14']",MS - Qualification ,20170222,"Vienna, Austria"
+7,"['Anton Kaisti [7]', 'Joyireh Avi Manasye']","['[FIN] ', '[INA] ']","['21-13', '21-15']",MS - Qualification ,20170222,"Vienna, Austria"
+8,"['Wibowo Setyaldi Putra', 'Vilson Vattanirappel [8]']","['[INA] ', '[AUT] ']","['29-27', '21-10']",MS - Qualification ,20170222,"Vienna, Austria"
+9,"['Helina Rüütel', 'Ana Marija Setina [7]']","['[EST] ', '[SLO] ']","['21-10', '15-21', '21-19']",WS - Qualification ,20170222,"Vienna, Austria"
+10,"['Busra Unlu', 'Ayla Huser [4]']","['[TUR] ', '[SUI] ']","['20-22', '21-18', '21-17']",WS - Qualification ,20170222,"Vienna, Austria"
+11,"['Yu Igarashi [15]', 'Mikkel Mikkelsen']","['[JPN] ', '[DEN] ']","['21-16', '21-16']",MS - Qualification ,20170222,"Vienna, Austria"
+12,"['Pierrick Cajot [9]', 'Miha Ivancic']","['[FRA] ', '[SLO] ']","['21-17', '21-18']",MS - Qualification ,20170222,"Vienna, Austria"
+13,"['Xu Wei', 'Manlin Yang', 'Theresea Isenberg', 'Brid Stepper']","['[CHN] ', '[CHN] ', '[GER] ', '[GER] ']","['21-18', '21-16']",WD - Qualification ,20170222,"Vienna, Austria"
+14,"['Andras Nemeth', 'Reka Sarosi', 'Josip Uglesic', 'Katarina Galenic']","['[HUN] ', '[HUN] ', '[CRO] ', '[CRO] ']","['21-19', '24-22']",XD - Qualification ,20170222,"Vienna, Austria"
+15,"['Camilla Martens', 'Sonja Pekkola']","['[DEN] ', '[FIN] ']","['21-15', '21-11']",WS - Qualification ,20170222,"Vienna, Austria"
+16,"['Marie Batomene', 'Carina Meinke']","['[FRA] ', '[AUT] ']","['21-10', '21-17']",WS - Qualification ,20170222,"Vienna, Austria"
+17,"['Anastasiia Semenova', 'Theresa Wurm']","['[RUS] ', '[GER] ']","['11-21', '21-9', '25-23']",WS - Qualification ,20170222,"Vienna, Austria"
+18,"['Katarina Galenic', 'Nika Arih']","['[CRO] ', '[SLO] ']","['21-18', '21-12']",WS - Qualification ,20170222,"Vienna, Austria"
+19,"['Harshit Aggarwal', 'Andraz Krapez']","['[IND] ', '[SLO] ']","['21-15', '21-11']",MS - Qualification ,20170222,"Vienna, Austria"
+20,"['Piotr Wasiluk', 'Lukas Zevl']","['[POL] ', '[CZE] ']","['13-21', '21-17', '21-17']",MS - Qualification ,20170222,"Vienna, Austria"
+21,"['Luís Enrique Peñalver', 'Patrick Scheiel']","['[ESP] ', '[GER] ']","['21-13', '21-16']",MS - Qualification ,20170222,"Vienna, Austria"
+22,"['Gao Xiangfu', 'Giovanni Greco']","['[CHN] ', '[ITA] ']","['21-11', '21-16']",MS - Qualification ,20170222,"Vienna, Austria"
+23,"['Marie Batomene', 'Maja Pavlinic']","['[FRA] ', '[CRO] ']","['21-15', '21-9']",WS - Qualification ,20170222,"Vienna, Austria"
+24,"['Vaidehi Choudhari', 'Victoria Slobodyanyuk [6]']","['[IND] ', '[RUS] ']","['15-21', '22-20', '21-8']",WS - Qualification ,20170222,"Vienna, Austria"
+25,"['Adi Pratama', 'Wang Yuehang']","['[INA] ', '[ENG] ']","['20-22', '21-16', '21-16']",MS - Qualification ,20170222,"Vienna, Austria"
+26,"['Jacob Nilsson', 'Rahul Yadav Chittaboina [10]']","['[SWE] ', '[IND] ']","['21-19', '21-15']",MS - Qualification ,20170222,"Vienna, Austria"
+27,"['Shohei Hoshino', 'Taichi Saito', 'Deng Xuedi', 'Pei Tianyi']","['[JPN] ', '[JPN] ', '[CHN] ', '[CHN] ']","['21-13', '19-21', '21-12']",MD - Qualification ,20170222,"Vienna, Austria"
+28,"['Vaidehi Choudhari', 'Zhang Shuxian']","['[IND] ', '[CHN] ']","['21-12', '12-21', '22-20']",WS - Qualification ,20170222,"Vienna, Austria"
+29,"['Anastasiia Semenova', 'Marie Batomene']","['[RUS] ', '[FRA] ']","['24-22', '21-14']",WS - Qualification ,20170222,"Vienna, Austria"
+30,"['Adi Pratama', 'Piotr Wasiluk']","['[INA] ', '[POL] ']","['21-16', '21-9']",MS - Qualification ,20170222,"Vienna, Austria"
+31,"['Aleksander Jablonski', 'Pawel Smilowski', 'Lukáš Holub', 'Jan Hubáček']","['[POL] ', '[POL] ', '[CZE] ', '[CZE] ']","['21-12', '21-16']",MD - Qualification ,20170222,"Vienna, Austria"
+32,"['Vilson Vattanirappel', 'Lukas Weissenbäck', 'Philip Birker', 'Jakob Sorger']","['[AUT] ', '[AUT] ', '[AUT] ', '[AUT] ']","['21-16', '21-16']",MD - Qualification ,20170222,"Vienna, Austria"
+33,"['Gregory Mairs [1]', 'Jenny Moore', 'Nicklas Mathiasen', 'Gabriella Bøje']","['[ENG] ', '[ENG] ', '[DEN] ', '[DEN] ']","['21-13', '21-15']",XD ,20170222,"Vienna, Austria"
+34,"['Yuan Ao', 'Yang Yiling', 'Jakub Bitman [3]', 'Alzbeta Basova']","['[CHN] ', '[CHN] ', '[CZE] ', '[CZE] ']","['21-16', '21-17']",XD ,20170222,"Vienna, Austria"
+35,"['Miha Ivancic', 'Petra Polanc', 'Pawel Smilowski', 'Magdalena Swierczynska']","['[SLO] ', '[SLO] ', '[POL] ', '[POL] ']","['18-21', '21-15', '21-16']",XD ,20170222,"Vienna, Austria"
+36,"['Yvonne Li', 'Mariya Mitsova']","['[GER] ', '[BUL] ']","['21-19', '21-12']",WS ,20170222,"Vienna, Austria"
+37,"['Julie Dawall Jakobsen', 'Luise Heim']","['[DEN] ', '[GER] ']","['18-21', '21-11', '22-20']",WS ,20170222,"Vienna, Austria"
+38,"['Subhankar Dey', 'Kieran Merrilees [4]']","['[IND] ', '[SCO] ']","['10-21', '21-19', '21-18']",MS ,20170222,"Vienna, Austria"
+39,"['Raul Must [3]', 'Bjorn Seguin']","['[EST] ', '[USA] ']","['22-20', '21-17']",MS ,20170222,"Vienna, Austria"
+40,"['Rira Kawashima', 'Saori Ozaki', 'Mariya Mitsova [1]', 'Petya Nedelcheva']","['[JPN] ', '[JPN] ', '[BUL] ', '[BUL] ']","['19-21', '21-13', '21-14']",WD ,20170222,"Vienna, Austria"
+41,"['Emilie Juul Moller', 'Mai Surrow', 'Janine Lais', 'Antonia Meinke']","['[DEN] ', '[DEN] ', '[AUT] ', '[AUT] ']","['21-9', '21-11']",WD ,20170222,"Vienna, Austria"
+42,"['Konstantin Abramov [7]', 'Alexandr Zinchenko', 'Dominik Stipsits', 'Roman Zirnwald']","['[RUS] ', '[RUS] ', '[AUT] ', '[AUT] ']","['21-17', '21-15']",MD ,20170222,"Vienna, Austria"
+43,"['Rasmus Gemke [11]', 'Christopher Skrzeba']","['[DEN] ', '[GER] ']","['21-6', '23-21']",MS - Qualification ,20170222,"Vienna, Austria"
+44,"['Brittney Tam', 'Jordan Hart [8]']","['[CAN] ', '[WAL] ']","['10-21', '21-11', '21-18']",WS - Qualification ,20170222,"Vienna, Austria"
+45,"['Yu Chen', 'Anton Kaisti [7]']","['[CHN] ', '[FIN] ']","['22-24', '21-18', '21-18']",MS - Qualification ,20170222,"Vienna, Austria"
+46,"['Yu Igarashi [15]', 'Yusuke Onodera [6]']","['[JPN] ', '[JPN] ']","['13-21', '21-19', '21-18']",MS - Qualification ,20170222,"Vienna, Austria"
+47,"['Hiroki Okamura', 'Masayuki Onodera', 'Gao Xiangcheng', 'Zhou Bowei']","['[JPN] ', '[JPN] ', '[CHN] ', '[CHN] ']","['21-13', '21-15']",MD - Qualification ,20170222,"Vienna, Austria"
+48,"['Jones Ralfy Jansen', 'Franziska Volkmann', 'Oliver Schaller [2]', 'Celine Burkart']","['[GER] ', '[GER] ', '[SUI] ', '[SUI] ']","['19-21', '21-12', '23-21']",XD ,20170222,"Vienna, Austria"
+49,"['Anton Kaisti [7]', 'Jenny Nystrom', 'Lasse Mølhede', 'Maria Helsbol']","['[FIN] ', '[FIN] ', '[DEN] ', '[DEN] ']","['15-21', '21-14', '21-18']",XD ,20170222,"Vienna, Austria"
+50,"['Yui Hashimoto [1]', 'Agnes Korosi']","['[JPN] ', '[HUN] ']","['21-14', '21-16']",WS ,20170222,"Vienna, Austria"
+51,"['Irina Amalie Andersen', 'Evgeniya Kosetskaya']","['[DEN] ', '[RUS] ']","['11-21', '21-15', '21-18']",WS ,20170222,"Vienna, Austria"
+52,"['Pablo Abian [1]', 'Kalle Koljonen']","['[ESP] ', '[FIN] ']","['21-14', '21-8']",MS ,20170222,"Vienna, Austria"
+53,"['Victor Svendsen', 'Thomas Rouxel']","['[DEN] ', '[FRA] ']","['18-21', '21-18', '21-18']",MS ,20170222,"Vienna, Austria"
+54,"['Yu Chen', 'Luka Wraber']","['[CHN] ', '[AUT] ']","['21-11', '22-24', '21-11']",MS ,20170222,"Vienna, Austria"
+55,"['Wei Yawen', 'Yang Yiling', 'Jenny Nystrom', 'Sonja Pekkola']","['[CHN] ', '[CHN] ', '[FIN] ', '[FIN] ']","['21-14', '21-17']",WD ,20170222,"Vienna, Austria"
+56,"['Wu Qianqian', 'Xia Chunyu', 'Camilla Martens', 'Josephine Van Zaane']","['[CHN] ', '[CHN] ', '[DEN] ', '[DEN] ']","['21-18', '21-11']",WD ,20170222,"Vienna, Austria"
+57,"['Peter Briggs [8]', 'Tom Wolfenden', 'Daniel Benz', 'Andreas Heinz']","['[ENG] ', '[ENG] ', '[GER] ', '[GER] ']","['21-16', '21-10']",MD ,20170222,"Vienna, Austria"
+58,"['Gao Xiangcheng', 'Xia Chunyu', 'Matthew Clare', 'Victoria Williams']","['[CHN] ', '[CHN] ', '[ENG] ', '[ENG] ']","['21-15', '21-7']",XD ,20170222,"Vienna, Austria"
+59,"['Rira Kawashima', 'Irina Amalie Andersen']","['[JPN] ', '[DEN] ']","['21-16', '21-19']",WS ,20170222,"Vienna, Austria"
+60,"['Pablo Abian [1]', 'Luis Ramon Garrido']","['[ESP] ', '[MEX] ']","['21-16', '13-21', '21-17']",MS ,20170222,"Vienna, Austria"
+61,"['Takuto Inoue [1]', 'Yuki Kaneko', 'Daniel Grassmuck', 'Adi Pratama']","['[JPN] ', '[JPN] ', '[AUT] ', '[INA] ']","['21-8', '21-12']",MD ,20170222,"Vienna, Austria"
+62,"['Rira Kawashima', 'Saori Ozaki', 'Maria Helsbol', 'Amanda Madsen']","['[JPN] ', '[JPN] ', '[DEN] ', '[DEN] ']","['21-9', '21-11']",WD ,20170222,"Vienna, Austria"
+63,"['Gao Xiangcheng', 'Xia Chunyu', 'Anton Kaisti [7]', 'Jenny Nystrom']","['[CHN] ', '[CHN] ', '[FIN] ', '[FIN] ']","['21-16', '21-18']",XD ,20170222,"Vienna, Austria"
+64,"['Kirsty Gilmour [6]', 'Julie Dawall Jakobsen']","['[SCO] ', '[DEN] ']","['25-23', '21-9']",WS ,20170222,"Vienna, Austria"
+65,"['Mia Blichfeldt [2]', 'Yvonne Li']","['[DEN] ', '[GER] ']","['21-10', '20-22', '21-16']",WS ,20170222,"Vienna, Austria"
+66,"['Victor Svendsen', 'Subhankar Dey']","['[DEN] ', '[IND] ']","['21-17', '21-19']",MS ,20170222,"Vienna, Austria"
+67,"['Rebekka Findlay [4]', 'Caitlin Pringle', 'Xu Wei', 'Manlin Yang']","['[SCO] ', '[SCO] ', '[CHN] ', '[CHN] ']","['21-16', '21-17']",WD ,20170222,"Vienna, Austria"
+68,"['Wu Qianqian', 'Xia Chunyu', 'Alexandra Bøje [7]', 'Line Nørgaard']","['[CHN] ', '[CHN] ', '[DEN] ', '[DEN] ']","['21-16', '21-12']",WD ,20170222,"Vienna, Austria"
+69,"['Frederik Colberg [5]', 'Rasmus Fladberg', 'Hiroki Okamura', 'Masayuki Onodera']","['[DEN] ', '[DEN] ', '[JPN] ', '[JPN] ']","['21-15', '21-17']",MD ,20170222,"Vienna, Austria"
+70,"['Gregory Mairs [1]', 'Jenny Moore', 'Rodion Alimov [6]', 'Alina Davletova']","['[ENG] ', '[ENG] ', '[RUS] ', '[RUS] ']","['18-21', '24-22', '21-14']",XD ,20170222,"Vienna, Austria"
+71,"['Kirsty Gilmour [6]', 'Yui Hashimoto [1]']","['[SCO] ', '[JPN] ']","['21-18', '9-21', '21-18']",WS ,20170222,"Vienna, Austria"
+72,"['Fabienne Deprez', 'Brittney Tam']","['[GER] ', '[CAN] ']","['22-20', '21-14']",WS ,20170222,"Vienna, Austria"
+73,"['Nick Fransman', 'Victor Svendsen']","['[NED] ', '[DEN] ']","['21-19', '21-19']",MS ,20170222,"Vienna, Austria"
+74,"['Frederik Colberg [5]', 'Rasmus Fladberg', 'Jones Ralfy Jansen [3]', 'Josche Zurwonne']","['[DEN] ', '[DEN] ', '[GER] ', '[GER] ']","['21-14', '21-8']",MD ,20170222,"Vienna, Austria"
+75,"['Pei Tianyi', 'Wu Qianqian', 'Mathias Bay-Smidt [5]', 'Alexandra Bøje']","['[CHN] ', '[CHN] ', '[DEN] ', '[DEN] ']","['21-18', '21-17']",XD ,20170222,"Vienna, Austria"
+76,"['Neslihan Yigit [5]', 'Shuo Yun Sung']","['[TUR] ', '[TPE] ']","['21-12', '21-16']",WS ,20170222,"Vienna, Austria"
+77,"['Pablo Abian [1]', 'Siril Verma']","['[ESP] ', '[IND] ']","['21-14', '21-13']",MS ,20170222,"Vienna, Austria"
+78,"['Nick Fransman', 'Lucas Corvee [5]']","['[NED] ', '[FRA] ']","['21-18', '15-21', '21-18']",MS ,20170222,"Vienna, Austria"
+79,"['Raul Must [3]', 'Erik Meijs']","['[EST] ', '[NED] ']","['21-18', '21-10']",MS ,20170222,"Vienna, Austria"
+80,"['Martin Campbell [4]', 'Patrick Machugh', 'Alexander Bond', 'Nikolaj Overgaard']","['[SCO] ', '[SCO] ', '[DEN] ', '[DEN] ']","['21-15', '21-11']",MD ,20170222,"Vienna, Austria"
+81,"['Matijs Dierickx [2]', 'Freek Golinski', 'David Kramer', 'Christopher Skrzeba']","['[BEL] ', '[BEL] ', '[GER] ', '[GER] ']","['21-11', '21-12']",MD ,20170222,"Vienna, Austria"
+82,"['Mikkel Mikkelsen [4]', 'Mai Surrow', 'Zhou Bowei', 'Wei Yawen']","['[DEN] ', '[DEN] ', '[CHN] ', '[CHN] ']","['21-15', '21-15']",XD ,20170222,"Vienna, Austria"
+83,"['Raul Must [3]', 'Rasmus Gemke']","['[EST] ', '[DEN] ']","['21-18', '21-13']",MS ,20170222,"Vienna, Austria"
+84,"['Mia Blichfeldt [2]', 'Neslihan Yigit [5]']","['[DEN] ', '[TUR] ']","['21-18', '21-19']",WS ,20170222,"Vienna, Austria"
+85,"['Peter Briggs [8]', 'Tom Wolfenden', 'Martin Campbell [4]', 'Patrick Machugh']","['[ENG] ', '[ENG] ', '[SCO] ', '[SCO] ']","['24-22', '21-17']",MD ,20170222,"Vienna, Austria"
+86,"['Shohei Hoshino', 'Taichi Saito', 'Matijs Dierickx [2]', 'Freek Golinski']","['[JPN] ', '[JPN] ', '[BEL] ', '[BEL] ']","['19-21', '21-17', '21-12']",MD ,20170222,"Vienna, Austria"
+87,"['Pei Tianyi', 'Wu Qianqian', 'Jones Ralfy Jansen', 'Franziska Volkmann']","['[CHN] ', '[CHN] ', '[GER] ', '[GER] ']","['21-10', '21-18']",XD ,20170222,"Vienna, Austria"
+88,"['Kanta Tsuneyama [2]', 'Zvonimir Durkinjak']","['[JPN] ', '[CRO] ']","['21-19', '21-18']",MS ,20170222,"Vienna, Austria"
+89,"['Anne Katrine Hansen', 'Marie Louise Steffensen', 'Ozge Bayrak [8]', 'Cemre Fere']","['[DEN] ', '[DEN] ', '[TUR] ', '[TUR] ']","['21-16', '9-21', '21-19']",WD ,20170222,"Vienna, Austria"
+90,"['Ching Hui Chang', 'Yang Ching Tun', 'Rebekka Findlay [4]', 'Caitlin Pringle']","['[TPE] ', '[TPE] ', '[SCO] ', '[SCO] ']","['21-11', '21-10']",WD ,20170222,"Vienna, Austria"
+91,"['Wu Qianqian', 'Xia Chunyu', 'Nadia Fankhauser [2]', 'Sannatasah Saniru']","['[CHN] ', '[CHN] ', '[SUI] ', '[MAS] ']","['21-16', '21-13']",WD ,20170222,"Vienna, Austria"
+92,"['Kirsty Gilmour [6]', 'Rira Kawashima']","['[SCO] ', '[JPN] ']","['21-12', '21-18']",WS ,20170222,"Vienna, Austria"
+93,"['Mikkel Mikkelsen [4]', 'Mai Surrow', 'Gregory Mairs [1]', 'Jenny Moore']","['[DEN] ', '[DEN] ', '[ENG] ', '[ENG] ']","['21-14', '21-17']",XD ,20170222,"Vienna, Austria"
+94,"['Pablo Abian [1]', 'Nick Fransman']","['[ESP] ', '[NED] ']","['15-21', '21-15', '21-10']",MS ,20170222,"Vienna, Austria"
+95,"['Wu Qianqian', 'Xia Chunyu', 'Ching Hui Chang', 'Yang Ching Tun']","['[CHN] ', '[CHN] ', '[TPE] ', '[TPE] ']","['21-8', '21-14']",WD ,20170222,"Vienna, Austria"
+96,"['Frederik Colberg [5]', 'Rasmus Fladberg', 'Shohei Hoshino', 'Taichi Saito']","['[DEN] ', '[DEN] ', '[JPN] ', '[JPN] ']","['21-13', '21-18']",MD ,20170222,"Vienna, Austria"
+97,"['Rira Kawashima', 'Saori Ozaki', 'Wu Qianqian', 'Xia Chunyu']","['[JPN] ', '[JPN] ', '[CHN] ', '[CHN] ']","['18-21', '22-20', '21-11']",WD ,20170222,"Vienna, Austria"
+98,"['Kirsty Gilmour [6]', 'Fabienne Deprez']","['[SCO] ', '[GER] ']","['21-17', '21-9']",WS ,20170222,"Vienna, Austria"
+99,"['Kanta Tsuneyama [2]', 'Pablo Abian [1]']","['[JPN] ', '[ESP] ']","['21-10', '12-21', '21-11']",MS ,20170222,"Vienna, Austria"
+100,"['Mikkel Mikkelsen [4]', 'Mai Surrow', 'Gao Xiangcheng', 'Xia Chunyu']","['[DEN] ', '[DEN] ', '[CHN] ', '[CHN] ']","['21-19', '17-21', '21-14']",XD After a break of app. 20 min.,20170222,"Vienna, Austria"
+101,"['Takuto Inoue [1]', 'Yuki Kaneko', 'Frederik Colberg [5]', 'Rasmus Fladberg']","['[JPN] ', '[JPN] ', '[DEN] ', '[DEN] ']","['21-19', '21-17']",MD ,20170222,"Vienna, Austria"
+102,"['Gao Xiangcheng', 'Xia Chunyu', 'Pei Tianyi', 'Wu Qianqian']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['18-21', '21-18', '21-18']",XD ,20170222,"Vienna, Austria"
+103,"['Kanta Tsuneyama [2]', 'Raul Must [3]']","['[JPN] ', '[EST] ']","['21-19', '21-17']",MS ,20170222,"Vienna, Austria"
+104,"['Fabienne Deprez', 'Mia Blichfeldt [2]']","['[GER] ', '[DEN] ']","['21-17', '21-18']",WS ,20170222,"Vienna, Austria"
+105,"['Takuto Inoue [1]', 'Yuki Kaneko', 'Peter Briggs [8]', 'Tom Wolfenden']","['[JPN] ', '[JPN] ', '[ENG] ', '[ENG] ']","['21-16', '21-17']",MD ,20170222,"Vienna, Austria"
+106,"['Rira Kawashima', 'Saori Ozaki', 'Anne Katrine Hansen', 'Marie Louise Steffensen']","['[JPN] ', '[JPN] ', '[DEN] ', '[DEN] ']","['21-7', '21-9']",WD ,20170222,"Vienna, Austria"

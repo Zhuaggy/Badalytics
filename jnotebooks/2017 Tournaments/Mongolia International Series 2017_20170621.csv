@@ -1,55 +1,55 @@
-,PLAYERS,COUNTRIES,SCORES,EVENT,match_week
-0,"['Amrullo Bakhshullaev', 'Gunzorig Enkhjargal']","['[UZB] ', '[MGL] ']","['21-7', '21-14']",MS,20170621
-1,"['Gu Mu Yeong', 'Purevsuren Enkhmandakh']","['[KOR] ', '[MGL] ']","['21-5', '21-5']",MS,20170621
-2,"['Batdavaa Munkhbat', 'Alexander Kim']","['[MGL] ', '[UZB] ']","['21-12', '21-10']",MS,20170621
-3,"['Cao Cuong Pham [1]', 'Gerelsukh Jargalsaikhan']","['[VIE] ', '[MGL] ']","['21-12', '21-4']",MS,20170621
-4,"['Khuvituguldur Byambajav', 'Sherzod Zokhidov']","['[MGL] ', '[UZB] ']","['18-21', '21-17', '21-10']",MS,20170621
-5,"['Park Sung Min', 'Amrullo Bakhshullaev']","['[KOR] ', '[UZB] ']","['21-12', '21-15']",MS,20170621
-6,"['Gu Mu Yeong', 'Battur Davaasuren']","['[KOR] ', '[MGL] ']","['21-6', '21-13']",MS,20170621
-7,"['Artyom Savatyugin [4]', 'Tuguldur Boldbaatar']","['[UZB] ', '[MGL] ']","['21-18', '21-13']",MS,20170621
-8,"['Batdavaa Munkhbat', 'Sungwook Hyun']","['[MGL] ', '[KOR] ']","['18-21', '21-16', '21-15']",MS,20170621
-9,"['Jan Frohlich [2]', 'Erdenebayar Enkhbold']","['[CZE] ', '[MGL] ']","['21-10', '21-16']",MS,20170621
-10,"['Itgelbayar Galbadrakh', 'Davaasuren Jargalsaikhan']","['[MGL] ', '[MGL] ']","['21-15', '21-13']",WS,20170621
-11,"['Saikhantuul Banzragch', 'Uurtsaikh Erkhembayar']","['[MGL] ', '[MGL] ']","['16-21', '21-12', '21-18']",WS,20170621
-12,"['Ho Yeon Kim', 'Uuriintsolmon Sansarbaatar']","['[KOR] ', '[MGL] ']","['21-3', '21-2']",WS,20170621
-13,"['Tegshzaya Choinkhor', 'Khaliun Erkhemzaya']","['[MGL] ', '[MGL] ']","['21-12', '21-14']",WS,20170621
-14,"['Narantsetseg Bayarsaikhan', 'Khaliunaa Byambaa']","['[MGL] ', '[MGL] ']","['21-16', '21-8']",WS,20170621
-15,"['So Yeon Han', 'Dashdondov Bulgamaa']","['[KOR] ', '[MGL] ']","['21-5', '21-8']",WS,20170621
-16,"['Olzvoi Janchiv', 'Davkharbayar Dulamragchaa']","['[MGL] ', '[MGL] ']","['21-19', '21-10']",WS,20170621
-17,"['Olonbayar Enkhbat', 'Erdenebayar Enkhbold', 'Tuguldur Boldbaatar', 'Gunzorig Enkhjargal']","['[MGL] ', '[MGL] ', '[MGL] ', '[MGL] ']","['21-18', '21-13']",MD,20170621
-18,"['Jung Jung Young', 'Shin Hee Kwang', 'Alexander Kim', 'Sherzod Zokhidov']","['[KOR] ', '[KOR] ', '[UZB] ', '[UZB] ']","['21-12', '21-10']",MD,20170621
-19,"['Olonbayar Enkhbat', 'Dashdondov Bulgamaa', 'Gunzorig Enkhjargal', 'Uurtsaikh Erkhembayar']","['[MGL] ', '[MGL] ', '[MGL] ', '[MGL] ']","['21-8', '21-12']",XD,20170621
-20,"['Gerelsukh Jargalsaikhan', 'Tegshzaya Choinkhor', 'Khuvituguldur Byambajav', 'Olzvoi Janchiv']","['[MGL] ', '[MGL] ', '[MGL] ', '[MGL] ']","['12-21', '21-15', '21-14']",XD,20170621
-21,"['Jung Jung Young', 'Hye Ryeon Ko', 'Batdavaa Munkhbat', 'Saikhantuul Banzragch']","['[KOR] ', '[KOR] ', '[MGL] ', '[MGL] ']","['21-6', '21-7']",XD,20170621
-22,"['Battur Davaasuren', 'Narantsetseg Bayarsaikhan', 'Tuguldur Boldbaatar', 'Khaliunaa Byambaa']","['[MGL] ', '[MGL] ', '[MGL] ', '[MGL] ']","['21-17', '21-17']",XD,20170621
-23,"['Thuy Linh Nguyen [1]', 'Itgelbayar Galbadrakh']","['[VIE] ', '[MGL] ']","['21-2', '21-5']",WS,20170621
-24,"['Ho Yeon Kim', 'Saikhantuul Banzragch']","['[KOR] ', '[MGL] ']","['21-4', '21-3']",WS,20170621
-25,"['So Yeon Han', 'Tegshzaya Choinkhor']","['[KOR] ', '[MGL] ']","['21-2', '21-3']",WS,20170621
-26,"['Olzvoi Janchiv', 'Narantsetseg Bayarsaikhan']","['[MGL] ', '[MGL] ']","['21-16', '21-16']",WS,20170621
-27,"['Cao Cuong Pham [1]', 'Khuvituguldur Byambajav']","['[VIE] ', '[MGL] ']","['21-17', '21-11']",MS,20170621
-28,"['Park Sung Min', 'Olonbayar Enkhbat']","['[KOR] ', '[MGL] ']","['21-11', '21-15']",MS,20170621
-29,"['Gu Mu Yeong', 'Artyom Savatyugin [4]']","['[KOR] ', '[UZB] ']","['21-17', '21-7']",MS,20170621
-30,"['Jan Frohlich [2]', 'Batdavaa Munkhbat']","['[CZE] ', '[MGL] ']","['19-21', '21-17', '21-17']",MS,20170621
-31,"['Khaliunaa Byambaa', 'Tegshzaya Choinkhor', 'Davkharbayar Dulamragchaa', 'Uuriintsolmon Sansarbaatar']","['[MGL] ', '[MGL] ', '[MGL] ', '[MGL] ']","['21-8', '21-9']",WD,20170621
-32,"['Dashdondov Bulgamaa', 'Olzvoi Janchiv', 'Uurtsaikh Erkhembayar', 'Itgelbayar Galbadrakh']","['[MGL] ', '[MGL] ', '[MGL] ', '[MGL] ']","['16-21', '21-16', '21-10']",WD,20170621
-33,"['Saikhantuul Banzragch', 'Narantsetseg Bayarsaikhan', 'Khulangoo Baatar', 'Undrakh Delgermaa']","['[MGL] ', '[MGL] ', '[MGL] ', '[MGL] ']","['21-11', '21-19']",WD,20170621
-34,"['So Yeon Han', 'Hye Ryeon Ko', 'Khaliun Erkhemzaya', 'Davaasuren Jargalsaikhan']","['[KOR] ', '[KOR] ', '[MGL] ', '[MGL] ']","['21-7', '21-13']",WD,20170621
-35,"['Sungwook Hyun', 'Kim In Woo', 'Amrullo Bakhshullaev [1]', 'Artyom Savatyugin']","['[KOR] ', '[KOR] ', '[UZB] ', '[UZB] ']","['21-15', '21-14']",MD,20170621
-36,"['Jung Suk Hoon', 'Ji Su Lee', 'Olonbayar Enkhbat', 'Erdenebayar Enkhbold']","['[KOR] ', '[KOR] ', '[MGL] ', '[MGL] ']","['21-9', '21-11']",MD,20170621
-37,"['Jung Jung Young', 'Shin Hee Kwang', 'Khuvituguldur Byambajav', 'Battur Davaasuren']","['[KOR] ', '[KOR] ', '[MGL] ', '[MGL] ']","['21-11', '21-12']",MD,20170621
-38,"['Purevsuren Enkhmandakh [2]', 'Jan Frohlich', 'Gerelsukh Jargalsaikhan', 'Batdavaa Munkhbat']","['[MGL] ', '[CZE] ', '[MGL] ', '[MGL] ']","['21-16', '21-6']",MD,20170621
-39,"['Olonbayar Enkhbat', 'Dashdondov Bulgamaa', 'Gerelsukh Jargalsaikhan', 'Tegshzaya Choinkhor']","['[MGL] ', '[MGL] ', '[MGL] ', '[MGL] ']","['21-15', '21-18']",XD ,20170621
-40,"['Thuy Linh Nguyen [1]', 'Ho Yeon Kim']","['[VIE] ', '[KOR] ']","['21-15', '13-21', '21-7']",WS ,20170621
-41,"['Gu Mu Yeong', 'Jan Frohlich [2]']","['[KOR] ', '[CZE] ']","['21-13', '21-12']",MS ,20170621
-42,"['Khaliunaa Byambaa', 'Tegshzaya Choinkhor', 'Dashdondov Bulgamaa', 'Olzvoi Janchiv']","['[MGL] ', '[MGL] ', '[MGL] ', '[MGL] ']","['16-21', '21-17', '21-10']",WD ,20170621
-43,"['Jung Suk Hoon', 'Ji Su Lee', 'Sungwook Hyun', 'Kim In Woo']","['[KOR] ', '[KOR] ', '[KOR] ', '[KOR] ']","['21-16', '20-22', '21-17']",MD ,20170621
-44,"['Jung Jung Young', 'Hye Ryeon Ko', 'Battur Davaasuren', 'Narantsetseg Bayarsaikhan']","['[KOR] ', '[KOR] ', '[MGL] ', '[MGL] ']","['21-11', '21-11']",XD ,20170621
-45,"['So Yeon Han', 'Olzvoi Janchiv']","['[KOR] ', '[MGL] ']","['21-11', '21-16']",WS ,20170621
-46,"['Park Sung Min', 'Cao Cuong Pham [1]']","['[KOR] ', '[VIE] ']","['21-19', '21-18']",MS ,20170621
-47,"['So Yeon Han', 'Hye Ryeon Ko', 'Saikhantuul Banzragch', 'Narantsetseg Bayarsaikhan']","['[KOR] ', '[KOR] ', '[MGL] ', '[MGL] ']","['21-16', '21-16']",WD ,20170621
-48,"['Jung Jung Young', 'Shin Hee Kwang', 'Purevsuren Enkhmandakh [2]', 'Jan Frohlich']","['[KOR] ', '[KOR] ', '[MGL] ', '[CZE] ']","['21-10', '21-14']",MD ,20170621
-49,"['Thuy Linh Nguyen [1]', 'So Yeon Han']","['[VIE] ', '[KOR] ']","['21-18', '21-9']",WS ,20170621
-50,"['Jung Jung Young', 'Shin Hee Kwang', 'Jung Suk Hoon', 'Ji Su Lee']","['[KOR] ', '[KOR] ', '[KOR] ', '[KOR] ']","['21-12', '18-21', '21-11']",MD ,20170621
-51,"['So Yeon Han', 'Hye Ryeon Ko', 'Khaliunaa Byambaa', 'Tegshzaya Choinkhor']","['[KOR] ', '[KOR] ', '[MGL] ', '[MGL] ']","['21-16', '21-19']",WD ,20170621
-52,"['Park Sung Min', 'Gu Mu Yeong']","['[KOR] ', '[KOR] ']","['21-15', '13-21', '21-13']",MS ,20170621
-53,"['Jung Jung Young', 'Hye Ryeon Ko', 'Olonbayar Enkhbat', 'Dashdondov Bulgamaa']","['[KOR] ', '[KOR] ', '[MGL] ', '[MGL] ']","['21-11', '21-16']",XD ,20170621
+,PLAYERS,COUNTRIES,SCORES,EVENT,match_week,match_location
+0,"['Amrullo Bakhshullaev', 'Gunzorig Enkhjargal']","['[UZB] ', '[MGL] ']","['21-7', '21-14']",MS,20170621,"ulaanbaatar, Mongolia"
+1,"['Gu Mu Yeong', 'Purevsuren Enkhmandakh']","['[KOR] ', '[MGL] ']","['21-5', '21-5']",MS,20170621,"ulaanbaatar, Mongolia"
+2,"['Batdavaa Munkhbat', 'Alexander Kim']","['[MGL] ', '[UZB] ']","['21-12', '21-10']",MS,20170621,"ulaanbaatar, Mongolia"
+3,"['Cao Cuong Pham [1]', 'Gerelsukh Jargalsaikhan']","['[VIE] ', '[MGL] ']","['21-12', '21-4']",MS,20170621,"ulaanbaatar, Mongolia"
+4,"['Khuvituguldur Byambajav', 'Sherzod Zokhidov']","['[MGL] ', '[UZB] ']","['18-21', '21-17', '21-10']",MS,20170621,"ulaanbaatar, Mongolia"
+5,"['Park Sung Min', 'Amrullo Bakhshullaev']","['[KOR] ', '[UZB] ']","['21-12', '21-15']",MS,20170621,"ulaanbaatar, Mongolia"
+6,"['Gu Mu Yeong', 'Battur Davaasuren']","['[KOR] ', '[MGL] ']","['21-6', '21-13']",MS,20170621,"ulaanbaatar, Mongolia"
+7,"['Artyom Savatyugin [4]', 'Tuguldur Boldbaatar']","['[UZB] ', '[MGL] ']","['21-18', '21-13']",MS,20170621,"ulaanbaatar, Mongolia"
+8,"['Batdavaa Munkhbat', 'Sungwook Hyun']","['[MGL] ', '[KOR] ']","['18-21', '21-16', '21-15']",MS,20170621,"ulaanbaatar, Mongolia"
+9,"['Jan Frohlich [2]', 'Erdenebayar Enkhbold']","['[CZE] ', '[MGL] ']","['21-10', '21-16']",MS,20170621,"ulaanbaatar, Mongolia"
+10,"['Itgelbayar Galbadrakh', 'Davaasuren Jargalsaikhan']","['[MGL] ', '[MGL] ']","['21-15', '21-13']",WS,20170621,"ulaanbaatar, Mongolia"
+11,"['Saikhantuul Banzragch', 'Uurtsaikh Erkhembayar']","['[MGL] ', '[MGL] ']","['16-21', '21-12', '21-18']",WS,20170621,"ulaanbaatar, Mongolia"
+12,"['Ho Yeon Kim', 'Uuriintsolmon Sansarbaatar']","['[KOR] ', '[MGL] ']","['21-3', '21-2']",WS,20170621,"ulaanbaatar, Mongolia"
+13,"['Tegshzaya Choinkhor', 'Khaliun Erkhemzaya']","['[MGL] ', '[MGL] ']","['21-12', '21-14']",WS,20170621,"ulaanbaatar, Mongolia"
+14,"['Narantsetseg Bayarsaikhan', 'Khaliunaa Byambaa']","['[MGL] ', '[MGL] ']","['21-16', '21-8']",WS,20170621,"ulaanbaatar, Mongolia"
+15,"['So Yeon Han', 'Dashdondov Bulgamaa']","['[KOR] ', '[MGL] ']","['21-5', '21-8']",WS,20170621,"ulaanbaatar, Mongolia"
+16,"['Olzvoi Janchiv', 'Davkharbayar Dulamragchaa']","['[MGL] ', '[MGL] ']","['21-19', '21-10']",WS,20170621,"ulaanbaatar, Mongolia"
+17,"['Olonbayar Enkhbat', 'Erdenebayar Enkhbold', 'Tuguldur Boldbaatar', 'Gunzorig Enkhjargal']","['[MGL] ', '[MGL] ', '[MGL] ', '[MGL] ']","['21-18', '21-13']",MD,20170621,"ulaanbaatar, Mongolia"
+18,"['Jung Jung Young', 'Shin Hee Kwang', 'Alexander Kim', 'Sherzod Zokhidov']","['[KOR] ', '[KOR] ', '[UZB] ', '[UZB] ']","['21-12', '21-10']",MD,20170621,"ulaanbaatar, Mongolia"
+19,"['Olonbayar Enkhbat', 'Dashdondov Bulgamaa', 'Gunzorig Enkhjargal', 'Uurtsaikh Erkhembayar']","['[MGL] ', '[MGL] ', '[MGL] ', '[MGL] ']","['21-8', '21-12']",XD,20170621,"ulaanbaatar, Mongolia"
+20,"['Gerelsukh Jargalsaikhan', 'Tegshzaya Choinkhor', 'Khuvituguldur Byambajav', 'Olzvoi Janchiv']","['[MGL] ', '[MGL] ', '[MGL] ', '[MGL] ']","['12-21', '21-15', '21-14']",XD,20170621,"ulaanbaatar, Mongolia"
+21,"['Jung Jung Young', 'Hye Ryeon Ko', 'Batdavaa Munkhbat', 'Saikhantuul Banzragch']","['[KOR] ', '[KOR] ', '[MGL] ', '[MGL] ']","['21-6', '21-7']",XD,20170621,"ulaanbaatar, Mongolia"
+22,"['Battur Davaasuren', 'Narantsetseg Bayarsaikhan', 'Tuguldur Boldbaatar', 'Khaliunaa Byambaa']","['[MGL] ', '[MGL] ', '[MGL] ', '[MGL] ']","['21-17', '21-17']",XD,20170621,"ulaanbaatar, Mongolia"
+23,"['Thuy Linh Nguyen [1]', 'Itgelbayar Galbadrakh']","['[VIE] ', '[MGL] ']","['21-2', '21-5']",WS,20170621,"ulaanbaatar, Mongolia"
+24,"['Ho Yeon Kim', 'Saikhantuul Banzragch']","['[KOR] ', '[MGL] ']","['21-4', '21-3']",WS,20170621,"ulaanbaatar, Mongolia"
+25,"['So Yeon Han', 'Tegshzaya Choinkhor']","['[KOR] ', '[MGL] ']","['21-2', '21-3']",WS,20170621,"ulaanbaatar, Mongolia"
+26,"['Olzvoi Janchiv', 'Narantsetseg Bayarsaikhan']","['[MGL] ', '[MGL] ']","['21-16', '21-16']",WS,20170621,"ulaanbaatar, Mongolia"
+27,"['Cao Cuong Pham [1]', 'Khuvituguldur Byambajav']","['[VIE] ', '[MGL] ']","['21-17', '21-11']",MS,20170621,"ulaanbaatar, Mongolia"
+28,"['Park Sung Min', 'Olonbayar Enkhbat']","['[KOR] ', '[MGL] ']","['21-11', '21-15']",MS,20170621,"ulaanbaatar, Mongolia"
+29,"['Gu Mu Yeong', 'Artyom Savatyugin [4]']","['[KOR] ', '[UZB] ']","['21-17', '21-7']",MS,20170621,"ulaanbaatar, Mongolia"
+30,"['Jan Frohlich [2]', 'Batdavaa Munkhbat']","['[CZE] ', '[MGL] ']","['19-21', '21-17', '21-17']",MS,20170621,"ulaanbaatar, Mongolia"
+31,"['Khaliunaa Byambaa', 'Tegshzaya Choinkhor', 'Davkharbayar Dulamragchaa', 'Uuriintsolmon Sansarbaatar']","['[MGL] ', '[MGL] ', '[MGL] ', '[MGL] ']","['21-8', '21-9']",WD,20170621,"ulaanbaatar, Mongolia"
+32,"['Dashdondov Bulgamaa', 'Olzvoi Janchiv', 'Uurtsaikh Erkhembayar', 'Itgelbayar Galbadrakh']","['[MGL] ', '[MGL] ', '[MGL] ', '[MGL] ']","['16-21', '21-16', '21-10']",WD,20170621,"ulaanbaatar, Mongolia"
+33,"['Saikhantuul Banzragch', 'Narantsetseg Bayarsaikhan', 'Khulangoo Baatar', 'Undrakh Delgermaa']","['[MGL] ', '[MGL] ', '[MGL] ', '[MGL] ']","['21-11', '21-19']",WD,20170621,"ulaanbaatar, Mongolia"
+34,"['So Yeon Han', 'Hye Ryeon Ko', 'Khaliun Erkhemzaya', 'Davaasuren Jargalsaikhan']","['[KOR] ', '[KOR] ', '[MGL] ', '[MGL] ']","['21-7', '21-13']",WD,20170621,"ulaanbaatar, Mongolia"
+35,"['Sungwook Hyun', 'Kim In Woo', 'Amrullo Bakhshullaev [1]', 'Artyom Savatyugin']","['[KOR] ', '[KOR] ', '[UZB] ', '[UZB] ']","['21-15', '21-14']",MD,20170621,"ulaanbaatar, Mongolia"
+36,"['Jung Suk Hoon', 'Ji Su Lee', 'Olonbayar Enkhbat', 'Erdenebayar Enkhbold']","['[KOR] ', '[KOR] ', '[MGL] ', '[MGL] ']","['21-9', '21-11']",MD,20170621,"ulaanbaatar, Mongolia"
+37,"['Jung Jung Young', 'Shin Hee Kwang', 'Khuvituguldur Byambajav', 'Battur Davaasuren']","['[KOR] ', '[KOR] ', '[MGL] ', '[MGL] ']","['21-11', '21-12']",MD,20170621,"ulaanbaatar, Mongolia"
+38,"['Purevsuren Enkhmandakh [2]', 'Jan Frohlich', 'Gerelsukh Jargalsaikhan', 'Batdavaa Munkhbat']","['[MGL] ', '[CZE] ', '[MGL] ', '[MGL] ']","['21-16', '21-6']",MD,20170621,"ulaanbaatar, Mongolia"
+39,"['Olonbayar Enkhbat', 'Dashdondov Bulgamaa', 'Gerelsukh Jargalsaikhan', 'Tegshzaya Choinkhor']","['[MGL] ', '[MGL] ', '[MGL] ', '[MGL] ']","['21-15', '21-18']",XD ,20170621,"ulaanbaatar, Mongolia"
+40,"['Thuy Linh Nguyen [1]', 'Ho Yeon Kim']","['[VIE] ', '[KOR] ']","['21-15', '13-21', '21-7']",WS ,20170621,"ulaanbaatar, Mongolia"
+41,"['Gu Mu Yeong', 'Jan Frohlich [2]']","['[KOR] ', '[CZE] ']","['21-13', '21-12']",MS ,20170621,"ulaanbaatar, Mongolia"
+42,"['Khaliunaa Byambaa', 'Tegshzaya Choinkhor', 'Dashdondov Bulgamaa', 'Olzvoi Janchiv']","['[MGL] ', '[MGL] ', '[MGL] ', '[MGL] ']","['16-21', '21-17', '21-10']",WD ,20170621,"ulaanbaatar, Mongolia"
+43,"['Jung Suk Hoon', 'Ji Su Lee', 'Sungwook Hyun', 'Kim In Woo']","['[KOR] ', '[KOR] ', '[KOR] ', '[KOR] ']","['21-16', '20-22', '21-17']",MD ,20170621,"ulaanbaatar, Mongolia"
+44,"['Jung Jung Young', 'Hye Ryeon Ko', 'Battur Davaasuren', 'Narantsetseg Bayarsaikhan']","['[KOR] ', '[KOR] ', '[MGL] ', '[MGL] ']","['21-11', '21-11']",XD ,20170621,"ulaanbaatar, Mongolia"
+45,"['So Yeon Han', 'Olzvoi Janchiv']","['[KOR] ', '[MGL] ']","['21-11', '21-16']",WS ,20170621,"ulaanbaatar, Mongolia"
+46,"['Park Sung Min', 'Cao Cuong Pham [1]']","['[KOR] ', '[VIE] ']","['21-19', '21-18']",MS ,20170621,"ulaanbaatar, Mongolia"
+47,"['So Yeon Han', 'Hye Ryeon Ko', 'Saikhantuul Banzragch', 'Narantsetseg Bayarsaikhan']","['[KOR] ', '[KOR] ', '[MGL] ', '[MGL] ']","['21-16', '21-16']",WD ,20170621,"ulaanbaatar, Mongolia"
+48,"['Jung Jung Young', 'Shin Hee Kwang', 'Purevsuren Enkhmandakh [2]', 'Jan Frohlich']","['[KOR] ', '[KOR] ', '[MGL] ', '[CZE] ']","['21-10', '21-14']",MD ,20170621,"ulaanbaatar, Mongolia"
+49,"['Thuy Linh Nguyen [1]', 'So Yeon Han']","['[VIE] ', '[KOR] ']","['21-18', '21-9']",WS ,20170621,"ulaanbaatar, Mongolia"
+50,"['Jung Jung Young', 'Shin Hee Kwang', 'Jung Suk Hoon', 'Ji Su Lee']","['[KOR] ', '[KOR] ', '[KOR] ', '[KOR] ']","['21-12', '18-21', '21-11']",MD ,20170621,"ulaanbaatar, Mongolia"
+51,"['So Yeon Han', 'Hye Ryeon Ko', 'Khaliunaa Byambaa', 'Tegshzaya Choinkhor']","['[KOR] ', '[KOR] ', '[MGL] ', '[MGL] ']","['21-16', '21-19']",WD ,20170621,"ulaanbaatar, Mongolia"
+52,"['Park Sung Min', 'Gu Mu Yeong']","['[KOR] ', '[KOR] ']","['21-15', '13-21', '21-13']",MS ,20170621,"ulaanbaatar, Mongolia"
+53,"['Jung Jung Young', 'Hye Ryeon Ko', 'Olonbayar Enkhbat', 'Dashdondov Bulgamaa']","['[KOR] ', '[KOR] ', '[MGL] ', '[MGL] ']","['21-11', '21-16']",XD ,20170621,"ulaanbaatar, Mongolia"

@@ -1,150 +1,150 @@
-,PLAYERS,COUNTRIES,SCORES,EVENT,match_week
-0,"['Fabricio Farias', 'Diego Mini']","['[BRA] ', '[PER] ']","['21-15', '21-19']",MS,20180426
-1,"['Antonio Li', 'Grimaldy Navirio Gunawan']","['[CAN] ', '[USA] ']","['21-11', '21-11']",MS,20180426
-2,"['Ernesto Reyes', 'Dakeil Jonathan Thorpe']","['[CUB] ', '[BAR] ']","['21-17', '21-10']",MS,20180426
-3,"['Jorge Rodriguez', 'Manuel Mejia']","['[MEX] ', '[ESA] ']","['21-7', '21-9']",MS,20180426
-4,"['Alonso Medel', 'Jose Luis Granados Morales']","['[CHI] ', '[GUA] ']","['21-11', '21-7']",MS,20180426
-5,"['Uriel Francisco Canjura Artiga', 'Damien Howell']","['[ESA] ', '[BAR] ']","['21-9', '21-4']",MS,20180426
-6,"['Luis Armando Montoya Navarro', 'Cristian Araya']","['[MEX] ', '[CHI] ']","['21-14', '21-11']",MS,20180426
-7,"['Humblers Heymard', 'Nicolas Macias']","['[GUA] ', '[PER] ']","['21-9', '21-9']",MS,20180426
-8,"['Mateus Carrijo Cutti', 'Daniel Esteban Dieguez Escobar']","['[BRA] ', '[GUA] ']","['21-12', '19-21', '21-9']",MS,20180426
-9,"['Bjorn Seguin', 'Luke Couture']","['[USA] ', '[CAN] ']","['21-8', '21-14']",MS,20180426
-10,"['Yaqueline Duarte', 'Alejandra Jose Paiz Quan']","['[MEX] ', '[GUA] ']","['21-13', '21-15']",WS,20180426
-11,"['Sara Michele Barrios Chiong', 'Nathalie Angelique Fedney Vidal']","['[GUA] ', '[PAN] ']","['21-12', '21-6']",WS,20180426
-12,"['Mariana Ugalde', 'Yeily Mari Ortiz Rodriguez']","['[MEX] ', '[CUB] ']","['21-17', '22-20']",WS,20180426
-13,"['Lauren Villalobos', 'Ana Lucia Albanes Cordon']","['[CRC] ', '[GUA] ']","['21-16', '21-18']",WS,20180426
-14,"['Jaqueline Lima', 'Ashley Montre']","['[BRA] ', '[CHI] ']","['21-11', '21-5']",WS,20180426
-15,"['Talia Ng', 'Tamisha Williams']","['[CAN] ', '[BAR] ']","['21-9', '21-8']",WS,20180426
-16,"['Bianca Oliveira Lima', 'Katherine Sarai Lara Guzman']","['[BRA] ', '[ESA] ']","['19-21', '21-14', '21-14']",WS,20180426
-17,"['Haramara Gaitan', 'Sabrina Scott']","['[MEX] ', '[BAR] ']","['21-2', '21-4']",WS,20180426
-18,"['Jeisiane Alves', 'Skaric Mickaela']","['[BRA] ', '[CHI] ']","['21-16', '21-6']",WS,20180426
-19,"['Fabiana Silva', 'Constanza Naranjo']","['[BRA] ', '[CHI] ']","['21-10', '21-11']",WS,20180426
-20,"['Ricky Liuzhou', 'Angela Zhang', 'Axel Flores Barrondo', 'Alejandra Jose Paiz Quan']","['[USA] ', '[USA] ', '[GUA] ', '[GUA] ']","['21-19', '21-17']",XD,20180426
-21,"['Diego Mini', 'Paula La Torre Regal', 'Kyle Alexander Munoz Seixas', 'Nathalie Angelique Fedney Vidal']","['[PER] ', '[PER] ', '[PAN] ', '[PAN] ']","['21-12', '21-8']",XD,20180426
-22,"['Michelle Li [1]', 'Daniela Matamoros']","['[CAN] ', '[ESA] ']","['21-4', '21-2']",WS,20180426
-23,"['Jamie Hsu [5]', 'Maria Delia Zambrano']","['[USA] ', '[ECU] ']","['21-10', '21-12']",WS,20180426
-24,"['Mariana Ugalde', 'Urrutia Cecilia']","['[MEX] ', '[ESA] ']","['21-8', '21-6']",WS,20180426
-25,"['Jennie Gai', 'Lauren Villalobos']","['[USA] ', '[CRC] ']","['21-12', '21-10']",WS,20180426
-26,"['Brittney Tam [3]', 'Sabrina Solis']","['[CAN] ', '[MEX] ']","['21-11', '21-9']",WS,20180426
-27,"['Jaqueline Lima', 'Diana Corleto Soto']","['[BRA] ', '[GUA] ']","['21-15', '22-20']",WS,20180426
-28,"['Talia Ng', 'Fernanda Saponara Rivva [8]']","['[CAN] ', '[PER] ']","['21-11', '21-10']",WS,20180426
-29,"['Bianca Oliveira Lima', 'Ines Castillo']","['[BRA] ', '[PER] ']","['22-20', '21-19']",WS,20180426
-30,"['Haramara Gaitan', 'Ana Laura Martinez Vega']","['[MEX] ', '[CRC] ']","['21-11', '21-9']",WS,20180426
-31,"['Taymara Oropesa Pupo [6]', 'Jeisiane Alves']","['[CUB] ', '[BRA] ']","['21-15', '21-12']",WS,20180426
-32,"['Fabiana Silva', 'Isabel Zhong']","['[BRA] ', '[USA] ']","['22-20', '21-16']",WS,20180426
-33,"['Daniela Macias [4]', 'Daniela Zapata']","['[PER] ', '[PER] ']","['21-10', '21-10']",WS,20180426
-34,"['Yaqueline Duarte', 'Fatima Beatriz Centeno Fuentes']","['[MEX] ', '[ESA] ']","['21-10', '21-10']",WS,20180426
-35,"['Disha Gupta [7]', 'Adriana Artiz Ataury']","['[USA] ', '[CUB] ']","['21-8', '21-7']",WS,20180426
-36,"['Sara Michele Barrios Chiong', 'Diana Judith Monterroso Ortiz']","['[GUA] ', '[GUA] ']","['21-12', '21-16']",WS,20180426
-37,"['Rachel Honderich [2]', 'Mariana Isabel Paiz Quan']","['[CAN] ', '[GUA] ']","['21-13', '21-9']",WS,20180426
-38,"['Leodannis Martinez Palacio [5]', 'Luis Armando Montoya Navarro']","['[CUB] ', '[MEX] ']","['21-14', '8-21', '21-14']",MS,20180426
-39,"['Ygor Coelho [1]', 'Yeison Esleiter Del Cid Alvarez']","['[BRA] ', '[GUA] ']","['21-9', '21-9']",MS,20180426
-40,"['Fabricio Farias', 'Ivan Leon']","['[BRA] ', '[CHI] ']","['21-8', '21-11']",MS,20180426
-41,"['Daniel La Torre Regal [8]', 'Javier Armando Alas']","['[PER] ', '[ESA] ']","['21-10', '21-5']",MS,20180426
-42,"['Brian Yang', 'Antonio Li']","['[CAN] ', '[CAN] ']","['21-10', '21-11']",MS,20180426
-43,"['Osleni Guerrero [4]', 'Christopher Alexander Martinez Salvador']","['[CUB] ', '[GUA] ']","['27-25', '21-17']",MS,20180426
-44,"['Ernesto Reyes', 'Mathew Fogarty']","['[CUB] ', '[USA] ']","['21-2', '21-7']",MS,20180426
-45,"['Job Castillo [6]', 'Jorge Rodriguez']","['[MEX] ', '[MEX] ']","['21-9', '21-10']",MS,20180426
-46,"['Alonso Medel', 'Esteban Hurtado Rojas']","['[CHI] ', '[CRC] ']","['21-2', '21-7']",MS,20180426
-47,"['Artur Silva Pomoceno', 'Uriel Francisco Canjura Artiga']","['[BRA] ', '[ESA] ']","['21-19', '10-21', '21-19']",MS,20180426
-48,"['Humblers Heymard', 'Ricky Liuzhou']","['[GUA] ', '[USA] ']","['21-12', '21-12']",MS,20180426
-49,"['Jason Anthony Ho-Shue [3]', 'Soren Opti']","['[CAN] ', '[SUR] ']","['21-13', '21-15']",MS,20180426
-50,"['Mateus Carrijo Cutti', 'Gianpiero Cavallotti']","['[BRA] ', '[CRC] ']","['21-12', '21-14']",MS,20180426
-51,"['Lino Munoz [7]', 'Jose Guevara']","['[MEX] ', '[PER] ']","['21-15', '21-17']",MS,20180426
-52,"['Osleni Guerrero', 'Leodannis Martinez Palacio', 'Lopez Andres', 'Luis Armando Montoya Navarro']","['[CUB] ', '[CUB] ', '[MEX] ', '[MEX] ']","['21-16', '21-19']",MD,20180426
-53,"['Haramara Gaitan', 'Sabrina Solis', 'Ashley Montre', 'Constanza Naranjo']","['[MEX] ', '[MEX] ', '[CHI] ', '[CHI] ']","['21-7', '21-12']",WD,20180426
-54,"['Bjorn Seguin', 'Shae Michael Martin']","['[USA] ', '[BAR] ']","['21-11', '21-9']",MS,20180426
-55,"['Kevin Cordon [2]', 'Kyle Alexander Munoz Seixas']","['[GUA] ', '[PAN] ']","['21-7', '21-5']",MS,20180426
-56,"['Jonathan Bing Tsan Lai', 'Ty Alexander Lindeman', 'Mateus Carrijo Cutti', 'Rodolfo Augusto Salles']","['[CAN] ', '[CAN] ', '[BRA] ', '[BRA] ']","['21-19', '21-16']",MD,20180426
-57,"['Bianca Oliveira Lima', 'Estefane Ventura', 'Ana Laura Martinez Vega', 'Lauren Villalobos']","['[BRA] ', '[BRA] ', '[CRC] ', '[CRC] ']","['21-10', '21-12']",WD,20180426
-58,"['Daniel La Torre Regal [1]', 'Danica Nishimura', 'Diego Subauste Tokumura', 'Daniela Zapata']","['[PER] ', '[PER] ', '[PER] ', '[PER] ']","['21-12', '21-6']",XD,20180426
-59,"['Matheus Voigt [5]', 'Jaqueline Lima', 'Fabricio Farias', 'Luana Vicente']","['[BRA] ', '[BRA] ', '[BRA] ', '[BRA] ']","['21-19', '21-15']",XD,20180426
-60,"['Nyl Yakura', 'Kristen Tsai', 'Uriel Francisco Canjura Artiga', 'Fatima Beatriz Centeno Fuentes']","['[CAN] ', '[CAN] ', '[ESA] ', '[ESA] ']","['21-10', '21-7']",XD,20180426
-61,"['Ryan Chew', 'Sydney Lee', 'Mathew Fogarty [3]', 'Isabel Zhong']","['[USA] ', '[USA] ', '[USA] ', '[USA] ']","['21-12', '9-21', '21-19']",XD,20180426
-62,"['Lopez Andres [6]', 'Cynthia Gonzalez', 'Ernesto Reyes', 'Yeily Mari Ortiz Rodriguez']","['[MEX] ', '[MEX] ', '[CUB] ', '[CUB] ']","['23-21', '21-16']",XD,20180426
-63,"['Ricky Liuzhou', 'Angela Zhang', 'Antonio Emanuel Ortiz', 'Diana Judith Monterroso Ortiz']","['[USA] ', '[USA] ', '[GUA] ', '[GUA] ']","['21-14', '21-8']",XD,20180426
-64,"['Jonathan Bing Tsan Lai', 'Michelle Tong', 'Dakeil Jonathan Thorpe', 'Tamisha Williams']","['[CAN] ', '[CAN] ', '[BAR] ', '[BAR] ']","['21-16', '21-14']",XD,20180426
-65,"['Ivan Leon', 'Skaric Mickaela', 'Gianpiero Cavallotti', 'Lauren Villalobos']","['[CHI] ', '[CHI] ', '[CRC] ', '[CRC] ']","['25-23', '22-20']",XD,20180426
-66,"['Diego Mini', 'Paula La Torre Regal', 'Esteban Hurtado Rojas', 'Ana Laura Martinez Vega']","['[PER] ', '[PER] ', '[CRC] ', '[CRC] ']","['21-7', '21-8']",XD,20180426
-67,"['Bruno Barrueto Deza [8]', 'Fernanda Saponara Rivva', 'Carlos Daniel Albanes Cordon', 'Ana Lucia Albanes Cordon']","['[PER] ', '[PER] ', '[GUA] ', '[GUA] ']","['21-9', '21-11']",XD,20180426
-68,"['Ty Alexander Lindeman', 'Josephine Wu', 'Luis Armando Montoya Navarro', 'Sabrina Solis']","['[CAN] ', '[CAN] ', '[MEX] ', '[MEX] ']","['21-8', '21-12']",XD,20180426
-69,"['Artur Silva Pomoceno [4]', 'Fabiana Silva', 'Javier Armando Alas', 'Daniela Matamoros']","['[BRA] ', '[BRA] ', '[ESA] ', '[ESA] ']","['21-10', '21-4']",XD,20180426
-70,"['Phillip Chew', 'Ariel Lee', 'Shae Michael Martin', 'Sabrina Scott']","['[USA] ', '[USA] ', '[BAR] ', '[BAR] ']","['21-15', '21-15']",XD,20180426
-71,"['Solis Jonathan [7]', 'Diana Corleto Soto', 'Nicolas Nguyen', 'Alexandra Mocanu']","['[GUA] ', '[GUA] ', '[CAN] ', '[CAN] ']","['14-21', '21-19', '23-21']",XD,20180426
-72,"['Anibal Marroquin', 'Mariana Isabel Paiz Quan', 'Rodolfo Augusto Salles', 'Estefane Ventura']","['[GUA] ', '[GUA] ', '[BRA] ', '[BRA] ']","['21-15', '21-16']",XD,20180426
-73,"['Leodannis Martinez Palacio [2]', 'Taymara Oropesa Pupo', 'Manuel Mejia', 'Katherine Sarai Lara Guzman']","['[CUB] ', '[CUB] ', '[ESA] ', '[ESA] ']","['21-5', '21-18']",XD,20180426
-74,"['Ygor Coelho [1]', 'Fabricio Farias']","['[BRA] ', '[BRA] ']","['21-14', '21-9']",MS,20180426
-75,"['Brian Yang', 'Daniel La Torre Regal [8]']","['[CAN] ', '[PER] ']","['21-18', '21-5']",MS,20180426
-76,"['Osleni Guerrero [4]', 'Ernesto Reyes']","['[CUB] ', '[CUB] ']","['21-13', '21-10']",MS,20180426
-77,"['Job Castillo [6]', 'Alonso Medel']","['[MEX] ', '[CHI] ']","['21-7', '21-10']",MS,20180426
-78,"['Artur Silva Pomoceno', 'Leodannis Martinez Palacio [5]']","['[BRA] ', '[CUB] ']","['21-11', '21-15']",MS,20180426
-79,"['Jason Anthony Ho-Shue [3]', 'Humblers Heymard']","['[CAN] ', '[GUA] ']","['21-10', '21-18']",MS,20180426
-80,"['Lino Munoz [7]', 'Mateus Carrijo Cutti']","['[MEX] ', '[BRA] ']","['21-11', '21-11']",MS,20180426
-81,"['Kevin Cordon [2]', 'Bjorn Seguin']","['[GUA] ', '[USA] ']","['16-21', '21-11', '21-12']",MS,20180426
-82,"['Michelle Li [1]', 'Mariana Ugalde']","['[CAN] ', '[MEX] ']","['21-15', '21-18']",WS,20180426
-83,"['Jamie Hsu [5]', 'Jennie Gai']","['[USA] ', '[USA] ']","['17-21', '21-19', '21-18']",WS,20180426
-84,"['Brittney Tam [3]', 'Jaqueline Lima']","['[CAN] ', '[BRA] ']","['21-15', '21-16']",WS,20180426
-85,"['Talia Ng', 'Bianca Oliveira Lima']","['[CAN] ', '[BRA] ']","['21-5', '21-9']",WS,20180426
-86,"['Haramara Gaitan', 'Taymara Oropesa Pupo [6]']","['[MEX] ', '[CUB] ']","['15-21', '21-14', '21-17']",WS,20180426
-87,"['Fabiana Silva', 'Daniela Macias [4]']","['[BRA] ', '[PER] ']","['21-16', '15-21', '21-18']",WS,20180426
-88,"['Disha Gupta [7]', 'Yaqueline Duarte']","['[USA] ', '[MEX] ']","['21-14', '21-12']",WS,20180426
-89,"['Rachel Honderich [2]', 'Sara Michele Barrios Chiong']","['[CAN] ', '[GUA] ']","['21-9', '21-8']",WS,20180426
-90,"['Jason Anthony Ho-Shue [1]', 'Nyl Yakura', 'Shae Michael Martin', 'Dakeil Jonathan Thorpe']","['[CAN] ', '[CAN] ', '[BAR] ', '[BAR] ']","['21-10', '21-13']",MD,20180426
-91,"['Jose Guevara', 'Daniel La Torre Regal', 'Brandon Alavardo', 'Christopher Alexander Martinez Salvador']","['[PER] ', '[PER] ', '[GUA] ', '[GUA] ']","['21-10', '21-18']",MD,20180426
-92,"['Solis Jonathan [4]', 'Rodolfo Ramirez', 'Musashi Cohn', 'Dean Schoppe']","['[GUA] ', '[GUA] ', '[USA] ', '[USA] ']","['21-5', '21-11']",MD,20180426
-93,"['Osleni Guerrero', 'Leodannis Martinez Palacio', 'Fabricio Farias', 'Matheus Voigt']","['[CUB] ', '[CUB] ', '[BRA] ', '[BRA] ']","['21-18', '21-18']",MD,20180426
-94,"['Jonathan Bing Tsan Lai', 'Ty Alexander Lindeman', 'Bruno Barrueto Deza', 'Diego Subauste Tokumura']","['[CAN] ', '[CAN] ', '[PER] ', '[PER] ']","['21-16', '21-12']",MD,20180426
-95,"['Job Castillo [3]', 'Lino Munoz', 'Kevin Cordon', 'Anibal Marroquin']","['[MEX] ', '[MEX] ', '[GUA] ', '[GUA] ']","['21-19', '21-13']",MD,20180426
-96,"['Cristian Araya', 'Ivan Leon', 'Gianpiero Cavallotti', 'Esteban Hurtado Rojas']","['[CHI] ', '[CHI] ', '[CRC] ', '[CRC] ']","['21-12', '21-18']",MD,20180426
-97,"['Phillip Chew [2]', 'Ryan Chew', 'Javier Armando Alas', 'Manuel Mejia']","['[USA] ', '[USA] ', '[ESA] ', '[ESA] ']","['21-5', '21-9']",MD,20180426
-98,"['Daniela Macias [1]', 'Danica Nishimura', 'Taymara Oropesa Pupo', 'Yeily Mari Ortiz Rodriguez']","['[PER] ', '[PER] ', '[CUB] ', '[CUB] ']","['18-21', '21-18', '23-21']",WD,20180426
-99,"['Jennie Gai', 'Jamie Hsu', 'Jaqueline Lima', 'Luana Vicente']","['[USA] ', '[USA] ', '[BRA] ', '[BRA] ']","['21-17', '18-21', '21-19']",WD,20180426
-100,"['Michelle Tong [3]', 'Josephine Wu', 'Urrutia Cecilia', 'Daniela Matamoros']","['[CAN] ', '[CAN] ', '[ESA] ', '[ESA] ']","['21-8', '21-6']",WD,20180426
-101,"['Haramara Gaitan', 'Sabrina Solis', 'Diana Corleto Soto', 'Mariana Isabel Paiz Quan']","['[MEX] ', '[MEX] ', '[GUA] ', '[GUA] ']","['20-22', '21-15', '21-12']",WD,20180426
-102,"['Cynthia Gonzalez', 'Mariana Ugalde', 'Bianca Oliveira Lima', 'Estefane Ventura']","['[MEX] ', '[MEX] ', '[BRA] ', '[BRA] ']","['21-12', '21-13']",WD,20180426
-103,"['Ines Castillo [4]', 'Paula La Torre Regal', 'Ana Lucia Albanes Cordon', 'Alejandra Jose Paiz Quan']","['[PER] ', '[PER] ', '[GUA] ', '[GUA] ']","['21-14', '21-15']",WD,20180426
-104,"['Rachel Honderich', 'Kristen Tsai', 'Sara Michele Barrios Chiong', 'Diana Judith Monterroso Ortiz']","['[CAN] ', '[CAN] ', '[GUA] ', '[GUA] ']","['21-8', '21-7']",WD,20180426
-105,"['Ariel Lee [2]', 'Sydney Lee', 'Fatima Beatriz Centeno Fuentes', 'Katherine Sarai Lara Guzman']","['[USA] ', '[USA] ', '[ESA] ', '[ESA] ']","['21-15', '20-22', '21-12']",WD,20180426
-106,"['Daniel La Torre Regal [1]', 'Danica Nishimura', 'Jonathan Bing Tsan Lai', 'Michelle Tong']","['[PER] ', '[PER] ', '[CAN] ', '[CAN] ']","['21-19', '21-18']",XD,20180426
-107,"['Ty Alexander Lindeman', 'Josephine Wu', 'Artur Silva Pomoceno [4]', 'Fabiana Silva']","['[CAN] ', '[CAN] ', '[BRA] ', '[BRA] ']","['21-16', '21-11']",XD,20180426
-108,"['Nyl Yakura', 'Kristen Tsai', 'Matheus Voigt [5]', 'Jaqueline Lima']","['[CAN] ', '[CAN] ', '[BRA] ', '[BRA] ']","['21-19', '21-15']",XD,20180426
-109,"['Ryan Chew', 'Sydney Lee', 'Ivan Leon', 'Skaric Mickaela']","['[USA] ', '[USA] ', '[CHI] ', '[CHI] ']","['21-19', '21-18']",XD,20180426
-110,"['Lopez Andres [6]', 'Cynthia Gonzalez', 'Ricky Liuzhou', 'Angela Zhang']","['[MEX] ', '[MEX] ', '[USA] ', '[USA] ']","['21-18', '21-19']",XD,20180426
-111,"['Bruno Barrueto Deza [8]', 'Fernanda Saponara Rivva', 'Diego Mini', 'Paula La Torre Regal']","['[PER] ', '[PER] ', '[PER] ', '[PER] ']","['21-19', '16-21', '21-17']",XD,20180426
-112,"['Solis Jonathan [7]', 'Diana Corleto Soto', 'Phillip Chew', 'Ariel Lee']","['[GUA] ', '[GUA] ', '[USA] ', '[USA] ']","['13-21', '21-14', '21-18']",XD,20180426
-113,"['Leodannis Martinez Palacio [2]', 'Taymara Oropesa Pupo', 'Anibal Marroquin', 'Mariana Isabel Paiz Quan']","['[CUB] ', '[CUB] ', '[GUA] ', '[GUA] ']","['21-13', '23-21']",XD,20180426
-114,"['Ygor Coelho [1]', 'Brian Yang']","['[BRA] ', '[CAN] ']","['21-14', '21-16']",MS,20180426
-115,"['Osleni Guerrero [4]', 'Job Castillo [6]']","['[CUB] ', '[MEX] ']","['21-13', '16-21', '21-12']",MS,20180426
-116,"['Jason Anthony Ho-Shue [3]', 'Artur Silva Pomoceno']","['[CAN] ', '[BRA] ']","['21-17', '21-13']",MS,20180426
-117,"['Kevin Cordon [2]', 'Lino Munoz [7]']","['[GUA] ', '[MEX] ']","['21-13', '13-21', '21-14']",MS,20180426
-118,"['Michelle Li [1]', 'Jamie Hsu [5]']","['[CAN] ', '[USA] ']","['21-18', '21-12']",WS,20180426
-119,"['Brittney Tam [3]', 'Talia Ng']","['[CAN] ', '[CAN] ']","['21-15', '15-21', '21-15']",WS,20180426
-120,"['Haramara Gaitan', 'Fabiana Silva']","['[MEX] ', '[BRA] ']","['24-22', '21-18']",WS,20180426
-121,"['Rachel Honderich [2]', 'Disha Gupta [7]']","['[CAN] ', '[USA] ']","['21-12', '21-12']",WS,20180426
-122,"['Jason Anthony Ho-Shue [1]', 'Nyl Yakura', 'Jose Guevara', 'Daniel La Torre Regal']","['[CAN] ', '[CAN] ', '[PER] ', '[PER] ']","['21-14', '21-12']",MD,20180426
-123,"['Solis Jonathan [4]', 'Rodolfo Ramirez', 'Osleni Guerrero', 'Leodannis Martinez Palacio']","['[GUA] ', '[GUA] ', '[CUB] ', '[CUB] ']","['21-18', '21-19']",MD,20180426
-124,"['Job Castillo [3]', 'Lino Munoz', 'Jonathan Bing Tsan Lai', 'Ty Alexander Lindeman']","['[MEX] ', '[MEX] ', '[CAN] ', '[CAN] ']","['21-19', '17-21', '23-21']",MD,20180426
-125,"['Phillip Chew [2]', 'Ryan Chew', 'Cristian Araya', 'Ivan Leon']","['[USA] ', '[USA] ', '[CHI] ', '[CHI] ']","['21-14', '21-10']",MD,20180426
-126,"['Jennie Gai', 'Jamie Hsu', 'Daniela Macias [1]', 'Danica Nishimura']","['[USA] ', '[USA] ', '[PER] ', '[PER] ']","['21-18', '21-18']",WD,20180426
-127,"['Michelle Tong [3]', 'Josephine Wu', 'Haramara Gaitan', 'Sabrina Solis']","['[CAN] ', '[CAN] ', '[MEX] ', '[MEX] ']","['23-21', '21-12']",WD,20180426
-128,"['Ines Castillo [4]', 'Paula La Torre Regal', 'Cynthia Gonzalez', 'Mariana Ugalde']","['[PER] ', '[PER] ', '[MEX] ', '[MEX] ']","['16-21', '23-21', '21-18']",WD,20180426
-129,"['Rachel Honderich', 'Kristen Tsai', 'Ariel Lee [2]', 'Sydney Lee']","['[CAN] ', '[CAN] ', '[USA] ', '[USA] ']","['21-8', '21-11']",WD,20180426
-130,"['Nyl Yakura', 'Kristen Tsai', 'Daniel La Torre Regal [1]', 'Danica Nishimura']","['[CAN] ', '[CAN] ', '[PER] ', '[PER] ']","['21-10', '21-19']",XD,20180426
-131,"['Lopez Andres [6]', 'Cynthia Gonzalez', 'Ryan Chew', 'Sydney Lee']","['[MEX] ', '[MEX] ', '[USA] ', '[USA] ']","['21-14', '21-12']",XD,20180426
-132,"['Ty Alexander Lindeman', 'Josephine Wu', 'Bruno Barrueto Deza [8]', 'Fernanda Saponara Rivva']","['[CAN] ', '[CAN] ', '[PER] ', '[PER] ']","['21-12', '21-14']",XD,20180426
-133,"['Solis Jonathan [7]', 'Diana Corleto Soto', 'Leodannis Martinez Palacio [2]', 'Taymara Oropesa Pupo']","['[GUA] ', '[GUA] ', '[CUB] ', '[CUB] ']","['21-10', '24-22']",XD,20180426
-134,"['Nyl Yakura', 'Kristen Tsai', 'Lopez Andres [6]', 'Cynthia Gonzalez']","['[CAN] ', '[CAN] ', '[MEX] ', '[MEX] ']","['21-11', '21-17']",XD ,20180426
-135,"['Jason Anthony Ho-Shue [3]', 'Kevin Cordon [2]']","['[CAN] ', '[GUA] ']","['21-14', '21-17']",MS ,20180426
-136,"['Ygor Coelho [1]', 'Osleni Guerrero [4]']","['[BRA] ', '[CUB] ']","['21-17', '21-7']",MS ,20180426
-137,"['Phillip Chew [2]', 'Ryan Chew', 'Job Castillo [3]', 'Lino Munoz']","['[USA] ', '[USA] ', '[MEX] ', '[MEX] ']","['24-22', '21-10']",MD ,20180426
-138,"['Jason Anthony Ho-Shue [1]', 'Nyl Yakura', 'Solis Jonathan [4]', 'Rodolfo Ramirez']","['[CAN] ', '[CAN] ', '[GUA] ', '[GUA] ']","['21-12', '21-11']",MD ,20180426
-139,"['Rachel Honderich [2]', 'Haramara Gaitan']","['[CAN] ', '[MEX] ']","['21-7', '21-10']",WS ,20180426
-140,"['Ty Alexander Lindeman', 'Josephine Wu', 'Solis Jonathan [7]', 'Diana Corleto Soto']","['[CAN] ', '[CAN] ', '[GUA] ', '[GUA] ']","['21-15', '21-14']",XD ,20180426
-141,"['Michelle Li [1]', 'Brittney Tam [3]']","['[CAN] ', '[CAN] ']","['21-10', '21-18']",WS ,20180426
-142,"['Rachel Honderich', 'Kristen Tsai', 'Ines Castillo [4]', 'Paula La Torre Regal']","['[CAN] ', '[CAN] ', '[PER] ', '[PER] ']","['21-10', '21-12']",WD ,20180426
-143,"['Michelle Tong [3]', 'Josephine Wu', 'Jennie Gai', 'Jamie Hsu']","['[CAN] ', '[CAN] ', '[USA] ', '[USA] ']","['21-17', '21-15']",WD ,20180426
-144,"['Ty Alexander Lindeman', 'Josephine Wu', 'Nyl Yakura', 'Kristen Tsai']","['[CAN] ', '[CAN] ', '[CAN] ', '[CAN] ']","['21-14', '26-24']",XD ,20180426
-145,"['Ygor Coelho [1]', 'Jason Anthony Ho-Shue [3]']","['[BRA] ', '[CAN] ']","['21-12', '21-15']",MS ,20180426
-146,"['Michelle Li [1]', 'Rachel Honderich [2]']","['[CAN] ', '[CAN] ']","['21-15', '21-16']",WS ,20180426
-147,"['Jason Anthony Ho-Shue [1]', 'Nyl Yakura', 'Phillip Chew [2]', 'Ryan Chew']","['[CAN] ', '[CAN] ', '[USA] ', '[USA] ']","['21-17', '21-17']",MD ,20180426
-148,"['Rachel Honderich', 'Kristen Tsai', 'Michelle Tong [3]', 'Josephine Wu']","['[CAN] ', '[CAN] ', '[CAN] ', '[CAN] ']","['17-21', '21-17', '21-14']",WD ,20180426
+,PLAYERS,COUNTRIES,SCORES,EVENT,match_week,match_location
+0,"['Fabricio Farias', 'Diego Mini']","['[BRA] ', '[PER] ']","['21-15', '21-19']",MS,20180426,"Guatemala City, Guatemala"
+1,"['Antonio Li', 'Grimaldy Navirio Gunawan']","['[CAN] ', '[USA] ']","['21-11', '21-11']",MS,20180426,"Guatemala City, Guatemala"
+2,"['Ernesto Reyes', 'Dakeil Jonathan Thorpe']","['[CUB] ', '[BAR] ']","['21-17', '21-10']",MS,20180426,"Guatemala City, Guatemala"
+3,"['Jorge Rodriguez', 'Manuel Mejia']","['[MEX] ', '[ESA] ']","['21-7', '21-9']",MS,20180426,"Guatemala City, Guatemala"
+4,"['Alonso Medel', 'Jose Luis Granados Morales']","['[CHI] ', '[GUA] ']","['21-11', '21-7']",MS,20180426,"Guatemala City, Guatemala"
+5,"['Uriel Francisco Canjura Artiga', 'Damien Howell']","['[ESA] ', '[BAR] ']","['21-9', '21-4']",MS,20180426,"Guatemala City, Guatemala"
+6,"['Luis Armando Montoya Navarro', 'Cristian Araya']","['[MEX] ', '[CHI] ']","['21-14', '21-11']",MS,20180426,"Guatemala City, Guatemala"
+7,"['Humblers Heymard', 'Nicolas Macias']","['[GUA] ', '[PER] ']","['21-9', '21-9']",MS,20180426,"Guatemala City, Guatemala"
+8,"['Mateus Carrijo Cutti', 'Daniel Esteban Dieguez Escobar']","['[BRA] ', '[GUA] ']","['21-12', '19-21', '21-9']",MS,20180426,"Guatemala City, Guatemala"
+9,"['Bjorn Seguin', 'Luke Couture']","['[USA] ', '[CAN] ']","['21-8', '21-14']",MS,20180426,"Guatemala City, Guatemala"
+10,"['Yaqueline Duarte', 'Alejandra Jose Paiz Quan']","['[MEX] ', '[GUA] ']","['21-13', '21-15']",WS,20180426,"Guatemala City, Guatemala"
+11,"['Sara Michele Barrios Chiong', 'Nathalie Angelique Fedney Vidal']","['[GUA] ', '[PAN] ']","['21-12', '21-6']",WS,20180426,"Guatemala City, Guatemala"
+12,"['Mariana Ugalde', 'Yeily Mari Ortiz Rodriguez']","['[MEX] ', '[CUB] ']","['21-17', '22-20']",WS,20180426,"Guatemala City, Guatemala"
+13,"['Lauren Villalobos', 'Ana Lucia Albanes Cordon']","['[CRC] ', '[GUA] ']","['21-16', '21-18']",WS,20180426,"Guatemala City, Guatemala"
+14,"['Jaqueline Lima', 'Ashley Montre']","['[BRA] ', '[CHI] ']","['21-11', '21-5']",WS,20180426,"Guatemala City, Guatemala"
+15,"['Talia Ng', 'Tamisha Williams']","['[CAN] ', '[BAR] ']","['21-9', '21-8']",WS,20180426,"Guatemala City, Guatemala"
+16,"['Bianca Oliveira Lima', 'Katherine Sarai Lara Guzman']","['[BRA] ', '[ESA] ']","['19-21', '21-14', '21-14']",WS,20180426,"Guatemala City, Guatemala"
+17,"['Haramara Gaitan', 'Sabrina Scott']","['[MEX] ', '[BAR] ']","['21-2', '21-4']",WS,20180426,"Guatemala City, Guatemala"
+18,"['Jeisiane Alves', 'Skaric Mickaela']","['[BRA] ', '[CHI] ']","['21-16', '21-6']",WS,20180426,"Guatemala City, Guatemala"
+19,"['Fabiana Silva', 'Constanza Naranjo']","['[BRA] ', '[CHI] ']","['21-10', '21-11']",WS,20180426,"Guatemala City, Guatemala"
+20,"['Ricky Liuzhou', 'Angela Zhang', 'Axel Flores Barrondo', 'Alejandra Jose Paiz Quan']","['[USA] ', '[USA] ', '[GUA] ', '[GUA] ']","['21-19', '21-17']",XD,20180426,"Guatemala City, Guatemala"
+21,"['Diego Mini', 'Paula La Torre Regal', 'Kyle Alexander Munoz Seixas', 'Nathalie Angelique Fedney Vidal']","['[PER] ', '[PER] ', '[PAN] ', '[PAN] ']","['21-12', '21-8']",XD,20180426,"Guatemala City, Guatemala"
+22,"['Michelle Li [1]', 'Daniela Matamoros']","['[CAN] ', '[ESA] ']","['21-4', '21-2']",WS,20180426,"Guatemala City, Guatemala"
+23,"['Jamie Hsu [5]', 'Maria Delia Zambrano']","['[USA] ', '[ECU] ']","['21-10', '21-12']",WS,20180426,"Guatemala City, Guatemala"
+24,"['Mariana Ugalde', 'Urrutia Cecilia']","['[MEX] ', '[ESA] ']","['21-8', '21-6']",WS,20180426,"Guatemala City, Guatemala"
+25,"['Jennie Gai', 'Lauren Villalobos']","['[USA] ', '[CRC] ']","['21-12', '21-10']",WS,20180426,"Guatemala City, Guatemala"
+26,"['Brittney Tam [3]', 'Sabrina Solis']","['[CAN] ', '[MEX] ']","['21-11', '21-9']",WS,20180426,"Guatemala City, Guatemala"
+27,"['Jaqueline Lima', 'Diana Corleto Soto']","['[BRA] ', '[GUA] ']","['21-15', '22-20']",WS,20180426,"Guatemala City, Guatemala"
+28,"['Talia Ng', 'Fernanda Saponara Rivva [8]']","['[CAN] ', '[PER] ']","['21-11', '21-10']",WS,20180426,"Guatemala City, Guatemala"
+29,"['Bianca Oliveira Lima', 'Ines Castillo']","['[BRA] ', '[PER] ']","['22-20', '21-19']",WS,20180426,"Guatemala City, Guatemala"
+30,"['Haramara Gaitan', 'Ana Laura Martinez Vega']","['[MEX] ', '[CRC] ']","['21-11', '21-9']",WS,20180426,"Guatemala City, Guatemala"
+31,"['Taymara Oropesa Pupo [6]', 'Jeisiane Alves']","['[CUB] ', '[BRA] ']","['21-15', '21-12']",WS,20180426,"Guatemala City, Guatemala"
+32,"['Fabiana Silva', 'Isabel Zhong']","['[BRA] ', '[USA] ']","['22-20', '21-16']",WS,20180426,"Guatemala City, Guatemala"
+33,"['Daniela Macias [4]', 'Daniela Zapata']","['[PER] ', '[PER] ']","['21-10', '21-10']",WS,20180426,"Guatemala City, Guatemala"
+34,"['Yaqueline Duarte', 'Fatima Beatriz Centeno Fuentes']","['[MEX] ', '[ESA] ']","['21-10', '21-10']",WS,20180426,"Guatemala City, Guatemala"
+35,"['Disha Gupta [7]', 'Adriana Artiz Ataury']","['[USA] ', '[CUB] ']","['21-8', '21-7']",WS,20180426,"Guatemala City, Guatemala"
+36,"['Sara Michele Barrios Chiong', 'Diana Judith Monterroso Ortiz']","['[GUA] ', '[GUA] ']","['21-12', '21-16']",WS,20180426,"Guatemala City, Guatemala"
+37,"['Rachel Honderich [2]', 'Mariana Isabel Paiz Quan']","['[CAN] ', '[GUA] ']","['21-13', '21-9']",WS,20180426,"Guatemala City, Guatemala"
+38,"['Leodannis Martinez Palacio [5]', 'Luis Armando Montoya Navarro']","['[CUB] ', '[MEX] ']","['21-14', '8-21', '21-14']",MS,20180426,"Guatemala City, Guatemala"
+39,"['Ygor Coelho [1]', 'Yeison Esleiter Del Cid Alvarez']","['[BRA] ', '[GUA] ']","['21-9', '21-9']",MS,20180426,"Guatemala City, Guatemala"
+40,"['Fabricio Farias', 'Ivan Leon']","['[BRA] ', '[CHI] ']","['21-8', '21-11']",MS,20180426,"Guatemala City, Guatemala"
+41,"['Daniel La Torre Regal [8]', 'Javier Armando Alas']","['[PER] ', '[ESA] ']","['21-10', '21-5']",MS,20180426,"Guatemala City, Guatemala"
+42,"['Brian Yang', 'Antonio Li']","['[CAN] ', '[CAN] ']","['21-10', '21-11']",MS,20180426,"Guatemala City, Guatemala"
+43,"['Osleni Guerrero [4]', 'Christopher Alexander Martinez Salvador']","['[CUB] ', '[GUA] ']","['27-25', '21-17']",MS,20180426,"Guatemala City, Guatemala"
+44,"['Ernesto Reyes', 'Mathew Fogarty']","['[CUB] ', '[USA] ']","['21-2', '21-7']",MS,20180426,"Guatemala City, Guatemala"
+45,"['Job Castillo [6]', 'Jorge Rodriguez']","['[MEX] ', '[MEX] ']","['21-9', '21-10']",MS,20180426,"Guatemala City, Guatemala"
+46,"['Alonso Medel', 'Esteban Hurtado Rojas']","['[CHI] ', '[CRC] ']","['21-2', '21-7']",MS,20180426,"Guatemala City, Guatemala"
+47,"['Artur Silva Pomoceno', 'Uriel Francisco Canjura Artiga']","['[BRA] ', '[ESA] ']","['21-19', '10-21', '21-19']",MS,20180426,"Guatemala City, Guatemala"
+48,"['Humblers Heymard', 'Ricky Liuzhou']","['[GUA] ', '[USA] ']","['21-12', '21-12']",MS,20180426,"Guatemala City, Guatemala"
+49,"['Jason Anthony Ho-Shue [3]', 'Soren Opti']","['[CAN] ', '[SUR] ']","['21-13', '21-15']",MS,20180426,"Guatemala City, Guatemala"
+50,"['Mateus Carrijo Cutti', 'Gianpiero Cavallotti']","['[BRA] ', '[CRC] ']","['21-12', '21-14']",MS,20180426,"Guatemala City, Guatemala"
+51,"['Lino Munoz [7]', 'Jose Guevara']","['[MEX] ', '[PER] ']","['21-15', '21-17']",MS,20180426,"Guatemala City, Guatemala"
+52,"['Osleni Guerrero', 'Leodannis Martinez Palacio', 'Lopez Andres', 'Luis Armando Montoya Navarro']","['[CUB] ', '[CUB] ', '[MEX] ', '[MEX] ']","['21-16', '21-19']",MD,20180426,"Guatemala City, Guatemala"
+53,"['Haramara Gaitan', 'Sabrina Solis', 'Ashley Montre', 'Constanza Naranjo']","['[MEX] ', '[MEX] ', '[CHI] ', '[CHI] ']","['21-7', '21-12']",WD,20180426,"Guatemala City, Guatemala"
+54,"['Bjorn Seguin', 'Shae Michael Martin']","['[USA] ', '[BAR] ']","['21-11', '21-9']",MS,20180426,"Guatemala City, Guatemala"
+55,"['Kevin Cordon [2]', 'Kyle Alexander Munoz Seixas']","['[GUA] ', '[PAN] ']","['21-7', '21-5']",MS,20180426,"Guatemala City, Guatemala"
+56,"['Jonathan Bing Tsan Lai', 'Ty Alexander Lindeman', 'Mateus Carrijo Cutti', 'Rodolfo Augusto Salles']","['[CAN] ', '[CAN] ', '[BRA] ', '[BRA] ']","['21-19', '21-16']",MD,20180426,"Guatemala City, Guatemala"
+57,"['Bianca Oliveira Lima', 'Estefane Ventura', 'Ana Laura Martinez Vega', 'Lauren Villalobos']","['[BRA] ', '[BRA] ', '[CRC] ', '[CRC] ']","['21-10', '21-12']",WD,20180426,"Guatemala City, Guatemala"
+58,"['Daniel La Torre Regal [1]', 'Danica Nishimura', 'Diego Subauste Tokumura', 'Daniela Zapata']","['[PER] ', '[PER] ', '[PER] ', '[PER] ']","['21-12', '21-6']",XD,20180426,"Guatemala City, Guatemala"
+59,"['Matheus Voigt [5]', 'Jaqueline Lima', 'Fabricio Farias', 'Luana Vicente']","['[BRA] ', '[BRA] ', '[BRA] ', '[BRA] ']","['21-19', '21-15']",XD,20180426,"Guatemala City, Guatemala"
+60,"['Nyl Yakura', 'Kristen Tsai', 'Uriel Francisco Canjura Artiga', 'Fatima Beatriz Centeno Fuentes']","['[CAN] ', '[CAN] ', '[ESA] ', '[ESA] ']","['21-10', '21-7']",XD,20180426,"Guatemala City, Guatemala"
+61,"['Ryan Chew', 'Sydney Lee', 'Mathew Fogarty [3]', 'Isabel Zhong']","['[USA] ', '[USA] ', '[USA] ', '[USA] ']","['21-12', '9-21', '21-19']",XD,20180426,"Guatemala City, Guatemala"
+62,"['Lopez Andres [6]', 'Cynthia Gonzalez', 'Ernesto Reyes', 'Yeily Mari Ortiz Rodriguez']","['[MEX] ', '[MEX] ', '[CUB] ', '[CUB] ']","['23-21', '21-16']",XD,20180426,"Guatemala City, Guatemala"
+63,"['Ricky Liuzhou', 'Angela Zhang', 'Antonio Emanuel Ortiz', 'Diana Judith Monterroso Ortiz']","['[USA] ', '[USA] ', '[GUA] ', '[GUA] ']","['21-14', '21-8']",XD,20180426,"Guatemala City, Guatemala"
+64,"['Jonathan Bing Tsan Lai', 'Michelle Tong', 'Dakeil Jonathan Thorpe', 'Tamisha Williams']","['[CAN] ', '[CAN] ', '[BAR] ', '[BAR] ']","['21-16', '21-14']",XD,20180426,"Guatemala City, Guatemala"
+65,"['Ivan Leon', 'Skaric Mickaela', 'Gianpiero Cavallotti', 'Lauren Villalobos']","['[CHI] ', '[CHI] ', '[CRC] ', '[CRC] ']","['25-23', '22-20']",XD,20180426,"Guatemala City, Guatemala"
+66,"['Diego Mini', 'Paula La Torre Regal', 'Esteban Hurtado Rojas', 'Ana Laura Martinez Vega']","['[PER] ', '[PER] ', '[CRC] ', '[CRC] ']","['21-7', '21-8']",XD,20180426,"Guatemala City, Guatemala"
+67,"['Bruno Barrueto Deza [8]', 'Fernanda Saponara Rivva', 'Carlos Daniel Albanes Cordon', 'Ana Lucia Albanes Cordon']","['[PER] ', '[PER] ', '[GUA] ', '[GUA] ']","['21-9', '21-11']",XD,20180426,"Guatemala City, Guatemala"
+68,"['Ty Alexander Lindeman', 'Josephine Wu', 'Luis Armando Montoya Navarro', 'Sabrina Solis']","['[CAN] ', '[CAN] ', '[MEX] ', '[MEX] ']","['21-8', '21-12']",XD,20180426,"Guatemala City, Guatemala"
+69,"['Artur Silva Pomoceno [4]', 'Fabiana Silva', 'Javier Armando Alas', 'Daniela Matamoros']","['[BRA] ', '[BRA] ', '[ESA] ', '[ESA] ']","['21-10', '21-4']",XD,20180426,"Guatemala City, Guatemala"
+70,"['Phillip Chew', 'Ariel Lee', 'Shae Michael Martin', 'Sabrina Scott']","['[USA] ', '[USA] ', '[BAR] ', '[BAR] ']","['21-15', '21-15']",XD,20180426,"Guatemala City, Guatemala"
+71,"['Solis Jonathan [7]', 'Diana Corleto Soto', 'Nicolas Nguyen', 'Alexandra Mocanu']","['[GUA] ', '[GUA] ', '[CAN] ', '[CAN] ']","['14-21', '21-19', '23-21']",XD,20180426,"Guatemala City, Guatemala"
+72,"['Anibal Marroquin', 'Mariana Isabel Paiz Quan', 'Rodolfo Augusto Salles', 'Estefane Ventura']","['[GUA] ', '[GUA] ', '[BRA] ', '[BRA] ']","['21-15', '21-16']",XD,20180426,"Guatemala City, Guatemala"
+73,"['Leodannis Martinez Palacio [2]', 'Taymara Oropesa Pupo', 'Manuel Mejia', 'Katherine Sarai Lara Guzman']","['[CUB] ', '[CUB] ', '[ESA] ', '[ESA] ']","['21-5', '21-18']",XD,20180426,"Guatemala City, Guatemala"
+74,"['Ygor Coelho [1]', 'Fabricio Farias']","['[BRA] ', '[BRA] ']","['21-14', '21-9']",MS,20180426,"Guatemala City, Guatemala"
+75,"['Brian Yang', 'Daniel La Torre Regal [8]']","['[CAN] ', '[PER] ']","['21-18', '21-5']",MS,20180426,"Guatemala City, Guatemala"
+76,"['Osleni Guerrero [4]', 'Ernesto Reyes']","['[CUB] ', '[CUB] ']","['21-13', '21-10']",MS,20180426,"Guatemala City, Guatemala"
+77,"['Job Castillo [6]', 'Alonso Medel']","['[MEX] ', '[CHI] ']","['21-7', '21-10']",MS,20180426,"Guatemala City, Guatemala"
+78,"['Artur Silva Pomoceno', 'Leodannis Martinez Palacio [5]']","['[BRA] ', '[CUB] ']","['21-11', '21-15']",MS,20180426,"Guatemala City, Guatemala"
+79,"['Jason Anthony Ho-Shue [3]', 'Humblers Heymard']","['[CAN] ', '[GUA] ']","['21-10', '21-18']",MS,20180426,"Guatemala City, Guatemala"
+80,"['Lino Munoz [7]', 'Mateus Carrijo Cutti']","['[MEX] ', '[BRA] ']","['21-11', '21-11']",MS,20180426,"Guatemala City, Guatemala"
+81,"['Kevin Cordon [2]', 'Bjorn Seguin']","['[GUA] ', '[USA] ']","['16-21', '21-11', '21-12']",MS,20180426,"Guatemala City, Guatemala"
+82,"['Michelle Li [1]', 'Mariana Ugalde']","['[CAN] ', '[MEX] ']","['21-15', '21-18']",WS,20180426,"Guatemala City, Guatemala"
+83,"['Jamie Hsu [5]', 'Jennie Gai']","['[USA] ', '[USA] ']","['17-21', '21-19', '21-18']",WS,20180426,"Guatemala City, Guatemala"
+84,"['Brittney Tam [3]', 'Jaqueline Lima']","['[CAN] ', '[BRA] ']","['21-15', '21-16']",WS,20180426,"Guatemala City, Guatemala"
+85,"['Talia Ng', 'Bianca Oliveira Lima']","['[CAN] ', '[BRA] ']","['21-5', '21-9']",WS,20180426,"Guatemala City, Guatemala"
+86,"['Haramara Gaitan', 'Taymara Oropesa Pupo [6]']","['[MEX] ', '[CUB] ']","['15-21', '21-14', '21-17']",WS,20180426,"Guatemala City, Guatemala"
+87,"['Fabiana Silva', 'Daniela Macias [4]']","['[BRA] ', '[PER] ']","['21-16', '15-21', '21-18']",WS,20180426,"Guatemala City, Guatemala"
+88,"['Disha Gupta [7]', 'Yaqueline Duarte']","['[USA] ', '[MEX] ']","['21-14', '21-12']",WS,20180426,"Guatemala City, Guatemala"
+89,"['Rachel Honderich [2]', 'Sara Michele Barrios Chiong']","['[CAN] ', '[GUA] ']","['21-9', '21-8']",WS,20180426,"Guatemala City, Guatemala"
+90,"['Jason Anthony Ho-Shue [1]', 'Nyl Yakura', 'Shae Michael Martin', 'Dakeil Jonathan Thorpe']","['[CAN] ', '[CAN] ', '[BAR] ', '[BAR] ']","['21-10', '21-13']",MD,20180426,"Guatemala City, Guatemala"
+91,"['Jose Guevara', 'Daniel La Torre Regal', 'Brandon Alavardo', 'Christopher Alexander Martinez Salvador']","['[PER] ', '[PER] ', '[GUA] ', '[GUA] ']","['21-10', '21-18']",MD,20180426,"Guatemala City, Guatemala"
+92,"['Solis Jonathan [4]', 'Rodolfo Ramirez', 'Musashi Cohn', 'Dean Schoppe']","['[GUA] ', '[GUA] ', '[USA] ', '[USA] ']","['21-5', '21-11']",MD,20180426,"Guatemala City, Guatemala"
+93,"['Osleni Guerrero', 'Leodannis Martinez Palacio', 'Fabricio Farias', 'Matheus Voigt']","['[CUB] ', '[CUB] ', '[BRA] ', '[BRA] ']","['21-18', '21-18']",MD,20180426,"Guatemala City, Guatemala"
+94,"['Jonathan Bing Tsan Lai', 'Ty Alexander Lindeman', 'Bruno Barrueto Deza', 'Diego Subauste Tokumura']","['[CAN] ', '[CAN] ', '[PER] ', '[PER] ']","['21-16', '21-12']",MD,20180426,"Guatemala City, Guatemala"
+95,"['Job Castillo [3]', 'Lino Munoz', 'Kevin Cordon', 'Anibal Marroquin']","['[MEX] ', '[MEX] ', '[GUA] ', '[GUA] ']","['21-19', '21-13']",MD,20180426,"Guatemala City, Guatemala"
+96,"['Cristian Araya', 'Ivan Leon', 'Gianpiero Cavallotti', 'Esteban Hurtado Rojas']","['[CHI] ', '[CHI] ', '[CRC] ', '[CRC] ']","['21-12', '21-18']",MD,20180426,"Guatemala City, Guatemala"
+97,"['Phillip Chew [2]', 'Ryan Chew', 'Javier Armando Alas', 'Manuel Mejia']","['[USA] ', '[USA] ', '[ESA] ', '[ESA] ']","['21-5', '21-9']",MD,20180426,"Guatemala City, Guatemala"
+98,"['Daniela Macias [1]', 'Danica Nishimura', 'Taymara Oropesa Pupo', 'Yeily Mari Ortiz Rodriguez']","['[PER] ', '[PER] ', '[CUB] ', '[CUB] ']","['18-21', '21-18', '23-21']",WD,20180426,"Guatemala City, Guatemala"
+99,"['Jennie Gai', 'Jamie Hsu', 'Jaqueline Lima', 'Luana Vicente']","['[USA] ', '[USA] ', '[BRA] ', '[BRA] ']","['21-17', '18-21', '21-19']",WD,20180426,"Guatemala City, Guatemala"
+100,"['Michelle Tong [3]', 'Josephine Wu', 'Urrutia Cecilia', 'Daniela Matamoros']","['[CAN] ', '[CAN] ', '[ESA] ', '[ESA] ']","['21-8', '21-6']",WD,20180426,"Guatemala City, Guatemala"
+101,"['Haramara Gaitan', 'Sabrina Solis', 'Diana Corleto Soto', 'Mariana Isabel Paiz Quan']","['[MEX] ', '[MEX] ', '[GUA] ', '[GUA] ']","['20-22', '21-15', '21-12']",WD,20180426,"Guatemala City, Guatemala"
+102,"['Cynthia Gonzalez', 'Mariana Ugalde', 'Bianca Oliveira Lima', 'Estefane Ventura']","['[MEX] ', '[MEX] ', '[BRA] ', '[BRA] ']","['21-12', '21-13']",WD,20180426,"Guatemala City, Guatemala"
+103,"['Ines Castillo [4]', 'Paula La Torre Regal', 'Ana Lucia Albanes Cordon', 'Alejandra Jose Paiz Quan']","['[PER] ', '[PER] ', '[GUA] ', '[GUA] ']","['21-14', '21-15']",WD,20180426,"Guatemala City, Guatemala"
+104,"['Rachel Honderich', 'Kristen Tsai', 'Sara Michele Barrios Chiong', 'Diana Judith Monterroso Ortiz']","['[CAN] ', '[CAN] ', '[GUA] ', '[GUA] ']","['21-8', '21-7']",WD,20180426,"Guatemala City, Guatemala"
+105,"['Ariel Lee [2]', 'Sydney Lee', 'Fatima Beatriz Centeno Fuentes', 'Katherine Sarai Lara Guzman']","['[USA] ', '[USA] ', '[ESA] ', '[ESA] ']","['21-15', '20-22', '21-12']",WD,20180426,"Guatemala City, Guatemala"
+106,"['Daniel La Torre Regal [1]', 'Danica Nishimura', 'Jonathan Bing Tsan Lai', 'Michelle Tong']","['[PER] ', '[PER] ', '[CAN] ', '[CAN] ']","['21-19', '21-18']",XD,20180426,"Guatemala City, Guatemala"
+107,"['Ty Alexander Lindeman', 'Josephine Wu', 'Artur Silva Pomoceno [4]', 'Fabiana Silva']","['[CAN] ', '[CAN] ', '[BRA] ', '[BRA] ']","['21-16', '21-11']",XD,20180426,"Guatemala City, Guatemala"
+108,"['Nyl Yakura', 'Kristen Tsai', 'Matheus Voigt [5]', 'Jaqueline Lima']","['[CAN] ', '[CAN] ', '[BRA] ', '[BRA] ']","['21-19', '21-15']",XD,20180426,"Guatemala City, Guatemala"
+109,"['Ryan Chew', 'Sydney Lee', 'Ivan Leon', 'Skaric Mickaela']","['[USA] ', '[USA] ', '[CHI] ', '[CHI] ']","['21-19', '21-18']",XD,20180426,"Guatemala City, Guatemala"
+110,"['Lopez Andres [6]', 'Cynthia Gonzalez', 'Ricky Liuzhou', 'Angela Zhang']","['[MEX] ', '[MEX] ', '[USA] ', '[USA] ']","['21-18', '21-19']",XD,20180426,"Guatemala City, Guatemala"
+111,"['Bruno Barrueto Deza [8]', 'Fernanda Saponara Rivva', 'Diego Mini', 'Paula La Torre Regal']","['[PER] ', '[PER] ', '[PER] ', '[PER] ']","['21-19', '16-21', '21-17']",XD,20180426,"Guatemala City, Guatemala"
+112,"['Solis Jonathan [7]', 'Diana Corleto Soto', 'Phillip Chew', 'Ariel Lee']","['[GUA] ', '[GUA] ', '[USA] ', '[USA] ']","['13-21', '21-14', '21-18']",XD,20180426,"Guatemala City, Guatemala"
+113,"['Leodannis Martinez Palacio [2]', 'Taymara Oropesa Pupo', 'Anibal Marroquin', 'Mariana Isabel Paiz Quan']","['[CUB] ', '[CUB] ', '[GUA] ', '[GUA] ']","['21-13', '23-21']",XD,20180426,"Guatemala City, Guatemala"
+114,"['Ygor Coelho [1]', 'Brian Yang']","['[BRA] ', '[CAN] ']","['21-14', '21-16']",MS,20180426,"Guatemala City, Guatemala"
+115,"['Osleni Guerrero [4]', 'Job Castillo [6]']","['[CUB] ', '[MEX] ']","['21-13', '16-21', '21-12']",MS,20180426,"Guatemala City, Guatemala"
+116,"['Jason Anthony Ho-Shue [3]', 'Artur Silva Pomoceno']","['[CAN] ', '[BRA] ']","['21-17', '21-13']",MS,20180426,"Guatemala City, Guatemala"
+117,"['Kevin Cordon [2]', 'Lino Munoz [7]']","['[GUA] ', '[MEX] ']","['21-13', '13-21', '21-14']",MS,20180426,"Guatemala City, Guatemala"
+118,"['Michelle Li [1]', 'Jamie Hsu [5]']","['[CAN] ', '[USA] ']","['21-18', '21-12']",WS,20180426,"Guatemala City, Guatemala"
+119,"['Brittney Tam [3]', 'Talia Ng']","['[CAN] ', '[CAN] ']","['21-15', '15-21', '21-15']",WS,20180426,"Guatemala City, Guatemala"
+120,"['Haramara Gaitan', 'Fabiana Silva']","['[MEX] ', '[BRA] ']","['24-22', '21-18']",WS,20180426,"Guatemala City, Guatemala"
+121,"['Rachel Honderich [2]', 'Disha Gupta [7]']","['[CAN] ', '[USA] ']","['21-12', '21-12']",WS,20180426,"Guatemala City, Guatemala"
+122,"['Jason Anthony Ho-Shue [1]', 'Nyl Yakura', 'Jose Guevara', 'Daniel La Torre Regal']","['[CAN] ', '[CAN] ', '[PER] ', '[PER] ']","['21-14', '21-12']",MD,20180426,"Guatemala City, Guatemala"
+123,"['Solis Jonathan [4]', 'Rodolfo Ramirez', 'Osleni Guerrero', 'Leodannis Martinez Palacio']","['[GUA] ', '[GUA] ', '[CUB] ', '[CUB] ']","['21-18', '21-19']",MD,20180426,"Guatemala City, Guatemala"
+124,"['Job Castillo [3]', 'Lino Munoz', 'Jonathan Bing Tsan Lai', 'Ty Alexander Lindeman']","['[MEX] ', '[MEX] ', '[CAN] ', '[CAN] ']","['21-19', '17-21', '23-21']",MD,20180426,"Guatemala City, Guatemala"
+125,"['Phillip Chew [2]', 'Ryan Chew', 'Cristian Araya', 'Ivan Leon']","['[USA] ', '[USA] ', '[CHI] ', '[CHI] ']","['21-14', '21-10']",MD,20180426,"Guatemala City, Guatemala"
+126,"['Jennie Gai', 'Jamie Hsu', 'Daniela Macias [1]', 'Danica Nishimura']","['[USA] ', '[USA] ', '[PER] ', '[PER] ']","['21-18', '21-18']",WD,20180426,"Guatemala City, Guatemala"
+127,"['Michelle Tong [3]', 'Josephine Wu', 'Haramara Gaitan', 'Sabrina Solis']","['[CAN] ', '[CAN] ', '[MEX] ', '[MEX] ']","['23-21', '21-12']",WD,20180426,"Guatemala City, Guatemala"
+128,"['Ines Castillo [4]', 'Paula La Torre Regal', 'Cynthia Gonzalez', 'Mariana Ugalde']","['[PER] ', '[PER] ', '[MEX] ', '[MEX] ']","['16-21', '23-21', '21-18']",WD,20180426,"Guatemala City, Guatemala"
+129,"['Rachel Honderich', 'Kristen Tsai', 'Ariel Lee [2]', 'Sydney Lee']","['[CAN] ', '[CAN] ', '[USA] ', '[USA] ']","['21-8', '21-11']",WD,20180426,"Guatemala City, Guatemala"
+130,"['Nyl Yakura', 'Kristen Tsai', 'Daniel La Torre Regal [1]', 'Danica Nishimura']","['[CAN] ', '[CAN] ', '[PER] ', '[PER] ']","['21-10', '21-19']",XD,20180426,"Guatemala City, Guatemala"
+131,"['Lopez Andres [6]', 'Cynthia Gonzalez', 'Ryan Chew', 'Sydney Lee']","['[MEX] ', '[MEX] ', '[USA] ', '[USA] ']","['21-14', '21-12']",XD,20180426,"Guatemala City, Guatemala"
+132,"['Ty Alexander Lindeman', 'Josephine Wu', 'Bruno Barrueto Deza [8]', 'Fernanda Saponara Rivva']","['[CAN] ', '[CAN] ', '[PER] ', '[PER] ']","['21-12', '21-14']",XD,20180426,"Guatemala City, Guatemala"
+133,"['Solis Jonathan [7]', 'Diana Corleto Soto', 'Leodannis Martinez Palacio [2]', 'Taymara Oropesa Pupo']","['[GUA] ', '[GUA] ', '[CUB] ', '[CUB] ']","['21-10', '24-22']",XD,20180426,"Guatemala City, Guatemala"
+134,"['Nyl Yakura', 'Kristen Tsai', 'Lopez Andres [6]', 'Cynthia Gonzalez']","['[CAN] ', '[CAN] ', '[MEX] ', '[MEX] ']","['21-11', '21-17']",XD ,20180426,"Guatemala City, Guatemala"
+135,"['Jason Anthony Ho-Shue [3]', 'Kevin Cordon [2]']","['[CAN] ', '[GUA] ']","['21-14', '21-17']",MS ,20180426,"Guatemala City, Guatemala"
+136,"['Ygor Coelho [1]', 'Osleni Guerrero [4]']","['[BRA] ', '[CUB] ']","['21-17', '21-7']",MS ,20180426,"Guatemala City, Guatemala"
+137,"['Phillip Chew [2]', 'Ryan Chew', 'Job Castillo [3]', 'Lino Munoz']","['[USA] ', '[USA] ', '[MEX] ', '[MEX] ']","['24-22', '21-10']",MD ,20180426,"Guatemala City, Guatemala"
+138,"['Jason Anthony Ho-Shue [1]', 'Nyl Yakura', 'Solis Jonathan [4]', 'Rodolfo Ramirez']","['[CAN] ', '[CAN] ', '[GUA] ', '[GUA] ']","['21-12', '21-11']",MD ,20180426,"Guatemala City, Guatemala"
+139,"['Rachel Honderich [2]', 'Haramara Gaitan']","['[CAN] ', '[MEX] ']","['21-7', '21-10']",WS ,20180426,"Guatemala City, Guatemala"
+140,"['Ty Alexander Lindeman', 'Josephine Wu', 'Solis Jonathan [7]', 'Diana Corleto Soto']","['[CAN] ', '[CAN] ', '[GUA] ', '[GUA] ']","['21-15', '21-14']",XD ,20180426,"Guatemala City, Guatemala"
+141,"['Michelle Li [1]', 'Brittney Tam [3]']","['[CAN] ', '[CAN] ']","['21-10', '21-18']",WS ,20180426,"Guatemala City, Guatemala"
+142,"['Rachel Honderich', 'Kristen Tsai', 'Ines Castillo [4]', 'Paula La Torre Regal']","['[CAN] ', '[CAN] ', '[PER] ', '[PER] ']","['21-10', '21-12']",WD ,20180426,"Guatemala City, Guatemala"
+143,"['Michelle Tong [3]', 'Josephine Wu', 'Jennie Gai', 'Jamie Hsu']","['[CAN] ', '[CAN] ', '[USA] ', '[USA] ']","['21-17', '21-15']",WD ,20180426,"Guatemala City, Guatemala"
+144,"['Ty Alexander Lindeman', 'Josephine Wu', 'Nyl Yakura', 'Kristen Tsai']","['[CAN] ', '[CAN] ', '[CAN] ', '[CAN] ']","['21-14', '26-24']",XD ,20180426,"Guatemala City, Guatemala"
+145,"['Ygor Coelho [1]', 'Jason Anthony Ho-Shue [3]']","['[BRA] ', '[CAN] ']","['21-12', '21-15']",MS ,20180426,"Guatemala City, Guatemala"
+146,"['Michelle Li [1]', 'Rachel Honderich [2]']","['[CAN] ', '[CAN] ']","['21-15', '21-16']",WS ,20180426,"Guatemala City, Guatemala"
+147,"['Jason Anthony Ho-Shue [1]', 'Nyl Yakura', 'Phillip Chew [2]', 'Ryan Chew']","['[CAN] ', '[CAN] ', '[USA] ', '[USA] ']","['21-17', '21-17']",MD ,20180426,"Guatemala City, Guatemala"
+148,"['Rachel Honderich', 'Kristen Tsai', 'Michelle Tong [3]', 'Josephine Wu']","['[CAN] ', '[CAN] ', '[CAN] ', '[CAN] ']","['17-21', '21-17', '21-14']",WD ,20180426,"Guatemala City, Guatemala"

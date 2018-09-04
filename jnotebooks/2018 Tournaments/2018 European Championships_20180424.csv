@@ -1,187 +1,187 @@
-,PLAYERS,COUNTRIES,SCORES,EVENT,match_week
-0,"['Jacob Nilsson', 'Kai Schaefer']","['[SWE] ', '[GER] ']","['21-14', '22-20']",MS ,20180424
-1,"['Sabrina Jaquet', 'Natalia Perminova']","['[SUI] ', '[RUS] ']","['21-17', '13-21', '21-17']",WS ,20180424
-2,"['Rodion Alimov', 'Alina Davletova', 'Ben Lane', 'Jessica Pugh']","['[RUS] ', '[RUS] ', '[ENG] ', '[ENG] ']","['21-19', '27-25']",XD ,20180424
-3,"['Marcus Ellis [3]', 'Lauren Smith', 'Robin Tabeling', 'Cheryl Seinen']","['[ENG] ', '[ENG] ', '[NED] ', '[NED] ']","['17-21', '21-11', '21-15']",XD ,20180424
-4,"['Bastian Kersaudy', 'Lea Palermo', 'Jelle Maas', 'Imke Van Der Aar']","['[FRA] ', '[FRA] ', '[NED] ', '[NED] ']","['23-21', '21-12']",XD ,20180424
-5,"['Sergey Sirant', 'Milan Ludik']","['[RUS] ', '[CZE] ']","['21-11', '21-11']",MS ,20180424
-6,"['Mathias Christiansen [2]', 'Christinna Pedersen', 'Sam Magee', 'Chloe Magee']","['[DEN] ', '[DEN] ', '[IRL] ', '[IRL] ']","['21-18', '21-16']",XD ,20180424
-7,"['Joachim Fischer Nielsen', 'Alexandra Bøje', 'Thom Gicquel', 'Delphine Delrue']","['[DEN] ', '[DEN] ', '[FRA] ', '[FRA] ']","['21-16', '23-21']",XD ,20180424
-8,"['Luise Heim', 'Linda Zetchiri']","['[GER] ', '[BUL] ']","['21-19', '21-17']",WS ,20180424
-9,"['Toby Penty', 'Lucas Claerbout']","['[ENG] ', '[FRA] ']","['21-10', '21-7']",MS ,20180424
-10,"['Sam Parsons', 'Luka Wraber']","['[ENG] ', '[AUT] ']","['21-19', '23-21']",MS ,20180424
-11,"['Milan Dratva', 'Martina Repiska', 'Dominik Stipsits', 'Antonia Meinke']","['[SVK] ', '[SVK] ', '[AUT] ', '[AUT] ']","['21-17', '17-21', '21-15']",XD ,20180424
-12,"['Lianne Tan', 'Agnes Korosi']","['[BEL] ', '[HUN] ']","['21-19', '21-19']",WS ,20180424
-13,"['Gergely Krausz', 'Rosario Maddaloni']","['[HUN] ', '[ITA] ']","['21-18', '21-18']",MS ,20180424
-14,"['Alexander Roovers', 'Kalle Koljonen']","['[GER] ', '[FIN] ']","['21-18', '14-21', '21-16']",MS ,20180424
-15,"['Adam Mendrek', 'Duarte Nuno Anjo']","['[CZE] ', '[POR] ']","['21-14', '21-14']",MS ,20180424
-16,"['Jacco Arends [4]', 'Selena Piek', 'Oliver Schaller', 'Celine Burkart']","['[NED] ', '[NED] ', '[SUI] ', '[SUI] ']","['21-14', '21-11']",XD ,20180424
-17,"['Airi Mikkela', 'Martina Repiska']","['[FIN] ', '[SVK] ']","['21-12', '21-10']",WS ,20180424
-18,"['Christian Kirchmayr', 'Cristian Savin']","['[SUI] ', '[MDA] ']","['21-17', '22-20']",MS ,20180424
-19,"['Ronan Labar [8]', 'Audrey Fontaine', 'Jakub Bitman', 'Alzbeta Basova']","['[FRA] ', '[FRA] ', '[CZE] ', '[CZE] ']","['21-15', '21-17']",XD ,20180424
-20,"['Luís Enrique Peñalver', 'Zvonimir Durkinjak']","['[ESP] ', '[CRO] ']","['21-19', '13-21', '21-13']",MS ,20180424
-21,"['Maria Ulitina', 'Jordan Hart']","['[UKR] ', '[WAL] ']","['22-20', '19-21', '21-14']",WS ,20180424
-22,"['Aliye Demirbag', 'Clara Azurmendi']","['[TUR] ', '[ESP] ']",[],WS ,20180424
-23,"['Niclas Nohr', 'Sara Thygesen', 'Sander Merits', 'Kati-Kreet Marran']","['[DEN] ', '[DEN] ', '[EST] ', '[EST] ']","['21-9', '21-11']",XD ,20180424
-24,"['Marvin Emil Seidel [7]', 'Linda Efler', 'Artem Pochtarov', 'Natalya Voytsekh']","['[GER] ', '[GER] ', '[UKR] ', '[UKR] ']","['21-15', '21-11']",XD ,20180424
-25,"['Jan O Jorgensen', 'Orkhan Galandarov']","['[DEN] ', '[AZE] ']","['21-3', '21-7']",MS ,20180424
-26,"['Collins Valentine Filimon', 'Elias Nicolaou']","['[ROU] ', '[CYP] ']","['21-8', '16-21', '21-11']",MS ,20180424
-27,"['Chloe Birch', 'Maja Pavlinic']","['[ENG] ', '[CRO] ']","['21-18', '21-11']",WS ,20180424
-28,"['Nhat Nguyen', 'Kari Gunnarsson']","['[IRL] ', '[ISL] ']","['21-16', '21-17']",MS ,20180424
-29,"['Yvonne Li', 'Eleni Christodoulou']","['[GER] ', '[CYP] ']","['21-6', '21-3']",WS ,20180424
-30,"['Chris Adcock [1]', 'Gabrielle Adcock', 'Pawel Smilowski', 'Magdalena Swierczynska']","['[ENG] ', '[ENG] ', '[POL] ', '[POL] ']","['21-16', '21-10']",XD ,20180424
-31,"['Gayle Mahulette', 'Katerina Tomalova']","['[NED] ', '[CZE] ']","['21-16', '21-15']",WS ,20180424
-32,"['Evgenij Dremin [6]', 'Evgenia Dimova', 'Dimitar Yanakiev', 'Mariya Mitsova']","['[RUS] ', '[RUS] ', '[BUL] ', '[BUL] ']","['21-16', '21-7']",XD ,20180424
-33,"['Kristin Kuuba', 'Sonia Goncalves']","['[EST] ', '[POR] ']","['18-21', '21-11', '15-8']",WS ,20180424
-34,"['Kevin Strobl', 'Silvia Garino', 'Uladzimir Varantsou', 'Krestina Silich']","['[ITA] ', '[ITA] ', '[BLR] ', '[BLR] ']","['21-6', '21-13']",XD ,20180424
-35,"['Mark Lamsfuss [5]', 'Isabel Herttrich', 'Alberto Zapico', 'Lorena Usle']","['[GER] ', '[GER] ', '[ESP] ', '[ESP] ']","['21-7', '21-14']",XD ,20180424
-36,"['Mariya Mitsova', 'Zuzana Pavelkova']","['[BUL] ', '[CZE] ']","['21-12', '16-21', '21-9']",WS ,20180424
-37,"['Emre Lale', 'Robert Mann']","['[TUR] ', '[LUX] ']","['21-14', '21-15']",MS ,20180424
-38,"['Anton Kaisti', 'Jenny Nystrom', 'Misha Zilberman', 'Svetlana Zilberman']","['[FIN] ', '[FIN] ', '[ISR] ', '[ISR] ']","['21-17', '21-16']",XD ,20180424
-39,"['Richard Eidestedt', 'Clara Nistad', 'Fredrik Kristensen', 'Solvår Flåten Jørgensen']","['[SWE] ', '[SWE] ', '[NOR] ', '[NOR] ']","['21-9', '21-13']",XD ,20180424
-40,"['Fabienne Deprez', 'Dana Danilenko']","['[GER] ', '[ISR] ']","['21-15', '21-11']",WS ,20180424
-41,"['Nick Fransman', 'Matthew Abela']","['[NED] ', '[MLT] ']","['21-1', '21-5']",MS ,20180424
-42,"['Natalya Voytsekh', 'Vytaute Fomkinaite']","['[UKR] ', '[LTU] ']","['21-15', '21-18']",WS ,20180424
-43,"['Artem Pochtarov', 'Ivan Rusev']","['[UKR] ', '[BUL] ']","['21-12', '21-18']",MS ,20180424
-44,"['Mette Poulsen', 'Elisa Wiborg']","['[DEN] ', '[NOR] ']","['21-7', '21-10']",WS ,20180424
-45,"['Miha Ivanic', 'Ilias Xanthou']","['[SLO] ', '[GRE] ']","['21-11', '21-10']",MS ,20180424
-46,"['Alesia Zaitsava', 'Ayla Huser']","['[BLR] ', '[SUI] ']","['19-21', '21-19', '21-19']",WS ,20180424
-47,"['Delphine Delrue', 'Lea Palermo', 'Lise Jaques', 'Flore Vandenhoucke']","['[FRA] ', '[FRA] ', '[BEL] ', '[BEL] ']","['21-14', '21-11']",WD ,20180424
-48,"['Neslihan Yigit [8]', 'Fabienne Deprez']","['[TUR] ', '[GER] ']","['21-14', '21-15']",WS ,20180424
-49,"['Rasmus Gemke [5]', 'Alexander Roovers']","['[DEN] ', '[GER] ']","['21-9', '21-15']",MS ,20180424
-50,"['Debora Jille', 'Imke Van Der Aar', 'Isabel Herttrich [7]', 'Carla Nelte']","['[NED] ', '[NED] ', '[GER] ', '[GER] ']","['21-13', '21-15']",WD ,20180424
-51,"['Thom Gicquel', 'Ronan Labar', 'Daniel Benz', 'Andreas Heinz']","['[FRA] ', '[FRA] ', '[GER] ', '[GER] ']","['21-19', '21-18']",MD ,20180424
-52,"['Jan O Jorgensen', 'Michal Rogalski']","['[DEN] ', '[POL] ']","['21-9', '21-15']",MS ,20180424
-53,"['Jelle Maas', 'Robin Tabeling', 'Alexander Dunn', 'Adam Hall']","['[NED] ', '[NED] ', '[SCO] ', '[SCO] ']","['21-16', '19-21', '29-27']",MD ,20180424
-54,"['Mark Caljouw [6]', 'Sergey Sirant']","['[NED] ', '[RUS] ']","['21-19', '21-19']",MS ,20180424
-55,"['Chloe Birch', 'Beatriz Corrales [5]']","['[ENG] ', '[ESP] ']","['21-16', '21-19']",WS ,20180424
-56,"['Nhat Nguyen', 'Pablo Abian [7]']","['[IRL] ', '[ESP] ']","['21-9', '21-18']",MS ,20180424
-57,"['Carolina Marin [1]', 'Marie Batomene']","['[ESP] ', '[FRA] ']","['21-15', '21-12']",WS ,20180424
-58,"['Rajiv Ouseph [3]', 'Luís Enrique Peñalver']","['[ENG] ', '[ESP] ']","['21-19', '21-8']",MS ,20180424
-59,"['Gabriela Stoeva [2]', 'Stefani Stoeva', 'Linda Efler', 'Olga Konon']","['[BUL] ', '[BUL] ', '[GER] ', '[GER] ']","['21-16', '21-15']",WD ,20180424
-60,"['Anders Antonsen [2]', 'Toby Penty']","['[DEN] ', '[ENG] ']","['21-12', '15-21', '22-20']",MS ,20180424
-61,"['Kirsty Gilmour [2]', 'Mette Poulsen']","['[SCO] ', '[DEN] ']","['21-18', '21-17']",WS ,20180424
-62,"['Evgeniya Kosetskaya [4]', 'Maria Ulitina']","['[RUS] ', '[UKR] ']","['22-20', '21-14']",WS ,20180424
-63,"['Chloe Birch [8]', 'Jessica Pugh', 'Busra Unlu', 'Ebru Yazgan']","['[ENG] ', '[ENG] ', '[TUR] ', '[TUR] ']","['21-9', '21-9']",WD ,20180424
-64,"['Nhat Nguyen', 'Paul Reynolds', 'Kristjan Kaljurand', 'Raul Käsner']","['[IRL] ', '[IRL] ', '[EST] ', '[EST] ']","['20-22', '22-20', '21-12']",MD ,20180424
-65,"['Natalia Koch Rohde [7]', 'Mariya Mitsova']","['[DEN] ', '[BUL] ']","['21-15', '21-17']",WS ,20180424
-66,"['Jenny Nystrom', 'Sonja Pekkola', 'Sara Boyle', 'Rachael Darragh']","['[FIN] ', '[FIN] ', '[IRL] ', '[IRL] ']","['21-15', '15-21', '21-16']",WD ,20180424
-67,"['Sara Penalver Pereira', 'Lianne Tan']","['[ESP] ', '[BEL] ']","['21-18', '21-16']",WS ,20180424
-68,"['Maiken Fruergaard [3]', 'Sara Thygesen', 'Kristin Kuuba', 'Helina Rüütel']","['[DEN] ', '[DEN] ', '[EST] ', '[EST] ']","['21-17', '21-19']",WD ,20180424
-69,"['Raul Must', 'Emre Lale']","['[EST] ', '[TUR] ']","['21-19', '21-16']",MS ,20180424
-70,"['Lauren Smith [4]', 'Sarah Walker', 'Maryna Ilyinskaya', 'Yelyzaveta Zharka']","['[ENG] ', '[ENG] ', '[UKR] ', '[UKR] ']","['21-13', '21-16']",WD ,20180424
-71,"['Mark Lamsfuss [8]', 'Marvin Emil Seidel', 'Javier Suarez', 'Alberto Zapico']","['[GER] ', '[GER] ', '[ESP] ', '[ESP] ']","['21-9', '21-11']",MD ,20180424
-72,"['Johanna Goliszewski', 'Lara Kaepplein', 'Alzbeta Basova', 'Michaela Fuchsova']","['[GER] ', '[GER] ', '[CZE] ', '[CZE] ']","['21-11', '21-14']",WD ,20180424
-73,"['Mathias Christiansen [6]', 'David Daugaard', 'Jacco Arends', 'Ruben Jille']","['[DEN] ', '[DEN] ', '[NED] ', '[NED] ']","['15-21', '21-15', '24-22']",MD ,20180424
-74,"['Jones Ralfy Jansen [7]', 'Josche Zurwonne', 'Milan Dratva', 'Matej Hlinican']","['[GER] ', '[GER] ', '[SVK] ', '[SVK] ']","['21-10', '21-11']",MD ,20180424
-75,"['Sabrina Jaquet', 'Soraya De Visch Eijbergen']","['[SUI] ', '[NED] ']","['12-21', '21-19', '21-16']",WS ,20180424
-76,"['Artem Pochtarov', 'Eetu Heino']","['[UKR] ', '[FIN] ']","['21-17', '12-21', '21-12']",MS ,20180424
-77,"['Evgenij Dremin', 'Denis Grachev', 'Eloi Adam', 'Samy Corvee']","['[RUS] ', '[RUS] ', '[FRA] ', '[FRA] ']","['21-23', '21-15', '22-20']",MD ,20180424
-78,"['Misha Zilberman', 'Miha Ivanic']","['[ISR] ', '[SLO] ']","['21-10', '21-8']",MS ,20180424
-79,"['Yvonne Li', 'Getter Saar']","['[GER] ', '[EST] ']","['21-9', '21-9']",WS ,20180424
-80,"['Julie Finne-Ipsen', 'Rikke Søby', 'Vytaute Fomkinaite', 'Gerda Voitechovskaja']","['[DEN] ', '[DEN] ', '[LTU] ', '[LTU] ']","['21-7', '21-9']",WD ,20180424
-81,"['Emilie Lefel [6]', 'Anne Tran', 'Elena Fernandez', 'Lorena Usle']","['[FRA] ', '[FRA] ', '[ESP] ', '[ESP] ']","['21-18', '21-7']",WD ,20180424
-82,"['Bengisu Ercetin', 'Nazlıcan Inci', 'Kamilla Rytter Juhl [1]', 'Christinna Pedersen']","['[TUR] ', '[TUR] ', '[DEN] ', '[DEN] ']",[],WD ,20180424
-83,"['Lucas Corvee [8]', 'Christian Kirchmayr']","['[FRA] ', '[SUI] ']","['21-16', '21-11']",MS ,20180424
-84,"['Mads Conrad-Petersen [2]', 'Mads Pieler Kolding', 'Daniel Nikolov', 'Ivan Rusev']","['[DEN] ', '[DEN] ', '[BUL] ', '[BUL] ']","['21-13', '21-12']",MD ,20180424
-85,"['Selena Piek [5]', 'Cheryl Seinen', 'Ieva Pope', 'Monika Radovska']","['[NED] ', '[NED] ', '[LAT] ', '[LAT] ']","['21-13', '21-10']",WD ,20180424
-86,"['Peter Briggs', 'Tom Wolfenden', 'Giovanni Greco', 'Rosario Maddaloni']","['[ENG] ', '[ENG] ', '[ITA] ', '[ITA] ']","['21-13', '21-10']",MD ,20180424
-87,"['Viktor Axelsen [1]', 'Adam Mendrek']","['[DEN] ', '[CZE] ']","['21-11', '21-8']",MS ,20180424
-88,"['Mia Blichfeldt [3]', 'Natalya Voytsekh']","['[DEN] ', '[UKR] ']","['21-14', '21-9']",WS ,20180424
-89,"['Airi Mikkela', 'Lia Salehar']","['[FIN] ', '[SLO] ']","['21-14', '21-11']",WS ,20180424
-90,"['Vladimir Ivanov [4]', 'Ivan Sozonov', 'Dominik Stipsits', 'Roman Zirnwald']","['[RUS] ', '[RUS] ', '[AUT] ', '[AUT] ']","['21-14', '21-12']",MD ,20180424
-91,"['Aliye Demirbag', 'Grammatoula Sotiriou']","['[TUR] ', '[GRE] ']","['21-19', '21-7']",WS ,20180424
-92,"['Kristin Kuuba', 'Ieva Pope']","['[EST] ', '[LAT] ']","['21-7', '21-14']",WS ,20180424
-93,"['Peyo Boichinov', 'Ivan Panev', 'Alexander Bass', 'Shai Geffen']","['[BUL] ', '[BUL] ', '[ISR] ', '[ISR] ']","['21-12', '21-17']",MD ,20180424
-94,"['Ben Lane', 'Sean Vendy', 'Mathias Boe [1]', 'Carsten Mogensen']","['[ENG] ', '[ENG] ', '[DEN] ', '[DEN] ']",[],MD ,20180424
-95,"['Vladimir Malkov', 'Gergely Krausz']","['[RUS] ', '[HUN] ']","['21-11', '21-8']",MS ,20180424
-96,"['Silvia Garino', 'Lisa Iversen', 'Solvår Flåten Jørgensen', 'Natalie Syvertsen']","['[ITA] ', '[ITA] ', '[NOR] ', '[NOR] ']","['25-23', '21-11']",WD ,20180424
-97,"['Ekaterina Bolotova', 'Alina Davletova', 'Iza Salehar', 'Lia Salehar']","['[RUS] ', '[RUS] ', '[SLO] ', '[SLO] ']","['21-18', '21-11']",WD ,20180424
-98,"['Jacob Nilsson', 'Milan Dratva']","['[SWE] ', '[SVK] ']","['21-16', '21-10']",MS ,20180424
-99,"['Marcus Ellis [5]', 'Chris Langridge', 'Lukas Osele', 'Kevin Strobl']","['[ENG] ', '[ENG] ', '[ITA] ', '[ITA] ']","['21-12', '21-17']",MD ,20180424
-100,"['Emma Karlsson', 'Johanna Magnusson', 'Anastasiya Cherniavskaya', 'Alesia Zaitsava']","['[SWE] ', '[SWE] ', '[BLR] ', '[BLR] ']","['21-8', '21-10']",WD ,20180424
-101,"['Konstantin Abramov', 'Alexandr Zinchenko', 'Pawel Pradzinski', 'Jan Rudzinski']","['[RUS] ', '[RUS] ', '[POL] ', '[POL] ']","['21-13', '21-18']",MD ,20180424
-102,"['Brice Leverdez [4]', 'Collins Valentine Filimon']","['[FRA] ', '[ROU] ']","['17-21', '21-16', '21-15']",MS ,20180424
-103,"['Nick Fransman', 'Marius Myhre']","['[NED] ', '[NOR] ']","['21-13', '21-9']",MS ,20180424
-104,"['Milosz Bochat', 'Adam Cwalina', 'Magnus Christensen', 'Fredrik Kristensen']","['[POL] ', '[POL] ', '[NOR] ', '[NOR] ']","['21-12', '21-12']",MD ,20180424
-105,"['Luise Heim', 'Rachael Darragh']","['[GER] ', '[IRL] ']","['21-9', '21-10']",WS ,20180424
-106,"['Amanda Hogstrom', 'Clara Nistad', 'Nikoletta Bukoviczki', 'Daniella Gonda']","['[SWE] ', '[SWE] ', '[HUN] ', '[HUN] ']","['21-13', '21-9']",WD ,20180424
-107,"['Line Højmark Kjaersfeldt [6]', 'Alesia Zaitsava']","['[DEN] ', '[BLR] ']","['21-12', '14-21', '21-12']",WS ,20180424
-108,"['Gayle Mahulette', 'Johanna Magnusson']","['[NED] ', '[SWE] ']","['21-10', '21-17']",WS ,20180424
-109,"['Kim Astrup [3]', 'Anders Skaarup Rasmussen', 'Matijs Dierickx', 'Freek Golinski']","['[DEN] ', '[DEN] ', '[BEL] ', '[BEL] ']","['21-14', '21-12']",MD ,20180424
-110,"['Sam Parsons', 'Maxime Moreels']","['[ENG] ', '[BEL] ']",[],MS ,20180424
-111,"['Mark Lamsfuss [5]', 'Isabel Herttrich', 'Niclas Nohr', 'Sara Thygesen']","['[GER] ', '[GER] ', '[DEN] ', '[DEN] ']","['21-9', '23-21']",XD ,20180424
-112,"['Vladimir Ivanov [4]', 'Ivan Sozonov', 'Milosz Bochat', 'Adam Cwalina']","['[RUS] ', '[RUS] ', '[POL] ', '[POL] ']","['21-19', '21-10']",MD ,20180424
-113,"['Brice Leverdez [4]', 'Raul Must']","['[FRA] ', '[EST] ']","['21-16', '21-16']",MS ,20180424
-114,"['Jelle Maas', 'Robin Tabeling', 'Ben Lane', 'Sean Vendy']","['[NED] ', '[NED] ', '[ENG] ', '[ENG] ']","['24-22', '21-12']",MD ,20180424
-115,"['Lauren Smith [4]', 'Sarah Walker', 'Emma Karlsson', 'Johanna Magnusson']","['[ENG] ', '[ENG] ', '[SWE] ', '[SWE] ']","['19-21', '21-14', '21-12']",WD ,20180424
-116,"['Mathias Christiansen [2]', 'Christinna Pedersen', 'Rodion Alimov', 'Alina Davletova']","['[DEN] ', '[DEN] ', '[RUS] ', '[RUS] ']","['22-20', '18-21', '21-9']",XD ,20180424
-117,"['Jan O Jorgensen', 'Mark Caljouw [6]']","['[DEN] ', '[NED] ']","['21-19', '21-18']",MS ,20180424
-118,"['Carolina Marin [1]', 'Sabrina Jaquet']","['[ESP] ', '[SUI] ']","['21-14', '21-7']",WS ,20180424
-119,"['Chris Adcock [1]', 'Gabrielle Adcock', 'Joachim Fischer Nielsen', 'Alexandra Bøje']","['[ENG] ', '[ENG] ', '[DEN] ', '[DEN] ']","['21-17', '21-15']",XD ,20180424
-120,"['Viktor Axelsen [1]', 'Sam Parsons']","['[DEN] ', '[ENG] ']","['21-13', '21-9']",MS ,20180424
-121,"['Ekaterina Bolotova', 'Alina Davletova', 'Bengisu Ercetin', 'Nazlıcan Inci']","['[RUS] ', '[RUS] ', '[TUR] ', '[TUR] ']","['21-16', '21-9']",WD ,20180424
-122,"['Chloe Birch', 'Luise Heim']","['[ENG] ', '[GER] ']","['19-21', '21-15']",WS ,20180424
-123,"['Jones Ralfy Jansen [7]', 'Josche Zurwonne', 'Evgenij Dremin', 'Denis Grachev']","['[GER] ', '[GER] ', '[RUS] ', '[RUS] ']","['17-21', '24-22', '22-20']",MD ,20180424
-124,"['Emilie Lefel [6]', 'Anne Tran', 'Julie Finne-Ipsen', 'Rikke Søby']","['[FRA] ', '[FRA] ', '[DEN] ', '[DEN] ']","['21-15', '21-12']",WD ,20180424
-125,"['Maiken Fruergaard [3]', 'Sara Thygesen', 'Delphine Delrue', 'Lea Palermo']","['[DEN] ', '[DEN] ', '[FRA] ', '[FRA] ']","['21-19', '21-10']",WD ,20180424
-126,"['Mark Lamsfuss [8]', 'Marvin Emil Seidel', 'Thom Gicquel', 'Ronan Labar']","['[GER] ', '[GER] ', '[FRA] ', '[FRA] ']","['21-16', '21-8']",MD ,20180424
-127,"['Evgeniya Kosetskaya [4]', 'Kristin Kuuba']","['[RUS] ', '[EST] ']","['21-13', '22-20']",WS ,20180424
-128,"['Rasmus Gemke [5]', 'Vladimir Malkov']","['[DEN] ', '[RUS] ']","['21-13', '21-18']",MS ,20180424
-129,"['Natalia Koch Rohde [7]', 'Sara Penalver Pereira']","['[DEN] ', '[ESP] ']","['21-11', '21-19']",WS ,20180424
-130,"['Evgenij Dremin [6]', 'Evgenia Dimova', 'Bastian Kersaudy', 'Lea Palermo']","['[RUS] ', '[RUS] ', '[FRA] ', '[FRA] ']","['21-18', '21-15']",XD ,20180424
-131,"['Marcus Ellis [3]', 'Lauren Smith', 'Richard Eidestedt', 'Clara Nistad']","['[ENG] ', '[ENG] ', '[SWE] ', '[SWE] ']","['21-11', '21-16']",XD ,20180424
-132,"['Mathias Christiansen [6]', 'David Daugaard', 'Nhat Nguyen', 'Paul Reynolds']","['[DEN] ', '[DEN] ', '[IRL] ', '[IRL] ']","['21-12', '21-7']",MD ,20180424
-133,"['Selena Piek [5]', 'Cheryl Seinen', 'Johanna Goliszewski', 'Lara Kaepplein']","['[NED] ', '[NED] ', '[GER] ', '[GER] ']","['21-16', '22-20']",WD ,20180424
-134,"['Yvonne Li', 'Neslihan Yigit [8]']","['[GER] ', '[TUR] ']","['21-6', '21-7']",WS ,20180424
-135,"['Rajiv Ouseph [3]', 'Artem Pochtarov']","['[ENG] ', '[UKR] ']",[],MS ,20180424
-136,"['Line Højmark Kjaersfeldt [6]', 'Aliye Demirbag']","['[DEN] ', '[TUR] ']","['21-14', '21-16']",WS ,20180424
-137,"['Gabriela Stoeva [2]', 'Stefani Stoeva', 'Amanda Hogstrom', 'Clara Nistad']","['[BUL] ', '[BUL] ', '[SWE] ', '[SWE] ']","['21-13', '21-12']",WD ,20180424
-138,"['Chloe Birch [8]', 'Jessica Pugh', 'Silvia Garino', 'Lisa Iversen']","['[ENG] ', '[ENG] ', '[ITA] ', '[ITA] ']","['21-6', '21-10']",WD ,20180424
-139,"['Nick Fransman', 'Nhat Nguyen']","['[NED] ', '[IRL] ']","['14-21', '21-17', '21-19']",MS ,20180424
-140,"['Kim Astrup [3]', 'Anders Skaarup Rasmussen', 'Peyo Boichinov', 'Ivan Panev']","['[DEN] ', '[DEN] ', '[BUL] ', '[BUL] ']","['21-11', '21-11']",MD ,20180424
-141,"['Ronan Labar [8]', 'Audrey Fontaine', 'Kevin Strobl', 'Silvia Garino']","['[FRA] ', '[FRA] ', '[ITA] ', '[ITA] ']","['21-16', '21-9']",XD ,20180424
-142,"['Marvin Emil Seidel [7]', 'Linda Efler', 'Anton Kaisti', 'Jenny Nystrom']","['[GER] ', '[GER] ', '[FIN] ', '[FIN] ']","['21-12', '18-21', '21-19']",XD ,20180424
-143,"['Anders Antonsen [2]', 'Misha Zilberman']","['[DEN] ', '[ISR] ']","['21-15', '19-21', '21-10']",MS ,20180424
-144,"['Lucas Corvee [8]', 'Jacob Nilsson']","['[FRA] ', '[SWE] ']","['19-21', '21-9', '21-14']",MS ,20180424
-145,"['Mia Blichfeldt [3]', 'Airi Mikkela']","['[DEN] ', '[FIN] ']","['21-15', '21-13']",WS ,20180424
-146,"['Marcus Ellis [5]', 'Chris Langridge', 'Konstantin Abramov', 'Alexandr Zinchenko']","['[ENG] ', '[ENG] ', '[RUS] ', '[RUS] ']","['21-12', '21-17']",MD ,20180424
-147,"['Debora Jille', 'Imke Van Der Aar', 'Jenny Nystrom', 'Sonja Pekkola']","['[NED] ', '[NED] ', '[FIN] ', '[FIN] ']","['21-10', '21-12']",WD ,20180424
-148,"['Jacco Arends [4]', 'Selena Piek', 'Milan Dratva', 'Martina Repiska']","['[NED] ', '[NED] ', '[SVK] ', '[SVK] ']","['21-3', '21-9']",XD ,20180424
-149,"['Mads Conrad-Petersen [2]', 'Mads Pieler Kolding', 'Peter Briggs', 'Tom Wolfenden']","['[DEN] ', '[DEN] ', '[ENG] ', '[ENG] ']","['22-20', '21-13']",MD ,20180424
-150,"['Kirsty Gilmour [2]', 'Gayle Mahulette']","['[SCO] ', '[NED] ']","['21-11', '21-13']",WS ,20180424
-151,"['Kim Astrup [3]', 'Anders Skaarup Rasmussen', 'Marcus Ellis [5]', 'Chris Langridge']","['[DEN] ', '[DEN] ', '[ENG] ', '[ENG] ']","['21-8', '20-22', '21-16']",MD ,20180424
-152,"['Viktor Axelsen [1]', 'Rasmus Gemke [5]']","['[DEN] ', '[DEN] ']","['21-11', '21-16']",MS ,20180424
-153,"['Rajiv Ouseph [3]', 'Lucas Corvee [8]']","['[ENG] ', '[FRA] ']","['16-21', '21-18', '21-11']",MS ,20180424
-154,"['Line Højmark Kjaersfeldt [6]', 'Kirsty Gilmour [2]']","['[DEN] ', '[SCO] ']","['21-14', '21-16']",WS ,20180424
-155,"['Carolina Marin [1]', 'Natalia Koch Rohde [7]']","['[ESP] ', '[DEN] ']","['21-17', '21-10']",WS ,20180424
-156,"['Mark Lamsfuss [5]', 'Isabel Herttrich', 'Jacco Arends [4]', 'Selena Piek']","['[GER] ', '[GER] ', '[NED] ', '[NED] ']","['19-21', '21-10', '21-16']",XD ,20180424
-157,"['Brice Leverdez [4]', 'Nick Fransman']","['[FRA] ', '[NED] ']","['22-24', '21-15', '21-15']",MS ,20180424
-158,"['Jan O Jorgensen', 'Anders Antonsen [2]']","['[DEN] ', '[DEN] ']",[],MS ,20180424
-159,"['Mathias Christiansen [2]', 'Christinna Pedersen', 'Ronan Labar [8]', 'Audrey Fontaine']","['[DEN] ', '[DEN] ', '[FRA] ', '[FRA] ']","['21-16', '21-18']",XD ,20180424
-160,"['Selena Piek [5]', 'Cheryl Seinen', 'Lauren Smith [4]', 'Sarah Walker']","['[NED] ', '[NED] ', '[ENG] ', '[ENG] ']","['21-10', '21-10']",WD ,20180424
-161,"['Mia Blichfeldt [3]', 'Yvonne Li']","['[DEN] ', '[GER] ']","['28-26', '21-12']",WS ,20180424
-162,"['Emilie Lefel [6]', 'Anne Tran', 'Ekaterina Bolotova', 'Alina Davletova']","['[FRA] ', '[FRA] ', '[RUS] ', '[RUS] ']","['21-18', '21-11']",WD ,20180424
-163,"['Chris Adcock [1]', 'Gabrielle Adcock', 'Evgenij Dremin [6]', 'Evgenia Dimova']","['[ENG] ', '[ENG] ', '[RUS] ', '[RUS] ']","['21-14', '21-18']",XD ,20180424
-164,"['Maiken Fruergaard [3]', 'Sara Thygesen', 'Chloe Birch [8]', 'Jessica Pugh']","['[DEN] ', '[DEN] ', '[ENG] ', '[ENG] ']","['21-11', '21-9']",WD ,20180424
-165,"['Mads Conrad-Petersen [2]', 'Mads Pieler Kolding', 'Mark Lamsfuss [8]', 'Marvin Emil Seidel']","['[DEN] ', '[DEN] ', '[GER] ', '[GER] ']","['13-21', '21-15', '21-18']",MD ,20180424
-166,"['Evgeniya Kosetskaya [4]', 'Chloe Birch']","['[RUS] ', '[ENG] ']","['21-14', '21-12']",WS ,20180424
-167,"['Jelle Maas', 'Robin Tabeling', 'Jones Ralfy Jansen [7]', 'Josche Zurwonne']","['[NED] ', '[NED] ', '[GER] ', '[GER] ']","['21-19', '21-13']",MD ,20180424
-168,"['Gabriela Stoeva [2]', 'Stefani Stoeva', 'Debora Jille', 'Imke Van Der Aar']","['[BUL] ', '[BUL] ', '[NED] ', '[NED] ']","['21-8', '21-6']",WD ,20180424
-169,"['Vladimir Ivanov [4]', 'Ivan Sozonov', 'Mathias Christiansen [6]', 'David Daugaard']","['[RUS] ', '[RUS] ', '[DEN] ', '[DEN] ']","['21-15', '21-19']",MD ,20180424
-170,"['Marcus Ellis [3]', 'Lauren Smith', 'Marvin Emil Seidel [7]', 'Linda Efler']","['[ENG] ', '[ENG] ', '[GER] ', '[GER] ']","['24-22', '21-13']",XD ,20180424
-171,"['Rajiv Ouseph [3]', 'Jan O Jorgensen']","['[ENG] ', '[DEN] ']","['21-17', '18-21', '21-15']",MS ,20180424
-172,"['Viktor Axelsen [1]', 'Brice Leverdez [4]']","['[DEN] ', '[FRA] ']","['21-7', '21-9']",MS ,20180424
-173,"['Carolina Marin [1]', 'Mia Blichfeldt [3]']","['[ESP] ', '[DEN] ']","['21-17', '21-16']",WS ,20180424
-174,"['Mads Conrad-Petersen [2]', 'Mads Pieler Kolding', 'Vladimir Ivanov [4]', 'Ivan Sozonov']","['[DEN] ', '[DEN] ', '[RUS] ', '[RUS] ']","['21-11', '19-21', '21-19']",MD ,20180424
-175,"['Mathias Christiansen [2]', 'Christinna Pedersen', 'Marcus Ellis [3]', 'Lauren Smith']","['[DEN] ', '[DEN] ', '[ENG] ', '[ENG] ']","['21-16', '19-21', '21-12']",XD ,20180424
-176,"['Gabriela Stoeva [2]', 'Stefani Stoeva', 'Maiken Fruergaard [3]', 'Sara Thygesen']","['[BUL] ', '[BUL] ', '[DEN] ', '[DEN] ']","['21-10', '21-18']",WD ,20180424
-177,"['Evgeniya Kosetskaya [4]', 'Line Højmark Kjaersfeldt [6]']","['[RUS] ', '[DEN] ']","['21-10', '21-14']",WS ,20180424
-178,"['Emilie Lefel [6]', 'Anne Tran', 'Selena Piek [5]', 'Cheryl Seinen']","['[FRA] ', '[FRA] ', '[NED] ', '[NED] ']","['17-21', '21-18', '21-19']",WD ,20180424
-179,"['Kim Astrup [3]', 'Anders Skaarup Rasmussen', 'Jelle Maas', 'Robin Tabeling']","['[DEN] ', '[DEN] ', '[NED] ', '[NED] ']","['21-15', '21-18']",MD ,20180424
-180,"['Chris Adcock [1]', 'Gabrielle Adcock', 'Mark Lamsfuss [5]', 'Isabel Herttrich']","['[ENG] ', '[ENG] ', '[GER] ', '[GER] ']","['21-17', '15-21', '25-23']",XD ,20180424
-181,"['Gabriela Stoeva [2]', 'Stefani Stoeva', 'Emilie Lefel [6]', 'Anne Tran']","['[BUL] ', '[BUL] ', '[FRA] ', '[FRA] ']","['21-12', '21-10']",WD ,20180424
-182,"['Carolina Marin [1]', 'Evgeniya Kosetskaya [4]']","['[ESP] ', '[RUS] ']","['21-15', '21-7']",WS ,20180424
-183,"['Viktor Axelsen [1]', 'Rajiv Ouseph [3]']","['[DEN] ', '[ENG] ']","['21-8', '21-7']",MS ,20180424
-184,"['Kim Astrup [3]', 'Anders Skaarup Rasmussen', 'Mads Conrad-Petersen [2]', 'Mads Pieler Kolding']","['[DEN] ', '[DEN] ', '[DEN] ', '[DEN] ']",['21-15'],MD ,20180424
-185,"['Chris Adcock [1]', 'Gabrielle Adcock', 'Mathias Christiansen [2]', 'Christinna Pedersen']","['[ENG] ', '[ENG] ', '[DEN] ', '[DEN] ']","['21-18', '17-21', '21-18']",XD ,20180424
+,PLAYERS,COUNTRIES,SCORES,EVENT,match_week,match_location
+0,"['Jacob Nilsson', 'Kai Schaefer']","['[SWE] ', '[GER] ']","['21-14', '22-20']",MS ,20180424,"Huelva, Spain"
+1,"['Sabrina Jaquet', 'Natalia Perminova']","['[SUI] ', '[RUS] ']","['21-17', '13-21', '21-17']",WS ,20180424,"Huelva, Spain"
+2,"['Rodion Alimov', 'Alina Davletova', 'Ben Lane', 'Jessica Pugh']","['[RUS] ', '[RUS] ', '[ENG] ', '[ENG] ']","['21-19', '27-25']",XD ,20180424,"Huelva, Spain"
+3,"['Marcus Ellis [3]', 'Lauren Smith', 'Robin Tabeling', 'Cheryl Seinen']","['[ENG] ', '[ENG] ', '[NED] ', '[NED] ']","['17-21', '21-11', '21-15']",XD ,20180424,"Huelva, Spain"
+4,"['Bastian Kersaudy', 'Lea Palermo', 'Jelle Maas', 'Imke Van Der Aar']","['[FRA] ', '[FRA] ', '[NED] ', '[NED] ']","['23-21', '21-12']",XD ,20180424,"Huelva, Spain"
+5,"['Sergey Sirant', 'Milan Ludik']","['[RUS] ', '[CZE] ']","['21-11', '21-11']",MS ,20180424,"Huelva, Spain"
+6,"['Mathias Christiansen [2]', 'Christinna Pedersen', 'Sam Magee', 'Chloe Magee']","['[DEN] ', '[DEN] ', '[IRL] ', '[IRL] ']","['21-18', '21-16']",XD ,20180424,"Huelva, Spain"
+7,"['Joachim Fischer Nielsen', 'Alexandra Bøje', 'Thom Gicquel', 'Delphine Delrue']","['[DEN] ', '[DEN] ', '[FRA] ', '[FRA] ']","['21-16', '23-21']",XD ,20180424,"Huelva, Spain"
+8,"['Luise Heim', 'Linda Zetchiri']","['[GER] ', '[BUL] ']","['21-19', '21-17']",WS ,20180424,"Huelva, Spain"
+9,"['Toby Penty', 'Lucas Claerbout']","['[ENG] ', '[FRA] ']","['21-10', '21-7']",MS ,20180424,"Huelva, Spain"
+10,"['Sam Parsons', 'Luka Wraber']","['[ENG] ', '[AUT] ']","['21-19', '23-21']",MS ,20180424,"Huelva, Spain"
+11,"['Milan Dratva', 'Martina Repiska', 'Dominik Stipsits', 'Antonia Meinke']","['[SVK] ', '[SVK] ', '[AUT] ', '[AUT] ']","['21-17', '17-21', '21-15']",XD ,20180424,"Huelva, Spain"
+12,"['Lianne Tan', 'Agnes Korosi']","['[BEL] ', '[HUN] ']","['21-19', '21-19']",WS ,20180424,"Huelva, Spain"
+13,"['Gergely Krausz', 'Rosario Maddaloni']","['[HUN] ', '[ITA] ']","['21-18', '21-18']",MS ,20180424,"Huelva, Spain"
+14,"['Alexander Roovers', 'Kalle Koljonen']","['[GER] ', '[FIN] ']","['21-18', '14-21', '21-16']",MS ,20180424,"Huelva, Spain"
+15,"['Adam Mendrek', 'Duarte Nuno Anjo']","['[CZE] ', '[POR] ']","['21-14', '21-14']",MS ,20180424,"Huelva, Spain"
+16,"['Jacco Arends [4]', 'Selena Piek', 'Oliver Schaller', 'Celine Burkart']","['[NED] ', '[NED] ', '[SUI] ', '[SUI] ']","['21-14', '21-11']",XD ,20180424,"Huelva, Spain"
+17,"['Airi Mikkela', 'Martina Repiska']","['[FIN] ', '[SVK] ']","['21-12', '21-10']",WS ,20180424,"Huelva, Spain"
+18,"['Christian Kirchmayr', 'Cristian Savin']","['[SUI] ', '[MDA] ']","['21-17', '22-20']",MS ,20180424,"Huelva, Spain"
+19,"['Ronan Labar [8]', 'Audrey Fontaine', 'Jakub Bitman', 'Alzbeta Basova']","['[FRA] ', '[FRA] ', '[CZE] ', '[CZE] ']","['21-15', '21-17']",XD ,20180424,"Huelva, Spain"
+20,"['Luís Enrique Peñalver', 'Zvonimir Durkinjak']","['[ESP] ', '[CRO] ']","['21-19', '13-21', '21-13']",MS ,20180424,"Huelva, Spain"
+21,"['Maria Ulitina', 'Jordan Hart']","['[UKR] ', '[WAL] ']","['22-20', '19-21', '21-14']",WS ,20180424,"Huelva, Spain"
+22,"['Aliye Demirbag', 'Clara Azurmendi']","['[TUR] ', '[ESP] ']",[],WS ,20180424,"Huelva, Spain"
+23,"['Niclas Nohr', 'Sara Thygesen', 'Sander Merits', 'Kati-Kreet Marran']","['[DEN] ', '[DEN] ', '[EST] ', '[EST] ']","['21-9', '21-11']",XD ,20180424,"Huelva, Spain"
+24,"['Marvin Emil Seidel [7]', 'Linda Efler', 'Artem Pochtarov', 'Natalya Voytsekh']","['[GER] ', '[GER] ', '[UKR] ', '[UKR] ']","['21-15', '21-11']",XD ,20180424,"Huelva, Spain"
+25,"['Jan O Jorgensen', 'Orkhan Galandarov']","['[DEN] ', '[AZE] ']","['21-3', '21-7']",MS ,20180424,"Huelva, Spain"
+26,"['Collins Valentine Filimon', 'Elias Nicolaou']","['[ROU] ', '[CYP] ']","['21-8', '16-21', '21-11']",MS ,20180424,"Huelva, Spain"
+27,"['Chloe Birch', 'Maja Pavlinic']","['[ENG] ', '[CRO] ']","['21-18', '21-11']",WS ,20180424,"Huelva, Spain"
+28,"['Nhat Nguyen', 'Kari Gunnarsson']","['[IRL] ', '[ISL] ']","['21-16', '21-17']",MS ,20180424,"Huelva, Spain"
+29,"['Yvonne Li', 'Eleni Christodoulou']","['[GER] ', '[CYP] ']","['21-6', '21-3']",WS ,20180424,"Huelva, Spain"
+30,"['Chris Adcock [1]', 'Gabrielle Adcock', 'Pawel Smilowski', 'Magdalena Swierczynska']","['[ENG] ', '[ENG] ', '[POL] ', '[POL] ']","['21-16', '21-10']",XD ,20180424,"Huelva, Spain"
+31,"['Gayle Mahulette', 'Katerina Tomalova']","['[NED] ', '[CZE] ']","['21-16', '21-15']",WS ,20180424,"Huelva, Spain"
+32,"['Evgenij Dremin [6]', 'Evgenia Dimova', 'Dimitar Yanakiev', 'Mariya Mitsova']","['[RUS] ', '[RUS] ', '[BUL] ', '[BUL] ']","['21-16', '21-7']",XD ,20180424,"Huelva, Spain"
+33,"['Kristin Kuuba', 'Sonia Goncalves']","['[EST] ', '[POR] ']","['18-21', '21-11', '15-8']",WS ,20180424,"Huelva, Spain"
+34,"['Kevin Strobl', 'Silvia Garino', 'Uladzimir Varantsou', 'Krestina Silich']","['[ITA] ', '[ITA] ', '[BLR] ', '[BLR] ']","['21-6', '21-13']",XD ,20180424,"Huelva, Spain"
+35,"['Mark Lamsfuss [5]', 'Isabel Herttrich', 'Alberto Zapico', 'Lorena Usle']","['[GER] ', '[GER] ', '[ESP] ', '[ESP] ']","['21-7', '21-14']",XD ,20180424,"Huelva, Spain"
+36,"['Mariya Mitsova', 'Zuzana Pavelkova']","['[BUL] ', '[CZE] ']","['21-12', '16-21', '21-9']",WS ,20180424,"Huelva, Spain"
+37,"['Emre Lale', 'Robert Mann']","['[TUR] ', '[LUX] ']","['21-14', '21-15']",MS ,20180424,"Huelva, Spain"
+38,"['Anton Kaisti', 'Jenny Nystrom', 'Misha Zilberman', 'Svetlana Zilberman']","['[FIN] ', '[FIN] ', '[ISR] ', '[ISR] ']","['21-17', '21-16']",XD ,20180424,"Huelva, Spain"
+39,"['Richard Eidestedt', 'Clara Nistad', 'Fredrik Kristensen', 'Solvår Flåten Jørgensen']","['[SWE] ', '[SWE] ', '[NOR] ', '[NOR] ']","['21-9', '21-13']",XD ,20180424,"Huelva, Spain"
+40,"['Fabienne Deprez', 'Dana Danilenko']","['[GER] ', '[ISR] ']","['21-15', '21-11']",WS ,20180424,"Huelva, Spain"
+41,"['Nick Fransman', 'Matthew Abela']","['[NED] ', '[MLT] ']","['21-1', '21-5']",MS ,20180424,"Huelva, Spain"
+42,"['Natalya Voytsekh', 'Vytaute Fomkinaite']","['[UKR] ', '[LTU] ']","['21-15', '21-18']",WS ,20180424,"Huelva, Spain"
+43,"['Artem Pochtarov', 'Ivan Rusev']","['[UKR] ', '[BUL] ']","['21-12', '21-18']",MS ,20180424,"Huelva, Spain"
+44,"['Mette Poulsen', 'Elisa Wiborg']","['[DEN] ', '[NOR] ']","['21-7', '21-10']",WS ,20180424,"Huelva, Spain"
+45,"['Miha Ivanic', 'Ilias Xanthou']","['[SLO] ', '[GRE] ']","['21-11', '21-10']",MS ,20180424,"Huelva, Spain"
+46,"['Alesia Zaitsava', 'Ayla Huser']","['[BLR] ', '[SUI] ']","['19-21', '21-19', '21-19']",WS ,20180424,"Huelva, Spain"
+47,"['Delphine Delrue', 'Lea Palermo', 'Lise Jaques', 'Flore Vandenhoucke']","['[FRA] ', '[FRA] ', '[BEL] ', '[BEL] ']","['21-14', '21-11']",WD ,20180424,"Huelva, Spain"
+48,"['Neslihan Yigit [8]', 'Fabienne Deprez']","['[TUR] ', '[GER] ']","['21-14', '21-15']",WS ,20180424,"Huelva, Spain"
+49,"['Rasmus Gemke [5]', 'Alexander Roovers']","['[DEN] ', '[GER] ']","['21-9', '21-15']",MS ,20180424,"Huelva, Spain"
+50,"['Debora Jille', 'Imke Van Der Aar', 'Isabel Herttrich [7]', 'Carla Nelte']","['[NED] ', '[NED] ', '[GER] ', '[GER] ']","['21-13', '21-15']",WD ,20180424,"Huelva, Spain"
+51,"['Thom Gicquel', 'Ronan Labar', 'Daniel Benz', 'Andreas Heinz']","['[FRA] ', '[FRA] ', '[GER] ', '[GER] ']","['21-19', '21-18']",MD ,20180424,"Huelva, Spain"
+52,"['Jan O Jorgensen', 'Michal Rogalski']","['[DEN] ', '[POL] ']","['21-9', '21-15']",MS ,20180424,"Huelva, Spain"
+53,"['Jelle Maas', 'Robin Tabeling', 'Alexander Dunn', 'Adam Hall']","['[NED] ', '[NED] ', '[SCO] ', '[SCO] ']","['21-16', '19-21', '29-27']",MD ,20180424,"Huelva, Spain"
+54,"['Mark Caljouw [6]', 'Sergey Sirant']","['[NED] ', '[RUS] ']","['21-19', '21-19']",MS ,20180424,"Huelva, Spain"
+55,"['Chloe Birch', 'Beatriz Corrales [5]']","['[ENG] ', '[ESP] ']","['21-16', '21-19']",WS ,20180424,"Huelva, Spain"
+56,"['Nhat Nguyen', 'Pablo Abian [7]']","['[IRL] ', '[ESP] ']","['21-9', '21-18']",MS ,20180424,"Huelva, Spain"
+57,"['Carolina Marin [1]', 'Marie Batomene']","['[ESP] ', '[FRA] ']","['21-15', '21-12']",WS ,20180424,"Huelva, Spain"
+58,"['Rajiv Ouseph [3]', 'Luís Enrique Peñalver']","['[ENG] ', '[ESP] ']","['21-19', '21-8']",MS ,20180424,"Huelva, Spain"
+59,"['Gabriela Stoeva [2]', 'Stefani Stoeva', 'Linda Efler', 'Olga Konon']","['[BUL] ', '[BUL] ', '[GER] ', '[GER] ']","['21-16', '21-15']",WD ,20180424,"Huelva, Spain"
+60,"['Anders Antonsen [2]', 'Toby Penty']","['[DEN] ', '[ENG] ']","['21-12', '15-21', '22-20']",MS ,20180424,"Huelva, Spain"
+61,"['Kirsty Gilmour [2]', 'Mette Poulsen']","['[SCO] ', '[DEN] ']","['21-18', '21-17']",WS ,20180424,"Huelva, Spain"
+62,"['Evgeniya Kosetskaya [4]', 'Maria Ulitina']","['[RUS] ', '[UKR] ']","['22-20', '21-14']",WS ,20180424,"Huelva, Spain"
+63,"['Chloe Birch [8]', 'Jessica Pugh', 'Busra Unlu', 'Ebru Yazgan']","['[ENG] ', '[ENG] ', '[TUR] ', '[TUR] ']","['21-9', '21-9']",WD ,20180424,"Huelva, Spain"
+64,"['Nhat Nguyen', 'Paul Reynolds', 'Kristjan Kaljurand', 'Raul Käsner']","['[IRL] ', '[IRL] ', '[EST] ', '[EST] ']","['20-22', '22-20', '21-12']",MD ,20180424,"Huelva, Spain"
+65,"['Natalia Koch Rohde [7]', 'Mariya Mitsova']","['[DEN] ', '[BUL] ']","['21-15', '21-17']",WS ,20180424,"Huelva, Spain"
+66,"['Jenny Nystrom', 'Sonja Pekkola', 'Sara Boyle', 'Rachael Darragh']","['[FIN] ', '[FIN] ', '[IRL] ', '[IRL] ']","['21-15', '15-21', '21-16']",WD ,20180424,"Huelva, Spain"
+67,"['Sara Penalver Pereira', 'Lianne Tan']","['[ESP] ', '[BEL] ']","['21-18', '21-16']",WS ,20180424,"Huelva, Spain"
+68,"['Maiken Fruergaard [3]', 'Sara Thygesen', 'Kristin Kuuba', 'Helina Rüütel']","['[DEN] ', '[DEN] ', '[EST] ', '[EST] ']","['21-17', '21-19']",WD ,20180424,"Huelva, Spain"
+69,"['Raul Must', 'Emre Lale']","['[EST] ', '[TUR] ']","['21-19', '21-16']",MS ,20180424,"Huelva, Spain"
+70,"['Lauren Smith [4]', 'Sarah Walker', 'Maryna Ilyinskaya', 'Yelyzaveta Zharka']","['[ENG] ', '[ENG] ', '[UKR] ', '[UKR] ']","['21-13', '21-16']",WD ,20180424,"Huelva, Spain"
+71,"['Mark Lamsfuss [8]', 'Marvin Emil Seidel', 'Javier Suarez', 'Alberto Zapico']","['[GER] ', '[GER] ', '[ESP] ', '[ESP] ']","['21-9', '21-11']",MD ,20180424,"Huelva, Spain"
+72,"['Johanna Goliszewski', 'Lara Kaepplein', 'Alzbeta Basova', 'Michaela Fuchsova']","['[GER] ', '[GER] ', '[CZE] ', '[CZE] ']","['21-11', '21-14']",WD ,20180424,"Huelva, Spain"
+73,"['Mathias Christiansen [6]', 'David Daugaard', 'Jacco Arends', 'Ruben Jille']","['[DEN] ', '[DEN] ', '[NED] ', '[NED] ']","['15-21', '21-15', '24-22']",MD ,20180424,"Huelva, Spain"
+74,"['Jones Ralfy Jansen [7]', 'Josche Zurwonne', 'Milan Dratva', 'Matej Hlinican']","['[GER] ', '[GER] ', '[SVK] ', '[SVK] ']","['21-10', '21-11']",MD ,20180424,"Huelva, Spain"
+75,"['Sabrina Jaquet', 'Soraya De Visch Eijbergen']","['[SUI] ', '[NED] ']","['12-21', '21-19', '21-16']",WS ,20180424,"Huelva, Spain"
+76,"['Artem Pochtarov', 'Eetu Heino']","['[UKR] ', '[FIN] ']","['21-17', '12-21', '21-12']",MS ,20180424,"Huelva, Spain"
+77,"['Evgenij Dremin', 'Denis Grachev', 'Eloi Adam', 'Samy Corvee']","['[RUS] ', '[RUS] ', '[FRA] ', '[FRA] ']","['21-23', '21-15', '22-20']",MD ,20180424,"Huelva, Spain"
+78,"['Misha Zilberman', 'Miha Ivanic']","['[ISR] ', '[SLO] ']","['21-10', '21-8']",MS ,20180424,"Huelva, Spain"
+79,"['Yvonne Li', 'Getter Saar']","['[GER] ', '[EST] ']","['21-9', '21-9']",WS ,20180424,"Huelva, Spain"
+80,"['Julie Finne-Ipsen', 'Rikke Søby', 'Vytaute Fomkinaite', 'Gerda Voitechovskaja']","['[DEN] ', '[DEN] ', '[LTU] ', '[LTU] ']","['21-7', '21-9']",WD ,20180424,"Huelva, Spain"
+81,"['Emilie Lefel [6]', 'Anne Tran', 'Elena Fernandez', 'Lorena Usle']","['[FRA] ', '[FRA] ', '[ESP] ', '[ESP] ']","['21-18', '21-7']",WD ,20180424,"Huelva, Spain"
+82,"['Bengisu Ercetin', 'Nazlıcan Inci', 'Kamilla Rytter Juhl [1]', 'Christinna Pedersen']","['[TUR] ', '[TUR] ', '[DEN] ', '[DEN] ']",[],WD ,20180424,"Huelva, Spain"
+83,"['Lucas Corvee [8]', 'Christian Kirchmayr']","['[FRA] ', '[SUI] ']","['21-16', '21-11']",MS ,20180424,"Huelva, Spain"
+84,"['Mads Conrad-Petersen [2]', 'Mads Pieler Kolding', 'Daniel Nikolov', 'Ivan Rusev']","['[DEN] ', '[DEN] ', '[BUL] ', '[BUL] ']","['21-13', '21-12']",MD ,20180424,"Huelva, Spain"
+85,"['Selena Piek [5]', 'Cheryl Seinen', 'Ieva Pope', 'Monika Radovska']","['[NED] ', '[NED] ', '[LAT] ', '[LAT] ']","['21-13', '21-10']",WD ,20180424,"Huelva, Spain"
+86,"['Peter Briggs', 'Tom Wolfenden', 'Giovanni Greco', 'Rosario Maddaloni']","['[ENG] ', '[ENG] ', '[ITA] ', '[ITA] ']","['21-13', '21-10']",MD ,20180424,"Huelva, Spain"
+87,"['Viktor Axelsen [1]', 'Adam Mendrek']","['[DEN] ', '[CZE] ']","['21-11', '21-8']",MS ,20180424,"Huelva, Spain"
+88,"['Mia Blichfeldt [3]', 'Natalya Voytsekh']","['[DEN] ', '[UKR] ']","['21-14', '21-9']",WS ,20180424,"Huelva, Spain"
+89,"['Airi Mikkela', 'Lia Salehar']","['[FIN] ', '[SLO] ']","['21-14', '21-11']",WS ,20180424,"Huelva, Spain"
+90,"['Vladimir Ivanov [4]', 'Ivan Sozonov', 'Dominik Stipsits', 'Roman Zirnwald']","['[RUS] ', '[RUS] ', '[AUT] ', '[AUT] ']","['21-14', '21-12']",MD ,20180424,"Huelva, Spain"
+91,"['Aliye Demirbag', 'Grammatoula Sotiriou']","['[TUR] ', '[GRE] ']","['21-19', '21-7']",WS ,20180424,"Huelva, Spain"
+92,"['Kristin Kuuba', 'Ieva Pope']","['[EST] ', '[LAT] ']","['21-7', '21-14']",WS ,20180424,"Huelva, Spain"
+93,"['Peyo Boichinov', 'Ivan Panev', 'Alexander Bass', 'Shai Geffen']","['[BUL] ', '[BUL] ', '[ISR] ', '[ISR] ']","['21-12', '21-17']",MD ,20180424,"Huelva, Spain"
+94,"['Ben Lane', 'Sean Vendy', 'Mathias Boe [1]', 'Carsten Mogensen']","['[ENG] ', '[ENG] ', '[DEN] ', '[DEN] ']",[],MD ,20180424,"Huelva, Spain"
+95,"['Vladimir Malkov', 'Gergely Krausz']","['[RUS] ', '[HUN] ']","['21-11', '21-8']",MS ,20180424,"Huelva, Spain"
+96,"['Silvia Garino', 'Lisa Iversen', 'Solvår Flåten Jørgensen', 'Natalie Syvertsen']","['[ITA] ', '[ITA] ', '[NOR] ', '[NOR] ']","['25-23', '21-11']",WD ,20180424,"Huelva, Spain"
+97,"['Ekaterina Bolotova', 'Alina Davletova', 'Iza Salehar', 'Lia Salehar']","['[RUS] ', '[RUS] ', '[SLO] ', '[SLO] ']","['21-18', '21-11']",WD ,20180424,"Huelva, Spain"
+98,"['Jacob Nilsson', 'Milan Dratva']","['[SWE] ', '[SVK] ']","['21-16', '21-10']",MS ,20180424,"Huelva, Spain"
+99,"['Marcus Ellis [5]', 'Chris Langridge', 'Lukas Osele', 'Kevin Strobl']","['[ENG] ', '[ENG] ', '[ITA] ', '[ITA] ']","['21-12', '21-17']",MD ,20180424,"Huelva, Spain"
+100,"['Emma Karlsson', 'Johanna Magnusson', 'Anastasiya Cherniavskaya', 'Alesia Zaitsava']","['[SWE] ', '[SWE] ', '[BLR] ', '[BLR] ']","['21-8', '21-10']",WD ,20180424,"Huelva, Spain"
+101,"['Konstantin Abramov', 'Alexandr Zinchenko', 'Pawel Pradzinski', 'Jan Rudzinski']","['[RUS] ', '[RUS] ', '[POL] ', '[POL] ']","['21-13', '21-18']",MD ,20180424,"Huelva, Spain"
+102,"['Brice Leverdez [4]', 'Collins Valentine Filimon']","['[FRA] ', '[ROU] ']","['17-21', '21-16', '21-15']",MS ,20180424,"Huelva, Spain"
+103,"['Nick Fransman', 'Marius Myhre']","['[NED] ', '[NOR] ']","['21-13', '21-9']",MS ,20180424,"Huelva, Spain"
+104,"['Milosz Bochat', 'Adam Cwalina', 'Magnus Christensen', 'Fredrik Kristensen']","['[POL] ', '[POL] ', '[NOR] ', '[NOR] ']","['21-12', '21-12']",MD ,20180424,"Huelva, Spain"
+105,"['Luise Heim', 'Rachael Darragh']","['[GER] ', '[IRL] ']","['21-9', '21-10']",WS ,20180424,"Huelva, Spain"
+106,"['Amanda Hogstrom', 'Clara Nistad', 'Nikoletta Bukoviczki', 'Daniella Gonda']","['[SWE] ', '[SWE] ', '[HUN] ', '[HUN] ']","['21-13', '21-9']",WD ,20180424,"Huelva, Spain"
+107,"['Line Højmark Kjaersfeldt [6]', 'Alesia Zaitsava']","['[DEN] ', '[BLR] ']","['21-12', '14-21', '21-12']",WS ,20180424,"Huelva, Spain"
+108,"['Gayle Mahulette', 'Johanna Magnusson']","['[NED] ', '[SWE] ']","['21-10', '21-17']",WS ,20180424,"Huelva, Spain"
+109,"['Kim Astrup [3]', 'Anders Skaarup Rasmussen', 'Matijs Dierickx', 'Freek Golinski']","['[DEN] ', '[DEN] ', '[BEL] ', '[BEL] ']","['21-14', '21-12']",MD ,20180424,"Huelva, Spain"
+110,"['Sam Parsons', 'Maxime Moreels']","['[ENG] ', '[BEL] ']",[],MS ,20180424,"Huelva, Spain"
+111,"['Mark Lamsfuss [5]', 'Isabel Herttrich', 'Niclas Nohr', 'Sara Thygesen']","['[GER] ', '[GER] ', '[DEN] ', '[DEN] ']","['21-9', '23-21']",XD ,20180424,"Huelva, Spain"
+112,"['Vladimir Ivanov [4]', 'Ivan Sozonov', 'Milosz Bochat', 'Adam Cwalina']","['[RUS] ', '[RUS] ', '[POL] ', '[POL] ']","['21-19', '21-10']",MD ,20180424,"Huelva, Spain"
+113,"['Brice Leverdez [4]', 'Raul Must']","['[FRA] ', '[EST] ']","['21-16', '21-16']",MS ,20180424,"Huelva, Spain"
+114,"['Jelle Maas', 'Robin Tabeling', 'Ben Lane', 'Sean Vendy']","['[NED] ', '[NED] ', '[ENG] ', '[ENG] ']","['24-22', '21-12']",MD ,20180424,"Huelva, Spain"
+115,"['Lauren Smith [4]', 'Sarah Walker', 'Emma Karlsson', 'Johanna Magnusson']","['[ENG] ', '[ENG] ', '[SWE] ', '[SWE] ']","['19-21', '21-14', '21-12']",WD ,20180424,"Huelva, Spain"
+116,"['Mathias Christiansen [2]', 'Christinna Pedersen', 'Rodion Alimov', 'Alina Davletova']","['[DEN] ', '[DEN] ', '[RUS] ', '[RUS] ']","['22-20', '18-21', '21-9']",XD ,20180424,"Huelva, Spain"
+117,"['Jan O Jorgensen', 'Mark Caljouw [6]']","['[DEN] ', '[NED] ']","['21-19', '21-18']",MS ,20180424,"Huelva, Spain"
+118,"['Carolina Marin [1]', 'Sabrina Jaquet']","['[ESP] ', '[SUI] ']","['21-14', '21-7']",WS ,20180424,"Huelva, Spain"
+119,"['Chris Adcock [1]', 'Gabrielle Adcock', 'Joachim Fischer Nielsen', 'Alexandra Bøje']","['[ENG] ', '[ENG] ', '[DEN] ', '[DEN] ']","['21-17', '21-15']",XD ,20180424,"Huelva, Spain"
+120,"['Viktor Axelsen [1]', 'Sam Parsons']","['[DEN] ', '[ENG] ']","['21-13', '21-9']",MS ,20180424,"Huelva, Spain"
+121,"['Ekaterina Bolotova', 'Alina Davletova', 'Bengisu Ercetin', 'Nazlıcan Inci']","['[RUS] ', '[RUS] ', '[TUR] ', '[TUR] ']","['21-16', '21-9']",WD ,20180424,"Huelva, Spain"
+122,"['Chloe Birch', 'Luise Heim']","['[ENG] ', '[GER] ']","['19-21', '21-15']",WS ,20180424,"Huelva, Spain"
+123,"['Jones Ralfy Jansen [7]', 'Josche Zurwonne', 'Evgenij Dremin', 'Denis Grachev']","['[GER] ', '[GER] ', '[RUS] ', '[RUS] ']","['17-21', '24-22', '22-20']",MD ,20180424,"Huelva, Spain"
+124,"['Emilie Lefel [6]', 'Anne Tran', 'Julie Finne-Ipsen', 'Rikke Søby']","['[FRA] ', '[FRA] ', '[DEN] ', '[DEN] ']","['21-15', '21-12']",WD ,20180424,"Huelva, Spain"
+125,"['Maiken Fruergaard [3]', 'Sara Thygesen', 'Delphine Delrue', 'Lea Palermo']","['[DEN] ', '[DEN] ', '[FRA] ', '[FRA] ']","['21-19', '21-10']",WD ,20180424,"Huelva, Spain"
+126,"['Mark Lamsfuss [8]', 'Marvin Emil Seidel', 'Thom Gicquel', 'Ronan Labar']","['[GER] ', '[GER] ', '[FRA] ', '[FRA] ']","['21-16', '21-8']",MD ,20180424,"Huelva, Spain"
+127,"['Evgeniya Kosetskaya [4]', 'Kristin Kuuba']","['[RUS] ', '[EST] ']","['21-13', '22-20']",WS ,20180424,"Huelva, Spain"
+128,"['Rasmus Gemke [5]', 'Vladimir Malkov']","['[DEN] ', '[RUS] ']","['21-13', '21-18']",MS ,20180424,"Huelva, Spain"
+129,"['Natalia Koch Rohde [7]', 'Sara Penalver Pereira']","['[DEN] ', '[ESP] ']","['21-11', '21-19']",WS ,20180424,"Huelva, Spain"
+130,"['Evgenij Dremin [6]', 'Evgenia Dimova', 'Bastian Kersaudy', 'Lea Palermo']","['[RUS] ', '[RUS] ', '[FRA] ', '[FRA] ']","['21-18', '21-15']",XD ,20180424,"Huelva, Spain"
+131,"['Marcus Ellis [3]', 'Lauren Smith', 'Richard Eidestedt', 'Clara Nistad']","['[ENG] ', '[ENG] ', '[SWE] ', '[SWE] ']","['21-11', '21-16']",XD ,20180424,"Huelva, Spain"
+132,"['Mathias Christiansen [6]', 'David Daugaard', 'Nhat Nguyen', 'Paul Reynolds']","['[DEN] ', '[DEN] ', '[IRL] ', '[IRL] ']","['21-12', '21-7']",MD ,20180424,"Huelva, Spain"
+133,"['Selena Piek [5]', 'Cheryl Seinen', 'Johanna Goliszewski', 'Lara Kaepplein']","['[NED] ', '[NED] ', '[GER] ', '[GER] ']","['21-16', '22-20']",WD ,20180424,"Huelva, Spain"
+134,"['Yvonne Li', 'Neslihan Yigit [8]']","['[GER] ', '[TUR] ']","['21-6', '21-7']",WS ,20180424,"Huelva, Spain"
+135,"['Rajiv Ouseph [3]', 'Artem Pochtarov']","['[ENG] ', '[UKR] ']",[],MS ,20180424,"Huelva, Spain"
+136,"['Line Højmark Kjaersfeldt [6]', 'Aliye Demirbag']","['[DEN] ', '[TUR] ']","['21-14', '21-16']",WS ,20180424,"Huelva, Spain"
+137,"['Gabriela Stoeva [2]', 'Stefani Stoeva', 'Amanda Hogstrom', 'Clara Nistad']","['[BUL] ', '[BUL] ', '[SWE] ', '[SWE] ']","['21-13', '21-12']",WD ,20180424,"Huelva, Spain"
+138,"['Chloe Birch [8]', 'Jessica Pugh', 'Silvia Garino', 'Lisa Iversen']","['[ENG] ', '[ENG] ', '[ITA] ', '[ITA] ']","['21-6', '21-10']",WD ,20180424,"Huelva, Spain"
+139,"['Nick Fransman', 'Nhat Nguyen']","['[NED] ', '[IRL] ']","['14-21', '21-17', '21-19']",MS ,20180424,"Huelva, Spain"
+140,"['Kim Astrup [3]', 'Anders Skaarup Rasmussen', 'Peyo Boichinov', 'Ivan Panev']","['[DEN] ', '[DEN] ', '[BUL] ', '[BUL] ']","['21-11', '21-11']",MD ,20180424,"Huelva, Spain"
+141,"['Ronan Labar [8]', 'Audrey Fontaine', 'Kevin Strobl', 'Silvia Garino']","['[FRA] ', '[FRA] ', '[ITA] ', '[ITA] ']","['21-16', '21-9']",XD ,20180424,"Huelva, Spain"
+142,"['Marvin Emil Seidel [7]', 'Linda Efler', 'Anton Kaisti', 'Jenny Nystrom']","['[GER] ', '[GER] ', '[FIN] ', '[FIN] ']","['21-12', '18-21', '21-19']",XD ,20180424,"Huelva, Spain"
+143,"['Anders Antonsen [2]', 'Misha Zilberman']","['[DEN] ', '[ISR] ']","['21-15', '19-21', '21-10']",MS ,20180424,"Huelva, Spain"
+144,"['Lucas Corvee [8]', 'Jacob Nilsson']","['[FRA] ', '[SWE] ']","['19-21', '21-9', '21-14']",MS ,20180424,"Huelva, Spain"
+145,"['Mia Blichfeldt [3]', 'Airi Mikkela']","['[DEN] ', '[FIN] ']","['21-15', '21-13']",WS ,20180424,"Huelva, Spain"
+146,"['Marcus Ellis [5]', 'Chris Langridge', 'Konstantin Abramov', 'Alexandr Zinchenko']","['[ENG] ', '[ENG] ', '[RUS] ', '[RUS] ']","['21-12', '21-17']",MD ,20180424,"Huelva, Spain"
+147,"['Debora Jille', 'Imke Van Der Aar', 'Jenny Nystrom', 'Sonja Pekkola']","['[NED] ', '[NED] ', '[FIN] ', '[FIN] ']","['21-10', '21-12']",WD ,20180424,"Huelva, Spain"
+148,"['Jacco Arends [4]', 'Selena Piek', 'Milan Dratva', 'Martina Repiska']","['[NED] ', '[NED] ', '[SVK] ', '[SVK] ']","['21-3', '21-9']",XD ,20180424,"Huelva, Spain"
+149,"['Mads Conrad-Petersen [2]', 'Mads Pieler Kolding', 'Peter Briggs', 'Tom Wolfenden']","['[DEN] ', '[DEN] ', '[ENG] ', '[ENG] ']","['22-20', '21-13']",MD ,20180424,"Huelva, Spain"
+150,"['Kirsty Gilmour [2]', 'Gayle Mahulette']","['[SCO] ', '[NED] ']","['21-11', '21-13']",WS ,20180424,"Huelva, Spain"
+151,"['Kim Astrup [3]', 'Anders Skaarup Rasmussen', 'Marcus Ellis [5]', 'Chris Langridge']","['[DEN] ', '[DEN] ', '[ENG] ', '[ENG] ']","['21-8', '20-22', '21-16']",MD ,20180424,"Huelva, Spain"
+152,"['Viktor Axelsen [1]', 'Rasmus Gemke [5]']","['[DEN] ', '[DEN] ']","['21-11', '21-16']",MS ,20180424,"Huelva, Spain"
+153,"['Rajiv Ouseph [3]', 'Lucas Corvee [8]']","['[ENG] ', '[FRA] ']","['16-21', '21-18', '21-11']",MS ,20180424,"Huelva, Spain"
+154,"['Line Højmark Kjaersfeldt [6]', 'Kirsty Gilmour [2]']","['[DEN] ', '[SCO] ']","['21-14', '21-16']",WS ,20180424,"Huelva, Spain"
+155,"['Carolina Marin [1]', 'Natalia Koch Rohde [7]']","['[ESP] ', '[DEN] ']","['21-17', '21-10']",WS ,20180424,"Huelva, Spain"
+156,"['Mark Lamsfuss [5]', 'Isabel Herttrich', 'Jacco Arends [4]', 'Selena Piek']","['[GER] ', '[GER] ', '[NED] ', '[NED] ']","['19-21', '21-10', '21-16']",XD ,20180424,"Huelva, Spain"
+157,"['Brice Leverdez [4]', 'Nick Fransman']","['[FRA] ', '[NED] ']","['22-24', '21-15', '21-15']",MS ,20180424,"Huelva, Spain"
+158,"['Jan O Jorgensen', 'Anders Antonsen [2]']","['[DEN] ', '[DEN] ']",[],MS ,20180424,"Huelva, Spain"
+159,"['Mathias Christiansen [2]', 'Christinna Pedersen', 'Ronan Labar [8]', 'Audrey Fontaine']","['[DEN] ', '[DEN] ', '[FRA] ', '[FRA] ']","['21-16', '21-18']",XD ,20180424,"Huelva, Spain"
+160,"['Selena Piek [5]', 'Cheryl Seinen', 'Lauren Smith [4]', 'Sarah Walker']","['[NED] ', '[NED] ', '[ENG] ', '[ENG] ']","['21-10', '21-10']",WD ,20180424,"Huelva, Spain"
+161,"['Mia Blichfeldt [3]', 'Yvonne Li']","['[DEN] ', '[GER] ']","['28-26', '21-12']",WS ,20180424,"Huelva, Spain"
+162,"['Emilie Lefel [6]', 'Anne Tran', 'Ekaterina Bolotova', 'Alina Davletova']","['[FRA] ', '[FRA] ', '[RUS] ', '[RUS] ']","['21-18', '21-11']",WD ,20180424,"Huelva, Spain"
+163,"['Chris Adcock [1]', 'Gabrielle Adcock', 'Evgenij Dremin [6]', 'Evgenia Dimova']","['[ENG] ', '[ENG] ', '[RUS] ', '[RUS] ']","['21-14', '21-18']",XD ,20180424,"Huelva, Spain"
+164,"['Maiken Fruergaard [3]', 'Sara Thygesen', 'Chloe Birch [8]', 'Jessica Pugh']","['[DEN] ', '[DEN] ', '[ENG] ', '[ENG] ']","['21-11', '21-9']",WD ,20180424,"Huelva, Spain"
+165,"['Mads Conrad-Petersen [2]', 'Mads Pieler Kolding', 'Mark Lamsfuss [8]', 'Marvin Emil Seidel']","['[DEN] ', '[DEN] ', '[GER] ', '[GER] ']","['13-21', '21-15', '21-18']",MD ,20180424,"Huelva, Spain"
+166,"['Evgeniya Kosetskaya [4]', 'Chloe Birch']","['[RUS] ', '[ENG] ']","['21-14', '21-12']",WS ,20180424,"Huelva, Spain"
+167,"['Jelle Maas', 'Robin Tabeling', 'Jones Ralfy Jansen [7]', 'Josche Zurwonne']","['[NED] ', '[NED] ', '[GER] ', '[GER] ']","['21-19', '21-13']",MD ,20180424,"Huelva, Spain"
+168,"['Gabriela Stoeva [2]', 'Stefani Stoeva', 'Debora Jille', 'Imke Van Der Aar']","['[BUL] ', '[BUL] ', '[NED] ', '[NED] ']","['21-8', '21-6']",WD ,20180424,"Huelva, Spain"
+169,"['Vladimir Ivanov [4]', 'Ivan Sozonov', 'Mathias Christiansen [6]', 'David Daugaard']","['[RUS] ', '[RUS] ', '[DEN] ', '[DEN] ']","['21-15', '21-19']",MD ,20180424,"Huelva, Spain"
+170,"['Marcus Ellis [3]', 'Lauren Smith', 'Marvin Emil Seidel [7]', 'Linda Efler']","['[ENG] ', '[ENG] ', '[GER] ', '[GER] ']","['24-22', '21-13']",XD ,20180424,"Huelva, Spain"
+171,"['Rajiv Ouseph [3]', 'Jan O Jorgensen']","['[ENG] ', '[DEN] ']","['21-17', '18-21', '21-15']",MS ,20180424,"Huelva, Spain"
+172,"['Viktor Axelsen [1]', 'Brice Leverdez [4]']","['[DEN] ', '[FRA] ']","['21-7', '21-9']",MS ,20180424,"Huelva, Spain"
+173,"['Carolina Marin [1]', 'Mia Blichfeldt [3]']","['[ESP] ', '[DEN] ']","['21-17', '21-16']",WS ,20180424,"Huelva, Spain"
+174,"['Mads Conrad-Petersen [2]', 'Mads Pieler Kolding', 'Vladimir Ivanov [4]', 'Ivan Sozonov']","['[DEN] ', '[DEN] ', '[RUS] ', '[RUS] ']","['21-11', '19-21', '21-19']",MD ,20180424,"Huelva, Spain"
+175,"['Mathias Christiansen [2]', 'Christinna Pedersen', 'Marcus Ellis [3]', 'Lauren Smith']","['[DEN] ', '[DEN] ', '[ENG] ', '[ENG] ']","['21-16', '19-21', '21-12']",XD ,20180424,"Huelva, Spain"
+176,"['Gabriela Stoeva [2]', 'Stefani Stoeva', 'Maiken Fruergaard [3]', 'Sara Thygesen']","['[BUL] ', '[BUL] ', '[DEN] ', '[DEN] ']","['21-10', '21-18']",WD ,20180424,"Huelva, Spain"
+177,"['Evgeniya Kosetskaya [4]', 'Line Højmark Kjaersfeldt [6]']","['[RUS] ', '[DEN] ']","['21-10', '21-14']",WS ,20180424,"Huelva, Spain"
+178,"['Emilie Lefel [6]', 'Anne Tran', 'Selena Piek [5]', 'Cheryl Seinen']","['[FRA] ', '[FRA] ', '[NED] ', '[NED] ']","['17-21', '21-18', '21-19']",WD ,20180424,"Huelva, Spain"
+179,"['Kim Astrup [3]', 'Anders Skaarup Rasmussen', 'Jelle Maas', 'Robin Tabeling']","['[DEN] ', '[DEN] ', '[NED] ', '[NED] ']","['21-15', '21-18']",MD ,20180424,"Huelva, Spain"
+180,"['Chris Adcock [1]', 'Gabrielle Adcock', 'Mark Lamsfuss [5]', 'Isabel Herttrich']","['[ENG] ', '[ENG] ', '[GER] ', '[GER] ']","['21-17', '15-21', '25-23']",XD ,20180424,"Huelva, Spain"
+181,"['Gabriela Stoeva [2]', 'Stefani Stoeva', 'Emilie Lefel [6]', 'Anne Tran']","['[BUL] ', '[BUL] ', '[FRA] ', '[FRA] ']","['21-12', '21-10']",WD ,20180424,"Huelva, Spain"
+182,"['Carolina Marin [1]', 'Evgeniya Kosetskaya [4]']","['[ESP] ', '[RUS] ']","['21-15', '21-7']",WS ,20180424,"Huelva, Spain"
+183,"['Viktor Axelsen [1]', 'Rajiv Ouseph [3]']","['[DEN] ', '[ENG] ']","['21-8', '21-7']",MS ,20180424,"Huelva, Spain"
+184,"['Kim Astrup [3]', 'Anders Skaarup Rasmussen', 'Mads Conrad-Petersen [2]', 'Mads Pieler Kolding']","['[DEN] ', '[DEN] ', '[DEN] ', '[DEN] ']",['21-15'],MD ,20180424,"Huelva, Spain"
+185,"['Chris Adcock [1]', 'Gabrielle Adcock', 'Mathias Christiansen [2]', 'Christinna Pedersen']","['[ENG] ', '[ENG] ', '[DEN] ', '[DEN] ']","['21-18', '17-21', '21-18']",XD ,20180424,"Huelva, Spain"

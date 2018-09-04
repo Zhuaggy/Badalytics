@@ -1,240 +1,240 @@
-,PLAYERS,COUNTRIES,SCORES,EVENT,match_week
-0,"['Lu Chia Pin', 'Yang Ching Tun', 'Bjarne Geiss', 'Eva Janssens']","['[TPE] ', '[TPE] ', '[GER] ', '[GER] ']","['18-21', '21-16', '21-14']",XD - Qualification,20170228
-1,"['Oliver Schaller', 'Celine Burkart', 'Johannes Pistorius', 'Barbara Bellenberg']","['[SUI] ', '[SUI] ', '[GER] ', '[GER] ']","['21-12', '13-21', '23-21']",XD - Qualification,20170228
-2,"['Pawel Pietryja [3]', 'Aneta Wojtkowska', 'Daniel Benz', 'Theresa Wurm']","['[POL] ', '[POL] ', '[GER] ', '[GER] ']","['21-16', '21-14']",XD - Qualification,20170228
-3,"['Anton Kaisti', 'Jenny Nystrom', 'Ruben Jille', 'Iris Tabeling']","['[FIN] ', '[FIN] ', '[NED] ', '[NED] ']","['20-22', '21-12', '21-16']",XD - Qualification,20170228
-4,"['Raphael Beck', 'Carla Nelte', 'Jelle Maas [4]', 'Imke Van Der Aar']","['[GER] ', '[GER] ', '[NED] ', '[NED] ']","['21-13', '20-22', '21-15']",XD - Qualification,20170228
-5,"['Marcus Ellis', 'Lauren Smith', 'Alex Vlaar', 'Sannatasah Saniru']","['[ENG] ', '[ENG] ', '[BUL] ', '[MAS] ']","['21-11', '21-10']",XD - Qualification,20170228
-6,"['Jones Ralfy Jansen', 'Franziska Volkmann', 'Alexandr Zinchenko', 'Olga Morozova']","['[GER] ', '[GER] ', '[RUS] ', '[RUS] ']","['17-21', '21-14', '21-11']",XD - Qualification,20170228
-7,"['Priskila Siahaya', 'Julie Dawall Jakobsen']","['[INA] ', '[DEN] ']","['21-14', '21-17']",WS - Qualification,20170228
-8,"['Vasily Kuznetsov', 'Lea-Lyn Stremlau', 'Daniel Hess', 'Cisita Joity Jansen']","['[RUS] ', '[GER] ', '[GER] ', '[GER] ']","['21-18', '20-22', '21-16']",XD - Qualification,20170228
-9,"['Lianne Tan', 'Sonja Pekkola']","['[BEL] ', '[FIN] ']","['21-14', '21-18']",WS - Qualification,20170228
-10,"['Shuo Yun Sung [4]', 'Nadia Fankhauser']","['[TPE] ', '[SUI] ']","['21-19', '21-15']",WS - Qualification,20170228
-11,"['Chloe Birch', 'Julie Finne-Ipsen [1]']","['[ENG] ', '[DEN] ']","['21-18', '15-21', '21-17']",WS - Qualification,20170228
-12,"['Yvonne Li', 'Natalya Voytsekh']","['[GER] ', '[UKR] ']","['21-14', '19-21', '21-19']",WS - Qualification,20170228
-13,"['Fabienne Deprez [3]', 'Gayle Mahulette']","['[GER] ', '[NED] ']","['23-21', '15-21', '21-18']",WS - Qualification,20170228
-14,"['Victoria Slobodyanyuk', 'Fontaine Mica Chapman']","['[RUS] ', '[ENG] ']","['12-21', '21-18', '21-18']",WS - Qualification,20170228
-15,"['Sofie Holmboe Dahl [2]', 'Luise Heim']","['[DEN] ', '[GER] ']","['18-21', '21-12', '21-13']",WS - Qualification,20170228
-16,"['Mathias Bay-Smidt', 'Frederik Søgaard', 'Peter Briggs [3]', 'Tom Wolfenden']","['[DEN] ', '[DEN] ', '[ENG] ', '[ENG] ']","['21-16', '21-14']",MD - Qualification,20170228
-17,"['Jacco Arends', 'Ruben Jille', 'Michael Fuchs', 'Oliver Schaller']","['[NED] ', '[NED] ', '[GER] ', '[SUI] ']","['21-16', '21-14']",MD - Qualification,20170228
-18,"['Jurgen Koch', 'Christian Lind Thomsen', 'Alexander Bond', 'Nikolaj Overgaard']","['[AUT] ', '[DEN] ', '[DEN] ', '[DEN] ']","['21-19', '15-21', '21-16']",MD - Qualification,20170228
-19,"['Adam Cwalina', 'Pawel Pietryja', 'Bjarne Geiss', 'Johannes Pistorius']","['[POL] ', '[POL] ', '[GER] ', '[GER] ']","['21-14', '21-15']",MD - Qualification,20170228
-20,"['Linda Efler', 'Eva Janssens', 'Kilasu Ostermeyer', 'Priskila Siahaya']","['[GER] ', '[GER] ', '[GER] ', '[INA] ']","['21-16', '21-17']",WD - Qualification,20170228
-21,"['Jenny Nystrom', 'Sonja Pekkola', 'Theresea Isenberg', 'Brid Stepper']","['[FIN] ', '[FIN] ', '[GER] ', '[GER] ']","['21-11', '21-12']",WD - Qualification,20170228
-22,"['Zvonimir Durkinjak', 'Zvonimir Hoelbling', 'Daniel Hess', 'Jan Colin Völker']","['[CRO] ', '[CRO] ', '[GER] ', '[GER] ']","['21-18', '21-18']",MD - Qualification,20170228
-23,"['Ben Lane [4]', 'Sean Vendy', 'Daniel Benz', 'Andreas Heinz']","['[ENG] ', '[ENG] ', '[GER] ', '[GER] ']","['21-13', '21-19']",MD - Qualification,20170228
-24,"['Anika Dörr', 'Jennifer Karnott', 'Birgit Overzier', 'Karin Schnaase']","['[GER] ', '[GER] ', '[GER] ', '[GER] ']","['21-16', '21-17']",WD - Qualification,20170228
-25,"['Mohd Razif Abdul Latif', 'Muhammad Hafiz Hashim', 'Vanmael Heriau', 'Florent Riancho']","['[MAS] ', '[MAS] ', '[FRA] ', '[FRA] ']","['21-12', '21-14']",MD - Qualification,20170228
-26,"['Ching Hui Chang', 'Yang Ching Tun', 'Yvonne Li', 'Judith Petrikowski']","['[TPE] ', '[TPE] ', '[GER] ', '[GER] ']","['21-17', '21-9']",WD - Qualification,20170228
-27,"['Nikita Khakimov', 'Andrey Parakhodin', 'Ko-Chi Chang', 'Lin Yu Hsien']","['[RUS] ', '[RUS] ', '[TPE] ', '[TPE] ']","['21-19', '21-16']",MD - Qualification,20170228
-28,"['Samuel Hsiao', 'Jiann Shiarng Chiang']","['[GER] ', '[MAS] ']","['23-25', '21-10', '21-15']",MS - Qualification,20170228
-29,"['Harshit Aggarwal', 'Alex Vlaar']","['[IND] ', '[BUL] ']","['22-20', '21-14']",MS - Qualification,20170228
-30,"['Philip Discher', 'David Peng']","['[GER] ', '[GER] ']","['21-15', '16-21', '27-25']",MS - Qualification,20170228
-31,"['Alexander Roovers', 'Valeriy Atrashchenkov']","['[GER] ', '[UKR] ']","['12-21', '22-20', '21-17']",MS - Qualification,20170228
-32,"['Wolfgang Gnedt', 'Nathan Vervaeke']","['[AUT] ', '[BEL] ']","['18-21', '21-7', '21-19']",MS - Qualification,20170228
-33,"['Raphael Beck', 'Carla Nelte', 'Jones Ralfy Jansen', 'Franziska Volkmann']","['[GER] ', '[GER] ', '[GER] ', '[GER] ']","['21-23', '21-18', '21-17']",XD - Qualification,20170228
-34,"['Max Weisskirchen', 'Rüdiger Gnedt']","['[GER] ', '[AUT] ']","['21-5', '21-16']",MS - Qualification,20170228
-35,"['Priskila Siahaya', 'Fabienne Deprez [3]']","['[INA] ', '[GER] ']","['21-17', '21-14']",WS - Qualification,20170228
-36,"['Oliver Schaller', 'Celine Burkart', 'Vasily Kuznetsov', 'Lea-Lyn Stremlau']","['[SUI] ', '[SUI] ', '[RUS] ', '[GER] ']","['21-11', '21-9']",XD - Qualification,20170228
-37,"['Marcus Ellis', 'Lauren Smith', 'Lu Chia Pin', 'Yang Ching Tun']","['[ENG] ', '[ENG] ', '[TPE] ', '[TPE] ']","['21-16', '22-20']",XD - Qualification,20170228
-38,"['Anton Kaisti', 'Jenny Nystrom', 'Pawel Pietryja [3]', 'Aneta Wojtkowska']","['[FIN] ', '[FIN] ', '[POL] ', '[POL] ']","['21-18', '21-11']",XD - Qualification,20170228
-39,"['Yvonne Li', 'Chloe Birch']","['[GER] ', '[ENG] ']","['16-21', '21-13', '21-16']",WS - Qualification,20170228
-40,"['Shuo Yun Sung [4]', 'Lianne Tan']","['[TPE] ', '[BEL] ']","['21-15', '22-20']",WS - Qualification,20170228
-41,"['Sofie Holmboe Dahl [2]', 'Victoria Slobodyanyuk']","['[DEN] ', '[RUS] ']","['19-21', '21-9', '21-9']",WS - Qualification,20170228
-42,"['Mathias Bay-Smidt', 'Frederik Søgaard', 'Nikita Khakimov', 'Andrey Parakhodin']","['[DEN] ', '[DEN] ', '[RUS] ', '[RUS] ']","['21-19', '21-16']",MD - Qualification,20170228
-43,"['Simon Wang', 'Birger Abts']","['[GER] ', '[BEL] ']","['21-19', '21-10']",MS - Qualification,20170228
-44,"['Mateusz Dubowski [4]', 'Collins Valentine Filimon']","['[POL] ', '[ROU] ']","['21-3', '21-18']",MS - Qualification,20170228
-45,"['Adam Cwalina', 'Pawel Pietryja', 'Jurgen Koch', 'Christian Lind Thomsen']","['[POL] ', '[POL] ', '[AUT] ', '[DEN] ']",[],MD - Qualification,20170228
-46,"['Mohd Razif Abdul Latif', 'Muhammad Hafiz Hashim', 'Ben Lane [4]', 'Sean Vendy']","['[MAS] ', '[MAS] ', '[ENG] ', '[ENG] ']","['21-18', '25-23']",MD - Qualification,20170228
-47,"['Jacco Arends', 'Ruben Jille', 'Zvonimir Durkinjak', 'Zvonimir Hoelbling']","['[NED] ', '[NED] ', '[CRO] ', '[CRO] ']","['21-13', '14-21', '23-21']",MD - Qualification,20170228
-48,"['Linda Efler', 'Eva Janssens', 'Arisa Higashino [1]', 'Ayane Kurihara']","['[GER] ', '[GER] ', '[JPN] ', '[JPN] ']",[],WD - Qualification,20170228
-49,"['Anika Dörr', 'Jennifer Karnott', 'Hsin Tien Chang [2]', 'Shuo Yun Sung']","['[GER] ', '[GER] ', '[TPE] ', '[TPE] ']",[],WD - Qualification,20170228
-50,"['Ching Hui Chang', 'Yang Ching Tun', 'Barbara Bellenberg', 'Franziska Volkmann']","['[TPE] ', '[TPE] ', '[GER] ', '[GER] ']","['21-17', '21-10']",WD - Qualification,20170228
-51,"['Jenny Nystrom', 'Sonja Pekkola', 'Annika Horbach', 'Theresa Wurm']","['[FIN] ', '[FIN] ', '[GER] ', '[GER] ']",[],WD - Qualification,20170228
-52,"['Emil Holst', 'Artem Pochtarov']","['[DEN] ', '[UKR] ']","['21-11', '21-6']",MS,20170228
-53,"['Kanta Tsuneyama', 'Tian Houwei [4]']","['[JPN] ', '[CHN] ']","['21-15', '21-15']",MS,20170228
-54,"['Erik Meijs', 'Michal Rogalski']","['[NED] ', '[POL] ']","['18-21', '21-14', '21-7']",MS,20170228
-55,"['Subhankar Dey', 'Zhao Junpeng']","['[IND] ', '[CHN] ']","['16-21', '21-17', '21-19']",MS,20170228
-56,"['Takuma Ueda', 'Hsu Jen Hao [15]']","['[JPN] ', '[TPE] ']","['21-13', '21-17']",MS,20170228
-57,"['Hans-Kristian Solberg Vittinghus [9]', 'Toby Penty']","['[DEN] ', '[ENG] ']","['17-21', '23-21', '21-16']",MS,20170228
-58,"['Chou Tien Chen [6]', 'Harsheel Dani']","['[TPE] ', '[IND] ']","['21-13', '21-12']",MS,20170228
-59,"['Henri Hurskainen', 'Dmytro Zavadsky']","['[SWE] ', '[UKR] ']","['21-13', '16-21', '21-17']",MS,20170228
-60,"['Wong Wing Ki Vincent [11]', 'Eetu Heino']","['[HKG] ', '[FIN] ']","['21-19', '21-9']",MS,20170228
-61,"['Rajiv Ouseph [10]', 'Yu Igarashi']","['[ENG] ', '[JPN] ']","['20-22', '21-17', '28-26']",MS,20170228
-62,"['Brice Leverdez', 'Milan Ludik']","['[FRA] ', '[CZE] ']","['21-18', '21-13']",MS,20170228
-63,"['Raul Must', 'Samuel Hsiao']","['[EST] ', '[GER] ']","['21-17', '21-16']",MS,20170228
-64,"['Fabian Roth', 'Nick Fransman']","['[GER] ', '[NED] ']","['21-13', '21-12']",MS,20170228
-65,"['Ng Ka Long Angus [5]', 'Max Weisskirchen']","['[HKG] ', '[GER] ']","['21-10', '21-9']",MS,20170228
-66,"['Anders Antonsen [16]', 'Hashiru Shimono']","['[DEN] ', '[JPN] ']","['21-13', '14-21', '21-14']",MS,20170228
-67,"['Kim Bruun', 'Philip Discher']","['[DEN] ', '[GER] ']","['21-14', '21-12']",MS,20170228
-68,"['Tzu Wei Wang [14]', 'Joshua Magee']","['[TPE] ', '[IRL] ']","['21-9', '21-9']",MS,20170228
-69,"['Marc Zwiebler [7]', 'Kieran Merrilees']","['[GER] ', '[SCO] ']","['21-11', '21-23', '21-17']",MS,20170228
-70,"['Misha Zilberman', 'Rahul Yadav Chittaboina']","['[ISR] ', '[IND] ']","['21-18', '21-18']",MS,20170228
-71,"['Mateusz Dubowski', 'Anton Kaisti']","['[POL] ', '[FIN] ']","['21-17', '21-13']",MS,20170228
-72,"['Lin Yu Hsien', 'Rasmus Gemke']","['[TPE] ', '[DEN] ']","['22-20', '21-15']",MS,20170228
-73,"['Kalle Koljonen', 'Kai Schaefer']","['[FIN] ', '[GER] ']","['21-17', '8-21', '21-15']",MS,20170228
-74,"['Lin Dan [3]', 'Siril Verma']","['[CHN] ', '[IND] ']","['21-13', '21-10']",MS,20170228
-75,"['Simon Wang', 'Alexander Roovers']","['[GER] ', '[GER] ']","['25-27', '21-16', '21-17']",MS,20170228
-76,"['Christian Lind Thomsen', 'Wei Nan [13]']","['[DEN] ', '[HKG] ']","['21-17', '16-21', '20-15']",MS,20170228
-77,"['Zvonimir Durkinjak', 'Kazumasa Sakai']","['[CRO] ', '[JPN] ']","['21-17', '21-11']",MS,20170228
-78,"['Harshit Aggarwal', 'Bjorn Seguin']","['[IND] ', '[USA] ']","['18-21', '21-8', '21-16']",MS,20170228
-79,"['Chen Long [2]', 'Kenta Nishimoto']","['[CHN] ', '[JPN] ']","['21-10', '21-9']",MS,20170228
-80,"['Yusuke Onodera', 'Mark Caljouw']","['[JPN] ', '[NED] ']","['21-18', '19-21', '21-16']",MS,20170228
-81,"['Hu Yun [8]', 'Lars Schaenzler']","['[HKG] ', '[GER] ']","['21-12', '19-21', '21-14']",MS,20170228
-82,"['Sam Parsons', 'Wolfgang Gnedt']","['[ENG] ', '[AUT] ']","['21-15', '17-21', '21-16']",MS,20170228
-83,"['Kidambi Srikanth [12]', 'Alen Roj']","['[IND] ', '[SLO] ']","['21-4', '21-11']",MS,20170228
-84,"['Lu Kai [1]', 'Huang Yaqiong', 'Nico Ruponen', 'Amanda Hogstrom']","['[CHN] ', '[CHN] ', '[SWE] ', '[SWE] ']",[],XD,20170228
-85,"['Xu Chen', 'Du Yue', 'Marcus Ellis', 'Lauren Smith']","['[CHN] ', '[CHN] ', '[ENG] ', '[ENG] ']","['14-21', '21-18', '23-21']",XD,20170228
-86,"['Kenta Kazuno [6]', 'Ayane Kurihara', 'Yang Lee', 'Hsu Ya Ching']","['[JPN] ', '[JPN] ', '[TPE] ', '[TPE] ']","['21-12', '21-10']",XD,20170228
-87,"['Lu Ching Yao', 'Chiang Kai Hsin', 'Soren Gravholt', 'Maiken Fruergaard']","['[TPE] ', '[TPE] ', '[DEN] ', '[DEN] ']","['21-19', '22-20']",XD,20170228
-88,"['Yvonne Li', 'Olga Konon']","['[GER] ', '[GER] ']","['19-21', '23-21', '21-18']",WS,20170228
-89,"['Nipitphon Phuangphuapet', 'Jongkolphan Kititharakul', 'Ben Lane', 'Jessica Pugh']","['[THA] ', '[THA] ', '[ENG] ', '[ENG] ']","['19-21', '21-19', '21-16']",XD,20170228
-90,"['Ko-Chi Chang', 'Hsin Tien Chang', 'Oliver Schaller', 'Celine Burkart']","['[TPE] ', '[TPE] ', '[SUI] ', '[SUI] ']","['21-11', '21-18']",XD,20170228
-91,"['Priskila Siahaya', 'Tanvi Lad']","['[INA] ', '[IND] ']","['21-14', '21-12']",WS,20170228
-92,"['Raphael Beck', 'Carla Nelte', 'Lee Chun Hei Reginald', 'Chau Hoi Wah']","['[GER] ', '[GER] ', '[HKG] ', '[HKG] ']","['21-12', '11-21', '21-19']",XD,20170228
-93,"['Bodin Isara [5]', 'Savitree Amitrapai', 'Robert Mateusiak', 'Nadiezda Zieba']","['[THA] ', '[THA] ', '[POL] ', '[POL] ']","['21-11', '21-10']",XD,20170228
-94,"['Hafiz Faizal', 'Shela Devi Aulia', 'Mathias Christiansen', 'Sara Thygesen']","['[INA] ', '[INA] ', '[DEN] ', '[DEN] ']","['21-15', '21-18']",XD,20170228
-95,"['Chris Adcock [3]', 'Gabrielle Adcock', 'Lin Chia Yu', 'Wu Ti Jung']","['[ENG] ', '[ENG] ', '[TPE] ', '[TPE] ']","['17-21', '21-8', '21-16']",XD,20170228
-96,"['Yong Kai Terry Hee', 'Wei Han Tan', 'Robin Tabeling', 'Cheryl Seinen']","['[SGP] ', '[SGP] ', '[NED] ', '[NED] ']","['21-10', '19-21', '21-17']",XD,20170228
-97,"['Zhang Nan [8]', 'Li Yinhui', 'Sam Magee', 'Chloe Magee']","['[CHN] ', '[CHN] ', '[IRL] ', '[IRL] ']","['21-17', '19-21', '21-14']",XD,20170228
-98,"['Mark Lamsfuss', 'Isabel Herttrich', 'Yugo Kobayashi', 'Koharu Yonemoto']","['[GER] ', '[GER] ', '[JPN] ', '[JPN] ']","['21-14', '21-12']",XD,20170228
-99,"['Chi-Lin Wang', 'Chia Hsin Lee', 'Yuta Watanabe', 'Arisa Higashino']","['[TPE] ', '[TPE] ', '[JPN] ', '[JPN] ']","['21-17', '21-19']",XD,20170228
-100,"['Greysia Polii [7]', 'Rizki Amelia Pradipta', 'Lisa Kaminski', 'Hannah Pohl']","['[INA] ', '[INA] ', '[GER] ', '[GER] ']","['21-3', '21-8']",WD,20170228
-101,"['Kian Meng Tan [4]', 'Pei Jing Lai', 'Michael Fuchs', 'Birgit Overzier']","['[MAS] ', '[MAS] ', '[GER] ', '[GER] ']","['21-17', '18-21', '21-16']",XD,20170228
-102,"['Sayaka Sato [7]', 'Chiang Mei Hui']","['[JPN] ', '[TPE] ']","['21-19', '22-20']",WS,20170228
-103,"['Nanna Vainio', 'Yip Pui Yin']","['[FIN] ', '[HKG] ']","['21-17', '20-22', '21-18']",WS,20170228
-104,"['Busanan Ongbamrungphan [3]', 'Natalia Perminova']","['[THA] ', '[RUS] ']","['21-11', '21-10']",WS,20170228
-105,"['Minatsu Mitani', 'Mia Blichfeldt']","['[JPN] ', '[DEN] ']","['21-23', '21-10', '21-17']",WS,20170228
-106,"['Ayumi Mine [8]', 'Maria Ulitina']","['[JPN] ', '[UKR] ']","['21-16', '21-19']",WS,20170228
-107,"['Nitchaon Jindapol [6]', 'Natalia Koch Rohde']","['[THA] ', '[DEN] ']","['21-13', '21-15']",WS,20170228
-108,"['Peng Soon Chan [2]', 'Liu Ying Goh', 'Anton Kaisti', 'Jenny Nystrom']","['[MAS] ', '[MAS] ', '[FIN] ', '[FIN] ']","['21-6', '21-7']",XD,20170228
-109,"['Hsu Ya Ching', 'Beatriz Corrales']","['[TPE] ', '[ESP] ']","['21-11', '21-16']",WS,20170228
-110,"['Carolina Marin [1]', 'Line Kjaersfeldt']","['[ESP] ', '[DEN] ']","['19-21', '21-11', '21-11']",WS,20170228
-111,"['Lyanny Alessandra Mainaky', 'Airi Mikkela']","['[INA] ', '[FIN] ']","['21-11', '22-20']",WS,20170228
-112,"['Cheung Ngan Yi [5]', 'Ksenia Polikarpova']","['[HKG] ', '[RUS] ']","['21-19', '21-10']",WS,20170228
-113,"['Chia Hsin Lee', 'Shuo Yun Sung']","['[TPE] ', '[TPE] ']","['19-21', '21-18', '21-7']",WS,20170228
-114,"['Sabrina Jaquet', 'Sofie Holmboe Dahl']","['[SUI] ', '[DEN] ']","['16-21', '21-15', '21-12']",WS,20170228
-115,"['Akane Yamaguchi [2]', 'Mette Poulsen']","['[JPN] ', '[DEN] ']","['21-19', '21-19']",WS,20170228
-116,"['Beiwen Zhang [4]', 'Xiaoyu Liang']","['[USA] ', '[SGP] ']","['21-15', '21-10']",WS,20170228
-117,"['Gabriela Stoeva [3]', 'Stefani Stoeva', 'Ching Hui Chang', 'Yang Ching Tun']","['[BUL] ', '[BUL] ', '[TPE] ', '[TPE] ']","['21-16', '21-12']",WD,20170228
-118,"['Huang Yaqiong', 'Tang Jinhua', 'Anne Katrine Hansen', 'Marie Louise Steffensen']","['[CHN] ', '[CHN] ', '[DEN] ', '[DEN] ']","['21-6', '21-15']",WD,20170228
-119,"['Naoko Fukuman [1]', 'Kurumi Yonao', 'Maiken Fruergaard', 'Sara Thygesen']","['[JPN] ', '[JPN] ', '[DEN] ', '[DEN] ']","['21-19', '21-9']",WD,20170228
-120,"['Xiao Min Lin', 'Wu Fang Chien', 'Anastasia Chervyakova', 'Olga Morozova']","['[TPE] ', '[TPE] ', '[RUS] ', '[RUS] ']","['21-15', '29-30', '21-13']",WD,20170228
-121,"['Mathias Christiansen', 'David Daugaard', 'Takeshi Kamura [1]', 'Keigo Sonoda']","['[DEN] ', '[DEN] ', '[JPN] ', '[JPN] ']","['21-15', '25-23']",MD,20170228
-122,"['Zvonimir Durkinjak', 'Christian Lind Thomsen']","['[CRO] ', '[DEN] ']","['21-11', '21-11']",MS,20170228
-123,"['Julie Finne-Ipsen', 'Rikke Søby', 'Clara Nistad', 'Emma Wengberg']","['[DEN] ', '[DEN] ', '[SWE] ', '[SWE] ']","['21-8', '21-16']",WD,20170228
-124,"['Takuma Ueda', 'Erik Meijs']","['[JPN] ', '[NED] ']","['21-10', '24-26', '21-12']",MS,20170228
-125,"['Shiho Tanaka [8]', 'Koharu Yonemoto', 'Linda Efler', 'Eva Janssens']","['[JPN] ', '[JPN] ', '[GER] ', '[GER] ']","['21-8', '21-12']",WD,20170228
-126,"['Yuki Fukushima', 'Sayaka Hirota', 'Hsin Tien Chang', 'Shuo Yun Sung']","['[JPN] ', '[JPN] ', '[TPE] ', '[TPE] ']","['21-8', '21-10']",WD,20170228
-127,"['Emil Holst', 'Wong Wing Ki Vincent [11]']","['[DEN] ', '[HKG] ']","['21-18', '21-18']",MS,20170228
-128,"['Bao Yixin', 'Yu Xiaohan', 'Chiang Kai Hsin', 'Hung Shih Han']","['[CHN] ', '[CHN] ', '[TPE] ', '[TPE] ']","['23-21', '21-15']",WD,20170228
-129,"['Raul Must', 'Rajiv Ouseph [10]']","['[EST] ', '[ENG] ']",[],MS,20170228
-130,"['Jhe-Huei Lee [5]', 'Yang Lee', 'Konstantin Abramov', 'Alexandr Zinchenko']","['[TPE] ', '[TPE] ', '[RUS] ', '[RUS] ']","['21-9', '21-13']",MD,20170228
-131,"['Kim Astrup [4]', 'Anders Skaarup Rasmussen', 'Lu Ching Yao', 'Yang Po Han']","['[DEN] ', '[DEN] ', '[TPE] ', '[TPE] ']","['21-9', '16-21', '21-17']",MD,20170228
-132,"['Ng Ka Long Angus [5]', 'Subhankar Dey']","['[HKG] ', '[IND] ']","['21-14', '21-8']",MS,20170228
-133,"['Huang Dongping [5]', 'Li Yinhui', 'Lauren Smith', 'Sarah Walker']","['[CHN] ', '[CHN] ', '[ENG] ', '[ENG] ']","['21-8', '21-8']",WD,20170228
-134,"['Tzu Wei Wang [14]', 'Lin Yu Hsien']","['[TPE] ', '[TPE] ']","['11-21', '21-19', '21-12']",MS,20170228
-135,"['Hsu Ya Ching', 'Wu Ti Jung', 'Annika Horbach', 'Theresa Wurm']","['[TPE] ', '[TPE] ', '[GER] ', '[GER] ']","['21-10', '21-13']",WD,20170228
-136,"['Arisa Higashino', 'Ayane Kurihara', 'Natalya Voytsekh', 'Yelyzaveta Zharka']","['[JPN] ', '[JPN] ', '[UKR] ', '[UKR] ']","['21-2', '21-15']",WD,20170228
-137,"['Kanta Tsuneyama', 'Misha Zilberman']","['[JPN] ', '[ISR] ']","['21-7', '21-6']",MS,20170228
-138,"['Jongkolphan Kititharakul [2]', 'Rawinda Prajongjai', 'Johanna Goliszewski', 'Lara Kaepplein']","['[THA] ', '[THA] ', '[GER] ', '[GER] ']","['21-14', '21-10']",WD,20170228
-139,"['Anders Antonsen [16]', 'Simon Wang']","['[DEN] ', '[GER] ']","['21-13', '21-18']",MS,20170228
-140,"['Bodin Isara [8]', 'Nipitphon Phuangphuapet', 'Yong Kai Terry Hee', 'Kean Hean Loh']","['[THA] ', '[THA] ', '[SGP] ', '[SGP] ']","['21-17', '16-21', '21-13']",MD,20170228
-141,"['Isabel Herttrich', 'Carla Nelte', 'Jenny Nystrom', 'Sonja Pekkola']","['[GER] ', '[GER] ', '[FIN] ', '[FIN] ']","['21-13', '21-10']",WD,20170228
-142,"['Lin Dan [3]', 'Mateusz Dubowski']","['[CHN] ', '[POL] ']","['21-14', '21-16']",MS,20170228
-143,"['Della Destiara Haris [4]', 'Rosyita Eka Putri Sari', 'Anika Dörr', 'Jennifer Karnott']","['[INA] ', '[INA] ', '[GER] ', '[GER] ']","['21-10', '21-8']",WD,20170228
-144,"['Chou Tien Chen [6]', 'Brice Leverdez']","['[TPE] ', '[FRA] ']","['19-21', '21-14', '21-11']",MS,20170228
-145,"['Jones Ralfy Jansen', 'Josche Zurwonne', 'Takuto Inoue', 'Yuki Kaneko']","['[GER] ', '[GER] ', '[JPN] ', '[JPN] ']","['21-17', '21-16']",MD,20170228
-146,"['Cheryl Seinen', 'Iris Tabeling', 'Nadia Fankhauser', 'Sannatasah Saniru']","['[NED] ', '[NED] ', '[SUI] ', '[MAS] ']","['21-16', '17-21', '21-18']",WD,20170228
-147,"['Kim Bruun', 'Marc Zwiebler [7]']","['[DEN] ', '[GER] ']","['21-10', '11-6']",MS,20170228
-148,"['Lu Kai', 'Zheng Siwei', 'Matijs Dierickx', 'Freek Golinski']","['[CHN] ', '[CHN] ', '[BEL] ', '[BEL] ']","['21-15', '21-3']",MD,20170228
-149,"['Jacco Arends', 'Ruben Jille', 'Mohd Razif Abdul Latif', 'Muhammad Hafiz Hashim']","['[NED] ', '[NED] ', '[MAS] ', '[MAS] ']","['16-21', '21-13', '21-13']",MD,20170228
-150,"['Chen Hung Ling [7]', 'Chi-Lin Wang', 'Jelle Maas', 'Robin Tabeling']","['[TPE] ', '[TPE] ', '[NED] ', '[NED] ']","['21-19', '21-12']",MD,20170228
-151,"['Or Chin Chung', 'Tang Chun Man', 'Raphael Beck', 'Peter Kaesbauer']","['[HKG] ', '[HKG] ', '[GER] ', '[GER] ']","['21-15', '21-16']",MD,20170228
-152,"['Fabian Roth', 'Henri Hurskainen']","['[GER] ', '[SWE] ']","['21-16', '21-17']",MS,20170228
-153,"['Vladimir Ivanov [3]', 'Ivan Sozonov', 'Adam Cwalina', 'Pawel Pietryja']","['[RUS] ', '[RUS] ', '[POL] ', '[POL] ']","['21-15', '21-11']",MD,20170228
-154,"['Hans-Kristian Solberg Vittinghus [9]', 'Kalle Koljonen']","['[DEN] ', '[FIN] ']","['21-12', '21-12']",MS,20170228
-155,"['Richard Eidestedt', 'Nico Ruponen', 'Liao Kuan Hao', 'Lu Chia Pin']","['[SWE] ', '[SWE] ', '[TPE] ', '[TPE] ']","['21-17', '21-11']",MD,20170228
-156,"['Huang Kaixiang', 'Wang Yilyu', 'Marcus Ellis [6]', 'Chris Langridge']","['[CHN] ', '[CHN] ', '[ENG] ', '[ENG] ']","['21-18', '23-21']",MD,20170228
-157,"['Mads Conrad-Petersen [2]', 'Mads Pieler Kolding', 'Hendra Setiawan', 'Boon Heong Tan']","['[DEN] ', '[DEN] ', '[INA] ', '[MAS] ']","['14-21', '21-17', '21-15']",MD,20170228
-158,"['Takuro Hoki', 'Yugo Kobayashi', 'Danny Bawa Chrisnanta', 'Hendra Wijaya']","['[JPN] ', '[JPN] ', '[SGP] ', '[SGP] ']","['21-10', '21-13']",MD,20170228
-159,"['Kidambi Srikanth [12]', 'Yusuke Onodera']","['[IND] ', '[JPN] ']","['21-17', '21-18']",MS,20170228
-160,"['Hiroyuki Endo', 'Yuta Watanabe', 'Mathias Bay-Smidt', 'Frederik Søgaard']","['[JPN] ', '[JPN] ', '[DEN] ', '[DEN] ']","['21-14', '21-16']",MD,20170228
-161,"['Law Cheuk Him', 'Lee Chun Hei Reginald', 'Joshua Magee', 'Sam Magee']","['[HKG] ', '[HKG] ', '[IRL] ', '[IRL] ']","['22-20', '21-14']",MD,20170228
-162,"['Chen Long [2]', 'Sam Parsons']","['[CHN] ', '[ENG] ']","['21-10', '21-6']",MS,20170228
-163,"['Hu Yun [8]', 'Harshit Aggarwal']","['[HKG] ', '[IND] ']","['21-15', '21-11']",MS,20170228
-164,"['Cheung Ngan Yi [5]', 'Lyanny Alessandra Mainaky']","['[HKG] ', '[INA] ']","['21-9', '21-13']",WS ,20170228
-165,"['Gabriela Stoeva [3]', 'Stefani Stoeva', 'Huang Yaqiong', 'Tang Jinhua']","['[BUL] ', '[BUL] ', '[CHN] ', '[CHN] ']","['21-15', '21-17']",WD ,20170228
-166,"['Nitchaon Jindapol [6]', 'Hsu Ya Ching']","['[THA] ', '[TPE] ']","['21-11', '21-11']",WS ,20170228
-167,"['Chen Hung Ling [7]', 'Chi-Lin Wang', 'Jacco Arends', 'Ruben Jille']","['[TPE] ', '[TPE] ', '[NED] ', '[NED] ']","['21-8', '21-16']",MD ,20170228
-168,"['Bodin Isara [8]', 'Nipitphon Phuangphuapet', 'Law Cheuk Him', 'Lee Chun Hei Reginald']","['[THA] ', '[THA] ', '[HKG] ', '[HKG] ']","['21-15', '21-15']",MD ,20170228
-169,"['Hiroyuki Endo', 'Yuta Watanabe', 'Mathias Christiansen', 'David Daugaard']","['[JPN] ', '[JPN] ', '[DEN] ', '[DEN] ']","['24-22', '21-11']",MD ,20170228
-170,"['Hsu Ya Ching', 'Wu Ti Jung', 'Xiao Min Lin', 'Wu Fang Chien']","['[TPE] ', '[TPE] ', '[TPE] ', '[TPE] ']","['21-18', '21-16']",WD ,20170228
-171,"['Chi-Lin Wang', 'Chia Hsin Lee', 'Ko-Chi Chang', 'Hsin Tien Chang']","['[TPE] ', '[TPE] ', '[TPE] ', '[TPE] ']","['22-20', '21-7']",XD ,20170228
-172,"['Kian Meng Tan [4]', 'Pei Jing Lai', 'Nipitphon Phuangphuapet', 'Jongkolphan Kititharakul']","['[MAS] ', '[MAS] ', '[THA] ', '[THA] ']","['21-16', '21-17']",XD ,20170228
-173,"['Kenta Kazuno [6]', 'Ayane Kurihara', 'Lu Ching Yao', 'Chiang Kai Hsin']","['[JPN] ', '[JPN] ', '[TPE] ', '[TPE] ']","['21-11', '21-11']",XD ,20170228
-174,"['Yuki Fukushima', 'Sayaka Hirota', 'Greysia Polii [7]', 'Rizki Amelia Pradipta']","['[JPN] ', '[JPN] ', '[INA] ', '[INA] ']","['19-21', '21-18', '21-12']",WD ,20170228
-175,"['Minatsu Mitani', 'Busanan Ongbamrungphan [3]']","['[JPN] ', '[THA] ']","['21-19', '17-21', '21-11']",WS ,20170228
-176,"['Isabel Herttrich', 'Carla Nelte', 'Naoko Fukuman [1]', 'Kurumi Yonao']","['[GER] ', '[GER] ', '[JPN] ', '[JPN] ']","['21-18', '8-21', '21-17']",WD ,20170228
-177,"['Lu Kai', 'Zheng Siwei', 'Jhe-Huei Lee [5]', 'Yang Lee']","['[CHN] ', '[CHN] ', '[TPE] ', '[TPE] ']","['24-22', '21-9']",MD ,20170228
-178,"['Vladimir Ivanov [3]', 'Ivan Sozonov', 'Or Chin Chung', 'Tang Chun Man']","['[RUS] ', '[RUS] ', '[HKG] ', '[HKG] ']","['21-10', '14-21', '21-9']",MD ,20170228
-179,"['Carolina Marin [1]', 'Priskila Siahaya']","['[ESP] ', '[INA] ']","['21-15', '21-8']",WS ,20170228
-180,"['Della Destiara Haris [4]', 'Rosyita Eka Putri Sari', 'Bao Yixin', 'Yu Xiaohan']","['[INA] ', '[INA] ', '[CHN] ', '[CHN] ']","['21-16', '24-22']",WD ,20170228
-181,"['Peng Soon Chan [2]', 'Liu Ying Goh', 'Mark Lamsfuss', 'Isabel Herttrich']","['[MAS] ', '[MAS] ', '[GER] ', '[GER] ']","['21-15', '16-21', '23-21']",XD ,20170228
-182,"['Chris Adcock [3]', 'Gabrielle Adcock', 'Hafiz Faizal', 'Shela Devi Aulia']","['[ENG] ', '[ENG] ', '[INA] ', '[INA] ']","['18-21', '23-21', '21-19']",XD ,20170228
-183,"['Emil Holst', 'Lin Dan [3]']","['[DEN] ', '[CHN] ']","['21-10', '21-16']",MS ,20170228
-184,"['Chen Long [2]', 'Kidambi Srikanth [12]']","['[CHN] ', '[IND] ']","['21-19', '22-20']",MS ,20170228
-185,"['Huang Kaixiang', 'Wang Yilyu', 'Richard Eidestedt', 'Nico Ruponen']","['[CHN] ', '[CHN] ', '[SWE] ', '[SWE] ']","['21-11', '21-17']",MD ,20170228
-186,"['Sayaka Sato [7]', 'Nanna Vainio']","['[JPN] ', '[FIN] ']","['21-9', '21-5']",WS ,20170228
-187,"['Shiho Tanaka [8]', 'Koharu Yonemoto', 'Julie Finne-Ipsen', 'Rikke Søby']","['[JPN] ', '[JPN] ', '[DEN] ', '[DEN] ']","['21-12', '21-12']",WD ,20170228
-188,"['Kim Astrup [4]', 'Anders Skaarup Rasmussen', 'Jones Ralfy Jansen', 'Josche Zurwonne']","['[DEN] ', '[DEN] ', '[GER] ', '[GER] ']","['24-22', '21-13']",MD ,20170228
-189,"['Beiwen Zhang [4]', 'Chia Hsin Lee']","['[USA] ', '[TPE] ']","['21-13', '21-11']",WS ,20170228
-190,"['Akane Yamaguchi [2]', 'Sabrina Jaquet']","['[JPN] ', '[SUI] ']","['16-21', '21-13', '21-14']",WS ,20170228
-191,"['Jongkolphan Kititharakul [2]', 'Rawinda Prajongjai', 'Arisa Higashino', 'Ayane Kurihara']","['[THA] ', '[THA] ', '[JPN] ', '[JPN] ']","['15-21', '21-16', '21-13']",WD ,20170228
-192,"['Raphael Beck', 'Carla Nelte', 'Bodin Isara [5]', 'Savitree Amitrapai']","['[GER] ', '[GER] ', '[THA] ', '[THA] ']","['14-21', '21-18', '23-21']",XD ,20170228
-193,"['Chou Tien Chen [6]', 'Anders Antonsen [16]']","['[TPE] ', '[DEN] ']","['17-21', '21-11', '22-20']",MS ,20170228
-194,"['Takuma Ueda', 'Fabian Roth']","['[JPN] ', '[GER] ']","['10-21', '21-19', '21-16']",MS Match of the day,20170228
-195,"['Lu Kai [1]', 'Huang Yaqiong', 'Xu Chen', 'Du Yue']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['14-21', '21-13', '21-13']",XD ,20170228
-196,"['Ayumi Mine [8]', 'Yvonne Li']","['[JPN] ', '[GER] ']","['21-8', '21-19']",WS ,20170228
-197,"['Huang Dongping [5]', 'Li Yinhui', 'Cheryl Seinen', 'Iris Tabeling']","['[CHN] ', '[CHN] ', '[NED] ', '[NED] ']","['21-19', '21-15']",WD ,20170228
-198,"['Hans-Kristian Solberg Vittinghus [9]', 'Hu Yun [8]']","['[DEN] ', '[HKG] ']","['21-9', '12-21', '22-20']",MS ,20170228
-199,"['Ng Ka Long Angus [5]', 'Raul Must']","['[HKG] ', '[EST] ']",[],MS ,20170228
-200,"['Zvonimir Durkinjak', 'Kim Bruun']","['[CRO] ', '[DEN] ']","['21-12', '21-16']",MS ,20170228
-201,"['Tzu Wei Wang [14]', 'Kanta Tsuneyama']","['[TPE] ', '[JPN] ']","['21-16', '21-15']",MS ,20170228
-202,"['Zhang Nan [8]', 'Li Yinhui', 'Yong Kai Terry Hee', 'Wei Han Tan']","['[CHN] ', '[CHN] ', '[SGP] ', '[SGP] ']","['21-8', '21-19']",XD ,20170228
-203,"['Mads Conrad-Petersen [2]', 'Mads Pieler Kolding', 'Takuro Hoki', 'Yugo Kobayashi']","['[DEN] ', '[DEN] ', '[JPN] ', '[JPN] ']","['21-13', '21-14']",MD ,20170228
-204,"['Huang Dongping [5]', 'Li Yinhui', 'Jongkolphan Kititharakul [2]', 'Rawinda Prajongjai']","['[CHN] ', '[CHN] ', '[THA] ', '[THA] ']","['21-14', '22-20']",WD ,20170228
-205,"['Kim Astrup [4]', 'Anders Skaarup Rasmussen', 'Lu Kai', 'Zheng Siwei']","['[DEN] ', '[DEN] ', '[CHN] ', '[CHN] ']","['21-19', '22-24', '21-14']",MD ,20170228
-206,"['Minatsu Mitani', 'Ayumi Mine [8]']","['[JPN] ', '[JPN] ']","['10-21', '21-18', '21-5']",WS ,20170228
-207,"['Beiwen Zhang [4]', 'Nitchaon Jindapol [6]']","['[USA] ', '[THA] ']","['21-19', '22-20']",WS ,20170228
-208,"['Zhang Nan [8]', 'Li Yinhui', 'Peng Soon Chan [2]', 'Liu Ying Goh']","['[CHN] ', '[CHN] ', '[MAS] ', '[MAS] ']","['21-13', '18-21', '25-23']",XD ,20170228
-209,"['Vladimir Ivanov [3]', 'Ivan Sozonov', 'Chen Hung Ling [7]', 'Chi-Lin Wang']","['[RUS] ', '[RUS] ', '[TPE] ', '[TPE] ']","['21-16', '24-22']",MD ,20170228
-210,"['Isabel Herttrich', 'Carla Nelte', 'Hsu Ya Ching', 'Wu Ti Jung']","['[GER] ', '[GER] ', '[TPE] ', '[TPE] ']","['14-21', '21-19', '21-13']",WD ,20170228
-211,"['Chen Long [2]', 'Hans-Kristian Solberg Vittinghus [9]']","['[CHN] ', '[DEN] ']","['21-10', '5-3']",MS ,20170228
-212,"['Shiho Tanaka [8]', 'Koharu Yonemoto', 'Della Destiara Haris [4]', 'Rosyita Eka Putri Sari']","['[JPN] ', '[JPN] ', '[INA] ', '[INA] ']","['21-15', '21-13']",WD ,20170228
-213,"['Chou Tien Chen [6]', 'Emil Holst']","['[TPE] ', '[DEN] ']","['21-10', '21-14']",MS ,20170228
-214,"['Kian Meng Tan [4]', 'Pei Jing Lai', 'Chi-Lin Wang', 'Chia Hsin Lee']","['[MAS] ', '[MAS] ', '[TPE] ', '[TPE] ']","['21-16', '14-21', '21-17']",XD ,20170228
-215,"['Chris Adcock [3]', 'Gabrielle Adcock', 'Raphael Beck', 'Carla Nelte']","['[ENG] ', '[ENG] ', '[GER] ', '[GER] ']","['21-18', '21-12']",XD Match of the Day,20170228
-216,"['Lu Kai [1]', 'Huang Yaqiong', 'Kenta Kazuno [6]', 'Ayane Kurihara']","['[CHN] ', '[CHN] ', '[JPN] ', '[JPN] ']","['21-10', '21-16']",XD ,20170228
-217,"['Hiroyuki Endo', 'Yuta Watanabe', 'Bodin Isara [8]', 'Nipitphon Phuangphuapet']","['[JPN] ', '[JPN] ', '[THA] ', '[THA] ']","['21-14', '21-13']",MD ,20170228
-218,"['Tzu Wei Wang [14]', 'Zvonimir Durkinjak']","['[TPE] ', '[CRO] ']","['21-19', '21-9']",MS ,20170228
-219,"['Takuma Ueda', 'Ng Ka Long Angus [5]']","['[JPN] ', '[HKG] ']","['14-21', '21-17', '21-15']",MS ,20170228
-220,"['Carolina Marin [1]', 'Sayaka Sato [7]']","['[ESP] ', '[JPN] ']","['21-17', '17-21', '21-13']",WS ,20170228
-221,"['Akane Yamaguchi [2]', 'Cheung Ngan Yi [5]']","['[JPN] ', '[HKG] ']","['20-22', '21-18', '21-17']",WS ,20170228
-222,"['Mads Conrad-Petersen [2]', 'Mads Pieler Kolding', 'Huang Kaixiang', 'Wang Yilyu']","['[DEN] ', '[DEN] ', '[CHN] ', '[CHN] ']","['21-11', '21-18']",MD ,20170228
-223,"['Yuki Fukushima', 'Sayaka Hirota', 'Gabriela Stoeva [3]', 'Stefani Stoeva']","['[JPN] ', '[JPN] ', '[BUL] ', '[BUL] ']","['21-17', '21-17']",WD ,20170228
-224,"['Lu Kai [1]', 'Huang Yaqiong', 'Kian Meng Tan [4]', 'Pei Jing Lai']","['[CHN] ', '[CHN] ', '[MAS] ', '[MAS] ']","['16-21', '21-16', '21-17']",XD ,20170228
-225,"['Akane Yamaguchi [2]', 'Beiwen Zhang [4]']","['[JPN] ', '[USA] ']","['24-22', '21-19']",WS ,20170228
-226,"['Chou Tien Chen [6]', 'Takuma Ueda']","['[TPE] ', '[JPN] ']","['21-17', '21-11']",MS ,20170228
-227,"['Yuki Fukushima', 'Sayaka Hirota', 'Isabel Herttrich', 'Carla Nelte']","['[JPN] ', '[JPN] ', '[GER] ', '[GER] ']","['21-19', '21-10']",WD Match of the Day,20170228
-228,"['Mads Conrad-Petersen [2]', 'Mads Pieler Kolding', 'Vladimir Ivanov [3]', 'Ivan Sozonov']","['[DEN] ', '[DEN] ', '[RUS] ', '[RUS] ']","['21-14', '21-16']",MD ,20170228
-229,"['Zhang Nan [8]', 'Li Yinhui', 'Chris Adcock [3]', 'Gabrielle Adcock']","['[CHN] ', '[CHN] ', '[ENG] ', '[ENG] ']","['28-26', '21-19']",XD ,20170228
-230,"['Huang Dongping [5]', 'Li Yinhui', 'Shiho Tanaka [8]', 'Koharu Yonemoto']","['[CHN] ', '[CHN] ', '[JPN] ', '[JPN] ']","['21-14', '21-13']",WD ,20170228
-231,"['Tzu Wei Wang [14]', 'Chen Long [2]']","['[TPE] ', '[CHN] ']","['21-18', '8-21', '21-18']",MS ,20170228
-232,"['Carolina Marin [1]', 'Minatsu Mitani']","['[ESP] ', '[JPN] ']","['21-10', '17-21', '21-18']",WS ,20170228
-233,"['Kim Astrup [4]', 'Anders Skaarup Rasmussen', 'Hiroyuki Endo', 'Yuta Watanabe']","['[DEN] ', '[DEN] ', '[JPN] ', '[JPN] ']","['21-15', '14-21', '21-19']",MD ,20170228
-234,"['Yuki Fukushima', 'Sayaka Hirota', 'Huang Dongping [5]', 'Li Yinhui']","['[JPN] ', '[JPN] ', '[CHN] ', '[CHN] ']","['15-21', '21-17', '21-15']",WD ,20170228
-235,"['Chou Tien Chen [6]', 'Tzu Wei Wang [14]']","['[TPE] ', '[TPE] ']","['21-16', '21-14']",MS ,20170228
-236,"['Kim Astrup [4]', 'Anders Skaarup Rasmussen', 'Mads Conrad-Petersen [2]', 'Mads Pieler Kolding']","['[DEN] ', '[DEN] ', '[DEN] ', '[DEN] ']","['21-17', '21-13']",MD ,20170228
-237,"['Akane Yamaguchi [2]', 'Carolina Marin [1]']","['[JPN] ', '[ESP] ']",[],WS ,20170228
-238,"['Zhang Nan [8]', 'Li Yinhui', 'Lu Kai [1]', 'Huang Yaqiong']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['22-20', '21-11']",XD ,20170228
+,PLAYERS,COUNTRIES,SCORES,EVENT,match_week,match_location
+0,"['Lu Chia Pin', 'Yang Ching Tun', 'Bjarne Geiss', 'Eva Janssens']","['[TPE] ', '[TPE] ', '[GER] ', '[GER] ']","['18-21', '21-16', '21-14']",XD - Qualification,20170228,"Mülheim an der Ruhr, Germany"
+1,"['Oliver Schaller', 'Celine Burkart', 'Johannes Pistorius', 'Barbara Bellenberg']","['[SUI] ', '[SUI] ', '[GER] ', '[GER] ']","['21-12', '13-21', '23-21']",XD - Qualification,20170228,"Mülheim an der Ruhr, Germany"
+2,"['Pawel Pietryja [3]', 'Aneta Wojtkowska', 'Daniel Benz', 'Theresa Wurm']","['[POL] ', '[POL] ', '[GER] ', '[GER] ']","['21-16', '21-14']",XD - Qualification,20170228,"Mülheim an der Ruhr, Germany"
+3,"['Anton Kaisti', 'Jenny Nystrom', 'Ruben Jille', 'Iris Tabeling']","['[FIN] ', '[FIN] ', '[NED] ', '[NED] ']","['20-22', '21-12', '21-16']",XD - Qualification,20170228,"Mülheim an der Ruhr, Germany"
+4,"['Raphael Beck', 'Carla Nelte', 'Jelle Maas [4]', 'Imke Van Der Aar']","['[GER] ', '[GER] ', '[NED] ', '[NED] ']","['21-13', '20-22', '21-15']",XD - Qualification,20170228,"Mülheim an der Ruhr, Germany"
+5,"['Marcus Ellis', 'Lauren Smith', 'Alex Vlaar', 'Sannatasah Saniru']","['[ENG] ', '[ENG] ', '[BUL] ', '[MAS] ']","['21-11', '21-10']",XD - Qualification,20170228,"Mülheim an der Ruhr, Germany"
+6,"['Jones Ralfy Jansen', 'Franziska Volkmann', 'Alexandr Zinchenko', 'Olga Morozova']","['[GER] ', '[GER] ', '[RUS] ', '[RUS] ']","['17-21', '21-14', '21-11']",XD - Qualification,20170228,"Mülheim an der Ruhr, Germany"
+7,"['Priskila Siahaya', 'Julie Dawall Jakobsen']","['[INA] ', '[DEN] ']","['21-14', '21-17']",WS - Qualification,20170228,"Mülheim an der Ruhr, Germany"
+8,"['Vasily Kuznetsov', 'Lea-Lyn Stremlau', 'Daniel Hess', 'Cisita Joity Jansen']","['[RUS] ', '[GER] ', '[GER] ', '[GER] ']","['21-18', '20-22', '21-16']",XD - Qualification,20170228,"Mülheim an der Ruhr, Germany"
+9,"['Lianne Tan', 'Sonja Pekkola']","['[BEL] ', '[FIN] ']","['21-14', '21-18']",WS - Qualification,20170228,"Mülheim an der Ruhr, Germany"
+10,"['Shuo Yun Sung [4]', 'Nadia Fankhauser']","['[TPE] ', '[SUI] ']","['21-19', '21-15']",WS - Qualification,20170228,"Mülheim an der Ruhr, Germany"
+11,"['Chloe Birch', 'Julie Finne-Ipsen [1]']","['[ENG] ', '[DEN] ']","['21-18', '15-21', '21-17']",WS - Qualification,20170228,"Mülheim an der Ruhr, Germany"
+12,"['Yvonne Li', 'Natalya Voytsekh']","['[GER] ', '[UKR] ']","['21-14', '19-21', '21-19']",WS - Qualification,20170228,"Mülheim an der Ruhr, Germany"
+13,"['Fabienne Deprez [3]', 'Gayle Mahulette']","['[GER] ', '[NED] ']","['23-21', '15-21', '21-18']",WS - Qualification,20170228,"Mülheim an der Ruhr, Germany"
+14,"['Victoria Slobodyanyuk', 'Fontaine Mica Chapman']","['[RUS] ', '[ENG] ']","['12-21', '21-18', '21-18']",WS - Qualification,20170228,"Mülheim an der Ruhr, Germany"
+15,"['Sofie Holmboe Dahl [2]', 'Luise Heim']","['[DEN] ', '[GER] ']","['18-21', '21-12', '21-13']",WS - Qualification,20170228,"Mülheim an der Ruhr, Germany"
+16,"['Mathias Bay-Smidt', 'Frederik Søgaard', 'Peter Briggs [3]', 'Tom Wolfenden']","['[DEN] ', '[DEN] ', '[ENG] ', '[ENG] ']","['21-16', '21-14']",MD - Qualification,20170228,"Mülheim an der Ruhr, Germany"
+17,"['Jacco Arends', 'Ruben Jille', 'Michael Fuchs', 'Oliver Schaller']","['[NED] ', '[NED] ', '[GER] ', '[SUI] ']","['21-16', '21-14']",MD - Qualification,20170228,"Mülheim an der Ruhr, Germany"
+18,"['Jurgen Koch', 'Christian Lind Thomsen', 'Alexander Bond', 'Nikolaj Overgaard']","['[AUT] ', '[DEN] ', '[DEN] ', '[DEN] ']","['21-19', '15-21', '21-16']",MD - Qualification,20170228,"Mülheim an der Ruhr, Germany"
+19,"['Adam Cwalina', 'Pawel Pietryja', 'Bjarne Geiss', 'Johannes Pistorius']","['[POL] ', '[POL] ', '[GER] ', '[GER] ']","['21-14', '21-15']",MD - Qualification,20170228,"Mülheim an der Ruhr, Germany"
+20,"['Linda Efler', 'Eva Janssens', 'Kilasu Ostermeyer', 'Priskila Siahaya']","['[GER] ', '[GER] ', '[GER] ', '[INA] ']","['21-16', '21-17']",WD - Qualification,20170228,"Mülheim an der Ruhr, Germany"
+21,"['Jenny Nystrom', 'Sonja Pekkola', 'Theresea Isenberg', 'Brid Stepper']","['[FIN] ', '[FIN] ', '[GER] ', '[GER] ']","['21-11', '21-12']",WD - Qualification,20170228,"Mülheim an der Ruhr, Germany"
+22,"['Zvonimir Durkinjak', 'Zvonimir Hoelbling', 'Daniel Hess', 'Jan Colin Völker']","['[CRO] ', '[CRO] ', '[GER] ', '[GER] ']","['21-18', '21-18']",MD - Qualification,20170228,"Mülheim an der Ruhr, Germany"
+23,"['Ben Lane [4]', 'Sean Vendy', 'Daniel Benz', 'Andreas Heinz']","['[ENG] ', '[ENG] ', '[GER] ', '[GER] ']","['21-13', '21-19']",MD - Qualification,20170228,"Mülheim an der Ruhr, Germany"
+24,"['Anika Dörr', 'Jennifer Karnott', 'Birgit Overzier', 'Karin Schnaase']","['[GER] ', '[GER] ', '[GER] ', '[GER] ']","['21-16', '21-17']",WD - Qualification,20170228,"Mülheim an der Ruhr, Germany"
+25,"['Mohd Razif Abdul Latif', 'Muhammad Hafiz Hashim', 'Vanmael Heriau', 'Florent Riancho']","['[MAS] ', '[MAS] ', '[FRA] ', '[FRA] ']","['21-12', '21-14']",MD - Qualification,20170228,"Mülheim an der Ruhr, Germany"
+26,"['Ching Hui Chang', 'Yang Ching Tun', 'Yvonne Li', 'Judith Petrikowski']","['[TPE] ', '[TPE] ', '[GER] ', '[GER] ']","['21-17', '21-9']",WD - Qualification,20170228,"Mülheim an der Ruhr, Germany"
+27,"['Nikita Khakimov', 'Andrey Parakhodin', 'Ko-Chi Chang', 'Lin Yu Hsien']","['[RUS] ', '[RUS] ', '[TPE] ', '[TPE] ']","['21-19', '21-16']",MD - Qualification,20170228,"Mülheim an der Ruhr, Germany"
+28,"['Samuel Hsiao', 'Jiann Shiarng Chiang']","['[GER] ', '[MAS] ']","['23-25', '21-10', '21-15']",MS - Qualification,20170228,"Mülheim an der Ruhr, Germany"
+29,"['Harshit Aggarwal', 'Alex Vlaar']","['[IND] ', '[BUL] ']","['22-20', '21-14']",MS - Qualification,20170228,"Mülheim an der Ruhr, Germany"
+30,"['Philip Discher', 'David Peng']","['[GER] ', '[GER] ']","['21-15', '16-21', '27-25']",MS - Qualification,20170228,"Mülheim an der Ruhr, Germany"
+31,"['Alexander Roovers', 'Valeriy Atrashchenkov']","['[GER] ', '[UKR] ']","['12-21', '22-20', '21-17']",MS - Qualification,20170228,"Mülheim an der Ruhr, Germany"
+32,"['Wolfgang Gnedt', 'Nathan Vervaeke']","['[AUT] ', '[BEL] ']","['18-21', '21-7', '21-19']",MS - Qualification,20170228,"Mülheim an der Ruhr, Germany"
+33,"['Raphael Beck', 'Carla Nelte', 'Jones Ralfy Jansen', 'Franziska Volkmann']","['[GER] ', '[GER] ', '[GER] ', '[GER] ']","['21-23', '21-18', '21-17']",XD - Qualification,20170228,"Mülheim an der Ruhr, Germany"
+34,"['Max Weisskirchen', 'Rüdiger Gnedt']","['[GER] ', '[AUT] ']","['21-5', '21-16']",MS - Qualification,20170228,"Mülheim an der Ruhr, Germany"
+35,"['Priskila Siahaya', 'Fabienne Deprez [3]']","['[INA] ', '[GER] ']","['21-17', '21-14']",WS - Qualification,20170228,"Mülheim an der Ruhr, Germany"
+36,"['Oliver Schaller', 'Celine Burkart', 'Vasily Kuznetsov', 'Lea-Lyn Stremlau']","['[SUI] ', '[SUI] ', '[RUS] ', '[GER] ']","['21-11', '21-9']",XD - Qualification,20170228,"Mülheim an der Ruhr, Germany"
+37,"['Marcus Ellis', 'Lauren Smith', 'Lu Chia Pin', 'Yang Ching Tun']","['[ENG] ', '[ENG] ', '[TPE] ', '[TPE] ']","['21-16', '22-20']",XD - Qualification,20170228,"Mülheim an der Ruhr, Germany"
+38,"['Anton Kaisti', 'Jenny Nystrom', 'Pawel Pietryja [3]', 'Aneta Wojtkowska']","['[FIN] ', '[FIN] ', '[POL] ', '[POL] ']","['21-18', '21-11']",XD - Qualification,20170228,"Mülheim an der Ruhr, Germany"
+39,"['Yvonne Li', 'Chloe Birch']","['[GER] ', '[ENG] ']","['16-21', '21-13', '21-16']",WS - Qualification,20170228,"Mülheim an der Ruhr, Germany"
+40,"['Shuo Yun Sung [4]', 'Lianne Tan']","['[TPE] ', '[BEL] ']","['21-15', '22-20']",WS - Qualification,20170228,"Mülheim an der Ruhr, Germany"
+41,"['Sofie Holmboe Dahl [2]', 'Victoria Slobodyanyuk']","['[DEN] ', '[RUS] ']","['19-21', '21-9', '21-9']",WS - Qualification,20170228,"Mülheim an der Ruhr, Germany"
+42,"['Mathias Bay-Smidt', 'Frederik Søgaard', 'Nikita Khakimov', 'Andrey Parakhodin']","['[DEN] ', '[DEN] ', '[RUS] ', '[RUS] ']","['21-19', '21-16']",MD - Qualification,20170228,"Mülheim an der Ruhr, Germany"
+43,"['Simon Wang', 'Birger Abts']","['[GER] ', '[BEL] ']","['21-19', '21-10']",MS - Qualification,20170228,"Mülheim an der Ruhr, Germany"
+44,"['Mateusz Dubowski [4]', 'Collins Valentine Filimon']","['[POL] ', '[ROU] ']","['21-3', '21-18']",MS - Qualification,20170228,"Mülheim an der Ruhr, Germany"
+45,"['Adam Cwalina', 'Pawel Pietryja', 'Jurgen Koch', 'Christian Lind Thomsen']","['[POL] ', '[POL] ', '[AUT] ', '[DEN] ']",[],MD - Qualification,20170228,"Mülheim an der Ruhr, Germany"
+46,"['Mohd Razif Abdul Latif', 'Muhammad Hafiz Hashim', 'Ben Lane [4]', 'Sean Vendy']","['[MAS] ', '[MAS] ', '[ENG] ', '[ENG] ']","['21-18', '25-23']",MD - Qualification,20170228,"Mülheim an der Ruhr, Germany"
+47,"['Jacco Arends', 'Ruben Jille', 'Zvonimir Durkinjak', 'Zvonimir Hoelbling']","['[NED] ', '[NED] ', '[CRO] ', '[CRO] ']","['21-13', '14-21', '23-21']",MD - Qualification,20170228,"Mülheim an der Ruhr, Germany"
+48,"['Linda Efler', 'Eva Janssens', 'Arisa Higashino [1]', 'Ayane Kurihara']","['[GER] ', '[GER] ', '[JPN] ', '[JPN] ']",[],WD - Qualification,20170228,"Mülheim an der Ruhr, Germany"
+49,"['Anika Dörr', 'Jennifer Karnott', 'Hsin Tien Chang [2]', 'Shuo Yun Sung']","['[GER] ', '[GER] ', '[TPE] ', '[TPE] ']",[],WD - Qualification,20170228,"Mülheim an der Ruhr, Germany"
+50,"['Ching Hui Chang', 'Yang Ching Tun', 'Barbara Bellenberg', 'Franziska Volkmann']","['[TPE] ', '[TPE] ', '[GER] ', '[GER] ']","['21-17', '21-10']",WD - Qualification,20170228,"Mülheim an der Ruhr, Germany"
+51,"['Jenny Nystrom', 'Sonja Pekkola', 'Annika Horbach', 'Theresa Wurm']","['[FIN] ', '[FIN] ', '[GER] ', '[GER] ']",[],WD - Qualification,20170228,"Mülheim an der Ruhr, Germany"
+52,"['Emil Holst', 'Artem Pochtarov']","['[DEN] ', '[UKR] ']","['21-11', '21-6']",MS,20170228,"Mülheim an der Ruhr, Germany"
+53,"['Kanta Tsuneyama', 'Tian Houwei [4]']","['[JPN] ', '[CHN] ']","['21-15', '21-15']",MS,20170228,"Mülheim an der Ruhr, Germany"
+54,"['Erik Meijs', 'Michal Rogalski']","['[NED] ', '[POL] ']","['18-21', '21-14', '21-7']",MS,20170228,"Mülheim an der Ruhr, Germany"
+55,"['Subhankar Dey', 'Zhao Junpeng']","['[IND] ', '[CHN] ']","['16-21', '21-17', '21-19']",MS,20170228,"Mülheim an der Ruhr, Germany"
+56,"['Takuma Ueda', 'Hsu Jen Hao [15]']","['[JPN] ', '[TPE] ']","['21-13', '21-17']",MS,20170228,"Mülheim an der Ruhr, Germany"
+57,"['Hans-Kristian Solberg Vittinghus [9]', 'Toby Penty']","['[DEN] ', '[ENG] ']","['17-21', '23-21', '21-16']",MS,20170228,"Mülheim an der Ruhr, Germany"
+58,"['Chou Tien Chen [6]', 'Harsheel Dani']","['[TPE] ', '[IND] ']","['21-13', '21-12']",MS,20170228,"Mülheim an der Ruhr, Germany"
+59,"['Henri Hurskainen', 'Dmytro Zavadsky']","['[SWE] ', '[UKR] ']","['21-13', '16-21', '21-17']",MS,20170228,"Mülheim an der Ruhr, Germany"
+60,"['Wong Wing Ki Vincent [11]', 'Eetu Heino']","['[HKG] ', '[FIN] ']","['21-19', '21-9']",MS,20170228,"Mülheim an der Ruhr, Germany"
+61,"['Rajiv Ouseph [10]', 'Yu Igarashi']","['[ENG] ', '[JPN] ']","['20-22', '21-17', '28-26']",MS,20170228,"Mülheim an der Ruhr, Germany"
+62,"['Brice Leverdez', 'Milan Ludik']","['[FRA] ', '[CZE] ']","['21-18', '21-13']",MS,20170228,"Mülheim an der Ruhr, Germany"
+63,"['Raul Must', 'Samuel Hsiao']","['[EST] ', '[GER] ']","['21-17', '21-16']",MS,20170228,"Mülheim an der Ruhr, Germany"
+64,"['Fabian Roth', 'Nick Fransman']","['[GER] ', '[NED] ']","['21-13', '21-12']",MS,20170228,"Mülheim an der Ruhr, Germany"
+65,"['Ng Ka Long Angus [5]', 'Max Weisskirchen']","['[HKG] ', '[GER] ']","['21-10', '21-9']",MS,20170228,"Mülheim an der Ruhr, Germany"
+66,"['Anders Antonsen [16]', 'Hashiru Shimono']","['[DEN] ', '[JPN] ']","['21-13', '14-21', '21-14']",MS,20170228,"Mülheim an der Ruhr, Germany"
+67,"['Kim Bruun', 'Philip Discher']","['[DEN] ', '[GER] ']","['21-14', '21-12']",MS,20170228,"Mülheim an der Ruhr, Germany"
+68,"['Tzu Wei Wang [14]', 'Joshua Magee']","['[TPE] ', '[IRL] ']","['21-9', '21-9']",MS,20170228,"Mülheim an der Ruhr, Germany"
+69,"['Marc Zwiebler [7]', 'Kieran Merrilees']","['[GER] ', '[SCO] ']","['21-11', '21-23', '21-17']",MS,20170228,"Mülheim an der Ruhr, Germany"
+70,"['Misha Zilberman', 'Rahul Yadav Chittaboina']","['[ISR] ', '[IND] ']","['21-18', '21-18']",MS,20170228,"Mülheim an der Ruhr, Germany"
+71,"['Mateusz Dubowski', 'Anton Kaisti']","['[POL] ', '[FIN] ']","['21-17', '21-13']",MS,20170228,"Mülheim an der Ruhr, Germany"
+72,"['Lin Yu Hsien', 'Rasmus Gemke']","['[TPE] ', '[DEN] ']","['22-20', '21-15']",MS,20170228,"Mülheim an der Ruhr, Germany"
+73,"['Kalle Koljonen', 'Kai Schaefer']","['[FIN] ', '[GER] ']","['21-17', '8-21', '21-15']",MS,20170228,"Mülheim an der Ruhr, Germany"
+74,"['Lin Dan [3]', 'Siril Verma']","['[CHN] ', '[IND] ']","['21-13', '21-10']",MS,20170228,"Mülheim an der Ruhr, Germany"
+75,"['Simon Wang', 'Alexander Roovers']","['[GER] ', '[GER] ']","['25-27', '21-16', '21-17']",MS,20170228,"Mülheim an der Ruhr, Germany"
+76,"['Christian Lind Thomsen', 'Wei Nan [13]']","['[DEN] ', '[HKG] ']","['21-17', '16-21', '20-15']",MS,20170228,"Mülheim an der Ruhr, Germany"
+77,"['Zvonimir Durkinjak', 'Kazumasa Sakai']","['[CRO] ', '[JPN] ']","['21-17', '21-11']",MS,20170228,"Mülheim an der Ruhr, Germany"
+78,"['Harshit Aggarwal', 'Bjorn Seguin']","['[IND] ', '[USA] ']","['18-21', '21-8', '21-16']",MS,20170228,"Mülheim an der Ruhr, Germany"
+79,"['Chen Long [2]', 'Kenta Nishimoto']","['[CHN] ', '[JPN] ']","['21-10', '21-9']",MS,20170228,"Mülheim an der Ruhr, Germany"
+80,"['Yusuke Onodera', 'Mark Caljouw']","['[JPN] ', '[NED] ']","['21-18', '19-21', '21-16']",MS,20170228,"Mülheim an der Ruhr, Germany"
+81,"['Hu Yun [8]', 'Lars Schaenzler']","['[HKG] ', '[GER] ']","['21-12', '19-21', '21-14']",MS,20170228,"Mülheim an der Ruhr, Germany"
+82,"['Sam Parsons', 'Wolfgang Gnedt']","['[ENG] ', '[AUT] ']","['21-15', '17-21', '21-16']",MS,20170228,"Mülheim an der Ruhr, Germany"
+83,"['Kidambi Srikanth [12]', 'Alen Roj']","['[IND] ', '[SLO] ']","['21-4', '21-11']",MS,20170228,"Mülheim an der Ruhr, Germany"
+84,"['Lu Kai [1]', 'Huang Yaqiong', 'Nico Ruponen', 'Amanda Hogstrom']","['[CHN] ', '[CHN] ', '[SWE] ', '[SWE] ']",[],XD,20170228,"Mülheim an der Ruhr, Germany"
+85,"['Xu Chen', 'Du Yue', 'Marcus Ellis', 'Lauren Smith']","['[CHN] ', '[CHN] ', '[ENG] ', '[ENG] ']","['14-21', '21-18', '23-21']",XD,20170228,"Mülheim an der Ruhr, Germany"
+86,"['Kenta Kazuno [6]', 'Ayane Kurihara', 'Yang Lee', 'Hsu Ya Ching']","['[JPN] ', '[JPN] ', '[TPE] ', '[TPE] ']","['21-12', '21-10']",XD,20170228,"Mülheim an der Ruhr, Germany"
+87,"['Lu Ching Yao', 'Chiang Kai Hsin', 'Soren Gravholt', 'Maiken Fruergaard']","['[TPE] ', '[TPE] ', '[DEN] ', '[DEN] ']","['21-19', '22-20']",XD,20170228,"Mülheim an der Ruhr, Germany"
+88,"['Yvonne Li', 'Olga Konon']","['[GER] ', '[GER] ']","['19-21', '23-21', '21-18']",WS,20170228,"Mülheim an der Ruhr, Germany"
+89,"['Nipitphon Phuangphuapet', 'Jongkolphan Kititharakul', 'Ben Lane', 'Jessica Pugh']","['[THA] ', '[THA] ', '[ENG] ', '[ENG] ']","['19-21', '21-19', '21-16']",XD,20170228,"Mülheim an der Ruhr, Germany"
+90,"['Ko-Chi Chang', 'Hsin Tien Chang', 'Oliver Schaller', 'Celine Burkart']","['[TPE] ', '[TPE] ', '[SUI] ', '[SUI] ']","['21-11', '21-18']",XD,20170228,"Mülheim an der Ruhr, Germany"
+91,"['Priskila Siahaya', 'Tanvi Lad']","['[INA] ', '[IND] ']","['21-14', '21-12']",WS,20170228,"Mülheim an der Ruhr, Germany"
+92,"['Raphael Beck', 'Carla Nelte', 'Lee Chun Hei Reginald', 'Chau Hoi Wah']","['[GER] ', '[GER] ', '[HKG] ', '[HKG] ']","['21-12', '11-21', '21-19']",XD,20170228,"Mülheim an der Ruhr, Germany"
+93,"['Bodin Isara [5]', 'Savitree Amitrapai', 'Robert Mateusiak', 'Nadiezda Zieba']","['[THA] ', '[THA] ', '[POL] ', '[POL] ']","['21-11', '21-10']",XD,20170228,"Mülheim an der Ruhr, Germany"
+94,"['Hafiz Faizal', 'Shela Devi Aulia', 'Mathias Christiansen', 'Sara Thygesen']","['[INA] ', '[INA] ', '[DEN] ', '[DEN] ']","['21-15', '21-18']",XD,20170228,"Mülheim an der Ruhr, Germany"
+95,"['Chris Adcock [3]', 'Gabrielle Adcock', 'Lin Chia Yu', 'Wu Ti Jung']","['[ENG] ', '[ENG] ', '[TPE] ', '[TPE] ']","['17-21', '21-8', '21-16']",XD,20170228,"Mülheim an der Ruhr, Germany"
+96,"['Yong Kai Terry Hee', 'Wei Han Tan', 'Robin Tabeling', 'Cheryl Seinen']","['[SGP] ', '[SGP] ', '[NED] ', '[NED] ']","['21-10', '19-21', '21-17']",XD,20170228,"Mülheim an der Ruhr, Germany"
+97,"['Zhang Nan [8]', 'Li Yinhui', 'Sam Magee', 'Chloe Magee']","['[CHN] ', '[CHN] ', '[IRL] ', '[IRL] ']","['21-17', '19-21', '21-14']",XD,20170228,"Mülheim an der Ruhr, Germany"
+98,"['Mark Lamsfuss', 'Isabel Herttrich', 'Yugo Kobayashi', 'Koharu Yonemoto']","['[GER] ', '[GER] ', '[JPN] ', '[JPN] ']","['21-14', '21-12']",XD,20170228,"Mülheim an der Ruhr, Germany"
+99,"['Chi-Lin Wang', 'Chia Hsin Lee', 'Yuta Watanabe', 'Arisa Higashino']","['[TPE] ', '[TPE] ', '[JPN] ', '[JPN] ']","['21-17', '21-19']",XD,20170228,"Mülheim an der Ruhr, Germany"
+100,"['Greysia Polii [7]', 'Rizki Amelia Pradipta', 'Lisa Kaminski', 'Hannah Pohl']","['[INA] ', '[INA] ', '[GER] ', '[GER] ']","['21-3', '21-8']",WD,20170228,"Mülheim an der Ruhr, Germany"
+101,"['Kian Meng Tan [4]', 'Pei Jing Lai', 'Michael Fuchs', 'Birgit Overzier']","['[MAS] ', '[MAS] ', '[GER] ', '[GER] ']","['21-17', '18-21', '21-16']",XD,20170228,"Mülheim an der Ruhr, Germany"
+102,"['Sayaka Sato [7]', 'Chiang Mei Hui']","['[JPN] ', '[TPE] ']","['21-19', '22-20']",WS,20170228,"Mülheim an der Ruhr, Germany"
+103,"['Nanna Vainio', 'Yip Pui Yin']","['[FIN] ', '[HKG] ']","['21-17', '20-22', '21-18']",WS,20170228,"Mülheim an der Ruhr, Germany"
+104,"['Busanan Ongbamrungphan [3]', 'Natalia Perminova']","['[THA] ', '[RUS] ']","['21-11', '21-10']",WS,20170228,"Mülheim an der Ruhr, Germany"
+105,"['Minatsu Mitani', 'Mia Blichfeldt']","['[JPN] ', '[DEN] ']","['21-23', '21-10', '21-17']",WS,20170228,"Mülheim an der Ruhr, Germany"
+106,"['Ayumi Mine [8]', 'Maria Ulitina']","['[JPN] ', '[UKR] ']","['21-16', '21-19']",WS,20170228,"Mülheim an der Ruhr, Germany"
+107,"['Nitchaon Jindapol [6]', 'Natalia Koch Rohde']","['[THA] ', '[DEN] ']","['21-13', '21-15']",WS,20170228,"Mülheim an der Ruhr, Germany"
+108,"['Peng Soon Chan [2]', 'Liu Ying Goh', 'Anton Kaisti', 'Jenny Nystrom']","['[MAS] ', '[MAS] ', '[FIN] ', '[FIN] ']","['21-6', '21-7']",XD,20170228,"Mülheim an der Ruhr, Germany"
+109,"['Hsu Ya Ching', 'Beatriz Corrales']","['[TPE] ', '[ESP] ']","['21-11', '21-16']",WS,20170228,"Mülheim an der Ruhr, Germany"
+110,"['Carolina Marin [1]', 'Line Kjaersfeldt']","['[ESP] ', '[DEN] ']","['19-21', '21-11', '21-11']",WS,20170228,"Mülheim an der Ruhr, Germany"
+111,"['Lyanny Alessandra Mainaky', 'Airi Mikkela']","['[INA] ', '[FIN] ']","['21-11', '22-20']",WS,20170228,"Mülheim an der Ruhr, Germany"
+112,"['Cheung Ngan Yi [5]', 'Ksenia Polikarpova']","['[HKG] ', '[RUS] ']","['21-19', '21-10']",WS,20170228,"Mülheim an der Ruhr, Germany"
+113,"['Chia Hsin Lee', 'Shuo Yun Sung']","['[TPE] ', '[TPE] ']","['19-21', '21-18', '21-7']",WS,20170228,"Mülheim an der Ruhr, Germany"
+114,"['Sabrina Jaquet', 'Sofie Holmboe Dahl']","['[SUI] ', '[DEN] ']","['16-21', '21-15', '21-12']",WS,20170228,"Mülheim an der Ruhr, Germany"
+115,"['Akane Yamaguchi [2]', 'Mette Poulsen']","['[JPN] ', '[DEN] ']","['21-19', '21-19']",WS,20170228,"Mülheim an der Ruhr, Germany"
+116,"['Beiwen Zhang [4]', 'Xiaoyu Liang']","['[USA] ', '[SGP] ']","['21-15', '21-10']",WS,20170228,"Mülheim an der Ruhr, Germany"
+117,"['Gabriela Stoeva [3]', 'Stefani Stoeva', 'Ching Hui Chang', 'Yang Ching Tun']","['[BUL] ', '[BUL] ', '[TPE] ', '[TPE] ']","['21-16', '21-12']",WD,20170228,"Mülheim an der Ruhr, Germany"
+118,"['Huang Yaqiong', 'Tang Jinhua', 'Anne Katrine Hansen', 'Marie Louise Steffensen']","['[CHN] ', '[CHN] ', '[DEN] ', '[DEN] ']","['21-6', '21-15']",WD,20170228,"Mülheim an der Ruhr, Germany"
+119,"['Naoko Fukuman [1]', 'Kurumi Yonao', 'Maiken Fruergaard', 'Sara Thygesen']","['[JPN] ', '[JPN] ', '[DEN] ', '[DEN] ']","['21-19', '21-9']",WD,20170228,"Mülheim an der Ruhr, Germany"
+120,"['Xiao Min Lin', 'Wu Fang Chien', 'Anastasia Chervyakova', 'Olga Morozova']","['[TPE] ', '[TPE] ', '[RUS] ', '[RUS] ']","['21-15', '29-30', '21-13']",WD,20170228,"Mülheim an der Ruhr, Germany"
+121,"['Mathias Christiansen', 'David Daugaard', 'Takeshi Kamura [1]', 'Keigo Sonoda']","['[DEN] ', '[DEN] ', '[JPN] ', '[JPN] ']","['21-15', '25-23']",MD,20170228,"Mülheim an der Ruhr, Germany"
+122,"['Zvonimir Durkinjak', 'Christian Lind Thomsen']","['[CRO] ', '[DEN] ']","['21-11', '21-11']",MS,20170228,"Mülheim an der Ruhr, Germany"
+123,"['Julie Finne-Ipsen', 'Rikke Søby', 'Clara Nistad', 'Emma Wengberg']","['[DEN] ', '[DEN] ', '[SWE] ', '[SWE] ']","['21-8', '21-16']",WD,20170228,"Mülheim an der Ruhr, Germany"
+124,"['Takuma Ueda', 'Erik Meijs']","['[JPN] ', '[NED] ']","['21-10', '24-26', '21-12']",MS,20170228,"Mülheim an der Ruhr, Germany"
+125,"['Shiho Tanaka [8]', 'Koharu Yonemoto', 'Linda Efler', 'Eva Janssens']","['[JPN] ', '[JPN] ', '[GER] ', '[GER] ']","['21-8', '21-12']",WD,20170228,"Mülheim an der Ruhr, Germany"
+126,"['Yuki Fukushima', 'Sayaka Hirota', 'Hsin Tien Chang', 'Shuo Yun Sung']","['[JPN] ', '[JPN] ', '[TPE] ', '[TPE] ']","['21-8', '21-10']",WD,20170228,"Mülheim an der Ruhr, Germany"
+127,"['Emil Holst', 'Wong Wing Ki Vincent [11]']","['[DEN] ', '[HKG] ']","['21-18', '21-18']",MS,20170228,"Mülheim an der Ruhr, Germany"
+128,"['Bao Yixin', 'Yu Xiaohan', 'Chiang Kai Hsin', 'Hung Shih Han']","['[CHN] ', '[CHN] ', '[TPE] ', '[TPE] ']","['23-21', '21-15']",WD,20170228,"Mülheim an der Ruhr, Germany"
+129,"['Raul Must', 'Rajiv Ouseph [10]']","['[EST] ', '[ENG] ']",[],MS,20170228,"Mülheim an der Ruhr, Germany"
+130,"['Jhe-Huei Lee [5]', 'Yang Lee', 'Konstantin Abramov', 'Alexandr Zinchenko']","['[TPE] ', '[TPE] ', '[RUS] ', '[RUS] ']","['21-9', '21-13']",MD,20170228,"Mülheim an der Ruhr, Germany"
+131,"['Kim Astrup [4]', 'Anders Skaarup Rasmussen', 'Lu Ching Yao', 'Yang Po Han']","['[DEN] ', '[DEN] ', '[TPE] ', '[TPE] ']","['21-9', '16-21', '21-17']",MD,20170228,"Mülheim an der Ruhr, Germany"
+132,"['Ng Ka Long Angus [5]', 'Subhankar Dey']","['[HKG] ', '[IND] ']","['21-14', '21-8']",MS,20170228,"Mülheim an der Ruhr, Germany"
+133,"['Huang Dongping [5]', 'Li Yinhui', 'Lauren Smith', 'Sarah Walker']","['[CHN] ', '[CHN] ', '[ENG] ', '[ENG] ']","['21-8', '21-8']",WD,20170228,"Mülheim an der Ruhr, Germany"
+134,"['Tzu Wei Wang [14]', 'Lin Yu Hsien']","['[TPE] ', '[TPE] ']","['11-21', '21-19', '21-12']",MS,20170228,"Mülheim an der Ruhr, Germany"
+135,"['Hsu Ya Ching', 'Wu Ti Jung', 'Annika Horbach', 'Theresa Wurm']","['[TPE] ', '[TPE] ', '[GER] ', '[GER] ']","['21-10', '21-13']",WD,20170228,"Mülheim an der Ruhr, Germany"
+136,"['Arisa Higashino', 'Ayane Kurihara', 'Natalya Voytsekh', 'Yelyzaveta Zharka']","['[JPN] ', '[JPN] ', '[UKR] ', '[UKR] ']","['21-2', '21-15']",WD,20170228,"Mülheim an der Ruhr, Germany"
+137,"['Kanta Tsuneyama', 'Misha Zilberman']","['[JPN] ', '[ISR] ']","['21-7', '21-6']",MS,20170228,"Mülheim an der Ruhr, Germany"
+138,"['Jongkolphan Kititharakul [2]', 'Rawinda Prajongjai', 'Johanna Goliszewski', 'Lara Kaepplein']","['[THA] ', '[THA] ', '[GER] ', '[GER] ']","['21-14', '21-10']",WD,20170228,"Mülheim an der Ruhr, Germany"
+139,"['Anders Antonsen [16]', 'Simon Wang']","['[DEN] ', '[GER] ']","['21-13', '21-18']",MS,20170228,"Mülheim an der Ruhr, Germany"
+140,"['Bodin Isara [8]', 'Nipitphon Phuangphuapet', 'Yong Kai Terry Hee', 'Kean Hean Loh']","['[THA] ', '[THA] ', '[SGP] ', '[SGP] ']","['21-17', '16-21', '21-13']",MD,20170228,"Mülheim an der Ruhr, Germany"
+141,"['Isabel Herttrich', 'Carla Nelte', 'Jenny Nystrom', 'Sonja Pekkola']","['[GER] ', '[GER] ', '[FIN] ', '[FIN] ']","['21-13', '21-10']",WD,20170228,"Mülheim an der Ruhr, Germany"
+142,"['Lin Dan [3]', 'Mateusz Dubowski']","['[CHN] ', '[POL] ']","['21-14', '21-16']",MS,20170228,"Mülheim an der Ruhr, Germany"
+143,"['Della Destiara Haris [4]', 'Rosyita Eka Putri Sari', 'Anika Dörr', 'Jennifer Karnott']","['[INA] ', '[INA] ', '[GER] ', '[GER] ']","['21-10', '21-8']",WD,20170228,"Mülheim an der Ruhr, Germany"
+144,"['Chou Tien Chen [6]', 'Brice Leverdez']","['[TPE] ', '[FRA] ']","['19-21', '21-14', '21-11']",MS,20170228,"Mülheim an der Ruhr, Germany"
+145,"['Jones Ralfy Jansen', 'Josche Zurwonne', 'Takuto Inoue', 'Yuki Kaneko']","['[GER] ', '[GER] ', '[JPN] ', '[JPN] ']","['21-17', '21-16']",MD,20170228,"Mülheim an der Ruhr, Germany"
+146,"['Cheryl Seinen', 'Iris Tabeling', 'Nadia Fankhauser', 'Sannatasah Saniru']","['[NED] ', '[NED] ', '[SUI] ', '[MAS] ']","['21-16', '17-21', '21-18']",WD,20170228,"Mülheim an der Ruhr, Germany"
+147,"['Kim Bruun', 'Marc Zwiebler [7]']","['[DEN] ', '[GER] ']","['21-10', '11-6']",MS,20170228,"Mülheim an der Ruhr, Germany"
+148,"['Lu Kai', 'Zheng Siwei', 'Matijs Dierickx', 'Freek Golinski']","['[CHN] ', '[CHN] ', '[BEL] ', '[BEL] ']","['21-15', '21-3']",MD,20170228,"Mülheim an der Ruhr, Germany"
+149,"['Jacco Arends', 'Ruben Jille', 'Mohd Razif Abdul Latif', 'Muhammad Hafiz Hashim']","['[NED] ', '[NED] ', '[MAS] ', '[MAS] ']","['16-21', '21-13', '21-13']",MD,20170228,"Mülheim an der Ruhr, Germany"
+150,"['Chen Hung Ling [7]', 'Chi-Lin Wang', 'Jelle Maas', 'Robin Tabeling']","['[TPE] ', '[TPE] ', '[NED] ', '[NED] ']","['21-19', '21-12']",MD,20170228,"Mülheim an der Ruhr, Germany"
+151,"['Or Chin Chung', 'Tang Chun Man', 'Raphael Beck', 'Peter Kaesbauer']","['[HKG] ', '[HKG] ', '[GER] ', '[GER] ']","['21-15', '21-16']",MD,20170228,"Mülheim an der Ruhr, Germany"
+152,"['Fabian Roth', 'Henri Hurskainen']","['[GER] ', '[SWE] ']","['21-16', '21-17']",MS,20170228,"Mülheim an der Ruhr, Germany"
+153,"['Vladimir Ivanov [3]', 'Ivan Sozonov', 'Adam Cwalina', 'Pawel Pietryja']","['[RUS] ', '[RUS] ', '[POL] ', '[POL] ']","['21-15', '21-11']",MD,20170228,"Mülheim an der Ruhr, Germany"
+154,"['Hans-Kristian Solberg Vittinghus [9]', 'Kalle Koljonen']","['[DEN] ', '[FIN] ']","['21-12', '21-12']",MS,20170228,"Mülheim an der Ruhr, Germany"
+155,"['Richard Eidestedt', 'Nico Ruponen', 'Liao Kuan Hao', 'Lu Chia Pin']","['[SWE] ', '[SWE] ', '[TPE] ', '[TPE] ']","['21-17', '21-11']",MD,20170228,"Mülheim an der Ruhr, Germany"
+156,"['Huang Kaixiang', 'Wang Yilyu', 'Marcus Ellis [6]', 'Chris Langridge']","['[CHN] ', '[CHN] ', '[ENG] ', '[ENG] ']","['21-18', '23-21']",MD,20170228,"Mülheim an der Ruhr, Germany"
+157,"['Mads Conrad-Petersen [2]', 'Mads Pieler Kolding', 'Hendra Setiawan', 'Boon Heong Tan']","['[DEN] ', '[DEN] ', '[INA] ', '[MAS] ']","['14-21', '21-17', '21-15']",MD,20170228,"Mülheim an der Ruhr, Germany"
+158,"['Takuro Hoki', 'Yugo Kobayashi', 'Danny Bawa Chrisnanta', 'Hendra Wijaya']","['[JPN] ', '[JPN] ', '[SGP] ', '[SGP] ']","['21-10', '21-13']",MD,20170228,"Mülheim an der Ruhr, Germany"
+159,"['Kidambi Srikanth [12]', 'Yusuke Onodera']","['[IND] ', '[JPN] ']","['21-17', '21-18']",MS,20170228,"Mülheim an der Ruhr, Germany"
+160,"['Hiroyuki Endo', 'Yuta Watanabe', 'Mathias Bay-Smidt', 'Frederik Søgaard']","['[JPN] ', '[JPN] ', '[DEN] ', '[DEN] ']","['21-14', '21-16']",MD,20170228,"Mülheim an der Ruhr, Germany"
+161,"['Law Cheuk Him', 'Lee Chun Hei Reginald', 'Joshua Magee', 'Sam Magee']","['[HKG] ', '[HKG] ', '[IRL] ', '[IRL] ']","['22-20', '21-14']",MD,20170228,"Mülheim an der Ruhr, Germany"
+162,"['Chen Long [2]', 'Sam Parsons']","['[CHN] ', '[ENG] ']","['21-10', '21-6']",MS,20170228,"Mülheim an der Ruhr, Germany"
+163,"['Hu Yun [8]', 'Harshit Aggarwal']","['[HKG] ', '[IND] ']","['21-15', '21-11']",MS,20170228,"Mülheim an der Ruhr, Germany"
+164,"['Cheung Ngan Yi [5]', 'Lyanny Alessandra Mainaky']","['[HKG] ', '[INA] ']","['21-9', '21-13']",WS ,20170228,"Mülheim an der Ruhr, Germany"
+165,"['Gabriela Stoeva [3]', 'Stefani Stoeva', 'Huang Yaqiong', 'Tang Jinhua']","['[BUL] ', '[BUL] ', '[CHN] ', '[CHN] ']","['21-15', '21-17']",WD ,20170228,"Mülheim an der Ruhr, Germany"
+166,"['Nitchaon Jindapol [6]', 'Hsu Ya Ching']","['[THA] ', '[TPE] ']","['21-11', '21-11']",WS ,20170228,"Mülheim an der Ruhr, Germany"
+167,"['Chen Hung Ling [7]', 'Chi-Lin Wang', 'Jacco Arends', 'Ruben Jille']","['[TPE] ', '[TPE] ', '[NED] ', '[NED] ']","['21-8', '21-16']",MD ,20170228,"Mülheim an der Ruhr, Germany"
+168,"['Bodin Isara [8]', 'Nipitphon Phuangphuapet', 'Law Cheuk Him', 'Lee Chun Hei Reginald']","['[THA] ', '[THA] ', '[HKG] ', '[HKG] ']","['21-15', '21-15']",MD ,20170228,"Mülheim an der Ruhr, Germany"
+169,"['Hiroyuki Endo', 'Yuta Watanabe', 'Mathias Christiansen', 'David Daugaard']","['[JPN] ', '[JPN] ', '[DEN] ', '[DEN] ']","['24-22', '21-11']",MD ,20170228,"Mülheim an der Ruhr, Germany"
+170,"['Hsu Ya Ching', 'Wu Ti Jung', 'Xiao Min Lin', 'Wu Fang Chien']","['[TPE] ', '[TPE] ', '[TPE] ', '[TPE] ']","['21-18', '21-16']",WD ,20170228,"Mülheim an der Ruhr, Germany"
+171,"['Chi-Lin Wang', 'Chia Hsin Lee', 'Ko-Chi Chang', 'Hsin Tien Chang']","['[TPE] ', '[TPE] ', '[TPE] ', '[TPE] ']","['22-20', '21-7']",XD ,20170228,"Mülheim an der Ruhr, Germany"
+172,"['Kian Meng Tan [4]', 'Pei Jing Lai', 'Nipitphon Phuangphuapet', 'Jongkolphan Kititharakul']","['[MAS] ', '[MAS] ', '[THA] ', '[THA] ']","['21-16', '21-17']",XD ,20170228,"Mülheim an der Ruhr, Germany"
+173,"['Kenta Kazuno [6]', 'Ayane Kurihara', 'Lu Ching Yao', 'Chiang Kai Hsin']","['[JPN] ', '[JPN] ', '[TPE] ', '[TPE] ']","['21-11', '21-11']",XD ,20170228,"Mülheim an der Ruhr, Germany"
+174,"['Yuki Fukushima', 'Sayaka Hirota', 'Greysia Polii [7]', 'Rizki Amelia Pradipta']","['[JPN] ', '[JPN] ', '[INA] ', '[INA] ']","['19-21', '21-18', '21-12']",WD ,20170228,"Mülheim an der Ruhr, Germany"
+175,"['Minatsu Mitani', 'Busanan Ongbamrungphan [3]']","['[JPN] ', '[THA] ']","['21-19', '17-21', '21-11']",WS ,20170228,"Mülheim an der Ruhr, Germany"
+176,"['Isabel Herttrich', 'Carla Nelte', 'Naoko Fukuman [1]', 'Kurumi Yonao']","['[GER] ', '[GER] ', '[JPN] ', '[JPN] ']","['21-18', '8-21', '21-17']",WD ,20170228,"Mülheim an der Ruhr, Germany"
+177,"['Lu Kai', 'Zheng Siwei', 'Jhe-Huei Lee [5]', 'Yang Lee']","['[CHN] ', '[CHN] ', '[TPE] ', '[TPE] ']","['24-22', '21-9']",MD ,20170228,"Mülheim an der Ruhr, Germany"
+178,"['Vladimir Ivanov [3]', 'Ivan Sozonov', 'Or Chin Chung', 'Tang Chun Man']","['[RUS] ', '[RUS] ', '[HKG] ', '[HKG] ']","['21-10', '14-21', '21-9']",MD ,20170228,"Mülheim an der Ruhr, Germany"
+179,"['Carolina Marin [1]', 'Priskila Siahaya']","['[ESP] ', '[INA] ']","['21-15', '21-8']",WS ,20170228,"Mülheim an der Ruhr, Germany"
+180,"['Della Destiara Haris [4]', 'Rosyita Eka Putri Sari', 'Bao Yixin', 'Yu Xiaohan']","['[INA] ', '[INA] ', '[CHN] ', '[CHN] ']","['21-16', '24-22']",WD ,20170228,"Mülheim an der Ruhr, Germany"
+181,"['Peng Soon Chan [2]', 'Liu Ying Goh', 'Mark Lamsfuss', 'Isabel Herttrich']","['[MAS] ', '[MAS] ', '[GER] ', '[GER] ']","['21-15', '16-21', '23-21']",XD ,20170228,"Mülheim an der Ruhr, Germany"
+182,"['Chris Adcock [3]', 'Gabrielle Adcock', 'Hafiz Faizal', 'Shela Devi Aulia']","['[ENG] ', '[ENG] ', '[INA] ', '[INA] ']","['18-21', '23-21', '21-19']",XD ,20170228,"Mülheim an der Ruhr, Germany"
+183,"['Emil Holst', 'Lin Dan [3]']","['[DEN] ', '[CHN] ']","['21-10', '21-16']",MS ,20170228,"Mülheim an der Ruhr, Germany"
+184,"['Chen Long [2]', 'Kidambi Srikanth [12]']","['[CHN] ', '[IND] ']","['21-19', '22-20']",MS ,20170228,"Mülheim an der Ruhr, Germany"
+185,"['Huang Kaixiang', 'Wang Yilyu', 'Richard Eidestedt', 'Nico Ruponen']","['[CHN] ', '[CHN] ', '[SWE] ', '[SWE] ']","['21-11', '21-17']",MD ,20170228,"Mülheim an der Ruhr, Germany"
+186,"['Sayaka Sato [7]', 'Nanna Vainio']","['[JPN] ', '[FIN] ']","['21-9', '21-5']",WS ,20170228,"Mülheim an der Ruhr, Germany"
+187,"['Shiho Tanaka [8]', 'Koharu Yonemoto', 'Julie Finne-Ipsen', 'Rikke Søby']","['[JPN] ', '[JPN] ', '[DEN] ', '[DEN] ']","['21-12', '21-12']",WD ,20170228,"Mülheim an der Ruhr, Germany"
+188,"['Kim Astrup [4]', 'Anders Skaarup Rasmussen', 'Jones Ralfy Jansen', 'Josche Zurwonne']","['[DEN] ', '[DEN] ', '[GER] ', '[GER] ']","['24-22', '21-13']",MD ,20170228,"Mülheim an der Ruhr, Germany"
+189,"['Beiwen Zhang [4]', 'Chia Hsin Lee']","['[USA] ', '[TPE] ']","['21-13', '21-11']",WS ,20170228,"Mülheim an der Ruhr, Germany"
+190,"['Akane Yamaguchi [2]', 'Sabrina Jaquet']","['[JPN] ', '[SUI] ']","['16-21', '21-13', '21-14']",WS ,20170228,"Mülheim an der Ruhr, Germany"
+191,"['Jongkolphan Kititharakul [2]', 'Rawinda Prajongjai', 'Arisa Higashino', 'Ayane Kurihara']","['[THA] ', '[THA] ', '[JPN] ', '[JPN] ']","['15-21', '21-16', '21-13']",WD ,20170228,"Mülheim an der Ruhr, Germany"
+192,"['Raphael Beck', 'Carla Nelte', 'Bodin Isara [5]', 'Savitree Amitrapai']","['[GER] ', '[GER] ', '[THA] ', '[THA] ']","['14-21', '21-18', '23-21']",XD ,20170228,"Mülheim an der Ruhr, Germany"
+193,"['Chou Tien Chen [6]', 'Anders Antonsen [16]']","['[TPE] ', '[DEN] ']","['17-21', '21-11', '22-20']",MS ,20170228,"Mülheim an der Ruhr, Germany"
+194,"['Takuma Ueda', 'Fabian Roth']","['[JPN] ', '[GER] ']","['10-21', '21-19', '21-16']",MS Match of the day,20170228,"Mülheim an der Ruhr, Germany"
+195,"['Lu Kai [1]', 'Huang Yaqiong', 'Xu Chen', 'Du Yue']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['14-21', '21-13', '21-13']",XD ,20170228,"Mülheim an der Ruhr, Germany"
+196,"['Ayumi Mine [8]', 'Yvonne Li']","['[JPN] ', '[GER] ']","['21-8', '21-19']",WS ,20170228,"Mülheim an der Ruhr, Germany"
+197,"['Huang Dongping [5]', 'Li Yinhui', 'Cheryl Seinen', 'Iris Tabeling']","['[CHN] ', '[CHN] ', '[NED] ', '[NED] ']","['21-19', '21-15']",WD ,20170228,"Mülheim an der Ruhr, Germany"
+198,"['Hans-Kristian Solberg Vittinghus [9]', 'Hu Yun [8]']","['[DEN] ', '[HKG] ']","['21-9', '12-21', '22-20']",MS ,20170228,"Mülheim an der Ruhr, Germany"
+199,"['Ng Ka Long Angus [5]', 'Raul Must']","['[HKG] ', '[EST] ']",[],MS ,20170228,"Mülheim an der Ruhr, Germany"
+200,"['Zvonimir Durkinjak', 'Kim Bruun']","['[CRO] ', '[DEN] ']","['21-12', '21-16']",MS ,20170228,"Mülheim an der Ruhr, Germany"
+201,"['Tzu Wei Wang [14]', 'Kanta Tsuneyama']","['[TPE] ', '[JPN] ']","['21-16', '21-15']",MS ,20170228,"Mülheim an der Ruhr, Germany"
+202,"['Zhang Nan [8]', 'Li Yinhui', 'Yong Kai Terry Hee', 'Wei Han Tan']","['[CHN] ', '[CHN] ', '[SGP] ', '[SGP] ']","['21-8', '21-19']",XD ,20170228,"Mülheim an der Ruhr, Germany"
+203,"['Mads Conrad-Petersen [2]', 'Mads Pieler Kolding', 'Takuro Hoki', 'Yugo Kobayashi']","['[DEN] ', '[DEN] ', '[JPN] ', '[JPN] ']","['21-13', '21-14']",MD ,20170228,"Mülheim an der Ruhr, Germany"
+204,"['Huang Dongping [5]', 'Li Yinhui', 'Jongkolphan Kititharakul [2]', 'Rawinda Prajongjai']","['[CHN] ', '[CHN] ', '[THA] ', '[THA] ']","['21-14', '22-20']",WD ,20170228,"Mülheim an der Ruhr, Germany"
+205,"['Kim Astrup [4]', 'Anders Skaarup Rasmussen', 'Lu Kai', 'Zheng Siwei']","['[DEN] ', '[DEN] ', '[CHN] ', '[CHN] ']","['21-19', '22-24', '21-14']",MD ,20170228,"Mülheim an der Ruhr, Germany"
+206,"['Minatsu Mitani', 'Ayumi Mine [8]']","['[JPN] ', '[JPN] ']","['10-21', '21-18', '21-5']",WS ,20170228,"Mülheim an der Ruhr, Germany"
+207,"['Beiwen Zhang [4]', 'Nitchaon Jindapol [6]']","['[USA] ', '[THA] ']","['21-19', '22-20']",WS ,20170228,"Mülheim an der Ruhr, Germany"
+208,"['Zhang Nan [8]', 'Li Yinhui', 'Peng Soon Chan [2]', 'Liu Ying Goh']","['[CHN] ', '[CHN] ', '[MAS] ', '[MAS] ']","['21-13', '18-21', '25-23']",XD ,20170228,"Mülheim an der Ruhr, Germany"
+209,"['Vladimir Ivanov [3]', 'Ivan Sozonov', 'Chen Hung Ling [7]', 'Chi-Lin Wang']","['[RUS] ', '[RUS] ', '[TPE] ', '[TPE] ']","['21-16', '24-22']",MD ,20170228,"Mülheim an der Ruhr, Germany"
+210,"['Isabel Herttrich', 'Carla Nelte', 'Hsu Ya Ching', 'Wu Ti Jung']","['[GER] ', '[GER] ', '[TPE] ', '[TPE] ']","['14-21', '21-19', '21-13']",WD ,20170228,"Mülheim an der Ruhr, Germany"
+211,"['Chen Long [2]', 'Hans-Kristian Solberg Vittinghus [9]']","['[CHN] ', '[DEN] ']","['21-10', '5-3']",MS ,20170228,"Mülheim an der Ruhr, Germany"
+212,"['Shiho Tanaka [8]', 'Koharu Yonemoto', 'Della Destiara Haris [4]', 'Rosyita Eka Putri Sari']","['[JPN] ', '[JPN] ', '[INA] ', '[INA] ']","['21-15', '21-13']",WD ,20170228,"Mülheim an der Ruhr, Germany"
+213,"['Chou Tien Chen [6]', 'Emil Holst']","['[TPE] ', '[DEN] ']","['21-10', '21-14']",MS ,20170228,"Mülheim an der Ruhr, Germany"
+214,"['Kian Meng Tan [4]', 'Pei Jing Lai', 'Chi-Lin Wang', 'Chia Hsin Lee']","['[MAS] ', '[MAS] ', '[TPE] ', '[TPE] ']","['21-16', '14-21', '21-17']",XD ,20170228,"Mülheim an der Ruhr, Germany"
+215,"['Chris Adcock [3]', 'Gabrielle Adcock', 'Raphael Beck', 'Carla Nelte']","['[ENG] ', '[ENG] ', '[GER] ', '[GER] ']","['21-18', '21-12']",XD Match of the Day,20170228,"Mülheim an der Ruhr, Germany"
+216,"['Lu Kai [1]', 'Huang Yaqiong', 'Kenta Kazuno [6]', 'Ayane Kurihara']","['[CHN] ', '[CHN] ', '[JPN] ', '[JPN] ']","['21-10', '21-16']",XD ,20170228,"Mülheim an der Ruhr, Germany"
+217,"['Hiroyuki Endo', 'Yuta Watanabe', 'Bodin Isara [8]', 'Nipitphon Phuangphuapet']","['[JPN] ', '[JPN] ', '[THA] ', '[THA] ']","['21-14', '21-13']",MD ,20170228,"Mülheim an der Ruhr, Germany"
+218,"['Tzu Wei Wang [14]', 'Zvonimir Durkinjak']","['[TPE] ', '[CRO] ']","['21-19', '21-9']",MS ,20170228,"Mülheim an der Ruhr, Germany"
+219,"['Takuma Ueda', 'Ng Ka Long Angus [5]']","['[JPN] ', '[HKG] ']","['14-21', '21-17', '21-15']",MS ,20170228,"Mülheim an der Ruhr, Germany"
+220,"['Carolina Marin [1]', 'Sayaka Sato [7]']","['[ESP] ', '[JPN] ']","['21-17', '17-21', '21-13']",WS ,20170228,"Mülheim an der Ruhr, Germany"
+221,"['Akane Yamaguchi [2]', 'Cheung Ngan Yi [5]']","['[JPN] ', '[HKG] ']","['20-22', '21-18', '21-17']",WS ,20170228,"Mülheim an der Ruhr, Germany"
+222,"['Mads Conrad-Petersen [2]', 'Mads Pieler Kolding', 'Huang Kaixiang', 'Wang Yilyu']","['[DEN] ', '[DEN] ', '[CHN] ', '[CHN] ']","['21-11', '21-18']",MD ,20170228,"Mülheim an der Ruhr, Germany"
+223,"['Yuki Fukushima', 'Sayaka Hirota', 'Gabriela Stoeva [3]', 'Stefani Stoeva']","['[JPN] ', '[JPN] ', '[BUL] ', '[BUL] ']","['21-17', '21-17']",WD ,20170228,"Mülheim an der Ruhr, Germany"
+224,"['Lu Kai [1]', 'Huang Yaqiong', 'Kian Meng Tan [4]', 'Pei Jing Lai']","['[CHN] ', '[CHN] ', '[MAS] ', '[MAS] ']","['16-21', '21-16', '21-17']",XD ,20170228,"Mülheim an der Ruhr, Germany"
+225,"['Akane Yamaguchi [2]', 'Beiwen Zhang [4]']","['[JPN] ', '[USA] ']","['24-22', '21-19']",WS ,20170228,"Mülheim an der Ruhr, Germany"
+226,"['Chou Tien Chen [6]', 'Takuma Ueda']","['[TPE] ', '[JPN] ']","['21-17', '21-11']",MS ,20170228,"Mülheim an der Ruhr, Germany"
+227,"['Yuki Fukushima', 'Sayaka Hirota', 'Isabel Herttrich', 'Carla Nelte']","['[JPN] ', '[JPN] ', '[GER] ', '[GER] ']","['21-19', '21-10']",WD Match of the Day,20170228,"Mülheim an der Ruhr, Germany"
+228,"['Mads Conrad-Petersen [2]', 'Mads Pieler Kolding', 'Vladimir Ivanov [3]', 'Ivan Sozonov']","['[DEN] ', '[DEN] ', '[RUS] ', '[RUS] ']","['21-14', '21-16']",MD ,20170228,"Mülheim an der Ruhr, Germany"
+229,"['Zhang Nan [8]', 'Li Yinhui', 'Chris Adcock [3]', 'Gabrielle Adcock']","['[CHN] ', '[CHN] ', '[ENG] ', '[ENG] ']","['28-26', '21-19']",XD ,20170228,"Mülheim an der Ruhr, Germany"
+230,"['Huang Dongping [5]', 'Li Yinhui', 'Shiho Tanaka [8]', 'Koharu Yonemoto']","['[CHN] ', '[CHN] ', '[JPN] ', '[JPN] ']","['21-14', '21-13']",WD ,20170228,"Mülheim an der Ruhr, Germany"
+231,"['Tzu Wei Wang [14]', 'Chen Long [2]']","['[TPE] ', '[CHN] ']","['21-18', '8-21', '21-18']",MS ,20170228,"Mülheim an der Ruhr, Germany"
+232,"['Carolina Marin [1]', 'Minatsu Mitani']","['[ESP] ', '[JPN] ']","['21-10', '17-21', '21-18']",WS ,20170228,"Mülheim an der Ruhr, Germany"
+233,"['Kim Astrup [4]', 'Anders Skaarup Rasmussen', 'Hiroyuki Endo', 'Yuta Watanabe']","['[DEN] ', '[DEN] ', '[JPN] ', '[JPN] ']","['21-15', '14-21', '21-19']",MD ,20170228,"Mülheim an der Ruhr, Germany"
+234,"['Yuki Fukushima', 'Sayaka Hirota', 'Huang Dongping [5]', 'Li Yinhui']","['[JPN] ', '[JPN] ', '[CHN] ', '[CHN] ']","['15-21', '21-17', '21-15']",WD ,20170228,"Mülheim an der Ruhr, Germany"
+235,"['Chou Tien Chen [6]', 'Tzu Wei Wang [14]']","['[TPE] ', '[TPE] ']","['21-16', '21-14']",MS ,20170228,"Mülheim an der Ruhr, Germany"
+236,"['Kim Astrup [4]', 'Anders Skaarup Rasmussen', 'Mads Conrad-Petersen [2]', 'Mads Pieler Kolding']","['[DEN] ', '[DEN] ', '[DEN] ', '[DEN] ']","['21-17', '21-13']",MD ,20170228,"Mülheim an der Ruhr, Germany"
+237,"['Akane Yamaguchi [2]', 'Carolina Marin [1]']","['[JPN] ', '[ESP] ']",[],WS ,20170228,"Mülheim an der Ruhr, Germany"
+238,"['Zhang Nan [8]', 'Li Yinhui', 'Lu Kai [1]', 'Huang Yaqiong']","['[CHN] ', '[CHN] ', '[CHN] ', '[CHN] ']","['22-20', '21-11']",XD ,20170228,"Mülheim an der Ruhr, Germany"

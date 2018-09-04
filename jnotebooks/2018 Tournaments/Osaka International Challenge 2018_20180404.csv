@@ -1,169 +1,169 @@
-,PLAYERS,COUNTRIES,SCORES,EVENT,match_week
-0,"['Naohiro Matsukawa', 'Low Sheng Yan Nicholas']","['[JPN] ', '[SGP] ']","['21-5', '21-10']",MS - Qualification,20180404
-1,"['Seong Hyun Son', 'Namboun Luangamath']","['[KOR] ', '[LAO] ']","['21-5', '21-9']",MS - Qualification,20180404
-2,"['Koo Takahashi', 'Ye Hong Wei']","['[JPN] ', '[TPE] ']","['21-17', '21-12']",MS - Qualification,20180404
-3,"['Jin Kai Xu', 'Tanapat Wilaingam']","['[SGP] ', '[THA] ']","['21-10', '21-12']",MS - Qualification,20180404
-4,"['Motoya Ikebata', 'Su Li Wei']","['[JPN] ', '[TPE] ']","['24-22', '21-9']",MS - Qualification,20180404
-5,"['Akari Kurihara', 'Yu Jin Sim [3]']","['[JPN] ', '[KOR] ']","['16-21', '21-13', '21-11']",WS - Qualification,20180404
-6,"['Ayaho Sugino', 'Momoka Kimura']","['[JPN] ', '[JPN] ']","['21-14', '21-8']",WS - Qualification,20180404
-7,"['Ryota Ichii', 'Yehezkiel Fritz Mainaky [1]']","['[JPN] ', '[INA] ']","['21-6', '21-16']",MS - Qualification,20180404
-8,"['Minoru Koga', 'Lu Chen [4]']","['[JPN] ', '[TPE] ']","['21-12', '21-13']",MS - Qualification,20180404
-9,"['Motoya Ikebata', 'Teruki Muto', 'Low Sheng Yan Nicholas', 'Yap Zhe Bin Joshua']","['[JPN] ', '[JPN] ', '[SGP] ', '[SGP] ']","['21-15', '21-12']",MD - Qualification,20180404
-10,"['Se Young An', 'Yuki Minei']","['[KOR] ', '[JPN] ']","['21-16', '21-13']",WS - Qualification,20180404
-11,"['Taiki Kato', 'Kam Yong Shen Jordan']","['[JPN] ', '[SGP] ']","['21-3', '21-2']",MS - Qualification,20180404
-12,"['Asuka Sugiyama', 'Xi Qing Ong [4]']","['[JPN] ', '[SGP] ']","['21-9', '21-5']",WS - Qualification,20180404
-13,"['Nanami Someya', 'Yun Liang']","['[JPN] ', '[SGP] ']","['21-14', '21-13']",WS - Qualification,20180404
-14,"['Akito Homma', 'Jin Kai Xu']","['[JPN] ', '[SGP] ']","['21-14', '21-11']",MS - Qualification,20180404
-15,"['Takuma Obayashi [3]', 'Seong Hyun Son']","['[JPN] ', '[KOR] ']","['19-21', '21-12', '21-16']",MS - Qualification,20180404
-16,"['Naohiro Matsukawa', 'Lin Yong Sheng']","['[JPN] ', '[TPE] ']","['21-14', '21-7']",MS - Qualification,20180404
-17,"['Koo Takahashi', 'Yap Zhe Bin Joshua']","['[JPN] ', '[SGP] ']","['21-13', '21-8']",MS - Qualification,20180404
-18,"['Yun Kyu Lee [2]', 'Motoya Ikebata']","['[KOR] ', '[JPN] ']","['23-21', '21-15']",MS - Qualification,20180404
-19,"['Tuan Duc Do [1]', 'Nhu Thao Pham', 'Tsubasa Kawamura', 'Kaho Osawa']","['[VIE] ', '[VIE] ', '[JPN] ', '[JPN] ']","['21-12', '21-16']",XD,20180404
-20,"['Chang Ko-Chi [6]', 'Cheng Chi Ya', 'Takahiro Fujimaki', 'Misaki Makino']","['[TPE] ', '[TPE] ', '[JPN] ', '[JPN] ']","['21-9', '22-20']",XD,20180404
-21,"['Kenya Mitsuhashi', 'Naru Shinoya', 'Daisuke Suzuki', 'Yuho Imai']","['[JPN] ', '[JPN] ', '[JPN] ', '[JPN] ']","['21-15', '21-16']",XD,20180404
-22,"['Katsuki Tamate', 'Minori Zaitsu', 'Yehezkiel Fritz Mainaky [4]', 'Lyanny Alessandra Mainaky']","['[JPN] ', '[JPN] ', '[INA] ', '[INA] ']","['21-18', '21-13']",XD,20180404
-23,"['Yuan Cheng Wu', 'Yang Ching Tun', 'Hiroki Okamura', 'Yukiko Takahata']","['[TPE] ', '[TPE] ', '[JPN] ', '[JPN] ']","['20-22', '21-19', '21-16']",XD,20180404
-24,"['Kim Won Ho', 'Yu Rim Lee', 'Kohei Gondo [5]', 'Ayane Kurihara']","['[KOR] ', '[KOR] ', '[JPN] ', '[JPN] ']","['15-21', '21-19', '21-19']",XD,20180404
-25,"['Yang Ming-Tse', 'Sung Shuo Yun', 'Naoki Ishikawa', 'Kaede Kameda']","['[TPE] ', '[TPE] ', '[JPN] ', '[JPN] ']","['21-17', '21-13']",XD,20180404
-26,"['Tatsuya Watanabe', 'Nao Ono', 'Min Hyuk Kang', 'Ha Na Baek']","['[JPN] ', '[JPN] ', '[KOR] ', '[KOR] ']","['21-15', '21-16']",XD,20180404
-27,"['Tadayuki Urai', 'Rena Miyaura', 'Po Li-Wei [8]', 'Chang Ching Hui']","['[JPN] ', '[JPN] ', '[TPE] ', '[TPE] ']","['24-22', '21-11']",XD,20180404
-28,"['Hwi Tae Kim', 'Hye Jeong Kim', 'Su Li Wei', 'Kuo Yen Chi']","['[KOR] ', '[KOR] ', '[TPE] ', '[TPE] ']","['21-4', '21-8']",XD,20180404
-29,"['Taichi Saito', 'Akane Watanabe', 'Keisuke Yamashita', 'Saki Kimura']","['[JPN] ', '[JPN] ', '[JPN] ', '[JPN] ']","['21-4', '21-9']",XD,20180404
-30,"['Lu Chia Pin', 'Chang Hsin Tien', 'Yuta Takei', 'An Uesugi']","['[TPE] ', '[TPE] ', '[JPN] ', '[JPN] ']","['21-12', '24-22']",XD,20180404
-31,"['Tomoya Takashina', 'Rie Etoh', 'Lin Yong Sheng', 'Lin Hsiang Ti']","['[JPN] ', '[JPN] ', '[TPE] ', '[TPE] ']","['21-10', '21-18']",XD,20180404
-32,"['Yoshinori Takeuchi', 'Natsumi Uratani', 'Soya Sugiura', 'Shiena Fukumoto']","['[JPN] ', '[JPN] ', '[JPN] ', '[JPN] ']","['21-7', '21-12']",XD,20180404
-33,"['Yunosuke Kubota', 'Chiharu Shida', 'Fang-Jen Lee', 'Chien Hui Yu']","['[JPN] ', '[JPN] ', '[TPE] ', '[TPE] ']","['21-11', '21-17']",XD,20180404
-34,"['Mohamad Arif Abdul Latif [2]', 'Rusydina Antardayu Riodingin', 'Teruki Muto', 'Yu Oishi']","['[MAS] ', '[INA] ', '[JPN] ', '[JPN] ']","['21-17', '21-19']",XD,20180404
-35,"['Mizuki Fujii', 'Reika Kakiiwa', 'Yun Liang', 'Xi Qing Ong']","['[JPN] ', '[JPN] ', '[SGP] ', '[SGP] ']","['21-6', '21-7']",WD,20180404
-36,"['Yuho Imai', 'Minami Kawashima', 'Chang Hsin Tien', 'Chien Hui Yu']","['[JPN] ', '[JPN] ', '[TPE] ', '[TPE] ']","['21-19', '21-11']",WD,20180404
-37,"['Koki Watanabe [4]', 'Le Duc Phat']","['[JPN] ', '[VIE] ']","['21-14', '21-18']",MS,20180404
-38,"['Haruko Suzuki [4]', 'Thi Phuong Thuy Tran']","['[JPN] ', '[VIE] ']","['21-13', '21-18']",WS,20180404
-39,"['Hirokatsu Hashimoto', 'Hiroyuki Saeki', 'Motoya Ikebata', 'Teruki Muto']","['[JPN] ', '[JPN] ', '[JPN] ', '[JPN] ']","['21-8', '21-10']",MD,20180404
-40,"['Taiki Kato', 'Yuta Takei', 'Hyuk Gyun Choi [3]', 'Park Kyung Hoon']","['[JPN] ', '[JPN] ', '[KOR] ', '[KOR] ']","['25-23', '21-17']",MD,20180404
-41,"['Riichi Takeshita', 'Tien Minh Nguyen [1]']","['[JPN] ', '[VIE] ']","['21-16', '14-21', '21-11']",MS,20180404
-42,"['Sayaka Hobara', 'Natsuki Sone', 'Akari Nakashizu', 'Nanami Someya']","['[JPN] ', '[JPN] ', '[JPN] ', '[JPN] ']","['22-20', '21-7']",WD,20180404
-43,"['Po Li-Wei [1]', 'Yang Ming-Tse', 'Akito Homma', 'Ryota Ichii']","['[TPE] ', '[TPE] ', '[JPN] ', '[JPN] ']","['21-12', '21-11']",MD,20180404
-44,"['Koji Naito', 'Takuma Obayashi']","['[JPN] ', '[JPN] ']","['21-16', '18-21', '21-14']",MS,20180404
-45,"['Ayumi Mine', 'Asuka Sugiyama']","['[JPN] ', '[JPN] ']","['21-17', '21-9']",WS,20180404
-46,"['Natsuki Oie', 'Yuri Nakamura']","['[JPN] ', '[JPN] ']","['21-17', '21-10']",WS,20180404
-47,"['Se Young An', 'Natsuki Nidaira [3]']","['[KOR] ', '[JPN] ']","['21-16', '16-21', '21-11']",WS,20180404
-48,"['Jung Jae Wook [5]', 'Jae Hwan Kim', 'Keigo Higashino', 'Dai Watanabe']","['[KOR] ', '[KOR] ', '[JPN] ', '[JPN] ']","['21-19', '10-21', '21-19']",MD,20180404
-49,"['Hashiru Shimono', 'Yun Kyu Lee']","['[JPN] ', '[KOR] ']","['21-18', '21-11']",MS,20180404
-50,"['Ayaho Sugino', 'Nanami Akechi']","['[JPN] ', '[JPN] ']","['21-18', '21-9']",WS,20180404
-51,"['Yulfira Barkah', 'Rosyita Eka Putri Sari', 'Kaho Osawa', 'Hinata Suzuki']","['[INA] ', '[INA] ', '[JPN] ', '[JPN] ']","['17-21', '21-15', '21-15']",WD,20180404
-52,"['Inkarat Apisuk [7]', 'Tanupat Viriyangkura', 'Shohei Hoshino', 'Rei Sato']","['[THA] ', '[THA] ', '[JPN] ', '[JPN] ']","['21-16', '21-17']",MD,20180404
-53,"['Mahiro Kaneko', 'Yunosuke Kubota', 'Katsuki Tamate', 'Kyohei Yamashita']","['[JPN] ', '[JPN] ', '[JPN] ', '[JPN] ']","['21-15', '21-18']",MD,20180404
-54,"['Takuma Ueda [7]', 'Ha Young Woong']","['[JPN] ', '[KOR] ']","['16-21', '21-18', '21-19']",MS,20180404
-55,"['Panji Ahmad Maulana [5]', 'Ryotaro Maruo']","['[INA] ', '[JPN] ']","['21-19', '21-13']",MS,20180404
-56,"['Thi Trang (B) Vu [5]', 'Yuki Suzuki']","['[VIE] ', '[JPN] ']","['21-17', '21-14']",WS,20180404
-57,"['Lyanny Alessandra Mainaky [7]', 'Lin Hsiang Ti']","['[INA] ', '[TPE] ']","['21-16', '21-17']",WS,20180404
-58,"['Erina Honda', 'Nozomi Shimizu', 'Anggia Shitta Awanda', 'Meirisa Cindy Sahputri']","['[JPN] ', '[JPN] ', '[INA] ', '[INA] ']","['16-21', '21-16', '21-15']",WD,20180404
-59,"['Ni Ketut Mahadewi Istarani', 'Nitya Krishinda Maheswari', 'Nami Matsuyama', 'Chiharu Shida']","['[INA] ', '[INA] ', '[JPN] ', '[JPN] ']",['4-1'],WD,20180404
-60,"['Tae In Jung', 'Hwi Tae Kim', 'Kam Yong Shen Jordan', 'Jin Kai Xu']","['[KOR] ', '[KOR] ', '[SGP] ', '[SGP] ']","['21-3', '21-6']",MD,20180404
-61,"['Natsumi Shimoda', 'Akari Kurihara']","['[JPN] ', '[JPN] ']","['18-21', '21-17', '21-14']",WS,20180404
-62,"['Naoki Yamazawa', 'Cao Cuong Pham [6]']","['[JPN] ', '[VIE] ']","['18-21', '21-12', '21-19']",MS,20180404
-63,"['Miki Kashihara', 'Miyuki Kato', 'Cheng Chi Ya', 'Sung Shuo Yun']","['[JPN] ', '[JPN] ', '[TPE] ', '[TPE] ']","['21-14', '21-11']",WD,20180404
-64,"['Tuan Duc Do [6]', 'Hong Nam Pham', 'Lin Yong Sheng', 'Su Li Wei']","['[VIE] ', '[VIE] ', '[TPE] ', '[TPE] ']","['22-20', '21-15']",MD,20180404
-65,"['Kodai Naraoka', 'Adulrach Namkul [8]']","['[JPN] ', '[THA] ']","['21-18', '21-18']",MS,20180404
-66,"['Yukino Nakai', 'Jui Jeon']","['[JPN] ', '[KOR] ']","['22-20', '21-17']",WS,20180404
-67,"['Ga Eun Kim', 'Shiori Saito [8]']","['[KOR] ', '[JPN] ']","['21-17', '17-21', '25-23']",WS,20180404
-68,"['Min Hyuk Kang', 'Kim Won Ho', 'Masato Takano', 'Yoshiki Tsukamoto']","['[KOR] ', '[KOR] ', '[JPN] ', '[JPN] ']","['21-10', '21-12']",MD,20180404
-69,"['Chang En Chia', 'Koo Takahashi']","['[TPE] ', '[JPN] ']","['22-24', '21-18', '21-6']",MS,20180404
-70,"['Chang Ching Hui', 'Yang Ching Tun', 'Shiena Fukumoto', 'An Uesugi']","['[TPE] ', '[TPE] ', '[JPN] ', '[JPN] ']","['15-21', '21-19', '21-19']",WD,20180404
-71,"['Asuka Takahashi', 'Kuo Yen Chi']","['[JPN] ', '[TPE] ']","['21-12', '21-6']",WS,20180404
-72,"['Lakshya Sen', 'Akito Homma']","['[IND] ', '[JPN] ']","['21-17', '21-9']",MS,20180404
-73,"['Keiichiro Matsui [4]', 'Yoshinori Takeuchi', 'Akira Koga', 'Taichi Saito']","['[JPN] ', '[JPN] ', '[JPN] ', '[JPN] ']","['21-17', '17-21', '22-20']",MD,20180404
-74,"['Lin Yu Chieh', 'Yuan Cheng Wu', 'Soya Sugiura', 'Keisuke Yamashita']","['[TPE] ', '[TPE] ', '[JPN] ', '[JPN] ']","['21-16', '21-12']",MD,20180404
-75,"['Ha Na Baek', 'Yu Rim Lee', 'Saki Kimura', 'Yu Oishi']","['[KOR] ', '[KOR] ', '[JPN] ', '[JPN] ']","['21-10', '21-8']",WD,20180404
-76,"['Yui Hashimoto', 'Thamolwan Poopradubsil']","['[JPN] ', '[THA] ']","['21-15', '24-22']",WS,20180404
-77,"['Yusuke Onodera', 'Ryota Ichii']","['[JPN] ', '[JPN] ']","['21-13', '21-13']",MS,20180404
-78,"['Naohiro Matsukawa', 'Daniel Fan']","['[JPN] ', '[AUS] ']","['21-8', '21-13']",MS,20180404
-79,"['Sayaka Takahashi [1]', 'Rira Kawashima']","['[JPN] ', '[JPN] ']","['21-16', '21-10']",WS,20180404
-80,"['Minoru Koga', 'Sitthikom Thammasin [3]']","['[JPN] ', '[THA] ']","['21-13', '21-16']",MS,20180404
-81,"['Kazuteru Kozai', 'Chia Hao Lee']","['[JPN] ', '[TPE] ']","['22-20', '21-15']",MS,20180404
-82,"['Yui Suizu', 'Rusydina Antardayu Riodingin']","['[JPN] ', '[INA] ']","['21-8', '21-14']",WS,20180404
-83,"['Yu Igarashi [2]', 'Kwang Hee Heo']","['[JPN] ', '[KOR] ']","['13-21', '21-18', '21-9']",MS,20180404
-84,"['Minatsu Mitani [2]', 'Nanami Someya']","['[JPN] ', '[JPN] ']","['23-21', '21-12']",WS,20180404
-85,"['Lu Chen', 'Ye Hong Wei', 'Hashiru Shimono', 'Tatsuya Watanabe']","['[TPE] ', '[TPE] ', '[JPN] ', '[JPN] ']","['21-11', '24-22']",MD,20180404
-86,"['Mohamad Arif Abdul Latif', 'Nur Mohd Azriyn Ayub', 'Kazuhiro Ichikawa', 'Daiki Umayahara']","['[MAS] ', '[MAS] ', '[JPN] ', '[JPN] ']","['21-11', '17-21', '21-16']",MD,20180404
-87,"['Hu Chuan-En', 'Taiki Kato']","['[TPE] ', '[JPN] ']","['15-21', '21-18', '21-19']",MS,20180404
-88,"['Se Yeon Lee', 'Sung Shuo Yun [6]']","['[KOR] ', '[TPE] ']","['11-21', '21-15', '21-18']",WS,20180404
-89,"['Chang Ko-Chi', 'Lu Chia Pin', 'Tsubasa Kawamura', 'Koo Takahashi']","['[TPE] ', '[TPE] ', '[JPN] ', '[JPN] ']","['21-16', '21-13']",MD,20180404
-90,"['Kuo Yen Chi', 'Lin Hsiang Ti', 'Asuka Sugiyama', 'Miyu Takahashi']","['[TPE] ', '[TPE] ', '[JPN] ', '[JPN] ']","['21-17', '21-13']",WD,20180404
-91,"['Fang-Chih Lee [8]', 'Fang-Jen Lee', 'Namboun Luangamath', 'Daophet Phetsiriseng']","['[TPE] ', '[TPE] ', '[LAO] ', '[LAO] ']","['21-13', '21-15']",MD,20180404
-92,"['Hiroki Okamura [2]', 'Masayuki Onodera', 'Chang En Chia', 'Chia Hao Lee']","['[JPN] ', '[JPN] ', '[TPE] ', '[TPE] ']","['21-14', '21-8']",MD,20180404
-93,"['Hwi Tae Kim', 'Hye Jeong Kim', 'Tuan Duc Do [1]', 'Nhu Thao Pham']","['[KOR] ', '[KOR] ', '[VIE] ', '[VIE] ']","['21-11', '21-18']",XD,20180404
-94,"['Katsuki Tamate', 'Minori Zaitsu', 'Yuan Cheng Wu', 'Yang Ching Tun']","['[JPN] ', '[JPN] ', '[TPE] ', '[TPE] ']","['21-17', '21-14']",XD,20180404
-95,"['Kim Won Ho', 'Yu Rim Lee', 'Yang Ming-Tse', 'Sung Shuo Yun']","['[KOR] ', '[KOR] ', '[TPE] ', '[TPE] ']","['21-8', '21-14']",XD,20180404
-96,"['Tadayuki Urai', 'Rena Miyaura', 'Tatsuya Watanabe', 'Nao Ono']","['[JPN] ', '[JPN] ', '[JPN] ', '[JPN] ']","['17-21', '21-13', '21-15']",XD,20180404
-97,"['Koki Watanabe [4]', 'Naohiro Matsukawa']","['[JPN] ', '[JPN] ']","['21-15', '16-21', '21-16']",MS,20180404
-98,"['Kodai Naraoka', 'Koji Naito']","['[JPN] ', '[JPN] ']","['21-10', '22-20']",MS,20180404
-99,"['Sayaka Takahashi [1]', 'Natsumi Shimoda']","['[JPN] ', '[JPN] ']","['21-16', '21-11']",WS,20180404
-100,"['Yui Hashimoto', 'Thi Trang (B) Vu [5]']","['[JPN] ', '[VIE] ']","['15-21', '21-17', '24-22']",WS,20180404
-101,"['Kenya Mitsuhashi', 'Naru Shinoya', 'Chang Ko-Chi [6]', 'Cheng Chi Ya']","['[JPN] ', '[JPN] ', '[TPE] ', '[TPE] ']","['21-11', '21-17']",XD,20180404
-102,"['Takuma Ueda [7]', 'Chang En Chia']","['[JPN] ', '[TPE] ']","['21-10', '21-17']",MS,20180404
-103,"['Minoru Koga', 'Kazuteru Kozai']","['[JPN] ', '[JPN] ']","['21-15', '27-25']",MS,20180404
-104,"['Minatsu Mitani [2]', 'Asuka Takahashi']","['[JPN] ', '[JPN] ']","['21-13', '21-15']",WS,20180404
-105,"['Yukino Nakai', 'Se Young An']","['[JPN] ', '[KOR] ']","['21-18', '22-20']",WS,20180404
-106,"['Yunosuke Kubota', 'Chiharu Shida', 'Mohamad Arif Abdul Latif [2]', 'Rusydina Antardayu Riodingin']","['[JPN] ', '[JPN] ', '[MAS] ', '[INA] ']","['22-20', '21-11']",XD,20180404
-107,"['Hashiru Shimono', 'Naoki Yamazawa']","['[JPN] ', '[JPN] ']","['12-21', '21-11', '21-19']",MS,20180404
-108,"['Yu Igarashi [2]', 'Hu Chuan-En']","['[JPN] ', '[TPE] ']","['21-13', '21-7']",MS,20180404
-109,"['Ayumi Mine', 'Ga Eun Kim']","['[JPN] ', '[KOR] ']","['16-21', '21-19', '21-15']",WS,20180404
-110,"['Taichi Saito', 'Akane Watanabe', 'Lu Chia Pin', 'Chang Hsin Tien']","['[JPN] ', '[JPN] ', '[TPE] ', '[TPE] ']","['21-11', '19-21', '21-16']",XD,20180404
-111,"['Tomoya Takashina', 'Rie Etoh', 'Yoshinori Takeuchi', 'Natsumi Uratani']","['[JPN] ', '[JPN] ', '[JPN] ', '[JPN] ']","['26-24', '22-20']",XD,20180404
-112,"['Ayaho Sugino', 'Lyanny Alessandra Mainaky [7]']","['[JPN] ', '[INA] ']","['21-4', '21-9']",WS,20180404
-113,"['Haruko Suzuki [4]', 'Yui Suizu']","['[JPN] ', '[JPN] ']","['22-20', '21-17']",WS,20180404
-114,"['Natsuki Oie', 'Se Yeon Lee']","['[JPN] ', '[KOR] ']","['15-21', '21-18', '21-19']",WS,20180404
-115,"['Panji Ahmad Maulana [5]', 'Lakshya Sen']","['[INA] ', '[IND] ']","['22-20', '19-21', '21-14']",MS,20180404
-116,"['Yusuke Onodera', 'Riichi Takeshita']","['[JPN] ', '[JPN] ']","['21-17', '21-17']",MS,20180404
-117,"['Mahiro Kaneko', 'Yunosuke Kubota', 'Tuan Duc Do [6]', 'Hong Nam Pham']","['[JPN] ', '[JPN] ', '[VIE] ', '[VIE] ']","['21-17', '21-14']",MD,20180404
-118,"['Min Hyuk Kang', 'Kim Won Ho', 'Po Li-Wei [1]', 'Yang Ming-Tse']","['[KOR] ', '[KOR] ', '[TPE] ', '[TPE] ']","['21-15', '21-17']",MD,20180404
-119,"['Hiroki Okamura [2]', 'Masayuki Onodera', 'Tae In Jung', 'Hwi Tae Kim']","['[JPN] ', '[JPN] ', '[KOR] ', '[KOR] ']","['22-20', '21-15']",MD,20180404
-120,"['Chang Ko-Chi', 'Lu Chia Pin', 'Keiichiro Matsui [4]', 'Yoshinori Takeuchi']","['[TPE] ', '[TPE] ', '[JPN] ', '[JPN] ']","['21-11', '22-20']",MD,20180404
-121,"['Ha Na Baek', 'Yu Rim Lee', 'Sayaka Hobara', 'Natsuki Sone']","['[KOR] ', '[KOR] ', '[JPN] ', '[JPN] ']","['21-16', '21-10']",WD,20180404
-122,"['Yulfira Barkah', 'Rosyita Eka Putri Sari', 'Rin Iwanaga', 'Yui Suizu']","['[INA] ', '[INA] ', '[JPN] ', '[JPN] ']","['18-21', '21-11', '21-19']",WD,20180404
-123,"['Mizuki Fujii', 'Reika Kakiiwa', 'Savitree Amitrapai [4]', 'Pacharapun Chochuwong']","['[JPN] ', '[JPN] ', '[THA] ', '[THA] ']","['21-19', '21-12']",WD,20180404
-124,"['Misato Aratama [2]', 'Akane Watanabe', 'Miki Kashihara', 'Miyuki Kato']","['[JPN] ', '[JPN] ', '[JPN] ', '[JPN] ']","['21-17', '21-17']",WD,20180404
-125,"['Naoko Fukuman [1]', 'Kurumi Yonao', 'Yuho Imai', 'Minami Kawashima']","['[JPN] ', '[JPN] ', '[JPN] ', '[JPN] ']","['21-11', '21-14']",WD,20180404
-126,"['Erina Honda', 'Nozomi Shimizu', 'Kuo Yen Chi', 'Lin Hsiang Ti']","['[JPN] ', '[JPN] ', '[TPE] ', '[TPE] ']","['21-7', '21-10']",WD,20180404
-127,"['Ayako Sakuramoto [3]', 'Yukiko Takahata', 'Chang Ching Hui', 'Yang Ching Tun']","['[JPN] ', '[JPN] ', '[TPE] ', '[TPE] ']","['21-8', '21-9']",WD,20180404
-128,"['Hirokatsu Hashimoto', 'Hiroyuki Saeki', 'Jung Jae Wook [5]', 'Jae Hwan Kim']","['[JPN] ', '[JPN] ', '[KOR] ', '[KOR] ']","['12-21', '21-19', '21-19']",MD,20180404
-129,"['Rira Kawashima', 'Saori Ozaki', 'Ni Ketut Mahadewi Istarani', 'Nitya Krishinda Maheswari']","['[JPN] ', '[JPN] ', '[INA] ', '[INA] ']","['21-18', '21-14']",WD,20180404
-130,"['Inkarat Apisuk [7]', 'Tanupat Viriyangkura', 'Lin Yu Chieh', 'Yuan Cheng Wu']","['[THA] ', '[THA] ', '[TPE] ', '[TPE] ']","['25-27', '22-20', '21-5']",MD,20180404
-131,"['Lu Chen', 'Ye Hong Wei', 'Taiki Kato', 'Yuta Takei']","['[TPE] ', '[TPE] ', '[JPN] ', '[JPN] ']","['21-19', '21-9']",MD,20180404
-132,"['Mohamad Arif Abdul Latif', 'Nur Mohd Azriyn Ayub', 'Fang-Chih Lee [8]', 'Fang-Jen Lee']","['[MAS] ', '[MAS] ', '[TPE] ', '[TPE] ']","['21-17', '14-21', '21-18']",MD,20180404
-133,"['Kodai Naraoka', 'Koki Watanabe [4]']","['[JPN] ', '[JPN] ']","['19-21', '21-17', '21-15']",MS,20180404
-134,"['Yusuke Onodera', 'Takuma Ueda [7]']","['[JPN] ', '[JPN] ']","['21-15', '21-9']",MS,20180404
-135,"['Minoru Koga', 'Panji Ahmad Maulana [5]']","['[JPN] ', '[INA] ']","['21-10', '21-13']",MS,20180404
-136,"['Ayaho Sugino', 'Yukino Nakai']","['[JPN] ', '[JPN] ']","['21-17', '21-16']",WS,20180404
-137,"['Yui Hashimoto', 'Sayaka Takahashi [1]']","['[JPN] ', '[JPN] ']","['11-21', '21-18', '21-14']",WS,20180404
-138,"['Min Hyuk Kang', 'Kim Won Ho', 'Mahiro Kaneko', 'Yunosuke Kubota']","['[KOR] ', '[KOR] ', '[JPN] ', '[JPN] ']","['21-18', '21-9']",MD,20180404
-139,"['Ayako Sakuramoto [3]', 'Yukiko Takahata', 'Ha Na Baek', 'Yu Rim Lee']","['[JPN] ', '[JPN] ', '[KOR] ', '[KOR] ']","['8-21', '21-12', '21-17']",WD,20180404
-140,"['Naoko Fukuman [1]', 'Kurumi Yonao', 'Yulfira Barkah', 'Rosyita Eka Putri Sari']","['[JPN] ', '[JPN] ', '[INA] ', '[INA] ']","['21-10', '21-17']",WD,20180404
-141,"['Erina Honda', 'Nozomi Shimizu', 'Mizuki Fujii', 'Reika Kakiiwa']","['[JPN] ', '[JPN] ', '[JPN] ', '[JPN] ']","['21-16', '21-14']",WD,20180404
-142,"['Inkarat Apisuk [7]', 'Tanupat Viriyangkura', 'Lu Chen', 'Ye Hong Wei']","['[THA] ', '[THA] ', '[TPE] ', '[TPE] ']","['21-13', '21-12']",MD,20180404
-143,"['Mohamad Arif Abdul Latif', 'Nur Mohd Azriyn Ayub', 'Hiroki Okamura [2]', 'Masayuki Onodera']","['[MAS] ', '[MAS] ', '[JPN] ', '[JPN] ']","['21-15', '21-15']",MD,20180404
-144,"['Rira Kawashima', 'Saori Ozaki', 'Misato Aratama [2]', 'Akane Watanabe']","['[JPN] ', '[JPN] ', '[JPN] ', '[JPN] ']","['21-14', '22-20']",WD,20180404
-145,"['Minatsu Mitani [2]', 'Natsuki Oie']","['[JPN] ', '[JPN] ']","['21-19', '21-13']",WS,20180404
-146,"['Hirokatsu Hashimoto', 'Hiroyuki Saeki', 'Chang Ko-Chi', 'Lu Chia Pin']","['[JPN] ', '[JPN] ', '[TPE] ', '[TPE] ']","['21-11', '20-22', '24-22']",MD,20180404
-147,"['Ayumi Mine', 'Haruko Suzuki [4]']","['[JPN] ', '[JPN] ']","['21-14', '19-21', '21-18']",WS,20180404
-148,"['Yu Igarashi [2]', 'Hashiru Shimono']","['[JPN] ', '[JPN] ']","['21-13', '21-16']",MS,20180404
-149,"['Kenya Mitsuhashi', 'Naru Shinoya', 'Hwi Tae Kim', 'Hye Jeong Kim']","['[JPN] ', '[JPN] ', '[KOR] ', '[KOR] ']","['21-15', '21-15']",XD,20180404
-150,"['Kim Won Ho', 'Yu Rim Lee', 'Katsuki Tamate', 'Minori Zaitsu']","['[KOR] ', '[KOR] ', '[JPN] ', '[JPN] ']","['21-12', '21-14']",XD,20180404
-151,"['Tadayuki Urai', 'Rena Miyaura', 'Taichi Saito', 'Akane Watanabe']","['[JPN] ', '[JPN] ', '[JPN] ', '[JPN] ']","['21-19', '21-15']",XD,20180404
-152,"['Yunosuke Kubota', 'Chiharu Shida', 'Tomoya Takashina', 'Rie Etoh']","['[JPN] ', '[JPN] ', '[JPN] ', '[JPN] ']","['21-19', '21-12']",XD,20180404
-153,"['Kim Won Ho', 'Yu Rim Lee', 'Kenya Mitsuhashi', 'Naru Shinoya']","['[KOR] ', '[KOR] ', '[JPN] ', '[JPN] ']","['21-16', '21-13']",XD ,20180404
-154,"['Kodai Naraoka', 'Yusuke Onodera']","['[JPN] ', '[JPN] ']","['21-14', '21-16']",MS ,20180404
-155,"['Mohamad Arif Abdul Latif', 'Nur Mohd Azriyn Ayub', 'Inkarat Apisuk [7]', 'Tanupat Viriyangkura']","['[MAS] ', '[MAS] ', '[THA] ', '[THA] ']","['21-16', '23-21']",MD ,20180404
-156,"['Ayaho Sugino', 'Yui Hashimoto']","['[JPN] ', '[JPN] ']","['19-21', '21-15', '21-11']",WS ,20180404
-157,"['Naoko Fukuman [1]', 'Kurumi Yonao', 'Erina Honda', 'Nozomi Shimizu']","['[JPN] ', '[JPN] ', '[JPN] ', '[JPN] ']","['14-21', '21-11', '21-17']",WD ,20180404
-158,"['Ayako Sakuramoto [3]', 'Yukiko Takahata', 'Rira Kawashima', 'Saori Ozaki']","['[JPN] ', '[JPN] ', '[JPN] ', '[JPN] ']","['21-16', '21-13']",WD ,20180404
-159,"['Yu Igarashi [2]', 'Minoru Koga']","['[JPN] ', '[JPN] ']","['21-19', '21-15']",MS ,20180404
-160,"['Ayumi Mine', 'Minatsu Mitani [2]']","['[JPN] ', '[JPN] ']","['13-21', '21-19', '21-12']",WS ,20180404
-161,"['Yunosuke Kubota', 'Chiharu Shida', 'Tadayuki Urai', 'Rena Miyaura']","['[JPN] ', '[JPN] ', '[JPN] ', '[JPN] ']","['23-21', '21-16']",XD ,20180404
-162,"['Hirokatsu Hashimoto', 'Hiroyuki Saeki', 'Min Hyuk Kang', 'Kim Won Ho']","['[JPN] ', '[JPN] ', '[KOR] ', '[KOR] ']","['17-21', '21-17', '21-18']",MD ,20180404
-163,"['Kim Won Ho', 'Yu Rim Lee', 'Yunosuke Kubota', 'Chiharu Shida']","['[KOR] ', '[KOR] ', '[JPN] ', '[JPN] ']","['21-17', '21-12']",XD ,20180404
-164,"['Yu Igarashi [2]', 'Kodai Naraoka']","['[JPN] ', '[JPN] ']","['14-21', '21-11', '21-12']",MS ,20180404
-165,"['Naoko Fukuman [1]', 'Kurumi Yonao', 'Ayako Sakuramoto [3]', 'Yukiko Takahata']","['[JPN] ', '[JPN] ', '[JPN] ', '[JPN] ']","['17-21', '21-19', '21-16']",WD ,20180404
-166,"['Ayumi Mine', 'Ayaho Sugino']","['[JPN] ', '[JPN] ']","['21-14', '21-16']",WS ,20180404
-167,"['Hirokatsu Hashimoto', 'Hiroyuki Saeki', 'Mohamad Arif Abdul Latif', 'Nur Mohd Azriyn Ayub']","['[JPN] ', '[JPN] ', '[MAS] ', '[MAS] ']","['21-19', '15-21', '21-15']",MD ,20180404
+,PLAYERS,COUNTRIES,SCORES,EVENT,match_week,match_location
+0,"['Naohiro Matsukawa', 'Low Sheng Yan Nicholas']","['[JPN] ', '[SGP] ']","['21-5', '21-10']",MS - Qualification,20180404,"Moriguchi, Japan"
+1,"['Seong Hyun Son', 'Namboun Luangamath']","['[KOR] ', '[LAO] ']","['21-5', '21-9']",MS - Qualification,20180404,"Moriguchi, Japan"
+2,"['Koo Takahashi', 'Ye Hong Wei']","['[JPN] ', '[TPE] ']","['21-17', '21-12']",MS - Qualification,20180404,"Moriguchi, Japan"
+3,"['Jin Kai Xu', 'Tanapat Wilaingam']","['[SGP] ', '[THA] ']","['21-10', '21-12']",MS - Qualification,20180404,"Moriguchi, Japan"
+4,"['Motoya Ikebata', 'Su Li Wei']","['[JPN] ', '[TPE] ']","['24-22', '21-9']",MS - Qualification,20180404,"Moriguchi, Japan"
+5,"['Akari Kurihara', 'Yu Jin Sim [3]']","['[JPN] ', '[KOR] ']","['16-21', '21-13', '21-11']",WS - Qualification,20180404,"Moriguchi, Japan"
+6,"['Ayaho Sugino', 'Momoka Kimura']","['[JPN] ', '[JPN] ']","['21-14', '21-8']",WS - Qualification,20180404,"Moriguchi, Japan"
+7,"['Ryota Ichii', 'Yehezkiel Fritz Mainaky [1]']","['[JPN] ', '[INA] ']","['21-6', '21-16']",MS - Qualification,20180404,"Moriguchi, Japan"
+8,"['Minoru Koga', 'Lu Chen [4]']","['[JPN] ', '[TPE] ']","['21-12', '21-13']",MS - Qualification,20180404,"Moriguchi, Japan"
+9,"['Motoya Ikebata', 'Teruki Muto', 'Low Sheng Yan Nicholas', 'Yap Zhe Bin Joshua']","['[JPN] ', '[JPN] ', '[SGP] ', '[SGP] ']","['21-15', '21-12']",MD - Qualification,20180404,"Moriguchi, Japan"
+10,"['Se Young An', 'Yuki Minei']","['[KOR] ', '[JPN] ']","['21-16', '21-13']",WS - Qualification,20180404,"Moriguchi, Japan"
+11,"['Taiki Kato', 'Kam Yong Shen Jordan']","['[JPN] ', '[SGP] ']","['21-3', '21-2']",MS - Qualification,20180404,"Moriguchi, Japan"
+12,"['Asuka Sugiyama', 'Xi Qing Ong [4]']","['[JPN] ', '[SGP] ']","['21-9', '21-5']",WS - Qualification,20180404,"Moriguchi, Japan"
+13,"['Nanami Someya', 'Yun Liang']","['[JPN] ', '[SGP] ']","['21-14', '21-13']",WS - Qualification,20180404,"Moriguchi, Japan"
+14,"['Akito Homma', 'Jin Kai Xu']","['[JPN] ', '[SGP] ']","['21-14', '21-11']",MS - Qualification,20180404,"Moriguchi, Japan"
+15,"['Takuma Obayashi [3]', 'Seong Hyun Son']","['[JPN] ', '[KOR] ']","['19-21', '21-12', '21-16']",MS - Qualification,20180404,"Moriguchi, Japan"
+16,"['Naohiro Matsukawa', 'Lin Yong Sheng']","['[JPN] ', '[TPE] ']","['21-14', '21-7']",MS - Qualification,20180404,"Moriguchi, Japan"
+17,"['Koo Takahashi', 'Yap Zhe Bin Joshua']","['[JPN] ', '[SGP] ']","['21-13', '21-8']",MS - Qualification,20180404,"Moriguchi, Japan"
+18,"['Yun Kyu Lee [2]', 'Motoya Ikebata']","['[KOR] ', '[JPN] ']","['23-21', '21-15']",MS - Qualification,20180404,"Moriguchi, Japan"
+19,"['Tuan Duc Do [1]', 'Nhu Thao Pham', 'Tsubasa Kawamura', 'Kaho Osawa']","['[VIE] ', '[VIE] ', '[JPN] ', '[JPN] ']","['21-12', '21-16']",XD,20180404,"Moriguchi, Japan"
+20,"['Chang Ko-Chi [6]', 'Cheng Chi Ya', 'Takahiro Fujimaki', 'Misaki Makino']","['[TPE] ', '[TPE] ', '[JPN] ', '[JPN] ']","['21-9', '22-20']",XD,20180404,"Moriguchi, Japan"
+21,"['Kenya Mitsuhashi', 'Naru Shinoya', 'Daisuke Suzuki', 'Yuho Imai']","['[JPN] ', '[JPN] ', '[JPN] ', '[JPN] ']","['21-15', '21-16']",XD,20180404,"Moriguchi, Japan"
+22,"['Katsuki Tamate', 'Minori Zaitsu', 'Yehezkiel Fritz Mainaky [4]', 'Lyanny Alessandra Mainaky']","['[JPN] ', '[JPN] ', '[INA] ', '[INA] ']","['21-18', '21-13']",XD,20180404,"Moriguchi, Japan"
+23,"['Yuan Cheng Wu', 'Yang Ching Tun', 'Hiroki Okamura', 'Yukiko Takahata']","['[TPE] ', '[TPE] ', '[JPN] ', '[JPN] ']","['20-22', '21-19', '21-16']",XD,20180404,"Moriguchi, Japan"
+24,"['Kim Won Ho', 'Yu Rim Lee', 'Kohei Gondo [5]', 'Ayane Kurihara']","['[KOR] ', '[KOR] ', '[JPN] ', '[JPN] ']","['15-21', '21-19', '21-19']",XD,20180404,"Moriguchi, Japan"
+25,"['Yang Ming-Tse', 'Sung Shuo Yun', 'Naoki Ishikawa', 'Kaede Kameda']","['[TPE] ', '[TPE] ', '[JPN] ', '[JPN] ']","['21-17', '21-13']",XD,20180404,"Moriguchi, Japan"
+26,"['Tatsuya Watanabe', 'Nao Ono', 'Min Hyuk Kang', 'Ha Na Baek']","['[JPN] ', '[JPN] ', '[KOR] ', '[KOR] ']","['21-15', '21-16']",XD,20180404,"Moriguchi, Japan"
+27,"['Tadayuki Urai', 'Rena Miyaura', 'Po Li-Wei [8]', 'Chang Ching Hui']","['[JPN] ', '[JPN] ', '[TPE] ', '[TPE] ']","['24-22', '21-11']",XD,20180404,"Moriguchi, Japan"
+28,"['Hwi Tae Kim', 'Hye Jeong Kim', 'Su Li Wei', 'Kuo Yen Chi']","['[KOR] ', '[KOR] ', '[TPE] ', '[TPE] ']","['21-4', '21-8']",XD,20180404,"Moriguchi, Japan"
+29,"['Taichi Saito', 'Akane Watanabe', 'Keisuke Yamashita', 'Saki Kimura']","['[JPN] ', '[JPN] ', '[JPN] ', '[JPN] ']","['21-4', '21-9']",XD,20180404,"Moriguchi, Japan"
+30,"['Lu Chia Pin', 'Chang Hsin Tien', 'Yuta Takei', 'An Uesugi']","['[TPE] ', '[TPE] ', '[JPN] ', '[JPN] ']","['21-12', '24-22']",XD,20180404,"Moriguchi, Japan"
+31,"['Tomoya Takashina', 'Rie Etoh', 'Lin Yong Sheng', 'Lin Hsiang Ti']","['[JPN] ', '[JPN] ', '[TPE] ', '[TPE] ']","['21-10', '21-18']",XD,20180404,"Moriguchi, Japan"
+32,"['Yoshinori Takeuchi', 'Natsumi Uratani', 'Soya Sugiura', 'Shiena Fukumoto']","['[JPN] ', '[JPN] ', '[JPN] ', '[JPN] ']","['21-7', '21-12']",XD,20180404,"Moriguchi, Japan"
+33,"['Yunosuke Kubota', 'Chiharu Shida', 'Fang-Jen Lee', 'Chien Hui Yu']","['[JPN] ', '[JPN] ', '[TPE] ', '[TPE] ']","['21-11', '21-17']",XD,20180404,"Moriguchi, Japan"
+34,"['Mohamad Arif Abdul Latif [2]', 'Rusydina Antardayu Riodingin', 'Teruki Muto', 'Yu Oishi']","['[MAS] ', '[INA] ', '[JPN] ', '[JPN] ']","['21-17', '21-19']",XD,20180404,"Moriguchi, Japan"
+35,"['Mizuki Fujii', 'Reika Kakiiwa', 'Yun Liang', 'Xi Qing Ong']","['[JPN] ', '[JPN] ', '[SGP] ', '[SGP] ']","['21-6', '21-7']",WD,20180404,"Moriguchi, Japan"
+36,"['Yuho Imai', 'Minami Kawashima', 'Chang Hsin Tien', 'Chien Hui Yu']","['[JPN] ', '[JPN] ', '[TPE] ', '[TPE] ']","['21-19', '21-11']",WD,20180404,"Moriguchi, Japan"
+37,"['Koki Watanabe [4]', 'Le Duc Phat']","['[JPN] ', '[VIE] ']","['21-14', '21-18']",MS,20180404,"Moriguchi, Japan"
+38,"['Haruko Suzuki [4]', 'Thi Phuong Thuy Tran']","['[JPN] ', '[VIE] ']","['21-13', '21-18']",WS,20180404,"Moriguchi, Japan"
+39,"['Hirokatsu Hashimoto', 'Hiroyuki Saeki', 'Motoya Ikebata', 'Teruki Muto']","['[JPN] ', '[JPN] ', '[JPN] ', '[JPN] ']","['21-8', '21-10']",MD,20180404,"Moriguchi, Japan"
+40,"['Taiki Kato', 'Yuta Takei', 'Hyuk Gyun Choi [3]', 'Park Kyung Hoon']","['[JPN] ', '[JPN] ', '[KOR] ', '[KOR] ']","['25-23', '21-17']",MD,20180404,"Moriguchi, Japan"
+41,"['Riichi Takeshita', 'Tien Minh Nguyen [1]']","['[JPN] ', '[VIE] ']","['21-16', '14-21', '21-11']",MS,20180404,"Moriguchi, Japan"
+42,"['Sayaka Hobara', 'Natsuki Sone', 'Akari Nakashizu', 'Nanami Someya']","['[JPN] ', '[JPN] ', '[JPN] ', '[JPN] ']","['22-20', '21-7']",WD,20180404,"Moriguchi, Japan"
+43,"['Po Li-Wei [1]', 'Yang Ming-Tse', 'Akito Homma', 'Ryota Ichii']","['[TPE] ', '[TPE] ', '[JPN] ', '[JPN] ']","['21-12', '21-11']",MD,20180404,"Moriguchi, Japan"
+44,"['Koji Naito', 'Takuma Obayashi']","['[JPN] ', '[JPN] ']","['21-16', '18-21', '21-14']",MS,20180404,"Moriguchi, Japan"
+45,"['Ayumi Mine', 'Asuka Sugiyama']","['[JPN] ', '[JPN] ']","['21-17', '21-9']",WS,20180404,"Moriguchi, Japan"
+46,"['Natsuki Oie', 'Yuri Nakamura']","['[JPN] ', '[JPN] ']","['21-17', '21-10']",WS,20180404,"Moriguchi, Japan"
+47,"['Se Young An', 'Natsuki Nidaira [3]']","['[KOR] ', '[JPN] ']","['21-16', '16-21', '21-11']",WS,20180404,"Moriguchi, Japan"
+48,"['Jung Jae Wook [5]', 'Jae Hwan Kim', 'Keigo Higashino', 'Dai Watanabe']","['[KOR] ', '[KOR] ', '[JPN] ', '[JPN] ']","['21-19', '10-21', '21-19']",MD,20180404,"Moriguchi, Japan"
+49,"['Hashiru Shimono', 'Yun Kyu Lee']","['[JPN] ', '[KOR] ']","['21-18', '21-11']",MS,20180404,"Moriguchi, Japan"
+50,"['Ayaho Sugino', 'Nanami Akechi']","['[JPN] ', '[JPN] ']","['21-18', '21-9']",WS,20180404,"Moriguchi, Japan"
+51,"['Yulfira Barkah', 'Rosyita Eka Putri Sari', 'Kaho Osawa', 'Hinata Suzuki']","['[INA] ', '[INA] ', '[JPN] ', '[JPN] ']","['17-21', '21-15', '21-15']",WD,20180404,"Moriguchi, Japan"
+52,"['Inkarat Apisuk [7]', 'Tanupat Viriyangkura', 'Shohei Hoshino', 'Rei Sato']","['[THA] ', '[THA] ', '[JPN] ', '[JPN] ']","['21-16', '21-17']",MD,20180404,"Moriguchi, Japan"
+53,"['Mahiro Kaneko', 'Yunosuke Kubota', 'Katsuki Tamate', 'Kyohei Yamashita']","['[JPN] ', '[JPN] ', '[JPN] ', '[JPN] ']","['21-15', '21-18']",MD,20180404,"Moriguchi, Japan"
+54,"['Takuma Ueda [7]', 'Ha Young Woong']","['[JPN] ', '[KOR] ']","['16-21', '21-18', '21-19']",MS,20180404,"Moriguchi, Japan"
+55,"['Panji Ahmad Maulana [5]', 'Ryotaro Maruo']","['[INA] ', '[JPN] ']","['21-19', '21-13']",MS,20180404,"Moriguchi, Japan"
+56,"['Thi Trang (B) Vu [5]', 'Yuki Suzuki']","['[VIE] ', '[JPN] ']","['21-17', '21-14']",WS,20180404,"Moriguchi, Japan"
+57,"['Lyanny Alessandra Mainaky [7]', 'Lin Hsiang Ti']","['[INA] ', '[TPE] ']","['21-16', '21-17']",WS,20180404,"Moriguchi, Japan"
+58,"['Erina Honda', 'Nozomi Shimizu', 'Anggia Shitta Awanda', 'Meirisa Cindy Sahputri']","['[JPN] ', '[JPN] ', '[INA] ', '[INA] ']","['16-21', '21-16', '21-15']",WD,20180404,"Moriguchi, Japan"
+59,"['Ni Ketut Mahadewi Istarani', 'Nitya Krishinda Maheswari', 'Nami Matsuyama', 'Chiharu Shida']","['[INA] ', '[INA] ', '[JPN] ', '[JPN] ']",['4-1'],WD,20180404,"Moriguchi, Japan"
+60,"['Tae In Jung', 'Hwi Tae Kim', 'Kam Yong Shen Jordan', 'Jin Kai Xu']","['[KOR] ', '[KOR] ', '[SGP] ', '[SGP] ']","['21-3', '21-6']",MD,20180404,"Moriguchi, Japan"
+61,"['Natsumi Shimoda', 'Akari Kurihara']","['[JPN] ', '[JPN] ']","['18-21', '21-17', '21-14']",WS,20180404,"Moriguchi, Japan"
+62,"['Naoki Yamazawa', 'Cao Cuong Pham [6]']","['[JPN] ', '[VIE] ']","['18-21', '21-12', '21-19']",MS,20180404,"Moriguchi, Japan"
+63,"['Miki Kashihara', 'Miyuki Kato', 'Cheng Chi Ya', 'Sung Shuo Yun']","['[JPN] ', '[JPN] ', '[TPE] ', '[TPE] ']","['21-14', '21-11']",WD,20180404,"Moriguchi, Japan"
+64,"['Tuan Duc Do [6]', 'Hong Nam Pham', 'Lin Yong Sheng', 'Su Li Wei']","['[VIE] ', '[VIE] ', '[TPE] ', '[TPE] ']","['22-20', '21-15']",MD,20180404,"Moriguchi, Japan"
+65,"['Kodai Naraoka', 'Adulrach Namkul [8]']","['[JPN] ', '[THA] ']","['21-18', '21-18']",MS,20180404,"Moriguchi, Japan"
+66,"['Yukino Nakai', 'Jui Jeon']","['[JPN] ', '[KOR] ']","['22-20', '21-17']",WS,20180404,"Moriguchi, Japan"
+67,"['Ga Eun Kim', 'Shiori Saito [8]']","['[KOR] ', '[JPN] ']","['21-17', '17-21', '25-23']",WS,20180404,"Moriguchi, Japan"
+68,"['Min Hyuk Kang', 'Kim Won Ho', 'Masato Takano', 'Yoshiki Tsukamoto']","['[KOR] ', '[KOR] ', '[JPN] ', '[JPN] ']","['21-10', '21-12']",MD,20180404,"Moriguchi, Japan"
+69,"['Chang En Chia', 'Koo Takahashi']","['[TPE] ', '[JPN] ']","['22-24', '21-18', '21-6']",MS,20180404,"Moriguchi, Japan"
+70,"['Chang Ching Hui', 'Yang Ching Tun', 'Shiena Fukumoto', 'An Uesugi']","['[TPE] ', '[TPE] ', '[JPN] ', '[JPN] ']","['15-21', '21-19', '21-19']",WD,20180404,"Moriguchi, Japan"
+71,"['Asuka Takahashi', 'Kuo Yen Chi']","['[JPN] ', '[TPE] ']","['21-12', '21-6']",WS,20180404,"Moriguchi, Japan"
+72,"['Lakshya Sen', 'Akito Homma']","['[IND] ', '[JPN] ']","['21-17', '21-9']",MS,20180404,"Moriguchi, Japan"
+73,"['Keiichiro Matsui [4]', 'Yoshinori Takeuchi', 'Akira Koga', 'Taichi Saito']","['[JPN] ', '[JPN] ', '[JPN] ', '[JPN] ']","['21-17', '17-21', '22-20']",MD,20180404,"Moriguchi, Japan"
+74,"['Lin Yu Chieh', 'Yuan Cheng Wu', 'Soya Sugiura', 'Keisuke Yamashita']","['[TPE] ', '[TPE] ', '[JPN] ', '[JPN] ']","['21-16', '21-12']",MD,20180404,"Moriguchi, Japan"
+75,"['Ha Na Baek', 'Yu Rim Lee', 'Saki Kimura', 'Yu Oishi']","['[KOR] ', '[KOR] ', '[JPN] ', '[JPN] ']","['21-10', '21-8']",WD,20180404,"Moriguchi, Japan"
+76,"['Yui Hashimoto', 'Thamolwan Poopradubsil']","['[JPN] ', '[THA] ']","['21-15', '24-22']",WS,20180404,"Moriguchi, Japan"
+77,"['Yusuke Onodera', 'Ryota Ichii']","['[JPN] ', '[JPN] ']","['21-13', '21-13']",MS,20180404,"Moriguchi, Japan"
+78,"['Naohiro Matsukawa', 'Daniel Fan']","['[JPN] ', '[AUS] ']","['21-8', '21-13']",MS,20180404,"Moriguchi, Japan"
+79,"['Sayaka Takahashi [1]', 'Rira Kawashima']","['[JPN] ', '[JPN] ']","['21-16', '21-10']",WS,20180404,"Moriguchi, Japan"
+80,"['Minoru Koga', 'Sitthikom Thammasin [3]']","['[JPN] ', '[THA] ']","['21-13', '21-16']",MS,20180404,"Moriguchi, Japan"
+81,"['Kazuteru Kozai', 'Chia Hao Lee']","['[JPN] ', '[TPE] ']","['22-20', '21-15']",MS,20180404,"Moriguchi, Japan"
+82,"['Yui Suizu', 'Rusydina Antardayu Riodingin']","['[JPN] ', '[INA] ']","['21-8', '21-14']",WS,20180404,"Moriguchi, Japan"
+83,"['Yu Igarashi [2]', 'Kwang Hee Heo']","['[JPN] ', '[KOR] ']","['13-21', '21-18', '21-9']",MS,20180404,"Moriguchi, Japan"
+84,"['Minatsu Mitani [2]', 'Nanami Someya']","['[JPN] ', '[JPN] ']","['23-21', '21-12']",WS,20180404,"Moriguchi, Japan"
+85,"['Lu Chen', 'Ye Hong Wei', 'Hashiru Shimono', 'Tatsuya Watanabe']","['[TPE] ', '[TPE] ', '[JPN] ', '[JPN] ']","['21-11', '24-22']",MD,20180404,"Moriguchi, Japan"
+86,"['Mohamad Arif Abdul Latif', 'Nur Mohd Azriyn Ayub', 'Kazuhiro Ichikawa', 'Daiki Umayahara']","['[MAS] ', '[MAS] ', '[JPN] ', '[JPN] ']","['21-11', '17-21', '21-16']",MD,20180404,"Moriguchi, Japan"
+87,"['Hu Chuan-En', 'Taiki Kato']","['[TPE] ', '[JPN] ']","['15-21', '21-18', '21-19']",MS,20180404,"Moriguchi, Japan"
+88,"['Se Yeon Lee', 'Sung Shuo Yun [6]']","['[KOR] ', '[TPE] ']","['11-21', '21-15', '21-18']",WS,20180404,"Moriguchi, Japan"
+89,"['Chang Ko-Chi', 'Lu Chia Pin', 'Tsubasa Kawamura', 'Koo Takahashi']","['[TPE] ', '[TPE] ', '[JPN] ', '[JPN] ']","['21-16', '21-13']",MD,20180404,"Moriguchi, Japan"
+90,"['Kuo Yen Chi', 'Lin Hsiang Ti', 'Asuka Sugiyama', 'Miyu Takahashi']","['[TPE] ', '[TPE] ', '[JPN] ', '[JPN] ']","['21-17', '21-13']",WD,20180404,"Moriguchi, Japan"
+91,"['Fang-Chih Lee [8]', 'Fang-Jen Lee', 'Namboun Luangamath', 'Daophet Phetsiriseng']","['[TPE] ', '[TPE] ', '[LAO] ', '[LAO] ']","['21-13', '21-15']",MD,20180404,"Moriguchi, Japan"
+92,"['Hiroki Okamura [2]', 'Masayuki Onodera', 'Chang En Chia', 'Chia Hao Lee']","['[JPN] ', '[JPN] ', '[TPE] ', '[TPE] ']","['21-14', '21-8']",MD,20180404,"Moriguchi, Japan"
+93,"['Hwi Tae Kim', 'Hye Jeong Kim', 'Tuan Duc Do [1]', 'Nhu Thao Pham']","['[KOR] ', '[KOR] ', '[VIE] ', '[VIE] ']","['21-11', '21-18']",XD,20180404,"Moriguchi, Japan"
+94,"['Katsuki Tamate', 'Minori Zaitsu', 'Yuan Cheng Wu', 'Yang Ching Tun']","['[JPN] ', '[JPN] ', '[TPE] ', '[TPE] ']","['21-17', '21-14']",XD,20180404,"Moriguchi, Japan"
+95,"['Kim Won Ho', 'Yu Rim Lee', 'Yang Ming-Tse', 'Sung Shuo Yun']","['[KOR] ', '[KOR] ', '[TPE] ', '[TPE] ']","['21-8', '21-14']",XD,20180404,"Moriguchi, Japan"
+96,"['Tadayuki Urai', 'Rena Miyaura', 'Tatsuya Watanabe', 'Nao Ono']","['[JPN] ', '[JPN] ', '[JPN] ', '[JPN] ']","['17-21', '21-13', '21-15']",XD,20180404,"Moriguchi, Japan"
+97,"['Koki Watanabe [4]', 'Naohiro Matsukawa']","['[JPN] ', '[JPN] ']","['21-15', '16-21', '21-16']",MS,20180404,"Moriguchi, Japan"
+98,"['Kodai Naraoka', 'Koji Naito']","['[JPN] ', '[JPN] ']","['21-10', '22-20']",MS,20180404,"Moriguchi, Japan"
+99,"['Sayaka Takahashi [1]', 'Natsumi Shimoda']","['[JPN] ', '[JPN] ']","['21-16', '21-11']",WS,20180404,"Moriguchi, Japan"
+100,"['Yui Hashimoto', 'Thi Trang (B) Vu [5]']","['[JPN] ', '[VIE] ']","['15-21', '21-17', '24-22']",WS,20180404,"Moriguchi, Japan"
+101,"['Kenya Mitsuhashi', 'Naru Shinoya', 'Chang Ko-Chi [6]', 'Cheng Chi Ya']","['[JPN] ', '[JPN] ', '[TPE] ', '[TPE] ']","['21-11', '21-17']",XD,20180404,"Moriguchi, Japan"
+102,"['Takuma Ueda [7]', 'Chang En Chia']","['[JPN] ', '[TPE] ']","['21-10', '21-17']",MS,20180404,"Moriguchi, Japan"
+103,"['Minoru Koga', 'Kazuteru Kozai']","['[JPN] ', '[JPN] ']","['21-15', '27-25']",MS,20180404,"Moriguchi, Japan"
+104,"['Minatsu Mitani [2]', 'Asuka Takahashi']","['[JPN] ', '[JPN] ']","['21-13', '21-15']",WS,20180404,"Moriguchi, Japan"
+105,"['Yukino Nakai', 'Se Young An']","['[JPN] ', '[KOR] ']","['21-18', '22-20']",WS,20180404,"Moriguchi, Japan"
+106,"['Yunosuke Kubota', 'Chiharu Shida', 'Mohamad Arif Abdul Latif [2]', 'Rusydina Antardayu Riodingin']","['[JPN] ', '[JPN] ', '[MAS] ', '[INA] ']","['22-20', '21-11']",XD,20180404,"Moriguchi, Japan"
+107,"['Hashiru Shimono', 'Naoki Yamazawa']","['[JPN] ', '[JPN] ']","['12-21', '21-11', '21-19']",MS,20180404,"Moriguchi, Japan"
+108,"['Yu Igarashi [2]', 'Hu Chuan-En']","['[JPN] ', '[TPE] ']","['21-13', '21-7']",MS,20180404,"Moriguchi, Japan"
+109,"['Ayumi Mine', 'Ga Eun Kim']","['[JPN] ', '[KOR] ']","['16-21', '21-19', '21-15']",WS,20180404,"Moriguchi, Japan"
+110,"['Taichi Saito', 'Akane Watanabe', 'Lu Chia Pin', 'Chang Hsin Tien']","['[JPN] ', '[JPN] ', '[TPE] ', '[TPE] ']","['21-11', '19-21', '21-16']",XD,20180404,"Moriguchi, Japan"
+111,"['Tomoya Takashina', 'Rie Etoh', 'Yoshinori Takeuchi', 'Natsumi Uratani']","['[JPN] ', '[JPN] ', '[JPN] ', '[JPN] ']","['26-24', '22-20']",XD,20180404,"Moriguchi, Japan"
+112,"['Ayaho Sugino', 'Lyanny Alessandra Mainaky [7]']","['[JPN] ', '[INA] ']","['21-4', '21-9']",WS,20180404,"Moriguchi, Japan"
+113,"['Haruko Suzuki [4]', 'Yui Suizu']","['[JPN] ', '[JPN] ']","['22-20', '21-17']",WS,20180404,"Moriguchi, Japan"
+114,"['Natsuki Oie', 'Se Yeon Lee']","['[JPN] ', '[KOR] ']","['15-21', '21-18', '21-19']",WS,20180404,"Moriguchi, Japan"
+115,"['Panji Ahmad Maulana [5]', 'Lakshya Sen']","['[INA] ', '[IND] ']","['22-20', '19-21', '21-14']",MS,20180404,"Moriguchi, Japan"
+116,"['Yusuke Onodera', 'Riichi Takeshita']","['[JPN] ', '[JPN] ']","['21-17', '21-17']",MS,20180404,"Moriguchi, Japan"
+117,"['Mahiro Kaneko', 'Yunosuke Kubota', 'Tuan Duc Do [6]', 'Hong Nam Pham']","['[JPN] ', '[JPN] ', '[VIE] ', '[VIE] ']","['21-17', '21-14']",MD,20180404,"Moriguchi, Japan"
+118,"['Min Hyuk Kang', 'Kim Won Ho', 'Po Li-Wei [1]', 'Yang Ming-Tse']","['[KOR] ', '[KOR] ', '[TPE] ', '[TPE] ']","['21-15', '21-17']",MD,20180404,"Moriguchi, Japan"
+119,"['Hiroki Okamura [2]', 'Masayuki Onodera', 'Tae In Jung', 'Hwi Tae Kim']","['[JPN] ', '[JPN] ', '[KOR] ', '[KOR] ']","['22-20', '21-15']",MD,20180404,"Moriguchi, Japan"
+120,"['Chang Ko-Chi', 'Lu Chia Pin', 'Keiichiro Matsui [4]', 'Yoshinori Takeuchi']","['[TPE] ', '[TPE] ', '[JPN] ', '[JPN] ']","['21-11', '22-20']",MD,20180404,"Moriguchi, Japan"
+121,"['Ha Na Baek', 'Yu Rim Lee', 'Sayaka Hobara', 'Natsuki Sone']","['[KOR] ', '[KOR] ', '[JPN] ', '[JPN] ']","['21-16', '21-10']",WD,20180404,"Moriguchi, Japan"
+122,"['Yulfira Barkah', 'Rosyita Eka Putri Sari', 'Rin Iwanaga', 'Yui Suizu']","['[INA] ', '[INA] ', '[JPN] ', '[JPN] ']","['18-21', '21-11', '21-19']",WD,20180404,"Moriguchi, Japan"
+123,"['Mizuki Fujii', 'Reika Kakiiwa', 'Savitree Amitrapai [4]', 'Pacharapun Chochuwong']","['[JPN] ', '[JPN] ', '[THA] ', '[THA] ']","['21-19', '21-12']",WD,20180404,"Moriguchi, Japan"
+124,"['Misato Aratama [2]', 'Akane Watanabe', 'Miki Kashihara', 'Miyuki Kato']","['[JPN] ', '[JPN] ', '[JPN] ', '[JPN] ']","['21-17', '21-17']",WD,20180404,"Moriguchi, Japan"
+125,"['Naoko Fukuman [1]', 'Kurumi Yonao', 'Yuho Imai', 'Minami Kawashima']","['[JPN] ', '[JPN] ', '[JPN] ', '[JPN] ']","['21-11', '21-14']",WD,20180404,"Moriguchi, Japan"
+126,"['Erina Honda', 'Nozomi Shimizu', 'Kuo Yen Chi', 'Lin Hsiang Ti']","['[JPN] ', '[JPN] ', '[TPE] ', '[TPE] ']","['21-7', '21-10']",WD,20180404,"Moriguchi, Japan"
+127,"['Ayako Sakuramoto [3]', 'Yukiko Takahata', 'Chang Ching Hui', 'Yang Ching Tun']","['[JPN] ', '[JPN] ', '[TPE] ', '[TPE] ']","['21-8', '21-9']",WD,20180404,"Moriguchi, Japan"
+128,"['Hirokatsu Hashimoto', 'Hiroyuki Saeki', 'Jung Jae Wook [5]', 'Jae Hwan Kim']","['[JPN] ', '[JPN] ', '[KOR] ', '[KOR] ']","['12-21', '21-19', '21-19']",MD,20180404,"Moriguchi, Japan"
+129,"['Rira Kawashima', 'Saori Ozaki', 'Ni Ketut Mahadewi Istarani', 'Nitya Krishinda Maheswari']","['[JPN] ', '[JPN] ', '[INA] ', '[INA] ']","['21-18', '21-14']",WD,20180404,"Moriguchi, Japan"
+130,"['Inkarat Apisuk [7]', 'Tanupat Viriyangkura', 'Lin Yu Chieh', 'Yuan Cheng Wu']","['[THA] ', '[THA] ', '[TPE] ', '[TPE] ']","['25-27', '22-20', '21-5']",MD,20180404,"Moriguchi, Japan"
+131,"['Lu Chen', 'Ye Hong Wei', 'Taiki Kato', 'Yuta Takei']","['[TPE] ', '[TPE] ', '[JPN] ', '[JPN] ']","['21-19', '21-9']",MD,20180404,"Moriguchi, Japan"
+132,"['Mohamad Arif Abdul Latif', 'Nur Mohd Azriyn Ayub', 'Fang-Chih Lee [8]', 'Fang-Jen Lee']","['[MAS] ', '[MAS] ', '[TPE] ', '[TPE] ']","['21-17', '14-21', '21-18']",MD,20180404,"Moriguchi, Japan"
+133,"['Kodai Naraoka', 'Koki Watanabe [4]']","['[JPN] ', '[JPN] ']","['19-21', '21-17', '21-15']",MS,20180404,"Moriguchi, Japan"
+134,"['Yusuke Onodera', 'Takuma Ueda [7]']","['[JPN] ', '[JPN] ']","['21-15', '21-9']",MS,20180404,"Moriguchi, Japan"
+135,"['Minoru Koga', 'Panji Ahmad Maulana [5]']","['[JPN] ', '[INA] ']","['21-10', '21-13']",MS,20180404,"Moriguchi, Japan"
+136,"['Ayaho Sugino', 'Yukino Nakai']","['[JPN] ', '[JPN] ']","['21-17', '21-16']",WS,20180404,"Moriguchi, Japan"
+137,"['Yui Hashimoto', 'Sayaka Takahashi [1]']","['[JPN] ', '[JPN] ']","['11-21', '21-18', '21-14']",WS,20180404,"Moriguchi, Japan"
+138,"['Min Hyuk Kang', 'Kim Won Ho', 'Mahiro Kaneko', 'Yunosuke Kubota']","['[KOR] ', '[KOR] ', '[JPN] ', '[JPN] ']","['21-18', '21-9']",MD,20180404,"Moriguchi, Japan"
+139,"['Ayako Sakuramoto [3]', 'Yukiko Takahata', 'Ha Na Baek', 'Yu Rim Lee']","['[JPN] ', '[JPN] ', '[KOR] ', '[KOR] ']","['8-21', '21-12', '21-17']",WD,20180404,"Moriguchi, Japan"
+140,"['Naoko Fukuman [1]', 'Kurumi Yonao', 'Yulfira Barkah', 'Rosyita Eka Putri Sari']","['[JPN] ', '[JPN] ', '[INA] ', '[INA] ']","['21-10', '21-17']",WD,20180404,"Moriguchi, Japan"
+141,"['Erina Honda', 'Nozomi Shimizu', 'Mizuki Fujii', 'Reika Kakiiwa']","['[JPN] ', '[JPN] ', '[JPN] ', '[JPN] ']","['21-16', '21-14']",WD,20180404,"Moriguchi, Japan"
+142,"['Inkarat Apisuk [7]', 'Tanupat Viriyangkura', 'Lu Chen', 'Ye Hong Wei']","['[THA] ', '[THA] ', '[TPE] ', '[TPE] ']","['21-13', '21-12']",MD,20180404,"Moriguchi, Japan"
+143,"['Mohamad Arif Abdul Latif', 'Nur Mohd Azriyn Ayub', 'Hiroki Okamura [2]', 'Masayuki Onodera']","['[MAS] ', '[MAS] ', '[JPN] ', '[JPN] ']","['21-15', '21-15']",MD,20180404,"Moriguchi, Japan"
+144,"['Rira Kawashima', 'Saori Ozaki', 'Misato Aratama [2]', 'Akane Watanabe']","['[JPN] ', '[JPN] ', '[JPN] ', '[JPN] ']","['21-14', '22-20']",WD,20180404,"Moriguchi, Japan"
+145,"['Minatsu Mitani [2]', 'Natsuki Oie']","['[JPN] ', '[JPN] ']","['21-19', '21-13']",WS,20180404,"Moriguchi, Japan"
+146,"['Hirokatsu Hashimoto', 'Hiroyuki Saeki', 'Chang Ko-Chi', 'Lu Chia Pin']","['[JPN] ', '[JPN] ', '[TPE] ', '[TPE] ']","['21-11', '20-22', '24-22']",MD,20180404,"Moriguchi, Japan"
+147,"['Ayumi Mine', 'Haruko Suzuki [4]']","['[JPN] ', '[JPN] ']","['21-14', '19-21', '21-18']",WS,20180404,"Moriguchi, Japan"
+148,"['Yu Igarashi [2]', 'Hashiru Shimono']","['[JPN] ', '[JPN] ']","['21-13', '21-16']",MS,20180404,"Moriguchi, Japan"
+149,"['Kenya Mitsuhashi', 'Naru Shinoya', 'Hwi Tae Kim', 'Hye Jeong Kim']","['[JPN] ', '[JPN] ', '[KOR] ', '[KOR] ']","['21-15', '21-15']",XD,20180404,"Moriguchi, Japan"
+150,"['Kim Won Ho', 'Yu Rim Lee', 'Katsuki Tamate', 'Minori Zaitsu']","['[KOR] ', '[KOR] ', '[JPN] ', '[JPN] ']","['21-12', '21-14']",XD,20180404,"Moriguchi, Japan"
+151,"['Tadayuki Urai', 'Rena Miyaura', 'Taichi Saito', 'Akane Watanabe']","['[JPN] ', '[JPN] ', '[JPN] ', '[JPN] ']","['21-19', '21-15']",XD,20180404,"Moriguchi, Japan"
+152,"['Yunosuke Kubota', 'Chiharu Shida', 'Tomoya Takashina', 'Rie Etoh']","['[JPN] ', '[JPN] ', '[JPN] ', '[JPN] ']","['21-19', '21-12']",XD,20180404,"Moriguchi, Japan"
+153,"['Kim Won Ho', 'Yu Rim Lee', 'Kenya Mitsuhashi', 'Naru Shinoya']","['[KOR] ', '[KOR] ', '[JPN] ', '[JPN] ']","['21-16', '21-13']",XD ,20180404,"Moriguchi, Japan"
+154,"['Kodai Naraoka', 'Yusuke Onodera']","['[JPN] ', '[JPN] ']","['21-14', '21-16']",MS ,20180404,"Moriguchi, Japan"
+155,"['Mohamad Arif Abdul Latif', 'Nur Mohd Azriyn Ayub', 'Inkarat Apisuk [7]', 'Tanupat Viriyangkura']","['[MAS] ', '[MAS] ', '[THA] ', '[THA] ']","['21-16', '23-21']",MD ,20180404,"Moriguchi, Japan"
+156,"['Ayaho Sugino', 'Yui Hashimoto']","['[JPN] ', '[JPN] ']","['19-21', '21-15', '21-11']",WS ,20180404,"Moriguchi, Japan"
+157,"['Naoko Fukuman [1]', 'Kurumi Yonao', 'Erina Honda', 'Nozomi Shimizu']","['[JPN] ', '[JPN] ', '[JPN] ', '[JPN] ']","['14-21', '21-11', '21-17']",WD ,20180404,"Moriguchi, Japan"
+158,"['Ayako Sakuramoto [3]', 'Yukiko Takahata', 'Rira Kawashima', 'Saori Ozaki']","['[JPN] ', '[JPN] ', '[JPN] ', '[JPN] ']","['21-16', '21-13']",WD ,20180404,"Moriguchi, Japan"
+159,"['Yu Igarashi [2]', 'Minoru Koga']","['[JPN] ', '[JPN] ']","['21-19', '21-15']",MS ,20180404,"Moriguchi, Japan"
+160,"['Ayumi Mine', 'Minatsu Mitani [2]']","['[JPN] ', '[JPN] ']","['13-21', '21-19', '21-12']",WS ,20180404,"Moriguchi, Japan"
+161,"['Yunosuke Kubota', 'Chiharu Shida', 'Tadayuki Urai', 'Rena Miyaura']","['[JPN] ', '[JPN] ', '[JPN] ', '[JPN] ']","['23-21', '21-16']",XD ,20180404,"Moriguchi, Japan"
+162,"['Hirokatsu Hashimoto', 'Hiroyuki Saeki', 'Min Hyuk Kang', 'Kim Won Ho']","['[JPN] ', '[JPN] ', '[KOR] ', '[KOR] ']","['17-21', '21-17', '21-18']",MD ,20180404,"Moriguchi, Japan"
+163,"['Kim Won Ho', 'Yu Rim Lee', 'Yunosuke Kubota', 'Chiharu Shida']","['[KOR] ', '[KOR] ', '[JPN] ', '[JPN] ']","['21-17', '21-12']",XD ,20180404,"Moriguchi, Japan"
+164,"['Yu Igarashi [2]', 'Kodai Naraoka']","['[JPN] ', '[JPN] ']","['14-21', '21-11', '21-12']",MS ,20180404,"Moriguchi, Japan"
+165,"['Naoko Fukuman [1]', 'Kurumi Yonao', 'Ayako Sakuramoto [3]', 'Yukiko Takahata']","['[JPN] ', '[JPN] ', '[JPN] ', '[JPN] ']","['17-21', '21-19', '21-16']",WD ,20180404,"Moriguchi, Japan"
+166,"['Ayumi Mine', 'Ayaho Sugino']","['[JPN] ', '[JPN] ']","['21-14', '21-16']",WS ,20180404,"Moriguchi, Japan"
+167,"['Hirokatsu Hashimoto', 'Hiroyuki Saeki', 'Mohamad Arif Abdul Latif', 'Nur Mohd Azriyn Ayub']","['[JPN] ', '[JPN] ', '[MAS] ', '[MAS] ']","['21-19', '15-21', '21-15']",MD ,20180404,"Moriguchi, Japan"

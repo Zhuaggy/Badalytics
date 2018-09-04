@@ -1,234 +1,234 @@
-,PLAYERS,COUNTRIES,SCORES,EVENT,match_week
-0,"['Shiau Cheng Chen', 'Chiang Yi-Hsuan', 'Bernardo Atilano', 'Mariana Chang']","['[TPE] ', '[TPE] ', '[POR] ', '[POR] ']","['21-17', '21-15']",XD - Qualification,20170511
-1,"['Patrick Scheiel', 'Annika Schreiber', 'Steve Olesen', 'Josephine Van Zaane']","['[GER] ', '[GER] ', '[DEN] ', '[DEN] ']",[],XD - Qualification,20170511
-2,"['Jakob Sorger [2]', 'Serena Au Yeong', 'Filip Jagar', 'Lucija Buchberger']","['[AUT] ', '[AUT] ', '[CRO] ', '[CRO] ']","['21-16', '11-21', '21-16']",XD - Qualification,20170511
-3,"['Isabella Nielsen', 'Claudia Paredes', 'Katarina Galenic', 'Maja Pavlinic']","['[DEN] ', '[DEN] ', '[CRO] ', '[CRO] ']","['16-21', '21-14', '22-20']",WD - Qualification,20170511
-4,"['Iza Salehar', 'Lia Salehar', 'Daniella Gonda', 'Orsolya Varga']","['[SLO] ', '[SLO] ', '[HUN] ', '[HUN] ']","['21-16', '21-18']",WD - Qualification,20170511
-5,"['Christine Busch', 'Amalie Schulz Terp-Nielsen', 'Maryna Ilyinskaya', 'Anna Mikhalkova']","['[DEN] ', '[DEN] ', '[UKR] ', '[UKR] ']","['21-11', '21-19']",WD - Qualification,20170511
-6,"['Enis Sesalan', 'Ramazan Tekdemİr', 'Dani Klancar', 'Klemen Lesničar']","['[TUR] ', '[TUR] ', '[SLO] ', '[SLO] ']","['21-12', '21-16']",MD - Qualification,20170511
-7,"['Daniel Lundgaard', 'Karl Thor Søndergaard', 'Miha Ivancic', 'Rok Jercinovic']","['[DEN] ', '[DEN] ', '[SLO] ', '[SLO] ']","['21-14', '21-15']",MD - Qualification,20170511
-8,"['Martin Cerkovnik', 'Urban Herman', 'Silvan Furrer', 'Tobias Kuenzi']","['[SLO] ', '[SLO] ', '[SUI] ', '[SUI] ']","['21-18', '21-17']",MD - Qualification,20170511
-9,"['Martin Bundgaard', 'Michael Spencer-Smith [1]']","['[DEN] ', '[ENG] ']","['18-21', '21-11', '21-16']",MS - Qualification,20170511
-10,"['Jaromir Janacek', 'Aljosa Turk']","['[CZE] ', '[SLO] ']","['21-12', '21-13']",MS - Qualification,20170511
-11,"['Morgan Lidman [16]', 'Oleksandr Kolesnik']","['[SWE] ', '[UKR] ']","['21-14', '21-9']",MS - Qualification,20170511
-12,"['Filip Spoljarec', 'Douglas Lidman']","['[CRO] ', '[SWE] ']","['11-21', '21-17', '21-17']",MS - Qualification,20170511
-13,"['Ahmetcan Oruc', 'Jonas Schwarz']","['[TUR] ', '[SUI] ']","['21-12', '21-8']",MS - Qualification,20170511
-14,"['Dmitrii Riabov [15]', 'Hugo Jardim']","['[RUS] ', '[ENG] ']","['21-7', '21-3']",MS - Qualification,20170511
-15,"['Shiau Cheng Chen', 'Chiang Yi-Hsuan', 'Adi Pratama [1]', 'Antonia Meinke']","['[TPE] ', '[TPE] ', '[INA] ', '[AUT] ']",[],XD - Qualification,20170511
-16,"['Patrick Scheiel', 'Annika Schreiber', 'Jakob Sorger [2]', 'Serena Au Yeong']","['[GER] ', '[GER] ', '[AUT] ', '[AUT] ']","['14-21', '21-13', '21-18']",XD - Qualification,20170511
-17,"['Michael Giesinger', 'Lukas Osele [4]']","['[AUT] ', '[ITA] ']","['25-23', '21-15']",MS - Qualification,20170511
-18,"['Mika Kongas', 'Mykola Martynenko']","['[FIN] ', '[UKR] ']","['21-17', '21-9']",MS - Qualification,20170511
-19,"['Emre Lale [14]', 'Petr Beran']","['[TUR] ', '[CZE] ']","['21-14', '21-18']",MS - Qualification,20170511
-20,"['Luke Pearce', 'Oliver Lee Nowak']","['[ENG] ', '[DEN] ']","['21-19', '21-13']",MS - Qualification,20170511
-21,"['Giovanni Greco [8]', 'Philip Discher']","['[ITA] ', '[GER] ']","['18-21', '21-17', '21-19']",MS - Qualification,20170511
-22,"['Cristian Savin', 'Vladyslav Volnyanskiy']","['[CZE] ', '[UKR] ']","['28-26', '21-19']",MS - Qualification,20170511
-23,"['Andy Tsai [12]', 'Pal Padar']","['[SWE] ', '[HUN] ']","['21-13', '21-18']",MS - Qualification,20170511
-24,"['Miha Ivanic [7]', 'Sam Lyle']","['[SLO] ', '[ENG] ']","['22-20', '21-15']",MS - Qualification,20170511
-25,"['Tobias Kuenzi', 'Viknesh Rajendran']","['[SUI] ', '[ENG] ']","['22-20', '21-7']",MS - Qualification,20170511
-26,"['Enis Sesalan', 'Miha Ivancic']","['[TUR] ', '[SLO] ']","['21-13', '21-19']",MS - Qualification,20170511
-27,"['Oleksandar Shmundyak', 'Rok Jercinovic']","['[UKR] ', '[SLO] ']","['21-10', '21-16']",MS - Qualification,20170511
-28,"['Rowan Scheurkogel', 'Ali Bugra Akdogan']","['[BEL] ', '[TUR] ']","['21-18', '21-11']",MS - Qualification,20170511
-29,"['Jan Louda [11]', 'Serhat Salim']","['[CZE] ', '[TUR] ']","['21-15', '21-7']",MS - Qualification,20170511
-30,"['Emma Moszczynski', 'Annika Schreiber', 'Sevval Buse Alsoy', 'Arzu Delibalta']","['[GER] ', '[GER] ', '[TUR] ', '[TUR] ']","['21-19', '10-21', '21-17']",WD - Qualification,20170511
-31,"['Chiang Yi-Hsuan', 'Hung En-Tzu', 'Betul Soner', 'Naime Yilmaz']","['[TPE] ', '[TPE] ', '[TUR] ', '[TUR] ']","['21-9', '21-14']",WD - Qualification,20170511
-32,"['Igor Cimbur', 'Blagovest Kisyov', 'Philipp Drexler', 'Jakob Sorger']","['[CRO] ', '[BUL] ', '[AUT] ', '[AUT] ']","['22-20', '21-19']",MD - Qualification,20170511
-33,"['Sİnan Zorlu', 'Sergey Don']","['[TUR] ', '[UKR] ']","['21-13', '21-10']",MS - Qualification,20170511
-34,"['Christian Kirchmayr [3]', 'Okan Gultekin']","['[SUI] ', '[TUR] ']","['21-11', '21-13']",MS - Qualification,20170511
-35,"['Adi Pratama [5]', 'Andraz Krapez']","['[INA] ', '[SLO] ']","['21-16', '21-16']",MS - Qualification,20170511
-36,"['Yusuf Ramazan Bay', 'Leon Seiwald']","['[TUR] ', '[AUT] ']","['21-19', '21-16']",MS - Qualification,20170511
-37,"['Ross Green [13]', 'Martin Cerkovnik']","['[ENG] ', '[SLO] ']","['21-13', '16-21', '21-16']",MS - Qualification,20170511
-38,"['Muhammed Ali Kurt', 'Flurin Furrer']","['[TUR] ', '[SUI] ']","['21-17', '21-17']",MS - Qualification,20170511
-39,"['Lukas Zevl [6]', 'Stijn De Langhe']","['[CZE] ', '[BEL] ']","['21-15', '21-16']",MS - Qualification,20170511
-40,"['Josip Uglesic', 'Urban Turk']","['[CRO] ', '[SLO] ']","['21-9', '21-10']",MS - Qualification,20170511
-41,"['Max Weisskirchen [10]', 'Murat Sen']","['[GER] ', '[TUR] ']","['21-7', '11-21', '21-17']",MS - Qualification,20170511
-42,"['Mikkel Enghøj [2]', 'Haktan Doğan']","['[DEN] ', '[TUR] ']","['21-16', '21-12']",MS - Qualification,20170511
-43,"['Vladyslava Lesnaya', 'Arzu Delibalta']","['[UKR] ', '[TUR] ']","['21-17', '21-5']",WS - Qualification,20170511
-44,"['Kaja Stankovic', 'Busra Unlu']","['[SLO] ', '[TUR] ']","['21-10', '21-17']",WS - Qualification,20170511
-45,"['Anna Mikhalkova', 'Emma Thorne']","['[UKR] ', '[SWE] ']","['21-13', '21-8']",WS - Qualification,20170511
-46,"['Olga Arkhangelskaya [3]', 'Petra Polanc']","['[RUS] ', '[SLO] ']","['21-11', '21-16']",WS - Qualification,20170511
-47,"['Aliye Demirbag', 'Iza Salehar']","['[TUR] ', '[SLO] ']","['21-13', '21-15']",WS - Qualification,20170511
-48,"['Daniella Gonda [8]', 'Darya Samarchants']","['[HUN] ', '[UKR] ']","['21-19', '21-17']",WS - Qualification,20170511
-49,"['Qi Xuefei', 'Helina Rüütel']","['[CHN] ', '[EST] ']","['21-8', '21-9']",WS - Qualification,20170511
-50,"['Joel König [9]', 'Philipp Drexler']","['[SUI] ', '[AUT] ']","['21-16', '19-21', '21-11']",MS - Qualification,20170511
-51,"['Elias Bracke', 'Blagovest Kisyov']","['[BEL] ', '[BUL] ']","['17-21', '21-17', '21-14']",MS - Qualification,20170511
-52,"['Karan Rajan Rajarajan', 'Igor Cimbur']","['[IND] ', '[CRO] ']","['21-13', '21-10']",MS - Qualification,20170511
-53,"['Betul Soner', 'Sonja Langthaler [5]']","['[TUR] ', '[AUT] ']","['21-13', '21-17']",WS - Qualification,20170511
-54,"['Emma Karlsson', 'Buse Ceylan']","['[SWE] ', '[TUR] ']","['21-11', '21-11']",WS - Qualification,20170511
-55,"['Katarina Galenic', 'Sonia Goncalves [6]']","['[CRO] ', '[POR] ']","['21-11', '17-21', '21-16']",WS - Qualification,20170511
-56,"['Orsolya Varga', 'Mariana Chang']","['[HUN] ', '[POR] ']","['22-20', '21-8']",WS - Qualification,20170511
-57,"['Anastasiya Cherniavskaya [4]', 'Ebru Yazgan']","['[BLR] ', '[TUR] ']","['21-10', '21-23', '21-19']",WS - Qualification,20170511
-58,"['Lin Sih Yun', 'Naime Yilmaz']","['[TPE] ', '[TUR] ']","['21-13', '21-15']",WS - Qualification,20170511
-59,"['Johanna Magnusson', 'Riikka Sinkko [7]']","['[SWE] ', '[FIN] ']","['21-11', '17-21', '21-17']",WS - Qualification,20170511
-60,"['Busra Yalçinkaya', 'Giulia Fiorito']","['[TUR] ', '[ITA] ']","['21-16', '21-12']",WS - Qualification,20170511
-61,"['Jenny Ertl', 'Ema Cizelj']","['[AUT] ', '[SLO] ']","['21-17', '25-23']",WS - Qualification,20170511
-62,"['Enis Sesalan', 'Ramazan Tekdemİr', 'Dominik Doko [1]', 'Filip Jagar']","['[TUR] ', '[TUR] ', '[CRO] ', '[CRO] ']",[],MD - Qualification,20170511
-63,"['Daniel Lundgaard', 'Karl Thor Søndergaard', 'Oleksandr Kolesnik', 'Mykola Martynenko']","['[DEN] ', '[DEN] ', '[UKR] ', '[UKR] ']","['21-19', '21-18']",MD - Qualification,20170511
-64,"['Petr Beran [2]', 'Ondřej Král', 'Martin Cerkovnik', 'Urban Herman']","['[CZE] ', '[CZE] ', '[SLO] ', '[SLO] ']","['21-14', '21-12']",MD - Qualification,20170511
-65,"['Igor Cimbur', 'Blagovest Kisyov', 'Jaka Ivančič', 'Tej Kolar']","['[CRO] ', '[BUL] ', '[SLO] ', '[SLO] ']","['21-15', '21-10']",MD - Qualification,20170511
-66,"['Christine Busch', 'Amalie Schulz Terp-Nielsen', 'Emma Moszczynski', 'Annika Schreiber']","['[DEN] ', '[DEN] ', '[GER] ', '[GER] ']","['21-13', '21-16']",WD - Qualification,20170511
-67,"['Jaromir Janacek', 'Martin Bundgaard']","['[CZE] ', '[DEN] ']","['13-21', '21-19', '21-16']",MS - Qualification,20170511
-68,"['Adi Pratama [5]', 'Ahmetcan Oruc']","['[INA] ', '[TUR] ']","['12-21', '21-13', '21-9']",MS - Qualification,20170511
-69,"['Cristian Savin', 'Andy Tsai [12]']","['[CZE] ', '[SWE] ']","['15-21', '22-20', '22-20']",MS - Qualification,20170511
-70,"['Isabella Nielsen', 'Claudia Paredes', 'Zehra Erdem [1]', 'Ilayda Nur Ozelgul']","['[DEN] ', '[DEN] ', '[TUR] ', '[TUR] ']",[],WD - Qualification,20170511
-71,"['Iza Salehar', 'Lia Salehar', 'Jenny Ertl', 'Sonja Langthaler']","['[SLO] ', '[SLO] ', '[AUT] ', '[AUT] ']","['24-22', '21-12']",WD - Qualification,20170511
-72,"['Chiang Yi-Hsuan', 'Hung En-Tzu', 'Serena Au Yeong [2]', 'Antonia Meinke']","['[TPE] ', '[TPE] ', '[AUT] ', '[AUT] ']","['21-11', '21-10']",WD - Qualification,20170511
-73,"['Christian Kirchmayr [3]', 'Sİnan Zorlu']","['[SUI] ', '[TUR] ']","['21-19', '21-5']",MS - Qualification,20170511
-74,"['Jan Louda [11]', 'Rowan Scheurkogel']","['[CZE] ', '[BEL] ']","['21-11', '21-12']",MS - Qualification,20170511
-75,"['Muhammed Ali Kurt', 'Lukas Zevl [6]']","['[TUR] ', '[CZE] ']","['21-16', '21-18']",MS - Qualification,20170511
-76,"['Max Weisskirchen [10]', 'Josip Uglesic']","['[GER] ', '[CRO] ']","['21-18', '21-13']",MS - Qualification,20170511
-77,"['Morgan Lidman [16]', 'Filip Spoljarec']","['[SWE] ', '[CRO] ']","['21-17', '14-21', '21-18']",MS - Qualification,20170511
-78,"['Dmitrii Riabov [15]', 'Tobias Kuenzi']","['[RUS] ', '[SUI] ']","['21-14', '13-21', '21-16']",MS - Qualification,20170511
-79,"['Michael Giesinger', 'Mika Kongas']","['[AUT] ', '[FIN] ']","['21-14', '21-14']",MS - Qualification,20170511
-80,"['Emre Lale [14]', 'Luke Pearce']","['[TUR] ', '[ENG] ']","['20-22', '21-15', '22-20']",MS - Qualification,20170511
-81,"['Enis Sesalan', 'Giovanni Greco [8]']","['[TUR] ', '[ITA] ']","['21-13', '21-19']",MS - Qualification,20170511
-82,"['Joel König [9]', 'Oleksandar Shmundyak']","['[SUI] ', '[UKR] ']","['21-14', '18-21', '21-12']",MS - Qualification,20170511
-83,"['Miha Ivanic [7]', 'Elias Bracke']","['[SLO] ', '[BEL] ']","['21-18', '17-21', '21-17']",MS - Qualification,20170511
-84,"['Yusuf Ramazan Bay', 'Ross Green [13]']","['[TUR] ', '[ENG] ']","['18-21', '21-9', '22-20']",MS - Qualification,20170511
-85,"['Karan Rajan Rajarajan', 'Mikkel Enghøj [2]']","['[IND] ', '[DEN] ']","['21-18', '21-11']",MS - Qualification,20170511
-86,"['Vladyslava Lesnaya', 'Kaja Stankovic']","['[UKR] ', '[SLO] ']","['19-21', '21-13', '21-15']",WS - Qualification,20170511
-87,"['Anna Mikhalkova', 'Betul Soner']","['[UKR] ', '[TUR] ']","['21-13', '21-12']",WS - Qualification,20170511
-88,"['Aliye Demirbag', 'Olga Arkhangelskaya [3]']","['[TUR] ', '[RUS] ']","['21-19', '13-21', '21-14']",WS - Qualification,20170511
-89,"['Qi Xuefei', 'Daniella Gonda [8]']","['[CHN] ', '[HUN] ']","['21-14', '21-11']",WS - Qualification,20170511
-90,"['Emma Karlsson', 'Katarina Galenic']","['[SWE] ', '[CRO] ']","['21-18', '14-21', '21-13']",WS - Qualification,20170511
-91,"['Orsolya Varga', 'Anastasiya Cherniavskaya [4]']","['[HUN] ', '[BLR] ']","['21-9', '21-13']",WS - Qualification,20170511
-92,"['Lin Sih Yun', 'Johanna Magnusson']","['[TPE] ', '[SWE] ']","['21-19', '21-15']",WS - Qualification,20170511
-93,"['Busra Yalçinkaya', 'Jenny Ertl']","['[TUR] ', '[AUT] ']","['19-21', '21-13', '21-14']",WS - Qualification,20170511
-94,"['Morgan Lidman [16]', 'Jaromir Janacek']","['[SWE] ', '[CZE] ']","['21-17', '21-19']",MS - Qualification,20170511
-95,"['Adi Pratama [5]', 'Dmitrii Riabov [15]']","['[INA] ', '[RUS] ']","['21-9', '21-7']",MS - Qualification,20170511
-96,"['Emre Lale [14]', 'Michael Giesinger']","['[TUR] ', '[AUT] ']","['21-13', '21-11']",MS - Qualification,20170511
-97,"['Joel König [9]', 'Enis Sesalan']","['[SUI] ', '[TUR] ']","['21-13', '21-18']",MS - Qualification,20170511
-98,"['Cristian Savin', 'Miha Ivanic [7]']","['[CZE] ', '[SLO] ']","['21-13', '21-10']",MS - Qualification,20170511
-99,"['Jan Louda [11]', 'Christian Kirchmayr [3]']","['[CZE] ', '[SUI] ']","['9-21', '21-15', '21-16']",MS - Qualification,20170511
-100,"['Yusuf Ramazan Bay', 'Muhammed Ali Kurt']","['[TUR] ', '[TUR] ']","['21-18', '13-21', '23-21']",MS - Qualification,20170511
-101,"['Max Weisskirchen [10]', 'Karan Rajan Rajarajan']","['[GER] ', '[IND] ']","['23-21', '21-16']",MS - Qualification,20170511
-102,"['Matthew Clare', 'Victoria Williams', 'Urban Turk', 'Ema Cizelj']","['[ENG] ', '[ENG] ', '[SLO] ', '[SLO] ']","['21-14', '21-15']",XD,20170511
-103,"['Daniel Lundgaard', 'Christine Busch', 'Patrick Scheiel', 'Annika Schreiber']","['[DEN] ', '[DEN] ', '[GER] ', '[GER] ']","['21-16', '21-11']",XD,20170511
-104,"['Freek Golinski', 'Lise Jaques', 'Pal Padar', 'Daniella Gonda']","['[BEL] ', '[BEL] ', '[HUN] ', '[HUN] ']","['21-14', '21-11']",XD,20170511
-105,"['Bjarne Geiss', 'Emma Moszczynski', 'Silvan Furrer', 'Chantal Von Rotz']","['[GER] ', '[GER] ', '[SUI] ', '[SUI] ']","['13-21', '21-13', '21-12']",XD,20170511
-106,"['Matijs Dierickx', 'Flore Vandenhoucke', 'Osman Uyhan', 'Aliye Demirbag']","['[BEL] ', '[BEL] ', '[TUR] ', '[TUR] ']","['22-20', '21-23', '21-12']",XD,20170511
-107,"['Kristoffer Knudsen', 'Isabella Nielsen', 'Adi Pratama', 'Antonia Meinke']","['[DEN] ', '[DEN] ', '[INA] ', '[AUT] ']","['21-11', '21-14']",XD,20170511
-108,"['Serdar Koca', 'Emine Demirtas', 'Mika Kongas', 'Riikka Sinkko']","['[TUR] ', '[TUR] ', '[FIN] ', '[FIN] ']","['18-21', '21-13', '21-17']",XD,20170511
-109,"['Jacob Nilsson', 'Irina Amalie Andersen', 'Miha Ivancic', 'Petra Polanc']","['[SWE] ', '[DEN] ', '[SLO] ', '[SLO] ']","['21-13', '21-17']",XD,20170511
-110,"['Maxime Moreels [1]', 'Bernardo Atilano']","['[BEL] ', '[POR] ']","['22-20', '21-14']",MS,20170511
-111,"['Erik Meijs [3]', 'Matteo Bellucci']","['[NED] ', '[ITA] ']","['21-10', '21-9']",MS,20170511
-112,"['Luís Enrique Peñalver', 'Ditlev Jaeger Holm']","['[ESP] ', '[DEN] ']","['21-15', '20-22', '21-6']",MS,20170511
-113,"['Kyrylo Leonov', 'Daniel Ojaaar']","['[UKR] ', '[SWE] ']","['21-7', '21-7']",MS,20170511
-114,"['Simon Wang', 'Morgan Lidman']","['[GER] ', '[SWE] ']","['21-13', '21-13']",MS,20170511
-115,"['Adi Pratama', 'Gergely Krausz [6]']","['[INA] ', '[HUN] ']","['21-9', '21-18']",MS,20170511
-116,"['Rosario Maddaloni [4]', 'Vilson Vattanirappel']","['[ITA] ', '[AUT] ']","['21-13', '21-15']",MS,20170511
-117,"['Cristian Savin', 'David Peng']","['[CZE] ', '[GER] ']","['11-21', '21-16', '21-15']",MS,20170511
-118,"['Max Weisskirchen', 'Alen Roj']","['[GER] ', '[SLO] ']","['21-16', '19-21', '21-12']",MS,20170511
-119,"['Mads Christophersen', 'Jan Louda']","['[DEN] ', '[CZE] ']","['21-10', '21-9']",MS,20170511
-120,"['Felix Burestedt [7]', 'Henri Aarnio']","['[SWE] ', '[FIN] ']","['15-21', '21-19', '21-11']",MS,20170511
-121,"['Romain Eudeline', 'Duarte Nuno Anjo']","['[FRA] ', '[POR] ']","['21-14', '21-15']",MS,20170511
-122,"['Iikka Heino [8]', 'Joel König']","['[FIN] ', '[SUI] ']","['21-8', '21-12']",MS,20170511
-123,"['Emre Lale', 'Rudolf Dellenbach']","['[TUR] ', '[ITA] ']","['21-10', '21-19']",MS,20170511
-124,"['Jacob Nilsson', 'Adam Mendrek [5]']","['[SWE] ', '[CZE] ']","['21-13', '21-14']",MS,20170511
-125,"['Sam Parsons [2]', 'Yusuf Ramazan Bay']","['[ENG] ', '[TUR] ']","['19-21', '21-8', '21-8']",MS,20170511
-126,"['Airi Mikkela [1]', 'Georgina Bland']","['[FIN] ', '[ENG] ']","['21-16', '21-15']",WS,20170511
-127,"['Elena Komendrovskaja', 'Vladyslava Lesnaya']","['[RUS] ', '[UKR] ']","['21-19', '16-21', '21-8']",WS,20170511
-128,"['Irina Amalie Andersen [6]', 'Agnes Korosi']","['[DEN] ', '[HUN] ']","['21-16', '21-18']",WS,20170511
-129,"['Ayla Huser', 'Lisa Iversen']","['[SUI] ', '[ITA] ']","['21-7', '21-13']",WS,20170511
-130,"['Julie Dawall Jakobsen [4]', 'Maryna Ilyinskaya']","['[DEN] ', '[UKR] ']","['21-14', '21-15']",WS,20170511
-131,"['Kristin Kuuba', 'Zuzana Pavelkova']","['[EST] ', '[CZE] ']","['21-18', '14-21', '21-18']",WS,20170511
-132,"['Lianne Tan [5]', 'Ronja Stern']","['[BEL] ', '[SUI] ']","['21-10', '21-14']",WS,20170511
-133,"['Alesia Zaitsava', 'Busra Yalçinkaya']","['[BLR] ', '[TUR] ']","['21-5', '21-11']",WS,20170511
-134,"['Ksenia Evgenova', 'Getter Saar']","['[RUS] ', '[EST] ']","['8-21', '21-14', '22-20']",WS,20170511
-135,"['Clara Azurmendi [7]', 'Katerina Tomalova']","['[ESP] ', '[CZE] ']","['21-12', '21-16']",WS,20170511
-136,"['Qi Xuefei', 'Neslihan Yigit']","['[CHN] ', '[TUR] ']","['19-21', '21-8', '21-14']",WS,20170511
-137,"['Orsolya Varga', 'Tereza Švábíková']","['[HUN] ', '[CZE] ']","['8-21', '21-13', '22-20']",WS,20170511
-138,"['Anna Mikhalkova', 'Cendrine Hantz']","['[UKR] ', '[SUI] ']","['21-19', '21-13']",WS,20170511
-139,"['Natalya Voytsekh [8]', 'Jordan Hart']","['[UKR] ', '[WAL] ']","['21-14', '12-21', '21-11']",WS,20170511
-140,"['Aliye Demirbag', 'Lin Sih Yun']","['[TUR] ', '[TPE] ']","['21-13', '29-27']",WS,20170511
-141,"['Sofie Holmboe Dahl [2]', 'Emma Karlsson']","['[DEN] ', '[SWE] ']","['21-11', '21-14']",WS,20170511
-142,"['Okan Gultekin', 'Murat Sen', 'Daniel Hess', 'Patrick Scheiel']","['[TUR] ', '[TUR] ', '[GER] ', '[GER] ']","['12-21', '21-18', '21-19']",MD,20170511
-143,"['Igor Cimbur', 'Blagovest Kisyov', 'Dominik Doko', 'Filip Jagar']","['[CRO] ', '[BUL] ', '[CRO] ', '[CRO] ']","['19-21', '21-19', '21-16']",MD,20170511
-144,"['Kristoffer Knudsen', 'Mikkel Mikkelsen', 'Sergey Don', 'Vladyslav Volnyanskiy']","['[DEN] ', '[DEN] ', '[UKR] ', '[UKR] ']","['21-11', '21-10']",MD,20170511
-145,"['Daniel Benz', 'Andreas Heinz', 'Matthew Clare', 'David King']","['[GER] ', '[GER] ', '[ENG] ', '[ENG] ']","['21-9', '18-21', '21-12']",MD,20170511
-146,"['Jeppe Bay', 'Rasmus Kjær', 'Haktan Doğan', 'Osman Uyhan']","['[DEN] ', '[DEN] ', '[TUR] ', '[TUR] ']","['22-20', '21-14']",MD,20170511
-147,"['Yusuf Ramazan Bay', 'Sİnan Zorlu', 'Miha Ivanic', 'Andraz Krapez']","['[TUR] ', '[TUR] ', '[SLO] ', '[SLO] ']","['21-15', '21-11']",MD,20170511
-148,"['Bjarne Geiss', 'Johannes Pistorius', 'Daniel Lundgaard', 'Karl Thor Søndergaard']","['[GER] ', '[GER] ', '[DEN] ', '[DEN] ']","['21-19', '15-21', '21-14']",MD,20170511
-149,"['Vladyslav Buldenko', 'Ivan Druzchenko', 'Enis Sesalan', 'Ramazan Tekdemİr']","['[UKR] ', '[UKR] ', '[TUR] ', '[TUR] ']","['21-17', '14-21', '21-16']",MD,20170511
-150,"['Ksenia Evgenova', 'Maria Shegurova', 'Vladyslava Lesnaya', 'Darya Samarchants']","['[RUS] ', '[RUS] ', '[UKR] ', '[UKR] ']","['21-13', '21-13']",WD,20170511
-151,"['Bengisu Ercetin', 'Nazlıcan Inci', 'Sabina Magyar', 'Kaja Stankovic']","['[TUR] ', '[TUR] ', '[SLO] ', '[SLO] ']","['21-7', '21-12']",WD,20170511
-152,"['Ronja Stern', 'Chantal Von Rotz', 'Nika Arih', 'Petra Polanc']","['[SUI] ', '[SUI] ', '[SLO] ', '[SLO] ']","['21-14', '27-29', '21-16']",WD,20170511
-153,"['Christine Busch', 'Amalie Schulz Terp-Nielsen', 'Lin Sih Yun', 'Yang Yu-Chi']","['[DEN] ', '[DEN] ', '[TPE] ', '[TPE] ']","['21-14', '22-20']",WD,20170511
-154,"['Julie Dawall Jakobsen', 'Josephine Van Zaane', 'Buse Ceylan', 'Emine Demirtas']","['[DEN] ', '[DEN] ', '[TUR] ', '[TUR] ']","['21-10', '21-14']",WD,20170511
-155,"['Iza Salehar', 'Lia Salehar', 'Zehra Erdem', 'Ilayda Nur Ozelgul']","['[SLO] ', '[SLO] ', '[TUR] ', '[TUR] ']","['18-21', '22-20', '21-16']",WD,20170511
-156,"['Olga Arkhangelskaya', 'Natalia Rogova', 'Isabella Nielsen', 'Claudia Paredes']","['[RUS] ', '[RUS] ', '[DEN] ', '[DEN] ']","['22-20', '21-16']",WD,20170511
-157,"['Emma Karlsson', 'Johanna Magnusson', 'Lise Jaques', 'Flore Vandenhoucke']","['[SWE] ', '[SWE] ', '[BEL] ', '[BEL] ']","['21-13', '21-17']",WD,20170511
-158,"['Mikkel Mikkelsen [1]', 'Mai Surrow', 'Matthew Clare', 'Victoria Williams']","['[DEN] ', '[DEN] ', '[ENG] ', '[ENG] ']","['21-11', '21-10']",XD,20170511
-159,"['Andraz Krapez', 'Nika Arih', 'Daniel Lundgaard', 'Christine Busch']","['[SLO] ', '[SLO] ', '[DEN] ', '[DEN] ']","['21-17', '21-18']",XD,20170511
-160,"['Bjarne Geiss', 'Emma Moszczynski', 'Emre Sonmez', 'Ilayda Nur Ozelgul']","['[GER] ', '[GER] ', '[TUR] ', '[TUR] ']","['10-21', '21-16', '21-13']",XD,20170511
-161,"['Kristoffer Knudsen', 'Isabella Nielsen', 'Jakub Bitman [3]', 'Alzbeta Basova']","['[DEN] ', '[DEN] ', '[CZE] ', '[CZE] ']","['21-17', '21-18']",XD,20170511
-162,"['Shiau Cheng Chen', 'Chiang Yi-Hsuan', 'Serdar Koca', 'Emine Demirtas']","['[TPE] ', '[TPE] ', '[TUR] ', '[TUR] ']","['21-12', '21-11']",XD,20170511
-163,"['Gregory Mairs [2]', 'Jenny Moore', 'Jacob Nilsson', 'Irina Amalie Andersen']","['[ENG] ', '[ENG] ', '[SWE] ', '[DEN] ']","['21-15', '21-14']",XD,20170511
-164,"['Freek Golinski', 'Lise Jaques', 'Dmitrii Riabov [4]', 'Maria Shegurova']","['[BEL] ', '[BEL] ', '[RUS] ', '[RUS] ']","['21-18', '21-19']",XD,20170511
-165,"['Matijs Dierickx', 'Flore Vandenhoucke', 'Lukas Osele', 'Lisa Iversen']","['[BEL] ', '[BEL] ', '[ITA] ', '[ITA] ']","['21-13', '21-16']",XD,20170511
-166,"['Erik Meijs [3]', 'Luís Enrique Peñalver']","['[NED] ', '[ESP] ']","['21-10', '22-20']",MS,20170511
-167,"['Max Weisskirchen', 'Rosario Maddaloni [4]']","['[GER] ', '[ITA] ']","['21-12', '21-17']",MS,20170511
-168,"['Mads Christophersen', 'Felix Burestedt [7]']","['[DEN] ', '[SWE] ']","['22-20', '22-20']",MS,20170511
-169,"['Sam Parsons [2]', 'Romain Eudeline']","['[ENG] ', '[FRA] ']","['21-16', '21-14']",MS,20170511
-170,"['Airi Mikkela [1]', 'Elena Komendrovskaja']","['[FIN] ', '[RUS] ']","['21-12', '18-21', '21-19']",WS,20170511
-171,"['Jacob Nilsson', 'Kyrylo Leonov']","['[SWE] ', '[UKR] ']","['21-6', '21-16']",MS,20170511
-172,"['Julie Dawall Jakobsen [4]', 'Kristin Kuuba']","['[DEN] ', '[EST] ']","['21-11', '21-5']",WS,20170511
-173,"['Lianne Tan [5]', 'Alesia Zaitsava']","['[BEL] ', '[BLR] ']","['21-15', '21-16']",WS,20170511
-174,"['Maxime Moreels [1]', 'Cristian Savin']","['[BEL] ', '[CZE] ']","['21-16', '18-21', '21-6']",MS,20170511
-175,"['Iikka Heino [8]', 'Emre Lale']","['[FIN] ', '[TUR] ']","['21-8', '5-1']",MS,20170511
-176,"['Adi Pratama', 'Simon Wang']","['[INA] ', '[GER] ']","['21-5', '19-21', '21-12']",MS,20170511
-177,"['Irina Amalie Andersen [6]', 'Ayla Huser']","['[DEN] ', '[SUI] ']","['21-19', '21-15']",WS,20170511
-178,"['Clara Azurmendi [7]', 'Ksenia Evgenova']","['[ESP] ', '[RUS] ']","['21-11', '21-11']",WS,20170511
-179,"['Qi Xuefei', 'Orsolya Varga']","['[CHN] ', '[HUN] ']","['21-11', '21-17']",WS,20170511
-180,"['Natalya Voytsekh [8]', 'Anna Mikhalkova']","['[UKR] ', '[UKR] ']","['21-15', '21-19']",WS,20170511
-181,"['Sofie Holmboe Dahl [2]', 'Aliye Demirbag']","['[DEN] ', '[TUR] ']","['13-21', '21-13', '21-10']",WS,20170511
-182,"['Matijs Dierickx [1]', 'Freek Golinski', 'Okan Gultekin', 'Murat Sen']","['[BEL] ', '[BEL] ', '[TUR] ', '[TUR] ']","['21-17', '21-3']",MD,20170511
-183,"['Daniel Benz', 'Andreas Heinz', 'Serdar Koca', 'Serhat Salim']","['[GER] ', '[GER] ', '[TUR] ', '[TUR] ']","['21-15', '21-18']",MD,20170511
-184,"['Kristoffer Knudsen', 'Mikkel Mikkelsen', 'Lukas Osele [3]', 'Kevin Strobl']","['[DEN] ', '[DEN] ', '[ITA] ', '[ITA] ']","['21-14', '21-19']",MD,20170511
-185,"['Henri Aarnio [2]', 'Iikka Heino', 'Vladyslav Buldenko', 'Ivan Druzchenko']","['[FIN] ', '[FIN] ', '[UKR] ', '[UKR] ']","['21-12', '21-12']",MD,20170511
-186,"['Igor Cimbur', 'Blagovest Kisyov', 'Aljosa Turk', 'Urban Turk']","['[CRO] ', '[BUL] ', '[SLO] ', '[SLO] ']","['21-19', '22-20']",MD,20170511
-187,"['Jeppe Bay', 'Rasmus Kjær', 'Petr Beran', 'Ondřej Král']","['[DEN] ', '[DEN] ', '[CZE] ', '[CZE] ']","['21-13', '20-22', '21-18']",MD,20170511
-188,"['Yusuf Ramazan Bay', 'Sİnan Zorlu', 'Giovanni Greco [4]', 'Rosario Maddaloni']","['[TUR] ', '[TUR] ', '[ITA] ', '[ITA] ']","['21-9', '21-15']",MD,20170511
-189,"['Bjarne Geiss', 'Johannes Pistorius', 'Ali Bugra Akdogan', 'Baran Yuksel']","['[GER] ', '[GER] ', '[TUR] ', '[TUR] ']","['21-17', '21-15']",MD,20170511
-190,"['Ksenia Evgenova', 'Maria Shegurova', 'Tereza Švábíková [4]', 'Katerina Tomalova']","['[RUS] ', '[RUS] ', '[CZE] ', '[CZE] ']","['23-21', '21-11']",WD,20170511
-191,"['Jenny Moore [1]', 'Victoria Williams', 'Ronja Stern', 'Chantal Von Rotz']","['[ENG] ', '[ENG] ', '[SUI] ', '[SUI] ']","['21-13', '21-17']",WD,20170511
-192,"['Ozge Bayrak', 'Cemre Fere', 'Christine Busch', 'Amalie Schulz Terp-Nielsen']","['[TUR] ', '[TUR] ', '[DEN] ', '[DEN] ']","['21-16', '21-9']",WD,20170511
-193,"['Julie Dawall Jakobsen', 'Josephine Van Zaane', 'Anastasiya Cherniavskaya', 'Alesia Zaitsava']","['[DEN] ', '[DEN] ', '[BLR] ', '[BLR] ']","['21-11', '21-14']",WD,20170511
-194,"['Iza Salehar', 'Lia Salehar', 'Busra Unlu', 'Ebru Yazgan']","['[SLO] ', '[SLO] ', '[TUR] ', '[TUR] ']","['21-10', '21-18']",WD,20170511
-195,"['Bengisu Ercetin', 'Nazlıcan Inci', 'Natalya Voytsekh [3]', 'Yelyzaveta Zharka']","['[TUR] ', '[TUR] ', '[UKR] ', '[UKR] ']","['21-10', '10-21', '21-15']",WD,20170511
-196,"['Olga Arkhangelskaya', 'Natalia Rogova', 'Chiang Yi-Hsuan', 'Hung En-Tzu']","['[RUS] ', '[RUS] ', '[TPE] ', '[TPE] ']","['21-19', '21-16']",WD,20170511
-197,"['Kristin Kuuba [2]', 'Helina Rüütel', 'Emma Karlsson', 'Johanna Magnusson']","['[EST] ', '[EST] ', '[SWE] ', '[SWE] ']","['21-18', '22-20']",WD,20170511
-198,"['Mikkel Mikkelsen [1]', 'Mai Surrow', 'Andraz Krapez', 'Nika Arih']","['[DEN] ', '[DEN] ', '[SLO] ', '[SLO] ']","['21-10', '21-11']",XD ,20170511
-199,"['Iikka Heino [8]', 'Maxime Moreels [1]']","['[FIN] ', '[BEL] ']","['21-10', '21-8']",MS ,20170511
-200,"['Irina Amalie Andersen [6]', 'Airi Mikkela [1]']","['[DEN] ', '[FIN] ']","['17-21', '21-15', '21-19']",WS ,20170511
-201,"['Jeppe Bay', 'Rasmus Kjær', 'Yusuf Ramazan Bay', 'Sİnan Zorlu']","['[DEN] ', '[DEN] ', '[TUR] ', '[TUR] ']","['21-13', '21-19']",MD ,20170511
-202,"['Ksenia Evgenova', 'Maria Shegurova', 'Julie Dawall Jakobsen', 'Josephine Van Zaane']","['[RUS] ', '[RUS] ', '[DEN] ', '[DEN] ']","['21-14', '21-18']",WD ,20170511
-203,"['Mikkel Mikkelsen [1]', 'Mai Surrow', 'Freek Golinski', 'Lise Jaques']","['[DEN] ', '[DEN] ', '[BEL] ', '[BEL] ']","['14-21', '21-12', '21-13']",XD ,20170511
-204,"['Erik Meijs [3]', 'Iikka Heino [8]']","['[NED] ', '[FIN] ']","['23-21', '21-19']",MS ,20170511
-205,"['Qi Xuefei', 'Sofie Holmboe Dahl [2]']","['[CHN] ', '[DEN] ']","['24-22', '21-17']",WS ,20170511
-206,"['Olga Arkhangelskaya', 'Natalia Rogova', 'Bengisu Ercetin', 'Nazlıcan Inci']","['[RUS] ', '[RUS] ', '[TUR] ', '[TUR] ']","['21-18', '21-10']",WD ,20170511
-207,"['Matijs Dierickx [1]', 'Freek Golinski', 'Daniel Benz', 'Andreas Heinz']","['[BEL] ', '[BEL] ', '[GER] ', '[GER] ']","['22-20', '14-21', '21-11']",MD ,20170511
-208,"['Freek Golinski', 'Lise Jaques', 'Bjarne Geiss', 'Emma Moszczynski']","['[BEL] ', '[BEL] ', '[GER] ', '[GER] ']","['22-20', '21-18']",XD ,20170511
-209,"['Julie Dawall Jakobsen [4]', 'Lianne Tan [5]']","['[DEN] ', '[BEL] ']","['18-21', '21-11', '21-16']",WS ,20170511
-210,"['Adi Pratama', 'Max Weisskirchen']","['[INA] ', '[GER] ']","['15-21', '22-20', '21-15']",MS ,20170511
-211,"['Jenny Moore [1]', 'Victoria Williams', 'Ozge Bayrak', 'Cemre Fere']","['[ENG] ', '[ENG] ', '[TUR] ', '[TUR] ']","['19-21', '21-16', '21-16']",WD ,20170511
-212,"['Bjarne Geiss', 'Johannes Pistorius', 'Henri Aarnio [2]', 'Iikka Heino']","['[GER] ', '[GER] ', '[FIN] ', '[FIN] ']","['21-13', '21-15']",MD ,20170511
-213,"['Gregory Mairs [2]', 'Jenny Moore', 'Kristoffer Knudsen', 'Isabella Nielsen']","['[ENG] ', '[ENG] ', '[DEN] ', '[DEN] ']","['21-19', '21-13']",XD ,20170511
-214,"['Julie Dawall Jakobsen [4]', 'Irina Amalie Andersen [6]']","['[DEN] ', '[DEN] ']","['21-13', '21-9']",WS ,20170511
-215,"['Adi Pratama', 'Sam Parsons [2]']","['[INA] ', '[ENG] ']","['21-11', '21-19']",MS ,20170511
-216,"['Jeppe Bay', 'Rasmus Kjær', 'Bjarne Geiss', 'Johannes Pistorius']","['[DEN] ', '[DEN] ', '[GER] ', '[GER] ']","['21-18', '21-16']",MD ,20170511
-217,"['Jenny Moore [1]', 'Victoria Williams', 'Ksenia Evgenova', 'Maria Shegurova']","['[ENG] ', '[ENG] ', '[RUS] ', '[RUS] ']","['21-9', '21-8']",WD ,20170511
-218,"['Kristoffer Knudsen', 'Isabella Nielsen', 'Matijs Dierickx', 'Flore Vandenhoucke']","['[DEN] ', '[DEN] ', '[BEL] ', '[BEL] ']","['21-18', '21-16']",XD ,20170511
-219,"['Erik Meijs [3]', 'Jacob Nilsson']","['[NED] ', '[SWE] ']","['21-19', '21-9']",MS ,20170511
-220,"['Qi Xuefei', 'Clara Azurmendi [7]']","['[CHN] ', '[ESP] ']","['21-12', '21-14']",WS ,20170511
-221,"['Daniel Benz', 'Andreas Heinz', 'Kristoffer Knudsen', 'Mikkel Mikkelsen']","['[GER] ', '[GER] ', '[DEN] ', '[DEN] ']","['21-17', '17-21', '21-17']",MD ,20170511
-222,"['Matijs Dierickx [1]', 'Freek Golinski', 'Igor Cimbur', 'Blagovest Kisyov']","['[BEL] ', '[BEL] ', '[CRO] ', '[BUL] ']",[],MD ,20170511
-223,"['Gregory Mairs [2]', 'Jenny Moore', 'Shiau Cheng Chen', 'Chiang Yi-Hsuan']","['[ENG] ', '[ENG] ', '[TPE] ', '[TPE] ']","['21-9', '21-9']",XD ,20170511
-224,"['Sofie Holmboe Dahl [2]', 'Natalya Voytsekh [8]']","['[DEN] ', '[UKR] ']","['21-16', '21-16']",WS ,20170511
-225,"['Sam Parsons [2]', 'Mads Christophersen']","['[ENG] ', '[DEN] ']","['21-12', '17-21', '21-16']",MS ,20170511
-226,"['Olga Arkhangelskaya', 'Natalia Rogova', 'Kristin Kuuba [2]', 'Helina Rüütel']","['[RUS] ', '[RUS] ', '[EST] ', '[EST] ']","['19-21', '21-12', '21-18']",WD ,20170511
-227,"['Bengisu Ercetin', 'Nazlıcan Inci', 'Iza Salehar', 'Lia Salehar']","['[TUR] ', '[TUR] ', '[SLO] ', '[SLO] ']","['21-10', '21-8']",WD ,20170511
-228,"['Mikkel Mikkelsen [1]', 'Mai Surrow', 'Gregory Mairs [2]', 'Jenny Moore']","['[DEN] ', '[DEN] ', '[ENG] ', '[ENG] ']","['21-12', '21-13']",XD ,20170511
-229,"['Erik Meijs [3]', 'Adi Pratama']","['[NED] ', '[INA] ']","['21-14', '14-21', '21-17']",MS after XD prize-giving ceremony,20170511
-230,"['Olga Arkhangelskaya', 'Natalia Rogova', 'Jenny Moore [1]', 'Victoria Williams']","['[RUS] ', '[RUS] ', '[ENG] ', '[ENG] ']","['22-20', '21-17']",WD after prize-giving ceremony,20170511
-231,"['Julie Dawall Jakobsen [4]', 'Qi Xuefei']","['[DEN] ', '[CHN] ']","['21-19', '21-14']",WS after XD prize-giving ceremony,20170511
-232,"['Matijs Dierickx [1]', 'Freek Golinski', 'Jeppe Bay', 'Rasmus Kjær']","['[BEL] ', '[BEL] ', '[DEN] ', '[DEN] ']","['21-13', '21-16']",MD after prize-giving ceremony,20170511
+,PLAYERS,COUNTRIES,SCORES,EVENT,match_week,match_location
+0,"['Shiau Cheng Chen', 'Chiang Yi-Hsuan', 'Bernardo Atilano', 'Mariana Chang']","['[TPE] ', '[TPE] ', '[POR] ', '[POR] ']","['21-17', '21-15']",XD - Qualification,20170511,"Medvode, Slovenia"
+1,"['Patrick Scheiel', 'Annika Schreiber', 'Steve Olesen', 'Josephine Van Zaane']","['[GER] ', '[GER] ', '[DEN] ', '[DEN] ']",[],XD - Qualification,20170511,"Medvode, Slovenia"
+2,"['Jakob Sorger [2]', 'Serena Au Yeong', 'Filip Jagar', 'Lucija Buchberger']","['[AUT] ', '[AUT] ', '[CRO] ', '[CRO] ']","['21-16', '11-21', '21-16']",XD - Qualification,20170511,"Medvode, Slovenia"
+3,"['Isabella Nielsen', 'Claudia Paredes', 'Katarina Galenic', 'Maja Pavlinic']","['[DEN] ', '[DEN] ', '[CRO] ', '[CRO] ']","['16-21', '21-14', '22-20']",WD - Qualification,20170511,"Medvode, Slovenia"
+4,"['Iza Salehar', 'Lia Salehar', 'Daniella Gonda', 'Orsolya Varga']","['[SLO] ', '[SLO] ', '[HUN] ', '[HUN] ']","['21-16', '21-18']",WD - Qualification,20170511,"Medvode, Slovenia"
+5,"['Christine Busch', 'Amalie Schulz Terp-Nielsen', 'Maryna Ilyinskaya', 'Anna Mikhalkova']","['[DEN] ', '[DEN] ', '[UKR] ', '[UKR] ']","['21-11', '21-19']",WD - Qualification,20170511,"Medvode, Slovenia"
+6,"['Enis Sesalan', 'Ramazan Tekdemİr', 'Dani Klancar', 'Klemen Lesničar']","['[TUR] ', '[TUR] ', '[SLO] ', '[SLO] ']","['21-12', '21-16']",MD - Qualification,20170511,"Medvode, Slovenia"
+7,"['Daniel Lundgaard', 'Karl Thor Søndergaard', 'Miha Ivancic', 'Rok Jercinovic']","['[DEN] ', '[DEN] ', '[SLO] ', '[SLO] ']","['21-14', '21-15']",MD - Qualification,20170511,"Medvode, Slovenia"
+8,"['Martin Cerkovnik', 'Urban Herman', 'Silvan Furrer', 'Tobias Kuenzi']","['[SLO] ', '[SLO] ', '[SUI] ', '[SUI] ']","['21-18', '21-17']",MD - Qualification,20170511,"Medvode, Slovenia"
+9,"['Martin Bundgaard', 'Michael Spencer-Smith [1]']","['[DEN] ', '[ENG] ']","['18-21', '21-11', '21-16']",MS - Qualification,20170511,"Medvode, Slovenia"
+10,"['Jaromir Janacek', 'Aljosa Turk']","['[CZE] ', '[SLO] ']","['21-12', '21-13']",MS - Qualification,20170511,"Medvode, Slovenia"
+11,"['Morgan Lidman [16]', 'Oleksandr Kolesnik']","['[SWE] ', '[UKR] ']","['21-14', '21-9']",MS - Qualification,20170511,"Medvode, Slovenia"
+12,"['Filip Spoljarec', 'Douglas Lidman']","['[CRO] ', '[SWE] ']","['11-21', '21-17', '21-17']",MS - Qualification,20170511,"Medvode, Slovenia"
+13,"['Ahmetcan Oruc', 'Jonas Schwarz']","['[TUR] ', '[SUI] ']","['21-12', '21-8']",MS - Qualification,20170511,"Medvode, Slovenia"
+14,"['Dmitrii Riabov [15]', 'Hugo Jardim']","['[RUS] ', '[ENG] ']","['21-7', '21-3']",MS - Qualification,20170511,"Medvode, Slovenia"
+15,"['Shiau Cheng Chen', 'Chiang Yi-Hsuan', 'Adi Pratama [1]', 'Antonia Meinke']","['[TPE] ', '[TPE] ', '[INA] ', '[AUT] ']",[],XD - Qualification,20170511,"Medvode, Slovenia"
+16,"['Patrick Scheiel', 'Annika Schreiber', 'Jakob Sorger [2]', 'Serena Au Yeong']","['[GER] ', '[GER] ', '[AUT] ', '[AUT] ']","['14-21', '21-13', '21-18']",XD - Qualification,20170511,"Medvode, Slovenia"
+17,"['Michael Giesinger', 'Lukas Osele [4]']","['[AUT] ', '[ITA] ']","['25-23', '21-15']",MS - Qualification,20170511,"Medvode, Slovenia"
+18,"['Mika Kongas', 'Mykola Martynenko']","['[FIN] ', '[UKR] ']","['21-17', '21-9']",MS - Qualification,20170511,"Medvode, Slovenia"
+19,"['Emre Lale [14]', 'Petr Beran']","['[TUR] ', '[CZE] ']","['21-14', '21-18']",MS - Qualification,20170511,"Medvode, Slovenia"
+20,"['Luke Pearce', 'Oliver Lee Nowak']","['[ENG] ', '[DEN] ']","['21-19', '21-13']",MS - Qualification,20170511,"Medvode, Slovenia"
+21,"['Giovanni Greco [8]', 'Philip Discher']","['[ITA] ', '[GER] ']","['18-21', '21-17', '21-19']",MS - Qualification,20170511,"Medvode, Slovenia"
+22,"['Cristian Savin', 'Vladyslav Volnyanskiy']","['[CZE] ', '[UKR] ']","['28-26', '21-19']",MS - Qualification,20170511,"Medvode, Slovenia"
+23,"['Andy Tsai [12]', 'Pal Padar']","['[SWE] ', '[HUN] ']","['21-13', '21-18']",MS - Qualification,20170511,"Medvode, Slovenia"
+24,"['Miha Ivanic [7]', 'Sam Lyle']","['[SLO] ', '[ENG] ']","['22-20', '21-15']",MS - Qualification,20170511,"Medvode, Slovenia"
+25,"['Tobias Kuenzi', 'Viknesh Rajendran']","['[SUI] ', '[ENG] ']","['22-20', '21-7']",MS - Qualification,20170511,"Medvode, Slovenia"
+26,"['Enis Sesalan', 'Miha Ivancic']","['[TUR] ', '[SLO] ']","['21-13', '21-19']",MS - Qualification,20170511,"Medvode, Slovenia"
+27,"['Oleksandar Shmundyak', 'Rok Jercinovic']","['[UKR] ', '[SLO] ']","['21-10', '21-16']",MS - Qualification,20170511,"Medvode, Slovenia"
+28,"['Rowan Scheurkogel', 'Ali Bugra Akdogan']","['[BEL] ', '[TUR] ']","['21-18', '21-11']",MS - Qualification,20170511,"Medvode, Slovenia"
+29,"['Jan Louda [11]', 'Serhat Salim']","['[CZE] ', '[TUR] ']","['21-15', '21-7']",MS - Qualification,20170511,"Medvode, Slovenia"
+30,"['Emma Moszczynski', 'Annika Schreiber', 'Sevval Buse Alsoy', 'Arzu Delibalta']","['[GER] ', '[GER] ', '[TUR] ', '[TUR] ']","['21-19', '10-21', '21-17']",WD - Qualification,20170511,"Medvode, Slovenia"
+31,"['Chiang Yi-Hsuan', 'Hung En-Tzu', 'Betul Soner', 'Naime Yilmaz']","['[TPE] ', '[TPE] ', '[TUR] ', '[TUR] ']","['21-9', '21-14']",WD - Qualification,20170511,"Medvode, Slovenia"
+32,"['Igor Cimbur', 'Blagovest Kisyov', 'Philipp Drexler', 'Jakob Sorger']","['[CRO] ', '[BUL] ', '[AUT] ', '[AUT] ']","['22-20', '21-19']",MD - Qualification,20170511,"Medvode, Slovenia"
+33,"['Sİnan Zorlu', 'Sergey Don']","['[TUR] ', '[UKR] ']","['21-13', '21-10']",MS - Qualification,20170511,"Medvode, Slovenia"
+34,"['Christian Kirchmayr [3]', 'Okan Gultekin']","['[SUI] ', '[TUR] ']","['21-11', '21-13']",MS - Qualification,20170511,"Medvode, Slovenia"
+35,"['Adi Pratama [5]', 'Andraz Krapez']","['[INA] ', '[SLO] ']","['21-16', '21-16']",MS - Qualification,20170511,"Medvode, Slovenia"
+36,"['Yusuf Ramazan Bay', 'Leon Seiwald']","['[TUR] ', '[AUT] ']","['21-19', '21-16']",MS - Qualification,20170511,"Medvode, Slovenia"
+37,"['Ross Green [13]', 'Martin Cerkovnik']","['[ENG] ', '[SLO] ']","['21-13', '16-21', '21-16']",MS - Qualification,20170511,"Medvode, Slovenia"
+38,"['Muhammed Ali Kurt', 'Flurin Furrer']","['[TUR] ', '[SUI] ']","['21-17', '21-17']",MS - Qualification,20170511,"Medvode, Slovenia"
+39,"['Lukas Zevl [6]', 'Stijn De Langhe']","['[CZE] ', '[BEL] ']","['21-15', '21-16']",MS - Qualification,20170511,"Medvode, Slovenia"
+40,"['Josip Uglesic', 'Urban Turk']","['[CRO] ', '[SLO] ']","['21-9', '21-10']",MS - Qualification,20170511,"Medvode, Slovenia"
+41,"['Max Weisskirchen [10]', 'Murat Sen']","['[GER] ', '[TUR] ']","['21-7', '11-21', '21-17']",MS - Qualification,20170511,"Medvode, Slovenia"
+42,"['Mikkel Enghøj [2]', 'Haktan Doğan']","['[DEN] ', '[TUR] ']","['21-16', '21-12']",MS - Qualification,20170511,"Medvode, Slovenia"
+43,"['Vladyslava Lesnaya', 'Arzu Delibalta']","['[UKR] ', '[TUR] ']","['21-17', '21-5']",WS - Qualification,20170511,"Medvode, Slovenia"
+44,"['Kaja Stankovic', 'Busra Unlu']","['[SLO] ', '[TUR] ']","['21-10', '21-17']",WS - Qualification,20170511,"Medvode, Slovenia"
+45,"['Anna Mikhalkova', 'Emma Thorne']","['[UKR] ', '[SWE] ']","['21-13', '21-8']",WS - Qualification,20170511,"Medvode, Slovenia"
+46,"['Olga Arkhangelskaya [3]', 'Petra Polanc']","['[RUS] ', '[SLO] ']","['21-11', '21-16']",WS - Qualification,20170511,"Medvode, Slovenia"
+47,"['Aliye Demirbag', 'Iza Salehar']","['[TUR] ', '[SLO] ']","['21-13', '21-15']",WS - Qualification,20170511,"Medvode, Slovenia"
+48,"['Daniella Gonda [8]', 'Darya Samarchants']","['[HUN] ', '[UKR] ']","['21-19', '21-17']",WS - Qualification,20170511,"Medvode, Slovenia"
+49,"['Qi Xuefei', 'Helina Rüütel']","['[CHN] ', '[EST] ']","['21-8', '21-9']",WS - Qualification,20170511,"Medvode, Slovenia"
+50,"['Joel König [9]', 'Philipp Drexler']","['[SUI] ', '[AUT] ']","['21-16', '19-21', '21-11']",MS - Qualification,20170511,"Medvode, Slovenia"
+51,"['Elias Bracke', 'Blagovest Kisyov']","['[BEL] ', '[BUL] ']","['17-21', '21-17', '21-14']",MS - Qualification,20170511,"Medvode, Slovenia"
+52,"['Karan Rajan Rajarajan', 'Igor Cimbur']","['[IND] ', '[CRO] ']","['21-13', '21-10']",MS - Qualification,20170511,"Medvode, Slovenia"
+53,"['Betul Soner', 'Sonja Langthaler [5]']","['[TUR] ', '[AUT] ']","['21-13', '21-17']",WS - Qualification,20170511,"Medvode, Slovenia"
+54,"['Emma Karlsson', 'Buse Ceylan']","['[SWE] ', '[TUR] ']","['21-11', '21-11']",WS - Qualification,20170511,"Medvode, Slovenia"
+55,"['Katarina Galenic', 'Sonia Goncalves [6]']","['[CRO] ', '[POR] ']","['21-11', '17-21', '21-16']",WS - Qualification,20170511,"Medvode, Slovenia"
+56,"['Orsolya Varga', 'Mariana Chang']","['[HUN] ', '[POR] ']","['22-20', '21-8']",WS - Qualification,20170511,"Medvode, Slovenia"
+57,"['Anastasiya Cherniavskaya [4]', 'Ebru Yazgan']","['[BLR] ', '[TUR] ']","['21-10', '21-23', '21-19']",WS - Qualification,20170511,"Medvode, Slovenia"
+58,"['Lin Sih Yun', 'Naime Yilmaz']","['[TPE] ', '[TUR] ']","['21-13', '21-15']",WS - Qualification,20170511,"Medvode, Slovenia"
+59,"['Johanna Magnusson', 'Riikka Sinkko [7]']","['[SWE] ', '[FIN] ']","['21-11', '17-21', '21-17']",WS - Qualification,20170511,"Medvode, Slovenia"
+60,"['Busra Yalçinkaya', 'Giulia Fiorito']","['[TUR] ', '[ITA] ']","['21-16', '21-12']",WS - Qualification,20170511,"Medvode, Slovenia"
+61,"['Jenny Ertl', 'Ema Cizelj']","['[AUT] ', '[SLO] ']","['21-17', '25-23']",WS - Qualification,20170511,"Medvode, Slovenia"
+62,"['Enis Sesalan', 'Ramazan Tekdemİr', 'Dominik Doko [1]', 'Filip Jagar']","['[TUR] ', '[TUR] ', '[CRO] ', '[CRO] ']",[],MD - Qualification,20170511,"Medvode, Slovenia"
+63,"['Daniel Lundgaard', 'Karl Thor Søndergaard', 'Oleksandr Kolesnik', 'Mykola Martynenko']","['[DEN] ', '[DEN] ', '[UKR] ', '[UKR] ']","['21-19', '21-18']",MD - Qualification,20170511,"Medvode, Slovenia"
+64,"['Petr Beran [2]', 'Ondřej Král', 'Martin Cerkovnik', 'Urban Herman']","['[CZE] ', '[CZE] ', '[SLO] ', '[SLO] ']","['21-14', '21-12']",MD - Qualification,20170511,"Medvode, Slovenia"
+65,"['Igor Cimbur', 'Blagovest Kisyov', 'Jaka Ivančič', 'Tej Kolar']","['[CRO] ', '[BUL] ', '[SLO] ', '[SLO] ']","['21-15', '21-10']",MD - Qualification,20170511,"Medvode, Slovenia"
+66,"['Christine Busch', 'Amalie Schulz Terp-Nielsen', 'Emma Moszczynski', 'Annika Schreiber']","['[DEN] ', '[DEN] ', '[GER] ', '[GER] ']","['21-13', '21-16']",WD - Qualification,20170511,"Medvode, Slovenia"
+67,"['Jaromir Janacek', 'Martin Bundgaard']","['[CZE] ', '[DEN] ']","['13-21', '21-19', '21-16']",MS - Qualification,20170511,"Medvode, Slovenia"
+68,"['Adi Pratama [5]', 'Ahmetcan Oruc']","['[INA] ', '[TUR] ']","['12-21', '21-13', '21-9']",MS - Qualification,20170511,"Medvode, Slovenia"
+69,"['Cristian Savin', 'Andy Tsai [12]']","['[CZE] ', '[SWE] ']","['15-21', '22-20', '22-20']",MS - Qualification,20170511,"Medvode, Slovenia"
+70,"['Isabella Nielsen', 'Claudia Paredes', 'Zehra Erdem [1]', 'Ilayda Nur Ozelgul']","['[DEN] ', '[DEN] ', '[TUR] ', '[TUR] ']",[],WD - Qualification,20170511,"Medvode, Slovenia"
+71,"['Iza Salehar', 'Lia Salehar', 'Jenny Ertl', 'Sonja Langthaler']","['[SLO] ', '[SLO] ', '[AUT] ', '[AUT] ']","['24-22', '21-12']",WD - Qualification,20170511,"Medvode, Slovenia"
+72,"['Chiang Yi-Hsuan', 'Hung En-Tzu', 'Serena Au Yeong [2]', 'Antonia Meinke']","['[TPE] ', '[TPE] ', '[AUT] ', '[AUT] ']","['21-11', '21-10']",WD - Qualification,20170511,"Medvode, Slovenia"
+73,"['Christian Kirchmayr [3]', 'Sİnan Zorlu']","['[SUI] ', '[TUR] ']","['21-19', '21-5']",MS - Qualification,20170511,"Medvode, Slovenia"
+74,"['Jan Louda [11]', 'Rowan Scheurkogel']","['[CZE] ', '[BEL] ']","['21-11', '21-12']",MS - Qualification,20170511,"Medvode, Slovenia"
+75,"['Muhammed Ali Kurt', 'Lukas Zevl [6]']","['[TUR] ', '[CZE] ']","['21-16', '21-18']",MS - Qualification,20170511,"Medvode, Slovenia"
+76,"['Max Weisskirchen [10]', 'Josip Uglesic']","['[GER] ', '[CRO] ']","['21-18', '21-13']",MS - Qualification,20170511,"Medvode, Slovenia"
+77,"['Morgan Lidman [16]', 'Filip Spoljarec']","['[SWE] ', '[CRO] ']","['21-17', '14-21', '21-18']",MS - Qualification,20170511,"Medvode, Slovenia"
+78,"['Dmitrii Riabov [15]', 'Tobias Kuenzi']","['[RUS] ', '[SUI] ']","['21-14', '13-21', '21-16']",MS - Qualification,20170511,"Medvode, Slovenia"
+79,"['Michael Giesinger', 'Mika Kongas']","['[AUT] ', '[FIN] ']","['21-14', '21-14']",MS - Qualification,20170511,"Medvode, Slovenia"
+80,"['Emre Lale [14]', 'Luke Pearce']","['[TUR] ', '[ENG] ']","['20-22', '21-15', '22-20']",MS - Qualification,20170511,"Medvode, Slovenia"
+81,"['Enis Sesalan', 'Giovanni Greco [8]']","['[TUR] ', '[ITA] ']","['21-13', '21-19']",MS - Qualification,20170511,"Medvode, Slovenia"
+82,"['Joel König [9]', 'Oleksandar Shmundyak']","['[SUI] ', '[UKR] ']","['21-14', '18-21', '21-12']",MS - Qualification,20170511,"Medvode, Slovenia"
+83,"['Miha Ivanic [7]', 'Elias Bracke']","['[SLO] ', '[BEL] ']","['21-18', '17-21', '21-17']",MS - Qualification,20170511,"Medvode, Slovenia"
+84,"['Yusuf Ramazan Bay', 'Ross Green [13]']","['[TUR] ', '[ENG] ']","['18-21', '21-9', '22-20']",MS - Qualification,20170511,"Medvode, Slovenia"
+85,"['Karan Rajan Rajarajan', 'Mikkel Enghøj [2]']","['[IND] ', '[DEN] ']","['21-18', '21-11']",MS - Qualification,20170511,"Medvode, Slovenia"
+86,"['Vladyslava Lesnaya', 'Kaja Stankovic']","['[UKR] ', '[SLO] ']","['19-21', '21-13', '21-15']",WS - Qualification,20170511,"Medvode, Slovenia"
+87,"['Anna Mikhalkova', 'Betul Soner']","['[UKR] ', '[TUR] ']","['21-13', '21-12']",WS - Qualification,20170511,"Medvode, Slovenia"
+88,"['Aliye Demirbag', 'Olga Arkhangelskaya [3]']","['[TUR] ', '[RUS] ']","['21-19', '13-21', '21-14']",WS - Qualification,20170511,"Medvode, Slovenia"
+89,"['Qi Xuefei', 'Daniella Gonda [8]']","['[CHN] ', '[HUN] ']","['21-14', '21-11']",WS - Qualification,20170511,"Medvode, Slovenia"
+90,"['Emma Karlsson', 'Katarina Galenic']","['[SWE] ', '[CRO] ']","['21-18', '14-21', '21-13']",WS - Qualification,20170511,"Medvode, Slovenia"
+91,"['Orsolya Varga', 'Anastasiya Cherniavskaya [4]']","['[HUN] ', '[BLR] ']","['21-9', '21-13']",WS - Qualification,20170511,"Medvode, Slovenia"
+92,"['Lin Sih Yun', 'Johanna Magnusson']","['[TPE] ', '[SWE] ']","['21-19', '21-15']",WS - Qualification,20170511,"Medvode, Slovenia"
+93,"['Busra Yalçinkaya', 'Jenny Ertl']","['[TUR] ', '[AUT] ']","['19-21', '21-13', '21-14']",WS - Qualification,20170511,"Medvode, Slovenia"
+94,"['Morgan Lidman [16]', 'Jaromir Janacek']","['[SWE] ', '[CZE] ']","['21-17', '21-19']",MS - Qualification,20170511,"Medvode, Slovenia"
+95,"['Adi Pratama [5]', 'Dmitrii Riabov [15]']","['[INA] ', '[RUS] ']","['21-9', '21-7']",MS - Qualification,20170511,"Medvode, Slovenia"
+96,"['Emre Lale [14]', 'Michael Giesinger']","['[TUR] ', '[AUT] ']","['21-13', '21-11']",MS - Qualification,20170511,"Medvode, Slovenia"
+97,"['Joel König [9]', 'Enis Sesalan']","['[SUI] ', '[TUR] ']","['21-13', '21-18']",MS - Qualification,20170511,"Medvode, Slovenia"
+98,"['Cristian Savin', 'Miha Ivanic [7]']","['[CZE] ', '[SLO] ']","['21-13', '21-10']",MS - Qualification,20170511,"Medvode, Slovenia"
+99,"['Jan Louda [11]', 'Christian Kirchmayr [3]']","['[CZE] ', '[SUI] ']","['9-21', '21-15', '21-16']",MS - Qualification,20170511,"Medvode, Slovenia"
+100,"['Yusuf Ramazan Bay', 'Muhammed Ali Kurt']","['[TUR] ', '[TUR] ']","['21-18', '13-21', '23-21']",MS - Qualification,20170511,"Medvode, Slovenia"
+101,"['Max Weisskirchen [10]', 'Karan Rajan Rajarajan']","['[GER] ', '[IND] ']","['23-21', '21-16']",MS - Qualification,20170511,"Medvode, Slovenia"
+102,"['Matthew Clare', 'Victoria Williams', 'Urban Turk', 'Ema Cizelj']","['[ENG] ', '[ENG] ', '[SLO] ', '[SLO] ']","['21-14', '21-15']",XD,20170511,"Medvode, Slovenia"
+103,"['Daniel Lundgaard', 'Christine Busch', 'Patrick Scheiel', 'Annika Schreiber']","['[DEN] ', '[DEN] ', '[GER] ', '[GER] ']","['21-16', '21-11']",XD,20170511,"Medvode, Slovenia"
+104,"['Freek Golinski', 'Lise Jaques', 'Pal Padar', 'Daniella Gonda']","['[BEL] ', '[BEL] ', '[HUN] ', '[HUN] ']","['21-14', '21-11']",XD,20170511,"Medvode, Slovenia"
+105,"['Bjarne Geiss', 'Emma Moszczynski', 'Silvan Furrer', 'Chantal Von Rotz']","['[GER] ', '[GER] ', '[SUI] ', '[SUI] ']","['13-21', '21-13', '21-12']",XD,20170511,"Medvode, Slovenia"
+106,"['Matijs Dierickx', 'Flore Vandenhoucke', 'Osman Uyhan', 'Aliye Demirbag']","['[BEL] ', '[BEL] ', '[TUR] ', '[TUR] ']","['22-20', '21-23', '21-12']",XD,20170511,"Medvode, Slovenia"
+107,"['Kristoffer Knudsen', 'Isabella Nielsen', 'Adi Pratama', 'Antonia Meinke']","['[DEN] ', '[DEN] ', '[INA] ', '[AUT] ']","['21-11', '21-14']",XD,20170511,"Medvode, Slovenia"
+108,"['Serdar Koca', 'Emine Demirtas', 'Mika Kongas', 'Riikka Sinkko']","['[TUR] ', '[TUR] ', '[FIN] ', '[FIN] ']","['18-21', '21-13', '21-17']",XD,20170511,"Medvode, Slovenia"
+109,"['Jacob Nilsson', 'Irina Amalie Andersen', 'Miha Ivancic', 'Petra Polanc']","['[SWE] ', '[DEN] ', '[SLO] ', '[SLO] ']","['21-13', '21-17']",XD,20170511,"Medvode, Slovenia"
+110,"['Maxime Moreels [1]', 'Bernardo Atilano']","['[BEL] ', '[POR] ']","['22-20', '21-14']",MS,20170511,"Medvode, Slovenia"
+111,"['Erik Meijs [3]', 'Matteo Bellucci']","['[NED] ', '[ITA] ']","['21-10', '21-9']",MS,20170511,"Medvode, Slovenia"
+112,"['Luís Enrique Peñalver', 'Ditlev Jaeger Holm']","['[ESP] ', '[DEN] ']","['21-15', '20-22', '21-6']",MS,20170511,"Medvode, Slovenia"
+113,"['Kyrylo Leonov', 'Daniel Ojaaar']","['[UKR] ', '[SWE] ']","['21-7', '21-7']",MS,20170511,"Medvode, Slovenia"
+114,"['Simon Wang', 'Morgan Lidman']","['[GER] ', '[SWE] ']","['21-13', '21-13']",MS,20170511,"Medvode, Slovenia"
+115,"['Adi Pratama', 'Gergely Krausz [6]']","['[INA] ', '[HUN] ']","['21-9', '21-18']",MS,20170511,"Medvode, Slovenia"
+116,"['Rosario Maddaloni [4]', 'Vilson Vattanirappel']","['[ITA] ', '[AUT] ']","['21-13', '21-15']",MS,20170511,"Medvode, Slovenia"
+117,"['Cristian Savin', 'David Peng']","['[CZE] ', '[GER] ']","['11-21', '21-16', '21-15']",MS,20170511,"Medvode, Slovenia"
+118,"['Max Weisskirchen', 'Alen Roj']","['[GER] ', '[SLO] ']","['21-16', '19-21', '21-12']",MS,20170511,"Medvode, Slovenia"
+119,"['Mads Christophersen', 'Jan Louda']","['[DEN] ', '[CZE] ']","['21-10', '21-9']",MS,20170511,"Medvode, Slovenia"
+120,"['Felix Burestedt [7]', 'Henri Aarnio']","['[SWE] ', '[FIN] ']","['15-21', '21-19', '21-11']",MS,20170511,"Medvode, Slovenia"
+121,"['Romain Eudeline', 'Duarte Nuno Anjo']","['[FRA] ', '[POR] ']","['21-14', '21-15']",MS,20170511,"Medvode, Slovenia"
+122,"['Iikka Heino [8]', 'Joel König']","['[FIN] ', '[SUI] ']","['21-8', '21-12']",MS,20170511,"Medvode, Slovenia"
+123,"['Emre Lale', 'Rudolf Dellenbach']","['[TUR] ', '[ITA] ']","['21-10', '21-19']",MS,20170511,"Medvode, Slovenia"
+124,"['Jacob Nilsson', 'Adam Mendrek [5]']","['[SWE] ', '[CZE] ']","['21-13', '21-14']",MS,20170511,"Medvode, Slovenia"
+125,"['Sam Parsons [2]', 'Yusuf Ramazan Bay']","['[ENG] ', '[TUR] ']","['19-21', '21-8', '21-8']",MS,20170511,"Medvode, Slovenia"
+126,"['Airi Mikkela [1]', 'Georgina Bland']","['[FIN] ', '[ENG] ']","['21-16', '21-15']",WS,20170511,"Medvode, Slovenia"
+127,"['Elena Komendrovskaja', 'Vladyslava Lesnaya']","['[RUS] ', '[UKR] ']","['21-19', '16-21', '21-8']",WS,20170511,"Medvode, Slovenia"
+128,"['Irina Amalie Andersen [6]', 'Agnes Korosi']","['[DEN] ', '[HUN] ']","['21-16', '21-18']",WS,20170511,"Medvode, Slovenia"
+129,"['Ayla Huser', 'Lisa Iversen']","['[SUI] ', '[ITA] ']","['21-7', '21-13']",WS,20170511,"Medvode, Slovenia"
+130,"['Julie Dawall Jakobsen [4]', 'Maryna Ilyinskaya']","['[DEN] ', '[UKR] ']","['21-14', '21-15']",WS,20170511,"Medvode, Slovenia"
+131,"['Kristin Kuuba', 'Zuzana Pavelkova']","['[EST] ', '[CZE] ']","['21-18', '14-21', '21-18']",WS,20170511,"Medvode, Slovenia"
+132,"['Lianne Tan [5]', 'Ronja Stern']","['[BEL] ', '[SUI] ']","['21-10', '21-14']",WS,20170511,"Medvode, Slovenia"
+133,"['Alesia Zaitsava', 'Busra Yalçinkaya']","['[BLR] ', '[TUR] ']","['21-5', '21-11']",WS,20170511,"Medvode, Slovenia"
+134,"['Ksenia Evgenova', 'Getter Saar']","['[RUS] ', '[EST] ']","['8-21', '21-14', '22-20']",WS,20170511,"Medvode, Slovenia"
+135,"['Clara Azurmendi [7]', 'Katerina Tomalova']","['[ESP] ', '[CZE] ']","['21-12', '21-16']",WS,20170511,"Medvode, Slovenia"
+136,"['Qi Xuefei', 'Neslihan Yigit']","['[CHN] ', '[TUR] ']","['19-21', '21-8', '21-14']",WS,20170511,"Medvode, Slovenia"
+137,"['Orsolya Varga', 'Tereza Švábíková']","['[HUN] ', '[CZE] ']","['8-21', '21-13', '22-20']",WS,20170511,"Medvode, Slovenia"
+138,"['Anna Mikhalkova', 'Cendrine Hantz']","['[UKR] ', '[SUI] ']","['21-19', '21-13']",WS,20170511,"Medvode, Slovenia"
+139,"['Natalya Voytsekh [8]', 'Jordan Hart']","['[UKR] ', '[WAL] ']","['21-14', '12-21', '21-11']",WS,20170511,"Medvode, Slovenia"
+140,"['Aliye Demirbag', 'Lin Sih Yun']","['[TUR] ', '[TPE] ']","['21-13', '29-27']",WS,20170511,"Medvode, Slovenia"
+141,"['Sofie Holmboe Dahl [2]', 'Emma Karlsson']","['[DEN] ', '[SWE] ']","['21-11', '21-14']",WS,20170511,"Medvode, Slovenia"
+142,"['Okan Gultekin', 'Murat Sen', 'Daniel Hess', 'Patrick Scheiel']","['[TUR] ', '[TUR] ', '[GER] ', '[GER] ']","['12-21', '21-18', '21-19']",MD,20170511,"Medvode, Slovenia"
+143,"['Igor Cimbur', 'Blagovest Kisyov', 'Dominik Doko', 'Filip Jagar']","['[CRO] ', '[BUL] ', '[CRO] ', '[CRO] ']","['19-21', '21-19', '21-16']",MD,20170511,"Medvode, Slovenia"
+144,"['Kristoffer Knudsen', 'Mikkel Mikkelsen', 'Sergey Don', 'Vladyslav Volnyanskiy']","['[DEN] ', '[DEN] ', '[UKR] ', '[UKR] ']","['21-11', '21-10']",MD,20170511,"Medvode, Slovenia"
+145,"['Daniel Benz', 'Andreas Heinz', 'Matthew Clare', 'David King']","['[GER] ', '[GER] ', '[ENG] ', '[ENG] ']","['21-9', '18-21', '21-12']",MD,20170511,"Medvode, Slovenia"
+146,"['Jeppe Bay', 'Rasmus Kjær', 'Haktan Doğan', 'Osman Uyhan']","['[DEN] ', '[DEN] ', '[TUR] ', '[TUR] ']","['22-20', '21-14']",MD,20170511,"Medvode, Slovenia"
+147,"['Yusuf Ramazan Bay', 'Sİnan Zorlu', 'Miha Ivanic', 'Andraz Krapez']","['[TUR] ', '[TUR] ', '[SLO] ', '[SLO] ']","['21-15', '21-11']",MD,20170511,"Medvode, Slovenia"
+148,"['Bjarne Geiss', 'Johannes Pistorius', 'Daniel Lundgaard', 'Karl Thor Søndergaard']","['[GER] ', '[GER] ', '[DEN] ', '[DEN] ']","['21-19', '15-21', '21-14']",MD,20170511,"Medvode, Slovenia"
+149,"['Vladyslav Buldenko', 'Ivan Druzchenko', 'Enis Sesalan', 'Ramazan Tekdemİr']","['[UKR] ', '[UKR] ', '[TUR] ', '[TUR] ']","['21-17', '14-21', '21-16']",MD,20170511,"Medvode, Slovenia"
+150,"['Ksenia Evgenova', 'Maria Shegurova', 'Vladyslava Lesnaya', 'Darya Samarchants']","['[RUS] ', '[RUS] ', '[UKR] ', '[UKR] ']","['21-13', '21-13']",WD,20170511,"Medvode, Slovenia"
+151,"['Bengisu Ercetin', 'Nazlıcan Inci', 'Sabina Magyar', 'Kaja Stankovic']","['[TUR] ', '[TUR] ', '[SLO] ', '[SLO] ']","['21-7', '21-12']",WD,20170511,"Medvode, Slovenia"
+152,"['Ronja Stern', 'Chantal Von Rotz', 'Nika Arih', 'Petra Polanc']","['[SUI] ', '[SUI] ', '[SLO] ', '[SLO] ']","['21-14', '27-29', '21-16']",WD,20170511,"Medvode, Slovenia"
+153,"['Christine Busch', 'Amalie Schulz Terp-Nielsen', 'Lin Sih Yun', 'Yang Yu-Chi']","['[DEN] ', '[DEN] ', '[TPE] ', '[TPE] ']","['21-14', '22-20']",WD,20170511,"Medvode, Slovenia"
+154,"['Julie Dawall Jakobsen', 'Josephine Van Zaane', 'Buse Ceylan', 'Emine Demirtas']","['[DEN] ', '[DEN] ', '[TUR] ', '[TUR] ']","['21-10', '21-14']",WD,20170511,"Medvode, Slovenia"
+155,"['Iza Salehar', 'Lia Salehar', 'Zehra Erdem', 'Ilayda Nur Ozelgul']","['[SLO] ', '[SLO] ', '[TUR] ', '[TUR] ']","['18-21', '22-20', '21-16']",WD,20170511,"Medvode, Slovenia"
+156,"['Olga Arkhangelskaya', 'Natalia Rogova', 'Isabella Nielsen', 'Claudia Paredes']","['[RUS] ', '[RUS] ', '[DEN] ', '[DEN] ']","['22-20', '21-16']",WD,20170511,"Medvode, Slovenia"
+157,"['Emma Karlsson', 'Johanna Magnusson', 'Lise Jaques', 'Flore Vandenhoucke']","['[SWE] ', '[SWE] ', '[BEL] ', '[BEL] ']","['21-13', '21-17']",WD,20170511,"Medvode, Slovenia"
+158,"['Mikkel Mikkelsen [1]', 'Mai Surrow', 'Matthew Clare', 'Victoria Williams']","['[DEN] ', '[DEN] ', '[ENG] ', '[ENG] ']","['21-11', '21-10']",XD,20170511,"Medvode, Slovenia"
+159,"['Andraz Krapez', 'Nika Arih', 'Daniel Lundgaard', 'Christine Busch']","['[SLO] ', '[SLO] ', '[DEN] ', '[DEN] ']","['21-17', '21-18']",XD,20170511,"Medvode, Slovenia"
+160,"['Bjarne Geiss', 'Emma Moszczynski', 'Emre Sonmez', 'Ilayda Nur Ozelgul']","['[GER] ', '[GER] ', '[TUR] ', '[TUR] ']","['10-21', '21-16', '21-13']",XD,20170511,"Medvode, Slovenia"
+161,"['Kristoffer Knudsen', 'Isabella Nielsen', 'Jakub Bitman [3]', 'Alzbeta Basova']","['[DEN] ', '[DEN] ', '[CZE] ', '[CZE] ']","['21-17', '21-18']",XD,20170511,"Medvode, Slovenia"
+162,"['Shiau Cheng Chen', 'Chiang Yi-Hsuan', 'Serdar Koca', 'Emine Demirtas']","['[TPE] ', '[TPE] ', '[TUR] ', '[TUR] ']","['21-12', '21-11']",XD,20170511,"Medvode, Slovenia"
+163,"['Gregory Mairs [2]', 'Jenny Moore', 'Jacob Nilsson', 'Irina Amalie Andersen']","['[ENG] ', '[ENG] ', '[SWE] ', '[DEN] ']","['21-15', '21-14']",XD,20170511,"Medvode, Slovenia"
+164,"['Freek Golinski', 'Lise Jaques', 'Dmitrii Riabov [4]', 'Maria Shegurova']","['[BEL] ', '[BEL] ', '[RUS] ', '[RUS] ']","['21-18', '21-19']",XD,20170511,"Medvode, Slovenia"
+165,"['Matijs Dierickx', 'Flore Vandenhoucke', 'Lukas Osele', 'Lisa Iversen']","['[BEL] ', '[BEL] ', '[ITA] ', '[ITA] ']","['21-13', '21-16']",XD,20170511,"Medvode, Slovenia"
+166,"['Erik Meijs [3]', 'Luís Enrique Peñalver']","['[NED] ', '[ESP] ']","['21-10', '22-20']",MS,20170511,"Medvode, Slovenia"
+167,"['Max Weisskirchen', 'Rosario Maddaloni [4]']","['[GER] ', '[ITA] ']","['21-12', '21-17']",MS,20170511,"Medvode, Slovenia"
+168,"['Mads Christophersen', 'Felix Burestedt [7]']","['[DEN] ', '[SWE] ']","['22-20', '22-20']",MS,20170511,"Medvode, Slovenia"
+169,"['Sam Parsons [2]', 'Romain Eudeline']","['[ENG] ', '[FRA] ']","['21-16', '21-14']",MS,20170511,"Medvode, Slovenia"
+170,"['Airi Mikkela [1]', 'Elena Komendrovskaja']","['[FIN] ', '[RUS] ']","['21-12', '18-21', '21-19']",WS,20170511,"Medvode, Slovenia"
+171,"['Jacob Nilsson', 'Kyrylo Leonov']","['[SWE] ', '[UKR] ']","['21-6', '21-16']",MS,20170511,"Medvode, Slovenia"
+172,"['Julie Dawall Jakobsen [4]', 'Kristin Kuuba']","['[DEN] ', '[EST] ']","['21-11', '21-5']",WS,20170511,"Medvode, Slovenia"
+173,"['Lianne Tan [5]', 'Alesia Zaitsava']","['[BEL] ', '[BLR] ']","['21-15', '21-16']",WS,20170511,"Medvode, Slovenia"
+174,"['Maxime Moreels [1]', 'Cristian Savin']","['[BEL] ', '[CZE] ']","['21-16', '18-21', '21-6']",MS,20170511,"Medvode, Slovenia"
+175,"['Iikka Heino [8]', 'Emre Lale']","['[FIN] ', '[TUR] ']","['21-8', '5-1']",MS,20170511,"Medvode, Slovenia"
+176,"['Adi Pratama', 'Simon Wang']","['[INA] ', '[GER] ']","['21-5', '19-21', '21-12']",MS,20170511,"Medvode, Slovenia"
+177,"['Irina Amalie Andersen [6]', 'Ayla Huser']","['[DEN] ', '[SUI] ']","['21-19', '21-15']",WS,20170511,"Medvode, Slovenia"
+178,"['Clara Azurmendi [7]', 'Ksenia Evgenova']","['[ESP] ', '[RUS] ']","['21-11', '21-11']",WS,20170511,"Medvode, Slovenia"
+179,"['Qi Xuefei', 'Orsolya Varga']","['[CHN] ', '[HUN] ']","['21-11', '21-17']",WS,20170511,"Medvode, Slovenia"
+180,"['Natalya Voytsekh [8]', 'Anna Mikhalkova']","['[UKR] ', '[UKR] ']","['21-15', '21-19']",WS,20170511,"Medvode, Slovenia"
+181,"['Sofie Holmboe Dahl [2]', 'Aliye Demirbag']","['[DEN] ', '[TUR] ']","['13-21', '21-13', '21-10']",WS,20170511,"Medvode, Slovenia"
+182,"['Matijs Dierickx [1]', 'Freek Golinski', 'Okan Gultekin', 'Murat Sen']","['[BEL] ', '[BEL] ', '[TUR] ', '[TUR] ']","['21-17', '21-3']",MD,20170511,"Medvode, Slovenia"
+183,"['Daniel Benz', 'Andreas Heinz', 'Serdar Koca', 'Serhat Salim']","['[GER] ', '[GER] ', '[TUR] ', '[TUR] ']","['21-15', '21-18']",MD,20170511,"Medvode, Slovenia"
+184,"['Kristoffer Knudsen', 'Mikkel Mikkelsen', 'Lukas Osele [3]', 'Kevin Strobl']","['[DEN] ', '[DEN] ', '[ITA] ', '[ITA] ']","['21-14', '21-19']",MD,20170511,"Medvode, Slovenia"
+185,"['Henri Aarnio [2]', 'Iikka Heino', 'Vladyslav Buldenko', 'Ivan Druzchenko']","['[FIN] ', '[FIN] ', '[UKR] ', '[UKR] ']","['21-12', '21-12']",MD,20170511,"Medvode, Slovenia"
+186,"['Igor Cimbur', 'Blagovest Kisyov', 'Aljosa Turk', 'Urban Turk']","['[CRO] ', '[BUL] ', '[SLO] ', '[SLO] ']","['21-19', '22-20']",MD,20170511,"Medvode, Slovenia"
+187,"['Jeppe Bay', 'Rasmus Kjær', 'Petr Beran', 'Ondřej Král']","['[DEN] ', '[DEN] ', '[CZE] ', '[CZE] ']","['21-13', '20-22', '21-18']",MD,20170511,"Medvode, Slovenia"
+188,"['Yusuf Ramazan Bay', 'Sİnan Zorlu', 'Giovanni Greco [4]', 'Rosario Maddaloni']","['[TUR] ', '[TUR] ', '[ITA] ', '[ITA] ']","['21-9', '21-15']",MD,20170511,"Medvode, Slovenia"
+189,"['Bjarne Geiss', 'Johannes Pistorius', 'Ali Bugra Akdogan', 'Baran Yuksel']","['[GER] ', '[GER] ', '[TUR] ', '[TUR] ']","['21-17', '21-15']",MD,20170511,"Medvode, Slovenia"
+190,"['Ksenia Evgenova', 'Maria Shegurova', 'Tereza Švábíková [4]', 'Katerina Tomalova']","['[RUS] ', '[RUS] ', '[CZE] ', '[CZE] ']","['23-21', '21-11']",WD,20170511,"Medvode, Slovenia"
+191,"['Jenny Moore [1]', 'Victoria Williams', 'Ronja Stern', 'Chantal Von Rotz']","['[ENG] ', '[ENG] ', '[SUI] ', '[SUI] ']","['21-13', '21-17']",WD,20170511,"Medvode, Slovenia"
+192,"['Ozge Bayrak', 'Cemre Fere', 'Christine Busch', 'Amalie Schulz Terp-Nielsen']","['[TUR] ', '[TUR] ', '[DEN] ', '[DEN] ']","['21-16', '21-9']",WD,20170511,"Medvode, Slovenia"
+193,"['Julie Dawall Jakobsen', 'Josephine Van Zaane', 'Anastasiya Cherniavskaya', 'Alesia Zaitsava']","['[DEN] ', '[DEN] ', '[BLR] ', '[BLR] ']","['21-11', '21-14']",WD,20170511,"Medvode, Slovenia"
+194,"['Iza Salehar', 'Lia Salehar', 'Busra Unlu', 'Ebru Yazgan']","['[SLO] ', '[SLO] ', '[TUR] ', '[TUR] ']","['21-10', '21-18']",WD,20170511,"Medvode, Slovenia"
+195,"['Bengisu Ercetin', 'Nazlıcan Inci', 'Natalya Voytsekh [3]', 'Yelyzaveta Zharka']","['[TUR] ', '[TUR] ', '[UKR] ', '[UKR] ']","['21-10', '10-21', '21-15']",WD,20170511,"Medvode, Slovenia"
+196,"['Olga Arkhangelskaya', 'Natalia Rogova', 'Chiang Yi-Hsuan', 'Hung En-Tzu']","['[RUS] ', '[RUS] ', '[TPE] ', '[TPE] ']","['21-19', '21-16']",WD,20170511,"Medvode, Slovenia"
+197,"['Kristin Kuuba [2]', 'Helina Rüütel', 'Emma Karlsson', 'Johanna Magnusson']","['[EST] ', '[EST] ', '[SWE] ', '[SWE] ']","['21-18', '22-20']",WD,20170511,"Medvode, Slovenia"
+198,"['Mikkel Mikkelsen [1]', 'Mai Surrow', 'Andraz Krapez', 'Nika Arih']","['[DEN] ', '[DEN] ', '[SLO] ', '[SLO] ']","['21-10', '21-11']",XD ,20170511,"Medvode, Slovenia"
+199,"['Iikka Heino [8]', 'Maxime Moreels [1]']","['[FIN] ', '[BEL] ']","['21-10', '21-8']",MS ,20170511,"Medvode, Slovenia"
+200,"['Irina Amalie Andersen [6]', 'Airi Mikkela [1]']","['[DEN] ', '[FIN] ']","['17-21', '21-15', '21-19']",WS ,20170511,"Medvode, Slovenia"
+201,"['Jeppe Bay', 'Rasmus Kjær', 'Yusuf Ramazan Bay', 'Sİnan Zorlu']","['[DEN] ', '[DEN] ', '[TUR] ', '[TUR] ']","['21-13', '21-19']",MD ,20170511,"Medvode, Slovenia"
+202,"['Ksenia Evgenova', 'Maria Shegurova', 'Julie Dawall Jakobsen', 'Josephine Van Zaane']","['[RUS] ', '[RUS] ', '[DEN] ', '[DEN] ']","['21-14', '21-18']",WD ,20170511,"Medvode, Slovenia"
+203,"['Mikkel Mikkelsen [1]', 'Mai Surrow', 'Freek Golinski', 'Lise Jaques']","['[DEN] ', '[DEN] ', '[BEL] ', '[BEL] ']","['14-21', '21-12', '21-13']",XD ,20170511,"Medvode, Slovenia"
+204,"['Erik Meijs [3]', 'Iikka Heino [8]']","['[NED] ', '[FIN] ']","['23-21', '21-19']",MS ,20170511,"Medvode, Slovenia"
+205,"['Qi Xuefei', 'Sofie Holmboe Dahl [2]']","['[CHN] ', '[DEN] ']","['24-22', '21-17']",WS ,20170511,"Medvode, Slovenia"
+206,"['Olga Arkhangelskaya', 'Natalia Rogova', 'Bengisu Ercetin', 'Nazlıcan Inci']","['[RUS] ', '[RUS] ', '[TUR] ', '[TUR] ']","['21-18', '21-10']",WD ,20170511,"Medvode, Slovenia"
+207,"['Matijs Dierickx [1]', 'Freek Golinski', 'Daniel Benz', 'Andreas Heinz']","['[BEL] ', '[BEL] ', '[GER] ', '[GER] ']","['22-20', '14-21', '21-11']",MD ,20170511,"Medvode, Slovenia"
+208,"['Freek Golinski', 'Lise Jaques', 'Bjarne Geiss', 'Emma Moszczynski']","['[BEL] ', '[BEL] ', '[GER] ', '[GER] ']","['22-20', '21-18']",XD ,20170511,"Medvode, Slovenia"
+209,"['Julie Dawall Jakobsen [4]', 'Lianne Tan [5]']","['[DEN] ', '[BEL] ']","['18-21', '21-11', '21-16']",WS ,20170511,"Medvode, Slovenia"
+210,"['Adi Pratama', 'Max Weisskirchen']","['[INA] ', '[GER] ']","['15-21', '22-20', '21-15']",MS ,20170511,"Medvode, Slovenia"
+211,"['Jenny Moore [1]', 'Victoria Williams', 'Ozge Bayrak', 'Cemre Fere']","['[ENG] ', '[ENG] ', '[TUR] ', '[TUR] ']","['19-21', '21-16', '21-16']",WD ,20170511,"Medvode, Slovenia"
+212,"['Bjarne Geiss', 'Johannes Pistorius', 'Henri Aarnio [2]', 'Iikka Heino']","['[GER] ', '[GER] ', '[FIN] ', '[FIN] ']","['21-13', '21-15']",MD ,20170511,"Medvode, Slovenia"
+213,"['Gregory Mairs [2]', 'Jenny Moore', 'Kristoffer Knudsen', 'Isabella Nielsen']","['[ENG] ', '[ENG] ', '[DEN] ', '[DEN] ']","['21-19', '21-13']",XD ,20170511,"Medvode, Slovenia"
+214,"['Julie Dawall Jakobsen [4]', 'Irina Amalie Andersen [6]']","['[DEN] ', '[DEN] ']","['21-13', '21-9']",WS ,20170511,"Medvode, Slovenia"
+215,"['Adi Pratama', 'Sam Parsons [2]']","['[INA] ', '[ENG] ']","['21-11', '21-19']",MS ,20170511,"Medvode, Slovenia"
+216,"['Jeppe Bay', 'Rasmus Kjær', 'Bjarne Geiss', 'Johannes Pistorius']","['[DEN] ', '[DEN] ', '[GER] ', '[GER] ']","['21-18', '21-16']",MD ,20170511,"Medvode, Slovenia"
+217,"['Jenny Moore [1]', 'Victoria Williams', 'Ksenia Evgenova', 'Maria Shegurova']","['[ENG] ', '[ENG] ', '[RUS] ', '[RUS] ']","['21-9', '21-8']",WD ,20170511,"Medvode, Slovenia"
+218,"['Kristoffer Knudsen', 'Isabella Nielsen', 'Matijs Dierickx', 'Flore Vandenhoucke']","['[DEN] ', '[DEN] ', '[BEL] ', '[BEL] ']","['21-18', '21-16']",XD ,20170511,"Medvode, Slovenia"
+219,"['Erik Meijs [3]', 'Jacob Nilsson']","['[NED] ', '[SWE] ']","['21-19', '21-9']",MS ,20170511,"Medvode, Slovenia"
+220,"['Qi Xuefei', 'Clara Azurmendi [7]']","['[CHN] ', '[ESP] ']","['21-12', '21-14']",WS ,20170511,"Medvode, Slovenia"
+221,"['Daniel Benz', 'Andreas Heinz', 'Kristoffer Knudsen', 'Mikkel Mikkelsen']","['[GER] ', '[GER] ', '[DEN] ', '[DEN] ']","['21-17', '17-21', '21-17']",MD ,20170511,"Medvode, Slovenia"
+222,"['Matijs Dierickx [1]', 'Freek Golinski', 'Igor Cimbur', 'Blagovest Kisyov']","['[BEL] ', '[BEL] ', '[CRO] ', '[BUL] ']",[],MD ,20170511,"Medvode, Slovenia"
+223,"['Gregory Mairs [2]', 'Jenny Moore', 'Shiau Cheng Chen', 'Chiang Yi-Hsuan']","['[ENG] ', '[ENG] ', '[TPE] ', '[TPE] ']","['21-9', '21-9']",XD ,20170511,"Medvode, Slovenia"
+224,"['Sofie Holmboe Dahl [2]', 'Natalya Voytsekh [8]']","['[DEN] ', '[UKR] ']","['21-16', '21-16']",WS ,20170511,"Medvode, Slovenia"
+225,"['Sam Parsons [2]', 'Mads Christophersen']","['[ENG] ', '[DEN] ']","['21-12', '17-21', '21-16']",MS ,20170511,"Medvode, Slovenia"
+226,"['Olga Arkhangelskaya', 'Natalia Rogova', 'Kristin Kuuba [2]', 'Helina Rüütel']","['[RUS] ', '[RUS] ', '[EST] ', '[EST] ']","['19-21', '21-12', '21-18']",WD ,20170511,"Medvode, Slovenia"
+227,"['Bengisu Ercetin', 'Nazlıcan Inci', 'Iza Salehar', 'Lia Salehar']","['[TUR] ', '[TUR] ', '[SLO] ', '[SLO] ']","['21-10', '21-8']",WD ,20170511,"Medvode, Slovenia"
+228,"['Mikkel Mikkelsen [1]', 'Mai Surrow', 'Gregory Mairs [2]', 'Jenny Moore']","['[DEN] ', '[DEN] ', '[ENG] ', '[ENG] ']","['21-12', '21-13']",XD ,20170511,"Medvode, Slovenia"
+229,"['Erik Meijs [3]', 'Adi Pratama']","['[NED] ', '[INA] ']","['21-14', '14-21', '21-17']",MS after XD prize-giving ceremony,20170511,"Medvode, Slovenia"
+230,"['Olga Arkhangelskaya', 'Natalia Rogova', 'Jenny Moore [1]', 'Victoria Williams']","['[RUS] ', '[RUS] ', '[ENG] ', '[ENG] ']","['22-20', '21-17']",WD after prize-giving ceremony,20170511,"Medvode, Slovenia"
+231,"['Julie Dawall Jakobsen [4]', 'Qi Xuefei']","['[DEN] ', '[CHN] ']","['21-19', '21-14']",WS after XD prize-giving ceremony,20170511,"Medvode, Slovenia"
+232,"['Matijs Dierickx [1]', 'Freek Golinski', 'Jeppe Bay', 'Rasmus Kjær']","['[BEL] ', '[BEL] ', '[DEN] ', '[DEN] ']","['21-13', '21-16']",MD after prize-giving ceremony,20170511,"Medvode, Slovenia"

@@ -1,216 +1,216 @@
-,PLAYERS,COUNTRIES,SCORES,EVENT,match_week
-0,"['Chia Hung Lu', 'Lin Jhih Yun', 'Ferdinand Sinarta Surbakti', 'Cynthia Shara Ayunidha']","['[TPE] ', '[TPE] ', '[INA] ', '[INA] ']","['21-16', '21-13']",XD - Qualification,20170627
-1,"['Jae Hwan Kim', 'Kim So Yeong', 'Hung Ying Yuan', 'Pei Shan Hsieh']","['[KOR] ', '[KOR] ', '[TPE] ', '[TPE] ']","['21-16', '21-12']",XD - Qualification,20170627
-2,"['Chan Tsz Kit', 'Chow King Ling', 'Lu Chia Pin', 'Li Ting Peng']","['[HKG] ', '[HKG] ', '[TPE] ', '[TPE] ']","['18-21', '21-14', '21-15']",XD - Qualification,20170627
-3,"['Liao Kuan Hao', 'Chien Hui Yu', 'Chang Tak Ching', 'Tsang Wing Chiu Avery']","['[TPE] ', '[TPE] ', '[HKG] ', '[HKG] ']","['21-18', '21-18']",XD - Qualification,20170627
-4,"['Yu Leong, Alfred Lau', 'Chun Cheng Chen']","['[MAS] ', '[TPE] ']","['21-18', '21-6']",MS - Qualification,20170627
-5,"['Huang Da Wei', 'Ankur Sangpang Rai']","['[TPE] ', '[IND] ']","['21-18', '21-12']",MS - Qualification,20170627
-6,"['Ying Chun Lin', 'Ting Yu Liang [4]']","['[TPE] ', '[TPE] ']","['21-19', '15-21', '21-19']",WS - Qualification,20170627
-7,"['Hyang Im Kim [2]', 'Chang Ya Lan']","['[KOR] ', '[TPE] ']","['21-18', '21-11']",WS - Qualification,20170627
-8,"['I-Ting Lai', 'Hung En-Tzu']","['[TPE] ', '[TPE] ']","['21-9', '21-15']",WS - Qualification,20170627
-9,"['Chen Hsiao Huan', 'Joo I Jeon']","['[TPE] ', '[KOR] ']","['8-21', '21-17', '21-18']",WS - Qualification,20170627
-10,"['Lin Jhih Yun', 'Sekartaji Putri']","['[TPE] ', '[INA] ']","['21-18', '21-13']",WS - Qualification,20170627
-11,"['Lin Hsiang Ti', 'Tsang Wing Chiu Avery']","['[TPE] ', '[HKG] ']","['21-11', '19-21', '21-7']",WS - Qualification,20170627
-12,"['Natsumi Shimoda', 'Li Ting Peng [3]']","['[JPN] ', '[TPE] ']","['21-16', '21-6']",WS - Qualification,20170627
-13,"['Wen Chi Hsu', 'Chow King Ling']","['[TPE] ', '[HKG] ']","['21-17', '21-7']",WS - Qualification,20170627
-14,"['Kim Won Ho', 'Seung Jae Seo', 'Lam Wai Lok [2]', 'Hee Chun Mak']","['[KOR] ', '[KOR] ', '[HKG] ', '[HKG] ']","['21-14', '21-15']",MD - Qualification,20170627
-15,"['Chang Kai Liang', 'Cheng Po Wei', 'Maftuki Muhammad', 'Habibi Zulfauzi']","['[TPE] ', '[TPE] ', '[INA] ', '[INA] ']","['21-16', '21-8']",MD - Qualification,20170627
-16,"['Willian Astan', 'Ferdinand Sinarta Surbakti', 'Wei Chen', 'Chen-Ping Wei']","['[INA] ', '[INA] ', '[TPE] ', '[TPE] ']","['18-21', '21-18', '21-14']",MD - Qualification,20170627
-17,"['Jong Woo Choi', 'Hui Tae Kim', 'Hilkiya Bl', 'Hiski Rumengan']","['[KOR] ', '[KOR] ', '[INA] ', '[INA] ']","['21-10', '21-8']",MD - Qualification,20170627
-18,"['Hyuk Gyun Choi', 'Park Kyung Hoon', 'Yu Leong, Alfred Lau', 'Yu Ming, Adam Lau']","['[KOR] ', '[KOR] ', '[MAS] ', '[MAS] ']","['21-17', '21-13']",MD - Qualification,20170627
-19,"['Kevin Ezra', 'Hendra Gustiawan', 'Kai Ho Tang', 'Hin Shun Wong']","['[INA] ', '[INA] ', '[ENG] ', '[ENG] ']","['21-17', '21-10']",MD - Qualification,20170627
-20,"['Min Hyuk Kang', 'Ha Na Baek', 'Chan Tsz Kit', 'Chow King Ling']","['[KOR] ', '[KOR] ', '[HKG] ', '[HKG] ']","['21-15', '21-12']",XD - Qualification,20170627
-21,"['Liao Kuan Hao', 'Chien Hui Yu', 'Yu Jen Chi [2]', 'Chih Chen Lee']","['[TPE] ', '[TPE] ', '[TPE] ', '[TPE] ']","['21-16', '24-22']",XD - Qualification,20170627
-22,"['Chia-Han Lee [1]', 'Pai Yu Po', 'Chia Hung Lu', 'Lin Jhih Yun']","['[TPE] ', '[TPE] ', '[TPE] ', '[TPE] ']","['21-8', '22-20']",XD - Qualification,20170627
-23,"['Jae Hwan Kim', 'Kim So Yeong', 'Hiski Rumengan', 'Athiatun Rahimah']","['[KOR] ', '[KOR] ', '[INA] ', '[INA] ']","['21-8', '21-11']",XD - Qualification,20170627
-24,"['Kim Won Ho', 'Seung Jae Seo', 'Chang Kai Liang', 'Cheng Po Wei']","['[KOR] ', '[KOR] ', '[TPE] ', '[TPE] ']","['21-18', '21-11']",MD - Qualification,20170627
-25,"['Andrei Adistia [1]', 'Jien Sern Ian Wong', 'Kevin Ezra', 'Hendra Gustiawan']","['[INA] ', '[MAS] ', '[INA] ', '[INA] ']","['21-12', '21-19']",MD - Qualification,20170627
-26,"['Hyuk Gyun Choi', 'Park Kyung Hoon', 'Nathaniel Ernestan Sulistyo', 'Jaspar Woon Chai Yu']","['[KOR] ', '[KOR] ', '[INA] ', '[BRU] ']","['21-14', '21-9']",MD - Qualification,20170627
-27,"['Chen Hsiao Huan', 'Ying Chun Lin']","['[TPE] ', '[TPE] ']","['21-10', '21-10']",WS - Qualification,20170627
-28,"['Natsumi Shimoda', 'Lin Hsiang Ti']","['[JPN] ', '[TPE] ']","['26-28', '21-18', '21-18']",WS - Qualification,20170627
-29,"['Wen Chi Hsu', 'Hyang Im Kim [2]']","['[TPE] ', '[KOR] ']",[],WS - Qualification,20170627
-30,"['I-Ting Lai', 'Lin Jhih Yun']","['[TPE] ', '[TPE] ']","['17-21', '21-14', '21-17']",WS - Qualification,20170627
-31,"['Jong Woo Choi', 'Hui Tae Kim', 'Willian Astan', 'Ferdinand Sinarta Surbakti']","['[KOR] ', '[KOR] ', '[INA] ', '[INA] ']","['21-11', '21-12']",MD - Qualification,20170627
-32,"['Chou Tien Chen [1]', 'Jimmy, Yu Lun Tay']","['[TPE] ', '[MAS] ']","['21-14', '21-8']",MS,20170627
-33,"['Vladimir Malkov [12]', 'Henrikho Kho Wibowo']","['[RUS] ', '[INA] ']","['21-14', '21-10']",MS,20170627
-34,"['Chu Han Chou', 'Kim Min Ki']","['[TPE] ', '[KOR] ']","['19-21', '21-17', '21-8']",MS,20170627
-35,"['Iskandar Zulkarnain [5]', 'Teng Shih Hua']","['[MAS] ', '[TPE] ']","['18-21', '21-17', '21-19']",MS,20170627
-36,"['Giap Chin Goh', 'Lin Chun-Yi']","['[MAS] ', '[TPE] ']","['21-15', '21-16']",MS,20170627
-37,"['Lee Zii Jia', 'Sourabh Verma [4]']","['[MAS] ', '[IND] ']","['21-19', '22-20']",MS,20170627
-38,"['En Chia Chang', 'Rahul Yadav Chittaboina']","['[TPE] ', '[IND] ']",[],MS,20170627
-39,"['Siril Verma [16]', 'Wei Chi Liu']","['[IND] ', '[TPE] ']","['21-11', '10-21', '21-19']",MS,20170627
-40,"['Chia Hao Lee', 'Lim Chi Wing']","['[TPE] ', '[MAS] ']","['21-17', '21-14']",MS,20170627
-41,"['Ng Zin Rei Ryan', 'Cheng Po Wei']","['[SGP] ', '[TPE] ']","['21-8', '16-21', '21-12']",MS,20170627
-42,"['Khosit Phetpradab [8]', 'Dong Hoon Kim']","['[THA] ', '[KOR] ']","['17-21', '21-18', '21-15']",MS,20170627
-43,"['Jacob Maliekal', 'Shiau Cheng Chen']","['[RSA] ', '[TPE] ']","['21-18', '21-14']",MS,20170627
-44,"['Seung Hoon Woo', 'Wang Yuehang']","['[KOR] ', '[ENG] ']","['21-10', '21-16']",MS,20170627
-45,"['Ha Young Woong', 'Kan Chao Yu']","['[KOR] ', '[TPE] ']","['24-22', '21-23', '21-13']",MS,20170627
-46,"['Chun-Wei Chen', 'Jaspar Woon Chai Yu']","['[TPE] ', '[BRU] ']","['21-7', '21-8']",MS,20170627
-47,"['Abhishek Yelegar [15]', 'Yu Ming, Adam Lau']","['[IND] ', '[MAS] ']","['20-22', '21-14', '21-10']",MS,20170627
-48,"['Harsheel Dani [14]', 'Lee Chak Wai']","['[IND] ', '[HKG] ']","['21-12', '21-14']",MS,20170627
-49,"['Jeon Hyeok Jin [6]', 'Yang Chih Hsun']","['[KOR] ', '[TPE] ']","['21-17', '21-14']",MS,20170627
-50,"['Chia Hung Lu', 'Chun Chung Hung']","['[TPE] ', '[TPE] ']","['21-10', '21-12']",MS,20170627
-51,"['Chan Yin Chak', 'Chen Chi Ting']","['[HKG] ', '[TPE] ']","['21-16', '20-22', '21-13']",MS,20170627
-52,"['Daren Liew [11]', 'Lin Chia Hsuan']","['[MAS] ', '[TPE] ']","['21-17', '9-21', '21-12']",MS,20170627
-53,"['Shih Kuei Chun', 'Kartikey Gulshan Kumar']","['[TPE] ', '[IND] ']","['21-19', '21-19']",MS,20170627
-54,"['Hsu Jen Hao [3]', 'Timothy Chiu']","['[TPE] ', '[CAN] ']","['21-10', '21-13']",MS,20170627
-55,"['Yu Jen Chi', 'Kean Yew Loh']","['[TPE] ', '[SGP] ']","['15-21', '21-18', '21-17']",MS,20170627
-56,"['Suppanyu Avihingsanon [13]', 'Siddharath Thakur']","['[THA] ', '[IND] ']","['21-16', '21-16']",MS,20170627
-57,"['Huang Da Wei', 'Hin Shun Wong']","['[TPE] ', '[ENG] ']","['21-17', '21-9']",MS,20170627
-58,"['Wei Feng Chong [7]', 'Nathaniel Ernestan Sulistyo']","['[MAS] ', '[INA] ']","['21-8', '18-5']",MS,20170627
-59,"['Adulrach Namkul', 'Kai Ho Tang']","['[THA] ', '[ENG] ']","['21-11', '21-11']",MS,20170627
-60,"['Hsueh Hsuan Yi [10]', 'Hemanth M.Gowda']","['[TPE] ', '[IND] ']","['21-13', '21-10']",MS,20170627
-61,"['Yu Leong, Alfred Lau', 'Harshit Aggarwal']","['[MAS] ', '[IND] ']","['21-17', '16-21', '21-19']",MS,20170627
-62,"['Tzu Wei Wang [2]', 'Kantaphon Wangcharoen']","['[TPE] ', '[THA] ']","['21-16', '21-16']",MS,20170627
-63,"['Choi Solgyu [1]', 'Chae Yoo Jung', 'Ho Wai Lun', 'Yuen Sin Ying']","['[KOR] ', '[KOR] ', '[HKG] ', '[HKG] ']","['21-11', '21-14']",XD,20170627
-64,"['Lu Ching Yao', 'Chiang Kai Hsin', 'Park Kyung Hoon', 'Hee Yong Kong']","['[TPE] ', '[TPE] ', '[KOR] ', '[KOR] ']","['21-12', '21-14']",XD,20170627
-65,"['Lin Chia Yu [8]', 'Wu Ti Jung', 'Hyuk Gyun Choi', 'Yoo Hae Won']","['[TPE] ', '[TPE] ', '[KOR] ', '[KOR] ']","['21-18', '5-21', '21-14']",XD,20170627
-66,"['Lee Jhe-Huei [1]', 'Lee Yang', 'Tinn Isriyanet', 'Kittisak Namdash']","['[TPE] ', '[TPE] ', '[THA] ', '[THA] ']","['21-17', '21-12']",MD,20170627
-67,"['Min Ji Lee', 'I-Ting Lai']","['[KOR] ', '[TPE] ']","['21-11', '21-15']",WS,20170627
-68,"['Tseng Min Hao', 'Ling Fang Hu', 'Maftuki Muhammad', 'Keshya Nurvita Hanadia']","['[TPE] ', '[TPE] ', '[INA] ', '[INA] ']","['21-17', '21-12']",XD,20170627
-69,"['Ko-Chi Chang', 'Liao Kuan Hao', 'Nikhar Garg', 'Ankur Sangpang Rai']","['[TPE] ', '[TPE] ', '[IND] ', '[IND] ']","['21-5', '21-8']",MD,20170627
-70,"['Xiao Min Lin', 'Wu Fang Chien', 'Chow King Ling', 'Tsang Wing Chiu Avery']","['[TPE] ', '[TPE] ', '[HKG] ', '[HKG] ']","['15-21', '21-19', '21-14']",WD,20170627
-71,"['Na Yeong Kim', 'Sai Uttejitha Rao Chukka']","['[KOR] ', '[IND] ']","['21-7', '21-17']",WS,20170627
-72,"['Sri Krishna Priya Kudaravalli', 'Chiang Mei Hui [4]']","['[IND] ', '[TPE] ']","['21-17', '20-22', '21-9']",WS,20170627
-73,"['Chung Eui Seok [5]', 'Kim Dukyoung', 'Li-Wei Po', 'Ming-Tse Yang']","['[KOR] ', '[KOR] ', '[TPE] ', '[TPE] ']","['21-13', '21-17']",MD,20170627
-74,"['Hsin Tien Chang', 'Chien Hui Yu', 'Cynthia Shara Ayunidha', 'Debora Rumate Vehrenica']","['[TPE] ', '[TPE] ', '[INA] ', '[INA] ']","['21-12', '21-11']",WD,20170627
-75,"['Akane Araki', 'Aoi Matsuda', 'Chen Hsiao Huan', 'Ting Yu Liang']","['[JPN] ', '[JPN] ', '[TPE] ', '[TPE] ']","['21-10', '21-15']",WD,20170627
-76,"['Shuo Yun Sung', 'Jennifer Tam']","['[TPE] ', '[AUS] ']","['21-5', '21-7']",WS,20170627
-77,"['Natsumi Shimoda', 'Ying Ying Lee [6]']","['[JPN] ', '[MAS] ']","['21-17', '21-18']",WS,20170627
-78,"['Lu Chia Pin', 'Yuan Cheng Wu', 'Nur Mohd Azriyn Ayub [8]', 'Jagdish Singh']","['[TPE] ', '[TPE] ', '[MAS] ', '[MAS] ']",[],MD,20170627
-79,"['Wang Chi-Lin [3]', 'Lee Chia Hsin', 'Kim Won Ho', 'Yu Rim Lee']","['[TPE] ', '[TPE] ', '[KOR] ', '[KOR] ']","['21-16', '21-14']",XD,20170627
-80,"['Hsu Jui Ting', 'Wan Ching Lin', 'Li Kuen Hon', 'Wu Yi Ting']","['[TPE] ', '[TPE] ', '[HKG] ', '[HKG] ']","['21-12', '21-19']",XD,20170627
-81,"['Yang Po-Hsuan', 'Hao Yun Wen', 'Min Hyuk Kang', 'Ha Na Baek']","['[TPE] ', '[TPE] ', '[KOR] ', '[KOR] ']","['21-19', '21-12']",XD,20170627
-82,"['Lee Wei Tzu', 'Yu Min Ju', 'Fadilla Afni', 'Sekartaji Putri']","['[TPE] ', '[TPE] ', '[INA] ', '[INA] ']","['21-10', '11-7']",WD,20170627
-83,"['Kah Ming Chooi [4]', 'Low Juan Shen', 'Chen Chung Jen', 'Hung Ying Yuan']","['[MAS] ', '[MAS] ', '[TPE] ', '[TPE] ']","['26-24', '21-10']",MD,20170627
-84,"['Lu Ching Yao [3]', 'Yang Po Han', 'Chan Tsz Kit', 'Chang Tak Ching']","['[TPE] ', '[TPE] ', '[HKG] ', '[HKG] ']","['21-13', '21-15']",MD,20170627
-85,"['Wen Chi Hsu', 'Rui Chen Yap']","['[TPE] ', '[MAS] ']","['21-18', '21-17']",WS,20170627
-86,"['Hye Rin Kim', 'Yoo Hae Won', 'Ching Hui Chang', 'Yang Ching Tun']","['[KOR] ', '[KOR] ', '[TPE] ', '[TPE] ']","['19-21', '21-10', '21-16']",WD,20170627
-87,"['Giap Chin Goh', 'Iskandar Zulkarnain [5]']","['[MAS] ', '[MAS] ']","['21-15', '18-21', '21-19']",MS,20170627
-88,"['Chu Han Chou', 'Vladimir Malkov [12]']","['[TPE] ', '[RUS] ']","['22-20', '16-17']",MS,20170627
-89,"['Lee Yang', 'Hsu Ya Ching', 'Goh Soon Huat [5]', 'Shevon Jemie Lai']","['[TPE] ', '[TPE] ', '[MAS] ', '[MAS] ']","['21-12', '21-18']",XD,20170627
-90,"['Chiang Kai Hsin', 'Hung Shih Han', 'Miho Kayama', 'Miku Yasuda']","['[TPE] ', '[TPE] ', '[JPN] ', '[JPN] ']","['21-11', '17-21', '21-10']",WD,20170627
-91,"['Chae Yoo Jung', 'Kim So Yeong', 'Chang Wen Yuan', 'Chang Yu Hsuan']","['[KOR] ', '[KOR] ', '[TPE] ', '[TPE] ']","['21-7', '21-13']",WD,20170627
-92,"['Chou Tien Chen [1]', 'Ng Zin Rei Ryan']","['[TPE] ', '[SGP] ']","['22-20', '21-11']",MS,20170627
-93,"['Lin Yu Hsien [9]', 'Chun-Wei Chen']","['[TPE] ', '[TPE] ']","['21-19', '21-16']",MS,20170627
-94,"['Danny Bawa Chrisnanta', 'Wong Jia Ying Crystal', 'Liao Kuan Hao', 'Chien Hui Yu']","['[SGP] ', '[SGP] ', '[TPE] ', '[TPE] ']","['21-18', '21-13']",XD,20170627
-95,"['Khim Wah Lim', 'Zi Heng Ooi', 'Wei Chen Liu', 'Tseng Min Hao']","['[MAS] ', '[MAS] ', '[TPE] ', '[TPE] ']","['21-17', '21-15']",MD,20170627
-96,"['Kim Ha Na', 'Hee Yong Kong', 'Yu Chieh Cheng', 'Ling Fang Hu']","['[KOR] ', '[KOR] ', '[TPE] ', '[TPE] ']","['21-16', '21-12']",WD,20170627
-97,"['Tzu Wei Wang [2]', 'Yu Leong, Alfred Lau']","['[TPE] ', '[MAS] ']","['21-17', '21-13']",MS,20170627
-98,"['Liao Min Chun [6]', 'Chen Hsiao Huan', 'Tomoya Takashina', 'Rie Etoh']","['[TPE] ', '[TPE] ', '[JPN] ', '[JPN] ']","['21-13', '21-23', '21-18']",XD,20170627
-99,"['Kim Won Ho', 'Seung Jae Seo', 'Chia-Han Lee', 'Tsai Chia Hsin']","['[KOR] ', '[KOR] ', '[TPE] ', '[TPE] ']","['21-16', '21-12']",MD,20170627
-100,"['Amir Syazwan Al Razi Mohd Shahriman Bakhtir', 'Wee Gieen Tan', 'Fang-Chih Lee', 'Fang-Jen Lee']","['[MAS] ', '[MAS] ', '[TPE] ', '[TPE] ']","['18-21', '28-26', '21-16']",MD,20170627
-101,"['Wu Yi Ting', 'Yuen Sin Ying', 'Hsuan-Yu Wendy Chen', 'Jennifer Tam']","['[HKG] ', '[HKG] ', '[AUS] ', '[AUS] ']","['21-19', '21-13']",WD,20170627
-102,"['Yin Loo Lim [3]', 'Yap Cheng Wen', 'Keshya Nurvita Hanadia', 'Devi Tika Permatasari']","['[MAS] ', '[MAS] ', '[INA] ', '[INA] ']","['24-22', '21-14']",WD,20170627
-103,"['Lee Zii Jia', 'En Chia Chang']","['[MAS] ', '[TPE] ']","['21-12', '21-11']",MS,20170627
-104,"['Min Hyuk Kang', 'Hong Sub Lee', 'Andrei Adistia', 'Jien Sern Ian Wong']","['[KOR] ', '[KOR] ', '[INA] ', '[MAS] ']","['21-8', '21-14']",MD,20170627
-105,"['Shang Kai Lin', 'Yang Po-Hsuan', 'Inkarat Apisuk', 'Viriyangkura Tanupat']","['[TPE] ', '[TPE] ', '[THA] ', '[THA] ']","['22-20', '21-17']",MD,20170627
-106,"['Choi Solgyu', 'Jae Hwan Kim', 'Kan Chao Yu', 'Chi-Hung Liao']","['[KOR] ', '[KOR] ', '[TPE] ', '[TPE] ']","['21-11', '21-12']",MD,20170627
-107,"['Hsueh Hsuan Yi [10]', 'Adulrach Namkul']","['[TPE] ', '[THA] ']","['21-17', '21-10']",MS,20170627
-108,"['Siril Verma [16]', 'Chia Hao Lee']","['[IND] ', '[TPE] ']","['16-21', '21-17', '21-17']",MS,20170627
-109,"['Liang Jui Wei', 'Yang Ching Tun', 'Hendra Tandjaya', 'Fadilla Afni']","['[TPE] ', '[TPE] ', '[INA] ', '[INA] ']","['21-8', '21-17']",XD,20170627
-110,"['Mayu Matsumoto', 'Wakana Nagahara', 'Hsu Ya Ching [2]', 'Wu Ti Jung']","['[JPN] ', '[JPN] ', '[TPE] ', '[TPE] ']","['21-17', '21-19']",WD,20170627
-111,"['Pai Yu Po', 'Chua Hui Zhen Grace']","['[TPE] ', '[SGP] ']","['21-13', '21-5']",WS,20170627
-112,"['Ha Na Baek', 'Yu Rim Lee', 'Hao Yun Wen', 'Jing Ya Ye']","['[KOR] ', '[KOR] ', '[TPE] ', '[TPE] ']","['21-14', '21-7']",WD,20170627
-113,"['Khosit Phetpradab [8]', 'Jacob Maliekal']","['[THA] ', '[RSA] ']","['21-17', '21-14']",MS,20170627
-114,"['Tinn Isriyanet', 'Pacharapun Chochuwong', 'Ko-Chi Chang [4]', 'Hsin Tien Chang']","['[THA] ', '[THA] ', '[TPE] ', '[TPE] ']","['21-18', '21-23', '21-12']",XD,20170627
-115,"['Hyuk Gyun Choi', 'Park Kyung Hoon', 'Ou Jardon', 'Tung Yuan Shang']","['[KOR] ', '[KOR] ', '[TPE] ', '[TPE] ']","['19-21', '21-17', '21-19']",MD,20170627
-116,"['Yen Mei Ho', 'Su Yu Chen [7]']","['[MAS] ', '[TPE] ']","['16-21', '21-13', '21-17']",WS,20170627
-117,"['Saena Kawakami', 'Wan Yi Tang']","['[JPN] ', '[TPE] ']","['21-17', '21-14']",WS,20170627
-118,"['Seung Hoon Woo', 'Abhishek Yelegar [15]']","['[KOR] ', '[IND] ']","['21-17', '17-21', '21-6']",MS,20170627
-119,"['Ga Eun Kim', 'Chen Hsiao Huan']","['[KOR] ', '[TPE] ']","['17-21', '21-15', '21-17']",WS,20170627
-120,"['Lee Chia Hsin [5]', 'Natsuki Nidaira']","['[TPE] ', '[JPN] ']","['21-14', '21-8']",WS,20170627
-121,"['Lee Sheng Mu', 'Lin Chia Yu', 'Trawut Potieng [7]', 'Nanthakarn Yordphaisong']","['[TPE] ', '[TPE] ', '[THA] ', '[THA] ']","['21-16', '21-23', '21-16']",MD,20170627
-122,"['Chayanit Chaladchalam', 'Phataimas Muenwong', 'Li Zi Qing', 'Teng Chun Hsun']","['[THA] ', '[THA] ', '[TPE] ', '[TPE] ']","['18-21', '21-14', '21-17']",WD,20170627
-123,"['Ha Young Woong', 'Harsheel Dani [14]']","['[KOR] ', '[IND] ']","['21-12', '21-6']",MS,20170627
-124,"['Seung Jae Seo', 'Kim Ha Na', 'Chan Peng Soon [7]', 'Cheah Yee See']","['[KOR] ', '[KOR] ', '[MAS] ', '[MAS] ']","['21-12', '19-21', '21-18']",XD,20170627
-125,"['Liao Min Chun [6]', 'Cheng Heng Su', 'Ho Wai Lun', 'Li Kuen Hon']","['[TPE] ', '[TPE] ', '[HKG] ', '[HKG] ']","['21-15', '21-18']",MD,20170627
-126,"['Chen Hung Ling [2]', 'Wang Chi-Lin', 'Jong Woo Choi', 'Hui Tae Kim']","['[TPE] ', '[TPE] ', '[KOR] ', '[KOR] ']","['21-19', '21-12']",MD,20170627
-127,"['Yeo Jia Min [8]', 'Ling Fang Hu']","['[SGP] ', '[TPE] ']","['21-19', '21-17']",WS,20170627
-128,"['Jeon Hyeok Jin [6]', 'Chia Hung Lu']","['[KOR] ', '[TPE] ']","['21-8', '21-9']",MS,20170627
-129,"['Hee Yong Kai Terry [2]', 'Tan Wei Han', 'Habibi Zulfauzi', 'Devi Tika Permatasari']","['[SGP] ', '[SGP] ', '[INA] ', '[INA] ']","['21-10', '21-12']",XD,20170627
-130,"['Hsu Ya Ching [2]', 'Debora Rumate Vehrenica']","['[TPE] ', '[INA] ']","['21-6', '21-7']",WS,20170627
-131,"['Jae Hwan Kim', 'Kim So Yeong', 'Pang Ron Hoo', 'Yen Wei Peck']","['[KOR] ', '[KOR] ', '[MAS] ', '[MAS] ']","['15-21', '21-15', '21-17']",XD,20170627
-132,"['Haruko Suzuki', 'Hsuan-Yu Wendy Chen']","['[JPN] ', '[AUS] ']","['21-18', '21-12']",WS,20170627
-133,"['Hsu Jen Hao [3]', 'Shih Kuei Chun']","['[TPE] ', '[TPE] ']","['21-13', '21-12']",MS,20170627
-134,"['Daren Liew [11]', 'Chan Yin Chak']","['[MAS] ', '[HKG] ']","['21-16', '17-21', '21-11']",MS,20170627
-135,"['Chia-Han Lee', 'Pai Yu Po', 'Hong Sub Lee', 'Hye Rin Kim']","['[TPE] ', '[TPE] ', '[KOR] ', '[KOR] ']","['21-18', '21-12']",XD,20170627
-136,"['Kuo Yu Wen', 'Tsun Yu Lin', 'Joyce Choong', 'Yea Ching Goh']","['[TPE] ', '[TPE] ', '[MAS] ', '[MAS] ']","['21-15', '18-21', '21-9']",WD,20170627
-137,"['Goh Jin Wei [3]', 'Kaori Imabeppu']","['[MAS] ', '[JPN] ']","['15-21', '21-17', '21-14']",WS,20170627
-138,"['Wei Feng Chong [7]', 'Huang Da Wei']","['[MAS] ', '[TPE] ']","['21-15', '21-17']",MS,20170627
-139,"['Suppanyu Avihingsanon [13]', 'Yu Jen Chi']","['[THA] ', '[TPE] ']","['21-17', '21-16']",MS,20170627
-140,"['Hyang Im Kim', 'Hung Yi-Ting']","['[KOR] ', '[TPE] ']","['22-20', '21-13']",WS,20170627
-141,"['Chou Tien Chen [1]', 'Chu Han Chou']","['[TPE] ', '[TPE] ']","['21-14', '21-12']",MS,20170627
-142,"['Natsumi Shimoda', 'Wen Chi Hsu']","['[JPN] ', '[TPE] ']","['18-21', '25-23', '21-12']",WS,20170627
-143,"['Tseng Min Hao', 'Ling Fang Hu', 'Lin Chia Yu [8]', 'Wu Ti Jung']","['[TPE] ', '[TPE] ', '[TPE] ', '[TPE] ']","['21-18', '21-15']",XD,20170627
-144,"['Shuo Yun Sung', 'Sri Krishna Priya Kudaravalli']","['[TPE] ', '[IND] ']","['22-20', '21-13']",WS,20170627
-145,"['Liao Min Chun [6]', 'Chen Hsiao Huan', 'Hsu Jui Ting', 'Wan Ching Lin']","['[TPE] ', '[TPE] ', '[TPE] ', '[TPE] ']","['21-11', '21-14']",XD,20170627
-146,"['Choi Solgyu [1]', 'Chae Yoo Jung', 'Lu Ching Yao', 'Chiang Kai Hsin']","['[KOR] ', '[KOR] ', '[TPE] ', '[TPE] ']","['21-15', '17-21', '21-10']",XD,20170627
-147,"['Lee Zii Jia', 'Siril Verma [16]']","['[MAS] ', '[IND] ']","['21-12', '21-16']",MS,20170627
-148,"['Tinn Isriyanet', 'Pacharapun Chochuwong', 'Liang Jui Wei', 'Yang Ching Tun']","['[THA] ', '[THA] ', '[TPE] ', '[TPE] ']","['21-16', '21-12']",XD,20170627
-149,"['Wang Chi-Lin [3]', 'Lee Chia Hsin', 'Yang Po-Hsuan', 'Hao Yun Wen']","['[TPE] ', '[TPE] ', '[TPE] ', '[TPE] ']","['21-12', '21-16']",XD,20170627
-150,"['Lin Yu Hsien [9]', 'Giap Chin Goh']","['[TPE] ', '[MAS] ']","['21-15', '21-11']",MS,20170627
-151,"['Danny Bawa Chrisnanta', 'Wong Jia Ying Crystal', 'Lee Yang', 'Hsu Ya Ching']","['[SGP] ', '[SGP] ', '[TPE] ', '[TPE] ']","['17-21', '21-17', '21-19']",XD,20170627
-152,"['Hee Yong Kai Terry [2]', 'Tan Wei Han', 'Jae Hwan Kim', 'Kim So Yeong']","['[SGP] ', '[SGP] ', '[KOR] ', '[KOR] ']","['20-22', '21-14', '21-19']",XD,20170627
-153,"['Na Yeong Kim', 'Min Ji Lee']","['[KOR] ', '[KOR] ']","['21-15', '21-17']",WS,20170627
-154,"['Suppanyu Avihingsanon [13]', 'Wei Feng Chong [7]']","['[THA] ', '[MAS] ']","['21-17', '21-9']",MS,20170627
-155,"['Yin Loo Lim [3]', 'Yap Cheng Wen', 'Wu Yi Ting', 'Yuen Sin Ying']","['[MAS] ', '[MAS] ', '[HKG] ', '[HKG] ']","['21-16', '21-17']",WD,20170627
-156,"['Khosit Phetpradab [8]', 'Seung Hoon Woo']","['[THA] ', '[KOR] ']","['5-21', '21-12', '21-10']",MS,20170627
-157,"['Haruko Suzuki', 'Yen Mei Ho']","['[JPN] ', '[MAS] ']","['21-19', '21-17']",WS,20170627
-158,"['Seung Jae Seo', 'Kim Ha Na', 'Chia-Han Lee', 'Pai Yu Po']","['[KOR] ', '[KOR] ', '[TPE] ', '[TPE] ']","['21-15', '21-18']",XD,20170627
-159,"['Lee Sheng Mu', 'Lin Chia Yu', 'Amir Syazwan Al Razi Mohd Shahriman Bakhtir', 'Wee Gieen Tan']","['[TPE] ', '[TPE] ', '[MAS] ', '[MAS] ']","['21-18', '21-8']",MD,20170627
-160,"['Goh Jin Wei [3]', 'Hyang Im Kim']","['[MAS] ', '[KOR] ']","['21-6', '21-9']",WS,20170627
-161,"['Mayu Matsumoto', 'Wakana Nagahara', 'Ha Na Baek', 'Yu Rim Lee']","['[JPN] ', '[JPN] ', '[KOR] ', '[KOR] ']","['21-8', '23-25', '23-21']",WD,20170627
-162,"['Chung Eui Seok [5]', 'Kim Dukyoung', 'Khim Wah Lim', 'Zi Heng Ooi']","['[KOR] ', '[KOR] ', '[MAS] ', '[MAS] ']","['21-19', '21-9']",MD,20170627
-163,"['Tzu Wei Wang [2]', 'Hsueh Hsuan Yi [10]']","['[TPE] ', '[TPE] ']","['21-15', '21-6']",MS,20170627
-164,"['Daren Liew [11]', 'Hsu Jen Hao [3]']","['[MAS] ', '[TPE] ']","['21-17', '21-17']",MS,20170627
-165,"['Saena Kawakami', 'Yeo Jia Min [8]']","['[JPN] ', '[SGP] ']","['21-11', '21-10']",WS,20170627
-166,"['Kah Ming Chooi [4]', 'Low Juan Shen', 'Shang Kai Lin', 'Yang Po-Hsuan']","['[MAS] ', '[MAS] ', '[TPE] ', '[TPE] ']","['21-17', '21-18']",MD,20170627
-167,"['Chae Yoo Jung', 'Kim So Yeong', 'Lee Wei Tzu', 'Yu Min Ju']","['[KOR] ', '[KOR] ', '[TPE] ', '[TPE] ']","['21-9', '21-11']",WD,20170627
-168,"['Chen Hung Ling [2]', 'Wang Chi-Lin', 'Hyuk Gyun Choi', 'Park Kyung Hoon']","['[TPE] ', '[TPE] ', '[KOR] ', '[KOR] ']","['21-11', '21-16']",MD,20170627
-169,"['Choi Solgyu', 'Jae Hwan Kim', 'Liao Min Chun [6]', 'Cheng Heng Su']","['[KOR] ', '[KOR] ', '[TPE] ', '[TPE] ']","['21-15', '22-20']",MD,20170627
-170,"['Chayanit Chaladchalam', 'Phataimas Muenwong', 'Kuo Yu Wen', 'Tsun Yu Lin']","['[THA] ', '[THA] ', '[TPE] ', '[TPE] ']","['15-21', '21-10', '21-19']",WD,20170627
-171,"['Lee Jhe-Huei [1]', 'Lee Yang', 'Ko-Chi Chang', 'Liao Kuan Hao']","['[TPE] ', '[TPE] ', '[TPE] ', '[TPE] ']","['21-14', '21-18']",MD,20170627
-172,"['Ga Eun Kim', 'Hsu Ya Ching [2]']","['[KOR] ', '[TPE] ']","['25-23', '23-21']",WS,20170627
-173,"['Akane Araki', 'Aoi Matsuda', 'Ong Ren-Ne', 'Wong Jia Ying Crystal']","['[JPN] ', '[JPN] ', '[SGP] ', '[SGP] ']","['21-17', '21-12']",WD,20170627
-174,"['Pai Yu Po', 'Lee Chia Hsin [5]']","['[TPE] ', '[TPE] ']","['13-21', '21-18', '21-16']",WS,20170627
-175,"['Hye Rin Kim', 'Yoo Hae Won', 'Chiang Kai Hsin', 'Hung Shih Han']","['[KOR] ', '[KOR] ', '[TPE] ', '[TPE] ']","['21-8', '21-12']",WD,20170627
-176,"['Lu Ching Yao [3]', 'Yang Po Han', 'Kim Won Ho', 'Seung Jae Seo']","['[TPE] ', '[TPE] ', '[KOR] ', '[KOR] ']","['15-21', '24-22', '21-19']",MD,20170627
-177,"['Lu Chia Pin', 'Yuan Cheng Wu', 'Min Hyuk Kang', 'Hong Sub Lee']","['[TPE] ', '[TPE] ', '[KOR] ', '[KOR] ']","['21-12', '14-21', '21-18']",MD,20170627
-178,"['Kim Ha Na', 'Hee Yong Kong', 'Hsin Tien Chang', 'Chien Hui Yu']","['[KOR] ', '[KOR] ', '[TPE] ', '[TPE] ']","['21-12', '21-17']",WD,20170627
-179,"['Jeon Hyeok Jin [6]', 'Ha Young Woong']","['[KOR] ', '[KOR] ']","['21-12', '21-12']",MS,20170627
-180,"['Goh Jin Wei [3]', 'Pai Yu Po']","['[MAS] ', '[TPE] ']","['21-15', '21-17']",WS ,20170627
-181,"['Chen Hung Ling [2]', 'Wang Chi-Lin', 'Lee Sheng Mu', 'Lin Chia Yu']","['[TPE] ', '[TPE] ', '[TPE] ', '[TPE] ']","['21-19', '21-9']",MD ,20170627
-182,"['Lu Ching Yao [3]', 'Yang Po Han', 'Lu Chia Pin', 'Yuan Cheng Wu']","['[TPE] ', '[TPE] ', '[TPE] ', '[TPE] ']","['21-19', '21-12']",MD ,20170627
-183,"['Chou Tien Chen [1]', 'Lin Yu Hsien [9]']","['[TPE] ', '[TPE] ']","['21-16', '21-15']",MS ,20170627
-184,"['Lee Jhe-Huei [1]', 'Lee Yang', 'Chung Eui Seok [5]', 'Kim Dukyoung']","['[TPE] ', '[TPE] ', '[KOR] ', '[KOR] ']","['22-20', '19-21', '21-13']",MD ,20170627
-185,"['Tzu Wei Wang [2]', 'Suppanyu Avihingsanon [13]']","['[TPE] ', '[THA] ']","['21-8', '19-21', '21-11']",MS ,20170627
-186,"['Mayu Matsumoto', 'Wakana Nagahara', 'Chayanit Chaladchalam', 'Phataimas Muenwong']","['[JPN] ', '[JPN] ', '[THA] ', '[THA] ']","['21-17', '20-22', '21-19']",WD ,20170627
-187,"['Tinn Isriyanet', 'Pacharapun Chochuwong', 'Liao Min Chun [6]', 'Chen Hsiao Huan']","['[THA] ', '[THA] ', '[TPE] ', '[TPE] ']","['13-21', '21-17', '21-7']",XD ,20170627
-188,"['Wang Chi-Lin [3]', 'Lee Chia Hsin', 'Danny Bawa Chrisnanta', 'Wong Jia Ying Crystal']","['[TPE] ', '[TPE] ', '[SGP] ', '[SGP] ']","['21-11', '21-16']",XD ,20170627
-189,"['Jeon Hyeok Jin [6]', 'Daren Liew [11]']","['[KOR] ', '[MAS] ']","['21-13', '18-21', '21-14']",MS ,20170627
-190,"['Kah Ming Chooi [4]', 'Low Juan Shen', 'Choi Solgyu', 'Jae Hwan Kim']","['[MAS] ', '[MAS] ', '[KOR] ', '[KOR] ']","['14-21', '22-20', '28-26']",MD ,20170627
-191,"['Hye Rin Kim', 'Yoo Hae Won', 'Akane Araki', 'Aoi Matsuda']","['[KOR] ', '[KOR] ', '[JPN] ', '[JPN] ']","['14-21', '24-22', '21-9']",WD ,20170627
-192,"['Kim Ha Na', 'Hee Yong Kong', 'Xiao Min Lin', 'Wu Fang Chien']","['[KOR] ', '[KOR] ', '[TPE] ', '[TPE] ']","['21-14', '24-22']",WD ,20170627
-193,"['Chae Yoo Jung', 'Kim So Yeong', 'Yin Loo Lim [3]', 'Yap Cheng Wen']","['[KOR] ', '[KOR] ', '[MAS] ', '[MAS] ']","['17-21', '21-12', '21-15']",WD ,20170627
-194,"['Haruko Suzuki', 'Ga Eun Kim']","['[JPN] ', '[KOR] ']","['21-8', '21-17']",WS ,20170627
-195,"['Saena Kawakami', 'Na Yeong Kim']","['[JPN] ', '[KOR] ']","['21-16', '21-11']",WS ,20170627
-196,"['Natsumi Shimoda', 'Shuo Yun Sung']","['[JPN] ', '[TPE] ']","['21-19', '21-13']",WS ,20170627
-197,"['Seung Jae Seo', 'Kim Ha Na', 'Hee Yong Kai Terry [2]', 'Tan Wei Han']","['[KOR] ', '[KOR] ', '[SGP] ', '[SGP] ']","['21-18', '18-21', '21-18']",XD ,20170627
-198,"['Lee Zii Jia', 'Khosit Phetpradab [8]']","['[MAS] ', '[THA] ']","['21-19', '21-16']",MS ,20170627
-199,"['Choi Solgyu [1]', 'Chae Yoo Jung', 'Tseng Min Hao', 'Ling Fang Hu']","['[KOR] ', '[KOR] ', '[TPE] ', '[TPE] ']","['21-13', '21-14']",XD ,20170627
-200,"['Goh Jin Wei [3]', 'Haruko Suzuki']","['[MAS] ', '[JPN] ']","['21-16', '21-17']",WS ,20170627
-201,"['Chen Hung Ling [2]', 'Wang Chi-Lin', 'Kah Ming Chooi [4]', 'Low Juan Shen']","['[TPE] ', '[TPE] ', '[MAS] ', '[MAS] ']","['21-14', '19-21', '21-13']",MD ,20170627
-202,"['Seung Jae Seo', 'Kim Ha Na', 'Tinn Isriyanet', 'Pacharapun Chochuwong']","['[KOR] ', '[KOR] ', '[THA] ', '[THA] ']","['21-13', '21-6']",XD ,20170627
-203,"['Chou Tien Chen [1]', 'Lee Zii Jia']","['[TPE] ', '[MAS] ']","['15-21', '21-10', '21-12']",MS ,20170627
-204,"['Chae Yoo Jung', 'Kim So Yeong', 'Mayu Matsumoto', 'Wakana Nagahara']","['[KOR] ', '[KOR] ', '[JPN] ', '[JPN] ']","['21-19', '21-13']",WD ,20170627
-205,"['Saena Kawakami', 'Natsumi Shimoda']","['[JPN] ', '[JPN] ']","['21-8', '21-15']",WS ,20170627
-206,"['Hye Rin Kim', 'Yoo Hae Won', 'Kim Ha Na', 'Hee Yong Kong']","['[KOR] ', '[KOR] ', '[KOR] ', '[KOR] ']","['21-12', '21-9']",WD ,20170627
-207,"['Lee Jhe-Huei [1]', 'Lee Yang', 'Lu Ching Yao [3]', 'Yang Po Han']","['[TPE] ', '[TPE] ', '[TPE] ', '[TPE] ']","['21-19', '26-24']",MD ,20170627
-208,"['Wang Chi-Lin [3]', 'Lee Chia Hsin', 'Choi Solgyu [1]', 'Chae Yoo Jung']","['[TPE] ', '[TPE] ', '[KOR] ', '[KOR] ']","['22-20', '21-11']",XD ,20170627
-209,"['Tzu Wei Wang [2]', 'Jeon Hyeok Jin [6]']","['[TPE] ', '[KOR] ']","['21-18', '21-18']",MS ,20170627
-210,"['Seung Jae Seo', 'Kim Ha Na', 'Wang Chi-Lin [3]', 'Lee Chia Hsin']","['[KOR] ', '[KOR] ', '[TPE] ', '[TPE] ']","['22-20', '21-10']",XD ,20170627
-211,"['Chae Yoo Jung', 'Kim So Yeong', 'Hye Rin Kim', 'Yoo Hae Won']","['[KOR] ', '[KOR] ', '[KOR] ', '[KOR] ']","['21-12', '21-11']",WD ,20170627
-212,"['Saena Kawakami', 'Goh Jin Wei [3]']","['[JPN] ', '[MAS] ']","['21-17', '21-17']",WS ,20170627
-213,"['Chen Hung Ling [2]', 'Wang Chi-Lin', 'Lee Jhe-Huei [1]', 'Lee Yang']","['[TPE] ', '[TPE] ', '[TPE] ', '[TPE] ']","['21-16', '22-20']",MD ,20170627
-214,"['Chou Tien Chen [1]', 'Tzu Wei Wang [2]']","['[TPE] ', '[TPE] ']","['18-21', '21-19', '21-15']",MS ,20170627
+,PLAYERS,COUNTRIES,SCORES,EVENT,match_week,match_location
+0,"['Chia Hung Lu', 'Lin Jhih Yun', 'Ferdinand Sinarta Surbakti', 'Cynthia Shara Ayunidha']","['[TPE] ', '[TPE] ', '[INA] ', '[INA] ']","['21-16', '21-13']",XD - Qualification,20170627,"Taipei, Chinese Taipei"
+1,"['Jae Hwan Kim', 'Kim So Yeong', 'Hung Ying Yuan', 'Pei Shan Hsieh']","['[KOR] ', '[KOR] ', '[TPE] ', '[TPE] ']","['21-16', '21-12']",XD - Qualification,20170627,"Taipei, Chinese Taipei"
+2,"['Chan Tsz Kit', 'Chow King Ling', 'Lu Chia Pin', 'Li Ting Peng']","['[HKG] ', '[HKG] ', '[TPE] ', '[TPE] ']","['18-21', '21-14', '21-15']",XD - Qualification,20170627,"Taipei, Chinese Taipei"
+3,"['Liao Kuan Hao', 'Chien Hui Yu', 'Chang Tak Ching', 'Tsang Wing Chiu Avery']","['[TPE] ', '[TPE] ', '[HKG] ', '[HKG] ']","['21-18', '21-18']",XD - Qualification,20170627,"Taipei, Chinese Taipei"
+4,"['Yu Leong, Alfred Lau', 'Chun Cheng Chen']","['[MAS] ', '[TPE] ']","['21-18', '21-6']",MS - Qualification,20170627,"Taipei, Chinese Taipei"
+5,"['Huang Da Wei', 'Ankur Sangpang Rai']","['[TPE] ', '[IND] ']","['21-18', '21-12']",MS - Qualification,20170627,"Taipei, Chinese Taipei"
+6,"['Ying Chun Lin', 'Ting Yu Liang [4]']","['[TPE] ', '[TPE] ']","['21-19', '15-21', '21-19']",WS - Qualification,20170627,"Taipei, Chinese Taipei"
+7,"['Hyang Im Kim [2]', 'Chang Ya Lan']","['[KOR] ', '[TPE] ']","['21-18', '21-11']",WS - Qualification,20170627,"Taipei, Chinese Taipei"
+8,"['I-Ting Lai', 'Hung En-Tzu']","['[TPE] ', '[TPE] ']","['21-9', '21-15']",WS - Qualification,20170627,"Taipei, Chinese Taipei"
+9,"['Chen Hsiao Huan', 'Joo I Jeon']","['[TPE] ', '[KOR] ']","['8-21', '21-17', '21-18']",WS - Qualification,20170627,"Taipei, Chinese Taipei"
+10,"['Lin Jhih Yun', 'Sekartaji Putri']","['[TPE] ', '[INA] ']","['21-18', '21-13']",WS - Qualification,20170627,"Taipei, Chinese Taipei"
+11,"['Lin Hsiang Ti', 'Tsang Wing Chiu Avery']","['[TPE] ', '[HKG] ']","['21-11', '19-21', '21-7']",WS - Qualification,20170627,"Taipei, Chinese Taipei"
+12,"['Natsumi Shimoda', 'Li Ting Peng [3]']","['[JPN] ', '[TPE] ']","['21-16', '21-6']",WS - Qualification,20170627,"Taipei, Chinese Taipei"
+13,"['Wen Chi Hsu', 'Chow King Ling']","['[TPE] ', '[HKG] ']","['21-17', '21-7']",WS - Qualification,20170627,"Taipei, Chinese Taipei"
+14,"['Kim Won Ho', 'Seung Jae Seo', 'Lam Wai Lok [2]', 'Hee Chun Mak']","['[KOR] ', '[KOR] ', '[HKG] ', '[HKG] ']","['21-14', '21-15']",MD - Qualification,20170627,"Taipei, Chinese Taipei"
+15,"['Chang Kai Liang', 'Cheng Po Wei', 'Maftuki Muhammad', 'Habibi Zulfauzi']","['[TPE] ', '[TPE] ', '[INA] ', '[INA] ']","['21-16', '21-8']",MD - Qualification,20170627,"Taipei, Chinese Taipei"
+16,"['Willian Astan', 'Ferdinand Sinarta Surbakti', 'Wei Chen', 'Chen-Ping Wei']","['[INA] ', '[INA] ', '[TPE] ', '[TPE] ']","['18-21', '21-18', '21-14']",MD - Qualification,20170627,"Taipei, Chinese Taipei"
+17,"['Jong Woo Choi', 'Hui Tae Kim', 'Hilkiya Bl', 'Hiski Rumengan']","['[KOR] ', '[KOR] ', '[INA] ', '[INA] ']","['21-10', '21-8']",MD - Qualification,20170627,"Taipei, Chinese Taipei"
+18,"['Hyuk Gyun Choi', 'Park Kyung Hoon', 'Yu Leong, Alfred Lau', 'Yu Ming, Adam Lau']","['[KOR] ', '[KOR] ', '[MAS] ', '[MAS] ']","['21-17', '21-13']",MD - Qualification,20170627,"Taipei, Chinese Taipei"
+19,"['Kevin Ezra', 'Hendra Gustiawan', 'Kai Ho Tang', 'Hin Shun Wong']","['[INA] ', '[INA] ', '[ENG] ', '[ENG] ']","['21-17', '21-10']",MD - Qualification,20170627,"Taipei, Chinese Taipei"
+20,"['Min Hyuk Kang', 'Ha Na Baek', 'Chan Tsz Kit', 'Chow King Ling']","['[KOR] ', '[KOR] ', '[HKG] ', '[HKG] ']","['21-15', '21-12']",XD - Qualification,20170627,"Taipei, Chinese Taipei"
+21,"['Liao Kuan Hao', 'Chien Hui Yu', 'Yu Jen Chi [2]', 'Chih Chen Lee']","['[TPE] ', '[TPE] ', '[TPE] ', '[TPE] ']","['21-16', '24-22']",XD - Qualification,20170627,"Taipei, Chinese Taipei"
+22,"['Chia-Han Lee [1]', 'Pai Yu Po', 'Chia Hung Lu', 'Lin Jhih Yun']","['[TPE] ', '[TPE] ', '[TPE] ', '[TPE] ']","['21-8', '22-20']",XD - Qualification,20170627,"Taipei, Chinese Taipei"
+23,"['Jae Hwan Kim', 'Kim So Yeong', 'Hiski Rumengan', 'Athiatun Rahimah']","['[KOR] ', '[KOR] ', '[INA] ', '[INA] ']","['21-8', '21-11']",XD - Qualification,20170627,"Taipei, Chinese Taipei"
+24,"['Kim Won Ho', 'Seung Jae Seo', 'Chang Kai Liang', 'Cheng Po Wei']","['[KOR] ', '[KOR] ', '[TPE] ', '[TPE] ']","['21-18', '21-11']",MD - Qualification,20170627,"Taipei, Chinese Taipei"
+25,"['Andrei Adistia [1]', 'Jien Sern Ian Wong', 'Kevin Ezra', 'Hendra Gustiawan']","['[INA] ', '[MAS] ', '[INA] ', '[INA] ']","['21-12', '21-19']",MD - Qualification,20170627,"Taipei, Chinese Taipei"
+26,"['Hyuk Gyun Choi', 'Park Kyung Hoon', 'Nathaniel Ernestan Sulistyo', 'Jaspar Woon Chai Yu']","['[KOR] ', '[KOR] ', '[INA] ', '[BRU] ']","['21-14', '21-9']",MD - Qualification,20170627,"Taipei, Chinese Taipei"
+27,"['Chen Hsiao Huan', 'Ying Chun Lin']","['[TPE] ', '[TPE] ']","['21-10', '21-10']",WS - Qualification,20170627,"Taipei, Chinese Taipei"
+28,"['Natsumi Shimoda', 'Lin Hsiang Ti']","['[JPN] ', '[TPE] ']","['26-28', '21-18', '21-18']",WS - Qualification,20170627,"Taipei, Chinese Taipei"
+29,"['Wen Chi Hsu', 'Hyang Im Kim [2]']","['[TPE] ', '[KOR] ']",[],WS - Qualification,20170627,"Taipei, Chinese Taipei"
+30,"['I-Ting Lai', 'Lin Jhih Yun']","['[TPE] ', '[TPE] ']","['17-21', '21-14', '21-17']",WS - Qualification,20170627,"Taipei, Chinese Taipei"
+31,"['Jong Woo Choi', 'Hui Tae Kim', 'Willian Astan', 'Ferdinand Sinarta Surbakti']","['[KOR] ', '[KOR] ', '[INA] ', '[INA] ']","['21-11', '21-12']",MD - Qualification,20170627,"Taipei, Chinese Taipei"
+32,"['Chou Tien Chen [1]', 'Jimmy, Yu Lun Tay']","['[TPE] ', '[MAS] ']","['21-14', '21-8']",MS,20170627,"Taipei, Chinese Taipei"
+33,"['Vladimir Malkov [12]', 'Henrikho Kho Wibowo']","['[RUS] ', '[INA] ']","['21-14', '21-10']",MS,20170627,"Taipei, Chinese Taipei"
+34,"['Chu Han Chou', 'Kim Min Ki']","['[TPE] ', '[KOR] ']","['19-21', '21-17', '21-8']",MS,20170627,"Taipei, Chinese Taipei"
+35,"['Iskandar Zulkarnain [5]', 'Teng Shih Hua']","['[MAS] ', '[TPE] ']","['18-21', '21-17', '21-19']",MS,20170627,"Taipei, Chinese Taipei"
+36,"['Giap Chin Goh', 'Lin Chun-Yi']","['[MAS] ', '[TPE] ']","['21-15', '21-16']",MS,20170627,"Taipei, Chinese Taipei"
+37,"['Lee Zii Jia', 'Sourabh Verma [4]']","['[MAS] ', '[IND] ']","['21-19', '22-20']",MS,20170627,"Taipei, Chinese Taipei"
+38,"['En Chia Chang', 'Rahul Yadav Chittaboina']","['[TPE] ', '[IND] ']",[],MS,20170627,"Taipei, Chinese Taipei"
+39,"['Siril Verma [16]', 'Wei Chi Liu']","['[IND] ', '[TPE] ']","['21-11', '10-21', '21-19']",MS,20170627,"Taipei, Chinese Taipei"
+40,"['Chia Hao Lee', 'Lim Chi Wing']","['[TPE] ', '[MAS] ']","['21-17', '21-14']",MS,20170627,"Taipei, Chinese Taipei"
+41,"['Ng Zin Rei Ryan', 'Cheng Po Wei']","['[SGP] ', '[TPE] ']","['21-8', '16-21', '21-12']",MS,20170627,"Taipei, Chinese Taipei"
+42,"['Khosit Phetpradab [8]', 'Dong Hoon Kim']","['[THA] ', '[KOR] ']","['17-21', '21-18', '21-15']",MS,20170627,"Taipei, Chinese Taipei"
+43,"['Jacob Maliekal', 'Shiau Cheng Chen']","['[RSA] ', '[TPE] ']","['21-18', '21-14']",MS,20170627,"Taipei, Chinese Taipei"
+44,"['Seung Hoon Woo', 'Wang Yuehang']","['[KOR] ', '[ENG] ']","['21-10', '21-16']",MS,20170627,"Taipei, Chinese Taipei"
+45,"['Ha Young Woong', 'Kan Chao Yu']","['[KOR] ', '[TPE] ']","['24-22', '21-23', '21-13']",MS,20170627,"Taipei, Chinese Taipei"
+46,"['Chun-Wei Chen', 'Jaspar Woon Chai Yu']","['[TPE] ', '[BRU] ']","['21-7', '21-8']",MS,20170627,"Taipei, Chinese Taipei"
+47,"['Abhishek Yelegar [15]', 'Yu Ming, Adam Lau']","['[IND] ', '[MAS] ']","['20-22', '21-14', '21-10']",MS,20170627,"Taipei, Chinese Taipei"
+48,"['Harsheel Dani [14]', 'Lee Chak Wai']","['[IND] ', '[HKG] ']","['21-12', '21-14']",MS,20170627,"Taipei, Chinese Taipei"
+49,"['Jeon Hyeok Jin [6]', 'Yang Chih Hsun']","['[KOR] ', '[TPE] ']","['21-17', '21-14']",MS,20170627,"Taipei, Chinese Taipei"
+50,"['Chia Hung Lu', 'Chun Chung Hung']","['[TPE] ', '[TPE] ']","['21-10', '21-12']",MS,20170627,"Taipei, Chinese Taipei"
+51,"['Chan Yin Chak', 'Chen Chi Ting']","['[HKG] ', '[TPE] ']","['21-16', '20-22', '21-13']",MS,20170627,"Taipei, Chinese Taipei"
+52,"['Daren Liew [11]', 'Lin Chia Hsuan']","['[MAS] ', '[TPE] ']","['21-17', '9-21', '21-12']",MS,20170627,"Taipei, Chinese Taipei"
+53,"['Shih Kuei Chun', 'Kartikey Gulshan Kumar']","['[TPE] ', '[IND] ']","['21-19', '21-19']",MS,20170627,"Taipei, Chinese Taipei"
+54,"['Hsu Jen Hao [3]', 'Timothy Chiu']","['[TPE] ', '[CAN] ']","['21-10', '21-13']",MS,20170627,"Taipei, Chinese Taipei"
+55,"['Yu Jen Chi', 'Kean Yew Loh']","['[TPE] ', '[SGP] ']","['15-21', '21-18', '21-17']",MS,20170627,"Taipei, Chinese Taipei"
+56,"['Suppanyu Avihingsanon [13]', 'Siddharath Thakur']","['[THA] ', '[IND] ']","['21-16', '21-16']",MS,20170627,"Taipei, Chinese Taipei"
+57,"['Huang Da Wei', 'Hin Shun Wong']","['[TPE] ', '[ENG] ']","['21-17', '21-9']",MS,20170627,"Taipei, Chinese Taipei"
+58,"['Wei Feng Chong [7]', 'Nathaniel Ernestan Sulistyo']","['[MAS] ', '[INA] ']","['21-8', '18-5']",MS,20170627,"Taipei, Chinese Taipei"
+59,"['Adulrach Namkul', 'Kai Ho Tang']","['[THA] ', '[ENG] ']","['21-11', '21-11']",MS,20170627,"Taipei, Chinese Taipei"
+60,"['Hsueh Hsuan Yi [10]', 'Hemanth M.Gowda']","['[TPE] ', '[IND] ']","['21-13', '21-10']",MS,20170627,"Taipei, Chinese Taipei"
+61,"['Yu Leong, Alfred Lau', 'Harshit Aggarwal']","['[MAS] ', '[IND] ']","['21-17', '16-21', '21-19']",MS,20170627,"Taipei, Chinese Taipei"
+62,"['Tzu Wei Wang [2]', 'Kantaphon Wangcharoen']","['[TPE] ', '[THA] ']","['21-16', '21-16']",MS,20170627,"Taipei, Chinese Taipei"
+63,"['Choi Solgyu [1]', 'Chae Yoo Jung', 'Ho Wai Lun', 'Yuen Sin Ying']","['[KOR] ', '[KOR] ', '[HKG] ', '[HKG] ']","['21-11', '21-14']",XD,20170627,"Taipei, Chinese Taipei"
+64,"['Lu Ching Yao', 'Chiang Kai Hsin', 'Park Kyung Hoon', 'Hee Yong Kong']","['[TPE] ', '[TPE] ', '[KOR] ', '[KOR] ']","['21-12', '21-14']",XD,20170627,"Taipei, Chinese Taipei"
+65,"['Lin Chia Yu [8]', 'Wu Ti Jung', 'Hyuk Gyun Choi', 'Yoo Hae Won']","['[TPE] ', '[TPE] ', '[KOR] ', '[KOR] ']","['21-18', '5-21', '21-14']",XD,20170627,"Taipei, Chinese Taipei"
+66,"['Lee Jhe-Huei [1]', 'Lee Yang', 'Tinn Isriyanet', 'Kittisak Namdash']","['[TPE] ', '[TPE] ', '[THA] ', '[THA] ']","['21-17', '21-12']",MD,20170627,"Taipei, Chinese Taipei"
+67,"['Min Ji Lee', 'I-Ting Lai']","['[KOR] ', '[TPE] ']","['21-11', '21-15']",WS,20170627,"Taipei, Chinese Taipei"
+68,"['Tseng Min Hao', 'Ling Fang Hu', 'Maftuki Muhammad', 'Keshya Nurvita Hanadia']","['[TPE] ', '[TPE] ', '[INA] ', '[INA] ']","['21-17', '21-12']",XD,20170627,"Taipei, Chinese Taipei"
+69,"['Ko-Chi Chang', 'Liao Kuan Hao', 'Nikhar Garg', 'Ankur Sangpang Rai']","['[TPE] ', '[TPE] ', '[IND] ', '[IND] ']","['21-5', '21-8']",MD,20170627,"Taipei, Chinese Taipei"
+70,"['Xiao Min Lin', 'Wu Fang Chien', 'Chow King Ling', 'Tsang Wing Chiu Avery']","['[TPE] ', '[TPE] ', '[HKG] ', '[HKG] ']","['15-21', '21-19', '21-14']",WD,20170627,"Taipei, Chinese Taipei"
+71,"['Na Yeong Kim', 'Sai Uttejitha Rao Chukka']","['[KOR] ', '[IND] ']","['21-7', '21-17']",WS,20170627,"Taipei, Chinese Taipei"
+72,"['Sri Krishna Priya Kudaravalli', 'Chiang Mei Hui [4]']","['[IND] ', '[TPE] ']","['21-17', '20-22', '21-9']",WS,20170627,"Taipei, Chinese Taipei"
+73,"['Chung Eui Seok [5]', 'Kim Dukyoung', 'Li-Wei Po', 'Ming-Tse Yang']","['[KOR] ', '[KOR] ', '[TPE] ', '[TPE] ']","['21-13', '21-17']",MD,20170627,"Taipei, Chinese Taipei"
+74,"['Hsin Tien Chang', 'Chien Hui Yu', 'Cynthia Shara Ayunidha', 'Debora Rumate Vehrenica']","['[TPE] ', '[TPE] ', '[INA] ', '[INA] ']","['21-12', '21-11']",WD,20170627,"Taipei, Chinese Taipei"
+75,"['Akane Araki', 'Aoi Matsuda', 'Chen Hsiao Huan', 'Ting Yu Liang']","['[JPN] ', '[JPN] ', '[TPE] ', '[TPE] ']","['21-10', '21-15']",WD,20170627,"Taipei, Chinese Taipei"
+76,"['Shuo Yun Sung', 'Jennifer Tam']","['[TPE] ', '[AUS] ']","['21-5', '21-7']",WS,20170627,"Taipei, Chinese Taipei"
+77,"['Natsumi Shimoda', 'Ying Ying Lee [6]']","['[JPN] ', '[MAS] ']","['21-17', '21-18']",WS,20170627,"Taipei, Chinese Taipei"
+78,"['Lu Chia Pin', 'Yuan Cheng Wu', 'Nur Mohd Azriyn Ayub [8]', 'Jagdish Singh']","['[TPE] ', '[TPE] ', '[MAS] ', '[MAS] ']",[],MD,20170627,"Taipei, Chinese Taipei"
+79,"['Wang Chi-Lin [3]', 'Lee Chia Hsin', 'Kim Won Ho', 'Yu Rim Lee']","['[TPE] ', '[TPE] ', '[KOR] ', '[KOR] ']","['21-16', '21-14']",XD,20170627,"Taipei, Chinese Taipei"
+80,"['Hsu Jui Ting', 'Wan Ching Lin', 'Li Kuen Hon', 'Wu Yi Ting']","['[TPE] ', '[TPE] ', '[HKG] ', '[HKG] ']","['21-12', '21-19']",XD,20170627,"Taipei, Chinese Taipei"
+81,"['Yang Po-Hsuan', 'Hao Yun Wen', 'Min Hyuk Kang', 'Ha Na Baek']","['[TPE] ', '[TPE] ', '[KOR] ', '[KOR] ']","['21-19', '21-12']",XD,20170627,"Taipei, Chinese Taipei"
+82,"['Lee Wei Tzu', 'Yu Min Ju', 'Fadilla Afni', 'Sekartaji Putri']","['[TPE] ', '[TPE] ', '[INA] ', '[INA] ']","['21-10', '11-7']",WD,20170627,"Taipei, Chinese Taipei"
+83,"['Kah Ming Chooi [4]', 'Low Juan Shen', 'Chen Chung Jen', 'Hung Ying Yuan']","['[MAS] ', '[MAS] ', '[TPE] ', '[TPE] ']","['26-24', '21-10']",MD,20170627,"Taipei, Chinese Taipei"
+84,"['Lu Ching Yao [3]', 'Yang Po Han', 'Chan Tsz Kit', 'Chang Tak Ching']","['[TPE] ', '[TPE] ', '[HKG] ', '[HKG] ']","['21-13', '21-15']",MD,20170627,"Taipei, Chinese Taipei"
+85,"['Wen Chi Hsu', 'Rui Chen Yap']","['[TPE] ', '[MAS] ']","['21-18', '21-17']",WS,20170627,"Taipei, Chinese Taipei"
+86,"['Hye Rin Kim', 'Yoo Hae Won', 'Ching Hui Chang', 'Yang Ching Tun']","['[KOR] ', '[KOR] ', '[TPE] ', '[TPE] ']","['19-21', '21-10', '21-16']",WD,20170627,"Taipei, Chinese Taipei"
+87,"['Giap Chin Goh', 'Iskandar Zulkarnain [5]']","['[MAS] ', '[MAS] ']","['21-15', '18-21', '21-19']",MS,20170627,"Taipei, Chinese Taipei"
+88,"['Chu Han Chou', 'Vladimir Malkov [12]']","['[TPE] ', '[RUS] ']","['22-20', '16-17']",MS,20170627,"Taipei, Chinese Taipei"
+89,"['Lee Yang', 'Hsu Ya Ching', 'Goh Soon Huat [5]', 'Shevon Jemie Lai']","['[TPE] ', '[TPE] ', '[MAS] ', '[MAS] ']","['21-12', '21-18']",XD,20170627,"Taipei, Chinese Taipei"
+90,"['Chiang Kai Hsin', 'Hung Shih Han', 'Miho Kayama', 'Miku Yasuda']","['[TPE] ', '[TPE] ', '[JPN] ', '[JPN] ']","['21-11', '17-21', '21-10']",WD,20170627,"Taipei, Chinese Taipei"
+91,"['Chae Yoo Jung', 'Kim So Yeong', 'Chang Wen Yuan', 'Chang Yu Hsuan']","['[KOR] ', '[KOR] ', '[TPE] ', '[TPE] ']","['21-7', '21-13']",WD,20170627,"Taipei, Chinese Taipei"
+92,"['Chou Tien Chen [1]', 'Ng Zin Rei Ryan']","['[TPE] ', '[SGP] ']","['22-20', '21-11']",MS,20170627,"Taipei, Chinese Taipei"
+93,"['Lin Yu Hsien [9]', 'Chun-Wei Chen']","['[TPE] ', '[TPE] ']","['21-19', '21-16']",MS,20170627,"Taipei, Chinese Taipei"
+94,"['Danny Bawa Chrisnanta', 'Wong Jia Ying Crystal', 'Liao Kuan Hao', 'Chien Hui Yu']","['[SGP] ', '[SGP] ', '[TPE] ', '[TPE] ']","['21-18', '21-13']",XD,20170627,"Taipei, Chinese Taipei"
+95,"['Khim Wah Lim', 'Zi Heng Ooi', 'Wei Chen Liu', 'Tseng Min Hao']","['[MAS] ', '[MAS] ', '[TPE] ', '[TPE] ']","['21-17', '21-15']",MD,20170627,"Taipei, Chinese Taipei"
+96,"['Kim Ha Na', 'Hee Yong Kong', 'Yu Chieh Cheng', 'Ling Fang Hu']","['[KOR] ', '[KOR] ', '[TPE] ', '[TPE] ']","['21-16', '21-12']",WD,20170627,"Taipei, Chinese Taipei"
+97,"['Tzu Wei Wang [2]', 'Yu Leong, Alfred Lau']","['[TPE] ', '[MAS] ']","['21-17', '21-13']",MS,20170627,"Taipei, Chinese Taipei"
+98,"['Liao Min Chun [6]', 'Chen Hsiao Huan', 'Tomoya Takashina', 'Rie Etoh']","['[TPE] ', '[TPE] ', '[JPN] ', '[JPN] ']","['21-13', '21-23', '21-18']",XD,20170627,"Taipei, Chinese Taipei"
+99,"['Kim Won Ho', 'Seung Jae Seo', 'Chia-Han Lee', 'Tsai Chia Hsin']","['[KOR] ', '[KOR] ', '[TPE] ', '[TPE] ']","['21-16', '21-12']",MD,20170627,"Taipei, Chinese Taipei"
+100,"['Amir Syazwan Al Razi Mohd Shahriman Bakhtir', 'Wee Gieen Tan', 'Fang-Chih Lee', 'Fang-Jen Lee']","['[MAS] ', '[MAS] ', '[TPE] ', '[TPE] ']","['18-21', '28-26', '21-16']",MD,20170627,"Taipei, Chinese Taipei"
+101,"['Wu Yi Ting', 'Yuen Sin Ying', 'Hsuan-Yu Wendy Chen', 'Jennifer Tam']","['[HKG] ', '[HKG] ', '[AUS] ', '[AUS] ']","['21-19', '21-13']",WD,20170627,"Taipei, Chinese Taipei"
+102,"['Yin Loo Lim [3]', 'Yap Cheng Wen', 'Keshya Nurvita Hanadia', 'Devi Tika Permatasari']","['[MAS] ', '[MAS] ', '[INA] ', '[INA] ']","['24-22', '21-14']",WD,20170627,"Taipei, Chinese Taipei"
+103,"['Lee Zii Jia', 'En Chia Chang']","['[MAS] ', '[TPE] ']","['21-12', '21-11']",MS,20170627,"Taipei, Chinese Taipei"
+104,"['Min Hyuk Kang', 'Hong Sub Lee', 'Andrei Adistia', 'Jien Sern Ian Wong']","['[KOR] ', '[KOR] ', '[INA] ', '[MAS] ']","['21-8', '21-14']",MD,20170627,"Taipei, Chinese Taipei"
+105,"['Shang Kai Lin', 'Yang Po-Hsuan', 'Inkarat Apisuk', 'Viriyangkura Tanupat']","['[TPE] ', '[TPE] ', '[THA] ', '[THA] ']","['22-20', '21-17']",MD,20170627,"Taipei, Chinese Taipei"
+106,"['Choi Solgyu', 'Jae Hwan Kim', 'Kan Chao Yu', 'Chi-Hung Liao']","['[KOR] ', '[KOR] ', '[TPE] ', '[TPE] ']","['21-11', '21-12']",MD,20170627,"Taipei, Chinese Taipei"
+107,"['Hsueh Hsuan Yi [10]', 'Adulrach Namkul']","['[TPE] ', '[THA] ']","['21-17', '21-10']",MS,20170627,"Taipei, Chinese Taipei"
+108,"['Siril Verma [16]', 'Chia Hao Lee']","['[IND] ', '[TPE] ']","['16-21', '21-17', '21-17']",MS,20170627,"Taipei, Chinese Taipei"
+109,"['Liang Jui Wei', 'Yang Ching Tun', 'Hendra Tandjaya', 'Fadilla Afni']","['[TPE] ', '[TPE] ', '[INA] ', '[INA] ']","['21-8', '21-17']",XD,20170627,"Taipei, Chinese Taipei"
+110,"['Mayu Matsumoto', 'Wakana Nagahara', 'Hsu Ya Ching [2]', 'Wu Ti Jung']","['[JPN] ', '[JPN] ', '[TPE] ', '[TPE] ']","['21-17', '21-19']",WD,20170627,"Taipei, Chinese Taipei"
+111,"['Pai Yu Po', 'Chua Hui Zhen Grace']","['[TPE] ', '[SGP] ']","['21-13', '21-5']",WS,20170627,"Taipei, Chinese Taipei"
+112,"['Ha Na Baek', 'Yu Rim Lee', 'Hao Yun Wen', 'Jing Ya Ye']","['[KOR] ', '[KOR] ', '[TPE] ', '[TPE] ']","['21-14', '21-7']",WD,20170627,"Taipei, Chinese Taipei"
+113,"['Khosit Phetpradab [8]', 'Jacob Maliekal']","['[THA] ', '[RSA] ']","['21-17', '21-14']",MS,20170627,"Taipei, Chinese Taipei"
+114,"['Tinn Isriyanet', 'Pacharapun Chochuwong', 'Ko-Chi Chang [4]', 'Hsin Tien Chang']","['[THA] ', '[THA] ', '[TPE] ', '[TPE] ']","['21-18', '21-23', '21-12']",XD,20170627,"Taipei, Chinese Taipei"
+115,"['Hyuk Gyun Choi', 'Park Kyung Hoon', 'Ou Jardon', 'Tung Yuan Shang']","['[KOR] ', '[KOR] ', '[TPE] ', '[TPE] ']","['19-21', '21-17', '21-19']",MD,20170627,"Taipei, Chinese Taipei"
+116,"['Yen Mei Ho', 'Su Yu Chen [7]']","['[MAS] ', '[TPE] ']","['16-21', '21-13', '21-17']",WS,20170627,"Taipei, Chinese Taipei"
+117,"['Saena Kawakami', 'Wan Yi Tang']","['[JPN] ', '[TPE] ']","['21-17', '21-14']",WS,20170627,"Taipei, Chinese Taipei"
+118,"['Seung Hoon Woo', 'Abhishek Yelegar [15]']","['[KOR] ', '[IND] ']","['21-17', '17-21', '21-6']",MS,20170627,"Taipei, Chinese Taipei"
+119,"['Ga Eun Kim', 'Chen Hsiao Huan']","['[KOR] ', '[TPE] ']","['17-21', '21-15', '21-17']",WS,20170627,"Taipei, Chinese Taipei"
+120,"['Lee Chia Hsin [5]', 'Natsuki Nidaira']","['[TPE] ', '[JPN] ']","['21-14', '21-8']",WS,20170627,"Taipei, Chinese Taipei"
+121,"['Lee Sheng Mu', 'Lin Chia Yu', 'Trawut Potieng [7]', 'Nanthakarn Yordphaisong']","['[TPE] ', '[TPE] ', '[THA] ', '[THA] ']","['21-16', '21-23', '21-16']",MD,20170627,"Taipei, Chinese Taipei"
+122,"['Chayanit Chaladchalam', 'Phataimas Muenwong', 'Li Zi Qing', 'Teng Chun Hsun']","['[THA] ', '[THA] ', '[TPE] ', '[TPE] ']","['18-21', '21-14', '21-17']",WD,20170627,"Taipei, Chinese Taipei"
+123,"['Ha Young Woong', 'Harsheel Dani [14]']","['[KOR] ', '[IND] ']","['21-12', '21-6']",MS,20170627,"Taipei, Chinese Taipei"
+124,"['Seung Jae Seo', 'Kim Ha Na', 'Chan Peng Soon [7]', 'Cheah Yee See']","['[KOR] ', '[KOR] ', '[MAS] ', '[MAS] ']","['21-12', '19-21', '21-18']",XD,20170627,"Taipei, Chinese Taipei"
+125,"['Liao Min Chun [6]', 'Cheng Heng Su', 'Ho Wai Lun', 'Li Kuen Hon']","['[TPE] ', '[TPE] ', '[HKG] ', '[HKG] ']","['21-15', '21-18']",MD,20170627,"Taipei, Chinese Taipei"
+126,"['Chen Hung Ling [2]', 'Wang Chi-Lin', 'Jong Woo Choi', 'Hui Tae Kim']","['[TPE] ', '[TPE] ', '[KOR] ', '[KOR] ']","['21-19', '21-12']",MD,20170627,"Taipei, Chinese Taipei"
+127,"['Yeo Jia Min [8]', 'Ling Fang Hu']","['[SGP] ', '[TPE] ']","['21-19', '21-17']",WS,20170627,"Taipei, Chinese Taipei"
+128,"['Jeon Hyeok Jin [6]', 'Chia Hung Lu']","['[KOR] ', '[TPE] ']","['21-8', '21-9']",MS,20170627,"Taipei, Chinese Taipei"
+129,"['Hee Yong Kai Terry [2]', 'Tan Wei Han', 'Habibi Zulfauzi', 'Devi Tika Permatasari']","['[SGP] ', '[SGP] ', '[INA] ', '[INA] ']","['21-10', '21-12']",XD,20170627,"Taipei, Chinese Taipei"
+130,"['Hsu Ya Ching [2]', 'Debora Rumate Vehrenica']","['[TPE] ', '[INA] ']","['21-6', '21-7']",WS,20170627,"Taipei, Chinese Taipei"
+131,"['Jae Hwan Kim', 'Kim So Yeong', 'Pang Ron Hoo', 'Yen Wei Peck']","['[KOR] ', '[KOR] ', '[MAS] ', '[MAS] ']","['15-21', '21-15', '21-17']",XD,20170627,"Taipei, Chinese Taipei"
+132,"['Haruko Suzuki', 'Hsuan-Yu Wendy Chen']","['[JPN] ', '[AUS] ']","['21-18', '21-12']",WS,20170627,"Taipei, Chinese Taipei"
+133,"['Hsu Jen Hao [3]', 'Shih Kuei Chun']","['[TPE] ', '[TPE] ']","['21-13', '21-12']",MS,20170627,"Taipei, Chinese Taipei"
+134,"['Daren Liew [11]', 'Chan Yin Chak']","['[MAS] ', '[HKG] ']","['21-16', '17-21', '21-11']",MS,20170627,"Taipei, Chinese Taipei"
+135,"['Chia-Han Lee', 'Pai Yu Po', 'Hong Sub Lee', 'Hye Rin Kim']","['[TPE] ', '[TPE] ', '[KOR] ', '[KOR] ']","['21-18', '21-12']",XD,20170627,"Taipei, Chinese Taipei"
+136,"['Kuo Yu Wen', 'Tsun Yu Lin', 'Joyce Choong', 'Yea Ching Goh']","['[TPE] ', '[TPE] ', '[MAS] ', '[MAS] ']","['21-15', '18-21', '21-9']",WD,20170627,"Taipei, Chinese Taipei"
+137,"['Goh Jin Wei [3]', 'Kaori Imabeppu']","['[MAS] ', '[JPN] ']","['15-21', '21-17', '21-14']",WS,20170627,"Taipei, Chinese Taipei"
+138,"['Wei Feng Chong [7]', 'Huang Da Wei']","['[MAS] ', '[TPE] ']","['21-15', '21-17']",MS,20170627,"Taipei, Chinese Taipei"
+139,"['Suppanyu Avihingsanon [13]', 'Yu Jen Chi']","['[THA] ', '[TPE] ']","['21-17', '21-16']",MS,20170627,"Taipei, Chinese Taipei"
+140,"['Hyang Im Kim', 'Hung Yi-Ting']","['[KOR] ', '[TPE] ']","['22-20', '21-13']",WS,20170627,"Taipei, Chinese Taipei"
+141,"['Chou Tien Chen [1]', 'Chu Han Chou']","['[TPE] ', '[TPE] ']","['21-14', '21-12']",MS,20170627,"Taipei, Chinese Taipei"
+142,"['Natsumi Shimoda', 'Wen Chi Hsu']","['[JPN] ', '[TPE] ']","['18-21', '25-23', '21-12']",WS,20170627,"Taipei, Chinese Taipei"
+143,"['Tseng Min Hao', 'Ling Fang Hu', 'Lin Chia Yu [8]', 'Wu Ti Jung']","['[TPE] ', '[TPE] ', '[TPE] ', '[TPE] ']","['21-18', '21-15']",XD,20170627,"Taipei, Chinese Taipei"
+144,"['Shuo Yun Sung', 'Sri Krishna Priya Kudaravalli']","['[TPE] ', '[IND] ']","['22-20', '21-13']",WS,20170627,"Taipei, Chinese Taipei"
+145,"['Liao Min Chun [6]', 'Chen Hsiao Huan', 'Hsu Jui Ting', 'Wan Ching Lin']","['[TPE] ', '[TPE] ', '[TPE] ', '[TPE] ']","['21-11', '21-14']",XD,20170627,"Taipei, Chinese Taipei"
+146,"['Choi Solgyu [1]', 'Chae Yoo Jung', 'Lu Ching Yao', 'Chiang Kai Hsin']","['[KOR] ', '[KOR] ', '[TPE] ', '[TPE] ']","['21-15', '17-21', '21-10']",XD,20170627,"Taipei, Chinese Taipei"
+147,"['Lee Zii Jia', 'Siril Verma [16]']","['[MAS] ', '[IND] ']","['21-12', '21-16']",MS,20170627,"Taipei, Chinese Taipei"
+148,"['Tinn Isriyanet', 'Pacharapun Chochuwong', 'Liang Jui Wei', 'Yang Ching Tun']","['[THA] ', '[THA] ', '[TPE] ', '[TPE] ']","['21-16', '21-12']",XD,20170627,"Taipei, Chinese Taipei"
+149,"['Wang Chi-Lin [3]', 'Lee Chia Hsin', 'Yang Po-Hsuan', 'Hao Yun Wen']","['[TPE] ', '[TPE] ', '[TPE] ', '[TPE] ']","['21-12', '21-16']",XD,20170627,"Taipei, Chinese Taipei"
+150,"['Lin Yu Hsien [9]', 'Giap Chin Goh']","['[TPE] ', '[MAS] ']","['21-15', '21-11']",MS,20170627,"Taipei, Chinese Taipei"
+151,"['Danny Bawa Chrisnanta', 'Wong Jia Ying Crystal', 'Lee Yang', 'Hsu Ya Ching']","['[SGP] ', '[SGP] ', '[TPE] ', '[TPE] ']","['17-21', '21-17', '21-19']",XD,20170627,"Taipei, Chinese Taipei"
+152,"['Hee Yong Kai Terry [2]', 'Tan Wei Han', 'Jae Hwan Kim', 'Kim So Yeong']","['[SGP] ', '[SGP] ', '[KOR] ', '[KOR] ']","['20-22', '21-14', '21-19']",XD,20170627,"Taipei, Chinese Taipei"
+153,"['Na Yeong Kim', 'Min Ji Lee']","['[KOR] ', '[KOR] ']","['21-15', '21-17']",WS,20170627,"Taipei, Chinese Taipei"
+154,"['Suppanyu Avihingsanon [13]', 'Wei Feng Chong [7]']","['[THA] ', '[MAS] ']","['21-17', '21-9']",MS,20170627,"Taipei, Chinese Taipei"
+155,"['Yin Loo Lim [3]', 'Yap Cheng Wen', 'Wu Yi Ting', 'Yuen Sin Ying']","['[MAS] ', '[MAS] ', '[HKG] ', '[HKG] ']","['21-16', '21-17']",WD,20170627,"Taipei, Chinese Taipei"
+156,"['Khosit Phetpradab [8]', 'Seung Hoon Woo']","['[THA] ', '[KOR] ']","['5-21', '21-12', '21-10']",MS,20170627,"Taipei, Chinese Taipei"
+157,"['Haruko Suzuki', 'Yen Mei Ho']","['[JPN] ', '[MAS] ']","['21-19', '21-17']",WS,20170627,"Taipei, Chinese Taipei"
+158,"['Seung Jae Seo', 'Kim Ha Na', 'Chia-Han Lee', 'Pai Yu Po']","['[KOR] ', '[KOR] ', '[TPE] ', '[TPE] ']","['21-15', '21-18']",XD,20170627,"Taipei, Chinese Taipei"
+159,"['Lee Sheng Mu', 'Lin Chia Yu', 'Amir Syazwan Al Razi Mohd Shahriman Bakhtir', 'Wee Gieen Tan']","['[TPE] ', '[TPE] ', '[MAS] ', '[MAS] ']","['21-18', '21-8']",MD,20170627,"Taipei, Chinese Taipei"
+160,"['Goh Jin Wei [3]', 'Hyang Im Kim']","['[MAS] ', '[KOR] ']","['21-6', '21-9']",WS,20170627,"Taipei, Chinese Taipei"
+161,"['Mayu Matsumoto', 'Wakana Nagahara', 'Ha Na Baek', 'Yu Rim Lee']","['[JPN] ', '[JPN] ', '[KOR] ', '[KOR] ']","['21-8', '23-25', '23-21']",WD,20170627,"Taipei, Chinese Taipei"
+162,"['Chung Eui Seok [5]', 'Kim Dukyoung', 'Khim Wah Lim', 'Zi Heng Ooi']","['[KOR] ', '[KOR] ', '[MAS] ', '[MAS] ']","['21-19', '21-9']",MD,20170627,"Taipei, Chinese Taipei"
+163,"['Tzu Wei Wang [2]', 'Hsueh Hsuan Yi [10]']","['[TPE] ', '[TPE] ']","['21-15', '21-6']",MS,20170627,"Taipei, Chinese Taipei"
+164,"['Daren Liew [11]', 'Hsu Jen Hao [3]']","['[MAS] ', '[TPE] ']","['21-17', '21-17']",MS,20170627,"Taipei, Chinese Taipei"
+165,"['Saena Kawakami', 'Yeo Jia Min [8]']","['[JPN] ', '[SGP] ']","['21-11', '21-10']",WS,20170627,"Taipei, Chinese Taipei"
+166,"['Kah Ming Chooi [4]', 'Low Juan Shen', 'Shang Kai Lin', 'Yang Po-Hsuan']","['[MAS] ', '[MAS] ', '[TPE] ', '[TPE] ']","['21-17', '21-18']",MD,20170627,"Taipei, Chinese Taipei"
+167,"['Chae Yoo Jung', 'Kim So Yeong', 'Lee Wei Tzu', 'Yu Min Ju']","['[KOR] ', '[KOR] ', '[TPE] ', '[TPE] ']","['21-9', '21-11']",WD,20170627,"Taipei, Chinese Taipei"
+168,"['Chen Hung Ling [2]', 'Wang Chi-Lin', 'Hyuk Gyun Choi', 'Park Kyung Hoon']","['[TPE] ', '[TPE] ', '[KOR] ', '[KOR] ']","['21-11', '21-16']",MD,20170627,"Taipei, Chinese Taipei"
+169,"['Choi Solgyu', 'Jae Hwan Kim', 'Liao Min Chun [6]', 'Cheng Heng Su']","['[KOR] ', '[KOR] ', '[TPE] ', '[TPE] ']","['21-15', '22-20']",MD,20170627,"Taipei, Chinese Taipei"
+170,"['Chayanit Chaladchalam', 'Phataimas Muenwong', 'Kuo Yu Wen', 'Tsun Yu Lin']","['[THA] ', '[THA] ', '[TPE] ', '[TPE] ']","['15-21', '21-10', '21-19']",WD,20170627,"Taipei, Chinese Taipei"
+171,"['Lee Jhe-Huei [1]', 'Lee Yang', 'Ko-Chi Chang', 'Liao Kuan Hao']","['[TPE] ', '[TPE] ', '[TPE] ', '[TPE] ']","['21-14', '21-18']",MD,20170627,"Taipei, Chinese Taipei"
+172,"['Ga Eun Kim', 'Hsu Ya Ching [2]']","['[KOR] ', '[TPE] ']","['25-23', '23-21']",WS,20170627,"Taipei, Chinese Taipei"
+173,"['Akane Araki', 'Aoi Matsuda', 'Ong Ren-Ne', 'Wong Jia Ying Crystal']","['[JPN] ', '[JPN] ', '[SGP] ', '[SGP] ']","['21-17', '21-12']",WD,20170627,"Taipei, Chinese Taipei"
+174,"['Pai Yu Po', 'Lee Chia Hsin [5]']","['[TPE] ', '[TPE] ']","['13-21', '21-18', '21-16']",WS,20170627,"Taipei, Chinese Taipei"
+175,"['Hye Rin Kim', 'Yoo Hae Won', 'Chiang Kai Hsin', 'Hung Shih Han']","['[KOR] ', '[KOR] ', '[TPE] ', '[TPE] ']","['21-8', '21-12']",WD,20170627,"Taipei, Chinese Taipei"
+176,"['Lu Ching Yao [3]', 'Yang Po Han', 'Kim Won Ho', 'Seung Jae Seo']","['[TPE] ', '[TPE] ', '[KOR] ', '[KOR] ']","['15-21', '24-22', '21-19']",MD,20170627,"Taipei, Chinese Taipei"
+177,"['Lu Chia Pin', 'Yuan Cheng Wu', 'Min Hyuk Kang', 'Hong Sub Lee']","['[TPE] ', '[TPE] ', '[KOR] ', '[KOR] ']","['21-12', '14-21', '21-18']",MD,20170627,"Taipei, Chinese Taipei"
+178,"['Kim Ha Na', 'Hee Yong Kong', 'Hsin Tien Chang', 'Chien Hui Yu']","['[KOR] ', '[KOR] ', '[TPE] ', '[TPE] ']","['21-12', '21-17']",WD,20170627,"Taipei, Chinese Taipei"
+179,"['Jeon Hyeok Jin [6]', 'Ha Young Woong']","['[KOR] ', '[KOR] ']","['21-12', '21-12']",MS,20170627,"Taipei, Chinese Taipei"
+180,"['Goh Jin Wei [3]', 'Pai Yu Po']","['[MAS] ', '[TPE] ']","['21-15', '21-17']",WS ,20170627,"Taipei, Chinese Taipei"
+181,"['Chen Hung Ling [2]', 'Wang Chi-Lin', 'Lee Sheng Mu', 'Lin Chia Yu']","['[TPE] ', '[TPE] ', '[TPE] ', '[TPE] ']","['21-19', '21-9']",MD ,20170627,"Taipei, Chinese Taipei"
+182,"['Lu Ching Yao [3]', 'Yang Po Han', 'Lu Chia Pin', 'Yuan Cheng Wu']","['[TPE] ', '[TPE] ', '[TPE] ', '[TPE] ']","['21-19', '21-12']",MD ,20170627,"Taipei, Chinese Taipei"
+183,"['Chou Tien Chen [1]', 'Lin Yu Hsien [9]']","['[TPE] ', '[TPE] ']","['21-16', '21-15']",MS ,20170627,"Taipei, Chinese Taipei"
+184,"['Lee Jhe-Huei [1]', 'Lee Yang', 'Chung Eui Seok [5]', 'Kim Dukyoung']","['[TPE] ', '[TPE] ', '[KOR] ', '[KOR] ']","['22-20', '19-21', '21-13']",MD ,20170627,"Taipei, Chinese Taipei"
+185,"['Tzu Wei Wang [2]', 'Suppanyu Avihingsanon [13]']","['[TPE] ', '[THA] ']","['21-8', '19-21', '21-11']",MS ,20170627,"Taipei, Chinese Taipei"
+186,"['Mayu Matsumoto', 'Wakana Nagahara', 'Chayanit Chaladchalam', 'Phataimas Muenwong']","['[JPN] ', '[JPN] ', '[THA] ', '[THA] ']","['21-17', '20-22', '21-19']",WD ,20170627,"Taipei, Chinese Taipei"
+187,"['Tinn Isriyanet', 'Pacharapun Chochuwong', 'Liao Min Chun [6]', 'Chen Hsiao Huan']","['[THA] ', '[THA] ', '[TPE] ', '[TPE] ']","['13-21', '21-17', '21-7']",XD ,20170627,"Taipei, Chinese Taipei"
+188,"['Wang Chi-Lin [3]', 'Lee Chia Hsin', 'Danny Bawa Chrisnanta', 'Wong Jia Ying Crystal']","['[TPE] ', '[TPE] ', '[SGP] ', '[SGP] ']","['21-11', '21-16']",XD ,20170627,"Taipei, Chinese Taipei"
+189,"['Jeon Hyeok Jin [6]', 'Daren Liew [11]']","['[KOR] ', '[MAS] ']","['21-13', '18-21', '21-14']",MS ,20170627,"Taipei, Chinese Taipei"
+190,"['Kah Ming Chooi [4]', 'Low Juan Shen', 'Choi Solgyu', 'Jae Hwan Kim']","['[MAS] ', '[MAS] ', '[KOR] ', '[KOR] ']","['14-21', '22-20', '28-26']",MD ,20170627,"Taipei, Chinese Taipei"
+191,"['Hye Rin Kim', 'Yoo Hae Won', 'Akane Araki', 'Aoi Matsuda']","['[KOR] ', '[KOR] ', '[JPN] ', '[JPN] ']","['14-21', '24-22', '21-9']",WD ,20170627,"Taipei, Chinese Taipei"
+192,"['Kim Ha Na', 'Hee Yong Kong', 'Xiao Min Lin', 'Wu Fang Chien']","['[KOR] ', '[KOR] ', '[TPE] ', '[TPE] ']","['21-14', '24-22']",WD ,20170627,"Taipei, Chinese Taipei"
+193,"['Chae Yoo Jung', 'Kim So Yeong', 'Yin Loo Lim [3]', 'Yap Cheng Wen']","['[KOR] ', '[KOR] ', '[MAS] ', '[MAS] ']","['17-21', '21-12', '21-15']",WD ,20170627,"Taipei, Chinese Taipei"
+194,"['Haruko Suzuki', 'Ga Eun Kim']","['[JPN] ', '[KOR] ']","['21-8', '21-17']",WS ,20170627,"Taipei, Chinese Taipei"
+195,"['Saena Kawakami', 'Na Yeong Kim']","['[JPN] ', '[KOR] ']","['21-16', '21-11']",WS ,20170627,"Taipei, Chinese Taipei"
+196,"['Natsumi Shimoda', 'Shuo Yun Sung']","['[JPN] ', '[TPE] ']","['21-19', '21-13']",WS ,20170627,"Taipei, Chinese Taipei"
+197,"['Seung Jae Seo', 'Kim Ha Na', 'Hee Yong Kai Terry [2]', 'Tan Wei Han']","['[KOR] ', '[KOR] ', '[SGP] ', '[SGP] ']","['21-18', '18-21', '21-18']",XD ,20170627,"Taipei, Chinese Taipei"
+198,"['Lee Zii Jia', 'Khosit Phetpradab [8]']","['[MAS] ', '[THA] ']","['21-19', '21-16']",MS ,20170627,"Taipei, Chinese Taipei"
+199,"['Choi Solgyu [1]', 'Chae Yoo Jung', 'Tseng Min Hao', 'Ling Fang Hu']","['[KOR] ', '[KOR] ', '[TPE] ', '[TPE] ']","['21-13', '21-14']",XD ,20170627,"Taipei, Chinese Taipei"
+200,"['Goh Jin Wei [3]', 'Haruko Suzuki']","['[MAS] ', '[JPN] ']","['21-16', '21-17']",WS ,20170627,"Taipei, Chinese Taipei"
+201,"['Chen Hung Ling [2]', 'Wang Chi-Lin', 'Kah Ming Chooi [4]', 'Low Juan Shen']","['[TPE] ', '[TPE] ', '[MAS] ', '[MAS] ']","['21-14', '19-21', '21-13']",MD ,20170627,"Taipei, Chinese Taipei"
+202,"['Seung Jae Seo', 'Kim Ha Na', 'Tinn Isriyanet', 'Pacharapun Chochuwong']","['[KOR] ', '[KOR] ', '[THA] ', '[THA] ']","['21-13', '21-6']",XD ,20170627,"Taipei, Chinese Taipei"
+203,"['Chou Tien Chen [1]', 'Lee Zii Jia']","['[TPE] ', '[MAS] ']","['15-21', '21-10', '21-12']",MS ,20170627,"Taipei, Chinese Taipei"
+204,"['Chae Yoo Jung', 'Kim So Yeong', 'Mayu Matsumoto', 'Wakana Nagahara']","['[KOR] ', '[KOR] ', '[JPN] ', '[JPN] ']","['21-19', '21-13']",WD ,20170627,"Taipei, Chinese Taipei"
+205,"['Saena Kawakami', 'Natsumi Shimoda']","['[JPN] ', '[JPN] ']","['21-8', '21-15']",WS ,20170627,"Taipei, Chinese Taipei"
+206,"['Hye Rin Kim', 'Yoo Hae Won', 'Kim Ha Na', 'Hee Yong Kong']","['[KOR] ', '[KOR] ', '[KOR] ', '[KOR] ']","['21-12', '21-9']",WD ,20170627,"Taipei, Chinese Taipei"
+207,"['Lee Jhe-Huei [1]', 'Lee Yang', 'Lu Ching Yao [3]', 'Yang Po Han']","['[TPE] ', '[TPE] ', '[TPE] ', '[TPE] ']","['21-19', '26-24']",MD ,20170627,"Taipei, Chinese Taipei"
+208,"['Wang Chi-Lin [3]', 'Lee Chia Hsin', 'Choi Solgyu [1]', 'Chae Yoo Jung']","['[TPE] ', '[TPE] ', '[KOR] ', '[KOR] ']","['22-20', '21-11']",XD ,20170627,"Taipei, Chinese Taipei"
+209,"['Tzu Wei Wang [2]', 'Jeon Hyeok Jin [6]']","['[TPE] ', '[KOR] ']","['21-18', '21-18']",MS ,20170627,"Taipei, Chinese Taipei"
+210,"['Seung Jae Seo', 'Kim Ha Na', 'Wang Chi-Lin [3]', 'Lee Chia Hsin']","['[KOR] ', '[KOR] ', '[TPE] ', '[TPE] ']","['22-20', '21-10']",XD ,20170627,"Taipei, Chinese Taipei"
+211,"['Chae Yoo Jung', 'Kim So Yeong', 'Hye Rin Kim', 'Yoo Hae Won']","['[KOR] ', '[KOR] ', '[KOR] ', '[KOR] ']","['21-12', '21-11']",WD ,20170627,"Taipei, Chinese Taipei"
+212,"['Saena Kawakami', 'Goh Jin Wei [3]']","['[JPN] ', '[MAS] ']","['21-17', '21-17']",WS ,20170627,"Taipei, Chinese Taipei"
+213,"['Chen Hung Ling [2]', 'Wang Chi-Lin', 'Lee Jhe-Huei [1]', 'Lee Yang']","['[TPE] ', '[TPE] ', '[TPE] ', '[TPE] ']","['21-16', '22-20']",MD ,20170627,"Taipei, Chinese Taipei"
+214,"['Chou Tien Chen [1]', 'Tzu Wei Wang [2]']","['[TPE] ', '[TPE] ']","['18-21', '21-19', '21-15']",MS ,20170627,"Taipei, Chinese Taipei"

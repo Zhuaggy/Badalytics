@@ -1,211 +1,211 @@
-,PLAYERS,COUNTRIES,SCORES,EVENT,match_week
-0,"['Zhuge Lukai', 'Pan Beibei', 'Tran Ngoc Tuan Anh', 'Ho Thi Trang']","['[CHN] ', '[CHN] ', '[VIE] ', '[VIE] ']","['21-8', '21-7']",XD - Qualification,20170321
-1,"['Pham Trung Luan', 'Pham Ngoc Bich', 'Zhao Jian', 'Jiang Yujing']","['[VIE] ', '[VIE] ', '[CHN] ', '[CHN] ']","['21-17', '22-20']",XD - Qualification,20170321
-2,"['Nguyen Van Viet', 'Do Thi Hoai', 'Kuo Ching-Hung', 'Chen Hsiang Ting']","['[VIE] ', '[VIE] ', '[TPE] ', '[TPE] ']","['21-10', '21-17']",XD - Qualification,20170321
-3,"['Nguyen Hoang Anh', 'Nguyen Thi Be Tram', 'Keerati Likitanurucks', 'Nipada Punjae']","['[VIE] ', '[VIE] ', '[THA] ', '[THA] ']","['18-21', '21-13', '21-11']",XD - Qualification,20170321
-4,"['An Thanh Huy', 'Tran Thi Yen Chi', 'Nguyen Chi Duc', 'Nguyen Thi Thu Minh']","['[VIE] ', '[VIE] ', '[VIE] ', '[VIE] ']","['21-7', '21-8']",XD - Qualification,20170321
-5,"['Koji Naito', 'Saran Jamsri']","['[JPN] ', '[THA] ']","['21-23', '21-19', '21-11']",MS - Qualification,20170321
-6,"['Nguyen Xuan Manh', 'Yusriazmi Yusuf']","['[VIE] ', '[MAS] ']","['21-17', '21-12']",MS - Qualification,20170321
-7,"['Bodhit Joshi [6]', 'Nguyen Van Duc']","['[IND] ', '[VIE] ']","['21-6', '21-12']",MS - Qualification,20170321
-8,"['Fahmi Mubarok', 'Le Thanh Lam']","['[INA] ', '[VIE] ']","['23-21', '21-10']",MS - Qualification,20170321
-9,"['Lishwan Mudukasan [7]', 'Luong Tuan Huy']","['[MAS] ', '[VIE] ']","['21-14', '21-7']",MS - Qualification,20170321
-10,"['Chuang Jin Lei [8]', 'Nguyen Minh Hieu']","['[SGP] ', '[VIE] ']","['21-7', '21-6']",MS - Qualification,20170321
-11,"['Tran Quoc Viet', 'Tan Li Bin']","['[VIE] ', '[MAS] ']","['21-17', '21-17']",MS - Qualification,20170321
-12,"['Teh Jia Heng Jason', 'Nguyen Duc Giang [3]']","['[SGP] ', '[VIE] ']","['21-18', '21-11']",MS - Qualification,20170321
-13,"['An Junchen', 'Nguyen Thien Loc']","['[CHN] ', '[VIE] ']","['21-8', '21-12']",MS - Qualification,20170321
-14,"['Setthanan Piyawatcharavijit', 'Nguyen Dinh Tuan Kiet']","['[THA] ', '[VIE] ']","['21-13', '17-21', '21-17']",MS - Qualification,20170321
-15,"['Koh Jia Wei Joel', 'Ros Leonard Pedrosa']","['[SGP] ', '[PHI] ']","['21-14', '21-12']",MS - Qualification,20170321
-16,"['Liu Haichao', 'Truong Thanh Long [5]']","['[CHN] ', '[VIE] ']","['21-7', '21-15']",MS - Qualification,20170321
-17,"['Tay Jimmy, Yu Lun', 'Le Duy Nam']","['[MAS] ', '[VIE] ']","['21-15', '21-10']",MS - Qualification,20170321
-18,"['Phanuwat Srimanta [4]', 'Nguyen Thanh Son']","['[THA] ', '[VIE] ']","['21-12', '26-24']",MS - Qualification,20170321
-19,"['Peeranat Boontun', 'Nguyen Hoang Nam']","['[THA] ', '[VIE] ']","['21-10', '21-14']",MS - Qualification,20170321
-20,"['Tan Muhammad Elaf Wei', 'An Thanh Huy']","['[SGP] ', '[VIE] ']","['21-19', '21-14']",MS - Qualification,20170321
-21,"['Isra Faradilla [3]', 'Nguyen Thi Nhu Y']","['[INA] ', '[VIE] ']","['21-8', '21-8']",WS - Qualification,20170321
-22,"['Hooi Yue Yann Jaslyn', 'Dinh Thi Phuong Hong']","['[SGP] ', '[VIE] ']","['21-14', '22-20']",WS - Qualification,20170321
-23,"['Nguyen Thi Sen [1]', 'Krittaporn Jiantanet']","['[VIE] ', '[THA] ']","['21-9', '21-16']",WS - Qualification,20170321
-24,"['Manassanan Lerthattasin', 'Jiang Yujing']","['[THA] ', '[CHN] ']","['21-19', '22-24', '21-13']",WS - Qualification,20170321
-25,"['Benyapa Aimsaard', 'Yang Lan']","['[THA] ', '[CHN] ']","['22-20', '21-18']",WS - Qualification,20170321
-26,"['Nuntakarn Aimsaard [4]', 'Nguyen Thi Ngoc Thuy']","['[THA] ', '[VIE] ']","['21-10', '21-9']",WS - Qualification,20170321
-27,"['Lim Ming Hui', 'Peng Li Ting']","['[SGP] ', '[TPE] ']","['21-11', '21-12']",WS - Qualification,20170321
-28,"['Sarah Joy Barredo [2]', 'Atitaya Povanon']","['[PHI] ', '[THA] ']","['19-21', '21-16', '21-18']",WS - Qualification,20170321
-29,"['Dao Manh Thang', 'Le Ha Anh', 'Wachirawit Sothon', 'Natthapat Trinkajee']","['[VIE] ', '[VIE] ', '[THA] ', '[THA] ']","['15-21', '26-24', '21-16']",MD - Qualification,20170321
-30,"['Keiichiro Matsui', 'Masato Takano', 'Tanawat Topattanakul', 'Natchanon Tulamok']","['[JPN] ', '[JPN] ', '[THA] ', '[THA] ']","['21-8', '21-17']",MD - Qualification,20170321
-31,"['Chen Sihang', 'Shi Longfei', 'Do Van Nhan', 'Nguyen Van Viet']","['[CHN] ', '[CHN] ', '[VIE] ', '[VIE] ']","['21-8', '21-9']",MD - Qualification,20170321
-32,"['Le Van Tu', 'Luong Tuan Huy', 'Le Hoang Nhat Quang', 'Nguyen Phi Hung']","['[VIE] ', '[VIE] ', '[VIE] ', '[VIE] ']","['21-19', '21-17']",MD - Qualification,20170321
-33,"['Nguyen Hoang Anh', 'Tran Quoc Viet', 'Chen Jia Huo', 'Kwek Yee Jian']","['[VIE] ', '[VIE] ', '[MAS] ', '[MAS] ']","['21-18', '22-20']",MD - Qualification,20170321
-34,"['Lee Jian Liang', 'Wong Guang Liang Jason', 'Le Thanh Lam', 'Nguyen Xuan Manh']","['[SGP] ', '[SGP] ', '[VIE] ', '[VIE] ']","['21-15', '21-17']",MD - Qualification,20170321
-35,"['Shia Chun Kang', 'Riky Widianto', 'Mohd Nazman Mohd Salleh', 'Yusriazmi Yusuf']","['[MAS] ', '[INA] ', '[MAS] ', '[MAS] ']","['21-9', '21-12']",MD - Qualification,20170321
-36,"['Shao Jingjing', 'Xu Yingchao', 'Nguyen Thi Nhu Y', 'Vu Thi Lan']","['[CHN] ', '[CHN] ', '[VIE] ', '[VIE] ']","['21-4', '21-5']",WD - Qualification,20170321
-37,"['Dinh Thi Phuong Hong', 'Do Thi Hoai', 'Lin Fangling', 'Zhu Tianyi']","['[VIE] ', '[VIE] ', '[CHN] ', '[CHN] ']","['21-16', '21-2']",WD - Qualification,20170321
-38,"['An Thanh Huy', 'Pham Trung Luan', 'Nguyen Minh Hieu', 'Nguyen Van Duc']","['[VIE] ', '[VIE] ', '[VIE] ', '[VIE] ']","['21-11', '21-11']",MD - Qualification,20170321
-39,"['Nguyen Tien Minh [1]', 'Reksy Aureza Megananda']","['[VIE] ', '[INA] ']","['21-18', '21-17']",MS,20170321
-40,"['Koji Naito', 'Noppanai Singrueang']","['[JPN] ', '[THA] ']","['21-12', '21-6']",MS,20170321
-41,"['Shesar Hiren Rhustavito [10]', 'Hin Shun Wong']","['[INA] ', '[ENG] ']","['21-7', '21-7']",MS,20170321
-42,"['Bodhit Joshi', 'Timothy Chiu']","['[IND] ', '[CAN] ']","['21-14', '21-13']",MS,20170321
-43,"['Pannawit Thongnuam [7]', 'Tran Quoc Viet']","['[THA] ', '[VIE] ']","['21-14', '21-6']",MS,20170321
-44,"['Enzi Shafira', 'Satheishtharan R.']","['[INA] ', '[MAS] ']","['13-21', '21-18', '21-16']",MS,20170321
-45,"['Chen Chun-Wei [16]', 'Kantawat Leelavechabutr']","['[TPE] ', '[THA] ']","['21-19', '21-14']",MS,20170321
-46,"['Liu Haichao', 'Mithun Manjunath']","['[CHN] ', '[IND] ']","['21-8', '19-21', '21-16']",MS,20170321
-47,"['Suppanyu Avihingsanon [3]', 'Lim Chi Wing']","['[THA] ', '[MAS] ']","['21-14', '22-20']",MS,20170321
-48,"['Fikri Ihsandi Hadmadi [9]', 'An Junchen']","['[INA] ', '[CHN] ']","['21-18', '21-16']",MS,20170321
-49,"['Aljallad Ahmad', 'Hemanth M.Gowda']","['[SYR] ', '[IND] ']","['22-20', '21-19']",MS,20170321
-50,"['Abhishek Yelegar [8]', 'Setthanan Piyawatcharavijit']","['[IND] ', '[THA] ']","['21-17', '21-14']",MS,20170321
-51,"['Kuo Ching-Hung', 'Lishwan Mudukasan']","['[TPE] ', '[MAS] ']","['21-9', '21-15']",MS,20170321
-52,"['Chico Aura Dwi Wardoyo', 'Chong Yee Han']","['[INA] ', '[MAS] ']","['21-11', '16-21', '21-17']",MS,20170321
-53,"['Lin Chia Hsuan', 'Vega Vio Nirwanda [13]']","['[TPE] ', '[INA] ']","['21-19', '21-17']",MS,20170321
-54,"['Wisnu Yuli Prasetyo', 'Nguyen Xuan Manh']","['[INA] ', '[VIE] ']","['21-10', '21-10']",MS,20170321
-55,"['Kunlavut Vitidsarn', 'Tan Muhammad Elaf Wei']","['[THA] ', '[SGP] ']","['21-8', '21-11']",MS,20170321
-56,"['Cheam June Wei', 'Kantaphon Wangcharoen [14]']","['[MAS] ', '[THA] ']","['21-15', '15-21', '21-16']",MS,20170321
-57,"['Yang Chih Chieh', 'Dang Quang Huy']","['[TPE] ', '[VIE] ']","['21-6', '21-19']",MS,20170321
-58,"['Chuang Jin Lei', 'Jacob Maliekal [5]']","['[SGP] ', '[RSA] ']","['21-15', '21-19']",MS,20170321
-59,"['Le Duc Phat', 'Koh Jia Wei Joel']","['[VIE] ', '[SGP] ']","['21-18', '21-12']",MS,20170321
-60,"['Siril Verma [12]', 'Jaspar Woon Chai Yu']","['[IND] ', '[BRU] ']","['21-8', '21-10']",MS,20170321
-61,"['Adulrach Namkul', 'Chang En Chia']","['[THA] ', '[TPE] ']","['21-15', '21-11']",MS,20170321
-62,"['Panji Ahmad Maulana [4]', 'Peeranat Boontun']","['[INA] ', '[THA] ']","['21-19', '21-12']",MS,20170321
-63,"['Pham Cao Cuong', 'Kittipong Imnark']","['[VIE] ', '[THA] ']","['21-19', '21-16']",MS,20170321
-64,"['Krishna Adi Nugraha [11]', 'Tay Jimmy, Yu Lun']","['[INA] ', '[MAS] ']","['21-18', '21-17']",MS,20170321
-65,"['Fahmi Mubarok', 'Soh Shi Xuan Dominic']","['[INA] ', '[SGP] ']","['21-17', '19-21', '21-13']",MS,20170321
-66,"['Hsueh Hsuan Yi [6]', 'Korakrit Laotrakul']","['[TPE] ', '[THA] ']","['21-13', '21-16']",MS,20170321
-67,"['Andre Marteen', 'Phanuwat Srimanta']","['[INA] ', '[THA] ']","['19-21', '21-12', '21-9']",MS,20170321
-68,"['Ryotaro Maruo', 'Tan Chun Seang [15]']","['[JPN] ', '[MAS] ']","['19-21', '21-19', '21-16']",MS,20170321
-69,"['Mahbub Thomi Azizan', 'Chirag Sen']","['[INA] ', '[IND] ']","['21-19', '15-21', '21-14']",MS,20170321
-70,"['Khosit Phetpradab [2]', 'Teh Jia Heng Jason']","['[THA] ', '[SGP] ']","['21-10', '21-17']",MS,20170321
-71,"['Zhuge Lukai', 'Pan Beibei', 'Pham Hong Nam', 'Le Thu Huyen']","['[CHN] ', '[CHN] ', '[VIE] ', '[VIE] ']","['23-21', '21-19']",XD,20170321
-72,"['Lukhi Apri Nugroho [8]', 'Ririn Amelia', 'Mohamad Arif Abdul Latif', 'Rusydina Antardayu Riodingin']","['[INA] ', '[INA] ', '[MAS] ', '[INA] ']","['14-21', '21-14', '21-11']",XD,20170321
-73,"['Do Tuan Duc [1]', 'Pham Nhu Thao', 'Lee Jian Liang', 'Ong Ren-Ne']","['[VIE] ', '[VIE] ', '[SGP] ', '[SGP] ']","['21-17', '21-15']",XD,20170321
-74,"['Shi Longfei', 'Tang Pingyang', 'Fachryza Abimanyu', 'Bunga Fitriani Romadhini']","['[CHN] ', '[CHN] ', '[INA] ', '[INA] ']","['21-13', '21-12']",XD,20170321
-75,"['Rian Swastedian [5]', 'Masita Mahmudin', 'Lee Fang-Chih', 'Peng Li Ting']","['[INA] ', '[INA] ', '[TPE] ', '[TPE] ']","['21-5', '24-22']",XD,20170321
-76,"['Hoo Pang Ron', 'Peck Yen Wei', 'Le Hoang Nhat Quang', 'Nguyen Thi Phuong Ha']","['[MAS] ', '[MAS] ', '[VIE] ', '[VIE] ']","['21-15', '21-14']",XD,20170321
-77,"['Yantoni Edy Saputra [4]', 'Marsheilla Gischa Islami', 'An Thanh Huy', 'Tran Thi Yen Chi']","['[INA] ', '[INA] ', '[VIE] ', '[VIE] ']","['21-13', '21-15']",XD,20170321
-78,"['Tinn Isriyanet', 'Pacharapun Chochuwong', 'Chen Sihang', 'Jiang Binbin']","['[THA] ', '[THA] ', '[CHN] ', '[CHN] ']","['21-13', '21-14']",XD,20170321
-79,"['Andika Ramadiansyah', 'Mychelle Crhystine Bandaso', 'Do Van Nhan', 'Dinh Thi Phuong Hong']","['[INA] ', '[INA] ', '[VIE] ', '[VIE] ']","['21-11', '21-19']",XD,20170321
-80,"['Pham Trung Luan', 'Pham Ngoc Bich', 'Nguyen Phi Hung', 'Tran Truong Bao Vy']","['[VIE] ', '[VIE] ', '[VIE] ', '[VIE] ']","['17-21', '21-10', '21-15']",XD,20170321
-81,"['Wang Sijie', 'Ni Bowen', 'Satwiksairaj Rankireddy [3]', 'Maneesha K']","['[CHN] ', '[CHN] ', '[IND] ', '[IND] ']","['23-21', '21-8']",XD,20170321
-82,"['Lin Chia Hsuan', 'Lee Wei Tzu', 'Nguyen Hoang Anh', 'Nguyen Thi Be Tram']","['[TPE] ', '[TPE] ', '[VIE] ', '[VIE] ']","['21-13', '21-16']",XD,20170321
-83,"['Wong Guang Liang Jason', 'Putri Sari Dewi Citra', 'Low Hang Yee [7]', 'Cheah Yee See']","['[SGP] ', '[SGP] ', '[MAS] ', '[MAS] ']","['21-12', '21-17']",XD,20170321
-84,"['Alvin Morada', 'Alyssa Yasbel Leonardo', 'Parinyawat Thongnuam', 'Phataimas Muenwong']","['[PHI] ', '[PHI] ', '[THA] ', '[THA] ']","['21-18', '21-16']",XD,20170321
-85,"['Irfan Fadhilah [2]', 'Weni Anggraini', 'Nguyen Van Viet', 'Do Thi Hoai']","['[INA] ', '[INA] ', '[VIE] ', '[VIE] ']","['21-10', '21-17']",XD,20170321
-86,"['Vu Thi Trang (B) [1]', 'Nguyen Thi Sen']","['[VIE] ', '[VIE] ']","['21-13', '21-6']",WS,20170321
-87,"['Asty Dwi Widyaningrum', 'Tang Wan Yi [8]']","['[INA] ', '[TPE] ']","['21-19', '21-17']",WS,20170321
-88,"['Desandha Vegarani Putri', 'Sarah Joy Barredo']","['[INA] ', '[PHI] ']","['21-14', '21-11']",WS,20170321
-89,"['Yeo Jia Min [4]', 'Lin Ying Chun']","['[SGP] ', '[TPE] ']","['21-13', '21-11']",WS,20170321
-90,"['Maharani Sekar Batari', 'Piramon Chamnaktan']","['[INA] ', '[THA] ']","['24-22', '21-16']",WS,20170321
-91,"['Chananchida Jucharoen', 'Benyapa Aimsaard']","['[THA] ', '[THA] ']","['14-21', '21-16', '21-17']",WS,20170321
-92,"['Manassanan Lerthattasin', 'Gabriela Meilani Moningka']","['[THA] ', '[INA] ']","['18-21', '21-14', '21-10']",WS,20170321
-93,"['Nguyen Thuy Linh [6]', 'Rasika Raje']","['[VIE] ', '[IND] ']","['24-22', '21-16']",WS,20170321
-94,"['Ghaida Nurul Ghaniyu', 'Isra Faradilla']","['[INA] ', '[INA] ']","['21-18', '21-12']",WS,20170321
-95,"['Chen Su Yu [3]', 'Pattarasuda Chaiwan']","['[TPE] ', '[THA] ']","['21-13', '14-21', '21-16']",WS,20170321
-96,"['Gregoria Mariska Tunjung [5]', 'Crystal Pan']","['[INA] ', '[USA] ']","['21-12', '22-20']",WS,20170321
-97,"['Rusydina Antardayu Riodingin [7]', 'Le Thu Huyen']","['[INA] ', '[VIE] ']","['21-15', '21-13']",WS,20170321
-98,"['Nuntakarn Aimsaard', 'Olivia Chelin Maria Kambey']","['[THA] ', '[INA] ']","['21-12', '21-8']",WS,20170321
-99,"['Hung Yi-Ting', 'Lim Ming Hui']","['[TPE] ', '[SGP] ']","['20-22', '21-17', '21-14']",WS,20170321
-100,"['Sri Fatmawati', 'Hooi Yue Yann Jaslyn']","['[INA] ', '[SGP] ']","['21-18', '21-15']",WS,20170321
-101,"['Shesar Hiren Rhustavito [10]', 'Bodhit Joshi']","['[INA] ', '[IND] ']","['21-17', '21-11']",MS,20170321
-102,"['Pornpawee Chochuwong [2]', 'Tran Thi Phuong Thuy']","['[THA] ', '[VIE] ']","['21-10', '21-13']",WS,20170321
-103,"['Chen Chun-Wei [16]', 'Liu Haichao']","['[TPE] ', '[CHN] ']","['16-21', '21-17', '22-20']",MS,20170321
-104,"['Suppanyu Avihingsanon [3]', 'Kuo Ching-Hung']","['[THA] ', '[TPE] ']","['22-20', '21-10']",MS,20170321
-105,"['Fikri Ihsandi Hadmadi [9]', 'Aljallad Ahmad']","['[INA] ', '[SYR] ']","['21-17', '21-17']",MS,20170321
-106,"['Enzi Shafira', 'Pannawit Thongnuam [7]']","['[INA] ', '[THA] ']","['23-21', '21-14']",MS,20170321
-107,"['Nguyen Tien Minh [1]', 'Koji Naito']","['[VIE] ', '[JPN] ']","['23-21', '21-18']",MS,20170321
-108,"['Chico Aura Dwi Wardoyo', 'Abhishek Yelegar [8]']","['[INA] ', '[IND] ']","['21-8', '21-19']",MS,20170321
-109,"['Wisnu Yuli Prasetyo', 'Cheam June Wei']","['[INA] ', '[MAS] ']","['21-12', '21-17']",MS,20170321
-110,"['Yang Chih Chieh', 'Chuang Jin Lei']","['[TPE] ', '[SGP] ']","['21-10', '21-8']",MS,20170321
-111,"['Ong Ren-Ne', 'Wong Jia Ying Crystal', 'Nguyen Thi Sen [2]', 'Vu Thi Trang (B)']","['[SGP] ', '[SGP] ', '[VIE] ', '[VIE] ']","['21-13', '21-13']",WD,20170321
-112,"['Lin Chia Hsuan', 'Kunlavut Vitidsarn']","['[TPE] ', '[THA] ']","['13-21', '21-5', '21-6']",MS,20170321
-113,"['Siril Verma [12]', 'Le Duc Phat']","['[IND] ', '[VIE] ']","['21-15', '22-24', '21-7']",MS,20170321
-114,"['Panji Ahmad Maulana [4]', 'Adulrach Namkul']","['[INA] ', '[THA] ']","['21-11', '21-18']",MS,20170321
-115,"['Do Tuan Duc', 'Pham Hong Nam', 'Wannawat Ampunsuwan', 'Inkarat Apisuk']","['[VIE] ', '[VIE] ', '[THA] ', '[THA] ']","['22-20', '21-15']",MD,20170321
-116,"['Pham Cao Cuong', 'Krishna Adi Nugraha [11]']","['[VIE] ', '[INA] ']","['21-17', '17-21', '21-19']",MS,20170321
-117,"['Hsueh Hsuan Yi [6]', 'Fahmi Mubarok']","['[TPE] ', '[INA] ']","['22-20', '21-15']",MS,20170321
-118,"['Ryotaro Maruo', 'Andre Marteen']","['[JPN] ', '[INA] ']","['21-14', '21-17']",MS,20170321
-119,"['Khosit Phetpradab [2]', 'Mahbub Thomi Azizan']","['[THA] ', '[INA] ']","['21-19', '22-20']",MS,20170321
-120,"['Chayanit Chaladchalam [1]', 'Phataimas Muenwong', 'Hooi Yue Yann Jaslyn', 'Lim Ming Hui']","['[THA] ', '[THA] ', '[SGP] ', '[SGP] ']","['16-21', '21-15', '21-9']",WD,20170321
-121,"['Chen Szu Yu', 'Kuo Yu Wen', 'Alyssa Yasbel Leonardo', 'Thea Marie Pomar']","['[TPE] ', '[TPE] ', '[PHI] ', '[PHI] ']","['21-10', '21-13']",WD,20170321
-122,"['Lim Chiew Sien [5]', 'Teoh Mei Xing', 'Chen Hsiang Ting', 'Tai Wei-Ling']","['[MAS] ', '[MAS] ', '[TPE] ', '[TPE] ']","['21-13', '21-18']",WD,20170321
-123,"['Erina Honda', 'Nozomi Shimizu', 'Dinh Thi Phuong Hong', 'Do Thi Hoai']","['[JPN] ', '[JPN] ', '[VIE] ', '[VIE] ']","['21-16', '21-11']",WD,20170321
-124,"['Putri Sari Dewi Citra [4]', 'Jin Yujia', 'Supisara Paewsampran', 'Kwanchanok Sudjaipraparat']","['[SGP] ', '[SGP] ', '[THA] ', '[THA] ']","['21-19', '21-14']",WD,20170321
-125,"['Rahmadhani Hastiyanti Putri', 'Vania Arianti Sukoco', 'Shao Jingjing', 'Xu Yingchao']","['[INA] ', '[INA] ', '[CHN] ', '[CHN] ']","['21-18', '21-17']",WD,20170321
-126,"['Jiang Binbin', 'Tang Pingyang', 'Ho Thi Trang', 'Nguyen Thi Thu Minh']","['[CHN] ', '[CHN] ', '[VIE] ', '[VIE] ']","['21-17', '21-6']",WD,20170321
-127,"['Le Thu Huyen', 'Pham Nhu Thao', 'Benyapa Aimsaard', 'Nuntakarn Aimsaard']","['[VIE] ', '[VIE] ', '[THA] ', '[THA] ']","['21-13', '22-24', '21-13']",WD,20170321
-128,"['Ni Bowen', 'Pan Beibei', 'Hung Yi-Ting [8]', 'Lee Wei Tzu']","['[CHN] ', '[CHN] ', '[TPE] ', '[TPE] ']","['21-17', '21-17']",WD,20170321
-129,"['Weni Anggraini [7]', 'Masita Mahmudin', 'Natchpapha Chatupornkarnchana', 'Sanicha Chumnibannakarn']","['[INA] ', '[INA] ', '[THA] ', '[THA] ']","['21-14', '23-21']",WD,20170321
-130,"['Nguyen Thi Phuong Ha', 'Nguyen Thuy Linh', 'Lin Tsun Yu', 'Lin Wan Ching']","['[VIE] ', '[VIE] ', '[TPE] ', '[TPE] ']","['21-19', '21-10']",WD,20170321
-131,"['Ririn Amelia [3]', 'Cheong Anna Ching Yik', 'Ruethaichanok Laisuan', 'Supamart Mingchua']","['[INA] ', '[MAS] ', '[THA] ', '[THA] ']","['16-21', '21-18', '21-18']",WD,20170321
-132,"['Chen Su Yu', 'Tang Wan Yi', 'Pham Ngoc Bich', 'Tran Thi Yen Chi']","['[TPE] ', '[TPE] ', '[VIE] ', '[VIE] ']","['21-12', '21-10']",WD,20170321
-133,"['Joyce Choong', 'Tee Jing Yi', 'Natcha Saengchote [6]', 'Thanyasuda Wongya']","['[MAS] ', '[MAS] ', '[THA] ', '[THA] ']","['21-19', '21-19']",WD,20170321
-134,"['Pitha Haningtyas Mentari', 'Virni Putri', 'Pham Thi Khanh', 'Vu Duc Hanh']","['[INA] ', '[INA] ', '[VIE] ', '[VIE] ']","['21-13', '21-13']",WD,20170321
-135,"['Lukhi Apri Nugroho', 'Tedi Supriadi', 'Muhammad Syawal Mohd Ismail', 'Bowornwatanuwong Phutthaporn']","['[INA] ', '[INA] ', '[MAS] ', '[THA] ']","['25-23', '22-24', '21-13']",MD,20170321
-136,"['Trawut Potieng [5]', 'Nanthakarn Yordphaisong', 'Peeranat Boontun', 'Keerati Likitanurucks']","['[THA] ', '[THA] ', '[THA] ', '[THA] ']","['21-15', '18-21', '21-15']",MD,20170321
-137,"['Akbar Bintang Cahyono', 'Giovani Dicky Oktavan', 'Nguyen Hoang Anh', 'Tran Quoc Viet']","['[INA] ', '[INA] ', '[VIE] ', '[VIE] ']","['21-11', '21-7']",MD,20170321
-138,"['Shia Chun Kang', 'Riky Widianto', 'Chang En Chia', 'Liang Jui Wei']","['[MAS] ', '[INA] ', '[TPE] ', '[TPE] ']","['22-24', '21-17', '21-10']",MD,20170321
-139,"['Arjun M.R. [4]', 'Ramchandran Shlok', 'Chen Sihang', 'Shi Longfei']","['[IND] ', '[IND] ', '[CHN] ', '[CHN] ']","['21-15', '17-21', '21-19']",MD,20170321
-140,"['Nur Mohd Azriyn Ayub [8]', 'Jagdish Singh', 'Carlos Antonie Cayanan', 'Philip Joper Escueta']","['[MAS] ', '[MAS] ', '[PHI] ', '[PHI] ']","['21-16', '21-14']",MD,20170321
-141,"['Altof Barriq', 'Reinard Dhanriano', 'Dao Manh Thang', 'Le Ha Anh']","['[INA] ', '[INA] ', '[VIE] ', '[VIE] ']","['21-16', '21-15']",MD,20170321
-142,"['Yoshiki Tsukamoto', 'Shunsuke Yamamura', 'Lee Jian Liang', 'Wong Guang Liang Jason']","['[JPN] ', '[JPN] ', '[SGP] ', '[SGP] ']","['21-12', '21-14']",MD,20170321
-143,"['Satwiksairaj Rankireddy [6]', 'Chirag Shetty', 'An Junchen', 'Liu Haichao']","['[IND] ', '[IND] ', '[CHN] ', '[CHN] ']","['21-13', '21-16']",MD,20170321
-144,"['Irfan Fadhilah', 'Rian Swastedian', 'Bao Minh', 'Duong Bao Duc']","['[INA] ', '[INA] ', '[VIE] ', '[VIE] ']","['21-17', '21-16']",MD,20170321
-145,"['Keiichiro Matsui', 'Masato Takano', 'Calvin Kristanto', 'Bagas Maulana']","['[JPN] ', '[JPN] ', '[INA] ', '[INA] ']",[],MD,20170321
-146,"['Lee Jian Yi', 'Lim Zhen Ting', 'Lee Fang-Chih', 'Lee Fang-Jen']","['[MAS] ', '[MAS] ', '[TPE] ', '[TPE] ']","['21-13', '21-15']",MD,20170321
-147,"['Tinn Isriyanet [7]', 'Kittisak Namdash', 'Le Van Tu', 'Luong Tuan Huy']","['[THA] ', '[THA] ', '[VIE] ', '[VIE] ']","['21-16', '21-17']",MD,20170321
-148,"['Aaron Chia', 'Tan Jinn Hwa', 'An Thanh Huy', 'Pham Trung Luan']","['[MAS] ', '[MAS] ', '[VIE] ', '[VIE] ']","['21-13', '21-14']",MD,20170321
-149,"['Hendra Aprida Gunawan [2]', 'Markis Kido', 'Dang Quang Huy', 'Nguyen Duc Giang']","['[INA] ', '[INA] ', '[VIE] ', '[VIE] ']","['21-11', '21-16']",MD,20170321
-150,"['Nguyen Thuy Linh [6]', 'Manassanan Lerthattasin']","['[VIE] ', '[THA] ']","['21-11', '21-19']",WS,20170321
-151,"['Chen Su Yu [3]', 'Nuntakarn Aimsaard']","['[TPE] ', '[THA] ']","['21-17', '21-15']",WS,20170321
-152,"['Vu Thi Trang (B) [1]', 'Maharani Sekar Batari']","['[VIE] ', '[INA] ']","['21-14', '21-10']",WS,20170321
-153,"['Asty Dwi Widyaningrum', 'Desandha Vegarani Putri']","['[INA] ', '[INA] ']","['15-21', '21-10', '21-13']",WS,20170321
-154,"['Yeo Jia Min [4]', 'Ghaida Nurul Ghaniyu']","['[SGP] ', '[INA] ']","['21-16', '21-14']",WS,20170321
-155,"['Rusydina Antardayu Riodingin [7]', 'Chananchida Jucharoen']","['[INA] ', '[THA] ']","['21-12', '16-21', '21-14']",WS,20170321
-156,"['Hung Yi-Ting', 'Gregoria Mariska Tunjung [5]']","['[TPE] ', '[INA] ']","['21-14', '19-21', '22-20']",WS,20170321
-157,"['Pornpawee Chochuwong [2]', 'Sri Fatmawati']","['[THA] ', '[INA] ']","['21-16', '21-19']",WS,20170321
-158,"['Shi Longfei', 'Tang Pingyang', 'Do Tuan Duc [1]', 'Pham Nhu Thao']","['[CHN] ', '[CHN] ', '[VIE] ', '[VIE] ']","['21-10', '8-21', '21-16']",XD,20170321
-159,"['Zhuge Lukai', 'Pan Beibei', 'Lukhi Apri Nugroho [8]', 'Ririn Amelia']","['[CHN] ', '[CHN] ', '[INA] ', '[INA] ']","['21-19', '11-21', '21-17']",XD,20170321
-160,"['Wang Sijie', 'Ni Bowen', 'Pham Trung Luan', 'Pham Ngoc Bich']","['[CHN] ', '[CHN] ', '[VIE] ', '[VIE] ']","['21-17', '21-8']",XD,20170321
-161,"['Wong Guang Liang Jason', 'Putri Sari Dewi Citra', 'Lin Chia Hsuan', 'Lee Wei Tzu']","['[SGP] ', '[SGP] ', '[TPE] ', '[TPE] ']","['21-11', '21-16']",XD,20170321
-162,"['Rian Swastedian [5]', 'Masita Mahmudin', 'Hoo Pang Ron', 'Peck Yen Wei']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['21-18', '21-13']",XD,20170321
-163,"['Tinn Isriyanet', 'Pacharapun Chochuwong', 'Yantoni Edy Saputra [4]', 'Marsheilla Gischa Islami']","['[THA] ', '[THA] ', '[INA] ', '[INA] ']","['22-24', '21-6', '21-19']",XD,20170321
-164,"['Irfan Fadhilah [2]', 'Weni Anggraini', 'Alvin Morada', 'Alyssa Yasbel Leonardo']","['[INA] ', '[INA] ', '[PHI] ', '[PHI] ']","['22-20', '21-19']",XD,20170321
-165,"['Andika Ramadiansyah', 'Mychelle Crhystine Bandaso', 'Bimo Adi Prakoso [6]', 'Jin Yujia']","['[INA] ', '[INA] ', '[SGP] ', '[SGP] ']","['22-20', '21-16']",XD,20170321
-166,"['Nguyen Tien Minh [1]', 'Shesar Hiren Rhustavito [10]']","['[VIE] ', '[INA] ']","['21-11', '21-15']",MS,20170321
-167,"['Enzi Shafira', 'Chen Chun-Wei [16]']","['[INA] ', '[TPE] ']","['21-15', '21-19']",MS,20170321
-168,"['Suppanyu Avihingsanon [3]', 'Fikri Ihsandi Hadmadi [9]']","['[THA] ', '[INA] ']","['21-4', '22-20']",MS,20170321
-169,"['Yang Chih Chieh', 'Wisnu Yuli Prasetyo']","['[TPE] ', '[INA] ']","['14-21', '24-22', '21-18']",MS,20170321
-170,"['Panji Ahmad Maulana [4]', 'Siril Verma [12]']","['[INA] ', '[IND] ']","['21-17', '21-14']",MS,20170321
-171,"['Hsueh Hsuan Yi [6]', 'Pham Cao Cuong']","['[TPE] ', '[VIE] ']","['18-21', '21-11', '21-18']",MS,20170321
-172,"['Khosit Phetpradab [2]', 'Ryotaro Maruo']","['[THA] ', '[JPN] ']","['21-14', '21-17']",MS,20170321
-173,"['Chayanit Chaladchalam [1]', 'Phataimas Muenwong', 'Chen Szu Yu', 'Kuo Yu Wen']","['[THA] ', '[THA] ', '[TPE] ', '[TPE] ']","['20-22', '21-13', '21-19']",WD,20170321
-174,"['Lin Chia Hsuan', 'Chico Aura Dwi Wardoyo']","['[TPE] ', '[INA] ']","['21-16', '11-21', '21-17']",MS,20170321
-175,"['Erina Honda', 'Nozomi Shimizu', 'Lim Chiew Sien [5]', 'Teoh Mei Xing']","['[JPN] ', '[JPN] ', '[MAS] ', '[MAS] ']","['21-16', '21-13']",WD,20170321
-176,"['Rahmadhani Hastiyanti Putri', 'Vania Arianti Sukoco', 'Ni Bowen', 'Pan Beibei']","['[INA] ', '[INA] ', '[CHN] ', '[CHN] ']","['21-15', '15-21', '23-21']",WD,20170321
-177,"['Ririn Amelia [3]', 'Cheong Anna Ching Yik', 'Nguyen Thi Phuong Ha', 'Nguyen Thuy Linh']","['[INA] ', '[MAS] ', '[VIE] ', '[VIE] ']","['21-19', '17-21', '21-11']",WD,20170321
-178,"['Putri Sari Dewi Citra [4]', 'Jin Yujia', 'Le Thu Huyen', 'Pham Nhu Thao']","['[SGP] ', '[SGP] ', '[VIE] ', '[VIE] ']","['24-26', '21-17', '21-16']",WD,20170321
-179,"['Weni Anggraini [7]', 'Masita Mahmudin', 'Jiang Binbin', 'Tang Pingyang']","['[INA] ', '[INA] ', '[CHN] ', '[CHN] ']","['21-14', '21-19']",WD,20170321
-180,"['Joyce Choong', 'Tee Jing Yi', 'Chen Su Yu', 'Tang Wan Yi']","['[MAS] ', '[MAS] ', '[TPE] ', '[TPE] ']","['21-14', '21-8']",WD,20170321
-181,"['Pitha Haningtyas Mentari', 'Virni Putri', 'Ong Ren-Ne', 'Wong Jia Ying Crystal']","['[INA] ', '[INA] ', '[SGP] ', '[SGP] ']","['21-17', '16-21', '21-10']",WD,20170321
-182,"['Lukhi Apri Nugroho', 'Tedi Supriadi', 'Shia Chun Kang', 'Riky Widianto']","['[INA] ', '[INA] ', '[MAS] ', '[INA] ']","['17-21', '24-22', '21-19']",MD,20170321
-183,"['Trawut Potieng [5]', 'Nanthakarn Yordphaisong', 'Akbar Bintang Cahyono', 'Giovani Dicky Oktavan']","['[THA] ', '[THA] ', '[INA] ', '[INA] ']","['21-19', '21-13']",MD,20170321
-184,"['Do Tuan Duc', 'Pham Hong Nam', 'Arjun M.R. [4]', 'Ramchandran Shlok']","['[VIE] ', '[VIE] ', '[IND] ', '[IND] ']","['21-23', '21-12', '24-22']",MD,20170321
-185,"['Nur Mohd Azriyn Ayub [8]', 'Jagdish Singh', 'Altof Barriq', 'Reinard Dhanriano']","['[MAS] ', '[MAS] ', '[INA] ', '[INA] ']","['21-16', '21-15']",MD,20170321
-186,"['Satwiksairaj Rankireddy [6]', 'Chirag Shetty', 'Yoshiki Tsukamoto', 'Shunsuke Yamamura']","['[IND] ', '[IND] ', '[JPN] ', '[JPN] ']","['21-17', '21-16']",MD,20170321
-187,"['Irfan Fadhilah', 'Rian Swastedian', 'Keiichiro Matsui', 'Masato Takano']","['[INA] ', '[INA] ', '[JPN] ', '[JPN] ']","['22-20', '21-14']",MD,20170321
-188,"['Tinn Isriyanet [7]', 'Kittisak Namdash', 'Lee Jian Yi', 'Lim Zhen Ting']","['[THA] ', '[THA] ', '[MAS] ', '[MAS] ']","['22-24', '21-19', '21-19']",MD,20170321
-189,"['Hendra Aprida Gunawan [2]', 'Markis Kido', 'Aaron Chia', 'Tan Jinn Hwa']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['21-19', '10-21', '21-11']",MD,20170321
-190,"['Nguyen Thuy Linh [6]', 'Chen Su Yu [3]']","['[VIE] ', '[TPE] ']","['21-19', '21-16']",WS ,20170321
-191,"['Nguyen Tien Minh [1]', 'Enzi Shafira']","['[VIE] ', '[INA] ']","['21-19', '11-21', '21-17']",MS ,20170321
-192,"['Vu Thi Trang (B) [1]', 'Asty Dwi Widyaningrum']","['[VIE] ', '[INA] ']","['21-15', '21-14']",WS ,20170321
-193,"['Nur Mohd Azriyn Ayub [8]', 'Jagdish Singh', 'Do Tuan Duc', 'Pham Hong Nam']","['[MAS] ', '[MAS] ', '[VIE] ', '[VIE] ']","['21-12', '21-15']",MD ,20170321
-194,"['Hendra Aprida Gunawan [2]', 'Markis Kido', 'Tinn Isriyanet [7]', 'Kittisak Namdash']","['[INA] ', '[INA] ', '[THA] ', '[THA] ']","['21-17', '21-8']",MD ,20170321
-195,"['Irfan Fadhilah [2]', 'Weni Anggraini', 'Wang Sijie', 'Ni Bowen']","['[INA] ', '[INA] ', '[CHN] ', '[CHN] ']","['21-19', '21-16']",XD ,20170321
-196,"['Pornpawee Chochuwong [2]', 'Nguyen Thuy Linh [6]']","['[THA] ', '[VIE] ']","['21-14', '21-11']",WS ,20170321
-197,"['Nguyen Tien Minh [1]', 'Lin Chia Hsuan']","['[VIE] ', '[TPE] ']","['21-12', '21-12']",MS ,20170321
-198,"['Vu Thi Trang (B) [1]', 'Rusydina Antardayu Riodingin [7]']","['[VIE] ', '[INA] ']","['21-16', '21-16']",WS ,20170321
-199,"['Satwiksairaj Rankireddy [6]', 'Chirag Shetty', 'Hendra Aprida Gunawan [2]', 'Markis Kido']","['[IND] ', '[IND] ', '[INA] ', '[INA] ']","['16-21', '21-11', '21-18']",MD ,20170321
-200,"['Joyce Choong', 'Tee Jing Yi', 'Ririn Amelia [3]', 'Cheong Anna Ching Yik']","['[MAS] ', '[MAS] ', '[INA] ', '[MAS] ']","['21-13', '21-15']",WD ,20170321
-201,"['Khosit Phetpradab [2]', 'Yang Chih Chieh']","['[THA] ', '[TPE] ']","['21-16', '21-14']",MS ,20170321
-202,"['Erina Honda', 'Nozomi Shimizu', 'Rahmadhani Hastiyanti Putri', 'Vania Arianti Sukoco']","['[JPN] ', '[JPN] ', '[INA] ', '[INA] ']","['23-21', '23-21']",WD ,20170321
-203,"['Trawut Potieng [5]', 'Nanthakarn Yordphaisong', 'Nur Mohd Azriyn Ayub [8]', 'Jagdish Singh']","['[THA] ', '[THA] ', '[MAS] ', '[MAS] ']","['18-21', '21-17', '21-18']",MD ,20170321
-204,"['Shi Longfei', 'Tang Pingyang', 'Andika Ramadiansyah', 'Mychelle Crhystine Bandaso']","['[CHN] ', '[CHN] ', '[INA] ', '[INA] ']","['17-21', '23-21', '21-17']",XD ,20170321
-205,"['Satwiksairaj Rankireddy [6]', 'Chirag Shetty', 'Trawut Potieng [5]', 'Nanthakarn Yordphaisong']","['[IND] ', '[IND] ', '[THA] ', '[THA] ']","['17-21', '21-9', '21-15']",MD ,20170321
-206,"['Pornpawee Chochuwong [2]', 'Vu Thi Trang (B) [1]']","['[THA] ', '[VIE] ']","['21-16', '21-17']",WS ,20170321
-207,"['Nguyen Tien Minh [1]', 'Khosit Phetpradab [2]']","['[VIE] ', '[THA] ']","['21-14', '21-17']",MS ,20170321
-208,"['Erina Honda', 'Nozomi Shimizu', 'Joyce Choong', 'Tee Jing Yi']","['[JPN] ', '[JPN] ', '[MAS] ', '[MAS] ']","['21-14', '19-21', '21-14']",WD ,20170321
-209,"['Shi Longfei', 'Tang Pingyang', 'Irfan Fadhilah [2]', 'Weni Anggraini']","['[CHN] ', '[CHN] ', '[INA] ', '[INA] ']","['21-16', '19-21', '21-15']",XD ,20170321
+,PLAYERS,COUNTRIES,SCORES,EVENT,match_week,match_location
+0,"['Zhuge Lukai', 'Pan Beibei', 'Tran Ngoc Tuan Anh', 'Ho Thi Trang']","['[CHN] ', '[CHN] ', '[VIE] ', '[VIE] ']","['21-8', '21-7']",XD - Qualification,20170321,"Hanoi, Vietnam"
+1,"['Pham Trung Luan', 'Pham Ngoc Bich', 'Zhao Jian', 'Jiang Yujing']","['[VIE] ', '[VIE] ', '[CHN] ', '[CHN] ']","['21-17', '22-20']",XD - Qualification,20170321,"Hanoi, Vietnam"
+2,"['Nguyen Van Viet', 'Do Thi Hoai', 'Kuo Ching-Hung', 'Chen Hsiang Ting']","['[VIE] ', '[VIE] ', '[TPE] ', '[TPE] ']","['21-10', '21-17']",XD - Qualification,20170321,"Hanoi, Vietnam"
+3,"['Nguyen Hoang Anh', 'Nguyen Thi Be Tram', 'Keerati Likitanurucks', 'Nipada Punjae']","['[VIE] ', '[VIE] ', '[THA] ', '[THA] ']","['18-21', '21-13', '21-11']",XD - Qualification,20170321,"Hanoi, Vietnam"
+4,"['An Thanh Huy', 'Tran Thi Yen Chi', 'Nguyen Chi Duc', 'Nguyen Thi Thu Minh']","['[VIE] ', '[VIE] ', '[VIE] ', '[VIE] ']","['21-7', '21-8']",XD - Qualification,20170321,"Hanoi, Vietnam"
+5,"['Koji Naito', 'Saran Jamsri']","['[JPN] ', '[THA] ']","['21-23', '21-19', '21-11']",MS - Qualification,20170321,"Hanoi, Vietnam"
+6,"['Nguyen Xuan Manh', 'Yusriazmi Yusuf']","['[VIE] ', '[MAS] ']","['21-17', '21-12']",MS - Qualification,20170321,"Hanoi, Vietnam"
+7,"['Bodhit Joshi [6]', 'Nguyen Van Duc']","['[IND] ', '[VIE] ']","['21-6', '21-12']",MS - Qualification,20170321,"Hanoi, Vietnam"
+8,"['Fahmi Mubarok', 'Le Thanh Lam']","['[INA] ', '[VIE] ']","['23-21', '21-10']",MS - Qualification,20170321,"Hanoi, Vietnam"
+9,"['Lishwan Mudukasan [7]', 'Luong Tuan Huy']","['[MAS] ', '[VIE] ']","['21-14', '21-7']",MS - Qualification,20170321,"Hanoi, Vietnam"
+10,"['Chuang Jin Lei [8]', 'Nguyen Minh Hieu']","['[SGP] ', '[VIE] ']","['21-7', '21-6']",MS - Qualification,20170321,"Hanoi, Vietnam"
+11,"['Tran Quoc Viet', 'Tan Li Bin']","['[VIE] ', '[MAS] ']","['21-17', '21-17']",MS - Qualification,20170321,"Hanoi, Vietnam"
+12,"['Teh Jia Heng Jason', 'Nguyen Duc Giang [3]']","['[SGP] ', '[VIE] ']","['21-18', '21-11']",MS - Qualification,20170321,"Hanoi, Vietnam"
+13,"['An Junchen', 'Nguyen Thien Loc']","['[CHN] ', '[VIE] ']","['21-8', '21-12']",MS - Qualification,20170321,"Hanoi, Vietnam"
+14,"['Setthanan Piyawatcharavijit', 'Nguyen Dinh Tuan Kiet']","['[THA] ', '[VIE] ']","['21-13', '17-21', '21-17']",MS - Qualification,20170321,"Hanoi, Vietnam"
+15,"['Koh Jia Wei Joel', 'Ros Leonard Pedrosa']","['[SGP] ', '[PHI] ']","['21-14', '21-12']",MS - Qualification,20170321,"Hanoi, Vietnam"
+16,"['Liu Haichao', 'Truong Thanh Long [5]']","['[CHN] ', '[VIE] ']","['21-7', '21-15']",MS - Qualification,20170321,"Hanoi, Vietnam"
+17,"['Tay Jimmy, Yu Lun', 'Le Duy Nam']","['[MAS] ', '[VIE] ']","['21-15', '21-10']",MS - Qualification,20170321,"Hanoi, Vietnam"
+18,"['Phanuwat Srimanta [4]', 'Nguyen Thanh Son']","['[THA] ', '[VIE] ']","['21-12', '26-24']",MS - Qualification,20170321,"Hanoi, Vietnam"
+19,"['Peeranat Boontun', 'Nguyen Hoang Nam']","['[THA] ', '[VIE] ']","['21-10', '21-14']",MS - Qualification,20170321,"Hanoi, Vietnam"
+20,"['Tan Muhammad Elaf Wei', 'An Thanh Huy']","['[SGP] ', '[VIE] ']","['21-19', '21-14']",MS - Qualification,20170321,"Hanoi, Vietnam"
+21,"['Isra Faradilla [3]', 'Nguyen Thi Nhu Y']","['[INA] ', '[VIE] ']","['21-8', '21-8']",WS - Qualification,20170321,"Hanoi, Vietnam"
+22,"['Hooi Yue Yann Jaslyn', 'Dinh Thi Phuong Hong']","['[SGP] ', '[VIE] ']","['21-14', '22-20']",WS - Qualification,20170321,"Hanoi, Vietnam"
+23,"['Nguyen Thi Sen [1]', 'Krittaporn Jiantanet']","['[VIE] ', '[THA] ']","['21-9', '21-16']",WS - Qualification,20170321,"Hanoi, Vietnam"
+24,"['Manassanan Lerthattasin', 'Jiang Yujing']","['[THA] ', '[CHN] ']","['21-19', '22-24', '21-13']",WS - Qualification,20170321,"Hanoi, Vietnam"
+25,"['Benyapa Aimsaard', 'Yang Lan']","['[THA] ', '[CHN] ']","['22-20', '21-18']",WS - Qualification,20170321,"Hanoi, Vietnam"
+26,"['Nuntakarn Aimsaard [4]', 'Nguyen Thi Ngoc Thuy']","['[THA] ', '[VIE] ']","['21-10', '21-9']",WS - Qualification,20170321,"Hanoi, Vietnam"
+27,"['Lim Ming Hui', 'Peng Li Ting']","['[SGP] ', '[TPE] ']","['21-11', '21-12']",WS - Qualification,20170321,"Hanoi, Vietnam"
+28,"['Sarah Joy Barredo [2]', 'Atitaya Povanon']","['[PHI] ', '[THA] ']","['19-21', '21-16', '21-18']",WS - Qualification,20170321,"Hanoi, Vietnam"
+29,"['Dao Manh Thang', 'Le Ha Anh', 'Wachirawit Sothon', 'Natthapat Trinkajee']","['[VIE] ', '[VIE] ', '[THA] ', '[THA] ']","['15-21', '26-24', '21-16']",MD - Qualification,20170321,"Hanoi, Vietnam"
+30,"['Keiichiro Matsui', 'Masato Takano', 'Tanawat Topattanakul', 'Natchanon Tulamok']","['[JPN] ', '[JPN] ', '[THA] ', '[THA] ']","['21-8', '21-17']",MD - Qualification,20170321,"Hanoi, Vietnam"
+31,"['Chen Sihang', 'Shi Longfei', 'Do Van Nhan', 'Nguyen Van Viet']","['[CHN] ', '[CHN] ', '[VIE] ', '[VIE] ']","['21-8', '21-9']",MD - Qualification,20170321,"Hanoi, Vietnam"
+32,"['Le Van Tu', 'Luong Tuan Huy', 'Le Hoang Nhat Quang', 'Nguyen Phi Hung']","['[VIE] ', '[VIE] ', '[VIE] ', '[VIE] ']","['21-19', '21-17']",MD - Qualification,20170321,"Hanoi, Vietnam"
+33,"['Nguyen Hoang Anh', 'Tran Quoc Viet', 'Chen Jia Huo', 'Kwek Yee Jian']","['[VIE] ', '[VIE] ', '[MAS] ', '[MAS] ']","['21-18', '22-20']",MD - Qualification,20170321,"Hanoi, Vietnam"
+34,"['Lee Jian Liang', 'Wong Guang Liang Jason', 'Le Thanh Lam', 'Nguyen Xuan Manh']","['[SGP] ', '[SGP] ', '[VIE] ', '[VIE] ']","['21-15', '21-17']",MD - Qualification,20170321,"Hanoi, Vietnam"
+35,"['Shia Chun Kang', 'Riky Widianto', 'Mohd Nazman Mohd Salleh', 'Yusriazmi Yusuf']","['[MAS] ', '[INA] ', '[MAS] ', '[MAS] ']","['21-9', '21-12']",MD - Qualification,20170321,"Hanoi, Vietnam"
+36,"['Shao Jingjing', 'Xu Yingchao', 'Nguyen Thi Nhu Y', 'Vu Thi Lan']","['[CHN] ', '[CHN] ', '[VIE] ', '[VIE] ']","['21-4', '21-5']",WD - Qualification,20170321,"Hanoi, Vietnam"
+37,"['Dinh Thi Phuong Hong', 'Do Thi Hoai', 'Lin Fangling', 'Zhu Tianyi']","['[VIE] ', '[VIE] ', '[CHN] ', '[CHN] ']","['21-16', '21-2']",WD - Qualification,20170321,"Hanoi, Vietnam"
+38,"['An Thanh Huy', 'Pham Trung Luan', 'Nguyen Minh Hieu', 'Nguyen Van Duc']","['[VIE] ', '[VIE] ', '[VIE] ', '[VIE] ']","['21-11', '21-11']",MD - Qualification,20170321,"Hanoi, Vietnam"
+39,"['Nguyen Tien Minh [1]', 'Reksy Aureza Megananda']","['[VIE] ', '[INA] ']","['21-18', '21-17']",MS,20170321,"Hanoi, Vietnam"
+40,"['Koji Naito', 'Noppanai Singrueang']","['[JPN] ', '[THA] ']","['21-12', '21-6']",MS,20170321,"Hanoi, Vietnam"
+41,"['Shesar Hiren Rhustavito [10]', 'Hin Shun Wong']","['[INA] ', '[ENG] ']","['21-7', '21-7']",MS,20170321,"Hanoi, Vietnam"
+42,"['Bodhit Joshi', 'Timothy Chiu']","['[IND] ', '[CAN] ']","['21-14', '21-13']",MS,20170321,"Hanoi, Vietnam"
+43,"['Pannawit Thongnuam [7]', 'Tran Quoc Viet']","['[THA] ', '[VIE] ']","['21-14', '21-6']",MS,20170321,"Hanoi, Vietnam"
+44,"['Enzi Shafira', 'Satheishtharan R.']","['[INA] ', '[MAS] ']","['13-21', '21-18', '21-16']",MS,20170321,"Hanoi, Vietnam"
+45,"['Chen Chun-Wei [16]', 'Kantawat Leelavechabutr']","['[TPE] ', '[THA] ']","['21-19', '21-14']",MS,20170321,"Hanoi, Vietnam"
+46,"['Liu Haichao', 'Mithun Manjunath']","['[CHN] ', '[IND] ']","['21-8', '19-21', '21-16']",MS,20170321,"Hanoi, Vietnam"
+47,"['Suppanyu Avihingsanon [3]', 'Lim Chi Wing']","['[THA] ', '[MAS] ']","['21-14', '22-20']",MS,20170321,"Hanoi, Vietnam"
+48,"['Fikri Ihsandi Hadmadi [9]', 'An Junchen']","['[INA] ', '[CHN] ']","['21-18', '21-16']",MS,20170321,"Hanoi, Vietnam"
+49,"['Aljallad Ahmad', 'Hemanth M.Gowda']","['[SYR] ', '[IND] ']","['22-20', '21-19']",MS,20170321,"Hanoi, Vietnam"
+50,"['Abhishek Yelegar [8]', 'Setthanan Piyawatcharavijit']","['[IND] ', '[THA] ']","['21-17', '21-14']",MS,20170321,"Hanoi, Vietnam"
+51,"['Kuo Ching-Hung', 'Lishwan Mudukasan']","['[TPE] ', '[MAS] ']","['21-9', '21-15']",MS,20170321,"Hanoi, Vietnam"
+52,"['Chico Aura Dwi Wardoyo', 'Chong Yee Han']","['[INA] ', '[MAS] ']","['21-11', '16-21', '21-17']",MS,20170321,"Hanoi, Vietnam"
+53,"['Lin Chia Hsuan', 'Vega Vio Nirwanda [13]']","['[TPE] ', '[INA] ']","['21-19', '21-17']",MS,20170321,"Hanoi, Vietnam"
+54,"['Wisnu Yuli Prasetyo', 'Nguyen Xuan Manh']","['[INA] ', '[VIE] ']","['21-10', '21-10']",MS,20170321,"Hanoi, Vietnam"
+55,"['Kunlavut Vitidsarn', 'Tan Muhammad Elaf Wei']","['[THA] ', '[SGP] ']","['21-8', '21-11']",MS,20170321,"Hanoi, Vietnam"
+56,"['Cheam June Wei', 'Kantaphon Wangcharoen [14]']","['[MAS] ', '[THA] ']","['21-15', '15-21', '21-16']",MS,20170321,"Hanoi, Vietnam"
+57,"['Yang Chih Chieh', 'Dang Quang Huy']","['[TPE] ', '[VIE] ']","['21-6', '21-19']",MS,20170321,"Hanoi, Vietnam"
+58,"['Chuang Jin Lei', 'Jacob Maliekal [5]']","['[SGP] ', '[RSA] ']","['21-15', '21-19']",MS,20170321,"Hanoi, Vietnam"
+59,"['Le Duc Phat', 'Koh Jia Wei Joel']","['[VIE] ', '[SGP] ']","['21-18', '21-12']",MS,20170321,"Hanoi, Vietnam"
+60,"['Siril Verma [12]', 'Jaspar Woon Chai Yu']","['[IND] ', '[BRU] ']","['21-8', '21-10']",MS,20170321,"Hanoi, Vietnam"
+61,"['Adulrach Namkul', 'Chang En Chia']","['[THA] ', '[TPE] ']","['21-15', '21-11']",MS,20170321,"Hanoi, Vietnam"
+62,"['Panji Ahmad Maulana [4]', 'Peeranat Boontun']","['[INA] ', '[THA] ']","['21-19', '21-12']",MS,20170321,"Hanoi, Vietnam"
+63,"['Pham Cao Cuong', 'Kittipong Imnark']","['[VIE] ', '[THA] ']","['21-19', '21-16']",MS,20170321,"Hanoi, Vietnam"
+64,"['Krishna Adi Nugraha [11]', 'Tay Jimmy, Yu Lun']","['[INA] ', '[MAS] ']","['21-18', '21-17']",MS,20170321,"Hanoi, Vietnam"
+65,"['Fahmi Mubarok', 'Soh Shi Xuan Dominic']","['[INA] ', '[SGP] ']","['21-17', '19-21', '21-13']",MS,20170321,"Hanoi, Vietnam"
+66,"['Hsueh Hsuan Yi [6]', 'Korakrit Laotrakul']","['[TPE] ', '[THA] ']","['21-13', '21-16']",MS,20170321,"Hanoi, Vietnam"
+67,"['Andre Marteen', 'Phanuwat Srimanta']","['[INA] ', '[THA] ']","['19-21', '21-12', '21-9']",MS,20170321,"Hanoi, Vietnam"
+68,"['Ryotaro Maruo', 'Tan Chun Seang [15]']","['[JPN] ', '[MAS] ']","['19-21', '21-19', '21-16']",MS,20170321,"Hanoi, Vietnam"
+69,"['Mahbub Thomi Azizan', 'Chirag Sen']","['[INA] ', '[IND] ']","['21-19', '15-21', '21-14']",MS,20170321,"Hanoi, Vietnam"
+70,"['Khosit Phetpradab [2]', 'Teh Jia Heng Jason']","['[THA] ', '[SGP] ']","['21-10', '21-17']",MS,20170321,"Hanoi, Vietnam"
+71,"['Zhuge Lukai', 'Pan Beibei', 'Pham Hong Nam', 'Le Thu Huyen']","['[CHN] ', '[CHN] ', '[VIE] ', '[VIE] ']","['23-21', '21-19']",XD,20170321,"Hanoi, Vietnam"
+72,"['Lukhi Apri Nugroho [8]', 'Ririn Amelia', 'Mohamad Arif Abdul Latif', 'Rusydina Antardayu Riodingin']","['[INA] ', '[INA] ', '[MAS] ', '[INA] ']","['14-21', '21-14', '21-11']",XD,20170321,"Hanoi, Vietnam"
+73,"['Do Tuan Duc [1]', 'Pham Nhu Thao', 'Lee Jian Liang', 'Ong Ren-Ne']","['[VIE] ', '[VIE] ', '[SGP] ', '[SGP] ']","['21-17', '21-15']",XD,20170321,"Hanoi, Vietnam"
+74,"['Shi Longfei', 'Tang Pingyang', 'Fachryza Abimanyu', 'Bunga Fitriani Romadhini']","['[CHN] ', '[CHN] ', '[INA] ', '[INA] ']","['21-13', '21-12']",XD,20170321,"Hanoi, Vietnam"
+75,"['Rian Swastedian [5]', 'Masita Mahmudin', 'Lee Fang-Chih', 'Peng Li Ting']","['[INA] ', '[INA] ', '[TPE] ', '[TPE] ']","['21-5', '24-22']",XD,20170321,"Hanoi, Vietnam"
+76,"['Hoo Pang Ron', 'Peck Yen Wei', 'Le Hoang Nhat Quang', 'Nguyen Thi Phuong Ha']","['[MAS] ', '[MAS] ', '[VIE] ', '[VIE] ']","['21-15', '21-14']",XD,20170321,"Hanoi, Vietnam"
+77,"['Yantoni Edy Saputra [4]', 'Marsheilla Gischa Islami', 'An Thanh Huy', 'Tran Thi Yen Chi']","['[INA] ', '[INA] ', '[VIE] ', '[VIE] ']","['21-13', '21-15']",XD,20170321,"Hanoi, Vietnam"
+78,"['Tinn Isriyanet', 'Pacharapun Chochuwong', 'Chen Sihang', 'Jiang Binbin']","['[THA] ', '[THA] ', '[CHN] ', '[CHN] ']","['21-13', '21-14']",XD,20170321,"Hanoi, Vietnam"
+79,"['Andika Ramadiansyah', 'Mychelle Crhystine Bandaso', 'Do Van Nhan', 'Dinh Thi Phuong Hong']","['[INA] ', '[INA] ', '[VIE] ', '[VIE] ']","['21-11', '21-19']",XD,20170321,"Hanoi, Vietnam"
+80,"['Pham Trung Luan', 'Pham Ngoc Bich', 'Nguyen Phi Hung', 'Tran Truong Bao Vy']","['[VIE] ', '[VIE] ', '[VIE] ', '[VIE] ']","['17-21', '21-10', '21-15']",XD,20170321,"Hanoi, Vietnam"
+81,"['Wang Sijie', 'Ni Bowen', 'Satwiksairaj Rankireddy [3]', 'Maneesha K']","['[CHN] ', '[CHN] ', '[IND] ', '[IND] ']","['23-21', '21-8']",XD,20170321,"Hanoi, Vietnam"
+82,"['Lin Chia Hsuan', 'Lee Wei Tzu', 'Nguyen Hoang Anh', 'Nguyen Thi Be Tram']","['[TPE] ', '[TPE] ', '[VIE] ', '[VIE] ']","['21-13', '21-16']",XD,20170321,"Hanoi, Vietnam"
+83,"['Wong Guang Liang Jason', 'Putri Sari Dewi Citra', 'Low Hang Yee [7]', 'Cheah Yee See']","['[SGP] ', '[SGP] ', '[MAS] ', '[MAS] ']","['21-12', '21-17']",XD,20170321,"Hanoi, Vietnam"
+84,"['Alvin Morada', 'Alyssa Yasbel Leonardo', 'Parinyawat Thongnuam', 'Phataimas Muenwong']","['[PHI] ', '[PHI] ', '[THA] ', '[THA] ']","['21-18', '21-16']",XD,20170321,"Hanoi, Vietnam"
+85,"['Irfan Fadhilah [2]', 'Weni Anggraini', 'Nguyen Van Viet', 'Do Thi Hoai']","['[INA] ', '[INA] ', '[VIE] ', '[VIE] ']","['21-10', '21-17']",XD,20170321,"Hanoi, Vietnam"
+86,"['Vu Thi Trang (B) [1]', 'Nguyen Thi Sen']","['[VIE] ', '[VIE] ']","['21-13', '21-6']",WS,20170321,"Hanoi, Vietnam"
+87,"['Asty Dwi Widyaningrum', 'Tang Wan Yi [8]']","['[INA] ', '[TPE] ']","['21-19', '21-17']",WS,20170321,"Hanoi, Vietnam"
+88,"['Desandha Vegarani Putri', 'Sarah Joy Barredo']","['[INA] ', '[PHI] ']","['21-14', '21-11']",WS,20170321,"Hanoi, Vietnam"
+89,"['Yeo Jia Min [4]', 'Lin Ying Chun']","['[SGP] ', '[TPE] ']","['21-13', '21-11']",WS,20170321,"Hanoi, Vietnam"
+90,"['Maharani Sekar Batari', 'Piramon Chamnaktan']","['[INA] ', '[THA] ']","['24-22', '21-16']",WS,20170321,"Hanoi, Vietnam"
+91,"['Chananchida Jucharoen', 'Benyapa Aimsaard']","['[THA] ', '[THA] ']","['14-21', '21-16', '21-17']",WS,20170321,"Hanoi, Vietnam"
+92,"['Manassanan Lerthattasin', 'Gabriela Meilani Moningka']","['[THA] ', '[INA] ']","['18-21', '21-14', '21-10']",WS,20170321,"Hanoi, Vietnam"
+93,"['Nguyen Thuy Linh [6]', 'Rasika Raje']","['[VIE] ', '[IND] ']","['24-22', '21-16']",WS,20170321,"Hanoi, Vietnam"
+94,"['Ghaida Nurul Ghaniyu', 'Isra Faradilla']","['[INA] ', '[INA] ']","['21-18', '21-12']",WS,20170321,"Hanoi, Vietnam"
+95,"['Chen Su Yu [3]', 'Pattarasuda Chaiwan']","['[TPE] ', '[THA] ']","['21-13', '14-21', '21-16']",WS,20170321,"Hanoi, Vietnam"
+96,"['Gregoria Mariska Tunjung [5]', 'Crystal Pan']","['[INA] ', '[USA] ']","['21-12', '22-20']",WS,20170321,"Hanoi, Vietnam"
+97,"['Rusydina Antardayu Riodingin [7]', 'Le Thu Huyen']","['[INA] ', '[VIE] ']","['21-15', '21-13']",WS,20170321,"Hanoi, Vietnam"
+98,"['Nuntakarn Aimsaard', 'Olivia Chelin Maria Kambey']","['[THA] ', '[INA] ']","['21-12', '21-8']",WS,20170321,"Hanoi, Vietnam"
+99,"['Hung Yi-Ting', 'Lim Ming Hui']","['[TPE] ', '[SGP] ']","['20-22', '21-17', '21-14']",WS,20170321,"Hanoi, Vietnam"
+100,"['Sri Fatmawati', 'Hooi Yue Yann Jaslyn']","['[INA] ', '[SGP] ']","['21-18', '21-15']",WS,20170321,"Hanoi, Vietnam"
+101,"['Shesar Hiren Rhustavito [10]', 'Bodhit Joshi']","['[INA] ', '[IND] ']","['21-17', '21-11']",MS,20170321,"Hanoi, Vietnam"
+102,"['Pornpawee Chochuwong [2]', 'Tran Thi Phuong Thuy']","['[THA] ', '[VIE] ']","['21-10', '21-13']",WS,20170321,"Hanoi, Vietnam"
+103,"['Chen Chun-Wei [16]', 'Liu Haichao']","['[TPE] ', '[CHN] ']","['16-21', '21-17', '22-20']",MS,20170321,"Hanoi, Vietnam"
+104,"['Suppanyu Avihingsanon [3]', 'Kuo Ching-Hung']","['[THA] ', '[TPE] ']","['22-20', '21-10']",MS,20170321,"Hanoi, Vietnam"
+105,"['Fikri Ihsandi Hadmadi [9]', 'Aljallad Ahmad']","['[INA] ', '[SYR] ']","['21-17', '21-17']",MS,20170321,"Hanoi, Vietnam"
+106,"['Enzi Shafira', 'Pannawit Thongnuam [7]']","['[INA] ', '[THA] ']","['23-21', '21-14']",MS,20170321,"Hanoi, Vietnam"
+107,"['Nguyen Tien Minh [1]', 'Koji Naito']","['[VIE] ', '[JPN] ']","['23-21', '21-18']",MS,20170321,"Hanoi, Vietnam"
+108,"['Chico Aura Dwi Wardoyo', 'Abhishek Yelegar [8]']","['[INA] ', '[IND] ']","['21-8', '21-19']",MS,20170321,"Hanoi, Vietnam"
+109,"['Wisnu Yuli Prasetyo', 'Cheam June Wei']","['[INA] ', '[MAS] ']","['21-12', '21-17']",MS,20170321,"Hanoi, Vietnam"
+110,"['Yang Chih Chieh', 'Chuang Jin Lei']","['[TPE] ', '[SGP] ']","['21-10', '21-8']",MS,20170321,"Hanoi, Vietnam"
+111,"['Ong Ren-Ne', 'Wong Jia Ying Crystal', 'Nguyen Thi Sen [2]', 'Vu Thi Trang (B)']","['[SGP] ', '[SGP] ', '[VIE] ', '[VIE] ']","['21-13', '21-13']",WD,20170321,"Hanoi, Vietnam"
+112,"['Lin Chia Hsuan', 'Kunlavut Vitidsarn']","['[TPE] ', '[THA] ']","['13-21', '21-5', '21-6']",MS,20170321,"Hanoi, Vietnam"
+113,"['Siril Verma [12]', 'Le Duc Phat']","['[IND] ', '[VIE] ']","['21-15', '22-24', '21-7']",MS,20170321,"Hanoi, Vietnam"
+114,"['Panji Ahmad Maulana [4]', 'Adulrach Namkul']","['[INA] ', '[THA] ']","['21-11', '21-18']",MS,20170321,"Hanoi, Vietnam"
+115,"['Do Tuan Duc', 'Pham Hong Nam', 'Wannawat Ampunsuwan', 'Inkarat Apisuk']","['[VIE] ', '[VIE] ', '[THA] ', '[THA] ']","['22-20', '21-15']",MD,20170321,"Hanoi, Vietnam"
+116,"['Pham Cao Cuong', 'Krishna Adi Nugraha [11]']","['[VIE] ', '[INA] ']","['21-17', '17-21', '21-19']",MS,20170321,"Hanoi, Vietnam"
+117,"['Hsueh Hsuan Yi [6]', 'Fahmi Mubarok']","['[TPE] ', '[INA] ']","['22-20', '21-15']",MS,20170321,"Hanoi, Vietnam"
+118,"['Ryotaro Maruo', 'Andre Marteen']","['[JPN] ', '[INA] ']","['21-14', '21-17']",MS,20170321,"Hanoi, Vietnam"
+119,"['Khosit Phetpradab [2]', 'Mahbub Thomi Azizan']","['[THA] ', '[INA] ']","['21-19', '22-20']",MS,20170321,"Hanoi, Vietnam"
+120,"['Chayanit Chaladchalam [1]', 'Phataimas Muenwong', 'Hooi Yue Yann Jaslyn', 'Lim Ming Hui']","['[THA] ', '[THA] ', '[SGP] ', '[SGP] ']","['16-21', '21-15', '21-9']",WD,20170321,"Hanoi, Vietnam"
+121,"['Chen Szu Yu', 'Kuo Yu Wen', 'Alyssa Yasbel Leonardo', 'Thea Marie Pomar']","['[TPE] ', '[TPE] ', '[PHI] ', '[PHI] ']","['21-10', '21-13']",WD,20170321,"Hanoi, Vietnam"
+122,"['Lim Chiew Sien [5]', 'Teoh Mei Xing', 'Chen Hsiang Ting', 'Tai Wei-Ling']","['[MAS] ', '[MAS] ', '[TPE] ', '[TPE] ']","['21-13', '21-18']",WD,20170321,"Hanoi, Vietnam"
+123,"['Erina Honda', 'Nozomi Shimizu', 'Dinh Thi Phuong Hong', 'Do Thi Hoai']","['[JPN] ', '[JPN] ', '[VIE] ', '[VIE] ']","['21-16', '21-11']",WD,20170321,"Hanoi, Vietnam"
+124,"['Putri Sari Dewi Citra [4]', 'Jin Yujia', 'Supisara Paewsampran', 'Kwanchanok Sudjaipraparat']","['[SGP] ', '[SGP] ', '[THA] ', '[THA] ']","['21-19', '21-14']",WD,20170321,"Hanoi, Vietnam"
+125,"['Rahmadhani Hastiyanti Putri', 'Vania Arianti Sukoco', 'Shao Jingjing', 'Xu Yingchao']","['[INA] ', '[INA] ', '[CHN] ', '[CHN] ']","['21-18', '21-17']",WD,20170321,"Hanoi, Vietnam"
+126,"['Jiang Binbin', 'Tang Pingyang', 'Ho Thi Trang', 'Nguyen Thi Thu Minh']","['[CHN] ', '[CHN] ', '[VIE] ', '[VIE] ']","['21-17', '21-6']",WD,20170321,"Hanoi, Vietnam"
+127,"['Le Thu Huyen', 'Pham Nhu Thao', 'Benyapa Aimsaard', 'Nuntakarn Aimsaard']","['[VIE] ', '[VIE] ', '[THA] ', '[THA] ']","['21-13', '22-24', '21-13']",WD,20170321,"Hanoi, Vietnam"
+128,"['Ni Bowen', 'Pan Beibei', 'Hung Yi-Ting [8]', 'Lee Wei Tzu']","['[CHN] ', '[CHN] ', '[TPE] ', '[TPE] ']","['21-17', '21-17']",WD,20170321,"Hanoi, Vietnam"
+129,"['Weni Anggraini [7]', 'Masita Mahmudin', 'Natchpapha Chatupornkarnchana', 'Sanicha Chumnibannakarn']","['[INA] ', '[INA] ', '[THA] ', '[THA] ']","['21-14', '23-21']",WD,20170321,"Hanoi, Vietnam"
+130,"['Nguyen Thi Phuong Ha', 'Nguyen Thuy Linh', 'Lin Tsun Yu', 'Lin Wan Ching']","['[VIE] ', '[VIE] ', '[TPE] ', '[TPE] ']","['21-19', '21-10']",WD,20170321,"Hanoi, Vietnam"
+131,"['Ririn Amelia [3]', 'Cheong Anna Ching Yik', 'Ruethaichanok Laisuan', 'Supamart Mingchua']","['[INA] ', '[MAS] ', '[THA] ', '[THA] ']","['16-21', '21-18', '21-18']",WD,20170321,"Hanoi, Vietnam"
+132,"['Chen Su Yu', 'Tang Wan Yi', 'Pham Ngoc Bich', 'Tran Thi Yen Chi']","['[TPE] ', '[TPE] ', '[VIE] ', '[VIE] ']","['21-12', '21-10']",WD,20170321,"Hanoi, Vietnam"
+133,"['Joyce Choong', 'Tee Jing Yi', 'Natcha Saengchote [6]', 'Thanyasuda Wongya']","['[MAS] ', '[MAS] ', '[THA] ', '[THA] ']","['21-19', '21-19']",WD,20170321,"Hanoi, Vietnam"
+134,"['Pitha Haningtyas Mentari', 'Virni Putri', 'Pham Thi Khanh', 'Vu Duc Hanh']","['[INA] ', '[INA] ', '[VIE] ', '[VIE] ']","['21-13', '21-13']",WD,20170321,"Hanoi, Vietnam"
+135,"['Lukhi Apri Nugroho', 'Tedi Supriadi', 'Muhammad Syawal Mohd Ismail', 'Bowornwatanuwong Phutthaporn']","['[INA] ', '[INA] ', '[MAS] ', '[THA] ']","['25-23', '22-24', '21-13']",MD,20170321,"Hanoi, Vietnam"
+136,"['Trawut Potieng [5]', 'Nanthakarn Yordphaisong', 'Peeranat Boontun', 'Keerati Likitanurucks']","['[THA] ', '[THA] ', '[THA] ', '[THA] ']","['21-15', '18-21', '21-15']",MD,20170321,"Hanoi, Vietnam"
+137,"['Akbar Bintang Cahyono', 'Giovani Dicky Oktavan', 'Nguyen Hoang Anh', 'Tran Quoc Viet']","['[INA] ', '[INA] ', '[VIE] ', '[VIE] ']","['21-11', '21-7']",MD,20170321,"Hanoi, Vietnam"
+138,"['Shia Chun Kang', 'Riky Widianto', 'Chang En Chia', 'Liang Jui Wei']","['[MAS] ', '[INA] ', '[TPE] ', '[TPE] ']","['22-24', '21-17', '21-10']",MD,20170321,"Hanoi, Vietnam"
+139,"['Arjun M.R. [4]', 'Ramchandran Shlok', 'Chen Sihang', 'Shi Longfei']","['[IND] ', '[IND] ', '[CHN] ', '[CHN] ']","['21-15', '17-21', '21-19']",MD,20170321,"Hanoi, Vietnam"
+140,"['Nur Mohd Azriyn Ayub [8]', 'Jagdish Singh', 'Carlos Antonie Cayanan', 'Philip Joper Escueta']","['[MAS] ', '[MAS] ', '[PHI] ', '[PHI] ']","['21-16', '21-14']",MD,20170321,"Hanoi, Vietnam"
+141,"['Altof Barriq', 'Reinard Dhanriano', 'Dao Manh Thang', 'Le Ha Anh']","['[INA] ', '[INA] ', '[VIE] ', '[VIE] ']","['21-16', '21-15']",MD,20170321,"Hanoi, Vietnam"
+142,"['Yoshiki Tsukamoto', 'Shunsuke Yamamura', 'Lee Jian Liang', 'Wong Guang Liang Jason']","['[JPN] ', '[JPN] ', '[SGP] ', '[SGP] ']","['21-12', '21-14']",MD,20170321,"Hanoi, Vietnam"
+143,"['Satwiksairaj Rankireddy [6]', 'Chirag Shetty', 'An Junchen', 'Liu Haichao']","['[IND] ', '[IND] ', '[CHN] ', '[CHN] ']","['21-13', '21-16']",MD,20170321,"Hanoi, Vietnam"
+144,"['Irfan Fadhilah', 'Rian Swastedian', 'Bao Minh', 'Duong Bao Duc']","['[INA] ', '[INA] ', '[VIE] ', '[VIE] ']","['21-17', '21-16']",MD,20170321,"Hanoi, Vietnam"
+145,"['Keiichiro Matsui', 'Masato Takano', 'Calvin Kristanto', 'Bagas Maulana']","['[JPN] ', '[JPN] ', '[INA] ', '[INA] ']",[],MD,20170321,"Hanoi, Vietnam"
+146,"['Lee Jian Yi', 'Lim Zhen Ting', 'Lee Fang-Chih', 'Lee Fang-Jen']","['[MAS] ', '[MAS] ', '[TPE] ', '[TPE] ']","['21-13', '21-15']",MD,20170321,"Hanoi, Vietnam"
+147,"['Tinn Isriyanet [7]', 'Kittisak Namdash', 'Le Van Tu', 'Luong Tuan Huy']","['[THA] ', '[THA] ', '[VIE] ', '[VIE] ']","['21-16', '21-17']",MD,20170321,"Hanoi, Vietnam"
+148,"['Aaron Chia', 'Tan Jinn Hwa', 'An Thanh Huy', 'Pham Trung Luan']","['[MAS] ', '[MAS] ', '[VIE] ', '[VIE] ']","['21-13', '21-14']",MD,20170321,"Hanoi, Vietnam"
+149,"['Hendra Aprida Gunawan [2]', 'Markis Kido', 'Dang Quang Huy', 'Nguyen Duc Giang']","['[INA] ', '[INA] ', '[VIE] ', '[VIE] ']","['21-11', '21-16']",MD,20170321,"Hanoi, Vietnam"
+150,"['Nguyen Thuy Linh [6]', 'Manassanan Lerthattasin']","['[VIE] ', '[THA] ']","['21-11', '21-19']",WS,20170321,"Hanoi, Vietnam"
+151,"['Chen Su Yu [3]', 'Nuntakarn Aimsaard']","['[TPE] ', '[THA] ']","['21-17', '21-15']",WS,20170321,"Hanoi, Vietnam"
+152,"['Vu Thi Trang (B) [1]', 'Maharani Sekar Batari']","['[VIE] ', '[INA] ']","['21-14', '21-10']",WS,20170321,"Hanoi, Vietnam"
+153,"['Asty Dwi Widyaningrum', 'Desandha Vegarani Putri']","['[INA] ', '[INA] ']","['15-21', '21-10', '21-13']",WS,20170321,"Hanoi, Vietnam"
+154,"['Yeo Jia Min [4]', 'Ghaida Nurul Ghaniyu']","['[SGP] ', '[INA] ']","['21-16', '21-14']",WS,20170321,"Hanoi, Vietnam"
+155,"['Rusydina Antardayu Riodingin [7]', 'Chananchida Jucharoen']","['[INA] ', '[THA] ']","['21-12', '16-21', '21-14']",WS,20170321,"Hanoi, Vietnam"
+156,"['Hung Yi-Ting', 'Gregoria Mariska Tunjung [5]']","['[TPE] ', '[INA] ']","['21-14', '19-21', '22-20']",WS,20170321,"Hanoi, Vietnam"
+157,"['Pornpawee Chochuwong [2]', 'Sri Fatmawati']","['[THA] ', '[INA] ']","['21-16', '21-19']",WS,20170321,"Hanoi, Vietnam"
+158,"['Shi Longfei', 'Tang Pingyang', 'Do Tuan Duc [1]', 'Pham Nhu Thao']","['[CHN] ', '[CHN] ', '[VIE] ', '[VIE] ']","['21-10', '8-21', '21-16']",XD,20170321,"Hanoi, Vietnam"
+159,"['Zhuge Lukai', 'Pan Beibei', 'Lukhi Apri Nugroho [8]', 'Ririn Amelia']","['[CHN] ', '[CHN] ', '[INA] ', '[INA] ']","['21-19', '11-21', '21-17']",XD,20170321,"Hanoi, Vietnam"
+160,"['Wang Sijie', 'Ni Bowen', 'Pham Trung Luan', 'Pham Ngoc Bich']","['[CHN] ', '[CHN] ', '[VIE] ', '[VIE] ']","['21-17', '21-8']",XD,20170321,"Hanoi, Vietnam"
+161,"['Wong Guang Liang Jason', 'Putri Sari Dewi Citra', 'Lin Chia Hsuan', 'Lee Wei Tzu']","['[SGP] ', '[SGP] ', '[TPE] ', '[TPE] ']","['21-11', '21-16']",XD,20170321,"Hanoi, Vietnam"
+162,"['Rian Swastedian [5]', 'Masita Mahmudin', 'Hoo Pang Ron', 'Peck Yen Wei']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['21-18', '21-13']",XD,20170321,"Hanoi, Vietnam"
+163,"['Tinn Isriyanet', 'Pacharapun Chochuwong', 'Yantoni Edy Saputra [4]', 'Marsheilla Gischa Islami']","['[THA] ', '[THA] ', '[INA] ', '[INA] ']","['22-24', '21-6', '21-19']",XD,20170321,"Hanoi, Vietnam"
+164,"['Irfan Fadhilah [2]', 'Weni Anggraini', 'Alvin Morada', 'Alyssa Yasbel Leonardo']","['[INA] ', '[INA] ', '[PHI] ', '[PHI] ']","['22-20', '21-19']",XD,20170321,"Hanoi, Vietnam"
+165,"['Andika Ramadiansyah', 'Mychelle Crhystine Bandaso', 'Bimo Adi Prakoso [6]', 'Jin Yujia']","['[INA] ', '[INA] ', '[SGP] ', '[SGP] ']","['22-20', '21-16']",XD,20170321,"Hanoi, Vietnam"
+166,"['Nguyen Tien Minh [1]', 'Shesar Hiren Rhustavito [10]']","['[VIE] ', '[INA] ']","['21-11', '21-15']",MS,20170321,"Hanoi, Vietnam"
+167,"['Enzi Shafira', 'Chen Chun-Wei [16]']","['[INA] ', '[TPE] ']","['21-15', '21-19']",MS,20170321,"Hanoi, Vietnam"
+168,"['Suppanyu Avihingsanon [3]', 'Fikri Ihsandi Hadmadi [9]']","['[THA] ', '[INA] ']","['21-4', '22-20']",MS,20170321,"Hanoi, Vietnam"
+169,"['Yang Chih Chieh', 'Wisnu Yuli Prasetyo']","['[TPE] ', '[INA] ']","['14-21', '24-22', '21-18']",MS,20170321,"Hanoi, Vietnam"
+170,"['Panji Ahmad Maulana [4]', 'Siril Verma [12]']","['[INA] ', '[IND] ']","['21-17', '21-14']",MS,20170321,"Hanoi, Vietnam"
+171,"['Hsueh Hsuan Yi [6]', 'Pham Cao Cuong']","['[TPE] ', '[VIE] ']","['18-21', '21-11', '21-18']",MS,20170321,"Hanoi, Vietnam"
+172,"['Khosit Phetpradab [2]', 'Ryotaro Maruo']","['[THA] ', '[JPN] ']","['21-14', '21-17']",MS,20170321,"Hanoi, Vietnam"
+173,"['Chayanit Chaladchalam [1]', 'Phataimas Muenwong', 'Chen Szu Yu', 'Kuo Yu Wen']","['[THA] ', '[THA] ', '[TPE] ', '[TPE] ']","['20-22', '21-13', '21-19']",WD,20170321,"Hanoi, Vietnam"
+174,"['Lin Chia Hsuan', 'Chico Aura Dwi Wardoyo']","['[TPE] ', '[INA] ']","['21-16', '11-21', '21-17']",MS,20170321,"Hanoi, Vietnam"
+175,"['Erina Honda', 'Nozomi Shimizu', 'Lim Chiew Sien [5]', 'Teoh Mei Xing']","['[JPN] ', '[JPN] ', '[MAS] ', '[MAS] ']","['21-16', '21-13']",WD,20170321,"Hanoi, Vietnam"
+176,"['Rahmadhani Hastiyanti Putri', 'Vania Arianti Sukoco', 'Ni Bowen', 'Pan Beibei']","['[INA] ', '[INA] ', '[CHN] ', '[CHN] ']","['21-15', '15-21', '23-21']",WD,20170321,"Hanoi, Vietnam"
+177,"['Ririn Amelia [3]', 'Cheong Anna Ching Yik', 'Nguyen Thi Phuong Ha', 'Nguyen Thuy Linh']","['[INA] ', '[MAS] ', '[VIE] ', '[VIE] ']","['21-19', '17-21', '21-11']",WD,20170321,"Hanoi, Vietnam"
+178,"['Putri Sari Dewi Citra [4]', 'Jin Yujia', 'Le Thu Huyen', 'Pham Nhu Thao']","['[SGP] ', '[SGP] ', '[VIE] ', '[VIE] ']","['24-26', '21-17', '21-16']",WD,20170321,"Hanoi, Vietnam"
+179,"['Weni Anggraini [7]', 'Masita Mahmudin', 'Jiang Binbin', 'Tang Pingyang']","['[INA] ', '[INA] ', '[CHN] ', '[CHN] ']","['21-14', '21-19']",WD,20170321,"Hanoi, Vietnam"
+180,"['Joyce Choong', 'Tee Jing Yi', 'Chen Su Yu', 'Tang Wan Yi']","['[MAS] ', '[MAS] ', '[TPE] ', '[TPE] ']","['21-14', '21-8']",WD,20170321,"Hanoi, Vietnam"
+181,"['Pitha Haningtyas Mentari', 'Virni Putri', 'Ong Ren-Ne', 'Wong Jia Ying Crystal']","['[INA] ', '[INA] ', '[SGP] ', '[SGP] ']","['21-17', '16-21', '21-10']",WD,20170321,"Hanoi, Vietnam"
+182,"['Lukhi Apri Nugroho', 'Tedi Supriadi', 'Shia Chun Kang', 'Riky Widianto']","['[INA] ', '[INA] ', '[MAS] ', '[INA] ']","['17-21', '24-22', '21-19']",MD,20170321,"Hanoi, Vietnam"
+183,"['Trawut Potieng [5]', 'Nanthakarn Yordphaisong', 'Akbar Bintang Cahyono', 'Giovani Dicky Oktavan']","['[THA] ', '[THA] ', '[INA] ', '[INA] ']","['21-19', '21-13']",MD,20170321,"Hanoi, Vietnam"
+184,"['Do Tuan Duc', 'Pham Hong Nam', 'Arjun M.R. [4]', 'Ramchandran Shlok']","['[VIE] ', '[VIE] ', '[IND] ', '[IND] ']","['21-23', '21-12', '24-22']",MD,20170321,"Hanoi, Vietnam"
+185,"['Nur Mohd Azriyn Ayub [8]', 'Jagdish Singh', 'Altof Barriq', 'Reinard Dhanriano']","['[MAS] ', '[MAS] ', '[INA] ', '[INA] ']","['21-16', '21-15']",MD,20170321,"Hanoi, Vietnam"
+186,"['Satwiksairaj Rankireddy [6]', 'Chirag Shetty', 'Yoshiki Tsukamoto', 'Shunsuke Yamamura']","['[IND] ', '[IND] ', '[JPN] ', '[JPN] ']","['21-17', '21-16']",MD,20170321,"Hanoi, Vietnam"
+187,"['Irfan Fadhilah', 'Rian Swastedian', 'Keiichiro Matsui', 'Masato Takano']","['[INA] ', '[INA] ', '[JPN] ', '[JPN] ']","['22-20', '21-14']",MD,20170321,"Hanoi, Vietnam"
+188,"['Tinn Isriyanet [7]', 'Kittisak Namdash', 'Lee Jian Yi', 'Lim Zhen Ting']","['[THA] ', '[THA] ', '[MAS] ', '[MAS] ']","['22-24', '21-19', '21-19']",MD,20170321,"Hanoi, Vietnam"
+189,"['Hendra Aprida Gunawan [2]', 'Markis Kido', 'Aaron Chia', 'Tan Jinn Hwa']","['[INA] ', '[INA] ', '[MAS] ', '[MAS] ']","['21-19', '10-21', '21-11']",MD,20170321,"Hanoi, Vietnam"
+190,"['Nguyen Thuy Linh [6]', 'Chen Su Yu [3]']","['[VIE] ', '[TPE] ']","['21-19', '21-16']",WS ,20170321,"Hanoi, Vietnam"
+191,"['Nguyen Tien Minh [1]', 'Enzi Shafira']","['[VIE] ', '[INA] ']","['21-19', '11-21', '21-17']",MS ,20170321,"Hanoi, Vietnam"
+192,"['Vu Thi Trang (B) [1]', 'Asty Dwi Widyaningrum']","['[VIE] ', '[INA] ']","['21-15', '21-14']",WS ,20170321,"Hanoi, Vietnam"
+193,"['Nur Mohd Azriyn Ayub [8]', 'Jagdish Singh', 'Do Tuan Duc', 'Pham Hong Nam']","['[MAS] ', '[MAS] ', '[VIE] ', '[VIE] ']","['21-12', '21-15']",MD ,20170321,"Hanoi, Vietnam"
+194,"['Hendra Aprida Gunawan [2]', 'Markis Kido', 'Tinn Isriyanet [7]', 'Kittisak Namdash']","['[INA] ', '[INA] ', '[THA] ', '[THA] ']","['21-17', '21-8']",MD ,20170321,"Hanoi, Vietnam"
+195,"['Irfan Fadhilah [2]', 'Weni Anggraini', 'Wang Sijie', 'Ni Bowen']","['[INA] ', '[INA] ', '[CHN] ', '[CHN] ']","['21-19', '21-16']",XD ,20170321,"Hanoi, Vietnam"
+196,"['Pornpawee Chochuwong [2]', 'Nguyen Thuy Linh [6]']","['[THA] ', '[VIE] ']","['21-14', '21-11']",WS ,20170321,"Hanoi, Vietnam"
+197,"['Nguyen Tien Minh [1]', 'Lin Chia Hsuan']","['[VIE] ', '[TPE] ']","['21-12', '21-12']",MS ,20170321,"Hanoi, Vietnam"
+198,"['Vu Thi Trang (B) [1]', 'Rusydina Antardayu Riodingin [7]']","['[VIE] ', '[INA] ']","['21-16', '21-16']",WS ,20170321,"Hanoi, Vietnam"
+199,"['Satwiksairaj Rankireddy [6]', 'Chirag Shetty', 'Hendra Aprida Gunawan [2]', 'Markis Kido']","['[IND] ', '[IND] ', '[INA] ', '[INA] ']","['16-21', '21-11', '21-18']",MD ,20170321,"Hanoi, Vietnam"
+200,"['Joyce Choong', 'Tee Jing Yi', 'Ririn Amelia [3]', 'Cheong Anna Ching Yik']","['[MAS] ', '[MAS] ', '[INA] ', '[MAS] ']","['21-13', '21-15']",WD ,20170321,"Hanoi, Vietnam"
+201,"['Khosit Phetpradab [2]', 'Yang Chih Chieh']","['[THA] ', '[TPE] ']","['21-16', '21-14']",MS ,20170321,"Hanoi, Vietnam"
+202,"['Erina Honda', 'Nozomi Shimizu', 'Rahmadhani Hastiyanti Putri', 'Vania Arianti Sukoco']","['[JPN] ', '[JPN] ', '[INA] ', '[INA] ']","['23-21', '23-21']",WD ,20170321,"Hanoi, Vietnam"
+203,"['Trawut Potieng [5]', 'Nanthakarn Yordphaisong', 'Nur Mohd Azriyn Ayub [8]', 'Jagdish Singh']","['[THA] ', '[THA] ', '[MAS] ', '[MAS] ']","['18-21', '21-17', '21-18']",MD ,20170321,"Hanoi, Vietnam"
+204,"['Shi Longfei', 'Tang Pingyang', 'Andika Ramadiansyah', 'Mychelle Crhystine Bandaso']","['[CHN] ', '[CHN] ', '[INA] ', '[INA] ']","['17-21', '23-21', '21-17']",XD ,20170321,"Hanoi, Vietnam"
+205,"['Satwiksairaj Rankireddy [6]', 'Chirag Shetty', 'Trawut Potieng [5]', 'Nanthakarn Yordphaisong']","['[IND] ', '[IND] ', '[THA] ', '[THA] ']","['17-21', '21-9', '21-15']",MD ,20170321,"Hanoi, Vietnam"
+206,"['Pornpawee Chochuwong [2]', 'Vu Thi Trang (B) [1]']","['[THA] ', '[VIE] ']","['21-16', '21-17']",WS ,20170321,"Hanoi, Vietnam"
+207,"['Nguyen Tien Minh [1]', 'Khosit Phetpradab [2]']","['[VIE] ', '[THA] ']","['21-14', '21-17']",MS ,20170321,"Hanoi, Vietnam"
+208,"['Erina Honda', 'Nozomi Shimizu', 'Joyce Choong', 'Tee Jing Yi']","['[JPN] ', '[JPN] ', '[MAS] ', '[MAS] ']","['21-14', '19-21', '21-14']",WD ,20170321,"Hanoi, Vietnam"
+209,"['Shi Longfei', 'Tang Pingyang', 'Irfan Fadhilah [2]', 'Weni Anggraini']","['[CHN] ', '[CHN] ', '[INA] ', '[INA] ']","['21-16', '19-21', '21-15']",XD ,20170321,"Hanoi, Vietnam"
